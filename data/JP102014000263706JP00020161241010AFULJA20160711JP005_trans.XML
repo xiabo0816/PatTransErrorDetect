@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000263706JP00020161241010AFULJA20160711JP005.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016124101" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016124101</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016124101</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000263706</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014263706</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>43</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B43K  21/00        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>43</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>027</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B43K  21/027       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>43</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>22</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B43K  21/22        20060101ALN20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">B43K21/00 H</business:FI>
+      <business:FI type="secondary">B43K21/027 A</business:FI>
+      <business:FI type="additional">B43K21/22 E</business:FI>
+      <business:FClass>
+        <business:FTerm>2C353FA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C353FC13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C353FE15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2C353</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">自动铅笔</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ぺんてる株式会社</base:Name>
+            <base:RegisteredNumber>000005511</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都中央区日本橋小網町7番2号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>横山  昭人</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>埼玉県吉川市川藤125  ぺんてる株式会社  吉川工場内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>安孫子  大慶</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>埼玉県吉川市川藤125  ぺんてる株式会社  吉川工場内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>22</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>已知有在配设于轴筒的前方且向前后滑动的滑动部件内配设芯保持部件,并且压入有芯导向部件的自动铅笔。 但是,由于芯导向构件与滑动构件一体地滑动,因此若对书写笔芯或滑动构件施加负荷,则因周向的间隙而产生的滑动构件的轴芯的偏移会传递至芯保持构件、芯导向构件,书写笔芯在芯保持构件与夹紧体之间挠曲,书写笔芯有可能破损而无法书写。 一种自动铅笔,通过配设于轴筒内的夹紧体进行笔芯的把持、送出,在所述轴筒的前方配设有能够前后移动的滑动构件,其特征在于,在所述滑动构件内配设芯保持构件,并且在该芯保持构件与所述夹紧体之间配设芯导向构件,将该芯导向构件相对于轴筒固定。 图4</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="50" file="2016124101_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及在轴筒的前方配设有能够前后移动的滑动部件的自动铅笔。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">以往,在具有配设于前构件前方且能够前后移动的滑动构件的自动铅笔中,已知有如下构造：利用夹头体进行笔芯的把持、送出,在从前构件前方突出并且向前后滑动的滑动构件内配设有保持笔芯的芯保持构件。 由此,能够进行在携带时将滑动构件收纳于前构件内、滑动构件配合书写笔芯的磨损而后退、始终一边保护书写笔芯一边进行书写的管书写等。 而且,通过使用允许书写笔芯的前进但阻止书写笔芯的后退的夹紧体,能够进行将滑动部件按压于纸面而送出书写笔芯的前端敲击、能够维持书写笔芯位于书写部前端而能够进行管书写的状态的连续书写等,通过使滑动部件能够前后滑动,能够附加各种功能。 但是,为了使滑动构件前后移动,在芯保持构件与夹紧体之间需要在轴线方向上较长的空间,因此在送出芯时难以将书写芯插通至芯保持构件。</base:Paragraphs>
+      <base:Paragraphs num="0003">作为其对策的一例,公开了一种自动铅笔（日本特开2009-56630号公报（专利文献1））,其通过夹持体的前后运动来进行书写笔芯的送出,在从前口（前构件）前方突出并且向前后滑动的滑动件（滑动构件）内配设有保持书写笔芯的笔芯按压件（笔芯保持构件）,在比所述笔芯保持构件靠后方侧的滑动构件内压入有环状止动件（笔芯导向构件）。</base:Paragraphs>
+      <base:Paragraphs num="0004">这样,通过在芯保持构件与夹头体之间配设芯导向构件,在用于使滑动构件前后移动的空间中,能够填埋从夹头体到芯保持构件的空间,容易插通书写笔芯。 另外,在芯插通后,能够保护书写芯,能够防止书写芯的破损。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2009－56630号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">但是,在所述专利文献1所记载的构造中,芯导向部件被压入滑动部件,与滑动部件一体地前后运动,因此,在对书写芯或滑动部件施加了书写压力所产生的负荷时,由于为了使滑动部件滑动而设置的周向的间隙而产生的滑动部件的轴芯的偏移传递至芯导向部件。 而且,配设于滑动构件内的芯保持构件中的轴芯的偏离也直接传递至笔芯,笔芯在芯保持构件与夹紧体之间挠曲,有可能导致笔芯破损而无法书写。</base:Paragraphs>
+        <base:Paragraphs num="0007">另外,不限于该专利文献1所记载的构造,在如上述那样设为滑动部件能够前后移动的构造的情况下,不仅在书写时,在对书写芯或滑动部件施加了负荷时,也有可能产生同样的课题。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">本发明是鉴于上述问题点而完成的,其主旨在于,通过配设于轴筒内的夹紧体进行笔芯的把持、送出,在所述轴筒的前方配设有能够前后移动的滑动构件,在所述滑动构件内配设芯保持构件,并且在该芯保持构件与所述夹紧体之间配设芯导向构件,将该芯导向构件相对于轴筒固定。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0009">本发明能够提供一种自动铅笔,其通过配设于轴筒内的夹紧体进行笔芯的把持、送出,在所述轴筒的前方配设有能够前后移动的滑动构件,在所述滑动构件内配设芯保持构件,并且在该芯保持构件与所述夹紧体之间配设芯导向构件,将该芯导向构件相对于轴筒固定,由此能够防止笔芯的破损,能够良好地进行书写。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0010">
+        <base:FigureReference num="0001">图0001是根据第一实施例的当附接帽13时整个产品的外观图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是根据第一实施例的当帽13未附接时的整个产品的外部视图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是从图1的状态沿周向旋转了90度时的纵剖视图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是图3中的前方部放大图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是图3中的后端敲击时的前方部放大图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是图3中的前端敲击时的前方部放大图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是图3中的残芯排出时的前方部放大图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是第一实施例的滑动部件4的外观立体图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是第一实施例的滑动构件4的半剖视图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是第1实施例的芯导向部件50的外观立体图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是第1实施例的芯导向部件50的半剖视图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012是第一实施例的卡盘体17的外观立体图。</base:FigureReference>
+        <base:FigureReference num="0013">图0013是变形例1的芯导向部件50的半剖视图。</base:FigureReference>
+        <base:FigureReference num="0014">图0014是第二实施例的产品整体的纵剖视图。</base:FigureReference>
+        <base:FigureReference num="0015">图0015是图14中的前方部放大图。</base:FigureReference>
+        <base:FigureReference num="0016">图0016是图14中的A-A线剖视图。</base:FigureReference>
+        <base:FigureReference num="0017">图0017是图14中的滑动部件57收纳时的前方部放大图。</base:FigureReference>
+        <base:FigureReference num="0018">图0018是第二实施例的滑动部件57的外观立体图。</base:FigureReference>
+        <base:FigureReference num="0019">图0019是第二实施例的滑动构件57的半剖视图。</base:FigureReference>
+        <base:FigureReference num="0020">图0020是第2实施例的芯导向部件79的外观立体图。</base:FigureReference>
+        <base:FigureReference num="0021">图0021是第2实施例的芯导向部件79的半剖视图。</base:FigureReference>
+        <base:FigureReference num="0022">图0022是第2实施例的卡定件64的半剖视图。</base:FigureReference>
+        <base:FigureReference num="0023">图0023是第2实施例的中继构件67的外观立体图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0011">对作用进行说明。 本发明涉及： 利用配设于轴筒内的夹紧体进行笔芯的把持、送出, 在所述轴筒的前方配设有能够前后移动的滑动构件的自动铅笔中,在所述滑动构件内配设有芯保持构件,并且在该芯保持构件与所述夹紧体之间配设有芯导向构件,将该芯导向构件相对于轴筒固定,由此,芯导向构件容易使轴芯相对于轴筒一致,在对笔芯或滑动构件施加了负荷时,由于为了使滑动构件滑动而设置的周向的间隙而产生的轴芯的偏移难以向芯导向构件传递,因此,能够将与配设于滑动构件内的芯保持构件的轴芯的偏移同时产生的笔芯的挠曲控制为使轴芯与轴筒对齐。 因此,能够提供一种自动铅笔,其能够防止对滑动部件施加了负荷时的笔芯的破损,能够良好地进行书写。</base:Paragraphs>
+      <base:Paragraphs num="0012">在图1～图12中示出本发明的第1实施例,进行说明。 另外,以下,将后述的前部件5侧称为前方,将按压部件41侧称为后方。</base:Paragraphs>
+      <base:Paragraphs num="0013">在轴筒1的前方,具有被压入固定于内部的前端环2和从该前端环2的内部位于前方且被前端弹簧3向前方施力而能够前后移动的滑动部件4的前部件5通过螺纹螺合而与由前轴6和后轴7构成的轴筒主体8连结。 在所述轴筒主体8内部配设有芯送出单元9。 另外,通过以配设于后述的芯送出单元9前方的夹紧件组10内包于前部构件5的方式配设芯送出单元9,前部构件5与夹紧件组10的轴向上的中心线成为同轴,能够从芯送出单元9到前部构件5准确地引导书写笔芯L,能够进行良好的芯的送出。 另外,后述的芯导向部件50被前端环2后端和卡盘组10前端夹持,将前方内包于滑动部件4。 在形成于后轴7后方外周部的缩径部11嵌入有夹子12,在轴筒1前方,在前端配设有软质部件14的帽13以能够拆装的方式嵌合于前部件5。 本实施例中的软质构件14由热塑性弹性体形成,但也可以由聚氨酯、发泡苯乙烯、硅酮等成形,只要是书写芯能够插入的硬度,则使用的材质没有特别限定。</base:Paragraphs>
+      <base:Paragraphs num="0014">芯送出单元9在前方具有卡盘组10,在该卡盘组10设置形成朝向前方扩径的锥部16的环15,在该环15内部配设有卡盘体17,在形成于该卡盘体17外周部的滚珠支承座18与所述锥部16之间插入有滚珠25。 在此,所述卡盘体17被狭缝19分割为多个具有芯把持部20的弹性片21,并且在所述弹性片21的前端面22具有前端部23,该前端部23以朝向前方沿轴向笔直地突出的方式形成。 另外,通过在形成于所述夹紧体17的后端的外凸缘部24与环15内层之间配设的夹紧弹簧26,对夹紧体17向后方施力,由此在环15与夹紧体17之间经由滚珠25产生楔效应,能够允许书写笔芯的前进但阻止后退。 在环15的前方,通过铆接固定有在内部具有供所述卡盘体17的前端部23滑动的滑动孔28的卡盘止动件27,使得卡盘体17及滚珠25不会向前方脱落。 本实施例中的卡盘体17以及卡盘止动件27由黄铜形成,但也可以由铁、不锈钢、铝合金等金属材料、聚缩醛树脂(POM)、聚碳酸酯树脂(PC)成形,使用的材质没有特别限定。</base:Paragraphs>
+      <base:Paragraphs num="0015">在所述卡盘组10后方压入有卡止件29,在该卡止件29内部以使大径部31后端面与卡止件29前端面抵接的方式内包有在前端具有大径部31的中继构件30。 在中继构件30内部,将插通的书写笔芯为一根以上且小于两根的内径的芯导管33从中继构件30后方配设至夹紧体17的芯把持部20附近并引导书写笔芯L,由此,从向中继构件30后方压入并收纳书写笔芯L的笔芯箱34至夹紧体17的芯把持部20,能够可靠地使书写笔芯L插通而不会将书写笔芯L夹在夹紧体17的狭缝19中。 该结构在书写芯的芯径细且卡盘体的狭缝宽度变得比可使用的芯径宽的可能性高的情况下,具体而言,对于公称直径为0.3、0.2或其以下的公称直径的芯特别有效。 另外,通过在中继构件30后方内径部且在芯导管33与笔芯容器34之间以仅一根书写笔芯通过且比芯导管33内径小的方式设置芯插通孔32,能够从笔芯容器34至芯导管33可靠地仅插通一根书写笔芯。 在此,卡盘组10以及卡定件29、中继构件30经由在前方外周部具有最大径部36的型芯35,被配设于芯罐34与型芯35之间的敲击弹簧37向后方施力。 另外,在前方固定有金属管39的橡皮承接部件38以由所述金属管39覆盖芯罐34内表面的方式压插于芯罐34后端,在所述橡皮承接部件38装卸自如地安装有橡皮40以及按压部件41。 在组装时,将从前方插入有芯送出单元9的轴筒主体8和将后述的芯引导构件50装卸自如地插入于所述顶端环2的前构件5螺合。 在螺合完成时,所述芯送出单元9的卡盘组10与所述芯导向构件50抵接,并且芯导向构件50与被压入到前构件5的前端环2抵接,另外,卡盘组10中的型芯35的最大径部36后端与前轴6内级抵接。 此时,芯导向构件50和卡盘组10被前构件5和前轴6夹持,成为相对于轴筒1以轴芯对齐的方式固定的状态。</base:Paragraphs>
+      <base:Paragraphs num="0016">对所述滑动构件4进行详细说明。 以内形状从前方向后方扩径的方式形成第1内径部45、第2内径部46、第3内径部47,在第1内径部45压入固定有不锈钢制的管42,从第2内径部46到第3内径部47前方压入固定有具有芯保持部44的芯保持部件43。 此时,通过在第一内径部45前端设置扩径部48,以便在从前方压入管时能够进行引导,从而容易使滑动部件4与管42的轴芯对齐。 不限于此,也可以将管42与滑动部件4一体地形成。 而且,通过将芯保持部件43的前方外周面压入第2内径部46,能够使芯保持部44内径缩径。 由此,能够使在成型芯保持部件43时用于形成芯保持部44的中心销的直径比实际使用时的芯保持部44内径大,中心销的强度增加,能够进行稳定的生产。 该结构在书写芯的芯径细而难以形成芯保持部的情况下,具体而言,对于公称直径为0.3、0.2或其以下的公称直径的芯特别有效。 而且,通过向第3内径部47前方压入芯保持部件43后方,从而芯保持部件43不容易从滑动部件4脱落。 在滑动部件4的外形中,在中间部形成有朝向外侧突出的凸部49,通过利用该凸部49的后端承接前端弹簧3,从而将滑动部件4相对于前部件5向前方施力。 另外,所述前端弹簧3配设于滑动部件4的凸部后端与所述前端环2的内台阶部56之间。</base:Paragraphs>
+      <base:Paragraphs num="0017">接着,对芯导向部件50进行详细说明。 内径部51形成为从前方到后方能够使用的书写芯为1根以上且小于2根。 本实施例中的芯导向构件50以从前方向后方整体为相同直径的方式设置有内径部51,但不限于此,只要是能够使用的书写笔芯1根以上且小于2根的内径,则也可以将供书写笔芯L从夹头体17插入的后方侧设为大径,利用台阶部、锥部以使供书写笔芯L从芯导向构件50向芯保持构件43插通的前方侧为小径的方式连续设置,或者将整体从前方向后方形成为扩开锥状,使书写笔芯容易插通。 在外形上,第1外径部52从前方形成为比所述滑动部件4的第3内径部47稍小,在所述第1外径部后方,第2外径部53形成为比第1外径部大且比前端环2后方的内径稍小。 并且,在第二外径部后方以朝向外侧突出的方式形成有第三外径部54。 芯导向构件50在组装时,将从前方插入有芯送出单元9的轴筒主体8和以所述第3外径部54抵接于前端环2后端的方式拆装自如地插入有芯导向构件50的前构件5螺合。 在螺合完成时,所述芯送出单元9的卡盘组10与所述芯导向构件50抵接,并且芯导向构件50的第3外径部54与被压入到前构件5的前端环2后端抵接,另外,卡盘组10中的型芯35的最大径部36后端与前轴6内级抵接。 此时,成为芯导向构件50和卡盘组10被前构件5和前轴6夹持的状态,进而,成为所述第三外径部54被前端环2和卡盘组10夹持的状态,芯导向构件50相对于轴筒1以轴芯对齐的方式被固定。 而且,通过利用滑动部件4的第3内径部47内包芯导向部件50的第1外径部52,能够将芯导向部件50的内径部51配置到芯保持部件43附近,并且容易使滑动部件4与芯导向部件50的轴芯对齐。 另外,通过以顶端环2的内径将第2外径部53内包,易于使前构件5和芯导向构件50的轴芯对齐。 作为最大径部的第三外径部54被压入到前构件5的前端环2和所述卡盘组10夹持,因此在第三外径部54相对于轴筒1固定,即使在对芯导向构件50施加了负荷时也难以移动,容易保持轴筒1与轴芯一致的状态。</base:Paragraphs>
+      <base:Paragraphs num="0018">在此,对通过从后方按压（后端敲击）所述按压构件41而进行的书写笔芯的送出操作进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0019">在送出第一根书写笔芯L时,首先通过使轴筒1前方朝向铅垂方向,收纳于笔芯容器34的书写笔芯L因自重而下落至夹紧体17中的弹性片21的笔芯把持部20。 如上所述,通过形成于芯导管33及中继构件30的芯插通孔32,能够将一根书写笔芯L可靠地插通至夹紧体17的笔芯把持部20后端。</base:Paragraphs>
+      <base:Paragraphs num="0020">接着,当开始将按压部件41向轴筒1前方方向按压时,被压入到该笔芯容器34前方的中继部件30也与笔芯容器34一起前进。 此时,卡盘组10相对于轴筒1固定,因此仅芯罐34和中继构件30能够前进,相对于卡盘组10相对地前进。</base:Paragraphs>
+      <base:Paragraphs num="0021">若继续按压部件41的按压,则中继部件30的前端按压卡盘体17的后端,卡盘体17前进。 然后,卡盘体17继续前进,在解除了滚珠25与环15的楔效应的时刻,卡盘体17被扩开。 在该时刻,书写笔芯L自重下落至滑动部件4内的笔芯保持部件43的笔芯保持部44后端。 此时,通过在芯保持部件43与夹紧体17之间配设芯导向部件50,能够将书写笔芯从夹紧体17顺利地插通到芯保持部件43。 基于按压部件41的按压的中继部件30和笔芯容器34的前进在笔芯容器34前端与卡止件29后端抵接的时刻结束。 此外,后端敲击中的可按压量设为卡盘体17不与卡盘止动件27后端抵接的量,不对卡盘体17施加负荷,从而能够防止卡盘体17的变形、疲劳。</base:Paragraphs>
+      <base:Paragraphs num="0022">当解除向按压部件41的按压时,通过所述敲击弹簧37的向后方的施力,中继部件30和笔芯箱34后退,由此向卡盘体17的按压也被解除,通过卡盘弹簧26的向后方的施力,卡盘体17闭合,产生楔效应,因此卡盘体17成为笔芯把持状态。 然后,中继构件30和芯罐34进一步后退,中继构件30的大径部31后端与卡定件29前端抵接,全部的后退结束。 在这一系列的动作期间,滑动部件4被前端弹簧3向前方施力,停止在最前进位置。</base:Paragraphs>
+      <base:Paragraphs num="0023">在后端敲击结束后,通过将从前构件5突出的管42按压于纸面的前端敲击,使滑动构件4相对于由夹紧体17把持的书写笔芯L相对地后退,由此能够使书写笔芯L插通于笔芯保持构件43。 滑动部件4的后退在滑动部件4后端与芯导向部件50的第2外径部53前端抵接的时刻结束。 此时,在芯保持部件43后端与芯导向部件50之间设置空间,使芯保持部件43后端不与芯导向部件50的前端抵接,不向芯保持部件43施加负荷,从而能够防止芯保持部件43的变形。 而且,当使管42从纸面离开时,夹头体17允许书写笔芯L的前进,因此,芯保持部件43在保持书写笔芯L的状态下与滑动部件4一起通过前端弹簧3前进,在书写笔芯L插通于芯保持部件43的状态下,滑动部件4再次返回到最前进位置。</base:Paragraphs>
+      <base:Paragraphs num="0024">然后,通过反复进行基于前端敲击的滑动构件4的前后移动,书写笔芯L到达管42前端,成为始终能够进行一边保护书写笔芯L一边进行书写的管书写的状态。 而且,通过前端敲击使书写笔芯L插通,由此防止书写笔芯L比管42前端向前方突出,因此能够防止从管42前端向前方的书写笔芯L的破损。</base:Paragraphs>
+      <base:Paragraphs num="0025">在书写时,与书写引起的书写笔芯L的磨损一起,由于笔压,管42被纸面按压而向后方后退,因此能够持续书写直至滑动部件4后端与芯导向部件50的第二外径部53前端抵接,当使管42从纸面离开时,滑动部件4通过所述前端弹簧3前进。 通过与能够以允许笔芯的前进但阻止后退的方式把持笔芯的夹紧体17并用,在利用前端弹簧3使滑动构件4前进时,能够将保持于笔芯保持构件43的笔芯L始终拔出至管42的前端,因此即使不换手而使按压构件41进行后端敲击,笔芯L也能够维持书写状态,因此能够进行连续的书写直至笔芯L成为从夹紧体17离开的剩余笔芯状态。</base:Paragraphs>
+      <base:Paragraphs num="0026">能够进行基于前端敲击的芯的送出、管书写的结构在书写芯的芯径细的情况下,具体而言,对于公称直径为0.3、0.2或其以下的公称直径的芯特别有效。 这是因为,不使书写笔芯从管突出,能够在书写笔芯被管引导的状态下进行书写,即使在书写时的笔压变化、书写笔芯卡在纸面时也能够防止书写笔芯的折损。</base:Paragraphs>
+      <base:Paragraphs num="0027">继续进行连续的书写,书写笔芯L被滑动部件4拔出,在从夹紧体17的笔芯把持部20离开的时刻,书写笔芯L成为残芯状态。 成为残芯状态的书写笔芯L的排出方法通过将管42按压于配设于笔帽13前端的软质构件14来进行。</base:Paragraphs>
+      <base:Paragraphs num="0028">当将管42前端按压于软质构件14时,书写笔芯L与滑动构件4成为一体而开始后退。 若进一步推进按压,则书写笔芯L的后端与被夹紧弹簧26关闭的夹紧体17的前端抵接而控制后退,但滑动部件4能够滑动,因此书写笔芯L与基于按压的轴筒1的前进一起相对于滑动部件4相对地前进。 此时,书写笔芯L进入软质构件14内并被保持,但滑动构件4在与软质构件14抵接的状态下停止。</base:Paragraphs>
+      <base:Paragraphs num="0029">然后,当结束按压而使轴筒1从帽13离开时,书写笔芯L在保持于软质构件14的状态下被从滑动构件4拔出,剩余笔芯状态被解除。 而且,通过进行上述的基于后端敲击的卡盘体17的扩开以及前端敲击,成为能够再次书写的状态。</base:Paragraphs>
+      <base:Paragraphs num="0030">在第一实施例中, 通过配设于轴筒1内的夹紧体17进行书写笔芯L的把持、送出, 在所述轴筒1的前方配设有能够前后移动的滑动部件4的自动铅笔中,在所述滑动部件4内配设有芯保持部件43,并且在该芯保持部件43与所述夹紧体17之间配设有芯导向部件50,将该芯导向部件50相对于轴筒1固定,由此,芯导向部件50容易使轴芯相对于轴筒1一致,在对书写笔芯L或滑动部件4施加了负荷时,由于为了使滑动部件4滑动而设置的周向的间隙而产生的轴芯的偏移难以向芯导向部件50传递,因此,能够将与配设于滑动部件4内的芯保持部件43的轴芯的偏移同时产生的书写笔芯L的挠曲控制为使轴芯与轴筒1对准。 因此,能够防止对滑动构件4施加了负荷时的书写笔芯L的破损,能够提供能够良好地进行书写的自动铅笔。</base:Paragraphs>
+      <base:Paragraphs num="0031">另外,在本实施例中,通过前端环2和卡盘组10夹持芯导向部件50,并相对于轴筒1固定,但不限于此,也可以将芯导向部件50和前端环2形成为一体。 在该情况下,滑动部件4中的轴芯的偏离也难以向芯导向部件传递,因此通过将与配设于滑动部件4内的芯保持部件43中的轴芯的偏离同时产生的书写笔芯L的挠曲控制为使轴芯与轴筒1对准,能够提供一种能够防止书写笔芯L的破损并良好地进行书写的自动铅笔。 另外,通过这样做,能够削减部件数量。</base:Paragraphs>
+      <base:Paragraphs num="0032">在本实施例中,通过利用滑动部件4中的第3内径部47内包芯导向部件50中的第1外径部52,与书写中的书写压力相比,在如前端敲击时那样反复进行因对滑动部件4的比较弱的负荷引起的长距离的滑动时,芯导向部件50也对滑动部件4进行导向,以使滑动部件4与芯导向部件50的轴芯对齐。 因此,能够抑制滑动部件4的轴芯的偏移。 而且,通过前端环2和卡盘组10在两个部件之间的夹持而将芯导向构件50中的第三外径部54相对于轴筒1固定,由此,在施加了因滑动构件4的轴芯的偏移而受到的与轴芯方向垂直的方向的负荷时,能够向芯导向构件50前端面所抵接的前端环2和后端面所抵接的卡盘组10分散负荷。 因此,即使在施加了由书写中的书写压力、落下时的冲击等引起的较强的负荷的情况下,也能够抑制被夹持的部位处的芯导向部件的轴芯的偏移。 特别是,通过在卡盘体17附近且在芯导向部件50后方形成作为相对于轴筒1的固定部的第三外径部54,容易抑制卡盘体17附近的芯导向部件50的轴芯的偏移。 另外,通过分散所述负荷,能够抑制夹持芯导向部件50的部件的变形。 进而,除了组装变得容易且生产率也提高以外,芯导向部件50能够拆卸,在滑动部件4内积存有芯渣时也能够容易地除去。</base:Paragraphs>
+      <base:Paragraphs num="0033">接着,作为本实施例的变形例,如图13所示,也可以向芯导向部件50内径部51压入圆柱状管的内径调整部件55。 这样一来,相对于与芯导向部件50的轴芯方向垂直的方向的负荷的刚性提高,更容易保持芯导向部件50与轴筒1的轴芯一致的状态。 此外,内径调整构件55的外径保持不变,通过以能够使用的书写芯1根以上且小于2根的方式调整内径,能够提供与各种芯径对应的芯导向构件50。</base:Paragraphs>
+      <base:Paragraphs num="0034">接着,在图14～图23中示出本发明的第2实施例,进行说明。 第2实施例是在滑动部件57设置有滑动用狭缝76、进而在芯导向部件79设置有与所述滑动用狭缝卡合的突出部82的例子。 另外,以下,省略关于与第一实施例相同的结构的说明。</base:Paragraphs>
+      <base:Paragraphs num="0035">在轴筒1的前方,具有被压入固定于内部的前端环2和从该前端环2的内部位于前方且被前端弹簧3向前方施力而能够前后移动的滑动部件57的前部件5通过螺纹螺合而与由前轴6和后轴7构成的轴筒主体8连结。 在所述轴筒主体8内部配设有芯送出单元58。 另外,通过以配设于芯送出单元58前方的夹紧件组件10内包于前部构件5的方式配设芯送出单元58,前部构件5与夹紧件组件10的轴向上的中心线成为同轴,能够从芯送出单元58到前部构件5准确地引导书写笔芯L,能够进行良好的芯的送出。 另外,后述的芯导向部件79后端以与前端环2后端成为同一面的方式被压入该前端环2,在滑动部件57最前进的位置将前方内包于滑动部件57,在滑动部件57最后退的位置将整体内包于滑动部件57。 在形成于后轴7后方外周部的缩径部11嵌入有夹子12。</base:Paragraphs>
+      <base:Paragraphs num="0036">本实施例的芯送出单元58中的卡盘体17是能够允许芯的前进但阻止后退的与第一实施例相同的卡盘体。 在与具有该卡盘体17的第一实施例相同的卡盘组10后方,在内径部形成有呈在顶点具有平面部63的大致梯形形状的卡定突起61,在后方部具有被切口部60分割成两片的弹性片部59,压入有后端能够扩开的卡定件64。 在卡定件64内部,在前端形成有大径部83,使该大径部83后端面与所述卡定件64前端面抵接,并且在后方外周面内置有中继构件67,该中继构件67与所述卡合突起61卡合,设置有开口部66比形成于卡合突起61的平面部63的部件轴线方向的长度长的大致三角形状的卡合槽65。 通过如前述那样形成卡定件64和中继部件67,能够在对按压部件41进行按压的过程中使卡盘体17以及卡定件64与中继部件67以及芯罐34具有相对的动作的差。 通过将在中继构件67内部插通的书写笔芯为一根以上且小于两根的内径的芯导管33从中继构件67后方配设至夹紧体17的芯把持部20附近并引导书写笔芯L,能够使书写笔芯L从向中继构件67后方压入并收纳书写笔芯L的笔芯箱34至夹紧体17的芯把持部20可靠地插通,而不会将书写笔芯L夹在夹紧体17的狭缝19中。 该结构在书写芯的芯径细且卡盘体的狭缝宽度变得比可使用的芯径宽的可能性高的情况下,具体而言,对于公称直径为0.3、0.2或其以下的公称直径的芯特别有效。 另外,通过在中继构件67后方内径部且在芯导管33与笔芯容器34之间以仅一根书写笔芯通过且比芯导管33内径小的方式设置芯插通孔68,能够从笔芯容器34至芯导管33可靠地仅插通一根书写笔芯。 在此,卡盘组10及卡定件64、中继构件67经由在前方外周部具有最大径部36的型芯35,被配设于芯罐34与型芯35之间的敲击弹簧37向后方施力。 另外,在前方固定有金属管39的橡皮承接部件38以由所述金属管39覆盖芯罐34内表面的方式压插于芯罐34后端,在所述橡皮承接部件38装卸自如地安装有橡皮40以及按压部件41。</base:Paragraphs>
+      <base:Paragraphs num="0037">在组装第二实施例的自动铅笔时,将在型芯35最大径部36后方安装有缓冲弹簧69的芯送出单元58从前方插入轴筒主体8,将在前端环2压入有后述的芯导向部件79的前部部件5与所述轴筒主体8螺合。 此时,芯送出单元58被缓冲弹簧69向前方施力,在书写时施加了较高的笔压时,所述缓冲弹簧69收缩,由此缓和对书写笔芯L及滑动构件57的冲击。 另外,芯导向部件79通过压入前端环2而以轴芯与轴筒1对齐的方式被固定。</base:Paragraphs>
+      <base:Paragraphs num="0038">接着,对本实施例中的滑动构件57进行详细说明。 以内形状从前方到后方扩径的方式形成有第1内径部70、第2内径部71、第3内径部72,在第1内径部70压入固定有不锈钢制的管42,从第2内径部71到第3内径部72前方压入固定有具有芯保持部44的芯保持部件43。 此时,通过在第1内径部70前端设置扩径部73以在从前方压入管时能够进行引导,从而容易使滑动部件57与管42的轴芯对齐。 不限于此,也可以将管42与滑动部件57一体地形成。 而且,通过将芯保持部件43的前方外周面压入第2内径部71,能够使芯保持部44内径缩径。 由此,能够使在成型芯保持部件43时用于形成芯保持部44的中心销的直径比实际使用时的芯保持部44内径大,中心销的强度增加,能够进行稳定的生产。 该结构在书写芯的芯径细而难以形成芯保持部的情况下,具体而言,对于公称直径为0.3、0.2或其以下的公称直径的芯特别有效。 而且,通过向第3内径部72前方压入芯保持部件43后方,从而芯保持部件43不容易从滑动部件4脱落。</base:Paragraphs>
+      <base:Paragraphs num="0039">在滑动部件4的外形中,在前方朝向内侧形成有嵌合槽74,安装有O型圈78。 另外,在所述嵌合槽74的后端侧形成有朝向外侧突出的凸部75,通过利用该凸部75的后端承接前端弹簧3,从而将滑动构件57相对于前构件5向前方施力。 在携带时,利用O型环78使滑动构件57嵌合于前端环2内部,停止前后的移动,从而能够防止意外的定心。 在再次使用时,利用芯送出单元58按压滑动构件57后端,解除O型圈78的嵌合,从而滑动构件57前进,能够进行书写。 另外,所述前端弹簧3配设于滑动部件57的凸部75后端与所述前端环2的内台阶部56之间。 而且,从滑动部件57的后端朝向前方将滑动用狭缝76沿周向等间隔地设置在两处,直至第3内径部72中的芯保持部件43压入部跟前,从而形成翼部77。 所述滑动用狭缝76只要能够以所述翼部77不会因施加于滑动部件57的负荷而变形的宽度形成即可,长度、个数能够适当决定。</base:Paragraphs>
+      <base:Paragraphs num="0040">接着,对本实施例中的芯导向部件79进行详细说明。 内径部80形成为使得从前方到后方能够使用的书写芯为1根以上且小于2根。 本实施例中的芯导向构件79以从前方向后方整体为相同直径的方式设置有内径部80,但不限于此,只要是能够使用的书写笔芯1根以上且小于2根的内径,则也可以将供书写笔芯L从夹紧体17插入的后方侧设为大径,利用台阶部、锥部,以使供书写笔芯L从芯导向构件50向芯保持构件43插通的前方侧为小径的方式连续设置,或者将整体从前方向后方形成为扩开锥状,使书写笔芯容易插通。 在外形上,以从主体部81朝向外侧突出的方式形成有突出部82,该主体部81形成为外径比所述滑动部件57的第三内径部72稍小。 该突出部82的宽度形成为比所述滑动用狭缝76的宽度稍小,由此,该突出部82与滑动部件57的滑动用狭缝76卡合,进而,主体部81被翼部77内包,并且滑动部件57在芯导向部件79后端以后也能够滑动。 在组装时,将在型芯35最大径部36后方安装有缓冲弹簧69的芯送出单元58从前方向轴筒主体8插入,使滑动构件57的滑动用狭缝76与芯导向构件79的突出部82对齐,并且将具有以后端成为同一面的方式压入于前端环2的芯导向构件79的前构件5与所述轴筒主体8螺合。 此时,芯导向部件79通过压入前端环2而以轴芯与轴筒1对齐的方式被固定。 而且,通过利用滑动部件57的翼部77内包芯导向部件79的主体部81,能够将芯导向部件79的内径部80配置到芯保持部件43附近,并且容易使滑动部件57与芯导向部件79的轴芯对齐。 由于突出部82被压入于前端环2,该前端环2被压入于前部件5,因此突出部82相对于轴筒1固定,即使在对芯导向部件79施加了负荷时也难以移动,容易保持轴芯与轴筒1对齐的状态。</base:Paragraphs>
+      <base:Paragraphs num="0041">在此,对通过从后方按压（后端敲击）所述按压构件41而进行的书写笔芯L的送出操作进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0042">在送出第一根书写笔芯L时,首先通过使轴筒1前方朝向铅垂方向,收纳于笔芯容器34的书写笔芯L因自重而下落至夹紧体17中的弹性片21的笔芯把持部20。 如上所述,通过形成于芯导管33及中继构件67的芯插通孔68,能够将一根书写笔芯L可靠地插通至夹紧体17的笔芯把持部20后端。</base:Paragraphs>
+      <base:Paragraphs num="0043">接着,当开始将按压部件41向轴筒1前方方向按压时,被压入到笔芯容器34前方的中继部件67也与笔芯容器34一起前进。 此时,形成于中继部件67的卡合槽65与形成于卡定件64的弹性片部59内表面的卡合突起61成为卡合状态,卡定件64以及压入固定于卡定件64前端的卡盘组10与中继部件67成为一体地前进,直至卡盘组10前端与前端环2后端抵接。 此时,如果是滑动构件57利用所述O型环78卡定于前端环2、整体收纳于前构件5内、或者一部分比前构件5的前端突出的状态,则卡盘组件10前端与滑动构件57后端抵接而将滑动构件57向前方推出,从而嵌合于前端环2内部的O型环78的嵌合解除,利用前端弹簧3的弹力对滑动构件57向前方施力。</base:Paragraphs>
+      <base:Paragraphs num="0044">即使卡盘组10前端与前端环2后端抵接而卡定件64和卡盘组10的移动停止,卡定件64的后端也能够扩开,因此能够继续按压构件41的按压。 若继续该按压,则卡定件64中的弹性片部59由于将按压部件41向轴筒1前方方向按压的载荷而向外侧挠曲,与中继部件67的卡合被解除。 于是,仅芯罐34和中继部件67能够前进,卡定件64和卡盘组10停止,但芯罐34和中继部件67能够产生前进这样的相对的动作的差。</base:Paragraphs>
+      <base:Paragraphs num="0045">当进一步继续按压部件41的按压时,中继部件67的前端按压卡盘体17的后端,卡盘体17前进。 然后,卡盘体17继续前进,在解除了滚珠25与环15的楔效应的时刻,卡盘体17被扩开。 在该时刻,书写笔芯L自重下落至滑动部件4内的笔芯保持部件43的笔芯保持部44后端。 此时,通过在芯保持部件43与夹紧体17之间配设芯导向部件79,能够将书写笔芯从夹紧体17顺利地插通到芯保持部件43。 基于按压部件41的按压的中继部件67和笔芯容器34的前进在笔芯容器34前端与卡定件64后端抵接的时刻结束。 此外,后端敲击中的可按压量设为卡盘体17不与卡盘止动件27后端抵接的量,不对卡盘体17施加负荷,从而能够防止卡盘体17的变形、疲劳。</base:Paragraphs>
+      <base:Paragraphs num="0046">当解除对按压部件41的按压时,中继部件67和芯罐34通过敲击弹簧37而后退。 此时,由于利用卡定件64的弹性片部59夹持中继部件67,因此中继部件67和卡定件64成为卡定状态,卡定件64与型芯35内段抵接,中继部件67和卡定件64以及卡盘组10成为一体地后退,直至移动停止。 在直到卡定件64与型芯35内层84抵接为止的期间,卡盘体17被中继部件67按压而成为扩开的状态。</base:Paragraphs>
+      <base:Paragraphs num="0047">在卡定件64与型芯35内层84抵接后,中继部件67和笔芯箱34进一步后退,由此向卡盘体17的按压也被解除,通过卡盘弹簧26的向后方的施力,卡盘体17闭合,产生楔效应,因此卡盘体17成为笔芯把持状态。 然后,中继部件67和芯罐34进一步后退,形成于中继部件67的卡合槽65与形成于卡定件64的弹性片部59内表面的卡合突起61再次成为卡合状态,与此同时,中继部件67的大径部83后端与卡定件64前端抵接,全部的后退结束。 在该一系列的动作期间,滑动构件57被前端弹簧3向前方施力,停止在最前进位置。</base:Paragraphs>
+      <base:Paragraphs num="0048">然后,在再次进行基于按压部件41的按压的芯送出操作的情况下,在卡止件64与中继部件67卡合的状态下,使芯啮合状态的夹紧件17与夹紧组件10一起前进,由此将书写笔芯L插入至芯保持部件43,利用卡止件64与中继部件67的卡合解除所引起的卡止件64、中继部件67及笔芯箱34的相对的动作的差,进一步使夹紧件17前进而将夹紧件17扩开后,中继部件67与卡止件64保持卡止状态而后退,由此一边保持夹紧件17的扩开状态一边使夹紧件组件10后退。 在卡止件64与型芯35内层抵接后,仅中继部件67和笔芯容器34后退,由此向夹紧体17的按压也被解除,夹紧体17通过夹紧弹簧26而关闭,再次成为芯咬合状态,书写笔芯L前端停留在笔芯保持部件43内的前进位置,因此接近可书写状态。 通过进一步反复进行按压构件41的按压,书写笔芯L到达管42前端或比前端靠前方,成为能够书写的状态。</base:Paragraphs>
+      <base:Paragraphs num="0049">另一方面,关于芯的送出,通过将从前构件5突出的管42按压于纸面的前端敲击,使滑动构件57相对于由夹紧体17把持的书写笔芯L相对地后退,由此也能够使书写笔芯L插通于芯保持构件43。 此时,通过使芯保持部件43后端不与芯导向部件79的前端抵接,不向芯保持部件43施加负荷,从而能够防止芯保持部件43的变形。 而且,当使管42从纸面离开时,夹头体17允许书写笔芯L的前进,因此芯保持构件43在保持书写笔芯L的状态下与滑动构件57一起通过前端弹簧3前进,在书写笔芯L插通于芯保持构件43的状态下滑动构件57再次返回到最前进位置。 接着,通过反复进行基于前端敲击的滑动构件57的前后移动,书写笔芯L到达管42前端,成为始终能够进行一边保护书写笔芯L一边进行书写的管书写的状态。 通过前端敲击而使书写笔芯L插通,由此防止书写笔芯L比管42前端向前方突出,因此能够防止从管42前端向前方的书写笔芯L的破损。</base:Paragraphs>
+      <base:Paragraphs num="0050">在书写时,即使在书写笔芯L的前端面成为与管42的前端面大致相同的位置的状态、由于最初比管42的前端面突出的书写笔芯L磨损而书写笔芯L的前端面成为与管42的前端面大致相同的位置的状态下,也与书写引起的书写笔芯L的磨损一起,由于笔压,管42被纸面按压而向后方后退,因此能够继续书写。 当使管42从纸面离开时,利用所述前端弹簧3使滑动构件57前进。 通过与能够以允许书写笔芯L的前进但阻止后退的方式把持书写笔芯L的夹紧体17并用,在利用前端弹簧3使滑动构件57前进时,能够将保持于笔芯保持构件43的书写笔芯L始终拔出至管42的前端,因此即使不换手而使按压构件41进行后端敲击,书写笔芯L也能够维持书写状态,因此能够进行连续的书写直至书写笔芯L成为从夹紧体17离开的剩余笔芯状态。</base:Paragraphs>
+      <base:Paragraphs num="0051">能够进行基于前端敲击的芯的送出、管书写的结构在书写笔芯L的芯径细的情况下,具体而言,对于公称直径为0.3、0.2或其以下的公称直径的芯特别有效。 这是因为,不使书写笔芯L从管42突出,能够进行书写笔芯L被管42引导的状态下的书写,即使在书写时的笔压变化、书写笔芯卡在纸面时也能够防止书写笔芯的折损。</base:Paragraphs>
+      <base:Paragraphs num="0052">继续书写,在书写笔芯L被滑动部件4拔出而从夹紧体17的笔芯把持部20离开的时刻,书写笔芯L成为残芯状态。 成为残芯状态的书写笔芯L的排出方法通过利用与第1芯同样的基于按压构件41的按压的芯送出操作将追随残芯的书写笔芯L送出来进行。 此时,通过在芯保持部件43与夹紧体17之间配设芯导向部件79,以能够使用的书写笔芯为1根以上且小于2根的方式形成内径部80,能够防止在芯保持部件43与夹紧体17之间追随剩余笔芯的书写笔芯L的偏移,能够良好地进行剩余笔芯的排出。 然后,通过进一步反复进行按压构件41的按压,书写笔芯L到达管42前端或比前端靠前方,成为能够再次书写的状态。</base:Paragraphs>
+      <base:Paragraphs num="0053">在第二实施例中, 通过配设于轴筒1内的夹紧体17进行书写笔芯L的把持、送出, 在所述轴筒1的前方配设有能够前后移动的滑动部件57的自动铅笔中,在所述滑动部件57内配设有芯保持部件43,并且在该芯保持部件43与所述夹紧体17之间配设有芯导向部件79,将该芯导向部件79相对于轴筒1固定,由此,芯导向部件79相对于轴筒1容易使轴芯一致,在对书写笔芯L或滑动部件57施加负荷时,由于为了使滑动部件57滑动而设置的周向的间隙而产生的轴芯的偏移难以向芯导向部件79传递,因此,能够将与配设于滑动部件57内的芯保持部件43的轴芯的偏移同时产生的书写笔芯L的挠曲控制为与轴筒1对齐。 因此,能够防止对滑动部件57施加了负荷时的书写笔芯L的破损,能够提供能够良好地进行书写的自动铅笔。</base:Paragraphs>
+      <base:Paragraphs num="0054">另外,在本实施例中,将芯导向构件79压入于前端环2,但不限于此,也可以将芯导向构件79与前端环2一体地形成,在该情况下,滑动构件57中的轴芯的偏移也难以向芯导向构件79传递,因此通过将与配设于滑动构件57内的芯保持构件43中的轴芯的偏移同时产生的书写笔芯L的挠曲控制为与轴筒1对齐,能够提供一种能够防止书写笔芯L的破损并良好地进行书写的自动铅笔。 另外,通过这样做,能够削减部件数量。</base:Paragraphs>
+      <base:Paragraphs num="0055">在本实施例中,通过利用滑动构件57的翼部77内包芯导向构件79的主体部81,与书写中的书写压力相比,在如前端敲击时、滑动构件57收纳时那样反复进行因对滑动构件57的比较弱的负荷引起的长距离的滑动时,芯导向构件79也对滑动构件57进行导向,以使滑动构件57与芯导向构件79的轴芯对齐。 因此,能够抑制滑动部件57的轴芯的偏移。 另外,在滑动部件57收纳时,能够利用滑动部件57内包芯导向部件79的内径部80整体,使滑动部件57与芯导向部件79的轴芯更容易对准,因此能够抑制由携带时的振动引起的滑动部件57的轴芯的偏移。 而且,通过将芯导向部件79的突出部82压入前端环2而相对于轴筒1固定,由此,在施加了因滑动部件57的轴芯的偏移而受到的与轴芯方向垂直的方向的负荷时,芯导向部件57在周向上没有间隙,因此能够抑制被压入的部位处的芯导向部件79的轴芯的偏移。 此外,由于芯导向部件79的突出部82与滑动部件57的滑动用狭缝76卡合,因此即使在施加了因滑动部件57的轴芯的偏移而受到的周（旋转）方向的负荷时,也能够通过突出部82侧面与翼部77侧面抵接来防止滑动部件的旋转,容易抑制滑动部件的轴芯的偏移。</base:Paragraphs>
+      <base:Paragraphs num="0056">芯导向部件79的主体部81形成为外径比滑动部件57的第3内径部72稍小,突出部82的宽度形成为比滑动用狭缝76的宽度稍小,由此,突出部82与滑动部件57的滑动用狭缝76卡合,且主体部81内包于翼部77,并且滑动部件57在芯导向部件79后端以后也能够滑动。 因此,通过卡盘组10、卡盘体17等配设于芯导向部件79以后的部件,能够将滑动部件57向前方按压,因此,通过O型环将滑动部件卡止于前部件、前部件内的前端环,以收纳滑动部件以及管整体的方式进行收纳,或者设为管的一部分从前部件的前端突出的状态,通过停止滑动部件57的前后的移动,能够附加防止意外的芯对准的功能。 在本实施例中,示出了具有能够允许书写笔芯L的前进但阻止后退的夹紧体17的自动铅笔,但不限于此,即使是由夹紧环围绕并通过夹紧体的开闭进行书写笔芯的把持、释放的自动铅笔,也能够得到同样的效果。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0057">1-轴筒,2-前端环,3-前端弹簧,4-滑动部件,5-前部件,6-前轴,7-后轴,8-轴筒主体,9-芯送出单元,10-卡盘组,11-缩径部,12-夹具,13-盖,14-软质部件,15-环,16-锥部,17-卡盘体,18-滚珠支承座,19-狭缝,20-芯把持部,21-弹性片,22-前端面,23-前端部,24-外凸缘部,25-滚珠,26-卡盘弹簧,27-卡盘限位器,28-滑动孔,29-卡止部件,30-中继部件,31-大径部,32-芯插入孔,33-芯引导管,34-芯容器,35-芯保持部件,44-芯保持部,45- 1内径部71第二内径部72第三内径部73扩径部74嵌合槽75凸部76滑动用狭缝77叶片部78 O型环79芯引导构件80内径部81主体部82突出部83大径部84内阶梯L书写芯。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="112" wi="38" file="2016124101_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="107" wi="39" file="2016124101_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="114" wi="50" file="2016124101_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="118" wi="61" file="2016124101_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="118" wi="61" file="2016124101_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="118" wi="61" file="2016124101_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="119" wi="53" file="2016124101_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="76" wi="60" file="2016124101_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="49" wi="65" file="2016124101_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="74" wi="57" file="2016124101_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="85" wi="72" file="2016124101_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="74" wi="70" file="2016124101_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="59" wi="61" file="2016124101_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="112" wi="51" file="2016124101_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="118" wi="63" file="2016124101_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="94" wi="82" file="2016124101_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="119" wi="62" file="2016124101_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="72" wi="68" file="2016124101_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="67" wi="68" file="2016124101_000021.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="89" wi="65" file="2016124101_000022.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000023" he="82" wi="57" file="2016124101_000023.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0022">
+      <base:Image id="000024" he="48" wi="63" file="2016124101_000024.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0023">
+      <base:Image id="000025" he="73" wi="73" file="2016124101_000025.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种自动铅笔,通过配设于轴筒内的夹紧体进行笔芯的把持、送出,在所述轴筒的前方配设有能够前后移动的滑动构件,其特征在于,在所述滑动构件内配设芯保持构件,并且在该芯保持构件与所述夹紧体之间配设芯导向构件,将该芯导向构件相对于轴筒固定。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的自动铅笔,其特征在于,在所述滑动部件内包有所述芯导向部件。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的自动铅笔,其特征在于,所述芯导向部件相对于所述轴筒装卸自如地固定。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1～3中任一项所述的自动铅笔,其特征在于,在所述滑动部件设置有狭缝部,并且在所述滑动部件设置有能够与该狭缝部卡合的突出部。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>
