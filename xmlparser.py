@@ -18,7 +18,6 @@ import json
 
 FILE_ENCODE = 'UTF-8'
 
-
 """
 初始化
 """
