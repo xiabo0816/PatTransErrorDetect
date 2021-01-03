@@ -20,6 +20,8 @@ from io import StringIO, BytesIO
 import json
 import sys
 import traceback
+import ConfigParser
+# https://docs.python.org/zh-cn/3.9/library/configparser.html
 
 """
 全局变量
@@ -39,6 +41,17 @@ def get_args_parser():
     parser.add_argument('-o', '--output_folder', type=str, default='output_folder', help='output_folder')
     parser.add_argument('-j', '--jobs', type=int, default=-1, help='njobs')
     return parser.parse_args()
+
+def readconfig(path):
+    config = configparser.ConfigParser()
+    config.read('config.ini')   
+    config.sections()
+    config['TAGS'] 
+    config['TAGS']['fullwidth_number'] 
+    import re
+    pattern[] = re.compile(config['TAGS']['fullwidth_number'])
+    file_name = u"毛刺　Ａ　１ 127210853300_E2_C2_P2.bmp"
+    print(pattern.findall(file_name))
 
 
 def strB2Q(ustring):
@@ -79,9 +92,22 @@ def _detecter(args):
         root_origin = etree.parse(BytesIO(open(input_ori_file,   'rb').read()), etree.XMLParser(ns_clean=True)).getroot()
         root_trans  = etree.parse(BytesIO(open(input_trans_file, 'rb').read()), etree.XMLParser(ns_clean=True)).getroot()
         Paragraphs = {}
-        Paragraphs['origin'] = root_origin.xpath('//base:Paragraphs/text()', namespaces=root_origin.nsmap)
-        Paragraphs['trans']  = root_trans.xpath('//base:Paragraphs/text()', namespaces=root_trans.nsmap)
-        print(Paragraphs)
+        _origin_para_ele = root_origin.xpath('//base:Paragraphs', namespaces=root_origin.nsmap)
+        _trans_para_ele  = root_trans.xpath('//base:Paragraphs', namespaces=root_trans.nsmap)
+        
+        Paragraphs = []
+        max_len = len(_trans_para_ele)
+        if len(Paragraphs['origin']) > len(_trans_para_ele):
+            max_len = len(_origin_para_ele)
+
+        for i in range(max_len):
+            c_origin = ''
+            c_trans  = ''
+            if i < len(Paragraphs['origin']):
+                c_origin = _origin_para_ele[i].text.strip()
+            if i < len(Paragraphs['trans']):
+                c_trans = _trans_para_ele[i].text.strip()
+
         return (output_file, json.dumps(Paragraphs, ensure_ascii=False) + "\n")
     except:
         error_type, error_value, error_trace = sys.exc_info()
@@ -94,6 +120,13 @@ def readlist(path):
     lines = [line.strip() for line in open(path, 'r', encoding=FILE_ENCODE).readlines()]
     return lines
 
+def _callback_writefile(args):
+    pbar.update(1)
+    print(args)
+    output_file, lines = args
+    with open(output_file, 'a+', encoding='utf-8', errors="ignore") as f:
+        f.writelines(lines)
+        
 if __name__ == '__main__':
     PROCESSES = multiprocessing.cpu_count()
 
@@ -107,20 +140,9 @@ if __name__ == '__main__':
     if args.jobs != -1:
         PROCESSES = args.jobs
 
-    print('Creating PatTransErrorDetect pool with %d processes\n' % PROCESSES)
-    e1 = time.time()
-    pool = Pool(PROCESSES)
-
     # 这种方式回调函数无法使用pbar变量
     # with tqdm(total=len(fl)) as pbar:
     pbar = tqdm(total=len(fl))
-
-    def _callback_writefile(args):
-        pbar.update(1)
-        print(args)
-        output_file, lines = args
-        with open(output_file, 'a+', encoding='utf-8', errors="ignore") as f:
-            f.writelines(lines)
 
     for i in range(len(fl)):
         input_ori_file = fl[i]
@@ -132,11 +154,3 @@ if __name__ == '__main__':
         param = {'input_ori_file':input_ori_file,'input_trans_file':input_trans_file,'output_file':args.output_folder}
         # print(root_origin)
         _detecter(param)
-        # pool.apply_async(_detecter, args=(param, ), callback=_callback_writefile, stdin = subprocess.PIPE,)
-        # pbar.update(1)
-
-    pool.close()
-    pool.join()
-    # e2 = time.time()
-    # print(float(e2 - e1))
-    # print("Closing the XMLParser pool")
