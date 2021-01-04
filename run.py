@@ -20,7 +20,8 @@ from io import StringIO, BytesIO
 import json
 import sys
 import traceback
-import ConfigParser
+import configparser
+import re
 # https://docs.python.org/zh-cn/3.9/library/configparser.html
 
 """
@@ -39,19 +40,14 @@ def get_args_parser():
     parser = argparse.ArgumentParser(description='Data preprocess tool.')
     parser.add_argument('-i', '--input_list', type=str, default='input.list', help='input_list')
     parser.add_argument('-o', '--output_folder', type=str, default='output_folder', help='output_folder')
-    parser.add_argument('-j', '--jobs', type=int, default=-1, help='njobs')
+    parser.add_argument('-c', '--config', type=str, default='config.ini', help='config.ini')
+    # parser.add_argument('-j', '--jobs', type=int, default=-1, help='njobs')
     return parser.parse_args()
 
 def readconfig(path):
     config = configparser.ConfigParser()
-    config.read('config.ini')   
-    config.sections()
-    config['TAGS'] 
-    config['TAGS']['fullwidth_number'] 
-    import re
-    pattern[] = re.compile(config['TAGS']['fullwidth_number'])
-    file_name = u"毛刺　Ａ　１ 127210853300_E2_C2_P2.bmp"
-    print(pattern.findall(file_name))
+    config.read('config.ini')
+    return config
 
 
 def strB2Q(ustring):
@@ -83,32 +79,57 @@ def strB2Q(ustring):
         rstring += chr(inside_code)
     return rstring
 
-def _detecter(args):
+def strQ2B(ustring):
+    rstring = ''
+    for uchar in ustring:
+        inside_code = ord(uchar)
+        inside_code -= 65248
+        rstring += chr(inside_code)
+    return rstring
+
+def _do_detect(patterns, text):
+    results = []
+    for pattern in patterns:
+        # text = u"毛刺　Ａ　１ 127210853300_E2_C2_P2.bmp"
+        results.append(pattern.findall(text))
+    return results
+
+def _run_detecter(args):
     try:
         print(args)
-        output_file, input_ori_file, input_trans_file = args['output_file'], args['input_ori_file'], args['input_trans_file']
+        output_file, input_ori_file, input_trans_file, patterns = args['output_file'], args['input_ori_file'], args['input_trans_file'], args['patterns']
         # try:
         # file coding: UTF-8 with BOM
         root_origin = etree.parse(BytesIO(open(input_ori_file,   'rb').read()), etree.XMLParser(ns_clean=True)).getroot()
         root_trans  = etree.parse(BytesIO(open(input_trans_file, 'rb').read()), etree.XMLParser(ns_clean=True)).getroot()
-        Paragraphs = {}
-        _origin_para_ele = root_origin.xpath('//base:Paragraphs', namespaces=root_origin.nsmap)
-        _trans_para_ele  = root_trans.xpath('//base:Paragraphs', namespaces=root_trans.nsmap)
-        
+
+        _origin_para_eles = root_origin.xpath('//base:Paragraphs', namespaces=root_origin.nsmap)
+        _trans_para_eles  = root_trans.xpath('//base:Paragraphs', namespaces=root_trans.nsmap)
+        # print(_trans_para_eles[0].text)
+
         Paragraphs = []
-        max_len = len(_trans_para_ele)
-        if len(Paragraphs['origin']) > len(_trans_para_ele):
-            max_len = len(_origin_para_ele)
+        max_len = len(_trans_para_eles)
+        if len(_origin_para_eles) > len(_trans_para_eles):
+            max_len = len(_origin_para_eles)
 
         for i in range(max_len):
             c_origin = ''
             c_trans  = ''
-            if i < len(Paragraphs['origin']):
-                c_origin = _origin_para_ele[i].text.strip()
-            if i < len(Paragraphs['trans']):
-                c_trans = _trans_para_ele[i].text.strip()
+            if i < len(_origin_para_eles):
+                c_origin = _origin_para_eles[i].text.strip()
+            if i < len(_trans_para_eles):
+                c_trans = _trans_para_eles[i].text.strip()
+            # print(c_origin, c_trans)
+            dtorigins = _do_detect(patterns, c_origin)
+            dttranss  = _do_detect(patterns, c_origin)
 
-        return (output_file, json.dumps(Paragraphs, ensure_ascii=False) + "\n")
+            print(dtorigin)
+            if dtorigin is not None and  len(dtorigin) > 0:
+                print([[strQ2B(item) for item in dtorigin] for dtorigin in dtorigins])
+            # print(dttrans)
+            input()
+
+        # return (output_file, json.dumps(Paragraphs, ensure_ascii=False) + "\n")
     except:
         error_type, error_value, error_trace = sys.exc_info()
         print(sys.exc_info())
@@ -133,24 +154,41 @@ if __name__ == '__main__':
     args = get_args_parser()
     print(args)
 
+    CONFIG = readconfig(args.config)
+    print(CONFIG.sections())
+
+    PATTERNS = []
+    for field in CONFIG['TAGS']:
+        PATTERNS.append(re.compile(CONFIG['TAGS'][field]))
+    print(PATTERNS)
+
     fl = readlist(args.input_list)
     # print(fl)
     # fl = os.listdir(args.input_folder)
 
-    if args.jobs != -1:
-        PROCESSES = args.jobs
+    # if args.jobs != -1:
+    #     PROCESSES = args.jobs
 
-    # 这种方式回调函数无法使用pbar变量
-    # with tqdm(total=len(fl)) as pbar:
     pbar = tqdm(total=len(fl))
+    # 这种方式回调函数无法使用pbar变量
+    with tqdm(total=len(fl)) as pbar:
+        for i in range(len(fl)):
+            input_ori_file = fl[i]
+            basename, extension = os.path.splitext(os.path.basename(input_ori_file))
+            if extension.lower() != '.xml':
+                print(input_ori_file)
+                continue
 
-    for i in range(len(fl)):
-        input_ori_file = fl[i]
-        basename, extension = os.path.splitext(os.path.basename(input_ori_file))
-        if extension.lower() != '.xml':
-            print(input_ori_file)
-            continue
-        input_trans_file = os.path.splitext(input_ori_file)[0] + '_trans' + extension
-        param = {'input_ori_file':input_ori_file,'input_trans_file':input_trans_file,'output_file':args.output_folder}
-        # print(root_origin)
-        _detecter(param)
+            input_trans_file = os.path.splitext(input_ori_file)[0] + '_trans' + extension
+
+            if not os.path.exists(input_ori_file):
+                print('\nFile not exists: ' + input_ori_file)
+                continue
+
+            if not os.path.exists(input_trans_file):
+                print('\nFile not exists: ' + input_trans_file)
+                continue
+
+            param = {'input_ori_file':input_ori_file,'input_trans_file':input_trans_file,'output_file':args.output_folder,'patterns':PATTERNS}
+            # print(root_origin)
+            _run_detecter(param)
