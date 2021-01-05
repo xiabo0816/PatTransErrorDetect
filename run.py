@@ -121,7 +121,7 @@ def _do_compare_chunk(targets, text):
                 if t == -1:
                     t = text.lower().find(item.lower())
                 if t == -1:
-                    t = text.replace(' ','').find(item)
+                    t = text.replace(' ','').find(strQ2B(item).lower())
                 if t == -1:
                     results.append(item)
                 # print(t, item, text)
