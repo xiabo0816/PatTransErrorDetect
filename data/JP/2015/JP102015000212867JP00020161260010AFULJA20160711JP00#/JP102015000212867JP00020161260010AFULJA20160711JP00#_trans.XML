@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000212867JP00020161260010AFULJA20160711JP00#.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126001" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126001</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126001</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000212867</base:DocNumber>
+        <base:Date>20151029</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015212867</base:DocNumber>
+        <base:Date>20151029</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102014000586207</base:DocNumber>
+        <base:Date>20141230</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>14/586,207</base:DocNumber>
+        <base:Date>20141230</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01C  21/16        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G01C21/16</business:FI>
+      <business:FClass>
+        <business:FTerm>2F129AA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129AA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129AA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129AA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB48</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2F129</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">惯性导航系统和在惯性导航系统中提供磁近点离角检测辅助的方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ノースロップ  グラマン  システムズ  コーポレイション</base:Name>
+            <base:RegisteredNumber>503178185</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  22042－4511  バージニア州  フォールズ  チャーチ  フェアビュー  パーク  ドライブ  2980</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <base:AddressBook lang="en">
+            <base:Name>NORTHROP  GRUMMAN  SYSTEMS  CORPORATION</base:Name>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マイケル  エス.ラーセン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  91367  カリフォルニア州  ウッドランド  ヒルズ  バーバンク  ブルバード  21240  ダブリュ－19</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マイケル  ディ.ブラトヴィッツ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  91304  カリフォルニア州  カノーガ  パーク  オーウェンズマス  アベニュー  9001</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エイ.ダグラス  マイヤー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  91367  カリフォルニア州  ウッドランド  ヒルズ  マンディ  コート  24917</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>デニス  ピー.ベバン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  91362  カリフォルニア州  サウザンド  オークス  ラスティックパーク  コート  2179</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>恩田  誠</base:Name>
+            <base:RegisteredNumber>100105957</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>恩田  博宣</base:Name>
+            <base:RegisteredNumber>100068755</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>本田  淳</base:Name>
+            <base:RegisteredNumber>100142907</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>15</business:ClaimsCount>
+      <base:TotalPageCount>16</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种能够抑制误差的惯性导航系统和方法。 惯性导航系统(INS)包括导航控制器,该导航控制器被配置为基于被配置在可移动物体上的至少一个导航传感器和磁性近点离角数据来生成与可移动物体的运动相关联的惯性数据。 另外,该INS具备磁近点离角INS辅助系统,该磁近点离角INS辅助系统具备分别分散于移动体上的多个位置的多个磁力计。 所述磁近点离角INS辅助系统用于基于所述多个磁力计中的每一个的固定磁近点离角的磁场测量结果生成磁近点离角数据。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="27" wi="69" file="2016126001_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本公开总体上涉及传感器系统,并且更具体地涉及惯性导航系统的磁近点离角跟踪。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">导航以及惯性数据能够对应于与移动体（vehicle）相关的速度、位置以及方位信息、或者速度、位置或者方位信息等与移动体的运动相关的信息。 通过实现这样的导航和惯性数据,可以跟踪可移动物体随时间的移动,并且例如可以计算可移动物体随时间的位置和时间信息。 导航和惯性数据可以通过各种类型的传感器获得,诸如陀螺仪和加速度计,或者陀螺仪或加速度计。 作为另一示例,在飞行器的情况下,可以通过测量大气速度来测量飞行器相对于环境空气的速度。 然而,大气速度的测量是相对于地面的风速和飞行器周围的气流波动的一阶依赖性。 对于船舶,在其速度的测量中可能存在类似的不确定性。 因此,一些移动物体可能需要用于惯性数据的测量和导航解的计算或惯性数据的测量或导航解的计算的附加或替代系统。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">           <business:ApplicationCitation num="0001">
+            <base:Text>米国特許第4509131号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>米国特許第7400142号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0003">
+            <base:Text>米国特許第7526384号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0004">
+            <base:Text>米国特許第8423276号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0005">
+            <base:Text>米国特許第8461999号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0006">
+            <base:Text>米国特許出願公開第2008／0262772号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0007">
+            <base:Text>米国特許出願公開第2011／0238307号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0008">
+            <base:Text>米国特許出願公開第2013／0018582号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0009">
+            <base:Text>国際公開第2013／150183号</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">作为示例,导航和惯性数据的测量通常可以由其他类型的传感器系统辅助,诸如全球导航卫星系统(GNSS)测量和视觉辅助（例如,基于用于地球固定特征跟踪或光学流速辅助的面向地面的相机或用于相对于惯性固定星星的方位和位置辅助的星星跟踪系统）。 然而,在现代电子战中,即使在晴天条件下GNSS测量也不是可靠的,并且在某些环境（例如城市峡谷、密集生长的林冠、室内、地下和水下环境）中,不可能依赖于GNSS信号在最佳情况下的有效性。 另外,在视觉辅助中,通常需要移动体在具有明确且固定的视觉特征的区域或能够清楚地视觉辨认星星的区域中或上方行进,因此,作为对基于惯性数据的计算的导航解的决定进行辅助的方式,可能成为限定的情况较多。 例如,这种视觉辅助可以实现星形跟踪系统或识别其他视觉特征（例如,山或河流等）的系统。 然而,这些技术可能限制惯性数据或导航解决方案中的误差增长的有效减少,因为它们经常受到可见性条件的限制或缺乏与移动物体本身的有用接近度的限制。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0005">作为一例,可举出惯性导航系统（INS：Inertial Navigation System）。 该INS包括被配置在可移动物体上的至少一个导航传感器和导航控制器,该导航控制器被配置为基于磁性近点离角数据来生成与可移动物体的运动相关的惯性数据。 另外,该INS具备磁近点离角INS辅助系统,该磁近点离角INS辅助系统具备在移动体上的多个位置分别分散配置的多个磁力计。 所述磁近点离角INS辅助系统可以被配置为基于所述多个磁力计中的每一个的固定磁近点离角的磁场测量结果来生成磁近点离角数据。</base:Paragraphs>
+        <base:Paragraphs num="0006">作为另一个例子,可以举出在移动体的INS中提供磁性近点离角检测辅助的方法。 该方法包括经由围绕移动物体以阵列布置的多个磁力计获得与相对于地球坐标系（例如,ECEF（地球中心地球固定）、ECR（地球中心旋转）、IRP（国际参考极点）、IRM（国际参考子午线）或已知与磁近点离角关系的任何其他相关坐标系）或类似坐标系（例如,在诸如在其他行星或卫星上的外星应用的情况下）的固定磁近点离角相关联的磁场测量结果。 此外,该方法包括提供磁近点离角数据,该磁近点离角数据与针对与移动物体周围的多个磁力计中的每一个相关联的多个位置之间的预定距离的磁场测量结果相关联。 此外,该方法包括通过INS基于磁性近点离角数据计算可移动物体相对于地球坐标系的速度。</base:Paragraphs>
+        <base:Paragraphs num="0007">另一个实例是INS。 该INS包括被配置在可移动物体上的至少一个导航传感器和导航控制器,该导航控制器被配置为基于磁性近点离角数据来生成与可移动物体相对于地球坐标系的速度相关的惯性数据。 另外,该INS具备磁近点离角INS辅助系统,该磁近点离角INS辅助系统具备在移动体上的多个位置分别以阵列状分散且相互具有规定的距离的多个磁力计。 所述磁近点离角INS辅助系统可以被配置为针对所述预定距离,基于所述多个磁力计中的每一个的固定磁近点离角的磁场测量结果来生成磁近点离角数据。</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0008">
+        <base:FigureReference num="0001">图0001示出了惯性导航系统(INS)的示例。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是示出移动体的一个例子的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示取得磁近点离角数据的结构的一例的图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是示出移动体的其他例子的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005示出了在惯性导航系统中提供磁近点离角检测辅助的方法的示例。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0009">本公开总体上涉及传感器系统,并且更具体地涉及惯性导航系统(INS)的磁近点离角跟踪。 INS包括被配置在可移动物体上的至少一个导航传感器和导航控制器,该导航控制器被配置为基于磁性近点离角数据来生成与可移动物体的运动相关的惯性数据。 作为示例,磁近点距离数据可以与距地球坐标系的固定位置的磁近点距离相关联。 此外,磁近点离角数据可以由包括多个磁力计的磁近点离角INS辅助系统生成,每个磁力计被配置为测量固定磁近点离角。 作为示例,磁力计可以以预定距离布置在可移动物体周围的阵列中。 因此,通过安装磁近点离角数据,能够基于彼此规定的距离处的固定磁近点离角的磁场测定结果,计算移动体的速度。 由此,通过实现磁性近点离角数据,能够实质上抑制导航传感器生成的惯性数据中的与移动体相关的速度和方位、或者速度或方位误差增长。</base:Paragraphs>
+      <base:Paragraphs num="0010">作为示例,磁近点距离INS辅助系统可以包括磁力计控制器,该磁力计控制器被配置为从多个磁力计中的每一个接收磁场测量结果,并且基于磁力计阵列的磁场测量结果的比较,生成磁近点距离数据作为与固定磁近点距离的位置相关联的复合磁场测量结果。 例如,磁力计可以沿着与可移动物体前进运动的方向相对应的可移动物体的基本中心轴布置为一维阵列（例如,第一磁力计在前面,第二磁力计在后面）。 磁力计控制器可以被配置为例如基于磁场测量结果来实施相关算法。 相关算法能够构成为,对各个磁场测定结果进行特征比对,实质上抑制与磁场测定结果相关的噪声,并且进行与固定磁性近点离角的检测相关的误差修正。 此外,磁力计控制器可以被配置为基于实时磁场测量结果和基于相关算法生成的置信度得分来计算可移动物体相对于地球坐标系的速度。 由此,与不使用全球导航卫星系统(GNSS)接收机而仅使用惯性传感器数据的情况相比,INS能够更准确地生成惯性数据来计算移动体的位置解。</base:Paragraphs>
+      <base:Paragraphs num="0011">图1是示出惯性导航系统(INS)10的一例的图。 INS10能够实现于移动体的控制电子电路。 移动体能够设为陆上车辆、船舶、飞机或宇宙飞船等多种移动体中的任一种,另外,能够设为有人或无人。 作为另一示例,移动物体可以是小型移动物体,诸如小型自动化移动物体（例如,星际探测器）。 或者,也可以是人。 INS 10可以被配置为控制和/或记录可移动物体的运动,诸如通过实时计算可移动物体的速度、位置和取向中的至少一个。</base:Paragraphs>
+      <base:Paragraphs num="0012">INS 10包括导航控制器12,其被配置为基于由至少一个导航传感器14提供的测量结果来计算与可移动物体的运动相关的惯性数据。 在图1的示例中,由导航传感器14提供的测量结果由信号NAV<base:Sub>S</base:Sub>表示。 例如,导航传感器14可以包括被配置为测量速度（例如,通过测量大气速度）的传感器、至少一个陀螺仪、至少一个加速度计和/或各种其他测量装置。 因此,由导航传感器14提供的测量结果NAV<base:Sub>S</base:Sub>可以包括速度、围绕至少一个感测轴的旋转速度或旋转角度以及在至少一个坐标系轴上的加速度中的至少一个。</base:Paragraphs>
+      <base:Paragraphs num="0013">此外,INS 10包括磁近点距离INS辅助系统16,其被配置为生成磁近点距离数据,该磁近点距离数据被表示为在图1的示例中提供给导航控制器12的信号NAV<base:Sub>M</base:Sub>。 磁近点离角INS辅助系统16具备多个（N个）磁力计18,N为正整数。 磁力计18可以被配置为测量标量和向量或标量或向量的磁场测量结果的各种类型的磁力计中的任何一种,诸如基于被配置为核磁共振(NMR)磁力计、电子顺磁共振(EPR)磁力计、磁通门磁力计或各种其他类型或组合的磁力计系统中的任何一种。 作为一个例子,磁力计18能够在彼此隔开规定的距离的各个位置处配置成移动体周围的阵列状。 在图1的例子中,磁力计18构成为分别实时地测定由磁场测定结果M<base:Sub>1</base:Sub>～M<base:Sub>N</base:Sub>表示的外部磁场。 磁场测定结果M<base:Sub>1</base:Sub>～M<base:Sub>N</base:Sub>被提供给磁力计控制器20,该磁力计控制器20构成为基于针对移动体上的磁力计的各位置的磁场测定结果M<base:Sub>1</base:Sub>～M<base:Sub>N</base:Sub>来计算磁近点离角数据NAV<base:Sub>M</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0014">例如,磁力计18中的每一个能够测量与地球坐标空间上的固定位置相关联的或相对于另一参考系的固定磁近点离角（下文中称为“固定磁近点离角”）。 由于固定的磁性近点离角通常在可移动物体可以行进的任何操作环境中普遍存在,因此磁性近点离角INS辅助系统16可以在几乎所有环境中提供足够的INS辅助能力。 作为示例,磁力计18可以至少包括第一磁力计和第二磁力计,第一磁力计和第二磁力计分别位于可移动物体的前部和后部,并且沿着可移动物体的基本中心轴（例如,可移动物体坐标系的滚动轴）彼此具有预定距离,该中心轴对应于可移动物体的向前运动的方向。 因此,磁力计控制器20可以基于第一磁力计18和第二磁力计18之间的固定磁近点离角的测量结果在移动物体向前行进时的时间延迟来计算地球坐标系或任何其他相关参考系中的速度。 作为另一示例,磁力计18可以被配置在至少二维阵列中,诸如沿着与可移动物体向前运动的方向正交的轴的飞行器的翼尖。</base:Paragraphs>
+      <base:Paragraphs num="0015">因此,基于磁力计18在运动物体上的相对位置,磁力计控制器20可以计算磁近点离角数据NAV<base:Sub>M</base:Sub>,作为运动物体相对于由每个磁力计18测量的固定磁近点离角的运动的函数。 因此,通过向导航控制器12提供磁近点离角数据NAV<base:Sub>M</base:Sub>,导航控制器可以被配置为基于由导航传感器14提供的测量结果NAV<base:Sub>S</base:Sub>和磁近点离角数据NAV<base:Sub>M</base:Sub>来计算惯性数据（例如,移动物体的位置姿态、方位和速度解,或者位置姿态、方位或速度解）。 作为示例,导航控制器12可以被配置为实现导航算法,该导航算法被配置为将由导航传感器14提供的测量结果NAV<base:Sub>S</base:Sub>与磁性近点离角数据NAV<base:Sub>M</base:Sub>相关联,以提供更准确的导航解决方案。 例如,导航算法可以通过卡尔曼滤波器、最佳状态估计器或基于测量结果NAV<base:Sub>S</base:Sub>和磁性近点离角数据NAV<base:Sub>M</base:Sub>计算惯性数据的各种统计算法中的任何一种来实现。</base:Paragraphs>
+      <base:Paragraphs num="0016">作为示例,惯性数据最初可以由导航控制器12基于由导航传感器14提供的测量结果NAV<base:Sub>S</base:Sub>来计算。 而且,导航控制器12通过安装磁近点离角数据NAV<base:Sub>M</base:Sub>,能够与导航传感器14提供的测定结果NAV<base:Sub>S</base:Sub>独立地计算惯性数据。 因此,通过比较惯性数据的测量结果,导航控制器12可以显著减少由导航传感器14提供的测量结果NAV<base:Sub>S</base:Sub>中的误差。 例如,导航控制器12可以响应于磁性近点离角数据NAV<base:Sub>M</base:Sub>来抑制基于由导航传感器14提供的测量结果NAV<base:Sub>S</base:Sub>计算的惯性数据中的速度和取向或者速度或取向误差增长。 作为另一示例,导航控制器12可以基于测量结果NAV<base:Sub>S</base:Sub>和磁性近点距离数据NAV<base:Sub>M</base:Sub>的组合,诸如基于各种统计算法中的任何一种,响应于磁性近点距离数据NAV<base:Sub>M</base:Sub>来计算惯性数据。</base:Paragraphs>
+      <base:Paragraphs num="0017">此外,磁力计控制器20可以被配置为在计算近点离角数据NAV<base:Sub>M</base:Sub>时实现相关算法。 例如,磁力计控制器20通过安装相关算法以及磁力计18的实时测定结果,能够进行磁场测定结果M<base:Sub>1</base:Sub>～M<base:Sub>N</base:Sub>的特征比对,进行磁场测定结果M<base:Sub>1</base:Sub>～M<base:Sub>N</base:Sub>的彼此的误差的判定等（例如,所有的磁力计18是否测定了相同的固定磁近点离角的判定）。 通过实现相关算法以生成与磁力计18的实时测量结果相关联的置信度得分,可以实现磁力计18的置信度得分和实时测量结果以更准确地计算磁近点离角数据NAV<base:Sub>M</base:Sub>。 由此,磁近点离角数据NAV<base:Sub>M</base:Sub>能够在不使用GNSS接收器的情况下准确地提供INS辅助。</base:Paragraphs>
+      <base:Paragraphs num="0018">此外,磁性近点离角INS辅助系统16可以被配置为对INS 10的传感器14执行误差校正。 作为示例,磁力计18可以被配置为测量固定的磁性近点离角的幅度和方向。 因此,磁场测定结果M<base:Sub>1</base:Sub>～M<base:Sub>N</base:Sub>作为包含与固定磁近点离角相关的矢量以及标量信息的结果被提供给磁力计控制器20。 因此,磁力计控制器20可以提供磁近点离角数据NAV<base:Sub>M</base:Sub>,使得导航控制器12可以基于标量和矢量的磁场测量M<base:Sub>1</base:Sub>至M<base:Sub>N</base:Sub>的互相关来抑制与相关传感器14中的一个或多个陀螺仪和加速度计相关联的测量漂移。 其结果是,磁力计控制器20通过降低导航解的确定中的误差成长的速度,能够在更长的期间内进行导航解的准确性的提高等。 由此,导航控制器12能够提供相对于地球坐标系等给定坐标系的绕全部三个移动体坐标系轴的方位信息。</base:Paragraphs>
+      <base:Paragraphs num="0019">因此,如本文所述,INS 10可以通过并入磁性近点离角数据NAV<base:Sub>M</base:Sub>来提供优于正常导航辅助解的改进的导航辅助解。 例如,基于GNSS信号在某些环境中的有限有效性,包括GNSS接收器的常规导航辅助解决方案可能受到误差的影响,这些环境可能发生在城市山谷、密集生长的林冠、室内、地下和水下环境等中。 但是,磁近点离角几乎无一例外地能够在移动体能够行进的任意的环境中利用,因此INS10能够基于多个磁力计18、更具体而言磁力计18各自相对于测定结果M<base:Sub>1</base:Sub>～M<base:Sub>N</base:Sub>的位置,提供基于磁近点离角的测定结果的导航辅助。 实现多个磁力计18提供了比仅包含单个磁力计的其他导航辅助解更可靠的导航辅助解。 例如,在没有关于感兴趣区域的局部磁近点离角的先验知识的情况下（例如,基于预定的磁近点离角图）,导航辅助可能不会发生,因为包含单个磁力计的常规导航辅助解试图将观察到的近点离角与先前映射到移动物体行进的局部区域的近点离角相关联。 因此,INS 10可以提供导航辅助,而无需关于磁近点离角和GNSS接收器的先验知识。 此外,如果在地球坐标系中确定了一个或多个磁性近点离角的位置,则INS 10可以被配置为计算可移动物体在地球坐标系中的位置。</base:Paragraphs>
+      <base:Paragraphs num="0020">图2是表示移动体50的一例的图。 在图2的示例中,可移动体50被表示为具有前部52和后部54以及左翼56和右翼58的飞行器。 另外,移动体50表示为具备搭载于该移动体50的前部52的第一磁力计60和搭载于该移动体50的后部54的第二磁力计62。 第一磁力计60和第二磁力计62分开距离D<base:Sub>1</base:Sub>,该距离D1可以对应于例如在制造移动体50时预先确定的距离。 作为示例,第一磁力计60和第二磁力计62可以分别安装在前部52和后部54上,例如,沿着与可移动体50的滚动轴对应的可移动体50的基本中心轴64。 作为示例,第一磁力计60和第二磁力计62可以对应于图1的示例的磁性近点离角INS辅助系统16的磁力计18中的两个,使得可移动主体50可以包括INS 10（图2的示例中未示出）。</base:Paragraphs>
+      <base:Paragraphs num="0021">因此,第一磁力计60和第二磁力计62布置成阵列,以在移动体50沿着速度矢量行进时测量固定的磁性近点离角,速度矢量在图2的示例中表示为矢量V。 例如,第一磁力计60和第二磁力计62相对于可移动物体50的坐标系被固定在空间取向和位置处,并且跟踪固定的磁近点距离,诸如当可移动物体50沿着速度矢量V行进时可移动物体50通过的许多自然发生的场近点距离中的一个。 作为示例,磁力计控制器（例如,磁力计控制器20）可以基于第一磁力计60和第二磁力计62在可移动物体50上的相对位置,计算作为可移动物体50相对于由第一磁力计60和第二磁力计62分别测量的固定的磁性近点距离的运动的函数的磁性近点距离数据NAV<base:Sub>M</base:Sub>。 因此,磁近点距离数据NAV<base:Sub>M</base:Sub>被提供给相关联的导航控制器（例如,导航控制控制器12）,使得导航控制器可以被配置为基于由相关联的导航传感器（例如,导航传感器14）提供的测量结果NAV<base:Sub>S</base:Sub>和磁近点距离数据NAV<base:Sub>M</base:Sub>来计算惯性数据。 例如,通过实现磁性近点离角数据NAV<base:Sub>M</base:Sub>,可以抑制与导航传感器相关联的速度和取向或速度或取向误差（例如,由测量结果NAV<base:Sub>S</base:Sub>引起的）。</base:Paragraphs>
+      <base:Paragraphs num="0022">图3是表示取得磁近点离角数据的结构100的一例的图。 结构100表示移动体50沿着速度矢量V行进的情形。 如图2的示例中所述,可移动体50包括位于可移动体50的前部的第一磁力计60和位于可移动体50的后部的第二磁力计62,第一磁力计60和第二磁力计62基本上沿中心轴64（例如,可移动体50的坐标系的滚动轴）定位。 此外,构造100包括在地理上与可移动物体50分离的固定的磁性近点离角102。 作为示例,固定的磁近点离角102可以对应于在地球坐标系中固定的自然发生的磁近点离角。 因此,可移动物体50在由笛卡尔坐标系104给出的Y方向上沿着速度矢量V穿过固定的磁性近点离角。</base:Paragraphs>
+      <base:Paragraphs num="0023">在图3的例子所示的移动体50的位置,第一磁力计60测量与固定磁近点离角相关的磁场M<base:Sub>2</base:Sub>,第二磁力计62测量与固定磁近点离角相关的磁场M<base:Sub>1</base:Sub>。 作为一例,图3的例子所示的移动体50的位置与时刻T<base:Sub>0</base:Sub>对应,由此第一磁力计60能够在时刻T<base:Sub>0</base:Sub>测定与固定磁近点离角102相关联的磁场M<base:Sub>2</base:Sub>。 在从时刻T<base:Sub>0</base:Sub>提前了经过时间T<base:Sub>A</base:Sub>的时刻T<base:Sub>1</base:Sub>,第二磁力计62能够测定磁场M<base:Sub>2</base:Sub>,因此时刻T<base:Sub>1</base:Sub>能够对应于时刻T<base:Sub>0</base:Sub>+T<base:Sub>A</base:Sub>。 例如,磁场M<base:Sub>2</base:Sub>能够由第二磁力计62以与由第一磁力计60测定出的时刻T<base:Sub>0</base:Sub>的磁场M<base:Sub>2</base:Sub>的振幅大致相等的振幅进行测定。 由于第一磁力计60和第二磁力计62之间的距离D<base:Sub>1</base:Sub>是已知的固定值,所以磁力计控制器（例如,磁力计控制器20）可以计算可移动物体50沿着第一磁力计60和第二磁力计62之间的基本中心轴64的速度。 作为示例,可移动物体50的速度V<base:Sub>1</base:Sub>可以通过将第一磁力计60和第二磁力计62之间的固定距离D<base:Sub>1</base:Sub>除以分别由第一磁力计60和第二磁力计62观察磁场M<base:Sub>2</base:Sub>之间的时间来计算,并且由等式1给出。</base:Paragraphs>
+      <base:Paragraphs num="0024">V<base:Sub>1</base:Sub>=D<base:Sub>1</base:Sub>/T<base:Sub>A</base:Sub>（式1） 
+因此,通过在相关联的导航控制器（例如,导航控制器12）中实现速度V<base:Sub>1</base:Sub>,可以增强经由导航传感器提供的移动体50的速度的测量结果,并且可以显著减少导航传感器计算移动体50的速度时的误差。 </base:Paragraphs>
+      <base:Paragraphs num="0025">作为示例,可移动物体50的相关联的磁近点距离INS辅助系统（例如,磁近点距离INS辅助系统16）可以实时且连续地计算速度V<base:Sub>1</base:Sub>。 例如,在时间T<base:Sub>0</base:Sub>之前的某个时间,移动体50的磁近点离角INS辅助系统可以基于当移动体50沿着速度矢量V行进时由第一磁力计60和第二磁力计62对磁场M<base:Sub>1</base:Sub>的相应测量结果来测量速度V<base:Sub>1</base:Sub>。 类似地,在时间T<base:Sub>1</base:Sub>之后的某个时间,移动体50的磁近点离角INS辅助系统可以基于当移动体50沿着速度矢量V行进时由第一磁力计60和第二磁力计62对磁场M<base:Sub>3</base:Sub>的相应测量结果来测量速度V<base:Sub>1</base:Sub>。 例如,相关的磁力计控制器可以实现第一磁力计60和第二磁力计62的相关算法和实时测量结果,以执行磁场M<base:Sub>1</base:Sub>、M<base:Sub>2</base:Sub>和M<base:Sub>3</base:Sub>的特征比对,例如确定磁场测量结果M<base:Sub>1</base:Sub>、M<base:Sub>2</base:Sub>和M<base:Sub>3</base:Sub>彼此的误差,例如确定磁力计60和62是否测量到固定的磁性近点离角102。 此外,通过实施相关算法来生成与第一磁力计60和第二磁力计62的实时测量结果相关联的置信度得分,可以通过实施第一磁力计60和第二磁力计62的置信度得分和实时测量结果来更准确地计算磁性近点离角数据。</base:Paragraphs>
+      <base:Paragraphs num="0026">图4是表示移动体150的另一例的图。 在图4的示例中,可移动主体150被表示为具有前部152和后部154以及左翼156和右翼158的飞行器。 另外,移动体150表示为具备搭载于该移动体150的前部152的第一磁力计160和搭载于该移动体150的后部154的第二磁力计162。 第一磁力计160和第二磁力计162分开距离D<base:Sub>1</base:Sub>,该距离D1可以对应于例如在制造移动体150时预先确定的距离。 作为示例,第一磁力计160和第二磁力计162可以分别沿着可移动体150的基本中心轴164（例如,对应于可移动体150的滚动轴）安装在前部152和后部154上。</base:Paragraphs>
+      <base:Paragraphs num="0027">同样地,移动体150表示为具备搭载于该移动体150的左翼156的第三磁力计166和搭载于该移动体150的右翼158的第四磁力计168。 第三磁力计166和第四磁力计168分开距离D<base:Sub>2</base:Sub>,该距离D2可以对应于例如在制造移动体150时预先确定的距离,并且基于预期和测量或者预期或测量的移动体动力学被优化以获得最高的INS辅助性能。 作为示例,第三磁力计166和第四磁力计168可以分别沿着可移动主体150的轴170安装在左机翼156和右机翼158上,轴170基本上与中心轴164正交。 作为示例,第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168可以对应于图1的示例的磁性近点离角INS辅助系统16的磁力计18中的四个,使得可移动主体150可以包括INS 10（图4的示例中未示出）。</base:Paragraphs>
+      <base:Paragraphs num="0028">因此,第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168以阵列布置,以在移动主体150沿着速度矢量行进时测量固定的磁性近点离角,速度矢量在图4的示例中表示为矢量V。 作为示例,第一磁力计160和第二磁力计162以及第三磁力计166和第四磁力计168都可以相对于一对第一磁力计160和第二磁力计162以及第三磁力计166和第四磁力计168布置在同一平面中或者在平面外。 例如,第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168相对于可移动物体150的坐标系固定在空间取向和位置上,以跟踪固定的磁近点距离,诸如当可移动物体150沿着速度矢量V行进时移动物体150通过的许多自然发生的场近点距离中的一个。</base:Paragraphs>
+      <base:Paragraphs num="0029">作为示例,磁力计控制器（例如,磁力计控制器20）可以基于第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168在移动主体150上的相对位置,计算作为移动主体150相对于由第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168中的每一个测量的固定磁性近点距离的运动的函数的磁性近点距离数据NAV<base:Sub>M</base:Sub>。 因此,将磁性近点距离数据NAV<base:Sub>M</base:Sub>提供给相关联的导航控制器（例如,导航控制器12）,使得导航控制器可以被配置为基于由相关联的导航传感器（例如,导航传感器14）提供的测量结果NAV<base:Sub>S</base:Sub>和磁性近点距离数据NAV<base:Sub>M</base:Sub>来计算惯性数据。</base:Paragraphs>
+      <base:Paragraphs num="0030">作为另一个例子,相对于图2的例子中的移动体50,移动体150的磁力计的数量增加,因此,基于第一、第二、第三以及第四磁力计160、162、166以及168各自的磁场测量结果,能够实质上抑制与固定磁性近点离角相关的磁场的测量噪声以及误差源。 例如,相关联的磁性近点离角INS辅助系统可以实现第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168相对于图2的示例中的可移动物体50的第一磁力计60和第二磁力计62的改进的特征匹配。 此外,作为示例,可移动物体150可以具有相对于参考系的行进方向,该行进方向不直接沿着滚动轴（例如,在旋转和高度变化期间）,这对于导航是有用的,使得第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168的阵列可以帮助抑制系统误差。 因此,第三磁力计166和第四磁力计168可以增强可用的导航信息,诸如速度、加速度和航向信息。</base:Paragraphs>
+      <base:Paragraphs num="0031">在图4的示例中,第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168以二维阵列表示。 因此,移动体150的速度成分能够关于移动体150的滚转-俯仰面等移动体坐标面的多个面进行计算。 此外,可移动主体150可以包含附加的磁力计,诸如相对于一对第一和第二磁力计160和162以及第三和第四磁力计166和168中的至少一个在平面外的磁力计。 因此,第一磁力计160、第二磁力计162、第三磁力计166和第四磁力计168以及附加的磁力计可以布置在三维阵列中。 以这种方式,可以计算可移动物体150的速度的三个正交分量,并且三维磁力计阵列可以被配置为执行取向误差校正（例如,沿着三个正交轴中的每一个的陀螺仪）。 此外,三维磁力计阵列可以特别适用于在所有三个方向上具有速度分量的其他类型的交通工具,例如潜艇/UUV（Unmanned Underwater Vehicle）、直升机/垂直起降(VTOL)交通工具、人或在至少两个方向上具有类似速度的任何其他交通工具。</base:Paragraphs>
+      <base:Paragraphs num="0032">鉴于上述结构和功能特征,参考图5可以更好地理解根据本发明的各个方面的方法。 虽然为了简化说明,图5的方法被示出和描述为顺序执行,但是应当理解,本发明不限于所示的顺序,并且本发明的一些方面可以以与本文所示和所述的那些不同的顺序发生和/或与本文所示和所述的其他方面同时发生。 此外,并非所有示出的特征都可以实现根据本发明的一个方面的方法。</base:Paragraphs>
+      <base:Paragraphs num="0033">图5示出了在惯性导航系统（例如,INS 10）中提供磁性近点离角检测辅助的方法200的示例。 在步骤202中,通过围绕可移动物体（例如,可移动物体50）排列成阵列的多个磁力计（例如,磁力计18）获取与相对于地球坐标系的固定磁近点距离（例如,固定磁近点距离102）相关联的磁场测量结果。 在步骤204中,提供磁近点离角数据（例如,磁近点离角数据NAV<base:Sub>M</base:Sub>）,该磁近点离角数据与在与运动物体周围的多个磁力计中的每一个相关联的多个位置之间的预定距离（例如,距离D<base:Sub>1</base:Sub>）的磁场测量结果相关联。 在步骤206中,基于经由INS的磁性近点离角数据来计算运动物体相对于地球坐标系的速度。</base:Paragraphs>
+      <base:Paragraphs num="0034">以上的说明是本发明的一例。 当然,不可能描述用于描述本发明的每个可能的部件组合或方法,但是本领域技术人员将认识到,本发明的许多其他组合和排列是可能的。 因此,本发明旨在覆盖落入本申请的范围内的所有这些改变、修改和变化,包括所附权利要求。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="34" wi="85" file="2016126001_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="57" wi="85" file="2016126001_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="38" wi="85" file="2016126001_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="59" wi="85" file="2016126001_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="59" wi="85" file="2016126001_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>以及磁近点离角INS辅助系统,所述磁近点离角INS辅助系统包括分布在所述移动体上的多个位置中的每一个位置处的多个磁力计,所述磁近点离角INS辅助系统被配置为基于所述多个磁力计中的每一个的固定磁近点离角的磁场测量结果来生成所述磁近点离角数据。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的惯性导航系统,其特征在于,所述多个磁力计彼此以规定的距离配置于所述多个位置,由此,关于所述规定的距离,所述磁近点离角INS辅助系统基于所述多个磁力计各自的磁场测定结果,生成所述磁近点离角数据。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,所述多个磁力计包括布置在所述可移动体的前部的第一磁力计和布置在所述可移动体的后部的第二磁力计,并且其中,所述第一磁力计和所述第二磁力计沿着所述可移动体的与可移动体的前进运动的方向对应的基本中心轴彼此以预定距离布置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求3所述的惯性导航系统,其特征在于,所述多个磁力计还具备配置于所述移动体的左舷的第三磁力计和配置于所述移动体的右舷的第四磁力计,所述第三磁力计和第四磁力计沿着与所述实质的中心轴大致正交的所述移动体的轴彼此以规定的距离配置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的惯性导航系统,其特征在于,所述磁近点离角数据通过所述导航控制器的安装,基于所述多个磁力计各自的所述磁场测定结果,计算所述移动体相对于地球坐标系的速度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,所述磁近点离角INS辅助系统包括磁力计控制器,所述磁力计控制器被配置为从所述多个磁力计中的每一个接收所述磁场测量结果,并且基于所述磁场测量结果的比较来生成所述磁近点离角数据作为与所述固定磁近点离角的位置相关联的复合磁场测量结果。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求6所述的惯性导航系统,其特征在于,所述磁力计控制器构成为基于所述磁场测定结果安装相关算法,所述相关算法构成为对各个所述磁场测定结果进行特征比对,实质上抑制与所述磁场测定结果相关的噪声,并且进行与所述固定磁近点离角的检测相关的误差修正。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求7所述的惯性导航系统,其中,所述磁力计控制器被配置为基于所述相关算法生成与所述固定磁性近点离角的检测相关联的置信度得分,所述磁力计控制器通过实时实现所述置信度得分和所述磁场测量结果来计算所述可移动物体相对于地球坐标系的速度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,所述多个磁力计沿着所述可移动物体分布在至少二维阵列中,并且其中,所述磁性近点离角INS辅助系统被配置为基于所述至少二维磁力计阵列来计算在至少两个坐标系轴上的速度、加速度、取向和位置中的至少一个。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,被配置在所述可移动物体上的所述至少一个导航传感器包括陀螺仪和加速度计中的至少一个,并且其中,所述导航控制器被配置为基于所述磁性近点距离数据基本上减小与所述陀螺仪和所述加速度计中的所述至少一个相关联的误差。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>一种在移动物体的惯性导航系统中提供磁近点距离检测辅助的方法,所述方法包括：通过围绕所述移动物体以阵列布置的多个磁力计获得与相对于地球坐标系的固定磁近点距离相关联的磁场测量结果,针对与围绕所述移动物体的所述多个磁力计中的每一个相关联的多个位置之间的预定距离,提供与所述磁场测量结果相关联的磁近点距离数据,以及基于通过所述惯性导航系统获得的所述磁近点距离数据来计算所述移动物体相对于地球坐标系的速度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求11所述的方法,还包括基于配置在可移动物体上的至少一个导航传感器和所述磁性近点离角数据来生成与所述可移动物体的运动相关联的惯性数据,所述惯性数据包括所述可移动物体的速度和位置中的至少一个。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求11所述的方法,其特征在于,还具备基于所述磁场测定结果安装相关算法的步骤、以及基于所述相关算法对所述磁场测定结果进行比较,由此对各个所述磁场测定结果进行特征比对,实质上抑制与所述磁场测定结果相关的噪声,并且进行与所述固定磁近点离角的检测相关的误差修正的步骤。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求13所述的方法,还包括基于所述相关算法生成与所述固定磁性近点离角的检测相关联的置信度得分,其中,计算所述可移动物体的速度包括基于所述置信度得分和所述磁场测量结果实时计算所述可移动物体的速度的子步骤。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>根据权利要求11所述的方法,还包括基于陀螺仪和加速度计中的至少一个生成与所述可移动物体相关联的惯性数据,并且基于所述磁性近点离角数据对与所述陀螺仪和所述加速度计中的所述至少一个相关联的惯性数据执行误差校正。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>以及磁近点距离INS辅助系统,所述磁近点距离INS辅助系统包括多个磁力计,所述多个磁力计以阵列分布在所述移动体上的多个位置中的每一个处并且彼此具有预定距离,所述磁近点距离INS辅助系统被配置为基于所述多个磁力计中的每一个处的固定磁近点距离的磁场测量结果来生成关于所述预定距离的所述磁近点距离数据,所述导航控制器被配置为基于配置在所述移动体上的至少一个导航传感器和磁近点距离数据来生成与所述移动体相对于地球坐标系的速度相关的惯性数据。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>根据权利要求16所述的惯性导航系统,其中,所述多个磁力计包括布置在所述可移动体的前部的第一磁力计和布置在所述可移动体的后部的第二磁力计,并且其中,所述第一磁力计和所述第二磁力计沿着所述可移动体的与可移动体的前进运动的方向对应的基本中心轴彼此以预定距离布置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>根据权利要求16所述的惯性导航系统,其特征在于,还具备磁力计控制器,所述磁力计控制器构成为基于所述磁场测定结果来安装相关算法,所述相关算法构成为对各个所述磁场测定结果进行特征比对,实质上抑制与所述磁场测定结果相关的噪声,并且进行与所述固定磁近点离角的检测相关的误差修正。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>根据权利要求18所述的惯性导航系统,其中,所述磁力计控制器被配置为基于所述相关算法生成与所述固定磁性近点离角的检测相关联的置信度得分,所述磁力计控制器通过实时实现所述置信度得分和所述磁场测量结果来计算所述可移动物体相对于地球坐标系的速度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>根据权利要求16所述的惯性导航系统,其中,被配置在所述可移动物体上的所述至少一个导航传感器包括陀螺仪和加速度计中的至少一个,并且其中,所述导航控制器被配置为基于所述磁性近点距离数据基本上减小与所述陀螺仪和所述加速度计中的所述至少一个相关联的误差。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>以及磁近点离角INS辅助系统,所述磁近点离角INS辅助系统包括分布在所述移动体上的多个位置中的每一个位置处的多个磁力计,所述磁近点离角INS辅助系统被配置为基于所述多个磁力计中的每一个的固定磁近点离角的磁场测量结果来生成所述磁近点离角数据。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>根据权利要求1所述的惯性导航系统,其特征在于,所述多个磁力计彼此以规定的距离配置于所述多个位置,由此,关于所述规定的距离,所述磁近点离角INS辅助系统基于所述多个磁力计各自的磁场测定结果,生成所述磁近点离角数据。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,所述多个磁力计包括布置在所述可移动体的前部的第一磁力计和布置在所述可移动体的后部的第二磁力计,并且其中,所述第一磁力计和所述第二磁力计沿着所述可移动体的与可移动体的前进运动的方向对应的基本中心轴彼此以预定距离布置。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>根据权利要求3所述的惯性导航系统,其特征在于,所述多个磁力计还具备配置于所述移动体的左舷的第三磁力计和配置于所述移动体的右舷的第四磁力计,所述第三磁力计和第四磁力计沿着与所述实质的中心轴大致正交的所述移动体的轴彼此以规定的距离配置。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>根据权利要求1所述的惯性导航系统,其特征在于,所述磁近点离角数据通过所述导航控制器的安装,基于所述多个磁力计各自的所述磁场测定结果,计算所述移动体相对于地球坐标系的速度。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,所述磁近点离角INS辅助系统包括磁力计控制器,所述磁力计控制器被配置为从所述多个磁力计中的每一个接收所述磁场测量结果,并且基于所述磁场测量结果的比较来生成所述磁近点离角数据作为与所述固定磁近点离角的位置相关联的复合磁场测量结果。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>根据权利要求6所述的惯性导航系统,其特征在于,所述磁力计控制器构成为基于所述磁场测定结果安装相关算法,所述相关算法构成为对各个所述磁场测定结果进行特征比对,实质上抑制与所述磁场测定结果相关的噪声,并且进行与所述固定磁近点离角的检测相关的误差修正。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>根据权利要求7所述的惯性导航系统,其中,所述磁力计控制器被配置为基于所述相关算法生成与所述固定磁性近点离角的检测相关联的置信度得分,所述磁力计控制器通过实时实现所述置信度得分和所述磁场测量结果来计算所述可移动物体相对于地球坐标系的速度。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,所述多个磁力计沿着所述可移动物体分布在至少二维阵列中,并且其中,所述磁性近点离角INS辅助系统被配置为基于所述至少二维磁力计阵列来计算在至少两个坐标系轴上的速度、加速度、取向和位置中的至少一个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>根据权利要求1所述的惯性导航系统,其中,被配置在所述可移动物体上的所述至少一个导航传感器包括陀螺仪和加速度计中的至少一个,并且其中,所述导航控制器被配置为基于所述磁性近点距离数据基本上减小与所述陀螺仪和所述加速度计中的所述至少一个相关联的误差。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>一种在移动物体的惯性导航系统中提供磁近点距离检测辅助的方法,所述方法包括：通过围绕所述移动物体以阵列布置的多个磁力计获得与相对于地球坐标系的固定磁近点距离相关联的磁场测量结果,针对与围绕所述移动物体的所述多个磁力计中的每一个相关联的多个位置之间的预定距离,提供与所述磁场测量结果相关联的磁近点距离数据,以及基于通过所述惯性导航系统获得的所述磁近点距离数据来计算所述移动物体相对于地球坐标系的速度。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>根据权利要求11所述的方法,还包括基于配置在可移动物体上的至少一个导航传感器和所述磁性近点离角数据来生成与所述可移动物体的运动相关联的惯性数据,所述惯性数据包括所述可移动物体的速度和位置中的至少一个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>根据权利要求11所述的方法,其特征在于,还具备基于所述磁场测定结果安装相关算法的步骤、以及基于所述相关算法对所述磁场测定结果进行比较,由此对各个所述磁场测定结果进行特征比对,实质上抑制与所述磁场测定结果相关的噪声,并且进行与所述固定磁近点离角的检测相关的误差修正的步骤。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>根据权利要求13所述的方法,还包括基于所述相关算法生成与所述固定磁性近点离角的检测相关联的置信度得分,其中,计算所述可移动物体的速度包括基于所述置信度得分和所述磁场测量结果实时计算所述可移动物体的速度的子步骤。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0015">
+          <business:ClaimText>根据权利要求11所述的方法,还包括基于陀螺仪和加速度计中的至少一个生成与所述可移动物体相关联的惯性数据,并且基于所述磁性近点离角数据对与所述陀螺仪和所述加速度计中的所述至少一个相关联的惯性数据执行误差校正。</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000228929JP00020200925280AFULJA20200611JP002.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020092528" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092528</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092528</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000228929</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018228929</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20070101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>02</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>7</business:MainGroup>
+        <business:Subgroup>48</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H02M   7/48        20070101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H02M7/48 M</business:FI>
+      <business:FClass>
+        <business:FTerm>5H770BA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770DA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770DA41</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770HA03Y</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770HA06X</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770LA04X</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770LB10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770PA21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770QA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770QA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770QA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770QA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H770QA27</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5H770</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">工作机械和电力转换装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>住友重機械工業株式会社</base:Name>
+            <base:RegisteredNumber>000002107</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都品川区大崎二丁目1番1号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>松田  泰輔</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県横須賀市夏島町19番地  住友重機械工業株式会社  横須賀製造所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>湯浅  英昭</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県横須賀市夏島町19番地  住友重機械工業株式会社  横須賀製造所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>荒船  博司</base:Name>
+            <base:RegisteredNumber>100090033</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>荒船  良男</base:Name>
+            <base:RegisteredNumber>100093045</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>15</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种能够以高精度估计功率开关元件的劣化度的工作机械和功率转换装置。 作业机械具备驱动轴、向驱动驱动轴的马达输出电力的多个电力用开关元件、以及在多个电力用开关元件中的至少一个的正下方检测温度并将检测信号向控制部发送的温度检测部（温度传感器125、布线等）。 电力转换装置（100A）构成为具备搭载有转换电力的多个电力用开关元件的功率模块（110）和检测温度的温度传感器（125）,温度传感器（125）固定于功率模块（110）的散热器安装面（116）。 图5</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="64" file="2020092528_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及作业机械及电力转换装置。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">以往,存在搭载于作业机械,向马达等输出驱动电流而使作业机械动作的电力转换装置。 电力变换装置使电力用开关元件动作而输出驱动电流。</base:Paragraphs>
+      <base:Paragraphs num="0003">在专利文献1中,公开了对搭载于作业机械的电力转换装置的消耗度进行监视的系统。 该系统具有将电力变换装置的多个运转模式与电力用开关元件的消耗度关联起来的消耗度参照表。 进而,该系统将电力变换装置的运转状态识别为多个运转模式的组合,参照消耗度参照表格,监视电力用开关元件的累积消耗度。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2012－076454号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">在根据电力变换装置的运转模式来推定电力用开关元件的累积消耗度的情况下,存在无法以高精度推定电力用开关元件的消耗度这样的课题。</base:Paragraphs>
+        <base:Paragraphs num="0006">本发明的目的在于提供一种能够以高精度推定电力用开关元件的劣化度的作业机械及电力转换装置。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0007">本发明所涉及的作业机械具备驱动轴、向驱动所述驱动轴的马达输出电力的多个电力用开关元件、以及控制部,所述作业机械具备温度检测部,所述温度检测部在所述多个电力用开关元件中的至少一个电力用开关元件的正下方检测温度,并向所述控制部发送检测信号。</base:Paragraphs>
+        <base:Paragraphs num="0008">本发明所涉及的电力变换装置构成为,具备搭载有变换电力的多个电力用开关元件的功率模块和检测温度的温度传感器,所述温度传感器固定于所述功率模块的散热器安装面。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0009">根据本发明,可得到如下效果：能够提供能够以高精度推定电力用开关元件的劣化度的作业机械及电力转换装置。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0010">
+        <base:FigureReference num="0001">图0001是表示本发明的实施方式的作业机械的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示图1的电力变换装置的电路图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示图1的电力转换装置的基板结构的立体图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示包含图1的电力转换装置的壳体的结构的立体图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是从下方观察图1的电力变换装置的立体图(A)及其局部放大图(B)。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是说明温度传感器的配置例的功率模块的俯视图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是表示功率模块的底面的温度分布的一个例子的图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是表示由控制部执行的温度监视处理的一例的流程图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是示出选项卡的示例的图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是驱动器模块的俯视图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是表示搭载于驱动模块的变压器的一例的纵剖视图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0011">以下,参照附图对本发明的实施方式进行详细说明。</base:Paragraphs>
+      <base:Paragraphs num="0012">图1是表示本发明的实施方式的作业机械的图。</base:Paragraphs>
+      <base:Paragraphs num="0013">本实施方式的作业机械1例如是注射成型机,具备熔化和注射成型材料的注射装置11、输送注射装置11的塑化移动装置20、使填充有成型材料的模具装置动作的合模装置12、以及将固化的成型品从模具装置43挤出的顶出装置71。</base:Paragraphs>
+      <base:Paragraphs num="0014">模具装置43包括保持于固定压板51的固定模具44和保持于可动压板54的可动模具45。 合模装置12具有作为三相马达的合模用马达57,通过合模用马达57的驱动,保持动模45的可动压板54移动而进行模具装置43的开闭和合模。 注射装置11具有作为三相马达的注射用马达86,通过注射用马达86的驱动,螺杆26平移移动而从加热缸15注射成型材料。 并且,注射装置11具有作为三相马达的计量用马达83,通过计量用马达83的驱动,螺杆26旋转而从料斗17向加热缸15供给成型材料。 塑化移动装置20具有作为三相马达的塑化移动用马达22,通过塑化移动用马达22的驱动,可动部进行动作。 顶出装置71具有作为三相马达的顶出用马达72,通过顶出用马达72的驱动,可动部进行动作。 在图1中,将合模用马达57、注射用马达86、计量用马达83、塑化移动用马达22、排出用马达72记作第1马达～第n马达。 这些各马达进行旋转驱动的轴相当于本发明的多个驱动轴。</base:Paragraphs>
+      <base:Paragraphs num="0015">作业机械1还具备分别向合模用马达57、注射用马达86、计量用马达83、塑化移动用马达22、排出用马达72输出电力来驱动各马达的多个电力转换装置100A、100B～100X。</base:Paragraphs>
+      <base:Paragraphs num="0016">而且,作业机械1具备运动控制部201。 运动控制部201按照规定的控制程序向作业机械1的多个电力转换装置100A、100B～100X输出动作指令（具体而言为速度指令）。 多个电力转换装置100A～100X根据速度指令来驱动各马达。 由此,作业机械1的各部协作地动作,执行规定的成型处理。</base:Paragraphs>
+      <base:Paragraphs num="0017">图2是表示电力转换装置的电路图。 图3是表示电力转换装置的基板配置的立体图。 图4是示出电力转换装置的包含壳体的结构的立体图。 图5是从下方观察电力转换装置的立体图(A)及其局部放大图(B)。 以下,对电力转换装置100A进行说明,但其他电力转换装置100B～100X也具有同样的结构。</base:Paragraphs>
+      <base:Paragraphs num="0018">如图2所示,电力转换装置100A具备搭载有多个电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的功率模块110、驱动多个电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的控制端子（栅极端子）的驱动模块120、控制驱动模块120的控制模块130、以及收容它们的壳体100h（图4）。</base:Paragraphs>
+      <base:Paragraphs num="0019">功率模块110具有电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW和收容它们的模块壳体110h（图3）。 功率模块110从外部接受直流电压,电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW进行开关动作,由此向输出端子OUTU、OUTV、OUTW输出三相交流的电流。 电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW例如是IGBT（Insulated Gate Bipolar Transistor：绝缘栅双极型晶体管）,以从模块壳体110h的底面进行散热的方式收容于模块壳体110h。 如图5(A)所示,模块壳体110h的底面是散热片安装面116,被规定为经由规定厚度的导热性润滑脂安装散热片。</base:Paragraphs>
+      <base:Paragraphs num="0020">驱动模块120具备生成各种电源电压的变压器121、输出栅极驱动信号（开关脉冲）的输出电路122、进行功率模块110的输出电流的电流检测的绝缘型的电流传感器123、能够连接选项卡的卡连接用端子124、用于连接温度传感器125的连接器126、以及搭载它们的基板120a（图3）。 绝缘型的电流传感器123例如是电流互感器型、霍尔元件型的电流传感器等。</base:Paragraphs>
+      <base:Paragraphs num="0021">变压器121具有多个（3个以上）次级绕组,生成控制系统的电源电压、输出模拟信号的传感器用的电源电压、电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的栅极驱动用的电源电压等多个电源电压。</base:Paragraphs>
+      <base:Paragraphs num="0022">在驱动器模块120中,强电系统的配线、端子及信号与弱电系统的配线、端子及信号混合存在。 强电系统的配线、端子以及信号是指不与功率模块110的电路电绝缘的配线、端子以及信号。 弱电系统的配线、端子以及信号是指与功率模块110的电路电绝缘的配线、端子以及信号。 强电系统的信号包括栅极驱动信号、输出端子OUTU、OUTV、OUTW的三相交流电压等。 弱电系统的信号包括向控制模块130传输的控制信号、对各种强电系统的信号进行计测或检测而得到的信号等。 强电系统的信号与测量或检测出这些信号的弱电系统的信号例如经由光电耦合器等隔离放大器而被绝缘。</base:Paragraphs>
+      <base:Paragraphs num="0023">控制模块130具有与上位的控制装置（运动控制部201等）进行通信的通信部131、进行控制处理的电力转换控制部132、以及搭载有它们的基板130a、130b（图3）。 电力转换控制部132例如基于从上位的控制装置接收到的速度指令与从驱动器模块120发送来的各种检测信号,将栅极驱动用的控制信号输出至驱动器模块120,以达成速度指令。 即,电力转换控制部132进行电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的开关控制。 驱动模块120的输出电路122根据控制信号输出脉冲驱动信号。</base:Paragraphs>
+      <base:Paragraphs num="0024">&lt;温度传感器&gt; 
+温度传感器125固定于远离驱动模块120的部位,经由配线而与驱动模块120的连接器126连接。 温度传感器125的检测信号经由基板120a的配线及基板间连接器127、135而被发送至控制模块130。 如图1的虚线所示,温度传感器125的检测信号（温度信息）也可以经由控制模块130向上位的控制装置（运动控制部201）发送。 也可以将温度传感器125以及传送其检测信号的结构（温度传感器125的配线、连接器126以及基板间连接器127、135等）称为温度检测部。 </base:Paragraphs>
+      <base:Paragraphs num="0025">如图4和图5的(A)所示,温度传感器125的配线从壳体100h的开口窗102出来,经由设置于壳体100h的外周或壳体100h的侧壁内的贯通孔103,延伸至模块壳体110h的底面。 如图5(B)所示,也可以在壳体100h的背面设置有将布线向模块壳体110h的底面引导的槽104。</base:Paragraphs>
+      <base:Paragraphs num="0026">温度传感器125是薄型的传感器。 温度传感器125和配线可以优选地小于或等于散热器与模块壳体110h之间的导热油脂的厚度。 在将散热器安装于电力转换装置100A的情况下,温度传感器125和配线被埋入并固定于它们之间的导热性润滑脂。 另外,在温度传感器125和配线的厚度比导热性润滑脂的厚度大的情况下,也可以在散热器的与温度传感器125和配线重叠的部分设置槽,在槽内配置温度传感器125和配线。</base:Paragraphs>
+      <base:Paragraphs num="0027">图6是说明温度传感器的配置例的功率模块的俯视图。 图7是表示功率模块的底面的温度分布的一个例子的图。 在图7中,范围W1表示功率模块110的底面,范围W2表示功率模块110所连接的散热器的主面。</base:Paragraphs>
+      <base:Paragraphs num="0028">温度传感器125配置于功率模块110所包含的多个电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW中的代表之一（电力用开关元件MLN）的正下方。 图6的配置部位P1～P6表示多个电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的配置部位。 如图5所示,在将温度传感器125配置于配置部位P2的正下方时,温度传感器125的配线具有不会过量或不足的长度。 另外,在本说明书中,正下方是指与散热器安装面116（图5(A)）垂直且将散热器安装面116设为下方的方向。 正下方也可以与电力转换装置100A实际配置的状态下的铅垂下方不同。</base:Paragraphs>
+      <base:Paragraphs num="0029">如图7所示,在从配置部位P2的正下方偏离的位置,从电力用开关元件MLN向四方分散的热传递。 因此,若在此检测温度,则无法得到电力用开关元件MLN的准确的温度。 另一方面,在配置部位P2的正下方,电力用开关元件MLN的温度直接传递,因此能够以高精度检测电力用开关元件MLN的温度。</base:Paragraphs>
+      <base:Paragraphs num="0030">图8是表示由控制部执行的温度监视处理的一例的流程图。 此外,图8所示的具体的处理步骤只不过是一例,也可以应用各种方式的温度监视处理。</base:Paragraphs>
+      <base:Paragraphs num="0031">控制模块130的电力转换控制部132或上位的控制装置（例如运动控制部201）基于来自温度传感器125的检测信号,执行图8的温度监视处理。 以下,将执行温度监视处理的主体称为控制部。 温度监视处理例如在电力转换装置100A的动作中由控制部始终执行。</base:Paragraphs>
+      <base:Paragraphs num="0032">在温度监视处理中,首先,控制部通过步骤S1～S3的循环处理,反复进行温度传感器125的检测信号的采样（步骤S1）,直到经过图案识别用的单位采样期间为止（步骤S3）。 进而,在该循环处理中,控制部判别采样的检测信号是否表示异常温度（步骤S2）。 然后,如果经过了模式识别用的单位采样期间而取得了该期间的检测信号的采样数据,则控制部使处理进入步骤S4。 另外,在步骤S2中,如果判别为达到异常温度,则控制部将处理转移到异常的通知或使系统的动作中断等错误处理。</base:Paragraphs>
+      <base:Paragraphs num="0033">当取得单位采样期间的采样数据并通过步骤S1～S3的循环处理时,控制部根据该期间的采样数据识别温度的变化模式（步骤S4）。 电力用开关元件的温度变化模式与电力用开关元件的劣化度（也可以称为“疲劳度”）具有预先决定的关系。 对控制部预先赋予表示这些关系的数据表或函数。 控制部参照该数据表或函数,在每个单位采样期间算出电力用开关元件MLN的劣化度（步骤S5）。 进而,控制部对从过去到现在为止的劣化度进行累计,计算累积的劣化度（步骤S6）。 然后,控制部根据累积的劣化度判别电力用开关元件MLN的寿命是否超过警告阶段的阈值（步骤S7）。 如果步骤S7的判别结果为“是”,则控制部将处理转移到寿命警告处理。 另一方面,如果步骤S7的判别结果为“否”,则控制部直接将处理返回到步骤S1。 然后,控制部反复进行从步骤S1起的处理。</base:Paragraphs>
+      <base:Paragraphs num="0034">通过此种温度监视处理,控制部可在电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW因寿命而达到破损之前,对使用者等警告接近寿命。 另外,控制部在电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW达到异常温度的情况下,能够迅速地应对异常温度的产生。</base:Paragraphs>
+      <base:Paragraphs num="0035">&lt;卡连接端子和选项卡&gt; 
+如上所述,在驱动器模块120的基板120a上设置有能够连接选项卡的卡连接用端子124。 通过将选项卡的端子经由焊料等接合部件与卡连接用端子124接合,能够将选项卡安装于基板120a。 另外,也可以代替卡连接用端子124而采用能够拆装选项卡的连接器。 卡连接用端子124或连接器相当于能够安装选项卡的安装部的一例。 </base:Paragraphs>
+      <base:Paragraphs num="0036">选项卡是搭载有对电力转换装置100A追加可选功能的可选功能电路的卡。 在选项卡中,例如包含为了进行死区时间补偿而测量各栅极驱动信号（开关脉冲）的脉冲宽度的死区时间补偿用的卡128、以及检测输出端子OUTU、OUTV、OUTW的电压的UVW输出电压检测用的卡129。</base:Paragraphs>
+      <base:Paragraphs num="0037">驱动模块120具有能够在未连接有选卡的状态下驱动电源模块110的基本结构。 基本结构包括根据来自控制模块130的控制信号输出栅极驱动信号的输出电路122和检测输出电流的电流传感器123。 通过这样的基本结构,能够进行马达的矢量控制。 即,能够使用驱动器模块120的基本结构和搭载于控制模块130的矢量控制用的程序,通过矢量控制从电力转换装置100A向马达输出驱动电流,对马达的速度进行控制。</base:Paragraphs>
+      <base:Paragraphs num="0038">另一方面,在矢量控制以外的电动机的控制方式中,存在需要进行电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的死区时间补偿的控制方式。 或者,存在如下控制方式：根据各输出端子OUTU、OUTV、OUTW的电压来推定马达静止时或旋转时的转子的磁极位置,由此实现马达的速度控制。 在此,将它们称为第二控制方式和第三控制方式。</base:Paragraphs>
+      <base:Paragraphs num="0039">在采用第二控制方式的情况下,在卡连接用端子124连接有死区时间补偿用的卡128。 并且,在控制模块130的控制部搭载有第二控制方式的程序。 经由卡连接用端子124向卡128输入各栅极驱动信号,在卡128内进行各栅极驱动信号（开关脉冲）的脉冲宽度的测量,测量结果的信号经由卡连接用端子124输出。 测量结果的信号经由驱动器模块120的基板120a的配线与基板间连接器127、基板间连接器135而被送往控制模块130。 控制模块130的控制部基于来自卡128的测量结果的信号进行死区时间补偿,由此能够以不产生死区时间的方式驱动功率模块110,通过第2控制方式进行马达的速度控制。</base:Paragraphs>
+      <base:Paragraphs num="0040">在采用第三控制方式的情况下,在卡连接用端子124连接UVW输出电压检测用的卡129。 并且,在控制模块130的控制部搭载有第三控制方式的程序。 经由卡连接用端子124向卡129输入三相的输出端子OUTU、OUTV、OUTW的电压,在卡129内进行这些电压的检测。 然后,从卡129经由卡连接用端子124而输出检测信号,检测信号经由驱动器模块120的基板120a的配线与基板间连接器127、基板间连接器135而被送往控制模块130。 控制模块130的控制部基于来自卡129的输出电压的检测信号来识别马达的磁极的位置,能够通过第一控制方式对马达进行速度控制。</base:Paragraphs>
+      <base:Paragraphs num="0041">图9是示出选项卡的示例的图。 图10是表示驱动模块的俯视图。 以下,作为选项卡,对死区时间补偿用的卡128进行说明,但其他选项卡也具有同样的结构。</base:Paragraphs>
+      <base:Paragraphs num="0042">如图9所示,卡128具备输入强电系统的信号的第一端子组128a（例如输入引脚）、输入输出弱电系统的信号的第二端子组128b（例如输入输出引脚）、将强电系统的信号线与弱电系统的信号线之间绝缘的隔离放大器128c、以及进行时间测量或电压检测等的信号处理部128d。 此外,有时在卡128设置有对高电压进行分压的分压电阻。</base:Paragraphs>
+      <base:Paragraphs num="0043">如图3所示,基板120a侧的卡连接用端子124包括与第一端子组128a对应的强电系统的第一端子组124A和与第二端子组128b对应的弱电系统的第二端子组124B。 基板120a侧的第一端子组124A的端子数比卡128的第一端子组128a的端子数多,能够根据第一端子组128a的端子的位置来选择向卡128输入的强电系统的信号。</base:Paragraphs>
+      <base:Paragraphs num="0044">在卡128中,强电系统的第一端子组128a与弱电系统的第二端子组128b的间隔比第二端子组128b的端子间距离大。 同样地,在基板120a侧的卡连接用端子124中,强电系统的第一端子组124A与弱电系统的第二端子组124B的间隔大于弱电系统的第一端子组124A的端子间距离。 并且,卡128被分割为传输强电系统的信号的区域128M和传输弱电系统的信号的区域128N这两个区域,在区域128M设置有第一端子组128a,在区域128N设置有第二端子组128b。 另外,在区域128M、128N之间设置有隔离放大器128c等使信号间绝缘的元件。</base:Paragraphs>
+      <base:Paragraphs num="0045">这样,通过使卡128的端子以及配线区域在强电系统和弱电系统中分离,能够确保弱电系统的配线与强电系统的配线的绝缘距离,并且与未分离的情况相比,能够密集地设置多个配线。 因此,能够确保弱电系统与强电系统的绝缘,并且能够实现卡128的紧凑化。</base:Paragraphs>
+      <base:Paragraphs num="0046">再者,强电系统的信号也可在驱动器模块120的基板120a上通过分压电阻进行一次分压而输入至卡128,在卡128上进一步通过分压电阻进行分压而进行测量等处理。 这样,通过将分压电阻分开配置于基板120a和卡128,能够降低输入到卡128的第一端子组128a的电压,降低第一端子组128a的耐压设定,实现卡128的制造成本的降低。</base:Paragraphs>
+      <base:Paragraphs num="0047">如图10所示,能够连接卡128、129的卡连接用端子124与基板120a的中央相比,隔着电流传感器123配置在基板120a的边缘侧。 在基板120a的卡连接用端子124的上方设置有能够配置卡128、129的间隙。 具体而言,在驱动模块120的基板120a与控制模块130的基板130a之间设置有能够配置卡128、129的间隙。 而且,在壳体100h中,在卡连接用端子124的上方设置有能够收容卡128、129的间隙G1（图4）。 在本说明书中,卡连接用端子124的上方是指基板120a的卡连接用端子124侧,也可以与电力转换装置100A实际配置的状态下的上方不同。</base:Paragraphs>
+      <base:Paragraphs num="0048">通过将卡连接用端子124设置于电流传感器123的附近,能够利用较短的配线将功率模块110的输出电压引导至卡连接用端子124,能够进一步简化基板120a的强电系统的配线。</base:Paragraphs>
+      <base:Paragraphs num="0049">进而,如图10所示,在驱动模块120的基板120a中,传送强电系统的信号的区域A1和传送弱电系统的信号的A2被分割为基板120a的一方和另一方这两部分,卡连接用端子124中,传送强电系统的信号的第1端子群124A配置于强电系统的区域A1,传送弱电系统的信号的第2端子群124B配置于弱电系统的区域A2。 通过这样的结构,在基板120a中,与区域A1、A2混合存在的情况相比,也能够确保强电系统的布线与弱电系统的布线的绝缘距离,并且能够密集地配置多个布线。 因此,能够实现基板120a的紧凑化。</base:Paragraphs>
+      <base:Paragraphs num="0050">&lt;反式&gt; 
+图11是表示搭载于驱动模块的变压器的一例的纵剖视图。 </base:Paragraphs>
+      <base:Paragraphs num="0051">变压器121是将输入来自外部的电源电压的一次绕组m1和用于生成在电力转换装置100A内使用的各种电源电压的多个二次绕组m2～m9卷绕于铁芯C1而构成的。 在驱动器模块120中搭载有具有用于生成各电源电压的开关元件的电源电路,开关元件进行动作而将在一次绕组m1中流动的电流切换为接通/断开,由此从变压器121的多个二次绕组m2～m9输出电源电压。 在多个电源电压中,如上所述,包含控制系统的电源电压、输出模拟信号的传感器用的正负的电源电压、上臂的3个电力用开关元件MHU、MHV、MHW的各凯德驱动用的电源电压、下臂的电力用开关元件MLU、MLV、MLW的共通的栅极驱动用的电源电压等。 多个电源电压中也可以包含向电力转换装置100A的外部供给的电源电压、例如检测马达的旋转的编码器用的电源电压等。 变压器121生成的多个电源电压中的栅极驱动用的4个电源电压相当于强电系统的电源电压,其他电源电压相当于弱电系统的电源电压。</base:Paragraphs>
+      <base:Paragraphs num="0052">变压器121还具备输出弱电系统的电源电压的多个输出销q1～qn和输出强电系统的电源电压的多个包覆导线r1～rm。 如图10所示,输出引脚q1～qn配置于基板120a的通孔,与基板120a的多种电源线电连接。 即,输出引脚q1～qn与基板120a引脚连接。 包覆导线r1～rm焊接于基板120a的连接焊盘,与基板120a的强电系统的电源线电连接。</base:Paragraphs>
+      <base:Paragraphs num="0053">弱电系统的电源电压经由输出销q1～qn输出,强电系统的电源电压经由包覆导线r1～rm输出,由此即使变压器121相对于基板120a的搭载面积小,也能够容易地确保弱电系统的电源线与强电系统的电源线的绝缘距离。 即,能够不阻碍绝缘距离的确保地实现变压器121的小型化。 通过使变压器121小型化,能够实现驱动器模块120的基板120a以及电力转换装置100A的小型化。</base:Paragraphs>
+      <base:Paragraphs num="0054">包覆导线r1～rm的被软钎焊连接的露出的导线部分被加工成绞合线且折回线,从而确保强度。</base:Paragraphs>
+      <base:Paragraphs num="0055">如图10所示,变压器121被夹在基板120a的强电系统的区域A1与弱电系统的区域A2之间而配置。 通过这样的配置,在设置于基板120a的电源线中,也能够将强电系统的电源线和弱电系统的电源线分离,与强电系统的电源线和弱电系统的电源线混合存在的情况相比,能够确保它们的绝缘距离,并且能够紧密地配置多个电源线。 因此,能够实现基板120a的紧凑化。</base:Paragraphs>
+      <base:Paragraphs num="0056">&lt;作业机械及电力转换装置的动作&gt; 
+运动控制部201按照规定的控制程序,向各电力转换装置100A～100X输出速度指令。 若输入速度指令,则各电力转换装置100A～100X分别向第1马达～第n马达（合模用马达57、注射用马达86、计量用马达83、塑化移动用马达22、喷射用马达72）输出电力,驱动第1马达～第n马达,以产生与速度指令相应的速度。 由此,作业机械1的注射装置11、塑化移动装置20、合模装置12、模具装置43以及顶出装置71协作动作,进行规定的注射成型。 </base:Paragraphs>
+      <base:Paragraphs num="0057">如上所述,根据本实施方式的作业机械1及电力转换装置100A～100X,温度传感器125在电力用开关元件MLN的正下方检测温度,因此能够高精度地检测电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的温度。 而且,通过使用高精度的温度信息,能够以高精度预测电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的寿命。 因此,能够抑制在接近寿命时发出警告等,电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW意外地破损,作业机械1的运转突然停止。 此外,在电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW中产生异常的温度时,能够迅速地对其进行判别,应对异常温度。</base:Paragraphs>
+      <base:Paragraphs num="0058">另外,根据上述实施方式,电力转换控制部132或运动控制部201进行电力用开关元件MHU、MHV、MHW、MLU、MLV、MLW的寿命推定或异常温度的监视。 因此,能够得到如下效果：在检测出异常温度时等,能够迅速地执行使电力转换装置100停止等应对。</base:Paragraphs>
+      <base:Paragraphs num="0059">另外,根据本实施方式的电力转换装置100A～100X,温度传感器125配置于功率模块110的散热器安装面116,进而配置于电力用开关元件MLN的正下方,因此能够进行更高精度的温度的检测。 而且,在外壳100h具有使温度传感器125的配线通过外部的开口窗102和贯通至外壳100h的背面侧的贯通孔103,因此能够使配线通过这些开口窗102和贯通孔103而将温度传感器125配置于散热器安装面116。</base:Paragraphs>
+      <base:Paragraphs num="0060">并且,根据本实施方式的作业机械1以及电力转换装置100A～100X,具备能够安装选项卡的卡连接用端子124。 因此,能够在使电力转换装置100A～100X的基本结构通用化的同时,通过选项卡的追加和控制程序的变更,从几个中适当选定马达的驱动方式。</base:Paragraphs>
+      <base:Paragraphs num="0061">并且,在本实施方式中,作为能够与卡连接用端子124连接的选项卡,具有测量开关脉冲的脉冲宽度的死区时间补偿用的卡128和检测UVW三相输出的电压的卡129。 由此,能够采用矢量控制以外的马达的控制方式、以及识别出静止时的转子的磁极的位置的马达的控制方式。 此外,由于在壳体100h和基板120a的卡连接端子124上方确保了用于布置选项卡的空间,因此当添加选项卡时,可以实现壳体100h和基板120a的共用。</base:Paragraphs>
+      <base:Paragraphs num="0062">并且,根据本实施方式的作业机械1以及电力转换装置100A～100X,在生成多个电源电压的变压器121中,从包覆导线r1～rm输出强电系统的电源电压,从输出引脚q1～qn输出弱电系统的电源电压。 由此,能够确保强电系统的电源线与弱电系统的电源线的绝缘距离,并且能够实现变压器121的基板搭载面的面积缩小。 进而,由此,能够实现驱动器模块120的基板面积的缩小和电力转换装置100A～100X的小型化。</base:Paragraphs>
+      <base:Paragraphs num="0063">另外,变压器121被夹在基板120a的强电系统的区域A1与弱电系统的区域A2之间而配置,因此容易将基板120a中的强电系统的电源线与弱电系统的电源线分离,由此,能够进一步缩小基板120a的面积。</base:Paragraphs>
+      <base:Paragraphs num="0064">以上,对本发明的实施方式进行了说明。 但是,本发明不限于上述的实施方式。 例如,在上述实施方式中,作为作业机械,对以注射成型机为一例的结构进行了说明,但本发明的作业机械例如包括起重机装置或薄膜输送装置（所谓的辊对辊输送机）等各种装置。 此外,在实施方式中示出的细节能够在不脱离发明的主旨的范围内适当变更。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0065">1-作业机械,22、57、72、83、86-马达,100A、100B～100X-电力转换装置,100h-壳体,102-开口窗,103-贯通孔,104-槽,110-功率模块MHU、MHV、MHW、MLU、MLV、MLW电力用开关元件,110h-模块壳体,116-散热器安装面,OUTU、OUTV、OUTW输出端子,120-驱动模块,120a-基板,A1-强电系统的区域,A2-弱电系统的区域,121-变压器,m1-一次绕组,m2～m9-二次绕组,q1～qn-输出引脚,r1～rm-包覆导线,122-输出电路,123-电流传感器,124-卡连接用端子,124A-第1端子组,124B-第2端子组,125-温度传感器</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="120" wi="82" file="2020092528_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="81" file="2020092528_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="122" wi="81" file="2020092528_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="122" wi="81" file="2020092528_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="122" wi="81" file="2020092528_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="122" wi="81" file="2020092528_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="122" wi="81" file="2020092528_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="81" file="2020092528_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="81" file="2020092528_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="122" wi="81" file="2020092528_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="94" wi="82" file="2020092528_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种作业机械,具备驱动轴、向驱动所述驱动轴的马达输出电力的多个电力用开关元件、以及控制部,所述作业机械还具备温度检测部,所述温度检测部在所述多个电力用开关元件中的至少一个电力用开关元件的正下方检测温度,并向所述控制部发送检测信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>如权利要求1所述的作业机械,其特征在于,所述控制部是进行所述电力用开关元件的开关控制的电力转换控制部,或者是输出所述驱动轴的驱动指令的运动控制部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的作业机械,其中,所述控制部基于从所述温度检测部发送的温度的信息,进行所述多个电力用开关元件的一部分或全部的寿命的推定或者异常温度的监视。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1至3中任一项所述的作业机械,其特征在于,所述作业机械是注射成型机、起重机装置或薄膜输送装置,具有多个驱动轴。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>一种电力转换装置,其具备功率模块和温度传感器,所述功率模块搭载有对电力进行转换的多个电力用开关元件,所述温度传感器对温度进行检测,所述温度传感器固定于所述功率模块的散热器安装面。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求5所述的电力转换装置,其特征在于,还具备经由配线与所述温度传感器连接的基板和收纳所述基板的外壳,所述配线通过所述外壳的外部或所述外壳的壁内的孔,延伸至所述功率模块的所述散热器安装面。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求5或6所述的电力变换装置,其中,所述温度传感器位于所述多个电力用开关元件中的至少一个的正下方。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

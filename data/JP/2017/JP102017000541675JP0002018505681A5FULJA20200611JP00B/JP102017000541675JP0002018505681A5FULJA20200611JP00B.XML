@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000541675JP0002018505681A5FULJA20200611JP00B.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2018505681" kind="A5" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018505681</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018505681</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">特許法第１７条の２の規定による補正の掲載</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>2018008</business:GazetteNumber>
+        <base:Date>00000000</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000541675</base:DocNumber>
+        <base:Date>00000000</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017541675</base:DocNumber>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>15</business:MainGroup>
+        <business:Subgroup>09</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N  15/09        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>16</business:MainGroup>
+        <business:Subgroup>46</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07K  16/46        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>15</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N   1/15        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>19</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N   1/19        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>21</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N   1/21        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="6">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>10</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N   5/10        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="7">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>08</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12P  21/08        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="8">
+        <business:IPCVersionDate>20100101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>09</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N   5/09        20100101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="9">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>16</business:MainGroup>
+        <business:Subgroup>44</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07K  16/44        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="10">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>16</business:MainGroup>
+        <business:Subgroup>28</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07K  16/28        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="11">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>35</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61P  35/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="12">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>39</business:MainGroup>
+        <business:Subgroup>395</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  39/395       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="13">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61P   1/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="14">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>18</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61P   1/18        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="15">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>51</business:MainGroup>
+        <business:Subgroup>04</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  51/04        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="16">
+        <business:IPCVersionDate>20170101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>47</business:MainGroup>
+        <business:Subgroup>54</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  47/54        20170101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="17">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>45</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  45/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="18">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>43</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61P  43/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">C12N15/00 A</business:FI>
+      <business:FI type="secondary">C07K16/46</business:FI>
+      <business:FI type="secondary">C12N1/15</business:FI>
+      <business:FI type="secondary">C12N1/19</business:FI>
+      <business:FI type="secondary">C12N1/21</business:FI>
+      <business:FI type="secondary">C12N5/10</business:FI>
+      <business:FI type="secondary">C12P21/08</business:FI>
+      <business:FI type="secondary">C12N5/09</business:FI>
+      <business:FI type="secondary">C07K16/44</business:FI>
+      <business:FI type="secondary">C07K16/28</business:FI>
+      <business:FI type="secondary">A61P35/00</business:FI>
+      <business:FI type="secondary">A61K39/395 E</business:FI>
+      <business:FI type="secondary">A61K39/395 T</business:FI>
+      <business:FI type="secondary">A61P1/00</business:FI>
+      <business:FI type="secondary">A61P1/18</business:FI>
+      <business:FI type="secondary">A61K51/04 200</business:FI>
+      <business:FI type="secondary">A61K47/54</business:FI>
+      <business:FI type="secondary">A61K45/00</business:FI>
+      <business:FI type="secondary">A61P43/00 121</business:FI>
+    </business:JPClassification>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T5</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+  </business:BibliographicData>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <base:Paragraphs num="0081">
+          <base:Image id="imag000001" he="190" wi="158" file="2018505681_000001.TIF" imgContent="drawing" imgFormat="TIFF" />
+        </base:Paragraphs>
+      </business:Description>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

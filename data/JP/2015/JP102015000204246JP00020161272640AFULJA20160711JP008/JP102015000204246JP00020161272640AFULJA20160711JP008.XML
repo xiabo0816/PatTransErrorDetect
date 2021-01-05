@@ -1,0 +1,1284 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000204246JP00020161272640AFULJA20160711JP008.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127264" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127264</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127264</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000204246</base:DocNumber>
+        <base:Date>20151016</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015204246</base:DocNumber>
+        <base:Date>20151016</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000264288</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014264288</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>27</business:MainGroup>
+        <business:Subgroup>146</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  27/146       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20110101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>369</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N   5/369       20110101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20110101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>357</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N   5/357       20110101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01L27/14 E</business:FI>
+      <business:FI type="secondary">H04N5/335 690</business:FI>
+      <business:FI type="secondary">H04N5/335 570</business:FI>
+      <business:FClass>
+        <business:FTerm>4M118AA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118AB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118BA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118BA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CA24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118DD04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118EA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118FA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118FB23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118GA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118GC08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118GD04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024CX03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024CX11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024CY47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024GX01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024GX05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024GY31</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4M118</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5C024</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">固体撮像素子およびその製造方法、並びに電子機器</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ソニー株式会社</base:Name>
+            <base:RegisteredNumber>000002185</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都港区港南１丁目７番１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>福岡  慎平</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都港区港南１丁目７番１号  ソニー株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>萬田  周治</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都港区港南１丁目７番１号  ソニー株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>平田  晋太郎</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都港区港南１丁目７番１号  ソニー株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>山口  哲司</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都港区港南１丁目７番１号  ソニー株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>古閑  史彦</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都港区港南１丁目７番１号  ソニー株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>西川  孝</base:Name>
+            <base:RegisteredNumber>100121131</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>稲本  義雄</base:Name>
+            <base:RegisteredNumber>100082131</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>20</business:ClaimsCount>
+      <base:TotalPageCount>31</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】隣接画素との電気的容量結合による信号混合を低減することができるようにする。【解決手段】固体撮像素子では、画素２Ａ、２Ｂ、２Ｃが隣接して配置されている。画素のそれぞれは、入射された光を光電変換する光電変換膜５２と、その下方に配置された下部電極５１を有する。各画素の下部電極間に、下部電極と異なる画素間電極５４を備える。【選択図】図２</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="58" file="2016127264_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本開示は、固体撮像素子およびその製造方法、並びに電子機器に関し、特に、隣接画素との電気的容量結合による信号混合を低減することができるようにする固体撮像素子およびその製造方法、並びに電子機器に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  近年、有機半導体や無機化合物半導体を光電変換膜とするイメージセンサが開発されている。これらは一般的に、光電変換膜と、それを上下で挟む電極とからなり、上下の電極のうちの少なくとも一方の電極が画素ごとに分離された素子構造をしている（例えば、特許文献１参照）。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  光電変換膜で発生された電荷は、分離された電極と接続されたシリコン内の電荷蓄積部に蓄積される。そして、蓄積された電荷に応じた信号が、MOS回路等の信号読出し部によって外部に読み出される。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２０１１－２４４０１０号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">
+  各画素の電荷蓄積部は、そこに蓄積された電荷に応じた電位になっているが、周辺画素の電荷蓄積部との間に大きな電位差がある場合、電気的容量結合により信号混合が発生する。電気的容量結合による信号混合は、解像度の低下や混色をもたらす。
+</base:Paragraphs>
+        <base:Paragraphs num="0006">
+  本開示は、このような状況に鑑みてなされたものであり、隣接画素との電気的容量結合による信号混合を低減することができるようにするものである。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0007">
+  本開示の第１の側面の固体撮像素子は、第１画素と第２画素が隣接して配置されており、前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜と、その下方に配置された下部電極を有し、前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を備える。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  本開示の第２の側面の固体撮像素子の製造方法は、隣接して配置されている第１画素と第２画素の一部として、入射された光を光電変換する光電変換膜と、その下方に配置される下部電極を形成するとともに、前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を形成する。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  本開示の第３の側面の電子機器は、第１画素と第２画素が隣接して配置されており、前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜と、その下方に配置された下部電極を有し、前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を備える固体撮像素子を備える。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  本開示の第１乃至第３の側面においては、第１画素と第２画素が隣接して配置されており、前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜と、その下方に配置された下部電極を有し、前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極が設けられる。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  本開示の第４の側面の固体撮像素子は、第１画素と第２画素が隣接して配置されており、前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜及びバッファ層と、その下方に配置された下部電極を有し、前記バッファ層と同一層の前記第１画素と第２画素の下部電極の間に、絶縁性を有する遮断層を備える。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  本開示の第４の側面においては、第１画素と第２画素が隣接して配置されており、前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜及びバッファ層と、その下方に配置された下部電極を有し、前記バッファ層と同一層の前記第１画素と第２画素の下部電極の間に、絶縁性を有する遮断層が設けられる。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  固体撮像素子及び電子機器は、独立した装置であっても良いし、他の装置に組み込まれるモジュールであっても良い。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0014">
+  本開示の第１乃至第４の側面によれば、隣接画素との電気的容量結合による信号混合を低減することができるようにする。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  なお、ここに記載された効果は必ずしも限定されるものではなく、本開示中に記載されたいずれかの効果であってもよい。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0016">
+        <base:FigureReference num="0001">本開示に係る固体撮像素子の概略構成を示す図である。</base:FigureReference>
+        <base:FigureReference num="0002">第１の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0003">下部電極と画素間電極の平面レイアウトを示す図である。</base:FigureReference>
+        <base:FigureReference num="0004">光電変換膜に関する回路構成を示す図である。</base:FigureReference>
+        <base:FigureReference num="0005">第１の実施の形態における画素の効果を説明する図である。</base:FigureReference>
+        <base:FigureReference num="0006">画素間電極のその他のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0007">画素間電極のその他のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0008">第２の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0009">第３の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0010">配線層とコンタクトビアの平面レイアウトを示す図である。</base:FigureReference>
+        <base:FigureReference num="0011">第４の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0012">第５の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0013">第６の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0014">下部電極と画素間電極の平面レイアウトを示す図である。</base:FigureReference>
+        <base:FigureReference num="0015">第７の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0016">第１の実施の形態の製造方法を説明する図である。</base:FigureReference>
+        <base:FigureReference num="0017">第１の実施の形態の製造方法を説明する図である。</base:FigureReference>
+        <base:FigureReference num="0018">第１の実施の形態の製造方法を説明する図である。</base:FigureReference>
+        <base:FigureReference num="0019">第８の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0020">第９の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0021">第９の実施の形態における画素間電極のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0022">第９の実施の形態における画素間電極のその他のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0023">第９の実施の形態における画素間電極のその他のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0024">第１０の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0025">第１０の実施の形態における画素間電極のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0026">第１０の実施の形態における画素間電極のその他のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0027">第１０の実施の形態における画素間電極のその他のレイアウト例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0028">第１１の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0029">第１２の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0030">第１３の実施の形態における画素の断面構成図である。</base:FigureReference>
+        <base:FigureReference num="0031">第１３の実施の形態の製造方法を説明する図である。</base:FigureReference>
+        <base:FigureReference num="0032">本開示に係る電子機器としての撮像装置の構成例を示すブロック図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0017">
+  以下、本開示を実施するための形態（以下、実施の形態という）について説明する。なお、説明は以下の順序で行う。
+１．固体撮像素子の概略構成例
+２．画素の第１の実施の形態（画素間電極を有する構成）
+３．画素の第２の実施の形態（画素間電極がGND領域に接続された構成）
+４．画素の第３の実施の形態（画素間電極が画素内の配線層に接続された構成）
+５．画素の第４の実施の形態（絶縁膜が平坦化されない構成）
+６．画素の第５の実施の形態（画素間電極と光電変換膜が接しない構成）
+７．画素の第６の実施の形態（画素間電極の電荷が蓄積される構成）
+８．画素の第７の実施の形態（光電変換膜が全波長の光を光電変換する構成）
+９．第１の実施の形態の製造方法
+１０．画素の第８の実施の形態（裏面照射型の構成）
+１１．画素の第９の実施の形態（画素間電極が下部電極より下層に形成される第１構成例）
+１２．画素の第１０の実施の形態（画素間電極が下部電極より下層に形成される第２構成例）
+１３．画素の第１１の実施の形態（画素間電極が下部電極より下層に形成される第３構成例）
+１４．画素の第１２の実施の形態（画素間電極が下部電極より下層に形成される第４構成例）
+１５．画素の第１３の実施の形態（光電変換部にバッファ層と遮断層を有する構成例）
+１６．電子機器への適用例
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+＜１．固体撮像素子の概略構成例＞
+  図１は、本開示に係る固体撮像素子の概略構成を示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  図１の固体撮像素子１は、半導体として例えばシリコン（Si）を用いた半導体基板１２に、画素２が行列状に２次元配置されている画素アレイ部３と、その周辺の周辺回路部とを有して構成される。周辺回路部には、垂直駆動回路４、カラム信号処理回路５、水平駆動回路６、出力回路７、制御回路８などが含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  画素２は、光電変換素子と、複数の画素トランジスタを有して成る。複数の画素トランジスタは、例えば、選択トランジスタ、リセットトランジスタ、及び、出力トランジスタ（増幅トランジスタ）の３つのMOSトランジスタで構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  垂直駆動回路４は、例えばシフトレジスタによって構成され、画素駆動配線１０を選択し、選択された画素駆動配線１０に画素２を駆動するためのパルスを供給し、行単位で画素２を駆動する。すなわち、垂直駆動回路４は、画素アレイ部３の各画素２を行単位で順次垂直方向に選択走査し、各画素２の光電変換部において受光量に応じて生成された電荷（信号電荷）に基づく画素信号を、垂直信号線９を通してカラム信号処理回路５に供給する。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  カラム信号処理回路５は、画素２の列ごとに配置されており、１行分の画素２から出力される信号を画素列ごとにノイズ除去などの信号処理を行う。例えば、カラム信号処理回路５は、画素固有の固定パターンノイズを除去するためのCDS(Correlated Double Sampling：相関２重サンプリング)およびAD変換等の信号処理を行う。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  水平駆動回路６は、例えばシフトレジスタによって構成され、水平走査パルスを順次出力することによって、カラム信号処理回路５の各々を順番に選択し、カラム信号処理回路５の各々から画素信号を水平信号線１１に出力させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  出力回路７は、カラム信号処理回路５の各々から水平信号線１１を通して順次に供給される信号に対し所定の信号処理を行って、出力端子１３を介して出力する。出力回路７は、例えば、バファリングだけする場合もあるし、黒レベル調整や列ばらつき補正などの各種のデジタル信号処理が行われる場合もある。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  制御回路８は、入力クロックと、動作モードなどを指令するデータを受け取り、また固体撮像素子１の内部情報などのデータを出力する。すなわち、制御回路８は、垂直同期信号、水平同期信号及びマスタクロックに基づいて、垂直駆動回路４、カラム信号処理回路５及び水平駆動回路６などの動作の基準となるクロック信号や制御信号を生成する。そして、制御回路８は、生成したクロック信号や制御信号を、垂直駆動回路４、カラム信号処理回路５及び水平駆動回路６等に出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  以上のように構成される固体撮像素子１は、CDS処理とAD変換処理を行うカラム信号処理回路５が画素列ごとに配置されたカラムAD方式と呼ばれるCMOSイメージセンサである。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+＜２．画素の第１の実施の形態＞
+＜画素の断面構成図＞
+  図２を参照して、図１の固体撮像素子１の画素２の第１の実施の形態について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  図２は、第１の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  なお、図２では、画素２が横方向に３個並んで配置されており、これら３個の画素２を、便宜上、図面の左側から、画素２A、画素２B、画素２Cと記述して示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  半導体基板１２の第１導電型（例えば、P型）の半導体領域４１内に、第２導電型（例えば、N型）の半導体領域４２及び４３を深さ方向に積層して形成することにより、PN接合によるフォトダイオードPD１およびPD２が、深さ方向に形成されている。半導体領域４２を電荷蓄積領域とするフォトダイオードPD１は、青色の光を受光して光電変換する無機光電変換部であり、半導体領域４３を電荷蓄積領域とするフォトダイオードPD２は、赤色の光を受光して光電変換する無機光電変換部である。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  半導体基板１２の表面側（図中上側）には、複数の配線層と層間絶縁膜とからなる多層配線層４４が形成されている。多層配線層４４の層間絶縁膜は、例えば、ハフニウム酸化（HfO2）膜、シリコン酸化膜、シリコン窒化膜など、透明な絶縁膜で構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  多層配線層４４の上側には、光電変換膜５２が、その下側の下部電極５１と上側の上部電極５３で挟まれた形で配置されている。光電変換膜５２が形成されている領域のうち、下部電極５１と上部電極５３で挟まれた領域が、入射光を光電変換する領域であり、下部電極５１、光電変換膜５２、及び上部電極５３は、光電変換部６１を構成する。光電変換膜５２は、緑色の波長光を光電変換する膜として、例えば、ローダーミン系色素、メラシアニン系色素、キナクリドン等を含む有機光電変換材料で形成される。下部電極５１と上部電極５３は、例えば、酸化インジウム錫（ITO）膜、酸化インジウム亜鉛膜等で形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  なお、光電変換膜５２を、赤色の波長光を光電変換する膜とする場合には、例えば、フタロシアニン系色素を含む有機光電変換材料を用いることができる。また、青色の波長光を光電変換する膜とする場合には、クマリン系色素、トリス－８－ヒドリキシキノリンＡｌ（Ａｌｑ３）、メラシアニン系色素等を含む有機光電変換材料を用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  上部電極５３は、全画素共通に全面に形成されているのに対して、下部電極５１は、画素単位に形成されている。そして、画素ごとに分離された下部電極５１の間に、下部電極５１と異なる他の電極である画素間電極５４が形成されている。ここで、上部電極５３を第１の電極、下部電極５１を第２の電極とすると、画素間電極５４は、第３の電極である。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  本実施の形態では、画素間電極５４は、下部電極５１と同じ材料により形成されることとするが、タングステン（Ｗ）、アルミニウム（Al）、銅（Cu）などの金属材料で形成することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  図３は、画素アレイ部３内の下部電極５１と画素間電極５４の平面レイアウトを示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  図３に示されるように、画素単位に形成されている矩形状の下部電極５１は、画素２の配置に対応して２次元配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  一方、画素間電極５４は、各画素２の境界上であって、隣り合う下部電極５１の間に、所定のパターン幅で格子状に形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  画素間電極５４は、画素アレイ部３の周辺の配線層（不図示）と接続されており、その配線層を介して、画素間電極５４に所定の電圧V3が供給される。図２では、例えば、垂直駆動回路４または制御回路８が、画素アレイ部３周辺の配線層を介して画素間電極５４に電圧V3を供給する状態を、破線で示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  図２に戻り、画素間電極５４には、画素アレイ部３周辺の配線層から所定の電圧V3が供給され、第１の電極である上部電極５３には、画素アレイ部３周辺の配線層から所定の電圧V1が供給される。このとき、電圧V1と電圧V3の関係は、光電変換部６１において入射光に応じて生成される信号電荷が正孔である場合、V1&gt;V3であり、生成される信号電荷が電子である場合、V1&lt;V3である。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  下部電極５１は、多層配線層４４内に形成された金属配線４５により、出力トランジスタ４６のゲート電極４６Gと、半導体基板１２内のFD部（フローティングディフージョン部）４７と接続されている。出力トランジスタ（増幅トランジスタ）４６は、光電変換部６１で生成された電荷を画素信号として画素外へ出力する出力トランジスタである。FD部４７は、光電変換膜５２で生成された電荷を、読み出されるまでの間、一時的に保持する領域である。FD部４７は、例えば、第２導電型（例えば、N型）の半導体領域で形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  なお、多層配線層４４及び半導体基板１２の半導体領域４１には、フォトダイオードPD１およびPD２で生成された電荷の読み出し等を行う複数の画素トランジスタやFD部なども勿論形成されているが、図示が省略されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  上部電極５３の上面には、シリコン窒化膜（SiN）、シリコン酸窒化膜（SiON）、炭化珪素（SiC）等の無機膜により、高屈折率層５６が形成されている。高屈折率層５６の上には、オンチップレンズ５７が形成されている。オンチップレンズ５７の材料には、例えば、シリコン窒化膜（SiN）、または、スチレン系樹脂、アクリル系樹脂、スチレン－アクリル共重合系樹脂、若しくはシロキサン系樹脂等の樹脂系材料が用いられる。高屈折率層５６は、屈折角を大きくし、集光効率を高める効果がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  以上の画素構造を有する固体撮像素子１は、緑色の光については半導体基板（シリコン層）１２の上方に形成された光電変換膜５２で光電変換し、青色と赤色の光については半導体基板１２内のフォトダイオードPD１及びPD２で光電変換する縦方向分光型の固体撮像素子である。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  また、固体撮像素子１は、多層配線層４４が形成されている半導体基板１２の表面側から光が入射される表面照射型のCMOS固体撮像素子である。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+＜光電変換膜に関する回路構成例＞
+  図４は、画素２のうち、光電変換膜５２で光電変換された電荷を出力する部分の回路構成例を示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  画素２は、出力トランジスタ４６、FD部４７、光電変換部６１、リセットトランジスタ６２、および選択トランジスタ６３を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  光電変換部６１は、図２で説明した下部電極５１、光電変換膜５２、及び上部電極５３で構成され、受光した光量に応じた電荷（信号電荷）を生成し、かつ、蓄積する。光電変換部６１の一部である下部電極５１が、図２に示したように、FD部４７と、出力トランジスタ４６のゲート電極４６Gに接続されている。したがって、光電変換膜５２で生成された電荷は、下部電極５１、FD部４７、及び出力トランジスタ４６のゲート電極４６Gの全体で保持される。以下では、下部電極５１、FD部４７、及び出力トランジスタ４６のゲート電極４６Gを、電荷蓄積部ともいう。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  FD部４７は、光電変換部６１で生成された電荷を蓄積する。リセットトランジスタ６２は、リセット信号RSTによりオンされたとき、FD部４７に蓄積されている電荷がソース（例えば、GND）に排出されることで、FD部４７の電位をリセットする。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  出力トランジスタ４６は、FD部４７の電位に応じた画素信号を出力する。すなわち、出力トランジスタ４６は、垂直信号線９を介して接続されている定電流源としての負荷MOS（不図示）とソースフォロワ回路を構成し、FD部４７等に蓄積されている電荷に応じたレベルを示す画素信号が、出力トランジスタ４６から選択トランジスタ６３を介してカラム信号処理回路５（図１）に出力される。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  選択トランジスタ６３は、選択信号SELにより画素２が選択されたときオンされ、画素２の画素信号を、垂直信号線９を介してカラム信号処理回路５に出力する。選択信号SEL及びリセット信号RSTが伝送される各信号線は、図１の画素駆動配線１０に対応する。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  以上のように、光電変換膜５２により光電変換する場合には、下部電極５１、FD部４７、及び出力トランジスタ４６のゲート電極４６Gの全体で、生成された電荷を蓄積するため、転送トランジスタは不要である。また、下部電極５１と出力トランジスタ４６のゲート電極４６Gのみで、生成された電荷を蓄積することができれば、FD部４７も省略することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  画素２には、以上の構成の他、フォトダイオードPD１およびPD２と、その読み出し回路が含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  次に、図２を再び参照して、固体撮像素子１の各画素２の動作について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  各画素２の電荷蓄積部は、その画素に入射された光量に応じて生成された電荷に応じた電位となっている。ここで、画素２Aと画素２Bに異なる光量の光が入射された場合、画素２Aの電荷蓄積部の電圧V<base:Sub>A</base:Sub>と、隣りの画素２Bの電荷蓄積部の電圧V<base:Sub>B</base:Sub>に、大きな電位差が生じる。仮に、画素間電極５４が設けられていない場合、画素２Aの電荷蓄積部と画素２Bの電荷蓄積部の電気的容量結合により、信号混合が発生する。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  これに対し、本実施の形態では、画素２Aの下部電極５１と画素２Bの下部電極５１との間に、画素間電極５４が設けられており、画素間電極５４には電圧V3が印加されているため、画素２Aと画素２Bの間の画素間電極５４は、画素２Aと画素２Bの電荷蓄積部の容量結合をシールドする働きを持つ。これにより、画素２Aの電荷蓄積部の電圧V<base:Sub>A</base:Sub>と画素２Bの電荷蓄積部の電圧V<base:Sub>B</base:Sub>がそれぞれに保たれ、優れた空間解像度、色分離性に優れた撮像信号を得ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  次に、光電変換が長時間続いた場合、または、強い光量の光が画素２Aと画素２Bに入射された場合について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  光電変換膜５２の開放電圧をV<base:Sub>OC</base:Sub>とすると、光電変換が長時間続いた場合、または、強い光量の光が画素２Aと画素２Bに入射された場合、仮に、画素間電極５４が設けられていないとすると、画素２Aの電荷蓄積部の電位V<base:Sub>A</base:Sub>と画素２Bの電荷蓄積部の電位V<base:Sub>B</base:Sub>は、上部電極５３に印加されている電圧V3に開放電圧V<base:Sub>OC</base:Sub>を足した値Vmax＝V1＋V<base:Sub>OC</base:Sub>となる。これにより、出力トランジスタ４６のゲート電極４６Gにも電位Vmaxが印加される。光電変換膜５２の特性向上のためには、上部電極５３に印加する電圧V１を大きくするのが常套手段であるが、電圧V1を大きくすると、Vmaxの値も上昇することになるので、電荷蓄積部や出力トランジスタ４６のゲート絶縁膜に強電界が印加され、信頼性問題や白点増加を引き起こす。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  これに対して、本画素構造のように、画素２Aの下部電極５１と画素２Bの下部電極５１との間に、画素間電極５４が設けられている場合には、画素２Aの電荷蓄積部の電位V<base:Sub>A</base:Sub>と、画素間電極５４の電圧V3との電圧差分｜V<base:Sub>A</base:Sub>－V3｜が、所定の値以上になった場合に、下部電極５１から画素間電極５４へ、リーク電流が流れる。その結果、画素２Aの電荷蓄積部の電位V<base:Sub>A</base:Sub>を、Vmaxより低い値に抑えることができる。これにより、上部電極５３に印加する電圧V1を、制限なく大きくすることができるようになり、光電変換膜５２の特性向上を実現することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  また、本画素構造によれば、画素２Aの下部電極５１で捕獲される電荷の数（キャリア数）N<base:Sub>1</base:Sub>と、画素間電極５４で捕獲される電荷の数（キャリア数）N<base:Sub>3</base:Sub>のキャリア比M＝N<base:Sub>1</base:Sub>／N<base:Sub>3</base:Sub>を、画素間電極５４の印加電圧V3で制御することができる。具体的には、画素２Aの電荷蓄積部の電圧V<base:Sub>A</base:Sub>に対して、|V1-V<base:Sub>A</base:Sub>|&gt;|V3-V<base:Sub>A</base:Sub>|となるように画素間電極５４の印加電圧V3を設定すれば、上記の比Mを大きくすることができ、|V1-V<base:Sub>A</base:Sub>|&lt;|V3-V<base:Sub>A</base:Sub>|となるように画素間電極５４の印加電圧V3を設定すれば、上記のキャリア比Mを小さくすることができる。このことは、光量に応じて画素間電極５４の印加電圧V3を制御することで、画素２Aの感度を制御することができることを意味する。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  図５には、光電変換膜５２の領域を、下部電極５１と上部電極５３で挟まれた領域８１と、下部電極５１がない領域８２を分けて示した。画素間電極５４が配置されていない場合であっても、領域８２において僅かに電荷が発生する。このとき、下部電極５１がない領域８２の電界強度は、下部電極５１がある領域８１の電界強度と比べると弱いため、領域８２で発生した電荷が、遅れた電荷として作用して残像となり、例えば、動被写体を撮影したときの問題となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  これに対して、本画素構造のように、隣接する画素２の下部電極５１の間に画素間電極５４を設けた場合には、下部電極５１がない領域８２で発生した電荷を、不要電荷として、画素間電極５４から引き抜くことができるので、残像を抑制することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  また、本画素構造によれば、画素２Aの電荷蓄積部の電圧V<base:Sub>A</base:Sub>を、上部電極５３の印加電圧V1を制御することで、リセットすることができるという利点もある。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  すなわち、画素２Aの電荷蓄積部の電圧V<base:Sub>A</base:Sub>をリセットするためには、図４を参照して説明したようにリセットトランジスタ６２を設けるのが一般的であるが、上部電極５３に印加する電圧V1を制御してリークを発生させることで、画素２Aの電荷蓄積部の電圧V<base:Sub>A</base:Sub>を、画素間電極５４の印加電圧V3にリセットすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  具体的には、例えば、信号電荷が正孔である場合、上部電極５３には電圧V１が印加され、画素間電極５４には電圧V3（V1&gt;V3）が印加される。ここで、例えば垂直駆動回路４が、上部電極５３に供給する電圧V１を所定の電圧以下に設定すると、下部電極５１と画素間電極５４との間でリークが発生し、画素２Aの電荷蓄積部の電圧V<base:Sub>A</base:Sub>が画素間電極５４の印加電圧V3にリセットされる。画素間電極５４の印加電圧V3がGNDである場合には、GNDにリセットすることができる。この場合、リセットトランジスタ６２は省略することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  以上のように、固体撮像素子１の第１の実施の形態の画素構造によれば、隣接画素との電気的容量結合による信号混合を低減することができ、信頼性や光電変換特性を向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+＜画素間電極のその他のレイアウト例＞
+  図６及び図７は、画素間電極５４のその他のレイアウト例を示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  図３に示した画素間電極５４のレイアウトでは、画素間電極５４が、水平方向及び垂直方向に切れ目なく形成されていた。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  しかしながら、画素間電極５４は、例えば、図６に示されるように、水平方向については所定の位置で分離されるように形成されてもよい。図６の例は、１画素列単位で分離されているが、複数画素列単位で分離されてもよい。また、図示は省略するが、垂直方向の所定の位置で、１画素列以上の単位で分離されるように形成することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  あるいはまた、図７に示されるように、格子状の画素間電極５４の交差部分が省略されることにより、画素間電極５４のパターンが画素アレイ部３内で複数に分離される形状でもよい。図７の例では、水平及び垂直方向において、２画素間隔で格子状の画素間電極５４の交差部分が省略されているが、３画素以上の間隔でもよいし、１画素間隔としてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+＜３．画素の第２の実施の形態＞
+＜画素の断面構成図＞
+  次に、図８を参照して、図１の固体撮像素子１の画素２の第２の実施の形態について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  図８は、第２の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  なお、第２の実施の形態では、上述した第１の実施の形態と対応する部分については同一の符号を付してあり、その部分の説明は省略する。後述するその他の実施の形態についても同様とする。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  第２の実施の形態では、画素間電極５４が、多層配線層４４内に形成された金属配線９１により、半導体領域４１内のGND領域９２に接続されている点が、第１の実施の形態と異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  このようにした場合でも、固体撮像素子１は、上述した第１の実施の形態と同様の効果を有する。なお、第１の実施の形態における所定の電圧V3は、GNDでもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+＜４．画素の第３の実施の形態＞
+＜画素の断面構成図＞
+  図９及び図１０を参照して、図１の固体撮像素子１の画素２の第３の実施の形態について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  図９は、第３の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  第３の実施の形態では、画素間電極５４の下側（半導体基板１２側）に、配線層１０１が形成されており、画素間電極５４が、コンタクトビア１０２を介して、配線層１０１と接続されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  画素間電極５４には、第１の実施の形態と同様に、配線層１０１とコンタクトビア１０２を介して所定の電圧V3が供給される。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  図１０は、下部電極５１と画素間電極５４のレイアウトに、配線層１０１とコンタクトビア１０２を重ねた平面図である。なお、コンタクトビア１０２は、実際には、画素間電極５４よりも下側（配線層１０１側）に配置されているが、図１０では、位置を理解しやすくするため、画素間電極５４の上側に示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  図１０では、配線層１０１が、格子状の画素間電極５４の列方向のみに、ストライプ状に配置されており、コンタクトビア１０２が、格子状の画素間電極５４の交差部分に形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  このように、画素間電極５４には、画素アレイ部３周辺の配線層からではなく、画素内の配線層１０１から電圧V3を供給することもできる。画素間電極５４を、例えば、酸化インジウム錫（ITO）膜など、下部電極５１と同種の抵抗の高い膜で形成した場合には、画素内の配線層１０１で裏打ちすることで、抵抗値を下げることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0083">
+  なお、図１０の例では、配線層１０１を列方向のストライプ状に形成したが、行方向のみに形成したストライプ状としてもよい。また、画素間電極５４と同様に格子状にしてもよい。さらに、コンタクトビア１０２の配置、すなわち、配線層１０１と画素間電極５４との接続点も、画素間電極５４の交差部分に限定されず、それ以外の場所としてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0084">
+＜５．画素の第４の実施の形態＞
+＜画素の断面構成図＞
+  図１１は、第４の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0085">
+  第４の実施の形態の構造を、図２に示した第１の実施の形態と比較すると、第４の実施の形態と第１の実施の形態とでは、多層配線層４４の最上面の形状が異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0086">
+  すなわち、図２に示した第１の実施の形態では、多層配線層４４の最上面の位置が、下部電極５１や画素間電極５４の最上面の位置に合わせて平坦化されているのに対して、第４の実施の形態では、下部電極５１と画素間電極５４の間の多層配線層４４の位置が、下部電極５１や画素間電極５４の最上面の位置よりも高く形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0087">
+  図２に示した第１の実施の形態の構造では、図１７を参照して後述するように、下部電極５１や画素間電極５４の上面に形成された多層配線層４４の絶縁膜を平坦化するプロセスが行われる。一方、第４の実施の形態の構造では、多層配線層４４の絶縁膜を平坦化するプロセスを省略することができるので、工程数を減らすことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0088">
+＜６．画素の第５の実施の形態＞
+＜画素の断面構成図＞
+  図１２は、第５の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0089">
+  第５の実施の形態の構造を、図２に示した第１の実施の形態と比較すると、第５の実施の形態においても、多層配線層４４の最上面の形状が、第１の実施の形態と異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0090">
+  すなわち、図２に示した第１の実施の形態では、多層配線層４４の最上面の位置が、下部電極５１や画素間電極５４の最上面の位置に合わせて平坦化されているのに対して、第５の実施の形態では、隣接する下部電極５１どうしの間の多層配線層４４の位置が、下部電極５１や画素間電極５４の最上面の位置よりも高く形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0091">
+  また、第５の実施の形態の構造を、図１１に示した第４の実施の形態と比較すると、第４の実施の形態では、画素間電極５４が光電変換膜５２と接しているのに対して、第５の実施の形態では、画素間電極５４と光電変換膜５２との間に、多層配線層４４の絶縁膜が挿入されている。多層配線層４４の絶縁膜は、光電変換機能を有さない膜である。画素間電極５４と光電変換膜５２との間の多層配線層４４の絶縁膜の厚みは、画素間電極５４に印加される電圧V3よりも低い電圧でトンネル電流が流れる厚みに設定される。
+</base:Paragraphs>
+      <base:Paragraphs num="0092">
+＜７．画素の第６の実施の形態＞
+＜画素の断面構成図＞
+  図１３は、第６の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0093">
+  第６の実施の形態の構造を、図２に示した第１の実施の形態と比較すると、第６の実施の形態と第１の実施の形態とでは、画素間電極５４の接続先が異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0094">
+  すなわち、図２に示した第１の実施の形態では、画素間電極５４は画素アレイ部３周辺の配線層と接続され、画素間電極５４に所定の電圧V3が供給された。
+</base:Paragraphs>
+      <base:Paragraphs num="0095">
+  一方、第６の実施の形態では、画素間電極５４は、それ専用に設けられた出力トランジスタ１４１のゲート電極１４１GとFD部１４２に、多層配線層４４内に形成された金属配線１４３によって接続されている。また、図示は省略するが、画素間電極５４で捕獲された電荷をリセットするリセットトランジスタと選択トランジスタも、光電変換部６１と同様に設けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0096">
+  図１４は、第６の実施の形態における下部電極５１と画素間電極５４の平面レイアウトを示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0097">
+  第６の実施の形態の画素間電極５４の配置は、図７に示した平面レイアウトとなっている。すなわち、格子状の画素間電極５４の交差部分の一部が省略されることによりパターン分離された画素間電極５４が、２×２からなる４画素の下部電極５１の間に、十字の形状となるように配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0098">
+  固体撮像素子１が、動作モードとして、２×２からなる４画素の画素信号を加算して出力する画素加算モードを備える場合、固体撮像素子１は、図７において破線で囲まれた４画素を出力単位として、破線内の画素間電極５４で捕獲された電荷の信号も、画素信号の一部として出力トランジスタ１４１から出力する。これにより、出力単位となる破線内の４画素における画素信号は、各画素の下部電極５１で捕獲された電荷の信号と、破線内の画素間電極５４で捕獲された電荷の信号とを加算した信号となり、４画素の領域内で受光される光を、ロスなく光電変換して画素信号として出力することができる。破線で囲まれた出力単位に含まれない画素間電極５４には、リセットトランジスタをオンすることにより電荷を排出させることで、上述した他の実施の形態と同様、シールド機能が働く。
+</base:Paragraphs>
+      <base:Paragraphs num="0099">
+  また、全ての画素間電極５４で捕獲された電荷を、リセットトランジスタをオンすることにより排出させるようにした場合には、上述した第１乃至第５の実施の形態と同様のシールド機能が働く。
+</base:Paragraphs>
+      <base:Paragraphs num="0100">
+＜８．画素の第７の実施の形態＞
+＜画素の断面構成図＞
+  図１５は、第７の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0101">
+  上述した第１乃至第６の実施の形態では、各画素２が、光電変換部６１とフォトダイオードPD１及びPD２により、赤色（R）、緑色（G）、及び青色（B）の全ての波長光を受光するのに対して、第７の実施の形態では、各画素２が、赤色（R）、緑色（G）、または、青色（B）のいずれかの波長光のみを受光する点が異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  図１５の第７の実施の形態の構造を、図２に示した第１の実施の形態と比較すると、第７の実施の形態と第１の実施の形態とでは、図２の緑色の波長光を光電変換する光電変換膜５２が、図１５では、赤色（R）、緑色（G）、及び青色（B）の全ての波長光を光電変換する光電変換膜１６１に置き換えられている。また、半導体基板１２内には、青色の光を受光するフォトダイオードPD１と、赤色の光を受光するフォトダイオードPD２が設けられていない。
+</base:Paragraphs>
+      <base:Paragraphs num="0103">
+  さらに、図１５では、高屈折率層５６とオンチップレンズ５７との間に、赤色（R）、緑色（G）、または青色（B）の波長光を通過させるカラーフィルタ１６２が新たに設けられている。カラーフィルタ１６２の赤色（R）、緑色（G）、または青色（B）の各色は、例えば、ベイヤー配列で配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0104">
+  したがって、光電変換膜１６１には、カラーフィルタ１６２を通過した赤色（R）、緑色（G）、または青色（B）のいずれかの波長光のみが到達するので、各画素２は、赤色（R）、緑色（G）、または青色（B）のいずれかの波長光のみを受光する。
+</base:Paragraphs>
+      <base:Paragraphs num="0105">
+  以上説明した第２の実施の形態乃至第７の実施の形態においても、第１の実施の形態で説明した、画素間電極５４を備えることによる上述の効果が得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0106">
+＜９．第１の実施の形態の製造方法＞
+  次に、図１６乃至図１８を参照しながら、図２に示した第１の実施の形態に係る画素２の製造方法について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0107">
+  初めに、図１６のAに示されるように、半導体基板１２の半導体領域４１内に、フォトダイオードPD１及びPD２が形成されるとともに、半導体基板１２の表面側（図中上側）には、複数の配線層と層間絶縁膜とからなる多層配線層４４が形成される。半導体基板１２の表面側界面には、出力トランジスタ４６、FD部４７、フォトダイオードPD１及びPD２に蓄積された電荷の読み出し等を行う複数の画素トランジスタなどが形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0108">
+  そして、図１６のBに示されるように、多層配線層４４の上面に、例えばITO（酸化インジウム錫）膜２０１が所定の膜厚で形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0109">
+  次に、図１６のCに示されるように、多層配線層４４の全面に形成されたITO膜２０１のうち、所定の領域がリソグラフィによりパターニングされることにより、下部電極５１及び画素間電極５４が形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0110">
+  そして、図１７のAに示されるように、下部電極５１及び画素間電極５４の上側に、透明絶縁膜２０２が積層される。その後、透明絶縁膜２０２が、図１７のBに示されるように、下部電極５１及び画素間電極５４と同じ膜厚となるまで、例えばCMP（Chemical Mechanical Polishing）により除去され、平坦化される。
+</base:Paragraphs>
+      <base:Paragraphs num="0111">
+  続いて、図１７のCに示されるように、光電変換膜５２、上部電極５３、及び、高屈折率層５６が、順に形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0112">
+  次に、図１８のAに示されるように、高屈折率層５６の上面にさらに、オンチップレンズ５７の材料である樹脂系材料２０３を形成した後、フォトレジスト２１１がレンズ形状に形成される。そして、レンズ形状のフォトレジスト２１１に基づいてエッチバックすることにより、図１８のBに示されるように、各画素２の最上部にオンチップレンズ５７が形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0113">
+  以上のようにして、図２に示した第１の実施の形態の画素２を製造することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0114">
+＜１０．画素の第８の実施の形態＞
+＜画素の断面構成図＞
+  図１９は、第８の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0115">
+  上述した第１乃至第７の実施の形態では、多層配線層４４が形成されている半導体基板１２の表面側を受光面側とする、いわゆる表面照射型のCMOS固体撮像素子であったが、裏面照射型の構成とすることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0116">
+  図１９は、固体撮像素子１を裏面照射型とした場合の画素２の断面構成を示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0117">
+  具体的には、図１９において半導体基板１２の下側となる半導体基板１２の表面側には、多層配線層４４が形成され、反対側である半導体基板１２の裏面側に、透明絶縁膜２３１を介して、光電変換部６１や画素間電極５４、高屈折率層５６、及び、オンチップレンズ５７が形成されている。透明絶縁膜２３１は、例えば、ハフニウム酸化（HfO2）膜とシリコン酸化膜の２層または３層の膜からなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0118">
+  表面側の多層配線層４４には、上述したFD部４７と、出力トランジスタ４６を含む複数の画素トランジスタが形成されている。FD部４７と出力トランジスタ４６のゲート電極４６Gは、多層配線層４４内に形成された金属配線２４１、半導体基板１２の半導体領域４１を貫通して形成されている導電性プラグ２４２、及び、透明絶縁膜２３１を貫通する金属配線２４３により、光電変換部６１の下部電極５１と接続されている。金属配線２４１は、例えば、タングステン（Ｗ）、アルミニウム（Al）、銅（Cu）などの金属材料で形成される。また、導電性プラグ２４２の外周は、SiO2若しくはSiN等の絶縁膜で絶縁されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0119">
+  このような裏面照射型の画素構造においても、下部電極５１の間に、画素間電極５４を備えることにより、第１の実施の形態で説明した効果が得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0120">
+  なお、図１９は、図２に示した第１の実施の形態に係る画素構造を裏面照射型に適用した構造であるが、その他の第２の実施の形態乃至第７の実施の形態に係る画素構造を裏面照射型とすることも勿論可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0121">
+＜１１．画素の第９の実施の形態＞
+＜画素の断面構成図＞
+  図２０は、第９の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0122">
+  第９の実施の形態では、画素間電極５４が、画素ごとに分離された下部電極５１と同一層ではなく、下部電極５１が形成された層よりも下層に形成されている。換言すれば、上述した第１乃至第８の実施の形態と第９の実施の形態とでは、画素間電極５４が形成される深さ方向の位置が異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0123">
+  上述した第１乃至第８の実施の形態において画素間電極５４が配置されていた、隣接する下部電極５１どうしの間には、多層配線層４４の絶縁膜が配置され、絶縁膜と下部電極５１の上面は、同一平面に平坦化されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0124">
+  一方、画素間電極５４が形成されている層は、例えば、図２０に示されるように、多層配線層４４のなかの所定の配線層４０１と同じ層である。画素間電極５４は、下部電極５１と同じ材料で形成することができるが、タングステン（Ｗ）、アルミニウム（Al）、銅（Cu）などの金属材料で形成することもできる。画素間電極５４の材料として、配線層４０１の材料と同一の金属材料を用いた場合には、配線層４０１と同一の製造方法で、配線層４０１と同時に形成することができ、画素間電極５４は遮光性を備える。なお、画素間電極５４は、多層配線層４４のなかの各配線層４０１のいずれとも異なる層に形成してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0125">
+  図２０に示したように、画素間電極５４を下部電極５１と異なる層に配置することで、画素間をより縮めることが可能となるので、画素サイズをより小さくすることができる。あるいは、画素間を縮めない場合には、下部電極５１の平面サイズを大きく形成することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0126">
+  図２１は、画素間電極５４を下部電極５１と異なる層に配置した場合の画素間電極５４と下部電極５１の平面レイアウトの例を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0127">
+  画素間電極５４は、基本的には、図３と同じように、各画素２の境界上であって、隣り合う下部電極５１の間に、所定のパターン幅で格子状に形成することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0128">
+  画素間電極５４は、画素アレイ部３の周辺の配線層（不図示）と接続されており、その配線層を介して、画素間電極５４に所定の電圧V3が供給される。なお、画素間電極５４に供給される所定の電圧V3は、固定（一定）の電圧値でもよいし、時間経過に応じて変動する電圧値でもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0129">
+  図２２及び図２３は、画素間電極５４と下部電極５１の平面レイアウトのその他の例を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0130">
+  画素間電極５４は、図２２に示されるように、行方向（水平方向）に隣り合う画素間については画素アレイ部３全体に対して線状（図２２では、縦縞状）に形成され、列方向（垂直方向）に隣り合う画素間については、図２１の格子状の画素間電極５４の交差部分のみが形成されるようにしてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0131">
+  あるいはまた、図２３に示されるように、画素間電極５４は、行方向に隣り合う画素間についてのみ、画素アレイ部３全体に対して線状（縦縞状）に形成される構成や、図示は省略するが、列方向に隣り合う画素間についてのみ、画素アレイ部３全体に対して線状（横縞状）に形成される構成としてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0132">
+＜１２．画素の第１０の実施の形態＞
+＜画素の断面構成図＞
+  図２４は、第１０の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0133">
+  第１０の実施の形態の画素間電極５４は、図２０に示した第９の実施の形態の画素間電極５４と同一部分である、平面方向に拡がる平面電極部４０２Aと、平面電極部４０２Aの断面視中央部分において下部電極５１の下面と同一平面まで上方向に伸びた突き出し電極部４０２Bとで構成される。このように画素間電極５４の断面形状を、平面電極部４０２Aと突き出し電極部４０２Bとからなる逆T字状に形成することで、図２０に示した第９の実施の形態における場合よりも、画素間電極５４から下部電極５１までの距離が短くなるので、画素間電極５４に印加される電圧V3によるシールド作用を、より強めることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0134">
+  図２５乃至図２７は、第１０の実施の形態における画素間電極５４と下部電極５１の平面レイアウトの例を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0135">
+  図２５に示される平面レイアウトでは、画素間電極５４を構成する平面電極部４０２Aと突き出し電極部４０２Bのいずれも、各画素２の境界上であって、隣り合う下部電極５１の間に、所定のパターン幅で格子状に形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0136">
+  これに対して、図２６に示される平面レイアウトでは、平面電極部４０２Aは、隣り合う下部電極５１の間に、所定のパターン幅で格子状に形成されているが、突き出し電極部４０２Bは、格子状の平面電極部４０２Aに沿ってアイランド形状で所定の間隔を空けて形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0137">
+  また、図２７に示される平面レイアウトでは、平面電極部４０２Aは、隣り合う下部電極５１の間に、所定のパターン幅で格子状に形成されているが、突き出し電極部４０２Bは、格子状に形成された平面電極部４０２Aの交差部分だけに、アイランド形状で形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0138">
+  画素間電極５４の平面レイアウトとしては、図２５乃至図２７に示したいずれかの配置を採用することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0139">
+＜１３．画素の第１１の実施の形態＞
+＜画素の断面構成図＞
+  図２８は、第１１の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0140">
+  第１１の実施の形態の画素間電極５４は、平面電極部４０２Aと突き出し電極部４０２Bとで構成されている点で、図２４に示した第１０の実施の形態と共通する。
+</base:Paragraphs>
+      <base:Paragraphs num="0141">
+  一方、第１１の実施の形態の画素間電極５４は、平面電極部４０２Aの幅が、隣り合う下部電極５１間の幅よりも広く形成されている点で、図２４に示した第１０の実施の形態と相違する。換言すれば、平面領域において、下部電極５１の周辺部と平面電極部４０２Aの周辺部が一部重複する配置となっている。このように、隣り合う下部電極５１間の幅よりも平面電極部４０２Aの幅を広く形成することにより、隣り合う下部電極５１の空間に対して、画素間電極５４による電位の変調をより均一に作用させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0142">
+＜１４．画素の第１２の実施の形態＞
+＜画素の断面構成図＞
+  図２９は、第１２の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0143">
+  第１２の実施の形態は、図２４に示した逆T字状の画素間電極５４を、裏面照射型の固体撮像素子に適用した構成である。第１２の実施の形態において、画素間電極５４については、図２４を参照して説明した第１０の実施の形態と同様であり、その他の構成については、図１９を参照して説明した第８の実施の形態と同様である。
+</base:Paragraphs>
+      <base:Paragraphs num="0144">
+  その他、図示は省略するが、第９の実施の形態、または、第１１の実施の形態の画素間電極５４を、裏面照射型の固体撮像素子に適用することも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0145">
+  以上説明した第９乃至第１２の実施の形態によれば、画素間電極５４を、下部電極５１が形成された層よりも下層に形成することで、画素サイズをより小さくすることができる。また、画素間を縮めない構成とした場合には、下部電極５４の平面サイズを大きく形成することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0146">
+＜１５．画素の第１３の実施の形態＞
+＜画素の断面構成図＞
+  図３０は、第１３の実施の形態における画素２の断面構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0147">
+  第１３の実施の形態は、上述した第１乃至１２の実施の形態と異なり、画素間電極５４を用いない画素の形態である。
+</base:Paragraphs>
+      <base:Paragraphs num="0148">
+  上述した第１乃至第１２の実施の形態では、光電変換部６１が、下部電極５１、光電変換膜５２、及び上部電極５３で構成されていたが、第１３の実施の形態では、下部電極５１と光電変換膜５２との間に、バッファ層４２１が形成されている。バッファ層４２１と同一層の、下部電極５１が形成されていない画素境界部分には、隣り合う下部電極５１間のリークを遮断する遮断層４２２が構成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0149">
+  バッファ層４２１は、有機材料で構成され、光電変換膜５２から下部電極５１へ信号電荷である正孔の転送を促進し、電子の流入を防止する機能を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0150">
+  一方で、バッファ層４２１は、配光性を有し、光電変換膜５２の伝導率を増加させる作用を有するために、仮にバッファ層４２１が各画素の境界部分も含む画素アレイ部３全面に形成されていたとすると、そのバッファ層４２１がリークパスとなって、隣り合う下部電極５１どうしでリークが発生する。下部電極５１間のリークによって発生した電流は、暗電流として出力されてしまう。そのため、第１３の実施の形態では、図３０に示されるように、隣り合うバッファ層４２１の間の領域に、絶縁性を有し、下部電極５１間のリークを遮断する遮断層４２２が構成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0151">
+  図３１を参照して、第１３の実施の形態に係る画素２の製造方法について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0152">
+  光電変換部６１と高屈折率層５６を形成するまでの製造方法は、図１６及び図１７を参照して説明した第１の実施の形態に係る画素２の製造方法と同様である。ただし、第１３の実施の形態では、図３１のAに示されるように、下部電極５１と光電変換膜５２との間に、光電変換部６１の一部を構成するバッファ層４２１がさらに形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0153">
+  次に、遮断層４２２を形成する領域、具体的には、図３１のBに示されるように、下部電極５１が形成された平面領域以外の領域が開口するように、レジストマスク４４１が高屈折率層５６の上面に形成され、バッファ層４２１に、窒素（N）やボロン（B）等の軽元素をイオン注入することで、遮断層４２２が形成される。不純物濃度分布（ドーパントプロファイル）が、図３１のBに示されるようにバッファ層４２１でピークとなるように、イオン注入深さが設定される。イオン注入する不純物を、窒素（N）やボロン（B）等の軽元素とすることで、高屈折率層５６の表面へのダメージをできるだけ少なくすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0154">
+  遮断層４２２を形成後、レジストマスク４４１が除去され、オンチップレンズ５７が形成されて、図３０に示した画素２が完成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0155">
+  以上の第１３の実施の形態によれば、光電変換膜５２の伝導率を増加させる機能を有するバッファ層４２１を含む光電変換部６１を備える画素２において、光電変換部６１に所定の電圧を印加したときに、隣り合う下部電極５１間で発生するリーク電流を遮断層４２２によって抑制することができ、暗電流の発生を抑制することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0156">
+＜１６．電子機器への適用例＞
+  本開示の技術は、固体撮像素子への適用に限られるものではない。即ち、本開示の技術は、デジタルスチルカメラやビデオカメラ等の撮像装置や、撮像機能を有する携帯端末装置や、画像読取部に固体撮像素子を用いる複写機など、画像取込部（光電変換部）に固体撮像素子を用いる電子機器全般に対して適用可能である。固体撮像素子は、ワンチップとして形成された形態であってもよいし、撮像部と信号処理部または光学系とがまとめてパッケージングされた撮像機能を有するモジュール状の形態であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0157">
+  図３２は、本開示に係る電子機器としての、撮像装置の構成例を示すブロック図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0158">
+  図３２の撮像装置３００は、レンズ群などからなる光学部３０１、図１の固体撮像素子１の構成が採用される固体撮像素子（撮像デバイス）３０２、およびカメラ信号処理回路であるDSP(Digital Signal Processor)回路３０３を備える。また、撮像装置３００は、フレームメモリ３０４、表示部３０５、記録部３０６、操作部３０７、および電源部３０８も備える。DSP回路３０３、フレームメモリ３０４、表示部３０５、記録部３０６、操作部３０７および電源部３０８は、バスライン３０９を介して相互に接続されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0159">
+  光学部３０１は、被写体からの入射光（像光）を取り込んで固体撮像素子３０２の撮像面上に結像する。固体撮像素子３０２は、光学部３０１によって撮像面上に結像された入射光の光量を画素単位で電気信号に変換して画素信号として出力する。この固体撮像素子３０２として、図１の固体撮像素子１、即ち、画素毎に分離された下部電極５１の間に画素間電極５４を有する画素構造や、バッファ層４２１と遮断層４２２を有する画素構造の固体撮像素子を用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0160">
+  表示部３０５は、例えば、液晶パネルや有機EL(Electro Luminescence)パネル等のパネル型表示装置からなり、固体撮像素子３０２で撮像された動画または静止画を表示する。記録部３０６は、固体撮像素子３０２で撮像された動画または静止画を、ハードディスクや半導体メモリ等の記録媒体に記録する。
+</base:Paragraphs>
+      <base:Paragraphs num="0161">
+  操作部３０７は、ユーザによる操作の下に、撮像装置３００が持つ様々な機能について操作指令を発する。電源部３０８は、DSP回路３０３、フレームメモリ３０４、表示部３０５、記録部３０６および操作部３０７の動作電源となる各種の電源を、これら供給対象に対して適宜供給する。
+</base:Paragraphs>
+      <base:Paragraphs num="0162">
+  上述したように、固体撮像素子３０２として、上述した各実施の形態に係る画素２を有する固体撮像素子１を採用することで、隣接画素との電気的容量結合による信号混合を低減し、信頼性や光電変換特性を向上させることができる。従って、ビデオカメラやデジタルスチルカメラ、さらには携帯電話機等のモバイル機器向けカメラモジュールなどの撮像装置３００においても、撮像画像の高画質化を図ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0163">
+  本開示の実施の形態は、上述した実施の形態に限定されるものではなく、本開示の要旨を逸脱しない範囲において種々の変更が可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0164">
+  上述した第１乃至第６の実施の形態では、半導体基板１２の上層に１層の光電変換層（光電変換膜５２）を有し、半導体基板１２内に２つの無機光電変換層（フォトダイオードPD１及びPD２）を有する縦方向分光型の固体撮像素子について説明した。
+</base:Paragraphs>
+      <base:Paragraphs num="0165">
+  しかし、本開示の技術は、半導体基板１２の上層に２層の光電変換層を有し、半導体基板１２内に１つの無機光電変換層を有する縦方向分光型の固体撮像素子についても同様に適用可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0166">
+  また、上述した各実施の形態では、半導体基板１２の上方に形成する光電変換部６１の光電変換膜５２として、有機光電変換材料を用いることとして説明したが、無機光電変換材料を採用してもよい。無機光電変換材料としては、例えば、結晶シリコン、アモルファスシリコン、CIGS （Cu,In,Ga,Se化合物）、CIS（Cu,In,Se化合物）、カルコパイライト構造半導体、GaAsなどの化合物半導体などが挙げられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0167">
+  上述した各実施の形態では、光電変換部６１を構成する上部電極５３が全画素共通に全面に形成され、下部電極５１が画素単位に形成されるようにしたが、上部電極５３を画素単位に形成し、下部電極５１を全画素共通に全面に形成してもよい。また、下部電極５１と上部電極５３の両方を画素単位に形成してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0168">
+  上述した例では、主に、正孔を信号電荷とした固体撮像素子について説明したが、本開示は電子を信号電荷とする固体撮像素子にも勿論適用することができる。また、半導体基板１２の第１導電型をP型、第２導電型をN型として説明したが、第１導電型をN型とし、第２導電型をP型として構成することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0169">
+  また、本開示の技術は、可視光の入射光量の分布を検知して画像として撮像する固体撮像素子への適用に限らず、赤外線やＸ線、あるいは粒子等の入射量の分布を画像として撮像する固体撮像素子や、広義の意味として、圧力や静電容量など、他の物理量の分布を検知して画像として撮像する指紋検出センサ等の固体撮像素子（物理量分布検知装置）全般に対して適用可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0170">
+  本開示の実施の形態は、上述した実施の形態に限定されるものではなく、本開示の要旨を逸脱しない範囲において種々の変更が可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0171">
+  例えば、上述した複数の実施の形態の全てまたは一部を組み合わせた形態を採用することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0172">
+  なお、本明細書に記載された効果はあくまで例示であって限定されるものではなく、本明細書に記載されたもの以外の効果があってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0173">
+  なお、本開示は以下のような構成も取ることができる。
+（１）
+  第１画素と第２画素が隣接して配置されており、
+  前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜と、その下方に配置された下部電極を有し、
+  前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を備える
+  固体撮像素子。
+（２）
+  前記下部電極は、前記光電変換膜で生成された電荷を出力する出力トランジスタのゲート電極と接続されている
+  前記（１）に記載の固体撮像素子。
+（３）
+  前記他の電極に所定の電圧を印加する電圧制御部をさらに備える
+  前記（１）または（２）に記載の固体撮像素子。
+（４）
+  前記電圧制御部は、前記他の電極に印加する電圧を制御することにより、前記下部電極に捕獲される電荷の数を制御する
+  前記（３）に記載の固体撮像素子。
+（５）
+  前記光電変換膜の上方に配置された上部電極に印加する電圧を制御することにより、前記下部電極の電圧が、前記他の電極の電圧にリセットされる
+  前記（１）乃至（４）のいずれかに記載の固体撮像素子。
+（６）
+  前記他の電極は、画素内の配線層と接続されている
+  前記（１）乃至（５）のいずれかに記載の固体撮像素子。
+（７）
+  前記他の電極は、半導体基板内に形成されたGND領域と接続されている
+  前記（１）乃至（６）のいずれかに記載の固体撮像素子。
+（８）
+  前記他の電極は、前記光電変換膜と接している
+  前記（１）乃至（７）のいずれかに記載の固体撮像素子。
+（９）
+  前記他の電極と前記光電変換膜との間に、絶縁膜を有する
+  前記（１）乃至（７）のいずれかに記載の固体撮像素子。
+（１０）
+  前記絶縁膜は、光電変換機能を有さない膜である
+  前記（９）に記載の固体撮像素子。
+（１１）
+  前記他の電極は、その上方の光電変換膜で生成された電荷を出力する出力トランジスタのゲート電極と接続されている
+  前記（１）乃至（１０）のいずれかに記載の固体撮像素子。
+（１２）
+  前記他の電極は、前記下部電極よりも下層に形成されている
+  前記（３）、（９）、または（１０）のいずれかに記載の固体撮像素子。
+（１３）
+  前記他の電極は、前記下部電極よりも下層に形成され、平面方向に拡がる平面電極部と、前記下部電極の下面と同一平面まで上方向に伸びた突き出し電極部とを有する
+  前記（１２）に記載の固体撮像素子。
+（１４）
+  前記他の電極は、前記下部電極よりも下層に形成され、隣り合う前記下部電極の間の幅よりも広い幅を有する
+  前記（１２）または（１３）に記載の固体撮像素子。
+（１５）
+  前記第１画素と第２画素のそれぞれは、半導体基板内に無機光電変換部をさらに備え、
+  前記無機光電変換部は、前記光電変換膜で光電変換されない波長光を光電変換する
+  前記（１）乃至（１４）のいずれかに記載の固体撮像素子。
+（１６）
+  前記光電変換膜は、有機材料である
+  前記（１）乃至（１５）のいずれかに記載の固体撮像素子。
+（１７）
+  裏面照射型である
+  前記（１）乃至（１６）のいずれかに記載の固体撮像素子。
+（１８）
+  隣接して配置されている第１画素と第２画素の一部として、入射された光を光電変換する光電変換膜と、その下方に配置される下部電極を形成するとともに、前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を形成する
+  固体撮像素子の製造方法。
+（１９）
+  第１画素と第２画素が隣接して配置されており、
+  前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜と、その下方に配置された下部電極を有し、
+  前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を備える
+  固体撮像素子
+  を備える電子機器。
+（２０）
+  第１画素と第２画素が隣接して配置されており、
+  前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜及びバッファ層と、その下方に配置された下部電極を有し、
+  前記バッファ層と同一層の前記第１画素と第２画素の下部電極の間に、絶縁性を有する遮断層を備える
+  固体撮像素子。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0174">
+  １  固体撮像素子，  ２  画素，  ３  画素アレイ部，  ４  垂直駆動回路，  １２  半導体基板，  ４４  多層配線層，  ４６  出力トランジスタ，  ４７  FD部，  ５１  下部電極，  ５２  光電変換膜，  ５３  上部電極，  ５４  画素間電極，  ６１  光電変換膜，  ６２  リセットトランジスタ，  PD１,PD２  フォトダイオード，  ９１  金属配線，  ９２  GND領域，  １０１  配線層，  １０２  コンタクトビア，  １４１  出力トランジスタ，  １４２  FD部，  １６１  光電変換膜，  １６２  カラーフィルタ，  ３００  撮像装置，  ３０２  固体撮像素子，  ４０２A  平面電極部，  ４０２B  突き出し電極部，  ４２１  バッファ層，  ４２２  遮断層
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="99" wi="74" file="2016127264_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="112" wi="67" file="2016127264_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="110" wi="73" file="2016127264_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="52" wi="61" file="2016127264_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="112" wi="67" file="2016127264_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="110" wi="73" file="2016127264_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="112" wi="69" file="2016127264_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="112" wi="69" file="2016127264_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="112" wi="66" file="2016127264_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="111" wi="73" file="2016127264_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="112" wi="66" file="2016127264_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="112" wi="66" file="2016127264_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="112" wi="74" file="2016127264_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="112" wi="69" file="2016127264_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="113" wi="63" file="2016127264_000017.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="116" wi="75" file="2016127264_000018.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="116" wi="75" file="2016127264_000019.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="114" wi="74" file="2016127264_000020.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="116" wi="66" file="2016127264_000021.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="115" wi="67" file="2016127264_000022.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000023" he="92" wi="74" file="2016127264_000023.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0022">
+      <base:Image id="000024" he="88" wi="74" file="2016127264_000024.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0023">
+      <base:Image id="000025" he="93" wi="70" file="2016127264_000025.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0024">
+      <base:Image id="000026" he="115" wi="67" file="2016127264_000026.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0025">
+      <base:Image id="000027" he="105" wi="70" file="2016127264_000027.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0026">
+      <base:Image id="000028" he="105" wi="70" file="2016127264_000028.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0027">
+      <base:Image id="000029" he="105" wi="70" file="2016127264_000029.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0028">
+      <base:Image id="000030" he="115" wi="67" file="2016127264_000030.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0029">
+      <base:Image id="000031" he="116" wi="67" file="2016127264_000031.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0030">
+      <base:Image id="000032" he="116" wi="67" file="2016127264_000032.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0031">
+      <base:Image id="000033" he="116" wi="75" file="2016127264_000033.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0032">
+      <base:Image id="000034" he="108" wi="65" file="2016127264_000034.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  第１画素と第２画素が隣接して配置されており、
+  前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜と、その下方に配置された下部電極を有し、
+  前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を備える
+  固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記下部電極は、前記光電変換膜で生成された電荷を出力する出力トランジスタのゲート電極と接続されている
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記他の電極に所定の電圧を印加する電圧制御部をさらに備える
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記電圧制御部は、前記他の電極に印加する電圧を制御することにより、前記下部電極に捕獲される電荷の数を制御する
+  請求項３に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記光電変換膜の上方に配置された上部電極に印加する電圧を制御することにより、前記下部電極の電圧が、前記他の電極の電圧にリセットされる
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記他の電極は、画素内の配線層と接続されている
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記他の電極は、半導体基板内に形成されたGND領域と接続されている
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記他の電極は、前記光電変換膜と接している
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記他の電極と前記光電変換膜との間に、絶縁膜を有する
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記絶縁膜は、光電変換機能を有さない膜である
+  請求項９に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記他の電極は、その上方の光電変換膜で生成された電荷を出力する出力トランジスタのゲート電極と接続されている
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記他の電極は、前記下部電極よりも下層に形成されている
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記他の電極は、前記下部電極よりも下層に形成され、平面方向に拡がる平面電極部と、前記下部電極の下面と同一平面まで上方向に伸びた突き出し電極部とを有する
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記他の電極は、前記下部電極よりも下層に形成され、隣り合う前記下部電極の間の幅よりも広い幅を有する
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  前記第１画素と第２画素のそれぞれは、半導体基板内に無機光電変換部をさらに備え、
+  前記無機光電変換部は、前記光電変換膜で光電変換されない波長光を光電変換する
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  前記光電変換膜は、有機材料である
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  裏面照射型である
+  請求項１に記載の固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  隣接して配置されている第１画素と第２画素の一部として、入射された光を光電変換する光電変換膜と、その下方に配置される下部電極を形成するとともに、前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を形成する
+  固体撮像素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>
+  第１画素と第２画素が隣接して配置されており、
+  前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜と、その下方に配置された下部電極を有し、
+  前記第１画素と第２画素の下部電極の間に、前記下部電極と異なる他の電極を備える
+  固体撮像素子
+  を備える電子機器。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>
+  第１画素と第２画素が隣接して配置されており、
+  前記第１画素と第２画素のそれぞれは、入射された光を光電変換する光電変換膜及びバッファ層と、その下方に配置された下部電極を有し、
+  前記バッファ層と同一層の前記第１画素と第２画素の下部電極の間に、絶縁性を有する遮断層を備える
+  固体撮像素子。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

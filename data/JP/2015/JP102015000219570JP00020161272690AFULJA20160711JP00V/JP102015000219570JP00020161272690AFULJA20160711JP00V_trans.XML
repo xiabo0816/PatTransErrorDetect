@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000219570JP00020161272690AFULJA20160711JP00V.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127269" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127269</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127269</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000219570</base:DocNumber>
+        <base:Date>20151109</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015219570</base:DocNumber>
+        <base:Date>20151109</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>102015000002501</base:DocNumber>
+        <base:Date>20150108</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>10-2015-0002501</base:DocNumber>
+        <base:Date>20150108</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>252</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/252       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>2</business:MainGroup>
+        <business:Subgroup>06</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   2/06        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>232</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/232       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>30</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/30        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01G1/14 V</business:FI>
+      <business:FI type="secondary">H01G1/035 C</business:FI>
+      <business:FI type="secondary">H01G4/12 352</business:FI>
+      <business:FI type="secondary">H01G4/12 361</business:FI>
+      <business:FI type="secondary">H01G4/30 301B</business:FI>
+      <business:FClass>
+        <business:FTerm>5E001AB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AE03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AF01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AF06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082AB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082BC40</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082CC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082EE04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082EE23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082FF05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082FG04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082FG26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082GG09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082GG10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082GG28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E001</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E082</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">多层陶瓷电子元件及其安装基板</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>サムソン  エレクトロ－メカニックス  カンパニーリミテッド.</base:Name>
+            <base:RegisteredNumber>594023722</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国、キョンギ－ド、スウォン－シ、ヨントン－グ、（マエタン－ドン）マエヨン－ロ  150</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>パーク、ヒュン  キル</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国、キョンギ－ド、スウォン－シ、ヨントン－グ、（マエタン－ドン）マエヨン－ロ  150  サムソン  エレクトロ－メカニックス  カンパニーリミテッド.内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>パーク、サン  ソー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国、キョンギ－ド、スウォン－シ、ヨントン－グ、（マエタン－ドン）マエヨン－ロ  150  サムソン  エレクトロ－メカニックス  カンパニーリミテッド.内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>龍華国際特許業務法人</base:Name>
+            <base:RegisteredNumber>110000877</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>17</business:ClaimsCount>
+      <base:TotalPageCount>17</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明涉及层叠陶瓷电子部件及其安装基板。 多层陶瓷电子组件可包括绝缘框架,绝缘框架设置成覆盖多层陶瓷电容器的陶瓷主体的上主表面和下主表面以及外电极的主体部和带部的上表面和下表面,外导体电极可设置在绝缘框架的外表面上,连接到外电极的内导体电极可设置在绝缘框架的内表面上,并且外导体电极和内导体电极可彼此电连接。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="55" wi="69" file="2016127269_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及层叠陶瓷电子部件及其安装基板。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">作为使用陶瓷材料的电子部件,有电容器、电感器、压电元件、变阻器或热敏电阻等。</base:Paragraphs>
+      <base:Paragraphs num="0003">陶瓷电子组件的多层陶瓷电容器(MLCC)由于其小尺寸、高电容和易于安装的优点而可用于各种电子设备。</base:Paragraphs>
+      <base:Paragraphs num="0004">例如,多层陶瓷电容器可安装在各种产品（例如,诸如液晶显示器(LCD)和等离子体显示面板(PDP)的图像装置、计算机、个人数字助理(PDA)和移动电话）的基板上,并且可用于充电或放电。</base:Paragraphs>
+      <base:Paragraphs num="0005">多层陶瓷电容器可包括多个介电层,并且具有不同极性的内电极可交替地设置在介电层之间。</base:Paragraphs>
+      <base:Paragraphs num="0006">在这种情况下,由于介电层具有压电性质,因此当直流或交流电压被施加到多层陶瓷电容器时,在内电极之间发生压电现象,并且陶瓷主体的体积根据频率而膨胀和收缩,从而产生周期性振动。</base:Paragraphs>
+      <base:Paragraphs num="0007">振动可通过多层陶瓷电容器的外电极和将外电极连接到基板的焊料传递到基板,并且整个基板可用作声反射表面,从而产生作为噪声的振动声音。</base:Paragraphs>
+      <base:Paragraphs num="0008">上述振动音相当于给人带来不适感的20～20,000 Hz区域的可听频率,将这样给人带来不适感的振动音称为原声噪声（acoustic noise）。</base:Paragraphs>
+      <base:Paragraphs num="0009">此外,在最近的电子设备中,随着器具部件的静音化的发展,上述多层陶瓷电容器所产生的原声噪声可能会更显著。</base:Paragraphs>
+      <base:Paragraphs num="0010">这样的原声噪声在设备的动作环境安静的情况下,使用者认为是异常音,有可能视为设备的故障。</base:Paragraphs>
+      <base:Paragraphs num="0011">另外,在具有声音电路的设备中,有可能产生在声音输出中叠加原声噪声而设备的品质降低这样的问题点。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0012">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2004－266110号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0013">本发明的目的在于提供一种降低了原声噪声的层叠陶瓷电子部件及其安装基板。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0014">根据本公开的一方面,提供了一种多层陶瓷电子组件,所述多层陶瓷电子组件包括绝缘框架,所述绝缘框架设置成覆盖多层陶瓷电容器的陶瓷主体的上主表面和下主表面以及外电极的主体部和带部的上表面和下表面,其中,外导体电极设置在绝缘框架的外表面上,连接到外电极的内导体电极设置在绝缘框架的内表面上,并且外导体电极和内导体电极彼此电连接。</base:Paragraphs>
+        <base:Paragraphs num="0015">本发明的另一方面提供一种层叠陶瓷电子部件的安装基板,其包括在上部具有多个电极焊盘的基板和以外部导体电极与上述电极焊盘接合的方式安装于上述基板的上述层叠陶瓷电子部件。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0016">根据本公开的示例性实施例,外导体电极和绝缘框架的弹力可吸收通过多层陶瓷电容器的外电极传递的振动,从而减小声噪声。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0017">
+        <base:FigureReference num="0001">图0001是示出根据本发明构思的示例性实施例的多层陶瓷电子组件的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是将图1中的层叠陶瓷电子部件分解表示的分解立体图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是示出根据本发明构思的示例性实施例的多层陶瓷电子组件中的多层陶瓷电容器的内电极结构的分解透视图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是用于制造图1的多层陶瓷电子组件的方法的示意性截面侧视图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是用于制造图1的多层陶瓷电子组件的方法的示意性截面侧视图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是图1的横截面侧视图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是示出根据本发明构思的示例性实施例的除了多层陶瓷电容器之外的多层陶瓷电子组件的透视图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是示出根据本发明构思的示例性实施例的除了多层陶瓷电容器之外的多层陶瓷电子组件的透视图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是示出根据本发明构思的另一示例性实施例的除了多层陶瓷电容器之外的多层陶瓷电子组件的透视图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是表示图1的层叠陶瓷电子部件安装于基板的形状的侧剖视图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0018">以下,参照附图对本发明的优选实施方式进行说明。 但是,本发明的实施例能够变形为多种其他形态,本发明的范围并不限定于以下说明的实施例。 另外,本发明的实施例是为了向本技术领域的普通技术人员更完整地说明本发明而提供的。 因此,为了更清楚地描述,附图中的元件的形状、尺寸等可能被夸大。</base:Paragraphs>
+      <base:Paragraphs num="0019">此外,对于在各实施方式的附图所示的同一思想的范围内功能相同的构成要素,使用同一参照符号进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0020">此外,在整个说明书中,除非另有说明,否则“包括”一个构成要素意味着还可以包括其他构成要素,而不是排除其他构成要素。</base:Paragraphs>
+      <base:Paragraphs num="0021">&lt;层叠陶瓷电子部件&gt; 
+根据示例性实施例的多层陶瓷电子组件可包括绝缘框架,绝缘框架设置成覆盖多层陶瓷电容器的陶瓷主体的上主表面和下主表面以及外电极的主体部和带部的上表面和下表面,外导体电极可设置在绝缘框架的外表面上,连接到外电极的内导体电极可设置在绝缘框架的内表面上,并且外导体电极和内导体电极可彼此电连接。 </base:Paragraphs>
+      <base:Paragraphs num="0022">导电粘合层可设置在内导体电极和外电极之间。</base:Paragraphs>
+      <base:Paragraphs num="0023">此外,所述外部导体电极和所述内部导体电极通过贯通结合于所述绝缘框架的过孔电极而彼此电连接,或者在所述外部导体电极和所述绝缘框架的一部分形成有槽部,在所述槽部形成有导电性连接部而彼此电连接。</base:Paragraphs>
+      <base:Paragraphs num="0024">此外,所述绝缘框架的一部分可设置为远离所述外电极。</base:Paragraphs>
+      <base:Paragraphs num="0025">图1是示意性地示出根据本公开中的示例性实施例的多层陶瓷电子组件的透视图,图2是示出图1的多层陶瓷电子组件的分解透视图,图3是示意性地示出根据本公开中的示例性实施例的多层陶瓷电子组件中的多层陶瓷电容器的内电极结构的分解透视图,图4和图5是示意性地示出制造图1的多层陶瓷电子组件的方法的侧截面图,图6是图1的侧截面图。</base:Paragraphs>
+      <base:Paragraphs num="0026">参照图1至图6,根据示例性实施例的多层陶瓷电子组件100可包括多层陶瓷电容器101、绝缘框架140、第一外导体电极151和第二外导体电极152、第一内导体电极153和第二内导体电极154以及用于将第一外导体电极151和第二外导体电极152分别连接到第一内导体电极153和第二内导体电极154的电连接装置。</base:Paragraphs>
+      <base:Paragraphs num="0027">多层陶瓷电容器101可包括陶瓷主体110以及第一外电极131和第二外电极132,陶瓷主体110具有多个介电层111并且包括多个第一内电极121和多个第二内电极122。</base:Paragraphs>
+      <base:Paragraphs num="0028">陶瓷主体110通过在厚度方向T上层叠多个电介质层111并进行烧成而形成。</base:Paragraphs>
+      <base:Paragraphs num="0029">在这种情况下,陶瓷体110中彼此相邻的介电层111可彼此集成,使得它们的边界不可见。</base:Paragraphs>
+      <base:Paragraphs num="0030">此外,陶瓷体110可以具有六面体形状,但本发明不限于此。</base:Paragraphs>
+      <base:Paragraphs num="0031">在本示例性实施例中,为了便于描述,陶瓷主体110的层叠有介电层111的在厚度方向T上彼此相对的表面被定义为上表面和下表面,陶瓷主体110的连接上表面和下表面的在长度方向L上彼此相对的表面被定义为第一侧表面和第二侧表面,并且与第一侧表面和第二侧表面垂直相交的在宽度方向W上彼此相对的表面被定义为第三侧表面和第四侧表面。</base:Paragraphs>
+      <base:Paragraphs num="0032">此外,在陶瓷主体110中,具有预定厚度的上覆盖层112可形成在第一内电极或第二内电极的最上部上,并且下覆盖层113可设置在第一内电极或第二内电极的最下部上。</base:Paragraphs>
+      <base:Paragraphs num="0033">上覆盖层112和下覆盖层113可具有与介电层111的组成相同的组成,并且可通过在陶瓷主体110的最上内电极的上部和最下内电极的下部分别堆叠至少一个不包括内电极的介电层来形成。</base:Paragraphs>
+      <base:Paragraphs num="0034">介电层111可以包括具有高介电常数的陶瓷材料,例如,钛酸钡（BaTiO<base:Sub>3</base:Sub>）基陶瓷粉末,但本发明不限于此。</base:Paragraphs>
+      <base:Paragraphs num="0035">上述BaTiO。<base:Sub>3</base:Sub>系陶瓷粉末例如可以为BaTiO。<base:Sub>3</base:Sub>Ca（钙）、Zr（锆）等部分固溶于（Ba）中。<base:Sub>1－x</base:Sub>Ca<base:Sub>x</base:Sub>）TiO<base:Sub>3</base:Sub>Ba（Ti）、<base:Sub>1－y</base:Sub>Ca<base:Sub>y</base:Sub>）O<base:Sub>3</base:Sub>（Ba）<base:Sub>1－x</base:Sub>Ca<base:Sub>x</base:Sub>（Ti）<base:Sub>1－y</base:Sub>Zr<base:Sub>y</base:Sub>）O<base:Sub>3</base:Sub>或Ba（Ti）<base:Sub>1－y</base:Sub>Zr<base:Sub>y</base:Sub>）O<base:Sub>3</base:Sub>但是本发明不限于此。</base:Paragraphs>
+      <base:Paragraphs num="0036">此外,根据需要,介电层111还可包含陶瓷添加剂、有机溶剂、增塑剂、粘合剂和分散剂中的至少一种。</base:Paragraphs>
+      <base:Paragraphs num="0037">所述陶瓷添加剂例如可以使用过渡金属氧化物或碳化物、稀土元素、镁（Mg）或铝（Al）等。</base:Paragraphs>
+      <base:Paragraphs num="0038">第一内电极121和第二内电极122可形成在形成介电层111的陶瓷片上,可在厚度方向上堆叠,然后可通过烧结在陶瓷体110中的一个介电层111与第一内电极121和第二内电极122在厚度方向上交替地设置。</base:Paragraphs>
+      <base:Paragraphs num="0039">第一内电极121和第二内电极122可以是具有不同极性的电极,并且可以设置为在介电层111的堆叠方向上彼此相对,并且可以通过设置在第一内电极121和第二内电极122之间的介电层111彼此电绝缘。</base:Paragraphs>
+      <base:Paragraphs num="0040">第一内电极121和第二内电极122的一端可分别暴露于陶瓷主体110的在长度方向上的第一侧表面和第二侧表面。</base:Paragraphs>
+      <base:Paragraphs num="0041">此外,暴露于陶瓷主体110的长度方向上的第一侧表面和第二侧表面的第一内电极121和第二内电极122的端部可分别在陶瓷主体110的长度方向上的第一侧表面和第二侧表面处连接到第一外电极131和第二外电极132并电连接到第一外电极131和第二外电极132。</base:Paragraphs>
+      <base:Paragraphs num="0042">在这种情况下,第一内电极121和第二内电极122可由导电金属形成,并且可由诸如镍（Ni）或镍（Ni）合金的材料形成,但本发明不限于此。</base:Paragraphs>
+      <base:Paragraphs num="0043">根据上述配置,当预定电压施加到第一外电极131和第二外电极132时,电荷可在彼此面对的第一内电极121和第二内电极122之间累积。 在这种情况下,多层陶瓷电容器101的电容可与沿介电层111的堆叠方向彼此重叠的第一内电极121和第二内电极122的面积成比例。</base:Paragraphs>
+      <base:Paragraphs num="0044">第一外电极131和第二外电极132可分别设置在陶瓷主体110的长度方向上的两个端部处。</base:Paragraphs>
+      <base:Paragraphs num="0045">此外,第一外电极131和第二外电极132可分别包括第一主体部分131a和第二主体部分132a以及第一带部分131b和第二带部分132b。</base:Paragraphs>
+      <base:Paragraphs num="0046">第一主体部分131a和第二主体部分132a设置在陶瓷主体110的长度方向上的第一侧表面和第二侧表面上,并且分别连接到第一内电极121的暴露端部和第二内电极122的暴露端部以电连接到第一内电极121的暴露端部和第二内电极122的暴露端部。</base:Paragraphs>
+      <base:Paragraphs num="0047">第一带部131b和第二带部132b分别从第一主体部131a和第二主体部132a延伸以至少覆盖陶瓷本体110的下表面的一部分或陶瓷本体110的宽度方向上的两个侧表面的一部分,并且可用于提高第一外电极131和第二外电极132的固定强度。</base:Paragraphs>
+      <base:Paragraphs num="0048">在这种情况下,可在第一外电极131和第二外电极132上形成镀层（未示出）。</base:Paragraphs>
+      <base:Paragraphs num="0049">例如,镀层可包括分别形成在第一外电极131和第二外电极132上的第一镍（Ni）镀层和第二镍（Ni）镀层以及分别形成在第一镍镀层和第二镍镀层上的第一锡（Sn）镀层和第二锡（Sn）镀层。</base:Paragraphs>
+      <base:Paragraphs num="0050">绝缘框架140可包括第一水平绝缘部141、第二水平绝缘部144和第三水平绝缘部145以及第一垂直绝缘部142和第二垂直绝缘部143。</base:Paragraphs>
+      <base:Paragraphs num="0051">第一水平绝缘部141可设置在陶瓷本体110的上表面上,第二水平绝缘部144和第三水平绝缘部145可设置在第一外电极131的第一带部131b和第二外电极132的第二带部132b的下表面上。</base:Paragraphs>
+      <base:Paragraphs num="0052">在这种情况下,第二水平绝缘部144和第三水平绝缘部145可根据需要与第一带部131b和第二带部132b间隔开预定距离。</base:Paragraphs>
+      <base:Paragraphs num="0053">此外,第一垂直绝缘部142和第二垂直绝缘部143连接第一水平绝缘部141的两个端部以及第二水平绝缘部144和第三水平绝缘部145的端部,并且设置在陶瓷本体110的长度方向上的第一侧表面和第二侧表面上。</base:Paragraphs>
+      <base:Paragraphs num="0054">在这种情况下,第一垂直绝缘部分142和第二垂直绝缘部分143可以根据需要与第一主体部分131a和第二主体部分132a间隔开预定距离。</base:Paragraphs>
+      <base:Paragraphs num="0055">绝缘框架140可由耐热性及绝缘性优异且具有适于弯曲加工的柔软性的绝缘材料（例如,聚酰亚胺（polyimide）树脂等）形成。</base:Paragraphs>
+      <base:Paragraphs num="0056">传统的金属架结构包括一对金属架,并且这对金属架通过相应的工艺设置在左外电极和右外电极上,因此总共需要执行两次工艺。</base:Paragraphs>
+      <base:Paragraphs num="0057">然而,在本示例性实施例中,使用单个绝缘框架140,并且框架结构可在一个工艺中结合到多层陶瓷电容器101,从而提高可操作性。 由此,能够期待能够削减制造费用的效果。</base:Paragraphs>
+      <base:Paragraphs num="0058">此外,由于根据本示例性实施例的绝缘框架140是绝缘体,因此通过调节下面将描述的内导体电极的尺寸,可以容易地控制多层陶瓷电容器101与绝缘框架140之间的接合面积。 因此,可容易地调节从多层陶瓷电容器101产生的压电振动通过绝缘框架和外导体电极传递的面积。</base:Paragraphs>
+      <base:Paragraphs num="0059">第1外部导体电极151包括第1上部水平导体部151b、第1下部水平导体部151c和第1垂直导体部151a。</base:Paragraphs>
+      <base:Paragraphs num="0060">第一上水平导体部151b可以设置在绝缘框架140的第一水平绝缘部141的外表面（上表面）上的与第一带部131b对应的位置处,并且第一下水平导体部151c可以设置在第二水平绝缘部144的外表面（下表面）上的与第一带部131b对应的位置处。 此外,第一垂直导体部分151a垂直地连接第一上水平导体部分151b的一个端部和第一下水平导体部分151c,并且设置在绝缘框架140的第一垂直绝缘部分142的外表面上。</base:Paragraphs>
+      <base:Paragraphs num="0061">此时,第一下部水平导体部151c在安装于基板时,可以进行镍/锡或镍/金镀敷等表面处理,以使与焊料的接触性优异。</base:Paragraphs>
+      <base:Paragraphs num="0062">第一外导体电极151可具有大致“[”形的形状。</base:Paragraphs>
+      <base:Paragraphs num="0063">第二外部导体电极152包括第二上部水平导体部152b、第二下部水平导体部152c和第二垂直导体部152a。</base:Paragraphs>
+      <base:Paragraphs num="0064">第二上水平导体部152b可设置在绝缘框架140的第一水平绝缘部141的外表面（上表面）上的与第二带部132b对应的位置处,第二下水平导体部152c可设置在第三水平绝缘部145的外表面（下表面）上的与第二带部132b对应的位置处。 此外,第二垂直导体部分152a垂直地连接第二上水平导体部分152b的一个端部和第二下水平导体部分152c,并且设置在绝缘框架140的第二垂直绝缘部分143的外表面上。</base:Paragraphs>
+      <base:Paragraphs num="0065">此时,第二下部水平导体部152c在安装于基板时,可以进行镍/锡或镍/金镀敷等表面处理,以使与焊料的接触性优异。</base:Paragraphs>
+      <base:Paragraphs num="0066">第二外层导体电极152可具有大致“]”形的形状。</base:Paragraphs>
+      <base:Paragraphs num="0067">此外,第一外导体电极151和第二外导体电极152可由具有优异导电性的金属材料（例如,铜）形成。</base:Paragraphs>
+      <base:Paragraphs num="0068">另外,根据需要,在第1及第2垂直导体部151a、152a的外表面配置由环氧树脂等材料构成的第1及第2绝缘层（未图示）,从而在安装于基板时能够将焊料的高度控制为较低。</base:Paragraphs>
+      <base:Paragraphs num="0069">第一内导体电极153可设置在第一外电极131的第一带部131b的上表面与绝缘框架140的第一水平绝缘部141之间,并且可连接并电连接到第一外电极131的第一带部131b。</base:Paragraphs>
+      <base:Paragraphs num="0070">第二内导体电极154可设置在第二外电极132的第二带部132b的上表面与绝缘框架140的第一水平绝缘部141之间,并且可连接并电连接到第二外电极132的第二带部132b。</base:Paragraphs>
+      <base:Paragraphs num="0071">此外,第一内导体电极153和第二内导体电极154可由与第一外导体电极151和第二外导体电极152相同的材料形成,并且可由具有优异导电性的金属材料（例如,铜）形成。</base:Paragraphs>
+      <base:Paragraphs num="0072">例如,电连接装置可以是分别穿过绝缘框架140的第一水平绝缘部分141的第一过孔电极155和第二过孔电极156。</base:Paragraphs>
+      <base:Paragraphs num="0073">第一外导体电极151和第二外导体电极152的第一上水平导体部分151b和第二上水平导体部分152b以及第一内导体电极153和第二内导体电极154可分别与第一过孔电极155和第二过孔电极156的两个暴露端部接触并彼此电连接。</base:Paragraphs>
+      <base:Paragraphs num="0074">根据本示例性实施例,由于外导体电极和内导体电极集成到单个绝缘框架140中,因此与内导体电极、绝缘框架和外导体电极分别结合到包括在多层陶瓷电容器101中的一对外电极的结构相比,可简化工艺并提高制造效率。</base:Paragraphs>
+      <base:Paragraphs num="0075">第一导电粘合层161和第二导电粘合层162可分别设置成改善第一外电极131的第一带部131b的上表面与第一内导体电极153之间的接合强度和第二外电极132的第二带部132b的上表面与第二内导体电极154之间的接合强度。</base:Paragraphs>
+      <base:Paragraphs num="0076">第一导电粘合层161和第二导电粘合层162可以由例如高熔点焊料或导电膏形成,但本发明不限于此。</base:Paragraphs>
+      <base:Paragraphs num="0077">&lt;变形例&gt; 
+图7是示出根据本公开中的另一示例性实施例的除了多层陶瓷电容器之外的多层陶瓷电子组件的透视图。 </base:Paragraphs>
+      <base:Paragraphs num="0078">在此,为了避免重复,省略对与上述实施例类似的部分的具体说明,对与上述实施例相比而变更的特征进行具体说明。</base:Paragraphs>
+      <base:Paragraphs num="0079">参照图7,在根据本示例性实施例的电连接装置中,第一凹槽部分和第二凹槽部分可同时穿过第一外导体电极151的第一上水平导体部分151b和第二外导体电极152的第二上水平导体部分152b以及绝缘框架140的第一水平绝缘部分141,并且由导电材料制成的第一导电连接部分151d和第二导电连接部分152d可形成在第一凹槽部分和第二凹槽部分中。 第一外导体电极151和第二外导体电极152可分别通过第一导电连接部151d和第二导电连接部152d连接到第一内导体电极173和第二内导体电极174。</base:Paragraphs>
+      <base:Paragraphs num="0080">此外,在另一实施例中,第一内导体电极173和第二内导体电极174可具有从第一外电极131和第二外电极132的第一带部分131b和第二带部分132b的上表面弯曲以覆盖第一主体部分131a和第二主体部分132a的一部分的形状。</base:Paragraphs>
+      <base:Paragraphs num="0081">根据需要,第一凹槽部分和第二凹槽部分可分别形成在第一上水平导体部分151b和第二上水平导体部分152b与第一垂直导体部分151a和第二垂直导体部分152a之间的连接部分以及绝缘框架140的第一水平绝缘部分141与第一垂直绝缘部分142和第二垂直绝缘部分143之间的连接部分中。</base:Paragraphs>
+      <base:Paragraphs num="0082">图8是示出根据本公开中的另一示例性实施例的除了多层陶瓷电容器之外的多层陶瓷电子组件的透视图,图9是示出根据本公开中的另一示例性实施例的除了多层陶瓷电容器之外的多层陶瓷电子组件的透视图。</base:Paragraphs>
+      <base:Paragraphs num="0083">在此,为了避免重复,省略对与上述实施例类似的部分的具体说明,对与上述实施例相比而变更的特征进行具体说明。</base:Paragraphs>
+      <base:Paragraphs num="0084">参照图8和图9,第一外导体电极171可包括第一下水平导体部分171b和第一垂直导体部分171a。</base:Paragraphs>
+      <base:Paragraphs num="0085">第一下水平导体部171b设置在第二水平绝缘部144的外表面（下表面）上与第一带部131b对应的位置处,第一垂直导体部171a从第一下水平导体部171b的一端垂直弯曲并延伸,并且设置在绝缘框架140的第一垂直绝缘部142的外表面上。</base:Paragraphs>
+      <base:Paragraphs num="0086">此时,第一下部水平导体部171b可以进行镍/锡或镍/金镀敷等表面处理,以便在安装于基板时与焊料的接触性优异。</base:Paragraphs>
+      <base:Paragraphs num="0087">如上所述配置的第一外导体电极171可具有大致“亚烷基”的形状。</base:Paragraphs>
+      <base:Paragraphs num="0088">第二外部导体电极172包括第二下部水平导体部172b和第二垂直导体部172a。</base:Paragraphs>
+      <base:Paragraphs num="0089">第二下水平导体部172b可以设置在第三水平绝缘部145的外表面（下表面）上与第二带部132b对应的位置处,第二垂直导体部172a可以从第二下水平导体部172b的一端垂直弯曲并延伸,并且可以设置在绝缘框架140的第二垂直绝缘部143的外表面上。</base:Paragraphs>
+      <base:Paragraphs num="0090">在这种情况下,第二下水平导体部分172b可以经受诸如镀镍/锡或镀镍/金的表面处理,使得当安装在基板上时,第二下水平导体部分172b可以与焊料具有良好的接触性。</base:Paragraphs>
+      <base:Paragraphs num="0091">如上所述配置的第二外导体电极172可以具有大致“在线”的形状。</base:Paragraphs>
+      <base:Paragraphs num="0092">此外,在另一实施例中,第一内导体电极173和第二内导体电极174可具有从第一外电极131和第二外电极132的第一带部分131b和第二带部分132b的上表面弯曲以覆盖第一主体部分131a和第二主体部分132a的一部分的形状。</base:Paragraphs>
+      <base:Paragraphs num="0093">此外,第一导电粘合层161和第二导电粘合层162可分别设置在第一外电极131和第二外电极132的第一带部分131b和第二带部分132b的上表面上,或者设置在第一主体部分131a和第二主体部分132a与第一内导体电极173和第二内导体电极174之间。</base:Paragraphs>
+      <base:Paragraphs num="0094">电连接装置可以是分别穿过绝缘框架140的第一垂直绝缘部分142和第二垂直绝缘部分143的第一过孔电极175和第二过孔电极176。</base:Paragraphs>
+      <base:Paragraphs num="0095">第一外导体电极171和第二外导体电极172的第一垂直导体部分171a和第二垂直导体部分172a以及第一内导体电极173和第二内导体电极174的垂直延伸部分可分别与第一过孔电极175和第二过孔电极176的暴露的两个端部接触以彼此电连接。</base:Paragraphs>
+      <base:Paragraphs num="0096">在本示例性实施例的电连接装置中,第一凹槽部分和第二凹槽部分可同时穿过第一外导体电极171的第一垂直导体部分171a和第二外导体电极172的第二垂直导体部分172a以及绝缘框架140的第一垂直绝缘部分142和第二垂直绝缘部分143,并且由导电材料制成的第一导电连接部分和第二导电连接部分（未示出）可形成在第一凹槽部分和第二凹槽部分中。 第一外导体电极171和第二外导体电极172可分别通过第一导电连接部和第二导电连接部连接到第一内导体电极173和第二内导体电极174。</base:Paragraphs>
+      <base:Paragraphs num="0097">此外,由诸如环氧树脂的材料制成的第一绝缘层177和第二绝缘层178可以根据需要设置在第一垂直导体部分171a和第二垂直导体部分172a的外表面上,以在安装到基板上时将焊料的高度控制为低。</base:Paragraphs>
+      <base:Paragraphs num="0098">根据需要,第一绝缘层177和第二绝缘层178的高度可以以各种方式改变,例如,第一绝缘层177和第二绝缘层178的高度可以小于第一垂直导体部分171a和第二垂直导体部分172a的高度。</base:Paragraphs>
+      <base:Paragraphs num="0099">&lt;层叠陶瓷电子部件的安装基板&gt; 
+参照图10,根据示例性实施例的用于安装多层陶瓷电子组件100的安装基板200包括水平安装有多层陶瓷电子组件100的基板210以及在基板210的上表面上彼此间隔开的第一电极焊盘211和第二电极焊盘212。 </base:Paragraphs>
+      <base:Paragraphs num="0100">此外,在多层陶瓷电子组件100中,第一外导体电极151和第二外导体电极152的第一下水平导体部151c和第二下水平导体部152c可分别设置在第一电极焊盘211和第二电极焊盘212上,并且可通过焊料221和222接合到基板210。</base:Paragraphs>
+      <base:Paragraphs num="0101">在这种情况下,第一电极板211和第二电极板212的尺寸可以是确定连接多层陶瓷电子组件的第一下部水平导体部151c和第二下部水平导体部152c与第一电极板211和第二电极板212的焊料221和222的量的指标。 可以根据焊料221和222的量来调节声噪声的大小。</base:Paragraphs>
+      <base:Paragraphs num="0102">在多层陶瓷电子组件100安装在基板210上的状态下,当具有不同极性的电压被施加到设置在陶瓷主体110的沿长度方向的第一侧表面和第二侧表面上的第一外电极131和第二外电极132时,陶瓷主体110由于介电层111的逆压电效应而沿厚度方向膨胀和收缩,并且陶瓷主体110的沿长度方向的第一侧表面和第二侧表面由于泊松效应而沿厚度方向收缩和膨胀,陶瓷主体110的沿长度方向的第一侧表面和第二侧表面的形成有第一外电极131和第二外电极132的形成与陶瓷主体110的沿厚度方向的膨胀和收缩相反。</base:Paragraphs>
+      <base:Paragraphs num="0103">这样的收缩和膨胀会产生振动。 振动可从第一外电极131和第二外电极132传递到基板210,并且可从基板210辐射声音以形成声噪声。</base:Paragraphs>
+      <base:Paragraphs num="0104">在本示例性实施例中,通过第一外导体电极151和第二外导体电极152以及绝缘框架140的弹力来吸收由于多层陶瓷电子组件100的压电特性而产生的机械振动的一部分,从而减少传递到基板210的振动的量,从而降低声噪声。</base:Paragraphs>
+      <base:Paragraphs num="0105">此外,第一外导体电极151和第二外导体电极152以及绝缘框架140可吸收由于基板210的翘曲等而产生的机械应力和外部冲击,从而防止应力传递到多层陶瓷电子组件100,并且可预期防止在多层陶瓷电子组件100中产生裂纹的效果。</base:Paragraphs>
+      <base:Paragraphs num="0106">此外,根据本示例性实施例,可通过第一外导体电极151和第二外导体电极152以及绝缘框架140获得足够的弹力,并且即使绝缘框架140的第二水平绝缘部144和第三水平绝缘部145与陶瓷本体110的下表面彼此接触或彼此分开,也可保持最小间隔,从而可进一步减小产品的高度。</base:Paragraphs>
+      <base:Paragraphs num="0107">以上,对本发明的实施例进行了详细说明,但本发明的权利范围并不限定于此,在不脱离权利要求书所记载的本发明的技术思想的范围内可进行多种修改及变形,这对于本技术领域的普通技术人员而言是显而易见的。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0108">100-多层陶瓷电子组件,101-多层陶瓷电容器,110-陶瓷主体,111-介电层,112和113-覆盖层,121和122-第一和第二内电极,131和132-第一和第二外电极,140-绝缘框架,151和171-第一外导体电极,152和172-第二外导体电极,153和173-第一内导体电极,154和174-第二内导体电极,155和175-第一过孔电极,156和176-第二过孔电极,161和162-第一和第二导电粘合层,200-安装基板,210-基板,211和212-第一和第二电极焊盘,221和222-焊料。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="68" wi="85" file="2016127269_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="68" wi="85" file="2016127269_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="93" wi="85" file="2016127269_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="42" wi="85" file="2016127269_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="42" wi="85" file="2016127269_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="42" wi="85" file="2016127269_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="63" wi="85" file="2016127269_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="59" wi="85" file="2016127269_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="59" wi="85" file="2016127269_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="51" wi="85" file="2016127269_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>陶瓷主体,所述陶瓷主体包括多个第一内电极和多个第二内电极,所述多个第一内电极和所述多个第二内电极通过介电层交替地暴露在所述多个第一内电极和所述多个第二内电极的两个纵向表面上； 多层陶瓷电容器,所述多层陶瓷电容器包括第一外电极和第二外电极,所述第一外电极和所述第二外电极设置在所述陶瓷主体的纵向方向上的两个端部处,以分别连接到所述多个第一内电极和所述多个第二内电极； 第一水平绝缘部,设置在所述陶瓷主体的厚度方向上的一侧； 第二水平绝缘部和第三水平绝缘部,分别设置在所述第一外电极和所述第二外电极的厚度方向上的另一个表面上； 将所述第一水平绝缘部的两端部与所述第二水平绝缘部及所述第三水平绝缘部的端部分别连接, 绝缘框架,所述绝缘框架包括第一垂直绝缘部和第二垂直绝缘部,所述第一垂直绝缘部和所述第二垂直绝缘部分别设置在所述陶瓷主体的长度方向上的两个表面上； 第一外部导体电极和第二外部导体电极、第一内部导体电极和第二内部导体电极、电连接装置,所述第一外部导体电极和第二外部导体电极分别包括在所述第一水平绝缘部的外表面上彼此间隔开的第一上水平导体部和第二上水平导体部、分别设置在所述第二水平绝缘部和所述第三水平绝缘部的外表面上的第一下水平导体部和第二下水平导体部、以及分别设置在所述第一垂直绝缘部和所述第二垂直绝缘部的外表面上的第一垂直导体部和第二垂直导体部,所述第一内部导体电极和第二内部导体电极分别设置在所述第一外部电极和所述第二外部电极的上表面与所述第一水平绝缘部之间,所述电连接装置分别将所述第一上水平导体部和所述第二上水平导体部与所述第一</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的多层陶瓷电子组件,其中,所述第一外电极和所述第二外电极包括分别形成在所述陶瓷主体的长度方向上的两个表面上的第一主体部和第二主体部、以及分别从所述第一主体部和所述第二主体部延伸并分别覆盖所述陶瓷主体的宽度方向和厚度方向上的表面的一部分的第一带部和第二带部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求2所述的层叠陶瓷电子部件,其特征在于,还包含分别配置在所述第一内部导体电极和所述第二内部导体电极与对应于所述第一带部和所述第二带部的面之间的第一导电性粘接层和第二导电性粘接层。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求3所述的层叠陶瓷电子部件,其中,所述第1导电性粘接层和所述第2导电性粘接层由高熔点焊料或导电性膏构成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的多层陶瓷电子组件,其中,所述电连接装置包括贯通连接到所述第一水平绝缘部的第一过孔电极和第二过孔电极。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1至5中任一项所述的层叠陶瓷电子部件,其中,所述电连结单元包括贯通所述第1上部水平导体部、所述第2上部水平导体部以及所述第1水平绝缘部而形成的第1槽部和第2槽部、以及分别形成于所述第1槽部和所述第2槽部的第1导电性连结部和第2导电性连结部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求6所述的层叠陶瓷电子部件,其中,所述第1槽部和所述第2槽部分别形成于所述第1上部水平导体部和所述第2上部水平导体部与所述第1垂直导体部和所述第2垂直导体部的连结部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1至7中任一项所述的层叠陶瓷电子部件,其特征在于,所述绝缘框配置为,所述第2水平绝缘部和所述第3水平绝缘部与所述第1垂直绝缘部和所述第2垂直绝缘部分别远离所述第1外部电极和所述第2外部电极。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求2至4中任一项所述的层叠陶瓷电子部件,其中,所述第一内部导体电极和所述第二内部导体电极以分别覆盖所述第一外部电极和所述第二外部电极的所述第一主体部和所述第二主体部的一部分的方式延长。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1至9中任一项所述的层叠陶瓷电子部件,还包括分别配置于所述第1垂直导体部和所述第2垂直导体部的外表面的第1绝缘层和第2绝缘层。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>陶瓷主体,所述陶瓷主体包括多个第一内电极和多个第二内电极,所述多个第一内电极和所述多个第二内电极通过介电层交替地暴露在所述多个第一内电极和所述多个第二内电极的两个纵向表面上； 分别设置在所述陶瓷主体的在长度方向上的两个表面上, 第一主体部分和第二主体部分,所述第一主体部分和所述第二主体部分分别连接到所述多个第一内电极和所述多个第二内电极； 多层陶瓷电容器,所述多层陶瓷电容器包括第一外电极和第二外电极,所述第一外电极和所述第二外电极分别从所述第一主体部分和所述第二主体部分延伸,所述第一外电极和所述第二外电极包括第一带部分和第二带部分,所述第一带部分和所述第二带部分分别覆盖所述陶瓷主体的在宽度方向和厚度方向上的表面的一部分； 第一水平绝缘部,设置在所述陶瓷主体的厚度方向上的一侧； 第二水平绝缘部和第三水平绝缘部,分别设置在所述第一外电极和所述第二外电极的厚度方向上的另一个表面上； 将所述第一水平绝缘部的两端部与所述第二水平绝缘部及所述第三水平绝缘部的端部分别连接, 绝缘框架,所述绝缘框架包括第一垂直绝缘部和第二垂直绝缘部,所述第一垂直绝缘部和所述第二垂直绝缘部分别设置在所述陶瓷主体的长度方向上的两个表面上； 第一外导体电极和第二外导体电极,所述第一外导体电极和第二外导体电极包括分别设置在所述第二水平绝缘部分和所述第三水平绝缘部分的外表面上的第一下水平导体部分和第二下水平导体部分以及分别设置在所述第一垂直绝缘部分和所述第二垂直绝缘部分的外表面上的第一垂直导体部分和第二垂直导体部分,所述第一内导体电极和第二内导体电极设置成分别覆盖所述第一带部分和所述第二带部分的上表面以及所述第一主体部分和所述第二主体部分的一部分,以及电连接装置,所述电连接装置将所述第一上水平导体部分和所述第二上水平导体部分分别连接到所述第一内导体电极和所述第二内导体电极。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求11所述的层叠陶瓷电子部件,其特征在于,还包括第一导电性粘接层和第二导电性粘接层,所述第一导电性粘接层和所述第二导电性粘接层分别配置于所述第一内部导体电极和所述第二内部导体电极与所述第一带部和所述第二带部对应的面、或者所述第一体部和所述第二体部之间。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求11或12所述的多层陶瓷电子组件,其中,所述电连接装置包括分别贯通连接到所述第一垂直绝缘部和所述第二垂直绝缘部的第一过孔电极和第二过孔电极。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求11至13中任一项所述的层叠陶瓷电子部件,其中,所述电连结单元包括分别贯通所述第1垂直导体部和所述第2垂直导体部以及所述第1垂直绝缘部和所述第2垂直绝缘部而形成的第1槽部和第2槽部、以及分别形成于所述第1槽部和所述第2槽部的第1导电性连结部和第2导电性连结部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>根据权利要求11至14中任一项所述的层叠陶瓷电子部件,其特征在于,所述绝缘框架被配置为,所述第二水平绝缘部和所述第三水平绝缘部与所述第一垂直绝缘部和所述第二垂直绝缘部的下部分别远离所述第一外部电极和所述第二外部电极。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>根据权利要求11至15中任一项所述的层叠陶瓷电子部件,还包括分别配置于所述第1垂直导体部和所述第2垂直导体部的外表面的第1绝缘层和第2绝缘层。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>权利要求1至16中任一项所述的层叠陶瓷电子部件,其以外部导体电极与所述电极焊盘接合的方式安装于所述基板。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

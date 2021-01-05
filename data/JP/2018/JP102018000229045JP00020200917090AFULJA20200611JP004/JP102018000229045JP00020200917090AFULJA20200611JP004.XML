@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000229045JP00020200917090AFULJA20200611JP004.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020091709" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091709</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091709</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000229045</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018229045</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>9</business:MainGroup>
+        <business:Subgroup>38</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F   9/38        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G06F9/38 350X</business:FI>
+      <business:FClass>
+        <business:FTerm>5B013AA12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5B013CC06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5B013CC11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5B013CC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5B013</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">演算処理装置および演算処理装置の制御方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>富士通株式会社</base:Name>
+            <base:RegisteredNumber>000005223</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中４丁目１番１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>田端  猛一</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中４丁目１番１号  富士通株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>秋月  康伸</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中４丁目１番１号  富士通株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>坂下  聡太</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中４丁目１番１号  富士通株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>真田  有</base:Name>
+            <base:RegisteredNumber>100092978</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>28</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】ストア命令とロード命令との順序入れ替わりの発生を抑制する。
+【解決手段】デコードされたメモリアクセス命令を格納する第１キュー１６１と、ストア命令に関するストアデータを格納する第２キュー１６４と、第１キュー１６１を確保できたが第２キュー１６４を確保できないストア命令に関するアドレス情報を記憶する記憶部１４４と、ロード命令の処理時に、ロード命令に関するアドレス情報と一致するアドレス情報が記憶部１４４に記憶された場合に、当該ロード命令の実行を抑止する抑止部１４３とを備える。
+【選択図】図４</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="64" file="2020091709_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、演算処理装置および演算処理装置の制御方法に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  情報処理装置が有する演算処理装置としてのプロセッサは、１つ又は複数のプロセッサコアを備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  プロセッサコアは、命令キャッシュ、命令バッファ、デコード部、リザベーションステーション、演算実行部およびロードストアユニットを有する。プロセッサコアは、命令の実行に際して以下の処理を行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  命令キャッシュには命令が格納されており、読み出された命令は命令バッファに格納され、順次デコード部に送られる。デコード部は命令解釈を行ない、リザベーションステーションへの命令の投入を行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  リザベーションステーションには、演算命令を蓄積するＲＳＥ（Reservation Station  for Execution）およびロードストア命令を蓄積するＲＳＡ（Reservation Station for  Address）が含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  リザベーションステーションから演算器への命令の投入の判断は各リザベーションステーションが行なう。この際の命令の投入は、演算器の使用効率の向上を図るべく、命令の並び順に依存せずに処理可能な命令から順次処理していくアウトオブオーダで行なわれる。ＲＳＡで選ばれたロード命令やストア命令はアドレス生成演算器で実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  ＲＳＡは、アドレス計算に用いるデータのために固定小数点レジスタ（ＧＰＲ）の番号を演算実行部に送る。このレジスタ番号を元に参照された固定小数点レジスタのデータはアドレス生成演算器に送られ、演算実行に使用される。アドレス生成演算器の出力はロード命令やストア命令がアクセスするメモリのアドレスである（以下、特許文献１参照）。
+</base:Paragraphs>
+      <base:Paragraphs num="0008">
+  ＲＳＡは、アドレス計算が行なわれたタイミングに合わせてロードストアユニットにロードもしくはストアのリクエストを出す。ロードストアユニットは、そのリクエストを受けて、ロード命令やストア命令を蓄積するＬＤＳＴＱ（Load &amp; Store Queue）に格納しつつ、ロードまたはストアを実行する。ＲＳＡは、ロードストアユニットにリクエストを出したタイミングでその命令が格納されていたエントリを解放し、その通知をデコード部に送る（以下、特許文献１および特許文献２参照）。
+</base:Paragraphs>
+      <base:Paragraphs num="0009">
+  ロードストアユニットは、実行しているロード命令が完了した場合は固定小数点レジスタにメモリを読み出した結果を格納し、ＬＤＳＴＱを解放する。キャッシュミスなどでロード命令が完了しなかった場合は、そのリクエストはアボートしＬＤＳＴＱから再発行される。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0010">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２００２－３６６５３８号公報</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0002">
+            <base:Text>特開平６－１３１２３９号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0011">
+  しかしながら、このような従来のプロセッサにおいては、キャッシュラインに対してデータをストアした後に、この同一のキャッシュラインからロードする、という命令列において、アウトオブオーダ制御によってストアよりも先にロードが実行されてしまうことがある。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  この場合、ストア実行前にキャッシュメモリからデータを読み出すことで、誤ったデータを結果として返してしまう。ＬＤＳＴＱは、ＲＳＡから命令が発行されアドレス計算の後にリクエストを受け取らなければ、ロードの前にストアがあり、且つ、それがロードと同じアドレスを参照することを知ることができない。ＬＤＳＴＱがＲＳＡからの先行命令発行待ちをするような制御は、アウトオブオーダを無効にすることとほぼ等しく、性能の観点から行なわれない。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  そのため、ロード命令は実行が首尾よくいったものとして、ＬＤＳＴＱから解放される。ロードの実行をやり直す必要があるが、やり直しを必要かどうかが判明するのはストア命令がＬＤＳＴＱに到達した時であるため、やり直しはストア命令をきっかけとしてその次の命令から行なわれることになる。そのため、ＲＳＡやＬＤＳＴＱから既に解放された命令に対してやり直しを行なうため、再び命令フェッチから実行することとなる。このやり直しの時間が性能低下に多大な影響を与えるという課題がある。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  １つの側面では、本発明は、ストア命令とロード命令との順序入れ替わりの発生を抑制することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0015">
+  このため、この演算処理装置は、ストア命令およびロード命令を含むメモリアクセス命令をデコードするデコード部と、デコードされたメモリアクセス命令を格納する第１キューと、ストア命令に関するストアデータを格納する第２キューと、前記第１キューを確保できたが前記第２キューを確保できないストア命令に関するアドレス情報を記憶する記憶部と、ロード命令の処理時に、当該ロード命令に関するアドレス情報と一致するアドレス情報が前記記憶部に記憶された場合に、当該ロード命令の実行を抑止する抑止部とを備える。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0016">
+  一実施形態によれば、ストア命令とロード命令との順序入れ替わりの発生を抑制することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0017">
+        <base:FigureReference num="0001">情報処理装置の構成の一例を表す図である。</base:FigureReference>
+        <base:FigureReference num="0002">実施形態の一例としてのプロセッサコアに関連するプロセッサコアの構成を例示する図である。</base:FigureReference>
+        <base:FigureReference num="0003">実施形態の一例としてのプロセッサコアに関連するプロセッサコアのＬＤＳＴＱの管理方法を説明するための図である。</base:FigureReference>
+        <base:FigureReference num="0004">実施形態の一例としてのプロセッサコアに関連するプロセッサコアの構成を例示する図である。</base:FigureReference>
+        <base:FigureReference num="0005">実施形態の一例としてのプロセッサコアにおけるＳＭＬが保持する情報を例示する図である。</base:FigureReference>
+        <base:FigureReference num="0006">実施形態の一例としてのプロセッサコアのＲＳＡのエントリ構成を例示する図である。</base:FigureReference>
+        <base:FigureReference num="0007">実施形態の一例としてのプロセッサコアにおける投機的なＬＤＳＴＱおよび投機的なＳＴＤＱの割り当て処理を説明するためのフローチャートである。</base:FigureReference>
+        <base:FigureReference num="0008">実施形態の一例としてのプロセッサコアにおけるＲＳＡからの命令発行処理を説明するためのフローチャートである。</base:FigureReference>
+        <base:FigureReference num="0009">実施形態の一例としてのプロセッサコアにおけるストア命令に対応する命令パイプラインを示す図である。</base:FigureReference>
+        <base:FigureReference num="0010">実施形態の一例としてのプロセッサコアにおけるロード命令に対応する命令パイプラインを示す図である。</base:FigureReference>
+        <base:FigureReference num="0011">図９に示したストア命令に対応する命令パイプラインと図１０に示したロード命令に対応する命令パイプラインとを共に示す図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0018">
+  以下、図面を参照して本演算処理装置および演算処理装置の制御方法に係る実施の形態を説明する。ただし、以下に示す実施形態はあくまでも例示に過ぎず、実施形態で明示しない種々の変形例や技術の適用を排除する意図はない。すなわち、本実施形態を、その趣旨を逸脱しない範囲で種々変形（実施形態および各変形例を組み合わせる等）して実施することができる。また、各図は、図中に示す構成要素のみを備えるという趣旨ではなく、他の機能等を含むことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  （Ｉ）関連技術
+
+  図１は情報処理装置の構成の一例を表す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  情報処理装置１００は、例えば、ＣＰＵ（Central  Processing  Unit）１、メインメモリ２および記憶装置３を有する。ＣＰＵ１，メインメモリ２および記憶装置３は、バスで接続され、互いに通信を行なう。ＣＰＵ１は、１つ又は複数のプロセッサコア１０ａ（１０）を有する。以下、ＣＰＵ１をプロセッサ１という場合がある。プロセッサコア１０，１０ａが演算処理装置の一例にあたる。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  メインメモリ２には、プログラムが展開されることで生成されたプロセスに含まれる命令列が格納される。命令列には、加算や減算などを実行させる演算命令およびデータの読み出しを行なわせるロード命令と、データ等の書き込みを行なわせるストア命令が含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  これらのロード命令およびストア命令はメインメモリ２へのアクセスを生じさせるメモリアクセス命令である。以下、ロード命令およびストア命令をロードストア命令という場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  図２は実施形態の一例としてのプロセッサコアに関連するプロセッサコア１０ａの構成を例示する図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  プロセッサコア１０ａは、命令キャッシュ１１，命令バッファ１２，デコード部１３，リザベーションステーション１４、演算実行部１５，ロードストアユニット１６およびRe-Order Buffer（ＲＯＢ）１７を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  プロセッサコア１０ａは、演算処理を行なう演算処理装置であり、１つ以上のプロセッサコア１０ａがＣＰＵ１に備えられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  デコード部１３は、命令解釈を行ない、各種命令を蓄積するキューなどにリソースを割り当てる。デコード部１３によるリソースの割り当て方法については後述する。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  リザベーションステーション１４は演算実行部１５への命令の投入の判断を行なう。リザベーションステーション１４は、デコード部１３が解釈した命令を蓄積し、優先度を調停してロードストアユニット１６や演算実行部１５に発行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  リザベーションステーション１４は、ＲＳＡ１４１，ＲＳＥ１４２および実割り当て管理部１４３を備える。ＲＳＡ１４１はロード命令およびストア命令を蓄積し、ＲＳＥ１４２は演算命令を蓄積する。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  ＲＳＡ１４１は、処理対象のロードストア命令の命令コード，オペランドレジスタアドレスおよびRe-Order Buffer ID（ROB ID）を実割り当て管理部１４３に通知する。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  実割り当て管理部１４３は、ＬＤＳＴＱ１６１のエントリ数の情報を予め有する。実割り当て管理部１４３は、ロードストア命令の命令IDの入力をＲＳＡ１４１から受ける。また、実割り当て管理部１４３は、ＬＤＳＴＱ解放信号の入力を後述するＬＳＣＵ（Load Store Control Unit）１６３から受ける。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  実割り当て管理部１４３は、自己がＬＤＳＴＱ１６１へ出力したロードストア命令の数とＬＳＣＵ１６３から入力されたＬＤＳＴＱ解放信号とから、ＬＤＳＴＱ１６１が保持するロードストア命令の数を求める。そして、実割り当て管理部１４３は、ＬＤＳＴＱ１６１が保持するロードストア命令の数がＬＤＳＴＱ１６１のエントリ数未満か否かを判定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  ＬＤＳＴＱ１６１が保持するロードストア命令の数がＬＤＳＴＱ１６１のエントリ数未満であれば、実割り当て管理部１４３は、ＲＳＡ１４１から入力されたロードストア命令の命令コードを演算実行部１５およびＬＤＳＴＱ１６１へ出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  また、実割り当て管理部１４３は、ロードストア命令の命令コードとともに、オペランドレジスタアドレスおよびROB IDも、演算実行部１５およびＬＤＳＴＱ１６１に通知する。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  一方、ＬＤＳＴＱ１６１が保持するロードストア命令の数がＬＤＳＴＱ１６１のエントリ数以上の場合、実割り当て管理部１４３は、ＬＤＳＴＱ１６１がフル、すなわちＲＳＡ１４１から入力されたロードストア命令の格納場所がＬＤＳＴＱ１６１に無い（空きなし）と判定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  ＬＤＳＴＱ１６１がフル（空きなし）の場合、実割り当て管理部１４３は、ＲＳＡ１４１から入力されたロードストア命令をＲＳＡ１４１へ戻すとともにインターロック信号をＲＳＡ１４１へ送信する。ＲＳＡ１４１から入力されたロードストア命令をＲＳＡ１４１へ戻すことは、実割り当て管理部１４３がそのロードストア命令を破棄し、ＲＳＡ１４１にそのロードストア命令の再送信を要求することにあたる。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  ＲＳＥ１４２は、固定小数点演算に用いるデータを保持するための固定小数点レジスタ番号を演算実行部１５へ送る。また、ＲＳＡ１４１も、データのロードストアに用いる固定小数点レジスタ番号を演算実行部１５へ送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  演算実行部１５は、レジスタ１５１およびアドレス演算器１５２を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  レジスタ１５１は演算実行に関するデータ等を格納する。例えば、レジスタ１５１は、実割り当て管理部１４３から通知される、ROB ID，命令コードおよびオペランドレジスタアドレスを格納する。また、レジスタ１５１には、ロードデータやストアデータが格納される。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  アドレス演算器１５２は、ＲＳＡ１４１で選ばれたロードストア命令を実行するためのアドレス演算を行なう。アドレス演算器１５２は、レジスタ１５１からオペランドデータを取得する。そして、アドレス演算器１５２は、ロードストア命令におけるアクセス対象となるメインメモリ２のアドレスを生成（演算）しＬＤＳＴＱ１６１に出力する。ＲＳＡ１４１は、アドレス演算器１５２によりアドレス生成が行なわれたタイミングに合わせて、ロード命令もしくはストア命令をロードストアユニット１６に出力する。演算実行部１５やロードストアユニット１６は、メモリアクセス命令を処理する処理部に相当する。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  ＲＯＢ１７は、デコード部１３が解釈した命令をプログラムの順番通りに完了させるための制御を行なう。ＲＯＢ１７には、デコード部１３によりデコードされて完了を待っている全ての命令が登録される。ＲＯＢ１７に登録される命令には、一意のROB IDが付与される。ROB IDはデコード部１３によって設定されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  また、ＲＯＢ１７は、ロードストアユニット１６のＬＳＣＵ１６３に対してストア指示を発行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  ロードストアユニット１６は、メインメモリ２に対するメモリアクセスを行なう。ロードストアユニット１６は、ＬＤＳＴＱ１６１，データキャッシュ１６２，ＬＳＣＵ１６３およびＳＴＤＱ（Store Data Queue）１６４を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  データキャッシュ１６２は、メインメモリ２から読み出したデータや、メインメモリ２に書き込むデータを一時的に格納する。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  ＬＤＳＴＱ１６１は、ＲＳＡ１４１から発行されたロード命令・ストア命令とそのアクセスするアドレスとを蓄積するキューである。ＳＴＤＱ１６４は、ストア命令のストアデータを蓄積するキューである。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  ＬＳＣＵ１６３は、ロードストアユニット１６によるメインメモリ２に対するメモリアクセスを制御する。ＬＳＣＵ１６３は、ＬＤＳＴＱ１６１からROB ID，命令コードおよびアドレスを取得する。また、ＬＳＣＵ１６３は、ストア命令についてＳＴＤＱ１６４からストアデータを取得し、データキャッシュ１６２に格納させる。そして、ＬＳＣＵ１６３は、これらの取得した情報を用いてデータの読み出し指示や書き込み指示を発行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  ＬＳＣＵ１６３は、ＬＤＳＴＱ１６１に蓄積された命令の調停を行なう。ＬＤＳＴＱ１６１にストア命令が登録されると、ＬＳＣＵ１６３は、ＬＤＳＴＱ１６１とＳＴＤＱ１６４との対応付けを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  ＬＳＣＵ１６３は、ＲＯＢ１７に対してROB IDを用いたロード完了報告を送信する。また、ＬＳＣＵ１６３は、ＲＯＢ１７からのストア指示に応じて、ＲＯＢ１７に対してストア準備完了報告を通知する。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  ＬＳＣＵ１６３は、ロードストアユニット１６によるロードストア命令が実行され、その実行完了に伴ってＬＤＳＴＱ１６１およびＳＴＤＱ１６４が解放可能になると、デコード部１３およびリザベーションステーション１４に解放通知を送信する。ロードストアユニット１６は、メモリアクセス命令を処理する処理部に相当する。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  ＲＳＡ１４１は、その複数あるエントリから選んだロード命令もしくはストア命令に対して、ＬＤＳＴＱ１６１の実際のリソースの確保が可能かを判定する機能を有する。また、ＲＳＡ１４１は、選んだ命令がストア命令であった場合にはＳＴＤＱ１６４の実際のリソースの確保が可能かを判定する。判定の結果、いずれかのリソースが確保できなかった場合には、ＲＳＡ１４１は、リソースが解放されるまでＲＳＡ１４１の該当のエントリをインターロックする機能を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  デコード部１３はＬＤＳＴＱ１６１およびＳＴＤＱ１６４の資源を投機的に割り当てる機能を有す。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  デコード部１３は命令バッファ１２から命令を取得し、取得した命令をデコードする。デコード部１３は、ロードストアユニット１６へ向けて出力されるロードストア命令の数の管理や、ロードストア命令に対するＬＤＳＴＱ１６１のエントリの仮の割り当てを行なう。ここで、仮の割当とは、ＬＤＳＴＱ１６１のエントリ数を仮想的に増やした識別情報を仮想のエントリとしてロードストア命令に割り当てることを指す。また、仮の割り当てを投機的な割り当てという場合もある。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  デコード部１３は、命令キャッシュ１１に格納された命令を読み出し、命令バッファ１２に格納する。そして、デコード部１３は、命令バッファ１２に格納された命令の入力を受ける。そして、デコード部１３は、取得した命令を解釈し、その命令が演算命令かロードストア命令かを判定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  デコード部１３は、仮割り当て管理部１３１を有する。そして、デコード部１３は、後述の如く仮割り当て管理部１３１によりロードストア命令が出力可能と判定された場合に、ロードストア命令に仮ＬＤＳＴＱ番号を割り当て、ＬＤＳＴＱ１６１のエントリの仮割り当てを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  ここで、仮ＬＤＳＴＱ番号は、ロードストア命令に対してＬＤＳＴＱ１６１のエントリに仮割り当てを行なうための番号である。本実施形態では、仮ＬＤＳＴＱ番号は、グループ番号と実際のＬＤＳＴＱ１６１のエントリを表すＬＤＳＴＱ番号との組み合わせで表される。このように仮ＬＤＳＴＱ番号を設定することで、仮ＬＤＳＴＱ番号から容易にＬＤＳＴＱ番号を生成でき、ロードストア命令に対するＬＤＳＴＱ１６１のエントリの仮割り当てを実際の割り当てに変更することが容易となる。ただし、仮ＬＤＳＴＱ番号は、ロードストア命令の処理順が判定できる番号であり、且つ、ＬＤＳＴＱ番号に変換する機構があれば他の番号を割り当ててもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  その後、デコード部１３は、仮ＬＤＳＴＱ番号を割り当てたロードストア命令をリザベーションステーション１４のＲＳＡ１４１へ出力する。また、演算命令の場合、デコード部１３は、取得した演算命令をリザベーションステーション１４のＲＳＥ１４２へ順次出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  ここで、デコード部１３は、命令発行を命令が発行された順序通り（インオーダ）で出力する。そのため、例えば、ある命令の出力が待機状態の場合、デコード部１３は、その出力を待機させている命令以降の命令の出力も待機することになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  仮割り当て管理部１３１は、デコード部１３から出力されたロードストア命令の数をカウントする。さらに、仮割り当て管理部１３１は、ＬＤＳＴＱ１６１からＬＤＳＴＱ解放信号を取得する。ＬＤＳＴＱ解放信号は、ＬＤＳＴＱ１６１におけるロードストア命令が格納された領域であるエントリからロードストア命令がデータキャッシュ１６２へ出力されそのエントリが解放された場合にＬＤＳＴＱ１６１から出力される信号である。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  ここで、ＬＤＳＴＱ１６１は、ロードストア命令を格納可能な上限数を有する。以下では、ＬＤＳＴＱ１６１におけるロードストア命令を格納可能な上限数をＬＤＳＴＱ１６１のエントリ数という。すなわち、ＬＤＳＴＱ解放信号は、ＬＤＳＴＱ１６１のエントリが解放されたことを表す信号である。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  仮割り当て管理部１３１は、ＬＤＳＴＱ１６１のエントリ数より大きい命令発行上限数を予め有する。例えば、仮割り当て管理部１３１は、ＬＤＳＴＱ１６１のエントリ数の４倍の数を命令発行上限数として記憶する。なお、命令発行上限数は、ＬＤＳＴＱ１６１のエントリ数より大きければどのような値を用いてもよい。命令発行上限数が大きいほど、ＲＳＥ１４１およびＲＳＡ１４２のアウトオブオーダ性能を向上させることができる。上述したデコード部１３が発行可能な仮ＬＤＳＴＱ番号の数は、この命令発行上限数が上限となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  仮割り当て管理部１３１は、デコード部１３が出力したロードストア命令のうち未だＬＤＳＴＱ１６１から出力されていないロードストア命令の数であるロードストア命令の滞留数を求める。そして、仮割り当て管理部１３１は、ロードストア命令の滞留数が命令発行上限未満か否かを判定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  ロードストア命令の滞留数が命令発行上限以上の場合、仮割り当て管理部１３１は、デコード部１３からのロードストア命令の出力を待機させる。これに対して、ロードストア命令の滞留数が命令発行上限未満の場合、仮割り当て管理部１３１は、ロードストア命令を出力したことを表すＲＳＡ１４１の解放信号をＲＳＡ１４１から取得したか否かを判定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  ＲＳＡ１４１の解放信号を受信した場合、仮割り当て管理部１３１は、ロードストア命令を格納するための空きがＲＳＡ１４１に存在すると判定する。そして、ロードストア命令を格納するための空きがＲＳＡ１４１に存在する場合、仮割り当て管理部１３１は、ロードストア命令が出力可能であることをデコード部１３へ通知し、デコード部１３からロードストア命令をリザベーションステーション１４のＲＳＡ１４１へ出力させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  図３は実施形態の一例としてのプロセッサコアに関連するプロセッサコア１０ａのＬＤＳＴＱ１６１の管理方法を説明するための図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  図３中において符号Ａ～Ｃで示すＬＤＳＴＱ１６１は、実際にはIDが0～9の10エントリとして構成されるとともに、これらのIDにX_ID（0～3）を付して表すことで仮想的に拡張され、40エントリあるものとして管理される。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  符号Ａは初期状態におけるＬＤＳＴＱ１６１の使用状況を示す。符号Ｂはある時点におけるＬＤＳＴＱ１６１の使用状態を示し、符号Ｃは符号Ｂで示した状態から所定時間経過後の時点におけるＬＤＳＴＱ１６１の使用状態を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  ＴＯＱ（Top of Queue）は、ＬＤＳＴＱ１６１に格納されたロードストア命令のうち先頭のロードストア命令の位置（ＬＤＳＴＱ番号）を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  実際のＬＤＳＴＱ１６１は例えば10エントリであり、初期状態では、符号Ａに示すように、ID_X=0でID=0から10エントリ分の太枠で囲まれた部分が実際に使用可能なID_XとIDとの組み合わせである。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  実割り当て管理部１４３は、ＬＤＳＴＱ１６１が空いているかの判定としてデコード部１３の割り当てたIDとID_Xとがこの太枠内に入っているかの確認を行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  ＴＯＱの更新はＬＤＳＴＱ１６１の解放によって行なうので、例えば符号Ａに示した状態から2エントリ解放されたときは、符号Ｂに示す状態に移行する。ＬＤＳＴＱ１６１のエントリの解放はインオーダでありＴＯＱから解放されるため、ＴＯＱが2つ進んだエントリであるID_X=0，ID=2に移動する。ＴＯＱが移動したため有効な10エントリを示す枠線も2エントリずれる。同じID=0でも符号Ａに示す状態ではID_X=0が有効だったものが、符号Ｂに示す状態においては無効になりID_X=1が有効になっている。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  ＬＤＳＴＱ１６１のIDとID_Xとの割り当ては、仮割り当て管理部１３１によって行なわれ、IDとID_Xとは番号順に割り当てられる。IDおよびID_Xはそれぞれサイクリックに更新される。すなわち、IDおよびID_Xはそれぞれラップアラウンドとなる。例えば、IDが（ここでは例として10エントリなので）9を超えると次は0になり、ID_Xはインクリメントされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  上述の如く構成されたプロセッサコア１０ａにおいて、命令キャッシュ１１から読み出された命令は命令バッファ１２に格納され、順次デコード部１３に送られる。デコード部１３は命令解釈を行ない、リザベーションステーション１４への命令の投入を行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  この時に、仮割り当て管理部１３１はＬＤＳＴＱ１６１およびＳＴＤＱ１６４の資源を投機的（仮想的）に割り当てる。投機的なＬＤＳＴＱ１６１およびＳＴＤＱ１６４の割り当てには、実際のＬＤＳＴＱ１６１およびＳＴＤＱ１６４のサイズより十分大きい連続するIDが用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  すなわち、実際のＬＤＳＴＱ１６１およびＳＴＤＱ１６４のサイズと同じ幅をもつレンジ内に入る投機的なＬＤＳＴＱ１６１およびＳＴＤＱ１６４が実際に確保可能なＬＤＳＴＱ１６１とＳＴＤＱ１６４となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  そのレンジの範囲外の投機的なＬＤＳＴＱ１６１およびＳＴＤＱ１６４は資源を確保することができない。実際の資源が解放されると、このレンジは幅を保ったまま移動する。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  リザベーションステーション１４から演算実行部１５への命令の投入の判断は、ＲＳＡ１４１およびＲＳＥ１４２がそれぞれ行なう。命令の投入はアウトオブオーダで行なうことでアドレス演算器１５２の使用効率の向上を図っている。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  実割り当て管理部１４３は、ＲＳＡ１４１で選ばれた命令がロード命令であればＬＤＳＴＱ１６１の資源割り当てを行なう。一方で、ＲＳＡ１４１で選ばれた命令がストア命令であればＬＤＳＴＱ１６１およびＳＴＤＱ１６４の資源割当を行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  資源割当に失敗すれば、ロード命令およびストア命令はＲＳＡ１４１に戻り、割り当てに資源が解放されるまでインターロックされる。資源割り当てに成功すれば、アドレス計算に用いるデータのために、ＲＳＡ１４１は、固定小数点レジスタの番号、例えば、第一オペランドレジスタ番号と第二オペランドレジスタ番号とを演算実行部１５に送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  これらのレジスタ番号により指示された固定小数点レジスタのオペランドデータはアドレス演算器１５２に送られ、アドレス演算に使用される。アドレス演算器１５２の出力はロード命令もしくはストア命令がアクセスするメインメモリ２のアドレスである。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  ＲＳＡ１４１は、アドレス計算が行なわれたタイミングに合わせてロードストアユニット１６にロードもしくはストアのリクエストを出す。ロードストアユニット１６にリクエストを出したタイミングで、ＲＳＡ１４１はその命令が格納されていたエントリを解放し、その通知をデコード部１３に送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  ロードストアユニット１６はＲＳＡ１４１からのリクエストを受けてロードストア命令をＬＤＳＴＱ１６１に格納しつつ、ストア命令であればＳＴＤＱ１６４との対応付けを行なう。それと同時にロードストアユニット１６はメモリアクセスを行ないロードまたはストア準備のためのフローをＬＳＣＵ１６３で実行順序を調停しながら実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  キャッシュミスなどで命令が完了しなかった場合は、そのリクエストはアボートし、ＬＳＣＵ１６３で調停したのちＬＤＳＴＱ１６１から再発行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  実行している命令がロード命令であった場合、ＬＳＣＵ１６３は、メインメモリ２からの読み出しが完了した時にレジスタ（固定小数点レジスタ）１５１にメインメモリ２を読み出した結果を格納させる。また、ＬＳＣＵ１６３は、命令が使用していたＬＤＳＴＱ１６１を解放して、その通知をデコード部１３とＲＳＡ１４１とに送り、命令が完了する準備ができたことをＲＯＢ１７に通知する。
+</base:Paragraphs>
+      <base:Paragraphs num="0083">
+  一方、実行している命令がストア命令であった場合は、ＬＳＣＵ１６３は、アドレス変換などの準備のフローを実行し、ＳＴＤＱ１６４にストアデータが格納され、メインメモリ２への書き込み準備が完了した時点でＲＯＢ１７に命令完了の準備ができたことを通知する。
+</base:Paragraphs>
+      <base:Paragraphs num="0084">
+  ＳＴＤＱ１６４へのストアデータの格納は、ＲＳＡ１４１からストア命令のアドレスと同時にオペランドレジスタの読み出しを行ないＳＴＤＱ１６４に登録するストアで行なわれる場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0085">
+  また、ＳＴＤＱ１６４へのストアデータの格納は、デコード部１３がストア命令を解釈した時にＲＳＡ１４１に登録するのと同時に登録されるＲＳＥ１４２のＳＴＤＱ１６４登録専用のエントリで行なわれることもある。その場合、ＲＳＥ１４２に登録されたストアデータ用エントリにおいても、投機的なＳＴＤＱ１６４の割り当てが行なわれているため、ＲＳＡ１４１で行なっているのと同様の資源割り当てと資源割り当て失敗時のインターロックを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0086">
+  ＲＯＢ１７はプログラムの順序通りに命令を完了させる。ロード命令の場合はメモリから読み出した結果が書き込まれた固定小数点レジスタの結果を確定させる。ストア命令の場合は、対応するＬＤＳＴＱ１６１とＳＴＤＱ１６４とを使用してＳＴＤＱ１６４に登録されたデータをＬＤＳＴＱ１６１に登録されたメインメモリ２上のアドレスに書き込みを行なう。ＬＤＳＴＱ１６１およびＳＴＤＱ１６４が解放可能になると、ＬＳＣＵ１６３はデコード部１３およびＲＳＡ１４１に通知を行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0087">
+  ＲＳＡ１４１は、解放信号を受け取ると投機的なＬＤＳＴＱ１６１とＳＴＤＱ１６４との使用可能なレンジをずらすとともに、新たにＬＤＳＴＱ１６１，ＳＴＤＱ１６４が使用可能となった命令のインターロックを解除する。
+</base:Paragraphs>
+      <base:Paragraphs num="0088">
+  一般的に、メインメモリ２からデータを読み出すロード命令は、メインメモリ２へデータを書き込むストア命令に比較して頻度が高いことが知られている。加えて、メインメモリ２の読み出しアドレスを保持するロード命令と比較して、ストア命令ではメインメモリ２への書き込みアドレスに加えてメインメモリ２へ書き込むためのデータを保持する必要があり、投機的に実行するのに必要な資源が多い。
+</base:Paragraphs>
+      <base:Paragraphs num="0089">
+  そのため、アウトオブオーダを採用するプロセッサ１では、回路量の最適化を行なうために、ロード命令およびストア命令のアクセスするアドレスのためのＬＤＳＴＱ１６１とストア命令がメモリに書き込むデータのためのＳＴＤＱ１６４とを別々に持ち、異なるエントリ数の構造とすることが多い。
+</base:Paragraphs>
+      <base:Paragraphs num="0090">
+  そして、ロード命令とストア命令との頻度的な特性から、ＳＴＤＱ１６４はＬＤＳＴＱ１６１に比較してかなり少ないエントリのみ保持できる構成を採用することが多い。
+</base:Paragraphs>
+      <base:Paragraphs num="0091">
+  このような構造を持ったプロセッサ１では、デコード部１３で投機的なＬＤＳＴＱ１６１およびＳＴＤＱ１６４の割り当てを行なう場合、プロセッサ１のアウトオブオーダ実行機能により、ＳＴＤＱ１６４の資源の使用率が上昇した場合にもロード命令はＲＳＡ１４１から発行されロードストアユニット１６でメモリアクセスできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0092">
+  デコード部１３で投機的なＬＤＳＴＱ１６１およびＳＴＤＱ１６４の割り当てを行なわない場合、実際のＳＴＤＱ１６４が確保できるまでデコード部１３ダはインターロックされ、ＳＴＤＱ１６４を使わない後続のロード命令の発行も抑止される。
+</base:Paragraphs>
+      <base:Paragraphs num="0093">
+  投機的なＬＤＳＴＱ１６１およびＳＴＤＱ１６４の割り当てを行なう構成において、ストア命令はＳＴＤＱ１６４の実際のリソースが確保可能となるまで待つことにより、ＲＳＡ１４１で長時間滞留することがある。
+</base:Paragraphs>
+      <base:Paragraphs num="0094">
+  つまりＳＴＤＱ１６４のリソースがＬＤＳＴＱ１６１に対して小さい場合、先行するストア命令より、後続のロード命令がアウトオブオーダの機能により先に発行されやすくなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0095">
+  アウトオブオーダのプロセッサ１において、このような動作は期待したものであり、先に発行が可能なロード命令を処理することでメインメモリ２のレイテンシの隠蔽が可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0096">
+  一方で、プログラム上先行するストア命令と後続のロード命令とを順不同に実行した場合においても、プログラム内では、あたかも、命令がプログラムの順序通りに実行されているかのように振る舞わなければならない。つまり上記のように、プログラム上で先に存在するストア命令より後に存在するロード命令が実行されることが起こっても良いが最終的に辻褄が合わなければならない。
+</base:Paragraphs>
+      <base:Paragraphs num="0097">
+  この辻褄合わせは、プロセッサコア１０ａが複数ある場合に特に重要である。順序が入れ替わったプログラム上の先行するストア命令のアドレスと後続のロード命令のアドレスとが一致する場合、つまり本来プログラム上で先に存在するストア命令がメインメモリ２にデータを書き込み、そのデータをロード命令が読み出すような場合には、ストア命令の書き込みが終わった後でないと、ロード命令が読み出したデータは正しいものではなくなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0098">
+  このようなストア命令とロード命令との順序の入れ替わりが発生すると、プロセッサ１は辻褄をあわせるために、ストア命令が完了した時点で、少なくとも後続のロード命令およびそのロード命令以降の命令実行を取り消すロールバックを行なう。そして、その後、再度そのロード命令を含む以降の命令のやり直しを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0099">
+  このロールバックは性能のペナルティが非常に大きく、投機的に行なわれた命令もすべてやり直すことから、電力効率も悪化する。
+</base:Paragraphs>
+      <base:Paragraphs num="0100">
+  デコード部１３で投機的にＬＤＳＴＱ１６１およびＳＴＤＱ１６４の割り当てを行なう場合には、デコード部１３で投機的にＬＤＳＴＱ１６１およびＳＴＤＱ１６４の割り当てを行なわずにインターロックする場合に比べて、上述したロールバックが発生する可能性が高くなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0101">
+  （ＩＩ）実施形態
+
+  （Ａ）構成
+</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  図４は実施形態の一例としてのプロセッサコアに関連するプロセッサコア１０の構成を例示する図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0103">
+  実施形態の一例としてのプロセッサコア１０は、図２に例示したプロセッサコア１０ａと同様に、情報処理装置１００のＣＰＵ１に備えられる。プロセッサコア１０は、図２に例示したプロセッサコア１０ａに加えて、ＳＭＬ（Store Data Queue Miss List）１４４を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0104">
+  また、プロセッサコア１０は、ロード命令がＳＭＬ１４４に蓄積された第一オペランドレジスタ番号とロード命令の第一オペランドレジスタ番号とを比較し、一致した場合にＳＴＤＱ１６４の資源が解放されるまでＲＳＡ１４１の該当のエントリをインターロックする機能を備える。デコードされて完了を待っているすべての命令はＲＯＢ１７に登録され、一意のROB IDが付与される。
+</base:Paragraphs>
+      <base:Paragraphs num="0105">
+  そして、これらの他の部分は図２に示したプロセッサコア１０ａと同様に構成されている。なお、図中、既述の符号と同一の符号は同様の部分を示しているので、その説明は省略する。
+</base:Paragraphs>
+      <base:Paragraphs num="0106">
+  ＬＤＳＴＱ１６１は、デコードされたメモリアクセス命令を格納する第１キューに相当し、ＳＴＤＱ１６４は、ストア命令に関するストアデータを格納する第２キューに相当する。
+</base:Paragraphs>
+      <base:Paragraphs num="0107">
+  図４に例示するプロセッサコア１０においては、先行するストア命令とアドレスが一致する後続のロード命令がある場合に、ロード命令が先にメモリアクセスをすることにより発生するロールバック発生を抑止し、且つ、実際のリソースが確保できた他のロード命令は投機的に実行することを実現する。そして、プロセッサコア１０においてはこれらの効果を少ない回路量で実現する。
+</base:Paragraphs>
+      <base:Paragraphs num="0108">
+  本プロセッサコア１０においては、アクセス先アドレスが同一となる先行のストア命令がＬＤＳＴＱ１６１に登録される前に、後続のロード命令がＬＤＳＴＱ１６１に登録されロードストアユニット１６でメモリアクセスされるのを防ぐため、プログラムの特性に着目する。
+</base:Paragraphs>
+      <base:Paragraphs num="0109">
+  メインメモリ２上に先行のストア命令が書き込んだデータを後続のロード命令で読み出して使うという動作は、主に以下の（１），（２）に示す２種類の操作において頻繁に行なわれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0110">
+  （１）プログラム実行中にレジスタが不足した際に、レジスタのデータをメインメモリ上に退避して別の用途で使用し、レジスタの不足が解消もしくは実際に退避したデータが必要になった時点で再度プログラムによりロード命令による読み出しを行なう、スピル・フィル操作。
+</base:Paragraphs>
+      <base:Paragraphs num="0111">
+  （２）サブルーチンのコールリターン実行時に、サブルーチンのコール先で使用するレジスタもしくはサブルーチンのコール元が使用していたデータを保護するためにレジスタ上のデータをメインメモリ上に退避し、その後リターン時に復元する操作。
+</base:Paragraphs>
+      <base:Paragraphs num="0112">
+  これらの操作が行なわれる場合には、ロードとストアのアドレスを計算するために使われる第一オペランドレジスタにはスタックポインタやフレームポインタといった特定の同一のレジスタが用いられる。つまり、ＲＳＡ１４１で発行されたが、ＳＴＤＱ１６４の実際のリソースを確保するのに失敗した先行するストア命令と後続のロード命令の第一オペランドレジスタが一致する場合、そのロード命令はストア命令がストアしたデータを読み出す可能性がある。そのようなロード命令は先行するストア命令がＳＴＤＱ１６４を確保できた後に実行することが望ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0113">
+  ＳＭＬ１４４は、ストア命令がＬＤＳＴＱ１６１の実際のリソースが確保できたがＳＴＤＱ１６４の確保ができなかった場合に、アドレス演算のための第一オペランドレジスタ番号と実行中の命令で一意となる識別情報（例えばROB ID）を蓄積するキュー構造を有する。ＳＭＬ１４４は、ＬＤＳＴＱ１６１（第１キュー）を確保できたがＳＴＤＱ１６４（第２キュー）を確保できないストア命令に関するアドレス情報（第一オペランドレジスタ番号，ROB ID）を記憶する記憶部に相当する。
+</base:Paragraphs>
+      <base:Paragraphs num="0114">
+  図５は実施形態の一例としてのプロセッサコア１０におけるＳＭＬ１４４が保持する情報を例示する図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0115">
+  この図５に示す例においては、ＳＭＬ１４４は、第一オペランドレジスタ番号（オペランドレジスタ番号）とROB IDとの各組み合わせ（エントリ）に対して、有効無効情報が設定されている。ＳＭＬ１４４は１つ以上のエントリを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0116">
+  有効無効情報は、ＳＴＤＱ１６４が確保できている状態であるか否かを示すフラグである。図５に示す例においては、“1（有効）”はＳＴＤＱ１６４が確保できていない状態を、 “0（無効）”はＳＴＤＱ１６４が確保できている状態を、それぞれ示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0117">
+  ロード命令の処理時に、当該ロード命令に関する第一オペランドレジスタ番号（アドレス情報）がＳＭＬ１４４（記憶部）のエントリに登録されているかが判定される。この判定の結果、ロード命令に関する第一オペランドレジスタ番号（アドレス情報）がＳＭＬ１４４（記憶部）のエントリに登録されている場合に、実割り当て管理部１４３に対して通知（実ＳＴＤＱチェック実行有効信号）が送信される。
+</base:Paragraphs>
+      <base:Paragraphs num="0118">
+  また、本プロセッサコア１０において、デコード部１３は、ロード命令に対して、直近でデコードしたストア命令に割り当てたＳＴＤＱ１６４の資源情報を付与する機能を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0119">
+  また、ストア命令がリザベーションステーション１４から発行され、ＬＤＳＴＱ１６１の実際のリソースが確保できたがＳＴＤＱ１６４の確保ができなかった場合に、実割り当て管理部１４３は、ストア命令の実行をキャンセルし、リザベーションステーション１４で資源（ＳＴＤＱ１６４等）が解放されるまでの間インターロックする。
+</base:Paragraphs>
+      <base:Paragraphs num="0120">
+  これと同時に、ＳＭＬ１４４にはストア命令のアドレス演算のための第一オペランドレジスタ番号とアウトオブオーダ実行中の命令で一意となるROB IDとが登録され、ＳＴＤＱ１６４が確保できていない状態であることを示す有効無効情報が関連付けて保持される。
+</base:Paragraphs>
+      <base:Paragraphs num="0121">
+  実割り当て管理部１４３は、ロード命令の処理時に、当該ロード命令に関するアドレス情報と一致するアドレス情報がＳＭＬ１４４に記憶された場合に、当該ロード命令の実行を抑止する抑止部として機能する。
+</base:Paragraphs>
+      <base:Paragraphs num="0122">
+  なお、実行中の命令で一意となるROB IDは一般にアウトオブオーダを採用したプロセッサコア１０では命令ごとに保持しており、このROB IDを用いてプロセッサコア１０は命令の実行状況・実行完了を管理する。
+</base:Paragraphs>
+      <base:Paragraphs num="0123">
+  ＳＭＬ１４４に登録されたエントリは、後続のロード命令を抑止するために用いられる。実行中の命令で一意となるIDは登録したエントリのストア命令の資源が確保された場合に、そのエントリを無効化するために使用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0124">
+  第一オペランドレジスタ番号は後続のロード命令を選択的に抑止するために使用される。資源が解放され、ストア命令のインターロックが解除されると、リザベーションステーション１４は再度ストア命令を発行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0125">
+  ストア命令がＬＤＳＴＱ１６１とＳＴＤＱ１６４とを確保できた場合には、ストア命令は実行され、同時にＳＭＬ１４４に対してストア命令のROB IDを送り、ＳＭＬ１４４が保持しているエントリのROB IDとマッチングを行なう。マッチングの結果、ＳＭＬ１４４にエントリが存在する場合に無効として“0”をマークする。すなわち、ROB IDは、ＳＭＬ１４４に登録したエントリのストア命令の資源が確保された場合に、そのエントリを無効化するために使用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0126">
+  一方、ロード命令がリザベーションステーション１４から発行された際には、実割り当て管理部１４３は、ＳＭＬ１４４に保持された情報のうち、有効として“1”が保持されているエントリ全てについて、第一オペランドレジスタ番号とロード命令が使用する第一オペランドレジスタ番号との一致を確認する。
+</base:Paragraphs>
+      <base:Paragraphs num="0127">
+  確認の結果、一致するエントリがある場合、実割り当て管理部１４３は、デコード部１３が付与したＳＴＤＱ１６４が確保可能かのチェックを行なう。ＳＴＤＱ１６４が確保可能でない場合には、ロード命令の実行はキャンセルされ、実割り当て管理部１４３は、リザベーションステーション１４で資源が解放されるまでの間インターロックする。
+</base:Paragraphs>
+      <base:Paragraphs num="0128">
+  ＳＴＤＱ１６４が確保可能である場合には、ロード命令は通常通り実行される。この処理ではロード命令はＳＴＤＱ１６４の確保は行なわない。しかしながら、ＳＴＤＱ１６４が確保可能かチェックを行なうのはロード命令よりも先に実行すべきストア命令がリザベーションステーション１４でインターロックされている可能性を調べるためである。
+</base:Paragraphs>
+      <base:Paragraphs num="0129">
+  ＳＭＬ１４４の有効なエントリを登録した命令がロード命令よりも後続のストア命令である場合には、ロールバックを発生させる追い抜きは発生しない。性能向上のためにはこのようなロード命令は投機的に実行するべきである。
+</base:Paragraphs>
+      <base:Paragraphs num="0130">
+  次に、本プロセッサコア１０におけるＬＤＳＴＱ１６１およびＳＴＤＱ１６４の割り当ておよびＲＳＡ１４１でのインターロック制御について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0131">
+  先ず、デコード時にロード命令がデコードされたときには、デコード部１３は、投機的なＬＤＳＴＱ１６１を割り当てるとともに、ロード命令がデコードされる前にデコードされたストア命令に割り当てられた投機的なＳＴＤＱ１６４の番号を付与する。デコードされたロード命令とストア命令とはＲＳＡ１４１に登録される。
+</base:Paragraphs>
+      <base:Paragraphs num="0132">
+  図６は実施形態の一例としてのプロセッサコア１０のＲＳＡ１４１のエントリ構成を例示する図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0133">
+  ＲＳＡ１４１においては、図６に示すように、有効無効，発行可能，資源解放待ち（インターロック），命令，第一オペランドレジスタ番号，ＬＤＳＴＱ，ＳＴＤＱおよびROB ID等の各情報が相互に関連付けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0134">
+  なお、図６中において“Invalid”はリザベーションステーション１４には登録されているが意味を持たない値を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0135">
+  従来手法において、ＲＳＡでは、ＳＴＤＱフィールドはストア命令でしか使われておらず、ロード命令に対してはＳＴＤＱフィールドにInvalidが設定されていた。
+</base:Paragraphs>
+      <base:Paragraphs num="0136">
+  これに対して、本プロセッサコア１０においては、図６に例示するように、本プロセッサコア１０においては、ロード命令について、ＳＴＤＱフィールドにＳＴＤＱ１６４の番号を示す“7”や“1”の値が設定されている。すなわち、従来手法においてはストア命令でしか使われていなかったＳＴＤＱフィールドをロード命令でも使用している。このように、本プロセッサコア１０のＲＳＡ１４１は、ＳＴＤＱフィールドにおいて、直前にデコードしたストア命令の投機的なＳＴＤＱ１６４の番号を管理する。
+</base:Paragraphs>
+      <base:Paragraphs num="0137">
+  （Ｂ）動作
+
+  上述の如く構成した実施形態の一例としてのプロセッサコア１０における投機的なＬＤＳＴＱ１６１および投機的なＳＴＤＱ１６４の割り当て処理を、図７に示すフローチャート（ステップＡ１～Ａ５）に従って説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0138">
+  デコード部１３は命令バッファ１２から命令を取得し、取得した命令をデコード（命令解釈）する。
+</base:Paragraphs>
+      <base:Paragraphs num="0139">
+  ステップＡ１において、デコード部１３は、デコードした命令がロード命令であるかを確認する。確認の結果、命令がストア命令である場合には（ステップＡ１のＹｅｓルート参照）、ステップＡ４に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0140">
+  ステップＡ４において、仮割り当て管理部１３１は、投機的なＬＤＳＴＱを付与し、投機的なＬＤＳＴＱ番号をインクリメントする。また、デコード部１３は、ロード命令に対して、直近でデコードしたストア命令に割り当てたＳＴＤＱ１６４の資源情報を付与する。その後、ステップＡ５に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0141">
+  また、ステップＡ１における確認の結果、命令がロード命令でない場合には（ステップＡ１のＮｏルート参照）、ステップＡ２に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0142">
+  ステップＡ２において、デコード部１３は、デコードした命令がストア命令であるかを確認する。命令がストア命令である場合には（ステップＡ２のＹｅｓルート参照）、ステップＡ３に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0143">
+  ステップＡ３において、仮割り当て管理部１３１は、投機的なＬＤＳＴＱおよび投機的なＳＴＤＱを付与し、投機的なＬＤＳＴＱ番号および投機的なＳＴＤＱ番号をインクリメントする。その後、処理はステップＡ５に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0144">
+  また、ステップＡ２における確認の結果、命令がストア命令でない場合も（ステップＡ２のＮｏルート参照）、ステップＡ５に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0145">
+  ステップＡ５において、デコード部１３は、デコードした命令を他のデコード結果と合わせて、リザベーションステーション１４に蓄積させる。その後、処理を終了する。
+</base:Paragraphs>
+      <base:Paragraphs num="0146">
+  次に、実施形態の一例としてのプロセッサコア１０におけるＲＳＡ１４１からの命令発行処理を、図８に示すフローチャート（ステップＢ１～Ｂ１０）に従って説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0147">
+  ステップＢ１において、実割り当て管理部１４３は、ＲＳＡ１４１から発行される命令がロード命令であるかを確認する。確認の結果、ロード命令でない場合には（ステップＢ１のＮｏルート参照）、ステップＢ２に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0148">
+  ステップＢ２において、実割り当て管理部１４３は、ＲＳＡ１４１から発行される命令がストア命令であるかを確認する。確認の結果、ストア命令である場合には（ステップＢ２のＹｅｓルート参照）、ステップＢ３に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0149">
+  ステップＢ３において、実割り当て管理部１４３は、ＬＤＳＴＱ１６１の実際のリソースが確保できたかを確認する。確認の結果、ＬＤＳＴＱ１６１の実際のリソースが確保できた場合には（ステップＢ３のＹｅｓルート参照）、ステップＢ４に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0150">
+  ステップＢ４において、実割り当て管理部１４３は、次にＳＴＤＱ１６４の実際のリソースが確保できたかを確認する。確認の結果、ＳＴＤＱ１６４の実際のリソースが確保できなかった場合には（ステップＢ４のＮｏルート参照）、ステップＢ５に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0151">
+  ステップＢ５において、実割り当て管理部１４３は、ＳＭＬ１４４に第一オペランドとROB IDとを登録し、これらを登録したエントリに対して有効無効情報に有効として1を設定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0152">
+  すなわち、実割り当て管理部１４３は、ＲＳＡ１４１で選ばれた命令がストア命令でかつ、ＬＤＳＴＱ１６１およびＳＴＤＱ１６４のリソース割り当てに失敗すると、その命令のアドレス計算で使用する第一オペランドレジスタ番号とリソース割り当てに失敗したROB IDとをＳＭＬ１４４に追加する。さらに、追加したエントリを有効としてマークする。
+</base:Paragraphs>
+      <base:Paragraphs num="0153">
+  なお、ＳＭＬ１４４が持つ全てのエントリが有効（1）としてマークされた状態でストア命令がＬＤＳＴＱ１６１およびＳＴＤＱ１６４のリソース割り当てに失敗すると、有効なＳＭＬ１４４のエントリを上書して登録してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0154">
+  その後、ステップＢ１０において、実割り当て管理部１４３は、ＲＳＡ１４１の発行命令をアボートして、エントリをインターロックする。
+</base:Paragraphs>
+      <base:Paragraphs num="0155">
+  すなわち、ストア命令は実際のＳＴＤＱ１６４が確保できなかったという要因で、ＳＴＤＱ１６１が解放されるまでインターロックされる。その後、処理を終了する。
+</base:Paragraphs>
+      <base:Paragraphs num="0156">
+  一方、ステップＢ４における確認の結果、ＳＴＤＱ１６４の実際のリソースが確保できた場合には（ステップＢ４のＹｅｓルート参照）、ステップＢ６において、ストア命令が発行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0157">
+  すなわち、ＬＤＳＴＱ１６１およびＳＴＤＱ１６４の実際のリソース割り当てに成功すると、オペランドレジスタ番号が固定小数点レジスタ１５１に送られ、アドレス演算器１５２によるアドレス演算が行なわれる。そして、ＬＤＳＴＱ１６１およびＳＴＤＱ１６４へストア命令が登録される。
+</base:Paragraphs>
+      <base:Paragraphs num="0158">
+  実割り当て管理部１４３は、ＬＤＳＴＱ１６１，ＳＴＤＱ１６４へのストア命令の割り当てが確定した時点で、ＳＭＬ１４４にROB IDを通知する。その後、処理を終了する。
+</base:Paragraphs>
+      <base:Paragraphs num="0159">
+  また、ステップＢ３における確認の結果、ＬＤＳＴＱ１６１の実際のリソースが確保できなかった場合にも（ステップＢ３のＮｏルート参照）、ステップＢ１０に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0160">
+  ステップＢ２における確認の結果、ストア命令でもない場合においても（ステップＢ２のＮｏルート参照）、ステップＢ６に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0161">
+  一方、ステップＢ１における確認の結果、ロード命令である場合には（ステップＢ１のＹｅｓルート参照）、ステップＢ７に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0162">
+  ステップＢ７において、実割り当て管理部１４３は、ＬＤＳＴＱ１６１の実際のリソースが確保できたかを確認する。確認の結果、ＬＤＳＴＱ１６１の実際のリソースが確保できなかった場合には（ステップＢ７のＮｏルート参照）、ステップＢ１０に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0163">
+  また、ステップＢ７における確認の結果、ＬＤＳＴＱ１６１の実際のリソースを確保できた場合には（ステップＢ７のＹｅｓルート参照）、ステップＢ８に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0164">
+  ステップＢ８において、実割り当て管理部１４３は、ロード命令の第一オペランドレジスタ番号をＳＭＬ１４４の全ての有効なエントリに登録されている第一オペランドレジスタ番号と比較し、いずれかの第一オペランドレジスタと一致するかを確認する。
+</base:Paragraphs>
+      <base:Paragraphs num="0165">
+  比較の結果、一致するエントリが存在する場合には（ステップＢ８のＹｅｓルート参照）、ステップＢ９に移行する。ステップＢ９において、実割り当て管理部１４３は、ロード命令にデコード部１３で付与された先行するストア命令のＳＴＤＱ１６１が確保可能かを確認（チェック）する。この確認は、ステップＢ３，Ｂ４におけるストア命令で実際の資源が確保できたかの確認と同様にして行なわれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0166">
+  ロード命令について実際のＳＴＤＱ１６４が確保可能でない場合は（ステップＢ９のＮｏルート参照）、ステップＢ１０に移行する。ステップＢ１０において、ＬＤＳＴＱ１６１が確保できなかったときと同様に、実際のＳＴＤＱ１６４が確保できなかったという要因でＳＴＤＱ１６４が解放されるまでインターロックされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0167">
+  一方、ロード命令について実際のＳＴＤＱ１６４が確保可能である場合は（ステップＢ９のＹｅｓルート参照）、ステップＢ６に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0168">
+  さらに、ステップＢ８における確認の結果、ロード命令の第一オペランドレジスタ番号がＳＭＬ１４４の有効なエントリに登録されている第一オペランドレジスタ番号のいずれとも不一致である場合には（ステップＢ８のＮｏルート参照）、ステップＢ６に移行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0169">
+  ＬＤＳＴＱ１６１の実際のリソース割り当てに成功し、ＳＭＬ１４４の有効なエントリに登録されている第一オペランドレジスタ番号と一致しない場合、それらのレジスタ番号が固定小数点レジスタ１５１に送られる。その後、アドレス演算器１５２によってアドレス演算が行なわれ、ＬＤＳＴＱ１６１へロード命令が登録される。
+</base:Paragraphs>
+      <base:Paragraphs num="0170">
+  さて、ロードストアユニット１６でメインメモリ２の読み出しが完了すると、ＬＳＣＵ１６３はＬＤＳＴＱ１６１の解放通知をデコード部１３およびＲＳＡ１４１に通知し、ＲＯＢ１７にROB IDとメモリ読み出し完了通知とを送信する。
+</base:Paragraphs>
+      <base:Paragraphs num="0171">
+  ＲＳＡ１４１でＬＤＳＴＱ１６１の実際のリソース割り当て待ちでインターロックされているエントリは、解放通知を契機にインターロックが解除され、ＲＳＡ１４１から発行が可能な状態となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0172">
+  ロードストアユニット１６でストアの準備フローが完了すると、ＲＯＢ１７とＳＭＬ１４４にROB IDとストアの準備完了通知とを送信する。
+</base:Paragraphs>
+      <base:Paragraphs num="0173">
+  ＲＯＢ１７は、ストアの準備完了が通知され、命令がプログラム順で完了可能となったと判断すると、ロードストアユニット１６にストア指示を送信する。ＬＳＣＵ１６３は、ストア指示を受けると、ＳＴＤＱ１６４に保持しているデータをメインメモリ２へ書き込む。
+</base:Paragraphs>
+      <base:Paragraphs num="0174">
+  ＬＳＣＵ１６３はＬＤＳＴＱ１６１およびＳＴＤＱ１６４のリソースの使用が終了したと判断した時に、デコード部１３およびＲＳＡ１４１に解放通知を送信する。ＲＳＡ１４１でＬＤＳＴＱ１６１もしくはＳＴＤＱ１６４の実際のリソース割り当て待ちでインターロックされているエントリは、解放通知を契機にインターロックが解除され、ＲＳＡ１４１から発行が可能な状態となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0175">
+  ストア命令がＬＤＳＴＱ１６１，ＳＴＤＱ１６４に割り当てが確定した時に通知されるROB IDを用いて、ＳＭＬ１４４はＳＭＬ１４４に登録されているエントリのROB IDと一致するエントリを無効化する。
+</base:Paragraphs>
+      <base:Paragraphs num="0176">
+  これらの処理により、実際のＳＴＤＱ１６４が確保できないストア命令がＲＳＡ１４１でインターロックされて発行できない場合においても、後続の第一オペランドレジスタ番号が一致するロード命令もインターロックがかかり、順序の保証が可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0177">
+  一方で、第一オペランドレジスタ番号が一致しないロード命令はインターロックされず、アウトオブオーダで実行される。これにより、ＳＴＤＱ１６４が確保できないストア命令以降のロード命令をすべてインターロックするのと比較して、アドレスが一致する可能性があるストア命令を追い抜く可能性があるロード命令のみを選択的にインターロックをかけることが可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0178">
+  図９は実施形態の一例としてのプロセッサコア１０におけるストア命令に対応する命令パイプラインを示す図であり、図１０はそのロード命令に対応する命令パイプラインを示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0179">
+  命令パイプラインは複数の処理段階（パイプラインステージ）を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0180">
+  ロード／ストア命令には、Ｐ（Priority）サイクル、ＰＴ（Priority Transfer）サイクル、Ｂ（Buffer）１サイクル、Ｂ（Buffer）２サイクル、およびＡ（Address Generate）サイクルと呼ばれる５ステージのロード／ストアパイプライン５００ａで実行される。ロード／ストアパイプライン５００ａは、図４のＲＳＡ１４１からＬＤＳＴＱ１６１までの経路に対応している。
+</base:Paragraphs>
+      <base:Paragraphs num="0181">
+  固定小数点演算命令はＰサイクル、ＰＴサイクル、Ｂ１サイクル、Ｂ２サイクル、およびＸ（Execution）サイクルの５ステージの演算パイプライン５００ｂで実行される。なお、Ｄ（Decode）サイクルおよびＤＴ（Decode Transfer）サイクルは両パイプライン共通のサイクルである。
+</base:Paragraphs>
+      <base:Paragraphs num="0182">
+  Ｄサイクルにおいては、命令をデコードしリザベーションステーション１４へ送る。また、ＬＤＳＴＱ１６１，ＳＴＤＱ１６４の数の管理や投機的なＬＤＳＴＱ１６１，ＳＴＤＱ１６４の割り当てを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0183">
+  ＤＴサイクルにおいては、Ｄサイクルでデコードされた命令を転送し、リザベーションステーション１４に格納する。
+</base:Paragraphs>
+      <base:Paragraphs num="0184">
+  Ｐサイクルにおいては、リザベーションステーション１４からアドレス演算器１５２や演算器１１２へ投入する命令（エントリ）を決定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0185">
+  ＰＴサイクルにおいては、Ｐサイクルのデータを転送する。Ｂ１サイクルにおいては、アドレス生成演算に必要なデータを決定する。また、レジスタ１５１の読み出しを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0186">
+  Ｂ２サイクルにおいては、アドレス生成演算に必要なデータを決定する。すなわち、Ｂ１サイクルの続きを行なう。また、ストア命令の場合、Ｄサイクルで投機的に割り当てを行なったＬＤＳＴＱ１６１，ＳＴＤＱ１６４が空いているかどうかのチェックも行なう。さらに、ＳＭＬ１４４への登録もしくはＳＭＬ１４４に登録されたエントリのチェックも行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0187">
+  Ａサイクルにおいては、アドレス生成演算を行なう。また、生成したアドレスをロードストアユニット１６へ送る。さらに、リザベーションステーション１４を解放する。また、ストア命令の場合ＳＭＬ１４４へエントリの無効化信号（ＳＭＬ無効化信号，ROB ID）を出す。ロードストアユニット１６へリクエストを出しＬＤＳＴＱ１６１およびＳＴＤＱ１６４に登録を行なう。Ｘサイクルにおいては、固定小数点演算を行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0188">
+  本プロセッサコア１０の命令パイプラインでは、実ＬＤＳＴＱ１６１および実ＳＴＤＱ１６４のチェックに加えて、ＳＭＬ１４４が備えられる。ＳＭＬ１４４に登録するのはストア命令で、ＳＭＬ１４４に登録された情報を使用するのはロード命令である。
+</base:Paragraphs>
+      <base:Paragraphs num="0189">
+  まず、実施形態の一例としてのプロセッサコア１０におけるストア命令に対応する命令パイプラインを、図９を用いて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0190">
+  ストア命令が命令バッファ１２からＤサイクルでデコード部１３に入力されると、デコード部１３は、取得した命令をデコードし、仮割り当て管理部１３１により投機的なＬＤＳＴＱ１６１，ＳＴＤＱ１６４が割り当てられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0191">
+  デコード部１３は、デコードしたストア命令を、リザベーションステーション１４のＲＳＡ１４１へ送るためにフリップフロップ１０１へ出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0192">
+  ここで、投機的な割当とは、ＬＤＳＴＱ１６１やＳＴＤＱ１６４のエントリ数を仮想的に増やした識別情報を仮想のエントリとしてロードストア命令に割り当てることを指す。
+</base:Paragraphs>
+      <base:Paragraphs num="0193">
+  ＤＴサイクルでは、ＲＳＡ１４１への登録を行なう。Ｄサイクルでデコードされた命令がフリップフロップ１０１を経由して転送され、リザベーションステーション１４のＲＳＡ１４１に格納される。
+</base:Paragraphs>
+      <base:Paragraphs num="0194">
+  ＲＳＡ１４１ではＰサイクルでアウトオブオーダに発行する命令を選択する。これは命令が発行可能になったもののうち、一番古いエントリを選択する。ストア命令がＲＳＡ１４１で選択されると、ＰＴサイクルに送られ、その後、順次、Ｂ１サイクル、Ｂ２サイクルへと進む。
+</base:Paragraphs>
+      <base:Paragraphs num="0195">
+  ＰＴサイクルでは、Ｐサイクルで決定された命令の命令コードが、フリップフロップ１０２からフリップフロップ１０３へ転送される。
+</base:Paragraphs>
+      <base:Paragraphs num="0196">
+  Ｂ１サイクルおよびＢ２サイクルでは、固定小数点レジスタ（ＧＰＲ）からデータが読み出されるタイミングに合わせてフリップフロップ１０３～１０５によりデータに遅延が与えられる。それとともに、実割り当て管理部１４３は、ＬＤＳＴＱ１６１から出力されたＬＤＳＴＱ解放信号を用いて、Ｄサイクルで仮に割り当てたエントリに対応するＬＤＳＴＱ１６１のエントリが実際に空いているか否かのチェックを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0197">
+  Ｂ２サイクルにおいては、ＬＤＳＴＱ１６１が使用可能であったが、ＳＴＤＱ１６４が使用可能で無かった時に、実割り当て管理部１４３は、実ＳＴＤＱミス信号をＳＭＬ１４４に送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0198">
+  ＳＭＬ１４４は実ＳＴＤＱミス信号が通知されたときに、そのストア命令のROB IDと第一オペランドレジスタ番号とを無効となっているエントリに上書きで記録する。このとき、ＳＭＬ１４４に無効となっているエントリが一つもない場合、つまり全部有効なエントリで埋め尽くされている場合は、いずれかの任意のエントリを上書きしても良いし、何もしなくてもよい。ＬＤＳＴＱ１６１，ＳＴＤＱ１６４の両方が使用可能であったかどうかの情報が付加されたストア命令は次のＡサイクルに送られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0199">
+  ＬＤＳＴＱ１６１のエントリが空いている場合、実割り当て管理部１４３は、アドレス演算器１５２へ入力する命令コードをフリップフロップ１０５へ出力する。一方、ＬＤＳＴＱ１６１のエントリが空いていない場合、実割り当て管理部１４３は、ＲＳＡ１４１へ戻す命令コードをフリップフロップ１０５へ出力するとともに、インターロック信号をフリップフロップ１０５へ出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0200">
+  また、Ｂ１サイクルで読み出したストアデータをロードストアユニット１６のＳＴＤＱ１６４に登録する。そして、ＲＳＡ１４１へ命令の発行がうまくいったことを示すＲＳＡ解放信号が送信される。
+</base:Paragraphs>
+      <base:Paragraphs num="0201">
+  また、ＳＭＬ１４４に対して、ROB IDとＳＭＬ無効化信号とが送信される。ＳＭＬ１４４はＳＭＬ無効化信号を受け取ると、登録されているROB IDと一致するエントリを探し、存在する場合、エントリの有効無効を示す信号を無効としてマークする。
+</base:Paragraphs>
+      <base:Paragraphs num="0202">
+  Ａサイクルでは、ＬＤＳＴＱ１６１，ＳＴＤＱ１６４の両方が使用可能であった場合に、Ｂ２サイクルにおいて、Ｂ１サイクルで読み出したレジスタを用いてアドレス生成演算を行ない、ロードストアユニット１６のＬＤＳＴＱ１６１に演算結果を登録する。
+</base:Paragraphs>
+      <base:Paragraphs num="0203">
+  Ａサイクルにおいて、ＬＤＳＴＱ１６１およびＳＴＤＱ１６４の両方が使用可能でない場合に、ストア命令はキャンセルされ、ＲＳＡ１４１にインターロック信号が送られる。ＲＳＡ１４１はインターロック信号を受け取ると、該当のストア命令をインターロックし、Ｐサイクルでのアウトオブオーダに発行する命令選択にこのストア命令を除外する。
+</base:Paragraphs>
+      <base:Paragraphs num="0204">
+  また、Ａサイクルでストア命令がキャンセルされなかった場合、ロードストアユニット１６はストア命令が完了しＬＤＳＴＱ１６１，ＳＴＤＱ１６４の解放が可能になると、ＲＳＡ１４１と実割り当て管理部１４３に解放信号（ＬＤＳＴＱ，ＳＴＤＱ解放信号）を送る。ＲＳＡ１４１はインターロックされていたエントリのインターロックを解除し、Pサイクルでのアウトオブオーダに発行する命令選択に再度参加可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0205">
+  アドレス演算器１５２は、アドレス生成演算を行ない、生成したアドレスおよびロードストア要求をＬＤＳＴＱ１６１へ送る。ＬＤＳＴＱ１６１は、アドレスをデータキャッシュ１６２に対して出力すると、ＬＤＳＴＱ，ＳＴＤＱ解放信号をＲＳＡ１４１および実割り当て管理部１４３へ出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0206">
+  次に、実施形態の一例としてのプロセッサコア１０におけるロード命令に対応する命令パイプラインを、図１０を用いて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0207">
+  ロード命令が命令バッファ１２からＤサイクルでデコード部１３に投入されると、デコード部１３は、取得した命令をデコードし、仮割り当て管理部１３１により投機的なＬＤＳＴＱ１６１が割り当てられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0208">
+  ここで、投機的な割当とは、ＬＤＳＴＱ１６１のエントリ数を仮想的に増やした識別情報を仮想のエントリとしてロード命令に割り当てることを指す。
+</base:Paragraphs>
+      <base:Paragraphs num="0209">
+  また、デコード部１３は、このロード命令がデコードされる直前にデコードされたストア命令に割り当てた投機的なＳＴＤＱ１６４の番号を付与し、ＤＴサイクルに送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0210">
+  ＤＴサイクルでは、ＲＳＡ１４１への登録を行なう。Ｄサイクルでデコードされたロード命令がフリップフロップ１０１を経由して転送され、リザベーションステーション１４のＲＳＡ１４１に格納される。
+</base:Paragraphs>
+      <base:Paragraphs num="0211">
+  ＲＳＡ１４１ではＰサイクルでアウトオブオーダに発行する命令を選択する。これは命令が発行可能になったもののうち、一番古いエントリを選択する。ロード命令がＲＳＡ１４１で選択されると、ＰＴサイクルに送られ、その後、順次、Ｂ１サイクル、Ｂ２サイクルへと進む。
+</base:Paragraphs>
+      <base:Paragraphs num="0212">
+  ＰＴサイクルでは、Ｐサイクルで決定された命令の命令コードが、フリップフロップ１０２からフリップフロップ１０３へ転送される。
+</base:Paragraphs>
+      <base:Paragraphs num="0213">
+  Ｂ１サイクルおよびＢ２サイクルでは、フリップフロップ１０３～１０５によりデータに遅延が与えられる。それとともに、実割り当て管理部１４３は、ＬＤＳＴＱ１６１から出力されたＬＤＳＴＱ解放信号を用いて、Ｄサイクルで仮に割り当てたエントリに対応するＬＤＳＴＱ１６１のエントリが実際に空いているか否かのチェックを行なう。
+</base:Paragraphs>
+      <base:Paragraphs num="0214">
+  Ｂ２サイクルにおいて、マッチ回路１１３において、ロード命令の第一オペランドレジスタ番号とＳＭＬ１４４に登録された有効なエントリの第一オペランド番号との比較が行なわれる。マッチ回路１１３は、ＳＭＬ１４４に一つ以上マッチするエントリがある場合に、実ＳＴＤＱチェック実行有効信号を実割り当て管理部１４３に送信する。
+</base:Paragraphs>
+      <base:Paragraphs num="0215">
+  この実ＳＴＤＱチェック実行有効信号が有効である場合、Ｄサイクルで割り当てた、直前のストア命令に割り当てられたＳＴＤＱ１６４が使用可能かのチェックも行なわれる。すなわち、本プロセッサコア１０においては、ストア命令の後に発行されるロード命令に対してのみ選択的にインターロックをかける。
+</base:Paragraphs>
+      <base:Paragraphs num="0216">
+  一方、実ＳＴＤＱチェック実行有効信号が無効である場合、常にＳＴＤＱ１６４が使用可能と判断される。ＬＤＳＴＱ１６１およびＳＴＤＱ１６４の両方が使用可能であったかどうかの情報が付加されたロード命令が次のＡサイクルに送られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0217">
+  Ａサイクルでは、ＬＤＳＴＱ１６１およびＳＴＤＱ１６４の両方が使用可能であった場合に、Ｂ２サイクルにおいて、Ｂ１サイクルで読み出したレジスタ１５１を用いてアドレス生成演算を行ない、ロードストアユニット１６のＬＤＳＴＱ１６１に演算結果を登録する。そして、ＲＳＡ１４１へ命令の発行がうまく行なったことを示すＲＳＡ解放信号が送られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0218">
+  Ａサイクルにおいて、ＬＤＳＴＱ１６１およびＳＴＤＱ１６４の両方が使用可能でない場合に、ロード命令はキャンセルされ、ＲＳＡ１４１にインターロック信号が送られる。ＲＳＡ１４１はインターロック信号を受け取ると、該当のロード命令をインターロックし、Ｐサイクルでのアウトオブオーダに発行する命令選択にこのロード命令を除外する。
+</base:Paragraphs>
+      <base:Paragraphs num="0219">
+  Ａサイクルでロード命令がキャンセルされなかった場合、ロードストアユニット１６はロード命令が完了しＬＤＳＴＱ１６１の解放が可能になるとＲＳＡ１４１と実割り当て管理部１４３に解放信号を送る。ＲＳＡ１４１はインターロックされていたエントリのインターロックを解除し、Ｐサイクルでのアウトオブオーダに発行する命令選択に再度参加可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0220">
+  図１１は図９に示したストア命令に対応する命令パイプラインと図１０に示したロード命令に対応する命令パイプラインとを共に示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0221">
+  本プロセッサコア１０においては、ストア命令の処理時において、ＬＤＳＴＱ１６１が使用可能であったが、ＳＴＤＱ１６４が使用可能で無かった時に、ＳＭＬ１４４はそのストア命令のROB IDと第一オペランドレジスタ番号とをエントリに記録する。
+</base:Paragraphs>
+      <base:Paragraphs num="0222">
+  そして、ロード命令の処理時において、ロード命令の第一オペランドレジスタ番号とＳＭＬ１４４に登録された有効なエントリの第一オペランド番号との比較が行なわれる。そして、ＳＭＬ１４４に一つ以上マッチするエントリがある場合に、ストア命令の後に発行されるロード命令に対してインターロックをかける。
+</base:Paragraphs>
+      <base:Paragraphs num="0223">
+  これにより、ストアとロードのアドレスが一致する場合に、ストア命令が実際のＳＴＤＱ１６４の割り当て待ちによりリザベーションステーション１４で待機している間に、後続のロード命令が先に発行されることを抑止することを実現する。
+</base:Paragraphs>
+      <base:Paragraphs num="0224">
+  （Ｃ）効果
+
+  このように、本発明の一実施形態としてのプロセッサコア１０によれば、ＳＭＬ１４４を備え、ストア命令がＬＤＳＴＱ１６１の実際のリソースを確保できたがＳＴＤＱ１６４の確保ができなかった場合に、ＳＭＬ１４４に第一オペランドレジスタ番号とROB IDとを登録する。
+</base:Paragraphs>
+      <base:Paragraphs num="0225">
+  そして、ロード命令がリザベーションステーション１４から発行された際に、実割り当て管理部１４３が、ＳＭＬ１４４にエントリされた第一オペランドレジスタ番号とロード命令が使用する第一オペランドレジスタ番号との一致を確認する。
+</base:Paragraphs>
+      <base:Paragraphs num="0226">
+  確認の結果、一致するエントリがある場合に、実割り当て管理部１４３は、そのロード命令の実行をキャンセルし、リザベーションステーション１４で資源が解放されるまでの間インターロックする。
+</base:Paragraphs>
+      <base:Paragraphs num="0227">
+  これにより、プログラム中に出現しやすいストアとロードのアドレスが一致するパターンについて、ストア命令が実際のＳＴＤＱ割り当て待ちによりリザベーションステーション１４で待っている間に後続のロード命令が先に発行されるのを抑止することができる。従って、ストア命令とロード命令との入れ替わりによる、命令発行のやり直しのリスクを低減させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0228">
+  また、ＳＭＬ１４４という比較的回路規模の小さいキュー構造を備えるだけでストア命令とロード命令との順序の入れ替わりを阻止することができ、少ない回路増加で実現することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0229">
+  （Ｄ）その他
+
+  本発明は上述した実施形態に限定されるものではなく、本発明の趣旨を逸脱しない範囲で種々変形して実施することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0230">
+  例えば、上述した実施形態においては、ＳＭＬ１４４に 第一オペランドレジスタとともにROB IDを登録しているが、これに限定されるものではない。すなわち、ROB IDに代えて他の識別情報を用いてもよく、適宜変更して実施することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0231">
+  また、上述した開示により本実施形態を当業者によって実施・製造することが可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0232">
+  （Ｅ）付記
+
+  以上の実施形態に関し、さらに以下の付記を開示する。
+</base:Paragraphs>
+      <base:Paragraphs num="0233">
+  （付記１）
+
+  ストア命令およびロード命令を含むメモリアクセス命令をデコードするデコード部と、
+
+  デコードされたメモリアクセス命令を格納する第１キューと、
+
+  ストア命令に関するストアデータを格納する第２キューと、
+
+  前記第１キューを確保できたが前記第２キューを確保できないストア命令に関するアドレス情報を記憶する記憶部と、
+
+  ロード命令の処理時に、当該ロード命令に関するアドレス情報と一致するアドレス情報が前記記憶部に記憶された場合に、当該ロード命令の実行を抑止する抑止部と
+
+を備えることを特徴とする、演算処理装置。
+</base:Paragraphs>
+      <base:Paragraphs num="0234">
+  （付記２）
+
+  ストア命令の処理時に、前記第１キューを確保できたが前記第２キューを確保できない場合に、当該ストア命令に関するアドレス情報を前記記憶部に登録する登録部
+
+を備えることを特徴とする、付記１記載の演算処理装置。
+</base:Paragraphs>
+      <base:Paragraphs num="0235">
+  （付記３）
+
+  前記デコード部がデコードしたメモリアクセス命令を格納し、格納した前記メモリアクセス命令を、前記メモリアクセス命令を処理する処理部に出力する格納処理部を備え、
+
+  前記抑止部が、前記第２キューの資源が解放されるまで、前記格納処理部に対してインターロックを行なう
+
+ことを特徴とする、付記１または２記載の演算処理装置。
+</base:Paragraphs>
+      <base:Paragraphs num="0236">
+  （付記４）
+
+  ストア命令およびロード命令を含むメモリアクセス命令をデコードするデコード部と、デコードされたメモリアクセス命令を格納する第１キューと、ストア命令に関するストアデータを格納する第２キューとを備える演算処理装置の制御方法であって、
+
+  ロード命令の処理時に、当該ロード命令に関するアドレス情報を、前記第１キューを確保できたが前記第２キューを確保できないストア命令に関するアドレス情報を記憶する記憶部の前記アドレス情報と比較する処理と、
+
+  当該ロード命令に関するアドレス情報と一致するアドレス情報が前記記憶部に記憶された場合に、当該ロード命令の実行を抑止する処理と
+
+を備えることを特徴とする、演算処理装置の制御方法。
+</base:Paragraphs>
+      <base:Paragraphs num="0237">
+  （付記５）
+
+  ストア命令の処理時に、前記第１キューを確保できたが前記第２キューを確保できない場合に、当該ストア命令に関するアドレス情報を前記記憶部に登録する処理
+
+を備えることを特徴とする、付記４記載の演算処理装置の制御方法。
+</base:Paragraphs>
+      <base:Paragraphs num="0238">
+  （付記６）
+
+  前記デコード部がデコードしたメモリアクセス命令を格納し、格納した前記メモリアクセス命令を、前記処理部に出力する格納処理部に対して、前記第２キューの資源が解放されるまで、前記格納処理部に対してインターロックを行なう
+
+ことを特徴とする、付記４または５記載の演算処理装置の制御方法。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0239">
+  １    ＣＰＵ
+
+  ２    メインメモリ
+
+  ３    記憶装置
+
+  １０，１０ａ    プロセッサコア
+
+  １１    命令キャッシュ
+
+  １２    命令バッファ
+
+  １３    デコード部
+
+  １４    リザベーションステーション
+
+    １４１    ＲＳＡ
+
+    １４２    ＲＳＥ
+
+    １４３    実割り当て管理部
+
+    １４４    ＳＭＬ
+
+  １５    演算実行部
+
+    １５１    レジスタ
+
+    １５２    アドレス演算器
+
+  １６    ロードストアユニット
+
+    １６１    ＬＤＳＴＱ
+
+    １６２    データキャッシュ
+
+    １６３    ＬＳＣＵ
+
+    １６４    ＳＴＤＱ
+
+  １７    ＲＯＢ
+
+  １００    情報処理装置
+
+  １０１～１０５，１０８～１１１    フリップフロップ
+
+  １１２    演算器
+
+  １１３    マッチ回路
+
+  ５００ａ    ロード／ストアパイプライン
+
+  ５００ｂ    演算パイプライン
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="91" wi="78" file="2020091709_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="81" file="2020091709_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="117" wi="81" file="2020091709_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="121" wi="81" file="2020091709_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="83" wi="76" file="2020091709_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="108" wi="76" file="2020091709_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="78" wi="84" file="2020091709_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="111" wi="85" file="2020091709_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="85" file="2020091709_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="114" wi="85" file="2020091709_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="122" wi="85" file="2020091709_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  ストア命令およびロード命令を含むメモリアクセス命令をデコードするデコード部と、
+
+  デコードされたメモリアクセス命令を格納する第１キューと、
+
+  ストア命令に関するストアデータを格納する第２キューと、
+
+  前記第１キューを確保できたが前記第２キューを確保できないストア命令に関するアドレス情報を記憶する記憶部と、
+
+  ロード命令の処理時に、当該ロード命令に関するアドレス情報と一致するアドレス情報が前記記憶部に記憶された場合に、当該ロード命令の実行を抑止する抑止部と
+
+を備えることを特徴とする、演算処理装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  ストア命令の処理時に、前記第１キューを確保できたが前記第２キューを確保できない場合に、当該ストア命令に関するアドレス情報を前記記憶部に登録する登録部を備えることを特徴とする、請求項１記載の演算処理装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記デコード部がデコードしたメモリアクセス命令を格納し、格納した前記メモリアクセス命令を、前記メモリアクセス命令を処理する処理部に出力する格納処理部を備え、
+
+  前記抑止部が、前記第２キューの資源が解放されるまで、前記格納処理部に対してインターロックを行なう
+
+ことを特徴とする、請求項１または２記載の演算処理装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  ストア命令およびロード命令を含むメモリアクセス命令をデコードするデコード部と、デコードされたメモリアクセス命令を格納する第１キューと、ストア命令に関するストアデータを格納する第２キューとを備える演算処理装置の制御方法であって、
+
+  ロード命令の処理時に、当該ロード命令に関するアドレス情報を、前記第１キューを確保できたが前記第２キューを確保できないストア命令に関するアドレス情報を記憶する記憶部の前記アドレス情報と比較する処理と、
+
+  当該ロード命令に関するアドレス情報と一致するアドレス情報が前記記憶部に記憶された場合に、当該ロード命令の実行を抑止する処理と
+
+を備えることを特徴とする、演算処理装置の制御方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

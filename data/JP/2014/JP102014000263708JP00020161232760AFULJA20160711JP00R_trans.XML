@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000263708JP00020161232760AFULJA20160711JP00R.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016123276" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123276</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123276</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000263708</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014263708</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20160101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>23</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>33</business:MainGroup>
+        <business:Subgroup>10</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A23L  33/10        20160101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>38</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  38/16        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61P   1/16        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20160101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>23</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>33</business:MainGroup>
+        <business:Subgroup>17</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A23L  33/17        20160101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A23L1/30 B</business:FI>
+      <business:FI type="secondary">A61K37/04</business:FI>
+      <business:FI type="secondary">A61P1/16</business:FI>
+      <business:FI type="secondary">A23L1/305</business:FI>
+      <business:FClass>
+        <business:FTerm>4B018MD20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B018MD57</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B018ME04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B018ME14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B018MF01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C084AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C084AA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C084BA44</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C084CA15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C084DA38</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C084NA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C084ZA752</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B018</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C084</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">具有降低非酒精性脂肪性肝病的发病风险的功能的食品</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>不二製油株式会社</base:Name>
+            <base:RegisteredNumber>315015162</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府泉佐野市住吉町1番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>和根崎  智</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>茨城県つくばみらい市絹の台4丁目3番地  不二製油株式会社  つくば研究開発センター内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>橘  伸彦</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府泉佐野市住吉町1番地  不二製油株式会社  阪南研究開発センター内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>9</business:ClaimsCount>
+      <base:TotalPageCount>10</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明提供一种具有降低非酒精性脂肪性肝病发展风险的功能的食品材料,其安全性高,易于口服摄取。 一种食品,其含有绿豆蛋白质,具有降低非酒精性脂肪性肝病的发病风险的功能。 绿豆蛋白质是8Sα球蛋白食品。 该食品降低非酒精性脂肪性肝病的发病风险的功能是肝脏的中性脂肪量的降低、肝细胞中的脂肪蓄积的减少或NAFLD（非酒精性脂肪性肝病）评分的改善。 图5</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="60" wi="69" file="2016123276_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及具有降低非酒精性脂肪肝的发病风险的功能的食品。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">近年来,生活习惯病的患者及其预备军增加,国民的健康、医疗费的增加成为社会问题。 特别是伴随肥胖的脂肪肝如果放任不管,则有可能发展为糖尿病、高脂血症、高血压、和以动脉硬化为原因的脑血管障碍、心脏病等并发症·重症化所导致的严重的疾病。</base:Paragraphs>
+      <base:Paragraphs num="0003">脂肪肝是在肝脏中积存中性脂肪的状态,是指在肝细胞中的30%以上确认到脂肪滴。 肝脏具有从饮食中的脂质和糖质合成中性脂肪的作用。 该中性脂肪与蛋白质结合后,从肝脏向血管释放,在脂肪组织中蓄积,或者作为能量源利用。 然而,释放由肝脏合成的中性脂肪的处理能力存在极限,如果超过该能力而合成中性脂肪、或从饮食中过量摄取脂质,则中性脂肪积存在肝细胞内,成为脂肪肝。</base:Paragraphs>
+      <base:Paragraphs num="0004">由于脂肪肝几乎没有自觉症状,进展前的发现容易延迟,以健康检查等轻度肝功能异常为契机,主要通过腹部超声和躯干CT扫描检查发现。 一直以来,认为由于脂肪的过剩蓄积而产生肝损伤,一部分发展为慢性肝炎、肝硬化、进而发展为肝癌,但其发病机制尚不清楚。</base:Paragraphs>
+      <base:Paragraphs num="0005">脂肪肝中有肝脏不伴有炎症的单纯性脂肪肝（Simple Steatosis）和伴有肝脏损伤的脂肪性肝病（Fatty Liver Disease）。 这些多见于肥胖、糖尿病,多见于以脂质代谢异常、高血压、以及糖尿病等为主的代谢综合征发病时的肝脏。 将除肝炎病毒感染、自身免疫疾病、先天性代谢异常疾病和药物性肝损伤以外、进而尽管没有持续的饮酒史但仍为脂肪性肝疾病的状态称为非酒精性脂肪性肝疾病（Non-Alcoholic Fatty Liver Disease,以下有时称为NAFLD）（非专利文献1）。 NAFLD患者的约10%在脂肪肝的过程中施加原因不明的应激,呈现与酒精性肝损伤类似的观察结果（非专利文献2）。 即,观察到肝脏小叶体的炎症、细胞坏死和肝纤维化,通过生物体组织诊断（活检）诊断为非酒精性脂肪性肝炎（Non-Alcoholic Steatosis,以下有时称为NASH）。 NASH患者在5～10年后有5～20%发展为肝硬化,有时也会罹患肝癌（非专利文献3）。</base:Paragraphs>
+      <base:Paragraphs num="0006">在肥胖的增加成为危机问题的欧美,推测人口的20-30%为脂肪肝,约3%患有NASH。 可以推测,在日本,由于饮食的欧美化,伴随着肥胖人口、生活习惯病患者的增加,脂肪肝炎患者也急剧增加。 目前,作为NAFLD的治疗的第一选择,进行饮食生活的改善、基于运动疗法的减量治疗,但其他有效的治疗法尚未确立。</base:Paragraphs>
+      <base:Paragraphs num="0007">作为改善NAFLD的药剂,报道了作为胰岛素抵抗性改善药的噻唑烷系化合物（吡格列酮、罗格列酮）（非专利文献4）。 但是,这些药剂是由PPARγ活化引起的对脂肪细胞的作用,作为副作用,报告了体重增加。 另外,由于报告了NASH的发病与氧化应激相关,因此有时也使用维生素E、N-乙酰半胱氨酸作为抗氧化药。 但是,这些药剂容易在生物体内排泄,不能说确认到充分的效果。 另外,作为肝庇护药,还报告了投用熊去氧胆酸。 但是,报道了间质性肺炎、过敏症状的副作用（非专利文献5）。 从副作用的危险性的观点出发,特别是对于轻度的NAFLD患者而言,这样通过长期给药药剂而进行的治疗法优选摄取安全性高的食品或食用经验丰富的天然物而非给药。</base:Paragraphs>
+      <base:Paragraphs num="0008">另一方面,作为预防/改善NAFLD、NASH的天然物/食品,报道了木犀草素（专利文献1）、肌醇类（专利文献2）、来自绿茶的儿茶素类（专利文献3、4）等。 但是,均通过缺乏胆碱的饮食的动物试验进行评价,虽然产生急剧的肝脏损伤,但与NAFLD那样的缓和的脂肪性肝病的相似性存在极限（非专利文献6）。 因此,不能说充分证明了对人中可见的NAFLD的改善是有效的。</base:Paragraphs>
+      <base:Paragraphs num="0009">另外,作为预防/改善脂肪肝的天然物/食品,报道了蓝莓叶提取物（非专利文献）、甘草提取物（非专利文献7）、儿茶素类（专利文献3、4）、姜黄素（专利文献5）、番茄提取物（非专利文献8）等。 但是,单纯性脂肪肝与NAFLD没有被识别,作为NAFLD的评价,没有进行充分的研究。 进而,即使期待效果,也有由于独特的风味、刺激性而在使用上伴有限制的情况。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0010">           <business:ApplicationCitation num="0001">
+            <base:Text>特公表2006－135084号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開2006－342128号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0003">
+            <base:Text>特開2007－182405号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0004">
+            <base:Text>特開2012－31101号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0005">
+            <base:Text>特開2007－320864号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+      <business:NPL>
+        <base:Paragraphs num="0011">           <business:NPLCitation num="0001">
+            <base:Text>日本肝臓学会、「NASH・NAFLDの診断ガイド」、分光堂、2006年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0002">
+            <base:Text>西原利治、「NASH診断ガイドブック」、中外医学社、2007年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0003">
+            <base:Text>橋本悦子、別冊・医学の歩み、NASH、17－21、2004年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0004">
+            <base:Text>「Hepatology」、第39巻、p188－196、2004年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0005">
+            <base:Text>厚生省医薬安全局、医薬品・医療用具安全情報162、2000年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0006">
+            <base:Text>「Biochemical and biophysical research communications」、第27巻、第315号、p187－195、2004年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0007">
+            <base:Text>「Hepatology」、第47巻、p1905－1915、2008年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0008">
+            <base:Text>「PLoS ONE」、第7巻、2号、e31371、2012年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0009">
+            <base:Text>重訂本草綱目啓蒙（覆刻日本古典全集）（現代思潮新社）、緑豆の項参照</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0010">
+            <base:Text>「Journal of agricultural and food chemistry」、第56巻、p8869－8873、2008年</base:Text>
+          </business:NPLCitation>            <business:NPLCitation num="0011">
+            <base:Text>「Hepatology」  Kleiner DE, et al. 41:1313-21、2005年</base:Text>
+          </business:NPLCitation> </base:Paragraphs>
+      </business:NPL>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0012">本发明的目的在于提供安全性高、而且容易经口摄取、具有降低非酒精性脂肪性肝病的发病风险的功能的食品原材料。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0013">本发明人为了解决上述课题而反复进行了诚意研究,结果发现,从绿豆中提取的绿豆蛋白质具有降低非酒精性脂肪性肝病(NAFLD)的发病风险的功能,安全性高,容易经口摄取,从而完成了本发明。</base:Paragraphs>
+        <base:Paragraphs num="0014">即, 本发明涉及： （1）含有绿豆蛋白质； 一种食品,其具有降低非酒精性脂肪性肝病的发病风险的功能, （2）根据（1）所述的食品,其中,绿豆蛋白质为8Sα球蛋白,（3）根据（1）或（2）所述的食品,其中,降低非酒精性脂肪性肝病的发病风险的功能为肝脏的中性脂肪量的降低、肝细胞中的脂肪蓄积的降低或NAFLD（非酒精性脂肪性肝病）评分的改善,（4）含有绿豆蛋白质的用于降低非酒精性脂肪性肝病的发病风险的食品添加用组合物,（5）根据（4）所述的食品添加用组合物,其中,绿豆蛋白质为8Sα球蛋白,（6）非酒精性脂肪性肝病的发病风险的降低是通过肝脏的中性脂肪量的降低、肝细胞中的脂肪蓄积的降低或NAFLD（非酒精性脂肪性肝病）评分的改善而实现的,（4） （7）根据（7）或（8）所述的绿豆蛋白质的使用方法,其用于通过添加到食品中而对该食品赋予降低非酒精性脂肪性肝病的发病风险的功能,（8）根据（7）所述的绿豆蛋白质的使用方法,其中,绿豆蛋白质为8Sα球蛋白,（9）根据（7）或（8）所述的绿豆蛋白质的使用方法,其中,降低非酒精性脂肪性肝病的发病风险的功能为肝脏的中性脂肪量的降低、肝细胞中的脂肪蓄积的降低或NAFLD（非酒精性脂肪性肝病）评分的改善。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0015">本发明的具有降低非酒精性脂肪性肝病的发病风险的功能的食品以从食用经验丰富且安全性高的天然物中提取的绿豆蛋白质作为有效成分,通过摄取该有效成分,能够降低NAFLD的发病风险。 此外,由于风味良好,因此容易经口摄取。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0016">
+        <base:FigureReference num="0001">图0001是表示将未诱发NAFLD的正常小鼠的肝脏、经苏木精伊红染色的组织切片放大的光学显微镜照片的观察结果的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示将遗传性肥胖ob/ob小鼠的肝脏、经苏木精伊红染色的组织切片放大的光学显微镜照片的观察结果的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示将使遗传性肥胖ob/ob小鼠摄取绿豆蛋白质90天后的肝脏、经苏木精伊红染色的组织切片放大的光学显微镜照片的观察结果的图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示对遗传性肥胖ob/ob小鼠摄取对照样品和绿豆蛋白质90天后的肝脏中的中性脂肪进行比较的结果的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是表示使遗传性肥胖ob/ob小鼠摄取对照样品和绿豆蛋白质90天后的肝脏组织切片的NAFLD评分的比较结果的图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0017">（绿豆蛋白质） 
+绿豆（学名：Vigna radiate）是从东亚到南亚、非洲、南美洲、澳大利亚栽培的豆科植物,以豆的形式或者作为春雨的原料被利用。 在日本,也作为豆芽的原料被使用,是食用经验较长的植物之一。 绿豆含有约25%的蛋白质,因此作为蛋白质源是有益的植物。 绿豆作为中药之一,被认为具有解热、解毒、消炎作用（非专利文献9）。 另外,关于绿豆的皮、芽的提取物,报道了血糖值的改善作用（非专利文献10）。 但是,这些对于肝疾病、NAFLD没有进行研究,进而对于多元酚为有效成分、源自绿豆的蛋白质没有任何提及,因此无法与NAFLD的预防、治疗效果相关联。 </base:Paragraphs>
+      <base:Paragraphs num="0018">本发明的具有降低非酒精性脂肪性肝病的发病风险的功能的食品含有从绿豆提取的绿豆蛋白质。 在绿豆蛋白质中,优选主要在种子组织的液胞中蓄积的储存蛋白质。 其中,作为这些绿豆贮藏蛋白质的主成分的8Sα球蛋白强烈地显示出本效果,作为对象是最优选的。 蛋白质的提取方法、原材料中的含量没有特别限定。 若考虑与各种物质配合使用,则优选作为原材料的摄取量少,因此优选从绿豆以高纯度提取蛋白质,更优选在得到的蛋白质中以高纯度存在8Sα球蛋白。</base:Paragraphs>
+      <base:Paragraphs num="0019">在提取绿豆蛋白质、特别是高纯度地含有8Sα球蛋白的蛋白质时,可以直接使用水洗等洗涤后的绿豆,但通过预先进行脱皮,可得到色调、风味均良好的蛋白质原材料,因此更优选使用脱皮绿豆。</base:Paragraphs>
+      <base:Paragraphs num="0020">作为提取绿豆蛋白质、特别是高纯度地含有8Sα球蛋白的蛋白质的条件,可以例示如下方法：对作为原料的绿豆投入3～10倍量的水,在20～60℃、pH6～9的条件下进行2～18小时、静置或搅拌处理,一边将原料磨碎一边除去皮、纤维成分,进一步除去沉淀的淀粉,由此得到蛋白质溶液。</base:Paragraphs>
+      <base:Paragraphs num="0021">可以将该溶液直接进行杀菌、干燥,但优选将该溶液的pH调整为4～5,使蛋白质等电点沉淀,回收该沉淀物,根据需要调节pH,进行杀菌,由此能够进一步提取含有高纯度的8Sα球蛋白的绿豆蛋白质。</base:Paragraphs>
+      <base:Paragraphs num="0022">含有本发明的绿豆蛋白质且具有降低非酒精性脂肪性肝病的发病风险的功能的食品只要含有有效量的上述8Sα球蛋白即可,其含量可以考虑后述的摄取量并根据预防、治疗而适当设定。</base:Paragraphs>
+      <base:Paragraphs num="0023">（含有绿豆蛋白质且具有降低非酒精性脂肪性肝病的发病风险的功能的食品） 
+含有本发明的绿豆蛋白质且具有降低非酒精性脂肪性肝病的发病风险的功能的食品可以直接使用,但也可以与食品中使用的各种成分混合而制备成例如固体食品、奶油状或果酱状的半流质食品、凝胶状食品、饮料等形态。 该食品可以根据食品的种类添加通常使用的食品原料,按照常规方法制造。 </base:Paragraphs>
+      <base:Paragraphs num="0024">作为上述食品的具体例,例如可列举出清凉饮料、果汁、糖果、巧克力、软糖、片剂、冰淇淋、面包、日式点心、布丁等。 上述绿豆蛋白质在食品中的配合量根据食品的种类而不同,通常优选为0.1～100重量%,特别优选为5～80重量%。</base:Paragraphs>
+      <base:Paragraphs num="0025">（含有绿豆蛋白质的用于降低非酒精性脂肪性肝病的发病风险的食品添加用组合物） 
+本发明的食品添加用组合物是为了在食品的制造时作为原料赋予特定的功能而添加的,也可以称为食品原材料或食品原料等。 另外,本发明的食品添加用组合物并不限定于法律上规定的物质。 本领域技术人员出于赋予降低肝脏的中性脂肪量的功能、降低肝细胞中的脂肪蓄积的功能或改善NAFLD（非酒精性脂肪性肝病）评分的功能的目的,在各种烹调食品、加工食品的制造时添加本发明的食品添加用组合物,由此能够赋予降低肝脏的中性脂肪量的功能、降低肝细胞中的脂肪蓄积的功能或改善NAFLD（非酒精性脂肪性肝病）评分的功能。 食品添加物的形态可以制备成粉末、颗粒、糖浆、液状等来使用。 添加该食品添加用组合物的食品没有特别限制,可举出各种烹调食品、加工食品。 另外,添加量只要与上述食品的配合量为相同程度即可。 添加时期没有特别限定,可以是烹调之前、中途、之后的任一阶段。 </base:Paragraphs>
+      <base:Paragraphs num="0026">在作为医药制剂使用的情况下,在上述组合物中加入制药上可接受的载体,配制成固体、半固体或液体的形态。 作为具体的形态,例如可以举出散剂、颗粒剂、胶囊剂、丸剂、片剂等固体制剂、悬浮剂、乳剂等液剂等。 在这些医药制剂中的配合量通常优选为0.1～100重量%,特别优选为5～80重量%。 另外,给药量优选将每天1～10g分成2～数次适当给药。</base:Paragraphs>
+      <base:Paragraphs num="0027">在作为动物饲料使用的情况下,将上述组合物与用于动物饲料的各种成分混合而制备。 作为动物饲料的具体例,例如可列举家畜用饲料、船坞食品、猫食品等宠物食品。 绿豆蛋白质在动物饲料中的配合量根据动物种类而不同,通常优选为0.1～100重量%,特别优选为5～80重量%。</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0028">以下,举出实施例对本发明进行具体说明,但本发明并不仅限定于以下的实施例。</base:Paragraphs>
+        <base:Paragraphs num="0029">&lt;制造例1&gt; 
+将预先脱皮的绿豆用粉碎机粉碎成粉状。 向粉碎蜕皮绿豆粉中加入10倍量的50℃的温水,一边随时将pH调整为7.0一边搅拌1小时。 进行离心分离（3,000 r.p.m.,在室温下10分钟）,将得到的上清液调整为pH5.0,再次进行离心分离（3,000 r.p.m.,在室温下10分钟）,将得到的沉淀物回收、加水后,中和至pH7.0进行杀菌,将喷雾干燥后的物质作为绿豆蛋白质。 将这样得到的绿豆蛋白质供于SDS-PAGE凝胶电泳,然后对蛋白质进行考马斯亮染色,相对于全部染色区域的合计,作为来自8Sα球蛋白的蛋白质,由以分子量48kDa为主、72、60、26kDa的蛋白质的条带的染色度测定纯度。 如此得到的绿豆蛋白质中的8Sα球蛋白纯度为85%,得到了良好的原材料。 </base:Paragraphs>
+        <base:Paragraphs num="0030">&lt;试验例&gt; 
+对遗传性肥胖诱导性II型糖尿病模型小鼠的NAFLD改善作用进行了研究。 作为饲料组成,基于AIN-93G组成,作为其试验饲料,使用含有20重量%的上述制造例1中得到的绿豆蛋白质作为饮食蛋白质的饲料,作为比较对照,使用含有20重量%的作为乳蛋白质的酪蛋白（无维生素酪蛋白,Oriental Yeast Co.,Ltd.制）作为饮食蛋白质的饲料。 将具体的配合示于表1。 </base:Paragraphs>
+        <base:Paragraphs num="0031">（表1）各试验组的饲料组成<base:Image id="imag000003" he="75" wi="130" file="2016123276_000003.TIF" imgContent="drawing" imgFormat="TIFF"/></base:Paragraphs>
+        <base:Paragraphs num="0032">关于实验动物,从日本Charles River（株）购入5周龄雄性的Ob/Ob小鼠（B6.Cg-Lepob/J）,在1周的预饲养后,以各试验食组的体重一致的方式以1组7只分成2组,以试验饲料饲养90天。 饲养是在个别笼中各放入1只,在温度23±1℃、湿度55±5%下在12小时明暗循环（从7:00至19:00照明）下进行。 饲养期间中自由摄取水和饲料。</base:Paragraphs>
+        <base:Paragraphs num="0033">试验期间结束后,从前一天17:00开始禁食16小时,在戊巴比妥麻醉下开腹后处死,取出肝脏。 进行了1）肝脏中的中性脂质量、1）肝组织学的观察、2）肝脏中的中性脂质量、3）NAFLD评分的判定。</base:Paragraphs>
+        <base:Paragraphs num="0034">将取出的肝脏用福尔马林浸渍后,制作石蜡切片,进行苏木精伊红染色,进行肝脏的组织学观察。</base:Paragraphs>
+        <base:Paragraphs num="0035">代表性的正常小鼠的肝脏组织图像如图1所示。 将代表性的肥胖诱导型小鼠的对照组的肝脏组织图像示于图2。 代表性的肥胖诱导型小鼠的试验组的肝脏组织图像如图3所示。 在图1的正常小鼠中未确认到肝脏中的脂肪蓄积,与此相对,在图2的肥胖诱导性小鼠的对照组中确认到明显的肝脏中的脂肪蓄积。 另一方面,在图3的试验组中,脂肪蓄积轻微。 即,确认到绿豆蛋白质的摄取具有改善肝细胞中的过量脂肪蓄积的作用。</base:Paragraphs>
+        <base:Paragraphs num="0036">用Folch法提取肝脏总脂质。将肝脏片0.25 g与7.5 mL的甲醇和15mL的氯仿一起均质化后,在37℃下加热30分钟,提取脂质。然后,用氯仿：甲醇混合液（2：1,v/v）充入25mL中,过滤。在滤液中加入蒸馏水约20%容量,在4℃下自然沉降半天。沉降后除去上清液后,下层的氯仿、甲醇层在氩气使用下使用蒸发器进行浓缩,再溶解于25mL的石油醚中供于分析。</base:Paragraphs>
+        <base:Paragraphs num="0037">肝脏中性脂肪量通过Fletcher等人的方法进行测定。 即,将脂质提取液干燥固化,加入氯仿5mL和硅胶1.0 g,用振荡器振荡5分钟后,在10℃、1750×g下离心分离10分钟。 取上清1mL,干燥后,加入异丙醇：蒸馏水混合液（9：1,v/v）2mL和5%KOH溶液（在异丙醇：蒸馏水=2：3,v/v）0.6 mL,在60-70℃下进行30分钟皂化。 恢复到室温,加入3mM偏高碘酸钠1mL和乙酰丙酮溶液0.5 mL进行搅拌,在50℃下加热30分钟使其显色,在波长405nm下测定吸光度。</base:Paragraphs>
+        <base:Paragraphs num="0038">肝脏中的中性脂肪量的比较示于图4。 与对照组相比,在试验组中确认到了显著的肝脏中性脂肪量的降低。 即证明了绿豆蛋白质的摄取对肝脏的脂肪肝的改善是有效的。</base:Paragraphs>
+        <base:Paragraphs num="0039">3）将基于Kleiner等人的报告的肝组织中的脂肪浸润、肝细胞的气球样变性、小叶的细胞湿润的程度评分化（非专利文献11）。即,对于各个体的肝脏HE染色标本的全视野,以物镜20倍的视野利用表2的指标实施判定,将3个项目的合计值作为NAFLD评分。进而算出每组间的平均值,比较NAFLD评分的改善效果。</base:Paragraphs>
+        <base:Paragraphs num="0040">（表2）NAFLD的判定法<base:Image id="imag000004" he="54" wi="167" file="2016123276_000004.TIF" imgContent="drawing" imgFormat="TIFF"/></base:Paragraphs>
+        <base:Paragraphs num="0041">将NAFLD评分的比较结果示于图5。 在对照组中明显确认到NAFLD的发病,与此相对,在试验组中确认到显著的NAFLD评分的降低。 即证明了绿豆蛋白质的摄取对肝脏中的NAFLD的改善是有效的。</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000005" he="45" wi="43" file="2016123276_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000006" he="40" wi="46" file="2016123276_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000007" he="63" wi="84" file="2016123276_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000008" he="63" wi="84" file="2016123276_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000009" he="63" wi="84" file="2016123276_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种食品,其含有绿豆蛋白质,具有降低非酒精性脂肪性肝病的发病风险的功能。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的食品,其中,绿豆蛋白质为8Sα球蛋白。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的食品,其中,降低非酒精性脂肪性肝病的发病风险的功能为肝脏的中性脂肪量的降低、肝细胞中的脂肪蓄积的降低或NAFLD（非酒精性脂肪性肝病）评分的改善。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>一种用于降低非酒精性脂肪性肝病的发病风险的食品添加用组合物,其含有绿豆蛋白质。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>如权利要求4所述的食品添加用组合物,其中,绿豆蛋白质为8Sα球蛋白。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求4或5所述的食品添加用组合物,其中,非酒精性脂肪性肝病的发病风险的降低是通过肝脏的中性脂肪量的降低、肝细胞中的脂肪蓄积的降低或NAFLD（非酒精性脂肪性肝病）评分的改善而实现的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>一种绿豆蛋白质的使用方法,其用于通过添加到食品中而对该食品赋予降低非酒精性脂肪性肝病的发病风险的功能。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求7所述的绿豆蛋白质的使用方法,其中,绿豆蛋白质为8Sα球蛋白。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>如权利要求7或8所述的绿豆蛋白质的使用方法,其中,降低非酒精性脂肪性肝病的发病风险的功能为肝脏的中性脂肪量的降低、肝细胞中的脂肪蓄积的降低或NAFLD（非酒精性脂肪性肝病）评分的改善。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

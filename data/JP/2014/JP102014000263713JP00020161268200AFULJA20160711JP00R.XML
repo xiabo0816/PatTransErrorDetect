@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000263713JP00020161268200AFULJA20160711JP00R.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126820" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126820</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126820</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000263713</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014263713</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>R</business:Subclass>
+        <business:MainGroup>9</business:MainGroup>
+        <business:Subgroup>05</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01R   9/05        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20110101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>R</business:Subclass>
+        <business:MainGroup>12</business:MainGroup>
+        <business:Subgroup>75</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01R  12/75        20110101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01R9/05 B</business:FI>
+      <business:FI type="secondary">H01R12/75</business:FI>
+      <business:FClass>
+        <business:FTerm>5E077BB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E077BB13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E077DD14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E077GG24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E077JJ20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123AB43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123AB60</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123AB65</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123BA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123BA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123BA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123BA25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123BB21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123CB22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123CB25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123CC09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123CD01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123DA23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123DA33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123DB11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123DB32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123DB36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EA36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EB12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EB32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EC18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EC32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EC45</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E123EC75</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E077</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E123</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">電線対基板コネクタ</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>モレックス  エルエルシー</base:Name>
+            <base:RegisteredNumber>591043064</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  イリノイ州  ライル  ウェリントン  コート  ２２２２</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>川端  将斗</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県大和市深見東１丁目５番４号  日本モレックス合同会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>新津  俊博</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県大和市深見東１丁目５番４号  日本モレックス合同会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>日本モレックス合同会社</base:Name>
+            <base:RegisteredNumber>390015244</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>12</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】ターミナルを可及的に短くしつつ、必要な接触力を確保し、高速伝送を可能にする電線対基板コネクタを提供する。【解決手段】基板側コネクタは、基板に電気的に接続され、電線側コネクタとの嵌合時に電線の導体３ａと横方向に並列するターミナル５１と、一側方からターミナル５１に当接する第１当接部１３と他側方から導体３ａに当接する第２当接部１４とを有するハウジング１１と、ハウジング１１の上方を覆う押し込み操作部８２から第１当接部１３の外側面に沿って延在する第１延在部８３と第２当接部１４の外側面に沿って延在する第２延在部８４とを有するアクチュエータ８１とを備え、アクチュエータ８１の押し込み操作に応じて、第２延在部８４が第２当接部１４を介して導体３ａをターミナル５１に圧接させる。【選択図】図８</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="86" wi="69" file="2016126820_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、ミリ波などの高速伝送にも対応可能な電線対基板コネクタに関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  従来、同軸ケーブルなどの電線を基板に接続するにあたり、基板に対する電線の着脱が不要な場合は、電線の導体を基板の配線パターンに直接半田付けなどで接続し（例えば、特許文献１参照）、また、基板に対する電線の着脱が必要な場合は、電線対基板コネクタを介して電線を基板に接続していた。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">
+          <business:ApplicationCitation num="0001">
+            <base:Text>実開昭６４－３３１６４号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">
+  しかしながら、従来の電線対基板コネクタでは、接点部材であるターミナル自体をバネとして形成し、そのバネ力でターミナルの接触力を得ているので、どうしてもターミナルが長くなり、ミリ波などの高速伝送には適用できないという問題があった。すなわち、長いターミナルが介在すると、特性インピーダンスの不整合長さが長くなり、反射などの影響で高速伝送が困難になるという問題があった。
+</base:Paragraphs>
+        <base:Paragraphs num="0005">
+  そこで、本発明は、上記の問題点に鑑みなされたものであって、その目的は、ターミナルを可及的に短くしつつ、必要な接触力を確保し、高速伝送を可能にする電線対基板コネクタを提供することにある。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">
+  本発明は上記目的を達成するために提案されたものであり、請求項１に係る発明は、電線対基板コネクタであって、基板に実装される基板側コネクタと、電線の先端部に設けられ、前記基板側コネクタに嵌合される電線側コネクタとを備え、前記基板側コネクタは、前記基板に電気的に接続され、前記電線側コネクタとの嵌合時に前記電線の導体と横方向に並列するターミナルと、一側方から前記ターミナルに当接する第１当接部と他側方から前記導体に当接する第２当接部とを有する当接部材と、前記当接部材の上方を覆う押し込み操作部から前記第１当接部の外側面に沿って延在する第１延在部と前記第２当接部の外側面に沿って延在する第２延在部とを有するアクチュエータとを備え、前記アクチュエータの押し込み操作に応じて、前記第２延在部が前記第２当接部を介して前記導体を前記ターミナルに圧接させることを特徴とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  また、請求項２に係る発明は、前記第２延在部が、内側部に第２凸部を有し、前記第２当接部が、外側部に傾斜部を有し、前記アクチュエータの押し込み操作に応じて、前記第２凸部が前記傾斜部を押圧することにより、前記第２当接部が前記導体側に変位し、前記導体を前記ターミナルに圧接させることを特徴とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  また、請求項３に係る発明は、前記第１延在部が、内側部に第１凸部を有し、前記第１当接部が、外側部に係合部を有し、前記アクチュエータの押し込み操作に応じて、前記第１凸部が、前記係合部に係合することにより、前記アクチュエータが押し込み位置に保持されることを特徴とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  また、請求項４に係る発明は、前記電線側コネクタが、前記電線の先端部に設けられる電線側シェルを備え、前記アクチュエータの押し込み操作に応じて、前記第１延在部及び前記第２延在部が前記電線側シェルの溝部に係合することにより、前記電線側コネクタが抜け止めされることを特徴とする。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0010">
+  本発明によれば、ターミナル以外の部材で接触力を得ることにより、ターミナルを可及的に短くし、高速伝送が可能な電線対基板コネクタを提供することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0011">
+        <base:FigureReference num="0001">本発明の実施形態に係る電線対基板コネクタの接続状態を示す斜視図である。</base:FigureReference>
+        <base:FigureReference num="0002">本発明の実施形態に係る電線対基板コネクタの接続状態を示す図であり、（ａ）は電線対基板コネクタの平面図、（ｂ）は電線対基板コネクタの背面図、（ｃ）は電線対基板コネクタの側面図である。</base:FigureReference>
+        <base:FigureReference num="0003">本発明の実施形態に係る電線対基板コネクタの電線側コネクタを示す斜視図である。</base:FigureReference>
+        <base:FigureReference num="0004">本発明の実施形態に係る電線対基板コネクタの電線側コネクタを示す分解斜視図である。</base:FigureReference>
+        <base:FigureReference num="0005">本発明の実施形態に係る電線対基板コネクタの基板側コネクタを示す斜視図である。</base:FigureReference>
+        <base:FigureReference num="0006">本発明の実施形態に係る電線対基板コネクタの基板側コネクタを示す分解斜視図である。</base:FigureReference>
+        <base:FigureReference num="0007">本発明の実施形態に係る電線対基板コネクタの接続手順を示す図であり、（ａ）は接続前の状態を示す電線対基板コネクタの斜視図、（ｂ）は電線側コネクタを基板側コネクタに嵌合させた状態を示す電線対基板コネクタの斜視図、（ｃ）はアクチュエータを押し込み操作して電線側コネクタと基板側コネクタとを接続させた状態を示す電線対基板コネクタの斜視図である。</base:FigureReference>
+        <base:FigureReference num="0008">本発明の実施形態に係る電線対基板コネクタのＡ－Ａ断面図であり、（ａ）はアクチュエータを押し込み操作する前の状態を示す電線対基板コネクタのＡ－Ａ断面図、（ｂ）はアクチュエータを押し込み操作した後の状態を示す電線対基板コネクタのＡ－Ａ断面図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0012">
+  以下、本発明に係る好適な実施形態について、図面を参照しながら詳細に説明する。なお、実施形態の説明の全体を通じて同じ要素には同じ符号を付して説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  図１は、本発明の実施形態に係る電線対基板コネクタの接続状態を示す斜視図、図２は、本発明の実施形態に係る電線対基板コネクタの接続状態を示す図であり、（ａ）は電線対基板コネクタの平面図、（ｂ）は電線対基板コネクタの背面図、（ｃ）は電線対基板コネクタの側面図である。
+  図１及び図２に示すように、本発明の実施形態に係る電線対基板コネクタは、基板２に実装される基板側コネクタ１と、電線３の先端部に設けられ、基板側コネクタ１に嵌合される電線側コネクタ１０１とを備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  なお、基板側コネクタ１においては、電線側コネクタ１０１が嵌合される面（電線３が挿入される面）を正面、その反対側を背面、正面から見て左側の側面を左側面、その反対側の面を右側面、基板に固定される面を底面、その反対側の面を上面として説明する。また、電線側コネクタ１０１においては、基板側コネクタ１に嵌合される面（電線３の先端突出面）を正面、その反対側を背面、正面から見て左側の側面を左側面、その反対側の面を右側面、基板に固定される面を底面、その反対側の面を上面として説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  図３は、本発明の実施形態に係る電線対基板コネクタの電線側コネクタを示す斜視図、図４は、本発明の実施形態に係る電線対基板コネクタの電線側コネクタを示す分解斜視図である。
+  図４及び図５に示すように、電線３は、例えば同軸ケーブルであり、中心部に配置される内側導体３ａと、内側導体３ａの外周側を被覆する内側絶縁部３ｂと、内側絶縁部３ｂの外周側に配置される外側導体３ｃと、外側導体３ｃの外周側を被覆する外側絶縁部３ｄとを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  電線側コネクタ１０１が設けられる電線３は、内側絶縁部３ｂの先端面から内側導体３ａが所定の長さ突出するとともに、先端部において外側絶縁部３ｄが所定の長さにわたって剥がされ、外側導体３ｃが露出状態となるように予め加工される。なお、本発明は、内側導体３ａと基板側コネクタ１との接続に関するものであるため、外側導体３ｃの接続については説明を省略する。以下、内側導体３ａを単に導体３ａと称する。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  電線側コネクタ１０１は、金属板を打ち抜き及び曲げ加工して形成された電線側シェル１５１を備える。電線側シェル１５１は、電線３の先端部外周側に固定される筒状の電線固定部１５２と、該電線固定部１５２から前方に延在する延在部１５３とを一体に有し、該延在部１５３には、電線保持部１５４、突き当て部１５５及びガイド部１５６が形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  電線保持部１５４は、半円筒状の溝部で電線３の先端部を嵌合保持する。突き当て部１５５は、電線側コネクタ１０１を基板側コネクタ１に嵌合させる際、基板側コネクタ１の正面部に当接し、基板側コネクタ１に対する電線側コネクタ１０１の前後位置を規定する。また、突き当て部１５５の左右中央部には、基板側コネクタ１に対する電線側コネクタ１０１の左右位置を規定するための凹部１５５ａが形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  ガイド部１５６は、電線側シェル１５１の左右両端部から前方に延在しており、電線側コネクタ１０１を基板側コネクタ１に嵌合させる際、基板側コネクタ１の左右両側部に接触して電線側コネクタ１０１の嵌合操作をガイドする。本実施形態のガイド部１５６は、基板側コネクタ１に対する電線側コネクタ１０１の左右位置を規定する側壁部１５６ａと、該側壁部１５６ａの下端から内側方に延在し、基板側コネクタ１に対する電線側コネクタ１０１の上下位置を規定する下壁部１５６ｂとを有する。また、下壁部１５６ｂの基部には、基板側コネクタ１に接続された電線側コネクタ１０１を抜け止めするための溝部１５６ｃが形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  図５は、本発明の実施形態に係る電線対基板コネクタの基板側コネクタを示す斜視図、図６は、本発明の実施形態に係る電線対基板コネクタの基板側コネクタを示す分解斜視図である。
+  図５及び図６に示すように、基板側コネクタ１は、ターミナル５１、ターミナル保持部材６１、ハウジング１１（当接部材）、基板側シェル７１及びアクチュエータ８１を備えて構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  ターミナル５１は、基板２のパターンに半田付けなどで電気的に接続されるとともに、電線側コネクタ１０１との接続時に電線３の導体３ａと左右方向（横方向）に並列するようにハウジング１１内に配置される（図８参照）。本実施形態のターミナル５１は、導体３ａと接触する接触部５２と、基板２のパターンに接続される基板接続部５３とを有する金属板であり、バネとして機能させないため、その長さは非常に短くなっている。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  本実施形態では、インサート成形（オーバーモールド）によりターミナル５１を予めハウジング１１に一体化させる。その際、ターミナル５１単体では、ハウジング１１に対する位置を規定することが困難であるため、ターミナル５１は、予めターミナル保持部材６１に固定された状態でハウジング１１の金型内にセットされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  ハウジング１１は、樹脂製であり、ハウジング本体１２と、該ハウジング本体１２の前部左側に形成される第１当接部１３と、ハウジング本体１２の前部右側に形成される第２当接部１４とを一体に有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  ハウジング本体１２は、基板側シェル７１に内嵌状に固定される部分であり、その左右両側面には、基板側シェル７１に係合してハウジング１１を抜け止めする係合爪１２ａが形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  第１当接部１３は、左側方からターミナル５１に当接する部分である。本実施形態では、ハウジング１１にターミナル５１をインサート成形しているので、左側方からターミナル５１に当接する当接面１３ａにターミナル５１が一体的に固定されている。また、第１当接部１３の外側面には、アクチュエータ８１を非押し込み位置で抜け止めするための抜け止め部１３ｂと、その下方に形成され、アクチュエータ８１を押し込み位置に保持するための係合部１３ｃとが形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  第２当接部１４は、その内側に形成される肉抜き部１５の存在により、第１当接部１３よりも肉薄となっている。これにより、第２当接部１４は、弾性変形による内側方への変位が許容され、この変位に応じて右側方から当接面１４ａが導体３ａに当接する。また、第２当接部１４の外側面には、アクチュエータ８１を非押し込み位置で抜け止めするための抜け止め部１４ｂと、その下方に形成され、アクチュエータ８１の押し込み操作に応じて第２当接部１４を内側方に変位させるための傾斜部１４ｃとが形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  基板側シェル７１は、金属板を打ち抜き及び曲げ加工して形成されており、シェル本体７２と、シェル本体７２の前端部から下方に延在する前板部７３と、シェル本体７２の左右両側面に前後方向を向いて並列する左右一対のガイド部７４とを一体に備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  シェル本体７２は、ハウジング１１のハウジング本体１２を内嵌状に固定する部分であり、その左右両側面部には、ハウジング本体１２の係合爪１２ａに係合してハウジング１１を抜け止めする係合孔７２ａが形成されている。また、シェル本体７２の下端部には、基板２に対して半田付けなどで固定される基板固定部７２ｂが複数形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  前板部７３は、電線側コネクタ１０１を基板側コネクタ１に嵌合させる際、電線側コネクタ１０１の正面部に当接し、基板側コネクタ１に対する電線側コネクタ１０１の前後位置を規定する。また、前板部７３の中央部には、電線３の先端部が挿入される挿入孔７３ａが形成され、前板部７３の上端部には、電線側コネクタ１０１の凹部１５５ａに嵌合して基板側コネクタ１に対する電線側コネクタ１０１の左右位置を規定する幅狭部７３ｂが形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  ガイド部７４は、電線側コネクタ１０１を基板側コネクタ１に嵌合させる際、電線側コネクタ１０１のガイド部１５６に接触して電線側コネクタ１０１の嵌合操作をガイドする。具体的には、ガイド部１５６の側壁部１５６ａとの接触により、基板側コネクタ１に対する電線側コネクタ１０１の左右位置を規定し、ガイド部１５６の下壁部１５６ｂとの接触により、基板側コネクタ１に対する電線側コネクタ１０１の上下位置を規定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  アクチュエータ８１は、金属板を打ち抜き及び曲げ加工して形成されており、基板側シェル７１の上方を覆う押し込み操作部８２と、押し込み操作部８２の前端部右側から下方に延在する第１延在部８３と、押し込み操作部８２の前端部左側から下方に延在する第２延在部８４と、押し込み操作部８２の後端部から下方に延在する左右一対の後延在部８５とを一体に備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  押し込み操作部８２は、基板側コネクタ１に電線側コネクタ１０１を接続する際に下方に押し込み操作される部分である。また、左右一対の後延在部８５は、基板側シェル７１の後面に沿って下方に延在しており、アクチュエータ８１を押し込み操作する際、基板側シェル７１の後面に接触してアクチュエータ８１の押し込み操作をガイドする。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  第１延在部８３は、ハウジング１１の第１当接部１３の外側面に沿って下方に延在するとともに、基板側シェル７１の前板部７３の後面と、ガイド部７４の前端面との間で上下移動自在にガイドされる。第１延在部８３の先端側内側部には、内側方に突出する第１凸部８３ａが形成されている。第１凸部８３ａは、アクチュエータ８１が非押し込み位置にあるとき、ハウジング１１の抜け止め部１３ｂに係合してアクチュエータ８１を抜け止めするとともに、ハウジング１１の係合部１３ｃに上方から係合してアクチュエータ８１を非押し込み位置に保持する。また、第１凸部８３ａは、アクチュエータ８１が押し込み操作されたとき、係合部１３ｃを乗り越えるとともに、下方から係合部１３ｃに係合することにより、アクチュエータ８１を押し込み位置に保持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  第２延在部８４は、ハウジング１１の第２当接部１４の外側面に沿って下方に延在するとともに、基板側シェル７１の前板部７３の後面と、ガイド部７４の前端面との間で上下移動自在にガイドされる。第２延在部８４の先端側内側部には、内側方に突出する第２凸部８４ａが形成されている。第２凸部８４ａは、アクチュエータ８１が非押し込み位置にあるとき、ハウジング１１の抜け止め部１４ｂに係合してアクチュエータ８１を抜け止めするとともに、ハウジング１１の傾斜部１４ｃに上方から係合してアクチュエータ８１を非押し込み位置に保持する。また、第２凸部８４ａは、アクチュエータ８１が押し込み操作されたとき、傾斜部１４ｃを下方に押し込むことにより、ハウジング１１の第２当接部１４を内側方に変位させる。これにより、第２当接部１４の当接面１４ａが右側方から導体３ａに当接するとともに、導体３ａをターミナル５１に圧接させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  つぎに、本発明の実施形態に係る電線対基板コネクタの接続手順と、該接続手順に応じた電線対基板コネクタの内部動作について、図７及び図８を参照して説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  図７は、本発明の実施形態に係る電線対基板コネクタの接続手順を示す図であり、（ａ）は接続前の状態を示す電線対基板コネクタの斜視図、（ｂ）は電線側コネクタを基板側コネクタに嵌合させた状態を示す電線対基板コネクタの斜視図、（ｃ）はアクチュエータを押し込み操作して電線側コネクタと基板側コネクタとを接続させた状態を示す電線対基板コネクタの斜視図である。
+  図７の（ａ）に示すように、電線側コネクタ１０１を基板側コネクタ１に接続する場合は、まず、電線側コネクタ１０１のガイド部１５６と基板側コネクタ１のガイド部７４とにより互いの位置を合わせつつ、電線側コネクタ１０１を基板側コネクタ１に嵌合させる。このとき、電線３の先端が基板側コネクタ１の挿入孔７３ａに挿入され、電線３の導体３ａがターミナル５１の右側に並列される。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  つぎに、図７の（ｂ）に示すように、基板側コネクタ１のアクチュエータ８１を押し込み操作する。この押し込み動作に伴う後述する内部動作に基いて電線３の導体３ａがターミナル５１に圧接されるとともに、アクチュエータ８１が電線側コネクタ１０１に係合し、電線側コネクタ１０１が抜け止めされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  図８は、本発明の実施形態に係る電線対基板コネクタのＡ－Ａ断面図であり、（ａ）はアクチュエータを押し込み操作する前の状態を示す電線対基板コネクタのＡ－Ａ断面図、（ｂ）はアクチュエータを押し込み操作した後の状態を示す電線対基板コネクタのＡ－Ａ断面図である。
+  図８の（ａ）に示すように、アクチュエータ８１を押し込み操作する前の状態（図７の（ｂ）の状態）では、第１延在部８３の第１凸部８３ａがハウジング１１の係合部１３ｃに上方から係合するとともに、第２延在部８４の第２凸部８４ａがハウジング１１の傾斜部１４ｃに上方から係合することにより、アクチュエータ８１が非押し込み位置に保持されている。このとき、第２当接部１４の当接面１４ａは電線３の導体３ａから離間している。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  図８の（ｂ）に示すように、アクチュエータ８１を押し込み操作すると、第２延在部８４の第２凸部８４ａが傾斜部１４ｃを下方に押し込むことにより、ハウジング１１の第２当接部１４を内側方に変位させる。これにより、第２当接部１４の当接面１４ａが右側方から導体３ａに当接するとともに、導体３ａをターミナル５１に圧接させる。また、第１延在部８３の第１凸部８３ａは、アクチュエータ８１の押し込み操作に応じて、係合部１３ｃを乗り越えるとともに、下方から係合部１３ｃに係合し、アクチュエータ８１を押し込み位置に保持する。また、第１延在部８３及び第２延在部８４の先端部は、アクチュエータ８１の押し込み操作に応じて、電線側コネクタ１０１の溝部１５６ｃに係合し、電線側コネクタ１０１を抜け止めする。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  以上に述べた実施形態によれば、基板２に実装される基板側コネクタ１と、電線３の先端部に設けられ、基板側コネクタ１に嵌合される電線側コネクタ１０１とを備え、基板側コネクタ１は、基板２に電気的に接続され、電線側コネクタ１０１との嵌合時に電線３の導体３ａと横方向に並列するターミナル５１と、一側方からターミナル５１に当接する第１当接部１３と他側方から導体３ａに当接する第２当接部１４とを有するハウジング１１と、ハウジング１１の上方を覆う押し込み操作部８２から第１当接部１３の外側面に沿って延在する第１延在部８３と第２当接部１４の外側面に沿って延在する第２延在部８４とを有するアクチュエータ８１とを備え、アクチュエータ８１の押し込み操作に応じて、第２延在部８４が第２当接部１４を介して導体３ａをターミナル５１に圧接させる。つまり、ターミナル５１以外の部材（ハウジング１１とアクチュエータ８１）で導体３ａとターミナル５１との接触力を得るので、ターミナル５１を可及的に短くすることができ、その結果、高速伝送が可能な電線対基板コネクタを提供することが可能になる。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  また、第２延在部８４が、内側部に第２凸部８４ａを有し、第２当接部１４が、外側部に傾斜部１４ｃを有し、アクチュエータ８１の押し込み操作に応じて、第２凸部８４ａが傾斜部１４ｃを押圧することにより、第２当接部１４が導体３ａ側に変位し、導体３ａをターミナル５１に圧接させるので、簡単な構成で導体３ａとターミナル５１との接触力が得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  また、第１延在部８３が、内側部に第１凸部８３ａを有し、第１当接部１３が、外側部に係合部１３ｃを有し、アクチュエータ８１の押し込み操作に応じて、第１凸部８３ａが、係合部１３ｃに係合することにより、アクチュエータ８１が押し込み位置に保持されるので、アクチュエータ８１が不意に非押し込み位置に戻り、導体３ａとターミナル５１との接触力が失われるような状況を回避できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  また、電線側コネクタ１０１が、電線３の先端部に設けられる電線側シェル１５１を備え、アクチュエータ８１の押し込み操作に応じて、第１延在部８３及び第２延在部８４が電線側シェル１５１の溝部１５６ｃに係合することにより、電線側コネクタ１０１が抜け止めされるので、アクチュエータ８１を電線側コネクタ１０１の抜け止め部材に兼用することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  以上、本発明の好ましい実施形態について詳述したが、本発明は上述した実施形態に限定されるものではなく、特許請求の範囲に記載された本発明の要旨の範囲内において、種々の変形、変更が可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  例えば、上述の実施形態では、予めターミナル５１をハウジング１１に一体成型しているが、ターミナル５１は、ハウジング１１に対して圧入するようにしてもよいし、基板２側に形成するようにしてもよい。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0046">
+  １…基板側コネクタ、２…基板、３…電線、３ａ…内側導体（導体）、３ｂ…内側絶縁部、３ｃ…外側導体、３ｄ…外側絶縁部、１１…ハウジング（当接部材）、１２…ハウジング本体、１２ａ…係合爪、１３…第１当接部、１３ａ…当接面、１３ｂ…抜け止め部、１３ｃ…係合部、１４…第２当接部、１４ａ…当接面、１４ｂ…抜け止め部、１４ｃ…傾斜部、１５…肉抜き部、５１…ターミナル、５２…接触部、５３…基板接続部、６１…ターミナル保持部材、７１…基板側シェル、７２…シェル本体、７２ａ…係合孔、７２ｂ…基板固定部、７３…前板部、７３ａ…挿入孔、７３ｂ…幅狭部、７４…ガイド部、８１…アクチュエータ、８２…押し込み操作部、８３…第１延在部、８３ａ…第１凸部、８４…第２延在部、８４ａ…第２凸部、８５…後延在部、１０１…電線側コネクタ、１５１…電線側シェル、１５２…電線固定部、１５３…延在部、１５４…電線保持部、１５５…突き当て部、１５５ａ…凹部、１５６…ガイド部、１５６ａ…側壁部、１５６ｂ…下壁部、１５６ｃ…溝部
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="43" wi="73" file="2016126820_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="98" wi="73" file="2016126820_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="38" wi="73" file="2016126820_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="78" wi="73" file="2016126820_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="32" wi="73" file="2016126820_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="106" wi="73" file="2016126820_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="104" wi="69" file="2016126820_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="91" wi="73" file="2016126820_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  電線対基板コネクタであって、
+  基板に実装される基板側コネクタと、
+  電線の先端部に設けられ、前記基板側コネクタに嵌合される電線側コネクタとを備え、
+  前記基板側コネクタは、
+  前記基板に電気的に接続され、前記電線側コネクタとの嵌合時に前記電線の導体と横方向に並列するターミナルと、
+  一側方から前記ターミナルに当接する第１当接部と他側方から前記導体に当接する第２当接部とを有する当接部材と、
+  前記当接部材の上方を覆う押し込み操作部から前記第１当接部の外側面に沿って延在する第１延在部と前記第２当接部の外側面に沿って延在する第２延在部とを有するアクチュエータとを備え、
+  前記アクチュエータの押し込み操作に応じて、前記第２延在部が前記第２当接部を介して前記導体を前記ターミナルに圧接させることを特徴とする電線対基板コネクタ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記第２延在部が、内側部に第２凸部を有し、
+  前記第２当接部が、外側部に傾斜部を有し、
+  前記アクチュエータの押し込み操作に応じて、前記第２凸部が前記傾斜部を押圧することにより、前記第２当接部が前記導体側に変位し、前記導体を前記ターミナルに圧接させることを特徴とする請求項１に記載の電線対基板コネクタ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記第１延在部が、内側部に第１凸部を有し、
+  前記第１当接部が、外側部に係合部を有し、
+  前記アクチュエータの押し込み操作に応じて、前記第１凸部が、前記係合部に係合することにより、前記アクチュエータが押し込み位置に保持されることを特徴とする請求項１又は２に記載の電線対基板コネクタ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記電線側コネクタが、前記電線の先端部に設けられる電線側シェルを備え、
+  前記アクチュエータの押し込み操作に応じて、前記第１延在部及び前記第２延在部が前記電線側シェルの溝部に係合することにより、前記電線側コネクタが抜け止めされることを特徴とする請求項１～３のいずれか１項に記載の電線対基板コネクタ。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

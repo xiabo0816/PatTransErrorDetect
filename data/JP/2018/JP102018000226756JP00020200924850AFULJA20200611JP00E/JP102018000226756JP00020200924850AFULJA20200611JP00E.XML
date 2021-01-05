@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000226756JP00020200924850AFULJA20200611JP00E.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020092485" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092485</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092485</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000226756</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018226756</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>02</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>7</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H02J   7/00        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>10</business:MainGroup>
+        <business:Subgroup>48</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01M  10/48        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>10</business:MainGroup>
+        <business:Subgroup>44</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01M  10/44        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H02J7/00 S</business:FI>
+      <business:FI type="secondary">H01M10/48 301</business:FI>
+      <business:FI type="secondary">H01M10/44 Q</business:FI>
+      <business:FClass>
+        <business:FTerm>5G503AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503AA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503BA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503CA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503CB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503CC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503FA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503FA18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503GA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503GA20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503GB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030AS08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030AS11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030FF26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030FF43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030FF44</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5G503</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5H030</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">充電装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社ヴァレオジャパン</base:Name>
+            <base:RegisteredNumber>500309126</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>埼玉県熊谷市千代字東原３９番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>田本  安充</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区大森西５丁目２８番６号  株式会社ヴァレオジャパン内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>竹原  尚彦</base:Name>
+            <base:RegisteredNumber>100148301</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>中島  由布子</base:Name>
+            <base:RegisteredNumber>100176991</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>15</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】回路部品の温度上昇を検出して損傷を防止する。
+【解決手段】充電装置１は、電子機器７のバッテリ７１（充電体）に充電電流を供給する充電回路１０Ａ、１０Ｂと、基板１６上に配置され、充電回路１０Ａ、１０Ｂを構成する複数の回路部品ＩＣと、基板１６の、発熱源ＨＩＣから他の回路部品ＩＣへの伝熱経路上に配置されたサーミスタ１５と、サーミスタ１５が検出する温度が閾値を超えると、電子機器７への充電電流の供給を制限するＵＳＢコントローラ１４と、を備える。
+【選択図】図３</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="51" wi="69" file="2020092485_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、充電装置に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  自動車等のバッテリの電源から、スマートフォン等の電子機器のバッテリに電流を供給して充電する充電装置が提案されている。充電装置は基板上に配置された複数の回路部品により構成されるが、充電時の電力損失により、ＤＣＤＣコンバータ等の回路部品が発熱することがある。発熱によって各回路部品が最大ジャンクション温度を超えると、回路部品が損傷する可能性がある。これを防止するために、基板上にサーミスタを配置して、サーミスタが検出する温度が閾値を超えた場合には、充電電流を制御する（例えば、特許文献１参照。）。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２０１２－５２８８号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">
+  しかしながら、発熱源の熱は基板上を伝達されるため、各回路部品の温度の上昇は、発熱源からの距離等の条件によって変化する。そのため、サーミスタを基板上に設置することによって、基板の雰囲気温度を検出することはできるが、各回路部品のジャンクション温度は、基板の雰囲気温度より高くなる可能性がある。回路部品によっては最大ジャンクション温度が比較的低いものもあるため、サーミスタの温度検出によって回路部品の損傷を防止できないおそれがある。
+</base:Paragraphs>
+        <base:Paragraphs num="0005">
+  本発明は、回路部品の温度上昇を検出して損傷を防止し、充電装置の信頼性を向上させることを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">
+  本発明の充電装置は、
+
+充電体に充電電流を供給する充電回路と、基板上に配置され、前記充電回路を構成する複数の回路部品と、前記基板の、発熱源の前記回路部品から他の前記回路部品への伝熱経路上に配置された温度検出素子と、前記温度検出素子が検出する温度が閾値を超えると、前記充電体への前記充電電流の供給を制限する制御部を備える。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0007">
+  本発明によれば、基板上の発熱源となる回路部品から他の回路部品への伝熱経路上に温度検出素子を配置することによって、発熱源から基板上への熱の伝達によって生じる回路部品の温度上昇を検出することができる。温度検出素子の検出結果に応じて充電電流の供給を制限することによって、回路部品の損傷を防止し、充電装置の信頼性を向上させることができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0008">
+        <base:FigureReference num="0001">第１の実施の形態に係る充電装置の概略構成を示す図である。</base:FigureReference>
+        <base:FigureReference num="0002">充電回路の構成を示す図である。</base:FigureReference>
+        <base:FigureReference num="0003">第１の実施の形態に係る基板の領域分けを示す図である。</base:FigureReference>
+        <base:FigureReference num="0004">比較例におけるサーミスタの温度検出を示す図である。</base:FigureReference>
+        <base:FigureReference num="0005">第１の実施の形態におけるサーミスタの温度検出を示す図である。</base:FigureReference>
+        <base:FigureReference num="0006">変形例２に係る基板の領域分けを示す図である。</base:FigureReference>
+        <base:FigureReference num="0007">変形例３に係る充電装置の構成を示す図である。</base:FigureReference>
+        <base:FigureReference num="0008">第３の実施の形態に係る充電回路の構成を示す図である。</base:FigureReference>
+        <base:FigureReference num="0009">（Ａ）は、平滑コンデンサの通常時のリプル電圧の一例を示す図であり、（Ｂ）は、平滑コンデンサの劣化時のリプル電圧の一例と、コンパレータの出力するパルス信号を示す図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0009">
+＜第１の実施の形態＞
+
+  以下、本発明の第１の実施の形態に係る充電装置１を、図面を参照して説明する。
+
+  図１は、第１の実施の形態に係る充電装置１の構成を示すブロック図である。
+
+  充電装置１は、例えば、自動車等に設置され、自動車のバッテリ５の電力を携帯電話、スマートフォンやノートパソコン等の電子機器７のバッテリ７１に供給して充電する。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+  図１に示すように、充電装置１は、自動車のバッテリ５の電圧を変換して電子機器７に供給する充電回路１０Ａ、１０Ｂを備えている。充電回路１０Ａ、１０Ｂは不図示の基板上に配置され、不図示のケースの内部に収容されている。ケースには、自動車のバッテリ５との接続端子であるコネクタ２１と、電子機器７との接続端子であるコネクタ２２Ａ、２２Ｂが取り付けられている。コネクタ２１は、電力線を介して自動車のバッテリ５に接続している。コネクタ２２Ａ、２２Ｂは、例えばＵＳＢ（Universal Serial Bus）端子とすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  電子機器７は、バッテリ７１、充電回路７２およびコネクタ７３を備えており、充電装置１のコネクタ２２Ａまたはコネクタ２２Ｂと、電子機器７のコネクタ７３とを、ＵＳＢケーブル９を介して接続することで、自動車のバッテリ５の電流を電子機器７のバッテリ７１に供給する。電子機器７の構成については、詳細な説明は省略する。ＵＳＢケーブル９は、電源線ＶＢＵＳ、コンフィギュレーションチャネル線ＣＣ１／ＣＣ２、データ通信線ＤＰ／ＤＭ、接地線ＧＮＤ等を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  充電装置１には、２つの充電回路１０Ａ、１０Ｂのそれぞれに対応する２つのコネクタ２２Ａ、２２Ｂが設けられている。
+
+  図示は省略するが、コネクタ２２Ａ、２２Ｂは、それぞれＵＳＢケーブル９の電源線ＶＢＵＳと接続するＶＢＵＳピン、コンフィギュレーションチャネル線ＣＣ１／ＣＣ２と接続するＣＣピン、接地線ＧＮＤと接続されるＧＮＤピン等を備えている。電子機器７のコネクタ７３も同様の構成である。
+
+  ２つのコネクタ２２Ａ、２２Ｂは、それぞれ異なるＵＳＢ規格に対応するコネクタとしても良く、例えばコネクタ２２ＡをＵＳＢ  Ｔｙｐｅ－Ｃ、コネクタ２２ＢをＵＳＢ  Ｔｙｐｅ－Ａに対応するコネクタとしても良い。また、ＵＳＢ  Ｔｙｐｅ－Ｃに対応する給電規格として、ＵＳＢ  ＰＤ（Ｐｏｗｅｒ  Ｄｅｌｉｖｅｒｙ）を採用しても良い。ＵＳＢ  ＰＤでは、接続される電子機器７の要求に応じて、５Ｖ、９Ｖ、１５Ｖ、２０Ｖの電源電圧のうち一つを選択して供給する。充電電圧電流は、５Ｖ、９Ｖ、１５Ｖに対しては３Ａ、２０Ｖに対しては５Ａまで設定可能であり、最大１００Ｗ（２０Ｖ／５Ａ）の給電能力を有する。
+
+  なお、充電装置１のコネクタの数は２つに限られず、１つだけ設けても良く、あるいは３つ以上設けても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  自動車のバッテリ５との接続端子であるコネクタ２１と充電回路１０Ａ、１０Ｂとの間には、充電電流の逆流を防止する逆流防止回路３０と、電力線のノイズを除去するＥＭＣ（Electromagnetic Compatibility）フィルタ４０とが配置されている。ＥＭＣフィルタ４０は、充電回路１０Ａ、１０Ｂそれぞれに対応して２つ設けられている。コネクタ２１から入力された自動車のバッテリ５の電流は、逆流防止回路３０およびＥＭＣフィルタ４０を通過して、充電回路１０Ａ、１０Ｂに入力される。逆流防止回路３０は、図示は省略するが、パワーＭＯＳＦＥＴ等のスイッチ素子、抵抗およびコンデンサ等から構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  ２つの充電回路１０Ａ、１０Ｂは、基本的に同様の構成とすることができるので、ここでは一方の充電回路１０Ａの構成について説明する。
+
+  図２は、充電回路１０Ａの構成を示すブロック図である。
+
+  図２に示すように、充電回路１０Ａは電源線または通信線によって接続された複数の回路部品から構成される。回路部品は、例えば、ＤＣＤＣコンバータ１１、パワーＭＯＳＦＥＴ（Metal-Oxide-Semiconductor Field-Effect Transistor）１２、平滑コンデンサ１３、ＵＳＢコントローラ１４等である。
+
+  なお、図示した回路部品は主な例であり、充電回路１０Ａは他の回路部品を備えていても良い。例えば、ＵＳＢコントローラ１４がＤＣＤＣコンバータ１１と一体となった回路部品を備えていても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  ＤＣＤＣコンバータ１１は、自動車のバッテリ５の電圧を、ＵＳＢ充電用の所定の電圧に変換する。所定の電圧は、接続される電子機器７の種類や採用するＵＳＢの給電規格によって決定されるが、例えば５ＶまたはＵＳＢ  ＰＤの規格で使用される５Ｖ、９Ｖ、１５Ｖ、２０Ｖ等に変換される。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  パワーＭＯＳＦＥＴ１２は、ＤＣＤＣコンバータ１１の出力側に電源線ＶＢＵＳを介して接続されている。パワーＭＯＳＦＥＴ１２は、スイッチ素子として、ＤＣＤＣコンバータ１１からコネクタ２２Ａへの電流の供給と遮断を切り替える。なお、パワーＭＯＳＦＥＴ１２がＤＣＤＣコンバータ１１に内蔵されているタイプのものを用いても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  パワーＭＯＳＦＥＴ１２の出力側には平滑コンデンサ１３が接続されている。平滑コンデンサ１３は、充放電を行うことでＤＣＤＣコンバータ１１が出力するリプル電圧を平滑する。平滑コンデンサ１３で平滑された電圧は、電源線ＶＢＵＳを介してコネクタ２２Ａに出力される。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  ＵＳＢコントローラ１４は、充電回路１０Ａを構成する回路部品の動作を制御することで、充電電流の供給、遮断の切替えと供給量の制御を行う。なお、図示は省略するが、ＵＳＢコントローラ１４は、逆流防止回路３０（図１参照）の制御も行う。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  ＵＳＢコントローラ１４は、コネクタ２２Ａと、コンフィギュレーションチャネル線ＣＣ１／ＣＣ２、データ通信線ＤＰ／ＤＭ、接地線ＧＮＤ等を介して接続されている。
+
+  コンフィギュレーションチャネル線ＣＣ１／ＣＣ２は、充電装置１と電子機器７間のネゴシエーションを行なうための通信線である。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  図示は省略するが、充電装置１側のコンフィギュレーションチャネル線ＣＣ１／ＣＣ２は、電源に接続されたプルアップ抵抗に接続され、電子機器７側のコンフィギュレーションチャネル線ＣＣ１／ＣＣ２は接地されたプルダウン抵抗に接続されている。ＵＳＢコントローラ１４は、ＣＣピンの電圧を監視して、電子機器７側のプルダウン抵抗で終端処理されたか否か検出することで、電子機器７の接続を検出することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  ＵＳＢコントローラ１４は、電子機器７に接続されたＵＳＢケーブル９（図１参照）がコネクタ２２Ａに接続されると、コンフィギュレーションチャネル線ＣＣ１／ＣＣ２を介して、電子機器７に充電可能なプロファイルを送る。電子機器７はプロファイルの確認後、充電装置１に充電電圧および充電電流のリクエストを送る。ネゴシエーションが成立すると、ＵＳＢコントローラ１４はＤＣＤＣコンバータ１１を制御して、リクエストに応じた充電電流の供給を開始する。ＵＳＢコントローラ１４は、ネゴシエーションの際に、電子機器７への供給量を定義するテーブルを作成しても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  充電の際に、各回路部品に発熱が生じることがある。特に、ＤＣＤＣコンバータ１１やパワーＭＯＳＦＥＴ１２は、電流が通過する際の電力損失によって発熱源となりやすい。これらの回路部品の発熱は、基板を介して他の回路部品にも伝達されるため、他の回路部品のジャンクション温度（回路部品内部のチップの温度）も上昇する。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  各回路部品には、回路部品が動作する最大の温度である最大ジャンクション温度が規格として定められている。温度上昇によって回路部品が最大ジャンクション温度を超えると、回路部品が正常に動作しなくなったり、損傷に繋がったりするおそれがある。特に、前記したＵＳＢ  ＰＤの給電規格を採用した場合には、最大１００Ｗの給電が行われるため、発熱が発生しやすい傾向がある。ＵＳＢコントローラ１４は、各回路部品が最大ジャンクション温度を超えないように、回路部品の温度上昇を検出して、充電電流の供給量を制御する必要がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  充電装置１には、回路部品の温度上昇を検出するために、温度検出素子であるサーミスタ１５が複数設けられている。サーミスタ１５は、例えば、温度の上昇に対して抵抗が減少するＮＴＣ（Negative Temperature Coefficient）サーミスタを用いることができる。サーミスタ１５の検出信号はＵＳＢコントローラ１４に入力される。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  第１の実施の形態において、複数のサーミスタ１５は、複数の領域に分割された基板上に配置されている。
+
+  図３は、第１の実施の形態に係る基板の領域分けを示す図である。
+
+  前記したように充電回路１０Ａを構成する回路部品は様々な種類のものがあるが、図３の説明ではそれらの回路部品を総称して「回路部品ＩＣ」という。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  図３に示すように、基板１６はケース１７の内部に収容されており、ケース１７の長手方向の一端側には自動車のバッテリ５との接続端子であるコネクタ２１が配置され、他端側には電子機器７との接続端子であるコネクタ２２Ａ、２２Ｂが配置される。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  基板１６は複数の領域に分割されているが、基板中央部ＳＣは、発熱源となりやすい回路部品ＩＣを配置する領域である。基板中央部ＳＣには、例えばＤＣＤＣコンバータ１１を配置する。基板中央部ＳＣには、充電回路１０Ａ、１０Ｂの双方のＤＣＤＣコンバータ１１を配置することができるが、図３では、便宜上一つの回路部品ＩＣが配置されている状態を図示している。
+
+  以降、基板中央部ＳＣに配置する、発熱源となる回路部品ＩＣを「発熱源ＨＩＣ」という。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  基板中央部ＳＣの周囲は、基板１６の長手方向中心線Ｌ１を挟んで、一方側の領域Ａと他方側の領域Ｂに分割されている。領域Ａには充電回路１０Ａの回路部品ＩＣを配置し、領域Ｂには充電回路１０Ｂの回路部品ＩＣを配置する。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  領域Ａは、基板１６の短手方向中心線Ｌ２を挟んで更に２つの領域Ａ１とＡ２に分割され、領域Ａ１、Ａ２のそれぞれに回路部品ＩＣとサーミスタ１５が配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  第１の実施の形態において、回路部品ＩＣは、それぞれの最大ジャンクション温度に応じて分類され、領域Ａ１または領域Ａ２に配置される。前記したように、回路部品ＩＣは最大ジャンクション温度が規格として定められているが、回路部品ＩＣの種類や機能によって最大ジャンクション温度は異なる。例えば、電力線が通過するＤＣＤＣコンバータ１１やパワーＭＯＳＦＥＴ１２等は、最大ジャンクション温度が比較的高いが、充電装置１の制御を行うＵＳＢコントローラ１４等は、最大ジャンクション温度が比較的低い傾向がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  実施の形態では、複数の回路部品ＩＣのなかで最大ジャンクション温度が比較的高い回路部品ＩＣと比較的低い回路部品ＩＣに分類し、比較的高い回路部品ＩＣを領域Ａ１に配置し、比較的低い回路部品ＩＣを領域Ａ２に配置する。領域Ａ１に配置した回路部品ＩＣの最大ジャンクション温度は、例えば１２５℃とすることができ、領域Ａ２に配置した回路部品ＩＣの最大ジャンクション温度は、例えば１０５℃とすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  サーミスタ１５は、基板中央部ＳＣの発熱源ＨＩＣと領域Ａ１、Ａ２の各回路部品ＩＣの間にそれぞれ配置される。なお、図示は省略しているが、サーミスタは、発熱源ＨＩＣであるＤＣＤＣコンバータ１１の回路内にも配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  図４は、比較例におけるサーミスタ１５の温度検出を示す図である。図４では、領域Ａ１の回路部品をＩＣ１といい、領域Ａ２の回路部品をＩＣ２という。
+
+  図４に示すように、比較例では、サーミスタ１５を領域Ａ２のみに配置し、さらに、発熱源ＨＩＣと回路部品ＩＣ２の間でなく、発熱源ＨＩＣに対して回路部品ＩＣ２より外側に配置している。
+
+  基板中央部ＳＣの発熱源ＨＩＣの発熱は、発熱源ＨＩＣが設置された基板１６を介して周囲に伝達される。発熱源ＨＩＣからの熱の伝わり方は基板１６上の位置によって異なるため、領域Ａ２に配置されたサーミスタ１５では、領域Ａ１に配置された回路部品ＩＣ１の温度上昇を検出しにくい。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  さらに、領域Ａ２の回路部品ＩＣ２に対しても、サーミスタ１５は発熱源ＨＩＣに対して回路部品ＩＣ２より外側に配置されている。図において、発熱源ＨＩＣから各回路部品ＩＣ１、ＩＣ２への伝熱経路を波線の矢印で示しているが、サーミスタ１５は、発熱源ＨＩＣから回路部品ＩＣ２への伝熱経路上に位置していない。そのため、サーミスタ１５が発熱源ＨＩＣから伝達される熱を検出するタイミングが、回路部品ＩＣ２への熱の伝達よりも遅くなる可能性があり、回路部品ＩＣ２の温度上昇をすみやかに検出できない可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  図５は、第１の実施の形態におけるサーミスタ１５の温度検出を示す図である。
+
+  図５に示すように、第１の実施の形態において、発熱源ＨＩＣと領域Ａ１、Ａ２の各回路部品ＩＣ１、ＩＣ２の間にそれぞれサーミスタ１５が配置されている。すなわち、サーミスタ１５は、発熱源ＨＩＣから領域Ａ１、Ａ２の回路部品ＩＣ１、ＩＣ２へのそれぞれの伝熱経路上に位置している。そのため、サーミスタ１５は、発熱源ＨＩＣの熱を、回路部品ＩＣ１、ＩＣ２に伝達されるより前に検出することができるため、回路部品ＩＣ１、ＩＣ２に生じる温度上昇をすみやかに検出することができる。また、各領域Ａ１、Ａ２にサーミスタ１５を配置することによって、領域Ａ１、Ａ２それぞれの回路部品ＩＣ１、ＩＣ２の温度上昇を検出しやすくなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  ＵＳＢコントローラ１４は、各サーミスタ１５の検出信号を取得し、検出した温度が閾値を超えた場合、ＤＣＤＣコンバータ１１およびパワーＭＯＳＦＥＴ１２の動作を制御して、充電電流の供給を制限する。あるいは、ＵＳＢ  ＰＤの規格に基づいて、ＵＳＢコントローラ１４が、電子機器７に対して再度ネゴシエーションを行い、電子機器７側の充電電流の供給の制限を行うようにしても良い。制限の方法としては、例えば、ＵＳＢコントローラ１４は、ＵＳＢ  ＰＤの規格に基づいたハードウェアリセットを行っても良い。あるいは、電子機器７とのネゴシエーションに応じて、供給量を定義するテーブルに変更を行って、供給量を一時的に減少させるように電子機器７の充電電圧または充電電流を減少させることができる。また、コンフィギュレーションチャネル線ＣＣ１／ＣＣ２に接続するＣＣピンのプルアップ抵抗を変更することで、供給できる充電電流を変更しても良い。電子機器７側への充電電流の供給の制限によって、発熱源ＨＩＣの発熱を抑制し、各回路部品ＩＣ１、２が最大ジャンクション温度を超えて温度上昇することを抑制する。サーミスタ１５が検出する温度が閾値以下になれば、ＵＳＢコントローラ１４は充電電流の供給制限を解除するようにしても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  閾値は、各領域Ａ１、Ａ２に配置した回路部品ＩＣ１、ＩＣ２の最大ジャンクション温度に基づいて、領域Ａ１、Ａ２のサーミスタ１５それぞれについて決定する。最大ジャンクション温度が高い回路部品ＩＣ１が配置された領域Ａ１のサーミスタ１５の閾値ＴＡ１は、最大ジャンクション温度が低い回路部品ＩＣ２が配置された領域Ａ２のサーミスタ１５の閾値ＴＡ２よりも高く設定する。閾値は、余裕を持たせて、最大ジャンクション温度よりもある程度低い温度に設定しても良く、例えば、領域Ａ１の閾値ＴＡ１は１１０℃、領域Ａ２の閾値ＴＡ２は９０℃に設定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  図３の例では、説明の便宜上、各領域Ａ１、Ａ２に一つずつ回路部品ＩＣを配置した状態を示しているが、各領域Ａ１、Ａ２にそれぞれ複数の回路部品ＩＣを配置しても良い。その場合は、全体の回路部品ＩＣを最大ジャンクション温度が比較的高いグループと低いグループに分けて、同じグループに分けた回路部品ＩＣを同じ領域に配置するようにしても良い。また同じ領域に配置した複数の回路部品ＩＣの最大ジャンクション温度が異なる場合は、最も低い最大ジャンクション温度に基づいて、閾値を設定しても良い。これによって、一つの領域に一つのサーミスタ１５を配置すれば良く、回路部品ＩＣごとに個別にサーミスタ１５を配置する必要が無い。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  また、サーミスタ１５の数も、各領域Ａ１、Ａ２に一つずつ配置した例を示しているが、これに限定されず、回路部品ＩＣの数や配置に応じて、発熱源ＨＩＣから回路部品ＩＣへの伝熱経路上にサーミスタ１５が配置されるように、適宜設置数を決定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  充電回路１０Ｂの回路部品ＩＣを配置する領域Ｂについても、領域Ａと同様に最大ジャンクション温度が高い回路部品ＩＣを配置する領域Ｂ１と、最大ジャンクション温度が低い回路部品ＩＣを配置する領域Ｂ２に分割し、発熱源ＨＩＣからそれぞれの領域Ｂ１、Ｂ２の回路部品ＩＣへの伝熱経路上にサーミスタ１５を配置する。領域Ｂ１、Ｂ２のサーミスタ１５に対しては、領域Ａ１、Ａ２のサーミスタ１５と同様に、それぞれの回路部品ＩＣの最大ジャンクション温度に応じた閾値を決定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  なお、図示は省略しているが、逆流防止回路３０およびＥＭＣフィルタ４０の回路部品ＩＣも、それぞれの最大ジャンクション温度に応じて、基板１６上の領域Ａ１、Ａ２、Ｂ１、Ｂ２のいずれかに配置することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  また、詳細な説明は省略するが、発熱源ＨＩＣ自体にもサーミスタを設置して、ＵＳＢコントローラ１４は、発熱源ＨＩＣのジャンクション温度が、最大ジャンクション温度に応じて決定した閾値を超えた場合には、充電電流の供給を制限するようにしても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  以上の通り、実施の形態に係る充電装置１は、
+
+（１）電子機器７のバッテリ７１（充電体）に充電電流を供給する充電回路１０Ａ、１０Ｂと、
+
+  基板１６上に配置され、充電回路１０Ａ、１０Ｂを構成する複数の回路部品ＩＣと、
+
+  基板１６の、発熱源ＨＩＣ（発熱源の回路部品ＩＣ）から他の回路部品ＩＣへの伝熱経路上に配置されたサーミスタ１５（温度検出素子）と、
+
+  サーミスタ１５（温度検出素子）が検出する温度が閾値を超えると、電子機器７への充電電流の供給を制限するＵＳＢコントローラ１４（制御部）と、を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  充電装置１は、充電の際に、例えばＤＣＤＣコンバータ１１等の回路部品ＩＣが発熱することがある。発熱源ＨＩＣの熱が基板１６を介して各回路部品ＩＣに伝達されると、各回路部品ＩＣの温度も上昇する。各回路部品ＩＣの温度上昇は、発熱源ＨＩＣからの距離等によって変化する。サーミスタ１５を基板１６上に設置することによって、基板１６の雰囲気温度を検出することはできるが、各回路部品ＩＣの実際の温度であるジャンクション温度は、サーミスタ１５の検出温度よりも上昇する可能性がある。回路部品ＩＣは、種類によって最大ジャンクション温度が比較的低いものもあるため、温度の上昇によって回路部品ＩＣが損傷等するおそれがある。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  第１の実施の形態において、発熱源ＨＩＣから回路部品ＩＣの伝熱経路上にサーミスタ１５を配置することによって、発熱源ＨＩＣの熱が、回路部品ＩＣに伝達されるより前に検出することができるため、回路部品ＩＣに生じる温度上昇を適切に検出することができる。ＵＳＢコントローラ１４がサーミスタ１５の検出結果に応じて充電電流の供給を制限することによって、回路部品ＩＣの損傷を防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+（２）基板１６上に、それぞれに回路部品ＩＣが配置された複数の領域Ａ１、Ａ２、Ｂ１、Ｂ２を形成し、
+
+  サーミスタ１５は、発熱源ＨＩＣから各領域Ａ１、Ａ２、Ｂ１、Ｂ２の回路部品ＩＣへの伝熱経路上に配置され、
+
+  ＵＳＢコントローラ１４は、サーミスタ１５が検出する温度が、各領域Ａ１、Ａ２、Ｂ１、Ｂ２の回路部品ＩＣに応じて決定した閾値を超えると、電子機器７への充電電流の供給を制限する。制限の方法は、例えば、ＵＳＢ  ＰＤ規格に基づいた方法とする。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  基板１６上を領域分けして回路部品ＩＣを配置し、各領域Ａ１、Ａ２、Ｂ１、Ｂ２の回路部品ＩＣに応じてサーミスタ１５の閾値を決定することで、全ての回路部品ＩＣに対して個別にサーミスタ１５を配置する必要がないため、サーミスタ１５の点数を低減しつつ、各領域Ａ１、Ａ２、Ｂ１、Ｂ２の回路部品ＩＣの温度上昇を適切に検出して損傷を防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+（３）複数の領域Ａ１、Ａ２、Ｂ１、Ｂ２は、回路部品ＩＣの最大ジャンクション温度に応じて形成する。
+
+  例えば、温度上昇があっても、回路部品ＩＣの最大ジャンクション温度によって、充電電流の供給の制限の要否は異なる。最大ジャンクション温度に応じた領域分けを行って回路部品ＩＣを配置することで、ＵＳＢコントローラ１４は回路部品ＩＣに応じた適切な充電電流の制限を行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+（４）発熱源ＨＩＣを、基板中央部ＳＣ（基板１６の中央）に配置する。
+
+  これによって、発熱源ＨＩＣの発熱を周囲に分散させやすくなり、発熱源ＨＩＣを設置した個所の温度上昇を低減することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+＜変形例１＞
+
+  第１の実施形態では、複数の領域Ａ１、Ａ２、Ｂ１、Ｂ２を回路部品ＩＣの最大ジャンクション温度に応じて形成したが、これに限られず、例えば、複数の領域を回路部品ＩＣの用途に応じて形成しても良い。
+
+  例えば、ＵＳＢコントローラ１４等の制御系統の回路部品ＩＣは、ＭＯＳＦＥＴ等の電源系統の回路部品ＩＣと比べて、最大ジャンクション温度が低い傾向がある。そのため、例えば図３に示した領域Ａ１にはパワーＭＯＳＦＥＴ１２等の電源系統の回路部品ＩＣを配置し、領域Ａ２にはＵＳＢコントローラ１４等の制御系統の回路部品ＩＣを配置するようにしても良い。このように、同じ用途の回路部品ＩＣを同じ領域に配置することによって、電力線や通信線等の配線設定も容易となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  以上の通り、変形例１の充電装置１において、
+
+（５）複数の領域Ａ１、Ａ２、Ｂ１、Ｂ２は、回路部品ＩＣの用途に応じて形成する。
+
+  回路部品ＩＣの用途に応じて最大ジャンクション温度が異なるため、温度上昇時の充電電流の供給の制限の要否は異なる。回路部品ＩＣの用途に応じた領域分けを行って回路部品ＩＣを配置することで、ＵＳＢコントローラ１４は回路部品ＩＣに応じた適切な充電電流の制限を行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+＜変形例２＞
+
+  第１の実施の形態では、複数の領域Ａ１、Ａ２、Ｂ１、Ｂ２をそれぞれ発熱源ＨＩＣが位置する基板中央部ＳＣに隣接する形で形成し、それぞれの領域Ａ１、Ａ２、Ｂ１、Ｂ２に回路部品ＩＣとサーミスタ１５を配置する例を説明したが、これに限られない。発熱源ＨＩＣから回路部品ＩＣへの伝熱経路上にサーミスタ１５を配置できれば良く、基板１６における領域は、基板１６の面積や回路部品ＩＣの数等に応じて適宜形成することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  図６は、変形例２に係る基板１６の領域分けを示す図である。図６では、コネクタ２２Ａに、電子機器７と接続したＵＳＢケーブル９（図１参照）が接続された状態を図示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  図６に示すように、基板中央部ＳＣは、第１の実施の形態と同様に、発熱源ＨＩＣを配置する領域とする。また、第１の実施の形態と同様に、基板１６の長手方向中心線Ｌ１を挟んで、一方側の領域Ｃを充電回路１０Ａの回路部品ＩＣを配置する領域とし、他方側の領域Ｄを充電回路１０Ｂの回路部品ＩＣを配置する領域とする。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  領域Ｃは、更に２つに分割されており、基板中央部ＳＣを囲んで隣接する領域Ｃ１と、領域Ｃ１の径方向外側に配置され、基板中央部ＳＣから離隔した領域Ｃ２が形成される。領域Ｃ１には、複数の回路部品ＩＣの中で最大ジャンクション温度が比較的高い回路部品ＩＣを配置する。領域Ｃ２には、複数の回路部品ＩＣの中で最大ジャンクション温度が比較的低い回路部品ＩＣを配置する。サーミスタ１５は、実施の形態と同様に、発熱源ＨＩＣと各領域の回路部品ＩＣの間、すなわち図中において矢印で示した発熱源ＨＩＣから各領域の回路部品ＩＣへの伝熱経路上に配置する。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  領域Ｃ２は、領域Ｃ１よりも発熱源ＨＩＣから遠くに位置しているため、領域Ｃ１と比べて発熱源ＨＩＣの熱が伝わりにくい。そのため、領域Ｃ２に配置されている最大ジャンクション温度が比較的低い回路部品ＩＣの温度上昇を抑制することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  なお、充電回路１０Ｂの回路部品ＩＣを配置する領域Ｄについても、領域Ｃと同様に領域Ｄ１、Ｄ２に分割して、基板中央部ＳＣを囲んで隣接する領域Ｄ１には最大ジャンクション温度が比較的高い回路部品ＩＣを配置し、領域Ｄ１の径方向外側の領域Ｄ２には、最大ジャンクション温度が比較的低い回路部品ＩＣを配置する。発熱源ＨＩＣからそれぞれの領域Ｄ１、Ｄ２の回路部品ＩＣへの伝熱経路上にサーミスタ１５を配置する。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  以上の通り、変形例２に係る充電装置１は、
+
+（６）基板上に、領域Ｃ１、Ｄ２（第１の領域）と、領域Ｃ１、Ｄ１より発熱源ＨＩＣから遠くに位置する領域Ｃ２、Ｄ２（第２の領域）を形成し、領域Ｃ２、Ｄ２に配置された回路部品ＩＣは、領域Ｃ１、Ｄ１に配置された回路部品ＩＣより最大ジャンクション温度が低い。
+
+  最大ジャンクション温度が比較的低い回路部品ＩＣを配置した領域Ｃ２、Ｄ２を、発熱源ＨＩＣから離れるように配置することで、最大ジャンクション温度が比較的低い回路部品ＩＣの温度上昇を抑制することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+＜変形例３＞
+
+  図７は、変形例３に係る充電装置１の構成を示す図である。
+
+  第１の実施の形態において、逆流防止回路３０は、パワーＭＯＳＦＥＴ等のスイッチ素子３１を備えることは説明したが、変形例３では、図７に示すように、逆流防止回路３０にサーミスタ３２が設置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  第１の実施の形態では、充電回路１０Ａ、１０Ｂを構成する回路部品ＩＣの温度上昇に応じて、ＵＳＢコントローラ１４が充電電流の供給の制限を行う態様を説明したが、例えば自動車のバッテリ５の異常電圧の入力等の要因で、自動車のバッテリ５との接続端子であるコネクタ２１や、逆流防止回路３０で温度上昇が生じることもある。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  変形例３では、逆流防止回路３０にサーミスタ３２を設けて、サーミスタ３２の検出する温度が所定値以上になった場合、スイッチ素子３１が動作して充電回路１０Ａ、１０Ｂへの電力の供給を遮断するように設計する。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  逆流防止回路３０は、充電回路１０Ａ、１０ＢのＵＳＢコントローラ１４によって制御されているが、異常電圧が充電装置１に入力された際に、ＵＳＢコントローラ１４の制御を待たずに、逆流防止回路３０において電流を遮断することができるため、充電回路１０Ａ、１０Ｂの回路部品ＩＣの損傷を防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  以上の通り、変形例３に係る充電装置１は、
+
+（７）自動車のバッテリ５（外部の電源）と充電回路１０Ａ、１０Ｂとの間に設けられ、スイッチ素子３１とサーミスタ３２（温度検出素子）を含む逆流防止回路３０（保護回路）を備え、
+
+  逆流防止回路３０は、サーミスタ３２が所定値以上の温度を検出したとき、スイッチ素子３１により自動車のバッテリ５から充電回路１０Ａ、１０Ｂへの充電電流の供給を遮断する。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  逆流防止回路３０にサーミスタ３２を設けることによって、異常電圧の入力等で発熱が生じた場合に、充電電流の供給を速やかに遮断することができ、充電回路１０Ａ、１０Ｂの回路部品ＩＣの損傷を防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+＜第２の実施の形態＞
+
+  以下、本発明の第２の実施の形態に係る充電装置１を説明する。
+
+  第１の実施の形態では、充電回路１０Ａ、１０Ｂを構成する回路部品ＩＣの発熱に応じた充電電流の供給の制御について説明したが、第２の実施の形態では、自動車のバッテリ５の電圧に応じて充電電流の供給を制御する。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  第２の実施の形態の充電回路１０Ａ、１０Ｂの構成は、第１の実施の形態と同様であるため、図１および図２を参照して説明する。
+
+  前記したように、充電装置１は、自動車のバッテリ５の電力を使って電子機器７のバッテリ７１を充電する。自動車の運転中であれば、オルタネータによって自動車のバッテリ５が充電されるが、渋滞中や停車中等、自動車のバッテリ５への充電が行われない状態で電子機器７への充電を続けると、自動車のバッテリ５の電圧が低下して自動車の運転に支障を与える可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  第２の実施の形態において、ＵＳＢコントローラ１４は、ＤＣＤＣコンバータ１１に入力される自動車のバッテリ５の電圧を監視する。ＵＳＢコントローラ１４は、自動車のバッテリ５の電圧が予め決定した閾値より下がった場合、パワーＭＯＳＦＥＴ１２を制御して電子機器７への充電電流の供給を遮断する。ＵＳＢコントローラ１４は、自動車のバッテリ５の電圧が閾値以上に回復すると、パワーＭＯＳＦＥＴ１２を制御して電子機器７への充電電流の供給を再開する。あるいは、第１の実施の形態で説明したとおり、ＵＳＢコントローラ１４は電子機器７とネゴシエーションを行い、ネゴシエーションが成立してから、充電電流の供給を再開しても良い。このように、第２の実施の形態においては、自動車のバッテリ５の電圧の低下による自動車の運転への影響を防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+＜第３の実施の形態＞
+
+  以下、本発明の第３の実施の形態に係る充電装置１を説明する。
+
+  図８は、第３の実施の形態に係る充電回路１０Ａの構成を示す図である。
+
+  図８に示すように、第３の実施の形態において、充電回路１０Ａは平滑コンデンサ１３の出力側に設けられたコンパレータ１８を備えている。コンパレータ１８は、例えばオペアンプ等で構成する。コンパレータ１８はＵＳＢコントローラ１４に接続されており、コンパレータ１８の出力信号はＵＳＢコントローラ１４に入力される。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  前記したように、平滑コンデンサ１３はＤＣＤＣコンバータ１１の出力するリプル電圧を平滑する。平滑コンデンサ１３が劣化すると、リプル電圧が大きくなり、場合によっては充電装置１に接続される電子機器７の回路部品ＩＣの損傷等を招く可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  コンパレータ１８は、平滑コンデンサ１３の出力電圧を、予め設定した閾値と比較する。閾値は、電子機器７の充電電圧を基準とし、充電電圧より所定値高い閾値ＶＨと、所定値低い閾値ＶＬである。閾値ＶＨ、ＶＬは、平滑コンデンサ１３の劣化によるリプル電圧の増加の可能性を示す値である。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  図９の（Ａ）は、平滑コンデンサ１３の通常時のリプル電圧の一例を示す図であり、図９の（Ｂ）は、平滑コンデンサ１３の劣化時のリプル電圧の一例と、コンパレータ１８の出力するパルス信号を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  図９の（Ａ）に示すように、リプル電圧は、充電電圧から立ち上がる期間と、充電電圧から立ち下がる期間が周期的に訪れる波形となっているが、平滑コンデンサ１３の通常時に出力されるリプル電圧の立ち上がりおよび立ち下がりは、閾値ＶＨおよび閾値ＶＬには達しない。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  一方、図９の（Ｂ）に示すように、平滑コンデンサ１３が劣化等して正常に動作しなくなった場合、平滑コンデンサ１３から出力されるリプル電圧が大きくなり、閾値ＶＨおよび閾値ＶＬに達するようになる。リプル電圧が閾値ＶＨおよび閾値ＶＬに達すると、コンパレータ１８からパルス信号が出力される。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  第３の実施の形態において、ＵＳＢコントローラ１４は、図８に示すように、コンパレータ１８が入力するパルス信号をカウントするパルスカウンタ１４１を備えている。パルスカウンタ１４１がカウントするパルス信号が所定回数を超えると、ＵＳＢコントローラ１４は、パワーＭＯＳＦＥＴ１２を制御して電子機器７への充電電流の供給を遮断する。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  所定回数は、平滑コンデンサ１３の劣化を判定できる回数とすると良い。ノイズ等によって、パルス信号が入力されることもある。ＵＳＢコントローラ１４は、パルス信号の入力間隔を参照して、パルス信号が連続して所定回数入力された場合のみ、充電電流の供給を遮断する。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  例えば、パルス信号が２回連続して入力された場合、パルスカウンタ１４１は「２」をカウントするが、次の間隔で１回パルス信号の入力が途切れた場合は、カウントダウンして「１」にする。その次の間隔でもパルス信号の入力がなければ、パルスカウンタ１４１は更にカウントダウンして「０」にするが、再びパルス信号の入力があった場合はカウントアップして「２」にする。このように、パルス信号が入力されてカウントアップを開始した後にパルス信号の入力が連続しなかった場合にはカウントダウンすることによって、ノイズ等の原因で誤って電子機器７への充電電流の供給が遮断されることを防止する。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+＜その他の実施形態＞
+
+  前記した実施の形態では、ＤＣＤＣコンバータ１１とＵＳＢコントローラ１４とは別の回路部品ＩＣとして設けたが、ＤＣＤＣコンバータ１１とＵＳＢコントローラ１４が一体となった回路部品ＩＣを用いても良い。
+
+  あるいは、充電装置１の制御回路を電源回路と一体として構成しても良い。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0078">
+１  充電装置
+
+５  バッテリ
+
+７  電子機器
+
+７１  バッテリ
+
+７２  充電回路
+
+７３  コネクタ
+
+９  ＵＳＢケーブル
+
+１０Ａ、１０Ｂ  充電回路
+
+１１  ＤＣＤＣコンバータ
+
+１２  パワーＭＯＳＦＥＴ
+
+１３  平滑コンデンサ
+
+１４  ＵＳＢコントローラ
+
+１４１  パルスカウンタ
+
+１５  サーミスタ
+
+１６  基板
+
+１７  ケース
+
+１８  コンパレータ
+
+２１  コネクタ
+
+２２Ａ、２２Ｂ  コネクタ
+
+３０  逆流防止回路
+
+３１  スイッチ素子
+
+３２  サーミスタ
+
+４０  ＥＭＣフィルタ
+
+ＩＣ、ＩＣ１、ＩＣ２  回路部品
+
+ＨＩＣ  発熱源
+
+ＳＣ  基板中央部
+
+Ａ、Ａ１、Ａ２  領域
+
+Ｂ、Ｂ１、Ｂ２  領域
+
+Ｃ、Ｃ１、Ｃ２  領域
+
+Ｄ、Ｄ１、Ｄ２  領域
+
+Ｌ１  長手方向中心線
+
+Ｌ２  短手方向中心線
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="122" wi="85" file="2020092485_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="81" file="2020092485_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="62" wi="85" file="2020092485_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="35" wi="85" file="2020092485_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="40" wi="85" file="2020092485_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="122" wi="81" file="2020092485_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="122" wi="81" file="2020092485_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="81" file="2020092485_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="81" file="2020092485_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  充電体に充電電流を供給する充電回路と、
+
+  基板上に配置され、前記充電回路を構成する複数の回路部品と、
+
+  前記基板の、発熱源の前記回路部品から他の前記回路部品への伝熱経路上に配置された温度検出素子と、
+
+  前記温度検出素子が検出する温度が閾値を超えると、前記充電体への前記充電電流の供給を制限する制御部と、を備えることを特徴とする充電装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記基板上に、それぞれに前記回路部品が配置された複数の領域を形成し、
+
+  前記温度検出素子は、前記発熱源の回路部品から各領域の前記回路部品への前記伝熱経路上に配置され、
+
+  前記制御部は、前記温度検出素子が検出する温度が、各領域の回路部品に応じて決定した前記閾値を超えると、前記充電体への前記充電電流の供給を制限することを特徴とする請求項１記載の充電装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記複数の領域は、前記回路部品の最大ジャンクション温度に応じて形成することを特徴とする請求項２記載の充電装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記複数の領域は、前記回路部品の用途に応じて形成することを特徴とする請求項２記載の充電装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記基板上に、第１の領域と、前記第１の領域より前記発熱源から遠くに位置する第２の領域を形成し、前記第２の領域に配置された回路部品は、前記第１の領域に配置された回路部品より最大ジャンクション温度が低いことを特徴とする請求項２～４のいずれか一項に記載の充電装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記発熱源となる回路部品を、前記基板の中央に配置することを特徴とする請求項１～５のいずれか一項に記載の充電装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  外部の電源と前記充電回路との間に設けられ、スイッチ素子と温度検出素子を含む保護回路を備え、
+
+  前記保護回路は、前記温度検出素子が所定値以上の温度を検出したとき、前記スイッチ素子により前記外部の電源から前記充電回路への充電電流の供給を遮断することを特徴とする、請求項１～６のいずれか一項に記載の充電装置。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102020000506688JP00020205164330AFULJA20200611JP00M.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020516433" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516433</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516433</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102020000506688</base:DocNumber>
+        <base:Date>20170913</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020506688</base:DocNumber>
+        <base:Date>20170913</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>10-2017-0048835</base:DocNumber>
+        <base:Date>20170415</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="2">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>10-2017-0102089</base:DocNumber>
+        <base:Date>20170811</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>102017000048835</base:DocNumber>
+        <base:Date>20170415</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="2">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>102017000102089</base:DocNumber>
+        <base:Date>20170811</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>47</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>37</business:MainGroup>
+        <business:Subgroup>06</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A47J  37/06        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A47J37/06 306</business:FI>
+      <business:FClass>
+        <business:FTerm>4B040AA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040AA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040AB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040AC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040AD03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040AE13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040CA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040CA18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040EA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040EA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040EA13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040EA20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040ED10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B040GD04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B040</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">烹饪后清洗方便的电烤架</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ベク，キョン－イル</base:Name>
+            <base:RegisteredNumber>519370902</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>KR</base:WIPOST3Code>
+              <base:Text>大韓民国  18441  キョンギ－ド  ファソン－シ  10ヨンサ－ロ（ドンタンパラゴン  ハウス）613  403－1</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ベク，キョン－イル</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>KR</base:WIPOST3Code>
+              <base:Text>大韓民国  18441  キョンギ－ド  ファソン－シ  10ヨンサ－ロ（ドンタンパラゴン  ハウス）613  403－1</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>折坂  茂樹</base:Name>
+            <base:RegisteredNumber>100166545</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>KR2017010025</base:DocNumber>
+        <base:Date>20170913</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018190477</base:DocNumber>
+        <base:Date>20181018</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>20</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明涉及： 通过在主体壳体的内部具备电发热部件, 一边对鱼、肉类等被烹调物M施加红外线热一边进行烹调, 关于烹调后的清洗简便的电动烤架, 更详细而言, 所述主体壳体与下部主体壳体的上表面垂直地延伸, 它的内部, 包括多个柱主体壳体,所述多个柱主体壳体在垂直方向上设置有电加热装置, 当所述多个柱主体壳体结合时,形成有垂直方向的内部空间, 红外线透过沿所述垂直方向形成的内部空间, 仅上表面开放, 其由在高度方向上较长的直方筒状或圆筒状构成, 通过配置由红外线透过的玻璃等材料构成的耐热容器,从而成为在所述耐热容器（玻璃）的内部直接透过热（红外线辐射热）的结构, 本发明涉及一种烹调后的清洗简便的电烧烤,该电烧烤具备在所述耐热容器的内部安装被烹调物M并能够利用红外线辐射热直接加热、烹调的烧烤器具,由此,不仅烹调简便,而且在烹调过程中从被烹调物M喷出的水、油、污染物等沿着所述耐热容器的侧壁流下并聚集在容器的下侧,由此,能够利用耐热容器隔断对电烧烤的内部的污染,另外,能够通过在烹调后仅清洗所述耐热容器来完成对在所述烹调过程中从被烹调物M直接喷出的水、油、污染物等的所有污染处理。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="81" wi="52" file="2020516433_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及： 通过在主体壳体的内部具备电发热部件, 一边对鱼、肉类等被烹调物M施加红外线热一边进行烹调, 关于烹调后的清洗简便的电动烤架, 更详细而言, 所述主体壳体与下部主体壳体的上表面垂直地延伸, 它的内部, 包括多个柱主体壳体,所述多个柱主体壳体在垂直方向上设置有电加热装置, 当所述多个柱主体壳体结合时,形成有垂直方向的内部空间, 在所述垂直方向上形成的内部空间中,仅使红外线透过的上表面开放, 通过配置在高度方向上较长的直方筒状或圆筒状的由红外线透过的玻璃等材料构成的耐热容器, 本发明涉及一种烹调后的清洗简便的电烧烤,该电烧烤成为红外线透过所述耐热容器并对其内部直接施加红外线辐射热的构造,在所述耐热容器的内部安装被烹调物M并具有能够利用红外线辐射热直接加热、烹调的烧烤器具,由此,不仅烹调简便,而且在烹调过程中从被烹调物M喷出的水、油、污染物等沿着所述耐热容器的侧壁流下而聚集在容器的下侧,由此,能够利用耐热容器隔断污染电烧烤的内部,另外,能够通过在烹调后仅清洗所述耐热容器来完成在所述烹调过程中对从被烹调物M直接喷出的水、油、污染物等的所有污染处理。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">以往的电烤架在六面体或圆柱的盒内部的上部、下部配置发热加热器,在使被烹调物位于其中央后,在其上部、下部对被烹调物进行加热,在烹调时从被烹调物（鱼、肉类等）流出的水、油、蒸汽、臭味、气体、微细尘埃等会污染烤架内部的壁、底、加热器等部件整体,因此几乎无法清洗,存在臭味持续流出的同时向其外部喷出的蒸汽中的有害气体及微细尘埃污染室内空气等问题。</base:Paragraphs>
+      <base:Paragraphs num="0003">另外,根据韩国授权实用新型公报第20-0319297号,容器由铁板等不透射红外线的容器制作,通过将盖设为玻璃板,并在其上表面、即玻璃板的上侧设置加热器,从而防止水、油、污染物等污染烤架。 但是,根据该结构,污染物向容器的下侧流下而堆积在底部,因此无法在下部设置加热器（这是因为,若在下部设置加热器,则流下的污染物中的油类燃烧,有可能在内部产生大量的烟及火）。 因此,韩国注册实用新型公报第20-0319297号具有如下等许多问题：在烹调的中途继续一边打开盖一边确认被烹调物M,为了对其后表面进行烘烤而必须将被烹调物M翻过来。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">本发明涉及： 本发明是为了解决上述那样的现有技术的问题而完成的,其特征在于, 通过在主体壳体的内部具备电发热部件, 一边对鱼、肉类等被烹调物M施加红外线热一边进行烹调, 在烹调后的清洗简便的电动烤架中, 所述主体壳体与下部主体壳体的上表面垂直地延伸, 它的内部, 包括多个柱主体壳体,所述多个柱主体壳体在垂直方向上设置有电加热装置, 当所述多个柱主体壳体结合时,在垂直方向上形成内部空间, 红外线透过沿所述垂直方向形成的内部空间, 仅上表面开放, 其由在高度方向上较长的直方筒状或圆筒状构成, 通过配置由红外线透过的玻璃等材料构成的耐热容器, 本发明的目的在于提供一种电烤架,其为红外线透过所述耐热容器并对其内部直接施加红外线辐射热的结构,在所述耐热容器的内部安装被烹调物M并具备能够利用红外线辐射热进行加热、烹调的烤架器具,由此,不仅烹调简单,而且在烹调过程中从被烹调物M喷出的水、油、污染物等沿着所述耐热容器的侧壁流下并聚集在容器的下侧,由此,能够利用耐热容器隔断对电烤架的内部进行污染的情况,另外,能够通过在烹调后仅对所述耐热容器进行清洗来完成在所述烹调过程中对从被烹调物M直接喷出的水、油、污染物等的所有污染处理。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0005">为了实现上述目的,本发明提供一种烹饪后清洗简便的电烤架,其特征在于,包括： 主体壳体； 电发热部件,其设置于所述主体壳体的内部, 在将被烹调物M安装于烤架器具之后, 在一边加热一边进行烹调的电烧烤中,其特征在于,所述主体壳体包括在下部主体壳体的上表面垂直地延长且在其内部结合有多个在垂直方向上配置有电发热单元的柱主体壳体的结构,在所述多个柱主体壳体结合时,在垂直方向上形成有内部空间,红外线透过所述在垂直方向上形成的内部空间,上表面开放且在高度方向上较长的直方筒状或圆筒状,配置由红外线透过的玻璃等材料构成的耐热容器,从而成为红外线透过所述耐热容器并向其内部直接施加红外线辐射热的结构,在所述耐热容器的内部具备能够安装所述被烹调物M并进行加热、烹调的烧烤器具。</base:Paragraphs>
+        <base:Paragraphs num="0006">另外,本发明的特征在于,所述多个柱主体壳体的结合完成后的形状为四方筒或形成有圆筒的内部空间的四方筒状。</base:Paragraphs>
+        <base:Paragraphs num="0007">另外,本发明的特征在于,为了防止上述主体壳体的外观的温度上升,在上述柱主体壳体的侧面形成有多个空气孔,在上述下部主体壳体的下部面形成有多个空气孔。</base:Paragraphs>
+        <base:Paragraphs num="0008">并且,本发明的特征在于,形成有向所述耐热容器的侧面突出而能够把持所述耐热容器的手柄,从所述主体壳体的上端部到中间部分形成有至少一个以上的长槽,以便在多个所述柱主体壳体相结合时能够引导并收容所述突出的耐热容器手柄。</base:Paragraphs>
+        <base:Paragraphs num="0009">另外,本发明的特征在于,上述耐热容器的圆周面由耐热玻璃形成,下表面由与上述圆周面的耐热玻璃分离的其他耐热材料形成,从而防止在反复加热时产生裂纹。</base:Paragraphs>
+        <base:Paragraphs num="0010">另外,在本发明中,其特征在于,所述烤架器具构成为包括：能够把持所述烤架器具的烤架手柄、配置于所述烤架手柄的下部且安装所述被烹调物M的烤架、为了牢固地安装所述被烹调物M而紧固所述烤架的一对紧固件、以及固定所述一对紧固件的紧固状态的锁定环。</base:Paragraphs>
+        <base:Paragraphs num="0011">另外,本发明的特征在于,在所述耐热容器的上部还具备盖。</base:Paragraphs>
+        <base:Paragraphs num="0012">另外,在本发明中,其特征在于,所述盖具备过滤器,所述过滤器对包含烹调中产生的臭味的污染气体进行过滤并向外部排出,在所述盖的侧面还具备盖收容孔,所述盖收容孔能够收容所述烤架器具的向外部突出的部分。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0013">本发明提供一种烹饪后清洗简便的电烤架,其特征在于,包括： 通过在主体壳体的内部配置在高度方向上较长的直方筒状或圆筒状的由红外线透过的玻璃等材料构成的耐热容器, 通过形成为使红外线透过所述耐热容器并对其内部直接施加红外线辐射热的结构,在所述耐热容器的内部具有能够安装被烹调物M并进行加热、烹调的烤架器具,从而在烹调过程中从被烹调物M喷出的水、油、污染物等沿着所述耐热容器的侧壁流下并聚集在容器的下侧,由此能够利用耐热容器隔断对电烤架的内部的污染,另外,在所述烹调过程中对从被烹调物M直接喷出的水、油、污染物等的所有污染处理能够通过在烹调后仅清洗所述耐热容器来完成,具有烹调后的清洗简便的效果。</base:Paragraphs>
+        <base:Paragraphs num="0014">并且,本发明在所述主体壳的内部的多个方向上配置多个垂直设置的电发热单元来进行烹调,因此在烹调过程中无需确认对被烹调物M的前表面或后表面的烘烤情况,并且不存在为了烘烤后表面而需要将被烹调物M翻转的不便,因此具有烹调简便的效果。</base:Paragraphs>
+        <base:Paragraphs num="0015">另外,本发明具有如下效果：所述耐热容器形成为在高度方向上较长的直方筒状或圆筒状,以能够垂直地收纳被烹调物M并进行烹调,从而能够垂直地收纳被烹调物M并进行烹调,所述耐热容器的底部所占的面积较小,因此,能够在烧烤鱼、烧烤一片小牛排等特定用途中放置在餐桌上而始终方便地利用。</base:Paragraphs>
+        <base:Paragraphs num="0016">另外,本发明具有如下效果：在主体壳体中,在垂直延伸的柱主体壳体的侧面形成有多个空气孔,并且在下部主体壳体的下部面形成有多个空气孔,从而在烹调过程中能够防止所述主体壳体的外观的温度上升。</base:Paragraphs>
+        <base:Paragraphs num="0017">另外,本发明具有如下效果：在所述耐热容器的侧面形成有突出而能够把持所述耐热容器的至少一个以上的耐热容器手柄,在所述主体壳体的侧面形成有从上端部到中间部分的至少一个以上的长槽,以便能够引导并收容所述突出的耐热容器手柄,从而在烹调过程中能够在把持所述耐热容器的同时容易地收容耐热容器,即使在烹调完成之后耐热容器手柄也不会变热,因此能够立即取出所述耐热容器。</base:Paragraphs>
+        <base:Paragraphs num="0018">此外,在本发明中,耐热容器的圆周表面由耐热玻璃形成,并且耐热容器的下表面由与圆周表面的耐热玻璃分离的另一耐热材料形成,从而防止在反复烹饪过程中加热时产生裂纹。</base:Paragraphs>
+        <base:Paragraphs num="0019">另外,在本发明中,所述烤架器具由能够把持所述烤架器具的烤架手柄、配置于所述烤架手柄的下部且安装所述被烹调物M的一对烤架、为了牢固地安装所述被烹调物M而紧固所述一对烤架的紧固件、以及固定所述紧固件的紧固状态的锁定环等构成,由此具有能够牢固且简便地安装所述被烹调物M的效果。</base:Paragraphs>
+        <base:Paragraphs num="0020">另外,在本发明中,设置于所述耐热容器的上部的盖具备过滤器,所述过滤器过滤包含在烹饪过程中产生的臭味的污染气体并将其排出到外部,并具备盖收容孔,所述盖收容孔能够收容所述烤架器具中向耐热容器的外部突出的部分,因此,所述盖能够完美地密封所述耐热容器,具有能够过滤包含在烹饪过程中产生的臭味的污染气体并将其排出到外部的效果。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0021">
+        <base:FigureReference num="0001">图0001是根据本发明的一种便于烹饪后清洁的电烤架中的主要模块的分解立体图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002的(a)是示出在本发明中搭载有被烹调物（例：鱼）的状态的图,(b)是示出在本发明中搭载有被烹调物（例：鱼）的状态的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是本发明的烹调后的清洗简便的电烤架的整体分解立体图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是用于理解本发明中的电发热单元、反射板及主体外观的配置的立体图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是用于说明本发明中耐热容器被周边的电发热单元加热的状态的图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是用于说明本发明中的加热及空气的流动的图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是本发明中的耐热容器的分解立体图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是本发明中的耐热容器的截面图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是用于说明用单一材料制作耐热容器时可能发生的问题的图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是本发明的烤架器具的分解立体图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011的(a)是本发明的烤架器具的主视图,(b)和(c)是烤架器具的侧视图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012的(a)～(c)是说明在本发明中将被烹调物M安装于烤架器具的过程的图。</base:FigureReference>
+        <base:FigureReference num="0013">图0013是本发明中的盖的分解立体图。</base:FigureReference>
+        <base:FigureReference num="0014">图0014是本发明中的盖的截面图。</base:FigureReference>
+        <base:FigureReference num="0015">图0015的(a)是盖与烤架器具结合的状态的侧视图,(b)是(a)的A-A线剖视图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0022">本发明涉及一种电烧烤,该电烧烤通过在主体壳体的内部具有电发热单元,从而一边对鱼、肉类等被烹调物M施加红外线热一边进行烹调,烹调后的清洗简便,以下,参照附图对本发明的烹调后的清洗简便的电烧烤进行具体说明。</base:Paragraphs>
+      <base:Paragraphs num="0023">以下,参考图1～图6对本发明的烹调后的清洗简便的电烤架进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0024">如图1～图6所示,本发明的烹调后的清洗简便的电烤架在主体壳体10的内部具有电发热单元,通过在形成于所述主体壳体10的内部的垂直较长的形状的空间配置高度方向较长的直方筒状或圆筒状的耐热容器40,从而成为对所述耐热容器40施加热量的构造,在所述耐热容器40的内部具有能够安装所述被烹调物M并进行加热、烹调的烤架器具50。</base:Paragraphs>
+      <base:Paragraphs num="0025">上述主体壳体10由下部主体壳体12和在上述下部主体壳体12的上表面垂直地延伸的多个柱主体壳体11等构成。 在所述下部主体外壳12的一侧设置有用户能够打开/关闭电格栅的开关和能够调节发热温度的操作手柄62等,在其内部设置有电气控制器64和从外部供电的电路（未图示）等。</base:Paragraphs>
+      <base:Paragraphs num="0026">如图3及图4所示,所述柱主体壳体11在垂直方向上形成为较长且形成有边缘的形状,在其内部设置有呈曲面状且能够反射红外线的反射机构30,在所述反射机构30的内部设置有红外线发热加热器21等电发热机构。 即,所述反射单元30将从红外线发热加热器21产生的红外线热向由所述红外线透过的玻璃等材料构成的耐热容器40侧反射,从而利用透过其内部的红外线辐射热直接加热,起到提高热效率的作用。</base:Paragraphs>
+      <base:Paragraphs num="0027">如图1～图6所示,所述柱主体壳体11可以是4个相结合,在其内部形成有能够收容在高度方向上较长的直方筒状或圆筒状的耐热容器40的在垂直方向上形成有内部空间的方筒状,但根据情况,也可以是形成所述多个柱主体壳体11,在它们相结合时,在其内部形成有在垂直方向上形成有内部空间的三角形、五边形、六边形等多边筒状。 以下,参考图1～图6,以结合有4个所述柱主体壳体11的形状为中心进行说明。 结合多个上述柱主体壳体11而形成的内部空间的形状为垂直较长的方筒或圆筒。</base:Paragraphs>
+      <base:Paragraphs num="0028">四个所述柱主体壳体11以连结板16为媒介而组装,成为在高度方向上较长的大致直方筒状,在上端部设置有上部边缘罩15。 关于所述各柱主体壳体11的连结部分,所述连结板16形成为比所述柱主体壳体11的高度小,以形成从所述主体壳体10的上端部到中间部分较长的槽,所述连结板16从所述主体壳体10的下端部设置到中间部分。 长槽从所述上端部至中间部分形成至少一个以上,该长槽可以起到引导并配置所述耐热容器40的手柄的作用。 如上所述,成为能够组装所述多个柱主体壳体11的构造,具有制作容易这样的优点,但也可以将所述多个柱主体壳体11一体地成形。</base:Paragraphs>
+      <base:Paragraphs num="0029">另外,为了防止上述主体壳体10的外观的温度上升,如图6所示,在覆盖反射单元的上述柱主体壳体11的侧面的下部形成有多个下部空气孔11a,在上述柱主体壳体11的侧面的上部形成有上部空气孔11b,在上述下部主体壳体12的下部面形成有多个底空气孔12c。</base:Paragraphs>
+      <base:Paragraphs num="0030">所述电发热单元是作为放射红外线辐射热的电加热器的长的红外线发热加热器21,通过设置于所述主体外壳10的四个方向,从而向所述耐热容器40向四个方向放射红外线。 即,如图5所示,所述红外线发热加热器21在所述主体壳10中沿垂直方向较长地设置于4个方向,通过向所述被烹调物M的4个方向放射红外线辐射热而对所述被烹调物M进行加热、烹调。</base:Paragraphs>
+      <base:Paragraphs num="0031">所述反射机构30设置于所述柱主体壳体11的内部,在四个方向上反射从所述红外线发热加热器21产生的红外线热,以使从所述红外线发热加热器21产生的红外线热向收纳于所述耐热容器40的内部的所述被烹调物M集中反射的角度设置反射板。</base:Paragraphs>
+      <base:Paragraphs num="0032">所述耐热容器40设置于将所述四个柱主体壳体11结合而形成的在高度方向上较长的直方筒状或圆筒状的内部空间,由能够使红外线透过的仅上表面开放的筒状的具有耐热性的玻璃等材料构成,在其内部经由开放的上表面收容安装于所述烤架器具50的被烹调物M。 从所述红外线发热加热器21和作为所述反射单元30的反射板产生、放射的红外线辐射热透过所述耐热容器40,向所述被烹调物M直接传递辐射热,由此对所述被烹调物M进行加热、烹调。 所述耐热容器40呈仅上表面开放的筒状,具有如下优点：在加热、烹调过程中,从被烹调物M喷出的水、油、污染物等沿着所述耐热容器40的侧壁流下并聚集在所述耐热容器40的下侧,由此,能够利用耐热容器40隔断对电烤架的内部的污染,另外,能够通过在烹调后仅对所述耐热容器40进行清洗来完成对在所述烹调过程中从被烹调物M直接喷出的水、油、污染物等的所有污染处理。 另外,可以在所述耐热容器40的侧面形成一个以上的突出的耐热容器手柄（图7及图8示出一个手柄,优选手柄为一个或两个）,以便在烹调过程中把持所述耐热容器40并容易地收容耐热容器40。 在所述耐热容器40的两侧面形成耐热容器手柄的情况下,当所述各柱主体壳体11结合时,所述耐热容器手柄被引导并卡止于从形成于连接部分的上端部到中间部分形成的长槽,从而容易收容所述耐热容器40。 在这种情况下,所述红外线发热加热器21及反射所述红外线的反射机构30也设置于所述长槽的两侧,以不妨碍耐热容器手柄被引导收容于所述长槽。 所述耐热容器手柄可以沿纵向与所述耐热容器40形成为一体,也可以组装设置于所述耐热容器40的侧面。</base:Paragraphs>
+      <base:Paragraphs num="0033">图9是用于说明用单一材料制作耐热容器时可能发生的问题的图。 如图9所示,在利用单一材料制作适用于本发明的电烤架的耐热容器的情况下,在被烹调物M产生的水及油等污染物100、101堆积于底部,由此,耐热容器的底部的温度不会因污染物而上升至100℃以上,或者因耐热容器40的主体的冷却空气的流动而维持得更冷,但上部因红外线发热加热器21而上升至300℃～400℃。 其结果,耐热玻璃如箭头F那样在彼此相反的方向上受到热膨胀应力。 当这种现象重复数十次时,如图9所示,耐热玻璃在某一瞬间因疲劳破坏而在下部产生裂纹,从而发生破损。 在本发明中,通过多个实验查明其原因,作为能够应对该问题的方法,利用另外制作的金属、玻璃、橡胶等固体耐热材料来制作下方部,从而能够防止这种事故。</base:Paragraphs>
+      <base:Paragraphs num="0034">如图7及图8所示,上述耐热容器40的圆周面由耐热玻璃形成,下表面由与上述圆周面的耐热玻璃分离的其他耐热材料形成。 即,上述耐热容器40的上述圆周面由耐热玻璃形成,在下表面使用由与上述耐热玻璃不同的材料形成的下部盖42,并使用由橡胶等材料形成的密封件43来密封并组装上述圆周面的耐热玻璃及下部盖42,从而防止上述耐热容器40被反复加热时产生裂纹。</base:Paragraphs>
+      <base:Paragraphs num="0035">如图10～图12所示,所述烤架器具50由用户能够把持所述烤架器具50的烤架把手53、配置于所述烤架把手53的下部且安装所述被烹调物M的一对烤架51、为了牢固地安装所述被烹调物M而紧固所述一对烤架51的一对紧固件52、以及将所述一对紧固件52的紧固状态固定的锁定环55等构成。</base:Paragraphs>
+      <base:Paragraphs num="0036">所述一对格栅51为相同的形状,由四个边缘弯曲的四边形框、在所述四边形框的内部以一定的水平间隔形成的多个横杆51b、相对于设置有所述横杆51b的面的相反面水平地形成的一个铰链轴51a构成。</base:Paragraphs>
+      <base:Paragraphs num="0037">紧固所述一对格栅51的一对紧固件52分别由形成于下部的与所述铰链轴51a铰链结合的铰链部52a、从所述铰链部52a的两侧向上部延伸的一对紧固杆52b、从所述一对紧固杆52b的两侧上端部水平弯曲延伸的延伸部52c、在所述两侧延伸部52c的中间部向下方突出形成的U字突起状的紧固部52d等构成。</base:Paragraphs>
+      <base:Paragraphs num="0038">固定所述一对紧固件52的紧固状态的锁定环55是转动的构造,在一侧形成有使所述U字突起状的一对紧固部52d的间隔变窄的推压板55a。</base:Paragraphs>
+      <base:Paragraphs num="0039">另外,在所述烤架器具50具备将一对烤架把手53在所述一对紧固杆52b的上部的两侧固定的固定台56,在所述固定台56具备在固定有所述烤架把手53的内部的位置形成有槽的载置部57,以便在所述耐热容器40的上端圆周面载置所述烤架器具50。 此外,烤架装置50包括“U”形连接部54,支架56插入到该连接部54中,并且该连接部54设置在支架56的中心处,该连接部54的下侧是开放的,并且两个侧表面的一部分是开放的,一对U形突出的紧固部52d设置在该连接部54的开放的两个侧表面上。 配置于所述连接部54的两侧面的所述一对U字突起状的紧固部52d随着所述锁定环55的转动而被所述推板55a紧固。</base:Paragraphs>
+      <base:Paragraphs num="0040">以下,参考图11的(a)～(c)对所述烤架器具50安装所述被烹调物M的构造进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0041">图11的(a)是本发明的烤架器具50的主视图,图11的(b)是示出由于锁定环55未被锁定而所述被烹调物M未被安装于所述烤架器具50的状态的侧视图,图11的(c)是示出随着锁定环55的转动而所述被烹调物M被安装于所述烤架50的状态的侧视图（为了便于说明,在附图中未示出被烹调物）。</base:Paragraphs>
+      <base:Paragraphs num="0042">如图11的(b)所示,由于所述锁定环55未被锁定,因此所述被烹调物M未安装于所述烤架器具50的状态是紧固杆52b与烤架51平行的状态、即未按压所述烤架51的状态,此时,所述一对U字突起状的紧固部52d向外侧倾斜地突出。</base:Paragraphs>
+      <base:Paragraphs num="0043">如图11的(c)所示,当锁定环55转动时,所述按压板55a使向所述外侧倾斜突出的一对U字突起状的紧固部52d向内侧移动。 在该情况下,形成于所述一对紧固杆52b的下端部的一对铰链部52a以所述一对格栅51的铰链轴51a为中心转动,所述一对紧固杆52b将所述一对所述格栅51向内侧按压,由此能够牢固地安装被烹调物M。</base:Paragraphs>
+      <base:Paragraphs num="0044">所述紧固件52由金属等制作得较长,如弓那样具有弹簧弹性,能够在一定间隔内与被烹调物的厚度无关地始终牢固地安装被烹调物M。</base:Paragraphs>
+      <base:Paragraphs num="0045">以下,参考图12的(a)～(c)对在本发明中向烤架器具50安装被烹调物M的过程进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0046">在将所述一对格栅51中的一个格栅51抬起后,将所述被烹调物M收纳于另一个格栅51[图12的(a)],一边使所述一个格栅51转动一边与另一个格栅51排列配置,在所述一对格栅51之间夹着所述被烹调物M[图12的(b)]。 接着,当使锁定环55转动而将紧固所述并排配置的一对烤架51的紧固件52的紧固状态固定时（图12的(c)）,能够将被烹调物M牢固地安装于烤架器具50。</base:Paragraphs>
+      <base:Paragraphs num="0047">另外,在本发明中,为了简便地进行烹调,即使不关闭所述盖70也能够进行烹调,还具备盖70,所述盖70安装有过滤包含烹调过程中产生的臭味的污染气体并向外部排出的过滤器,从而密封所述耐热容器40的上部,其结果,能够在烹调过程中维持舒适的环境。</base:Paragraphs>
+      <base:Paragraphs num="0048">如图13～图15所示,所述盖70具有能够密闭耐热容器40的程度的外径部,在所述外径部的内侧形成有向上部突出的小径部,以便用户能够容易地把持所述盖70。</base:Paragraphs>
+      <base:Paragraphs num="0049">在向所述上部突出的小径部的内部设置有过滤器71和能够安装所述过滤器71的塞子72,所述过滤器71对包含在烹调过程中产生的臭味的污染气体进行过滤并向外部排出,所述塞子72能够安装所述过滤器71。 在所述塞子72形成有多个气体通过孔,以便在密封所述耐热容器40时,包含从所述耐热容器40产生的臭味的污染气体能够通过所述过滤器71。 另外,在向所述上部突出的小径部的上部具备气体流出口73,该气体流出口73能够使经由所述过滤器71过滤后的含有臭味的气体流出。</base:Paragraphs>
+      <base:Paragraphs num="0050">所述盖70在外径部的下部两侧端部形成有“倒U”字状的盖收容孔74,以便即使在所述烤架器具50放置于所述耐热容器40的状态下也能够维持密闭状态。 优选的是,在所述盖收纳孔74收纳有形成于所述烤架器具50的载置部57,利用所述盖70将所述耐热容器40密闭。</base:Paragraphs>
+      <base:Paragraphs num="0051">本发明具有如下优点：所述耐热容器40形成为在高度方向上较长的直方筒状或圆筒状,以能够垂直地收纳被烹调物M并进行烹调,从而能够垂直地收纳被烹调物M并进行烹调,所述耐热容器40的底部所占的面积较小,因此,能够在烧烤鱼、烧烤一片小牛排等特定用途中放置在餐桌上而始终方便地利用。</base:Paragraphs>
+      <base:Paragraphs num="0052">以上,参照本发明的优选实施例对本发明进行了说明,但本领域技术人员可以理解,在不脱离所附权利要求书中记载的本发明的思想及领域的范围内,可以对本发明进行多种修改及变更。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0053">本发明涉及一种电烧烤,该电烧烤通过在主体壳体的内部具有电发热单元,从而在一边对鱼、肉类等被烹调物M施加红外线热一边进行烹调之后,清洗简便,能够在电烧烤领域中广泛使用。</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0054">M：被烹调物,IR：红外线辐射热丝,10：主体外壳,11：柱主体外壳,11a：下部空气孔,11b：上部空气孔,12：下部主体外壳,12a：上部罩,12b：下部板,12c：底空气孔,15：上部边缘罩,16：连结板,21：红外线发热加热器,30：反射单元,40：耐热容器,41：耐热容器手柄,42：下部盖,43：衬垫,50：烤架器具,51：烤架,51a：铰链轴,51b：横杆,52：紧固件,52a：铰链部,52b：紧固杆,52c：延长部,52d：紧固部,53：烤架手柄,54：连结部,55：锁定环,55a：按压板,56：固定台,57：载置部,61：电插头,62：操作手柄,64：电气控制器,70：盖</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="108" wi="68" file="2020516433_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="79" wi="34" file="2020516433_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="98" wi="67" file="2020516433_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="87" wi="72" file="2020516433_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="77" wi="69" file="2020516433_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="81" wi="44" file="2020516433_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="104" wi="68" file="2020516433_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="99" wi="38" file="2020516433_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="100" wi="59" file="2020516433_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="104" wi="67" file="2020516433_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="95" wi="70" file="2020516433_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="68" wi="43" file="2020516433_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="68" wi="25" file="2020516433_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="65" wi="16" file="2020516433_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="80" wi="81" file="2020516433_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="25" wi="43" file="2020516433_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="49" wi="83" file="2020516433_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="57" wi="47" file="2020516433_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="43" wi="64" file="2020516433_000021.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="38" wi="70" file="2020516433_000022.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000023" he="47" wi="64" file="2020516433_000023.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>主体壳体； 电发热部件,其设置于所述主体壳体的内部； 将被烹调物(M)安装于烤架, 在一边加热一边进行烹调的电烤架中, 所述主体壳体包括在下部主体壳体的上表面垂直地延伸且在其内部结合有多个在垂直方向上配置有电发热单元的柱主体壳体的结构,在所述多个柱主体壳体结合时形成有垂直方向的内部空间,在所述垂直方向上形成的内部空间配置有供红外线透过、仅上表面开放且在高度方向上较长的直方筒状或圆筒状的供红外线透过的由玻璃等材料构成的耐热容器,从而成为使红外线透过所述耐热容器并直接施加红外线辐射热的结构,在所述耐热容器的内部具备能够安装所述被烹调物并进行加热、烹调的烤架器具。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的烹调后的清洗简便的电烤架,其特征在于,所述多个柱主体壳体的结合完成后的形状为四方筒或形成有圆筒的内部空间的四方筒状。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的烹调后的清洗简便的电烤架,其特征在于,为了防止所述主体壳体的外观的温度上升,在所述柱主体壳体的侧面形成有多个空气孔,在所述下部主体壳体的下部面形成有多个空气孔。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的烹调后的清洗简便的电烤架,其特征在于,在所述耐热容器的上部还具备盖。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1或2所述的烹调后的清洗简便的电烤架,其特征在于,在所述耐热容器形成有向侧面突出而能够把持所述耐热容器的把手,从所述主体壳体的上端部到中间部分形成有至少一个以上的长的槽,以便在所述多个柱主体壳体结合时能够引导并收容所述突出的耐热容器把手。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的烹饪后清洗简便的电烤架,其特征在于,所述耐热容器的圆周面由耐热玻璃构成,下表面由与所述圆周面的耐热玻璃分离的其他耐热材料构成,从而防止反复加热时产生裂纹。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1所述的烹调后的清洗简便的电烤架,其特征在于,所述烤架器具构成为包括：能够把持所述烤架的烤架手柄、配置于所述烤架手柄的下部且安装所述被烹调物(M)的一对烤架、为了牢固地安装所述被烹调物(M)而紧固所述一对烤架的一对紧固件、以及固定所述一对紧固件的紧固状态的锁定环。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求4所述的烹调后的清洗简便的电烤架,其特征在于,所述盖具备过滤器,所述过滤器将烹调中产生的含有臭味的污染气体过滤并向外部排出,在所述盖的侧面还具备盖收容孔,所述盖收容孔能够收容在所述烤架中向外部突出的部分。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000024" file="2020516433_000024.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000025" file="2020516433_000025.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000026" file="2020516433_000026.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000004">
+    <business:ExternalSearchReport id="externalsearchreport000027" file="2020516433_000027.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

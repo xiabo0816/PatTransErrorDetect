@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000203774JP00020161272620AFULJA20160711JP00T.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127262" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127262</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127262</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000203774</base:DocNumber>
+        <base:Date>20151015</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015203774</base:DocNumber>
+        <base:Date>20151015</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000265701</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265701</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>232</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/232       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>30</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/30        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>35</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/35        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01G4/12 352</business:FI>
+      <business:FI type="secondary">H01G4/30 301D</business:FI>
+      <business:FI type="secondary">H01G4/30 301C</business:FI>
+      <business:FI type="secondary">H01G4/30 301B</business:FI>
+      <business:FI type="secondary">H01G4/42 331</business:FI>
+      <business:FClass>
+        <business:FTerm>5E001AB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082AB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082AB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082EE16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082GG10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082PP09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E001</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E082</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">貫通型積層セラミックコンデンサ</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>太陽誘電株式会社</base:Name>
+            <base:RegisteredNumber>000204284</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野６丁目１６番２０号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>財満  知彦</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野６丁目１６番２０号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中安  伸</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野６丁目１６番２０号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>笹木  隆</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野６丁目１６番２０号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>木下  不器男</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野６丁目１６番２０号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>宮原  貴洋</base:Name>
+            <base:RegisteredNumber>100145517</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>11</business:ClaimsCount>
+      <base:TotalPageCount>18</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】回路基板に搭載するときの強度向上が図れる貫通型積層セラミックコンデンサを提供する。【解決手段】貫通型積層セラミックコンデンサ１０-1は、コンデンサ本体１１の長さ方向一端部に設けられた第１外部電極１２と、コンデンサ本体１１の長さ方向他端部に設けられた第２外部電極１３を備える他、コンデンサ本体１１の長さ方向中央部に第１外部電極１２及び第２外部電極１３と非接触下で該コンデンサ本体１１の高さ方向両面の一部と幅方向両面の一部とを連続して覆うように設けられた４角筒状の第３外部電極１４を備えている。【選択図】図２</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="27" wi="68" file="2016127262_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、貫通型積層セラミックコンデンサに関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  前記貫通型積層セラミックコンデンサに関連し、後記特許文献１には、図１に示したような貫通型積層セラミックコンデンサ１００（以下単に貫通型コンデンサ１００と言う）が開示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  この貫通型コンデンサ１００は、長さＬ１１＞幅Ｗ１１＞高さＨ１１の条件を満足する略直方体状を成しており、これら長さＬ１１、幅Ｗ１１及び高さＨ１１よりも僅かに小さな長さ、幅及び高さで規定された略直方体状のコンデンサ本体１０１と、コンデンサ本体１０１の長さ方向一端部に設けられた第１外部電極１０２と、コンデンサ本体１０１の長さ方向他端部に設けられた第２外部電極１０３と、コンデンサ本体１０１の幅方向一端部の略中央に設けられた第３外部電極１０４と、コンデンサ本体１０１の幅方向他端部の略中央に設けられた第４外部電極１０５とを有している。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  また、コンデンサ本体１０１内には、複数の第１内部電極層（図示省略）と複数の第２内部電極層（図示省略）とが誘電体層（図示省略）を介して高さ方向に交互に積層された容量部が設けられている。複数の第１内部電極層の一端部は第１外部電極１０２に接続され、且つ、他端部は第２外部電極１０３に接続されており、複数の第２内部電極層の一端部は第３外部電極１０４に接続され、且つ、他端部は第４外部電極１０５に接続されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  ところで、この種の貫通型積層セラミックコンデンサに対しては依然として小型化及び薄型化が要求されており、とりわけ薄型化に関しては回路基板に搭載するときの強度が懸念されている。以下に図１を用いてこの点について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  図１に示した従前の貫通型コンデンサ１００は、一般に、部品供給場所において高さ方向一面又は他面の中心（図１（Ａ）の＋印を参照）又はその近傍を吸着ノズルによって吸着された後に搬送され、搬送後に回路基板、例えば表面実装を可能とした回路基板（部品実装基板）や、表面実装及び内部実装を可能とした回路基板（部品内蔵基板）等に搭載される。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  しかしながら、図１に示した従前の貫通型コンデンサ１００は前記搭載時において吸着ノズルから直接コンデンサ本体１０１に荷重が加わる構造にあるため、この荷重によってコンデンサ本体１０１に亀裂が生じる懸念がある。この亀裂は、その大小を問わず、コンデンサ本体１０１内への水分浸入を許容するものであるため、浸入した水分によって第１内部電極層と第２内部電極層が腐食して能力低下を生じる蓋然性が高くなると共に、第１内部電極層と第２内部電極層とが短絡して機能障害を生じる蓋然性が高くなる。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0008">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２００８－２９４２９８号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0009">
+  本発明の課題は、回路基板に搭載するときの強度向上が図れる貫通型積層セラミックコンデンサを提供することにある。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0010">
+  前記課題を解決するため、本発明に係る貫通型積層セラミックコンデンサは、長さ、幅及び高さで規定された略直方体状のコンデンサ本体内に、複数の第１内部電極層と複数の第２内部電極層とが誘電体層を介して高さ方向に交互に積層された容量部が設けられた貫通型積層セラミックコンデンサであって、（１）前記コンデンサ本体の長さ方向一端部に該コンデンサ本体の長さ方向一面と高さ方向両面の一部と幅方向両面の一部とを連続して覆うように設けられ、前記複数の第１内部電極層の長さ方向一端部が接続された第１外部電極と、（２）前記コンデンサ本体の長さ方向他端部に該コンデンサ本体の長さ方向他面と高さ方向両面の一部と幅方向両面の一部とを連続して覆うように設けられ、前記複数の第１内部電極層の長さ方向他端部が接続された第２外部電極と、（３）前記コンデンサ本体の長さ方向中央部に前記第１外部電極及び前記第２外部電極と非接触下で該コンデンサ本体の高さ方向両面の一部と幅方向両面の一部とを連続して覆うように設けられ、前記幅方向両面の一部を覆う部分の一方に前記複数の第２電極層の幅方向一端部が接続され、且つ、他方に前記複数の第２電極層の幅方向他端部が接続された４角筒状の第３外部電極と、を備えており、（４）前記貫通型積層セラミックコンデンサを高さ方向からみたときの前記第１外部電極の前記コンデンサ本体の長さに沿う寸法をＥ１とし、前記第２外部電極の前記コンデンサ本体の長さに沿う寸法をＥ２とし、前記第３外部電極の前記コンデンサ本体の長さに沿う寸法をＥ３としたとき、前記寸法Ｅ１と前記寸法Ｅ３はＥ１＜Ｅ３の条件を満足し、且つ、前記寸法Ｅ２と前記寸法Ｅ３はＥ２＜Ｅ３の条件を満足している。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0011">
+  本発明によれば、回路基板に搭載するときの強度向上が図れる貫通型積層セラミックコンデンサを提供することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0012">
+        <base:FigureReference num="0001">図１（Ａ）は従前の貫通型積層セラミックコンデンサの高さ方向一面を示す図、図１（Ｂ）は同幅方向一面を示す図である。</base:FigureReference>
+        <base:FigureReference num="0002">図２（Ａ）は本発明の第１実施形態に係る貫通型積層セラミックコンデンサの高さ方向一面を示す図、図２（Ｂ）は同幅方向一面を示す図である。</base:FigureReference>
+        <base:FigureReference num="0003">図３（Ａ）はコンデンサ本体に内蔵された第１内部電極層の形状を示す図、図３（Ｂ）はコンデンサ本体に内蔵された第２内部電極層の形状を示す図である。</base:FigureReference>
+        <base:FigureReference num="0004">図４は図２（Ａ）のＳ１－Ｓ１線に沿う拡大断面図である。</base:FigureReference>
+        <base:FigureReference num="0005">図５は図２（Ｂ）のＳ２－Ｓ２線に沿う拡大断面図である。</base:FigureReference>
+        <base:FigureReference num="0006">図６は図２（Ｂ）のＳ３－Ｓ３線に沿う拡大断面図である。</base:FigureReference>
+        <base:FigureReference num="0007">図７は図２（Ａ）の拡大図である。</base:FigureReference>
+        <base:FigureReference num="0008">図８（Ａ）は本発明の第２実施形態に係る貫通型積層セラミックコンデンサの高さ方向一面を示す図、図２（Ｂ）は同幅方向一面を示す図である。</base:FigureReference>
+        <base:FigureReference num="0009">図９（Ａ）はコンデンサ本体に内蔵された第１内部電極層の形状を示す図、図９（Ｂ）はコンデンサ本体に内蔵された第２内部電極層の形状を示す図である。</base:FigureReference>
+        <base:FigureReference num="0010">図１０はコンデンサ本体の高さ方向一面を示す図である。</base:FigureReference>
+        <base:FigureReference num="0011">図１１は図８（Ｂ）のＳ４－Ｓ４線に沿う拡大断面図である。</base:FigureReference>
+        <base:FigureReference num="0012">図１２（Ａ）は図９（Ａ）に示した第１内部電極層の形状変形例を示す図、図１２（Ｂ）は図９（Ａ）に示した第１内部電極層の代わりに図１２（Ａ）に示した第１内部電極層を用いたコンデンサ本体の高さ方向一面を示す図１０対応図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0013">
+  《第１実施形態》
+  先ず、図２～図７を用いて、本発明の第１実施形態に係る貫通型積層セラミックコンデンサ１０-1（以下単に貫通型コンデンサ１０-1と言う）の構造及び効果等について説明する。因みに、図４及び図６には後記第１内部電極層１５を５層描き、且つ、後記第２内部電極層１６を５層描いているが、これは図示の都合に依るものであって後記第１内部電極層１５の層数と後記第２内部電極層１６の層数を制限するものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  図２（Ａ）及び図２（Ｂ）に示したように、貫通型コンデンサ１０-1は、長さＬ１＞幅Ｗ１＞高さＨ１の条件を満足する略直方体状を成しており、これら長さＬ１、幅Ｗ１及び高さＨ１よりも僅かに小さな長さ、幅及び高さで規定された略直方体状のコンデンサ本体１１と、コンデンサ本体１１の長さ方向一端部（図２（Ａ）及び図２（Ｂ）の左端部）に設けられた第１外部電極１２と、コンデンサ本体１１の長さ方向他端部（図２（Ａ）及び図２（Ｂ）の右端部）に設けられた第２外部電極１３と、コンデンサ本体１１の長さ方向中央部（図２（Ａ）及び図２（Ｂ）の左右中央部）に第１外部電極１２及び第２外部電極１３と非接触下で設けられた４角筒状の第３外部電極１４とを備えている。また、コンデンサ本体１１の高さ方向両面及び幅方向両面のうち、第１外部電極１２と第３外部電極１４の間の部分１１ａと、第２外部電極１３と第３外部電極１４の間の部分１１ｂは、それぞれ露出している（以下露出部分１１ａ及び露出部分１１ｂと言う）。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  図４に示したように、コンデンサ本体１１は、誘電体製の第１保護部ＰＰ１と、複数の第１内部電極層１５と複数の第２内部電極層１６とが誘電体層１７を介して高さ方向に交互に積層された容量部ＣＰと、誘電体製の第２保護部ＰＰ２とが、同順序で高さ方向に層状に並ぶように有している。各第１内部電極層１５は、図３（Ａ）に示したような略矩形状を成していて、長さ方向一端部（図３（Ａ）の左端部）と長さ方向他端部（図３（Ａ）の右端部）のそれぞれに、長さ方向に延びる幅狭の引出部１５ａを一体に有している。一方、各第２内部電極層１６は、図３（Ｂ）に示したような略矩形状を成していて、幅方向一端部（図３（Ｂ）の下端部）と幅方向他端部（図３（Ｂ）の上端部）のそれぞれに、幅方向に延びる幅狭の引出部１６ａを一体に有している。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  図４～図６から分かるように、各第１内部電極層１５の長さ方向一端部、具体的には図３（Ａ）の左側引出部１５ａの左端縁は第１外部電極１２の後記部分１２ａに電気的に接続され、各第１内部電極層の長さ方向他端部、具体的には図３（Ａ）の右側引出部１５ａの右端縁は第２外部電極１３の後記部分１３ａに電気的に接続されている。一方、各第２内部電極層１６の幅方向一端部、具体的には図３（Ｂ）の下側引出部１６ａの下端縁は第３外部電極１４の後記部分１４ｃに電気的に接続され、各第２内部電極層１６の幅方向他端部、具体的には図３（Ｂ）の上側引出部１６ａの上端縁は第３外部電極１４の後記部分１４ｄに電気的に接続されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  尚、第１保護部ＰＰ１と各誘電体層１７と第２保護部ＰＰ２は、組成が略同じで誘電率も略同じ誘電体セラミックスから成り、各誘電体層１７の厚さは略同じである。この誘電体セラミックスには、好ましくはチタン酸バリウム、チタン酸ストロンチウム、チタン酸カルシウム、チタン酸マグネシウム、ジルコン酸カルシウム、チタン酸ジルコン酸カルシウム、ジルコン酸バリウム、酸化チタン等を主成分とした誘電体セラミックス、より好ましくはε＞１０００又はクラス２（高誘電率系）の誘電体セラミックスを使用できる。ここでの「組成が略同じで誘電率も略同じ誘電体セラミックス」は、組成と誘電率が全く同じ場合の他、焼結度合等の関係から組成と誘電率の少なくとも一方が許容範囲内で若干異なる場合をその意味として含み、「厚さは略同じ」は厚さが全く同じ場合の他、積層時の圧縮度合等の関係から厚さが許容範囲内や製造公差内で若干異なる場合をその意味として含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  また、各第１内部電極層１５と各第２内部電極層１６は、組成が略同じ良導体から成り、各第１内部電極層１５と各第２内部電極層１６の厚さは略同じである。この良導体には、好ましくはニッケル、銅、パラジウム、白金、銀、金、これらの合金等を主成分した良導体を使用できる。ここでの「組成が略同じ良導体」は組成が全く同じ場合の他、焼結度合等の関係から組成が許容範囲内で若干異なる場合をその意味として含み、「厚さは略同じ」は厚さが全く同じ場合の他、積層時の圧縮度合等の関係から厚さが許容範囲内や製造公差内で若干異なる場合をその意味として含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  図４～図６に示したように、第１外部電極１２は、コンデンサ本体１１の長さ方向一面（図４及び図５の左面）を覆う部分１２ａと、コンデンサ本体１１の高さ方向一面（図４の上面）の一部を覆う部分１２ｂと、コンデンサ本体１１の高さ方向他面（図４の下面）の一部を覆う部分１２ｃと、コンデンサ本体１１の幅方向一面（図５の下面）の一部を覆う部分１２ｄと、コンデンサ本体１１の幅方向他面（図５の上面）の一部を覆う部分１２ｅとを連続して有している。また、第１外部電極１２は、コンデンサ本体１１の長さ方向一面（図４及び図５の左面）の稜線（４本の稜線を指す）に近い部分１２ｆの厚さが、部分１２ｂ～１２ｅの厚さよりも厚くなっている（以下厚肉部分１２ｆと言う）。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  部分１２ｂ～１２ｅのコンデンサ本体１１の長さに沿う寸法は、製造公差を含まない設計上の基準寸法において同じである。また、部分１２ｂ～１２ｅの厚さは、製造公差を含まない設計上の基準寸法において同じである。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  図４～図６に示したように、第２外部電極１３は、コンデンサ本体１１の長さ方向他面（図４及び図５の右面）を覆う部分１３ａと、コンデンサ本体１１の高さ方向一面（図４の上面）の一部を覆う部分１３ｂと、コンデンサ本体１１の高さ方向他面（図４の下面）の一部を覆う部分１３ｃと、コンデンサ本体１１の幅方向一面（図５の下面）の一部を覆う部分１３ｄと、コンデンサ本体１１の幅方向他面（図５の上面）の一部を覆う部分１３ｅとを連続して有している。また、第２外部電極１３は、コンデンサ本体１１の長さ方向他面（図４及び図５の右面）の稜線（４本の稜線を指す）に近い部分１３ｆの厚さが、部分１３ｂ～１３ｅの厚さよりも厚くなっている（以下厚肉部分１３ｆと言う）。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  部分１３ｂ～１３ｅのコンデンサ本体１１の長さに沿う寸法は、製造公差を含まない設計上の基準寸法において同じである。また、部分１３ｂ～１３ｅの厚さは、製造公差を含まない設計上の基準寸法において同じである。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  図４～図６に示したように、第３外部電極１４は、コンデンサ本体１１の高さ方向一面（図４及び図６の上面）の一部を覆う部分１４ａと、コンデンサ本体１１の高さ方向他面（図４及び図６の下面）の一部を覆う部分１４ｂと、コンデンサ本体１１の幅方向一面（図５の下面、図６の左面）の一部を覆う部分１４ｃと、コンデンサ本体１１の幅方向他面（図５の上面、図６の右面）の一部を覆う部分１４ｄとを連続して有している。また、第３外部電極１４は、コンデンサ本体１１の高さ方向一面（図４及び図６の上面）の稜線（２本の稜線を指す）に近い部分１４ｅの厚さと、コンデンサ本体１１の高さ方向他面（図４及び図６の下面）の稜線（２本の稜線を指す）に近い部分１４ｅの厚さが、部分１４ａ～１４ｄの厚さよりも厚くなっている（以下厚肉部分１４ｅと言う）。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  部分１４ａ～１４ｄのコンデンサ本体１１の長さに沿う寸法は、製造公差を含まない設計上の基準寸法において同じである。また、部分１４ａ～１４ｄの厚さは、製造公差を含まない設計上の基準寸法において同じである。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  尚、第１外部電極１２と第２外部電極１３と第３外部電極１４は、コンデンサ本体１１の外面に密着した下地膜と、この下地膜の外面に密着した表面膜との２層構造、或いは、下地膜と表面膜との間に少なくとも１つの中間膜を有する多層構造を有している。下地膜は例えば焼き付け膜から成り、この焼き付け膜には、好ましくはニッケル、銅、パラジウム、白金、銀、金、これらの合金等を主成分した良導体を使用できる。表面膜は例えばメッキ膜から成り、このメッキ膜には、好ましくは銅、スズ、パラジウム、金、亜鉛、これらの合金等を主成分とした良導体を使用できる。中間膜は例えばメッキ膜から成り、このメッキ膜には、好ましくは白金、パラジウム、金、銅、ニッケル、これらの合金等を主成分とした良導体を使用できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  前述の貫通型コンデンサ１０-1は、図２（Ａ）に示したように、貫通型コンデンサ１０-1を高さ方向からみたときの第１外部電極１２のコンデンサ本体１１の長さに沿う寸法をＥ１とし、第２外部電極１３のコンデンサ本体１１の長さに沿う寸法をＥ２とし、第３外部電極１４のコンデンサ本体１１の長さに沿う寸法をＥ３としたとき、寸法Ｅ１と寸法Ｅ３はＥ１＜Ｅ３の条件を満足し、且つ、寸法Ｅ２と寸法Ｅ３はＥ２＜Ｅ３の条件を満足している。因みに、寸法Ｅ１と寸法Ｅ２は、製造公差を含まない設計上の基準寸法において同じであっても良いし、僅かに異なっていても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  前掲のＥ１＜Ｅ３の条件とＥ２＜Ｅ３の条件は、「搭載時の強度向上」に有効であるため、以下にその有効性（効果）について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  前述の貫通型コンデンサ１０-1は、部品供給場所において高さ方向一面又は他面の中心（図２（Ａ）の＋印を参照）又はその近傍を吸着ノズルによって吸着された後に搬送され、搬送後に回路基板、例えば表面実装を可能とした回路基板（部品実装基板）や、表面実装及び内部実装を可能とした回路基板（部品内蔵基板）等に搭載される。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  図１に示した従前の貫通型コンデンサ１００は、前記搭載時において吸着ノズルから直接コンデンサ本体１０１に荷重が加わる構造にあるため、この荷重によってコンデンサ本体１０１に亀裂が生じる懸念がある。これに対し、前述の貫通型コンデンサ１０-1は、コンデンサ本体１１の長さ方向中央部に４角筒状の第３外部電極１４が存在し、しかも、前掲のＥ１＜Ｅ３の条件とＥ２＜Ｅ３の条件を満足しているため、前記搭載時における吸着ノズルからの荷重を第３外部電極１４で受けることができ、しかも、この荷重を４角筒状の第３外部電極１４に分散して緩和することができ、これにより、前記搭載時にコンデンサ本体１１に亀裂が生じることを防止して、搭載時の強度向上を図ることができる。第３外部電極１４の寸法Ｅ３は可能な限り大きく設計することが望ましく、このようにすれば前記緩和作用をより確実に得られるし、第３外部電極１４に対する吸着ノズルの接触位置がずれた場合でも前記同様の恩恵が得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  また、前述の貫通型コンデンサ１０-1は、図７に示したように、貫通型コンデンサ１０-1を高さ方向から見たときの平面輪郭の総面積をＴＡＲとし、第１外部電極１２の平面輪郭の面積をＡＲ１とし、第２外部電極１３の平面輪郭の面積をＡＲ２とし、第３外部電極１４の平面輪郭の面積をＡＲ３としたとき、総面積ＴＡＲと面積ＡＲ１と面積ＡＲ２と面積ＡＲ３は０．６≦（ＡＲ１＋ＡＲ２＋ＡＲ３）／ＴＡＲ≦０．９の条件を満足している。因みに、面積ＡＲ１と面積ＡＲ２は、製造公差を含まない設計上の基準寸法において同じであっても良いし、僅かに異なっていても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  前掲の０．６≦（ＡＲ１＋ＡＲ２＋ＡＲ３）／ＴＡＲ≦０．９の条件は、「接続時の信頼性向上」に有効であるため、以下にその有効性（効果）について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  前述の貫通型コンデンサ１０-1は、回路基板に搭載された後に各外部電極１２～１４が導体パッド等に電気的に接続される。具体的には、表面実装を可能とした回路基板（部品実装基板）にあっては、各外部電極１２～１４がハンダを用いて導体パッドに電気的に接続され、また、表面実装及び内部実装を可能とした回路基板（部品内蔵基板）にあっては、各外部電極１２～１４がハンダを用いて導体パッドに電気的に接続される他、各外部電極１２～１４に導体ビアが電気的に接続される。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  図１に示した従前の貫通型コンデンサ１００は、前述の貫通型コンデンサ１０-1のような第３外部電極１４を有しておらず、しかも、貫通型コンデンサ１００を高さ方向から見たときの平面輪郭の面積に対する第１外部電極１０２～第４外部電極１０５の平面輪郭の面積和の占有割合が５０％前後であるため、回路基板への搭載位置が僅かにずれるだけで導体パッドや導体ビアとの電気的接続の信頼性が低下する懸念がある。これに対し、前述の貫通型コンデンサ１０-1は、コンデンサ本体１１の長さ方向中央部に４角筒状の第３外部電極１４が存在し、しかも、貫通型コンデンサ１０-1を高さ方向からみたときの平面輪郭の面積に対する第１外部電極１２～第３外部電極１４の平面輪郭の面積和の占有割合が６０％以上であって前掲の０．６≦（ＡＲ１＋ＡＲ２＋ＡＲ３）／ＴＡＲ≦０．９の条件を満足しているため、回路基板への搭載位置が僅かにずれても所期の電気的接続を的確に行って、接続時の信頼性向上を図ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  尚、前掲の０．６≦（ＡＲ１＋ＡＲ２＋ＡＲ３）／ＴＡＲ≦０．９の条件における０．６は、前掲のＥ１＜Ｅ３の条件とＥ２＜Ｅ３の条件を満足して前記「搭載時の強度向上」が図れることを考慮した下限値である。また、同条件における０．９は、各外部電極１２～１４と導体パッド又は導体ビアとを電気的に接続するときの、第１外部電極１２と第３外部電極１４との短絡、並びに、第２外部電極１３と第３外部電極１４との短絡を回避することを考慮した上限値である。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  さらに、前述の貫通型コンデンサ１０-1は、第１外部電極１２の表面粗さと第２外部電極１３の表面粗さと第３外部電極１４の表面粗さが、コンデンサ本体１１の露出部分１１ａ及び１１ｂの表面粗さよりも粗くなっている。因みに、第１外部電極１２の表面粗さと第２外部電極１３の表面粗さは、製造公差を含まない設計上の基準粗さにおいて同じであっても良いし、僅かに異なっていても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  前掲の粗さ関係は、「封止樹脂の剥離防止」に有効であるため、以下にその有効性（効果）について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  前述の貫通型コンデンサ１０-1は、回路基板の導体パッド等に電気的に接続された後に合成樹脂で封止されることがある。特に、表面実装及び内部実装を可能とした回路基板（部品内蔵基板）にあっては、内部実装の貫通型コンデンサ１０-1の殆どは合成樹脂で封止されて気密性が確保される。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  図１に示した従前の貫通型コンデンサ１００は、前述の貫通型コンデンサ１０-1のような粗さ関係を有していないため、接続後の貫通型コンデンサ１００を合成樹脂で封止すると、コンデンサ本体１０１に対する封止樹脂の密着力よりも各外部電極１０２～１０５に対する封止樹脂の密着力が弱いが故に、各外部電極１０２～１０５から封止樹脂が剥離して腐食等の発生原因となる懸念がある。これに対し、前述の貫通型コンデンサ１０-1は、各外部電極１２～１４の表面粗さがコンデンサ本体１１の露出部分１１ａ及び１１ｂの表面粗さよりも粗いため、各外部電極１２～１４に対する封止樹脂の密着力を高めて、封止樹脂の剥離防止を図ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  さらに、前述の貫通型コンデンサ１０-1は、第１外部電極１２におけるコンデンサ本体１１の長さ方向一面の稜線に近い部分（厚肉部分１２ｆ）の厚さが部分１２ｂ～１２ｄの厚さよりも厚く、第２外部電極１３におけるコンデンサ本体１１の長さ方向他面の稜線に近い部分の厚さ（厚肉部分１３ｆ）が部分１３ｂ～１３ｄの厚さよりも厚く、第３外部電極１４におけるコンデンサ本体１１の高さ方向一面の稜線に近い部分（厚肉部分１４ｅ）の厚さとコンデンサ本体１１の高さ方向他面の稜線に近い部分（厚肉部分１４ｅ）の厚さが部分１４ａ～１４ｄの厚さよりも厚くなっている。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  前掲の厚さ関係は、「接続不良の防止」に有効であるため、以下にその有効性（効果）について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  前述の貫通型コンデンサ１０-1は、部品収納凹部を有するテープ状梱包材に包装されて使用に供されることがある。テープ状梱包材に包装された貫通型コンデンサ１０-1は、カバーテープをテープ本体から剥離した後、吸着ノズルによって部品収納凹部から取り出され、先に述べたような回路基板への搭載が行われる。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  図１に示した従前の貫通型コンデンサ１００は、前述の貫通型コンデンサ１０-1のような厚さ関係（厚肉部分１２ｆ、１３ｆ及び１４ｅ）を有していないため、テープ状梱包材に包装すると、各外部電極１０２～１０５の表面、特に電気的接続に利用される高さ方向両側の表面がテープ状梱包材の部品収納凹部の底面やカバーテープの凹部閉塞面に接触して各々の表面に摩擦による変質や汚れ等が生じ、これらが原因となって各外部電極１０２～１０５の電気的な接続に不良を生じる懸念がある。これに対し、前述の貫通型コンデンサ１０-1は、各外部電極１２～１４におけるコンデンサ本体１１の稜線に近い部分に厚肉部分１２ｆ、１３ｆ及び１４ｅが設けられているため、テープ状梱包材に包装しても、各外部電極１２～１４の表面、特に電気的接続に利用される高さ方向両側の表面（部分１２ｂ、１２ｃ、１３ｂ、１３ｃ、１４ａ及び１４ｂの表面）がテープ状梱包材の部品収納凹部の底面やカバーテープの凹部閉塞面に接触することを抑制して、各々の表面に摩擦による変質や汚れ等を生じることを防止することができ、これにより、各外部電極１２～１４と導体パッド又は導体ビアとを電気的に接続するときの接続不良の防止を図ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  次に、前述の有効性（効果）を確認するために用意した、
+・図２～図７に示した貫通型コンデンサ１０-1に対応した評価用サンプル１
+・図１に示した従前の貫通型コンデンサ１００に対応した評価用サンプル２
+の仕様について各図に記した符号を適宜用いて説明する。因みに、後記寸法値は何れも製造公差を含まない設計上の基準寸法である。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  評価用サンプル１の仕様は以下のとおりである。
+・全体の長さＬが１０００μｍ、幅Ｗが６００μｍ、高さＨが２２０μｍ
+・コンデンサ本体１１の長さが９６０μｍ、幅が５６０μｍ、高さが１８０μｍ
+・コンデンサ本体１１の第１保護部ＰＰ１の厚さと第２保護部ＰＰ２の厚さが３０μｍ、容量部ＣＰの厚さが１２０μｍ
+・容量部ＣＰに含まれる第１内部電極層１５の厚さと第２内部電極層１６の厚さが０．７μｍ、誘電体層１７の厚さが０．８μｍ、第１内部電極層１５の層数が４０層、第２内部電極層１６の層数が４０層
+・第１保護部ＰＰ１と各誘電体層１７と第２保護部ＰＰ２がチタン酸バリウムを主成分とした誘電体セラミックス、各第１内部電極層１５と各第２内部電極層１６がニッケルを主成分とした良導体
+・第１外部電極１２の部分１２ｂ～１２ｅの厚さと第２外部電極１３の部分１３ｂ～１３ｅの厚さと第３外部電極１４の部分１４ａ～１４ｄの厚さが１５μｍ、第１外部電極１２の部分１２ａの厚さと第２外部電極１３の部分１３ａの厚さが２０μｍ、各外部電極１２～１４の厚肉部分１２ｆ、１３ｆ及び１４ｅの厚さが２０μｍ
+・第１外部電極１２と第２外部電極１３と第３外部電極１４がニッケルを主成分とした下地膜と銅を主成分とした表面膜の２層構造
+・第１外部電極１２の寸法Ｅ１と第２外部電極１３の寸法Ｅ２が２００μｍ、第３外部電極１４の寸法Ｅ３が３５０μｍ
+・第１外部電極１２の表面粗さＲａと第２外部電極１３の表面粗さＲａと第３外部電極１４の表面粗さＲａが０．３１μｍ以上、コンデンサ本体１１の露出部分１１ａ及び１１ｂの表面粗さＲａが０．０８μｍ以下
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  ここで、評価用サンプル１の製法を簡単に紹介する。製造に際しては、先ず、チタン酸バリウム粉末とエタノール（溶剤）とポリビニルブチラール（バインダ）と分散剤等の添加剤等とを含むセラミックスラリーを用意すると共に、ニッケル粉末とターピネオール（溶剤）とエチルセルロース（バインダ）と分散剤等の添加剤とを含む金属ペーストを用意する。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  続いて、ダイコータやグラビアコータ等の塗工装置と乾燥装置とを用いて、キャリアフィルムの表面にセラミックスラリーを塗工し乾燥して、第１グリーンシートを作製する。また、スクリーン印刷機やグラビア印刷機等の印刷装置と乾燥装置とを用いて、第１グリーンシートの表面に金属ペーストをマトリクス状又は千鳥状に印刷し乾燥して、第１内部電極層１５用パターン群が形成された第２グリーンシートを作製すると共に、第１グリーンシートの表面に金属ペーストをマトリクス状又は千鳥状に印刷し乾燥して、第２内部電極層１６用パターン群が形成された第３グリーンシートを作製する。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  続いて、打ち抜き刃及びヒータを有する可動式吸着ヘッド等の積層装置を用いて、第１グリーンシートから打ち抜いた単位シートを所定枚数に達するまで積み重ねて熱圧着して第２保護部ＰＰ２に対応した部位を作製する。続いて、前記同様の積層装置を用いて、第３グリーンシートから打ち抜いた単位シート（第２内部電極層１６用パターン群を含む）の上に第２グリーンシートから打ち抜いた単位シート（第１内部電極層１５用パターン群を含む）を積み重ねて熱圧着する作業を繰り返して容量部ＣＰに対応した部位を作製する。続いて、前記同様の積層装置を用いて、第１グリーンシートから打ち抜いた単位シートを所定枚数に達するまで積み重ねて熱圧着して第１保護部ＰＰ１に対応した部位を作製する。続いて、熱間静水圧プレス機や機械式又は油圧式プレス機等の本圧着装置を用いて、前記各部位を積み重ねたものを本熱圧着して、未焼成積層シートを作製する。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  続いて、ブレードダイシング機やレーザーダイシング機等の切断装置を用いて、未焼成積層シートを格子状に切断して、コンデンサ本体１１に対応した未焼成チップを作製する。続いて、トンネル型焼成炉や箱型焼成炉等の焼成装置を用いて、多数の未焼成チップを還元性雰囲気下、或いは、低酸素分圧雰囲気下で、チタン酸バリウム及びニッケルに応じた温度プロファイルにて焼成（脱バインダ処理と焼成処理を含む）を行って、コンデンサ本体１１を作製する。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  続いて、ローラ塗布機やディップ塗布機等の塗布装置と乾燥装置とを用いて、コンデンサ本体１１の長さ方向両端部に金属ペースト（前記の金属ペーストを流用）を塗布し乾燥して、前記同様の雰囲気下で焼き付け処理を行って下地膜を形成した後、下地膜を覆う表面膜を電解メッキ等のメッキ処理で形成して、第１外部電極１２及び第２外部電極１３を作製する。また、前記同様の塗布装置と乾燥装置とを用いて、コンデンサ本体１１の長さ方向中央部分に金属ペースト（前記の金属ペーストを流用）を塗布し乾燥して、前記同様の雰囲気下で焼き付け処理を行って下地膜を形成した後、下地膜を覆う表面膜を電解メッキ等のメッキ処理で形成して、第３外部電極１４を作製する。続いて、第１外部電極１２の表面と第２外部電極１３の表面と第３外部電極１４の表面に化学エッチング処理を施して各々の表面を荒らす。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  一方、評価用サンプル２の仕様は、以下の点においてのみ、評価用サンプル１の仕様と異なる。因みに、評価用サンプル２の製法は、最後の化学エッチング処理を除き、評価用サンプル１の製法と同様である。
+・第１外部電極１０２の厚さと第２外部電極１０３の厚さと第３外部電極１０４の厚さと第４外部電極１０５の厚さが２０μｍ
+・第３外部電極１０４の寸法Ｅ１３と第４外部電極１０５の寸法Ｅ１４が３５０μｍ、第３外部電極１０４の寸法Ｅ１５と第４外部電極１０５の寸法Ｅ１６が１５０μｍ（寸法Ｅ１３～Ｅ１６は図１（Ａ）を参照）
+・第１外部電極１０２の表面粗さＲａと第２外部電極１０３の表面粗さＲａと第３外部電極１０４の表面粗さＲａと第４外部電極１０５の表面粗さＲａが０．０６μｍ以下、コンデンサ本体１０１の露出部分の表面粗さＲａが０．０８μｍ以下
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  次に、前述の有効性（効果）を、前記評価用サンプル１及び２を用いて確認した結果等について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  評価用サンプル１は、第１外部電極１２の寸法Ｅ１と第２外部電極１３の寸法Ｅ２が何れも２００μｍで、第３外部電極１４の寸法Ｅ３が３５０μｍであることから、Ｅ１＜Ｅ３の条件とＥ２＜Ｅ３の条件を満足している。一方、評価用サンプル２は、評価用サンプル１のような４角筒状の第３外部電極１４を有しないため、前記両条件を満足しない。搭載時の強度向上に係り、計５個の評価用サンプル１の抗折強度と計５個の評価用サンプル２の抗折強度を測定したところ、評価用サンプル１の抗折強度は１８０ｇｆ以上、評価用サンプル２の抗折強度は１１０ｇｆ以下であった。このことから、図２～図７に示した貫通型コンデンサ１０-1に対応した評価用サンプル１は、図１に示した従前の貫通型コンデンサ１００に対応した評価用サンプル２に比べて、前記「搭載時の強度向上」に有効であると言える。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  また、評価用サンプル１は、評価用サンプル１を高さ方向から見たときの（第１外部電極１２の平面輪郭の面積ＡＲ１＋第２外部電極１３の平面輪郭の面積ＡＲ２＋第３外部電極１４の平面輪郭の面積ＡＲ３）／評価用サンプル１の平面輪郭の総面積ＴＡＲ）の算出値（計５個の平均値）が０．７７であることから、０．６≦（ＡＲ１＋ＡＲ２＋ＡＲ３）／ＴＡＲ≦０．９の条件を満足している。一方、評価用サンプル２は、評価用サンプル２を高さ方向から見たときの（第１外部電極１０２の平面輪郭の面積＋第２外部電極１０３の平面輪郭の面積＋第３外部電極１０４の平面輪郭の面積＋第４外部電極１０５の平面輪郭の面積）／評価用サンプル２の平面輪郭の総面積）の算出値（計５個の平均値）が０．５０であることから、前記条件を満足していない。このことから、図２～図７に示した貫通型コンデンサ１０-1に対応した評価用サンプル１は、図１に示した従前の貫通型コンデンサ１００に対応する評価用サンプル２に比べて、前記「接続時の信頼性向上」に有効であると言える。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  さらに、評価用サンプル１は、第１外部電極１２の表面粗さＲａと第２外部電極１３の表面粗さＲａと第３外部電極１４の表面粗さＲａが０．３１μｍ以上、コンデンサ本体１１の露出部分１１ａ及び１１ｂの表面粗さＲａが０．０８μｍ以下であるから、第１外部電極１２と第２外部電極１３と第３外部電極１４の各々の表面粗さがコンデンサ本体１１の露出部分の表面粗さよりも粗いといった粗さ関係を満足している。一方、評価用サンプル２は、第１外部電極１０２の表面粗さＲａと第２外部電極１０３の表面粗さＲａと第３外部電極１０４の表面粗さＲａと第４外部電極１０５の表面粗さＲａが０．０６μｍ以下、コンデンサ本体１０１の露出部分の表面粗さＲａが０．０８μｍ以下であるから、前記粗さ関係を満足していない。このことから、図２～図７に示した貫通型コンデンサ１０-1に対応した評価用サンプル１は、図１に示した従前の貫通型コンデンサ１００に対応した評価用サンプル２に比べて、前記「封止樹脂の剥離防止」に有効であると言える。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  さらに、評価用サンプル１は、第１外部電極１２の部分１２ｂ～１２ｅの厚さと第２外部電極１３の部分１３ｂ～１３ｅの厚さと第３外部電極１４の部分１４ａ～１４ｄの厚さが１５μｍで、各外部電極１２～１４の厚肉部分１２ｆ、１３ｆ及び１４ｅの厚さが２０μｍであり、両者の間には５μｍのギャップがある。つまり、評価用サンプル１を部品収納凹部を有するテープ状梱包材に包装しても、各外部電極１０２～１０５の表面、特に電気的接続に利用される高さ方向両側の表面がテープ状梱包材の部品収納凹部の底面やカバーテープの凹部閉塞面に接触し難い。一方、評価用サンプル２は、評価用サンプル１のようなギャップが存在しない。そのため、評価用サンプル２を部品収納凹部を有するテープ状梱包材に包装すると、各外部電極１０２～１０５の表面、特にハンダ接続やビア接続に利用される高さ方向両側面の表面がテープ状梱包材の部品収納凹部の内面やカバーテープの凹部閉塞面に接触して、各々の表面に摩擦による変質や汚れ等を生じ易い。このことから、図２～図７に示した貫通型コンデンサ１０-1に対応した評価用サンプル１は、図１に示した従前の貫通型コンデンサ１００に対応した評価用サンプル２に比べて、前記「接続不良の防止」に有益であると言える。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  〈第１実施形態の変形例〉
+  （１）前述の貫通型コンデンサ１０-1（評価用サンプル１を含む）として、第１外部電極１２の高さ方向両面部分の最大厚さ（厚肉部分１２ｆの厚さ）と、第２外部電極１３の高さ方向両面部分の最大厚さ（厚肉部分１３ｆの厚さ）と、第３外部電極１４の高さ方向両面部分の最大厚さ（厚肉部分１４ｅの厚さ）が略同じものを示したが、第１外部電極１２の高さ方向両面部分の最大厚さ並びに第２外部電極１３の高さ方向両面部分の最大厚さよりも第３外部電極１４の高さ方向両面部分の最大厚さを薄くすれば、貫通型コンデンサ１０-1を回路基板に搭載した後の「安定性の向上」に有効である。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  つまり、前述の貫通型コンデンサ１０-1にあっては、第３外部電極１４の高さ方向両面部分の最大厚さが、第１外部電極１２の高さ方向両面部分の最大厚さ並びに第２外部電極１３の高さ方向両面部分の最大厚さよりも厚くなると、回路基板に搭載された貫通型コンデンサ１０-1に傾きを生じたり、第１外部電極１２又は第２外部電極１３に浮き上がりを生じたりして、その後の電気的接続に支障を生じる懸念がある。けれども、第１外部電極１２の高さ方向両面部分の最大厚さをＴ１ｍａｘとし、第２外部電極１３の高さ方向両面部分の最大厚さをＴ２ｍａｘとし、第３外部電極１４の高さ方向両面部分の最大厚さをＴ３ｍａｘとしたときに、最大厚さＴ１ｍａｘと最大厚さＴ３ｍａｘがＴ１ｍａｘ＞Ｔ３ｍａｘの条件を満足し、且つ、最大厚さＴ２ｍａｘと最大厚さＴ３ｍａｘがＴ２ｍａｘ＞Ｔ３ｍａｘの条件を満足するようにすれば、前記の傾きや浮き上がりを防止して、前記「安定性の向上」を図ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  （２）前述の貫通型コンデンサ１０-1（評価用サンプル１を含む）として、コンデンサ本体１１の露出部分１１ａ及び１１ｂに特段の間隔制限を設けていないものを示したが、これら露出部分１１ａ及び１１ｂの間隔を第３外部電極１４の高さ方向両面部分の平均厚さに基づいて定めれば、イオンマイグレーションを原因とした「短絡の防止」に有効である。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  つまり、前述の貫通型コンデンサ１０-1にあっては、第３外部電極１４は４角筒状を成していて高さ方向両面部分の面積が広いため、この高さ方向両面部分の平均厚さが厚くなると、濃度勾配を原因とし、金属イオンが第３外部電極１４からセラミック本体１１を介して第１外部電極１２及び第２外部電極１３に移動する現象（イオンマイグレーション）が生じ、第３外部電極１４と第１外部電極１２及び第２外部電極１３に短絡が生じる懸念がある。けれども、第３外部電極１４の高さ方向両面部分の平均厚さをＴ３ａｖｅとし、コンデンサ本体１１の露出部分１１ａの間隔をＩ１とし、コンデンサ本体１１の露出部分１１ｂの間隔をＩ２としたときに（Ｉ１及びＩ２は図２（Ａ）を参照）、平均厚さＴ３ａｖｅと間隔Ｉ１がＴ３ａｖｅ≦Ｉ１／２の条件を満足し、且つ、平均厚さＴ３ａｖｅと間隔Ｉ２がＴ３ａｖｅ≦Ｉ２／２の条件を満足するようにすれば、前記のイオンマイグレーションを抑制して、前記「短絡の防止」を図ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  この「短絡の防止」に係る有効性（効果）を確認するために、前記評価用サンプル１の第３外部電極１４の寸法Ｅ１を増加して間隔Ｉ１と間隔Ｉ２の両方を４０μｍとし、且つ、第３外部電極１４の高さ方向両面部分の平均厚さＴ３ａｖｅを前記評価用サンプル１に合わせて１７．５μｍとしたサンプルＡ１と、サンプルＡ１の第３外部電極１４の高さ方向両面部分の平均厚さＴ３ａｖｅを２０μｍとしたサンプルＡ２と、サンプルＡ１の第３外部電極１４の高さ方向両面部分の平均厚さＴ３ａｖｅを２２．５μｍとしたサンプルＡ３を用意した。そして、各１００個のサンプルＡ１～Ａ３を温度８５℃で湿度８５％の雰囲気下で５００時間放置した後、ハイレジスタンスメータ（アジレント社製、４３２９Ａ）を利用して、第３外部電極１４と第１外部電極１２との短絡発生率並びに第３外部電極１４と第２外部電極１３との短絡発生率を調べたところ、サンプルＡ１の短絡発生率は０％、サンプルＡ２の短絡発生率は０％、サンプルＡ３の短絡発生率は５％であった。即ち、前掲のＴ３ａｖｅ≦Ｉ１／２の条件とＴ３ａｖｅ≦Ｉ２／２の条件を満足するサンプルＡ１及びＡ２は、同条件を満足しないサンプルＡ３に比べて、前記「短絡の防止」に有効であることが確認できた。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  （３）前述の貫通型コンデンサ１０-1（評価用サンプル１を含む）として、コンデンサ本体１１の露出部分１１ａ及び１１ｂに特段の間隔制限を設けていないものを示したが、これら露出部分１１ａ及び１１ｂの間隔を貫通型コンデンサ１０-1の長さＬ１に基づいて定めれば、「ＥＳＬ（等価直列インダクタンス）の低減」に有効である。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  つまり、前述の貫通型コンデンサ１０-1にあっては、第１内部導体層１５と第２内部電極層１６との実質的な電流距離が長くなるとＥＳＬが増加する。けれども、貫通型コンデンサ１０-1の長さをＬ１とし、コンデンサ本体１１の露出部分１１ａの間隔をＩ１とし露出部分１１ｂの間隔をＩ２としたときに（Ｌ１、Ｉ１及びＩ２は図２（Ａ）を参照）、間隔Ｉ１と長さＬ１がＩ１≦０．１５×Ｌ１の条件を満足し、且つ、間隔Ｉ２と長さＬ１がＩ２≦０．１５×Ｌ１の条件を満足するようすれば、前記「ＥＳＬの低減」を図ることができる。因みに、間隔Ｉ１と間隔Ｉ２は、製造公差を含まない設計上の基準寸法において同じであっても良いし、僅かに異なっていても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  この「ＥＳＬの低減」に係る有効性（効果）を確認するために、前記評価用サンプル１（長さＬ１が１０００μｍ、間隔Ｉ１及びＩ２の両方が１２５μｍ）と同じサンプルＢ１と、サンプルＢ１の第３外部電極１４の寸法Ｅ１を減少して間隔Ｉ１と間隔Ｉ２の両方を１５０μｍとしたサンプルＢ２と、サンプルＢ１の第３外部電極１４の寸法Ｅ１を減少して間隔Ｉ１と間隔Ｉ２の両方を１７５μｍとしたサンプルＢ３を用意した。そして、各１００個のサンプルＢ１～Ｂ３のＥＳＬ値を、ネットワークアナライザ（アジレント社製、８７５３Ｄ）を利用して調べたところ、サンプルＢ１のＥＳＬ値（平均値）は１５ｐＦ、サンプルＢ２のＥＳＬ値（平均値）は１８ｐＦ、サンプルＢ３のＥＳＬ値（平均値）は２０ｐＦであった。即ち、前掲のＩ１≦０．１５×Ｌ１の条件とＩ２≦０．１５×Ｌ１の条件の満足するサンプルＢ１及びＢ２は、同条件を満足しないサンプルＢ３に比べて、前記「ＥＳＬの低減」に有効であることが確認できた。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  《第２実施形態》
+  先ず、図８～図１１を用いて、本発明の第２実施形態に係る貫通型積層セラミックコンデンサ１０-2（以下単に貫通型コンデンサ１０-2と言う）の構造及び効果等について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  この貫通型コンデンサ１０-2が構造上で前述の貫通型コンデンサ１０-1と相違するところは、図３（Ａ）に示した第１内部電極層１５の代わりに、これと形状が異なる第１内部電極層１８（図９（Ａ）を参照）を用いた点にある。この相違点以外の構造は前述の貫通型コンデンサ１０-1と同じであり、この相違点に基づいて得られる効果以外の効果は前述の貫通型コンデンサ１０-1で得られる効果と同等であるため、各々の説明を省略する。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  各第１内部電極層１８は、図９（Ａ）に示したようなＩ字形状を成していて、長さ方向一端部（図９（Ａ）の左端部）の幅方向両側（図９（Ａ）の上下側）と長さ方向他端部（図９（Ａ）の右端部）の幅方向両側（図９（Ａ）の上下側）のそれぞれに、幅方向に延びる幅狭の引出部１８ａを一体に有している。各第１内部電極層１８の引出部１８ａは、第２内部電極層１６の引出部１６ａと同様に幅方向に延びるものであるため、図１０から分かるように、コンデンサ本体１０の高さ方向一面に第１内部電極層１８と第２内部電極層１６を平行投影すると、図１０の左下と引出部１８ａと中央下の引出部１６ａの間、並びに、左上の引出部１８ａと中央上の引出部１６ａの間に間隔Ｉ３が形成され、図１０の右下の引出部１８ａと中央下の引出部１６ａの間、並びに、右下の引出部１８ａと中央下の引出部１６ａの間に間隔Ｉ４が形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  図１１から分かるように、各第１内部電極層１８の長さ方向一端部、具体的には図９（Ａ）の左下と左上の引出部１８ａの下端縁と上端縁は第１外部電極１２の部分１２ｄと部分１２ｅにそれぞれ電気的に接続され、各第１内部電極層１８の長さ方向他端部、具体的には図９（Ａ）の２個の右側引出部１８ａの下端縁と上端縁は第２外部電極１３の部分１３ｄと部分１３ｅにそれぞれ電気的に接続されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  前述の貫通型コンデンサ１０-2は、図１０に示したように、コンデンサ本体１１の長さをＬ２とし、コンデンサ本体１１の高さ方向一面に平行投影された第１内部電極層１８の長さ方向一方の引出部１８ａと第２内部電極層１６の引出部１６ａの間隔をＩ３とし、第１内部電極層１８の長さ方向他方の引出部１８ａと第２内部電極層１６の引出部１６ａの間隔をＩ４としたとき、間隔Ｉ３と長さＬ２はＩ３≦０．３５×Ｌ２の条件を満足し、且つ、間隔Ｉ４と長さＬ２はＩ４≦０．３５×Ｌ２の条件を満足している。因みに、間隔Ｉ３と間隔Ｉ４は、製造公差を含まない設計上の基準寸法において同じであっても良いし、僅かに異なっていても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  前掲のＩ３≦０．３５×Ｌ２の条件とＩ４≦０．３５×Ｌ２の条件は、「ＥＳＬ（等価直列インダクタンス）の低減」に有効である。つまり、前述の貫通型コンデンサ１０-2にあっては、第１内部導体層１８と第２内部電極層１６との実質的な電流距離が長くなるとＥＳＬが増加する。けれども、前掲のＩ３≦０．３５×Ｌ２の条件とＩ４≦０．３５×Ｌ２の条件を満足するようにすれば、前記「ＥＳＬの低減」を図ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  この「ＥＳＬの低減」に係る有効性（効果）を確認するため、前記評価用サンプル１（長さＬ２が９６０μｍ）の第１内部電極層１５を図９（Ａ）に示した第１内部電極層１８に変え、且つ、引出部１８ａの位置を変えて間隔Ｉ３と間隔Ｉ４を３０６μｍとしたサンプルＣ１と、サンプルＣ１の第１内部電極層１８の引出部１８ａの位置を変えて間隔Ｉ３と間隔Ｉ４を３３６μｍとしたサンプルＣ２と、サンプルＣ１の第１内部電極層１８の引出部１８ａの位置を変えて間隔Ｉ３と間隔Ｉ４を３６６μｍとしたサンプルＣ３を用意した。因みに、サンプルＣ１～Ｃ３における引出部１８ａ及び１６ａの幅（図１０の長さＬ２に沿う方向の寸法）は９０μｍで統一した。そして、各１００個のサンプルＣ１～Ｃ３のＥＳＬ値を、ネットワークアナライザ（アジレント社製、８７５３Ｄ）を利用して調べたところ、サンプルＣ１のＥＳＬ値（平均値）は１３ｐＦ、サンプルＣ２のＥＳＬ値（平均値）は１５ｐＦ、サンプルＣ３のＥＳＬ値（平均値）は１７ｐＦであった。即ち、前掲のＩ３≦０．３５×Ｌ２の条件とＩ４≦０．３５×Ｌ２の条件を満足するサンプルＣ１及びＣ２は、同条件を満足しないサンプルＣ３に比べて、前記「ＥＳＬの低減」に有効であることが確認できた。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  〈第２実施形態の変形例〉
+  （１）前述の貫通型コンデンサ１０-2（サンプルＣ１及びＣ２を含む）として、図９（Ａ）に示した第１内部電極層１８を用いたものを示したが、この第１内部電極層１８の代わりに図１２（Ａ）に示した第１内部電極層１９を用いても良い。この第１内部電極層１９は、図１２（Ｂ）にも示したように、コンデンサ本体１１の長さ方向一端から長さ方向他端に及ぶ長さを有している点で図９（Ａ）に示した第１内部電極層１８と形状が異なる。図１２（Ｂ）から分かるように、この第１内部電極層１９を用いた場合でも、第１内部電極層１８を用いた場合と同様に、コンデンサ本体１０の高さ方向一面に第１内部電極層１９と第２内部電極層１６を平行投影すると、図１２（Ｂ）の左下の引出部１９ａと中央下の引出部１６ａの間、並びに、左上と引出部１９ａと中央上の引出部１６ａの間に間隔Ｉ３が形成され、図１２（Ｂ）の右下の引出部１９ａと中央下の引出部１６ａの間、並びに、右下の引出部１９ａと中央下の引出部１６ａの間に間隔Ｉ４が形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  （２）前述の貫通型コンデンサ１０-2（サンプルＣ１及びＣ２を含む）には、前記〈第１実施形態の変形例〉の（１）～（３）で説明した条件、即ち、「Ｔ１ｍａｘ＞Ｔ３ｍａｘの条件とＴ２ｍａｘ＞Ｔ３ｍａｘの条件」と、「Ｔ３ａｖｅ≦Ｉ１／２の条件とＴ３ａｖｅ≦Ｉ２／２」と、「Ｉ１≦０．１５×Ｌ１の条件とＩ２≦０．１５×Ｌ１の条件」を適宜採用することができ、採用することによって同様の効果を得ることができる。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0073">
+  １０-1…貫通型積層セラミックコンデンサ、１１…コンデンサ本体、１１ａ，１１ｂ…コンデンサ本体の露出部分、１２…第１外部電極、１２ａ…第１外部電極におけるコンデンサ本体の長さ方向一面を覆う部分、１２ｂ…第１外部電極におけるコンデンサ本体の高さ方向一面の一部を覆う部分、１２ｃ…第１外部電極におけるコンデンサ本体の高さ方向他面の一部を覆う部分、１２ｄ…第１外部電極におけるコンデンサ本体の幅方向一面の一部を覆う部分、１２ｅ…第１外部電極におけるコンデンサ本体の幅方向他面の一部を覆う部分、１２ｆ…第１外部電極の厚肉部分、１３…第２外部電極、１３ａ…第２外部電極におけるコンデンサ本体の長さ方向他面を覆う部分、１３ｂ…第２外部電極におけるコンデンサ本体の高さ方向一面の一部を覆う部分、１３ｃ…第２外部電極におけるコンデンサ本体の高さ方向他面の一部を覆う部分、１３ｄ…第２外部電極におけるコンデンサ本体の幅方向一面の一部を覆う部分、１３ｅ…第２外部電極におけるコンデンサ本体の幅方向他面の一部を覆う部分、１３ｆ…第２外部電極の厚肉部分、１４…第３外部電極、１４ａ…第３外部電極におけるコンデンサ本体の高さ方向一面の一部を覆う部分、１４ｂｃ…第３外部電極におけるコンデンサ本体の高さ方向他面の一部を覆う部分、１４ｃ…第３外部電極におけるコンデンサ本体の幅方向一面の一部を覆う部分、１４ｄ…第３外部電極におけるコンデンサ本体の幅方向他面の一部を覆う部分、１４ｅ…第４外部電極の厚肉部分、１５…第１内部電極層、１５ａ…第１内部電極層の引出部、１６…第２内部電極層、１６ａ…第２内部電極層の引出部、１７…誘電体層、ＣＰ…容量部、ＰＰ１…第１保護部、ＰＰ２…第２保護部、１０-2…貫通型積層セラミックコンデンサ、１８…第１内部電極層、１８ａ…第１内部電極層の引出部、１９…第１内部電極層、１９ａ…第１内部電極層の引出部。
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="34" wi="80" file="2016127262_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="31" wi="80" file="2016127262_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="29" wi="80" file="2016127262_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="27" wi="80" file="2016127262_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="42" wi="80" file="2016127262_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="26" wi="80" file="2016127262_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="43" wi="80" file="2016127262_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="32" wi="80" file="2016127262_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="29" wi="80" file="2016127262_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="28" wi="80" file="2016127262_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="43" wi="80" file="2016127262_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="30" wi="80" file="2016127262_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  長さ、幅及び高さで規定された略直方体状のコンデンサ本体内に、複数の第１内部電極層と複数の第２内部電極層とが誘電体層を介して高さ方向に交互に積層された容量部が設けられた貫通型積層セラミックコンデンサであって、
+  （１）前記コンデンサ本体の長さ方向一端部に該コンデンサ本体の長さ方向一面と高さ方向両面の一部と幅方向両面の一部とを連続して覆うように設けられ、前記複数の第１内部電極層の長さ方向一端部が接続された第１外部電極と、
+  （２）前記コンデンサ本体の長さ方向他端部に該コンデンサ本体の長さ方向他面と高さ方向両面の一部と幅方向両面の一部とを連続して覆うように設けられ、前記複数の第１内部電極層の長さ方向他端部が接続された第２外部電極と、
+  （３）前記コンデンサ本体の長さ方向中央部に前記第１外部電極及び前記第２外部電極と非接触下で該コンデンサ本体の高さ方向両面の一部と幅方向両面の一部とを連続して覆うように設けられ、前記幅方向両面の一部を覆う部分の一方に前記複数の第２電極層の幅方向一端部が接続され、且つ、他方に前記複数の第２電極層の幅方向他端部が接続された４角筒状の第３外部電極と、を備えており、
+  （４）前記貫通型積層セラミックコンデンサを高さ方向からみたときの前記第１外部電極の前記コンデンサ本体の長さに沿う寸法をＥ１とし、前記第２外部電極の前記コンデンサ本体の長さに沿う寸法をＥ２とし、前記第３外部電極の前記コンデンサ本体の長さに沿う寸法をＥ３としたとき、前記寸法Ｅ１と前記寸法Ｅ３はＥ１＜Ｅ３の条件を満足し、且つ、前記寸法Ｅ２と前記寸法Ｅ３はＥ２＜Ｅ３の条件を満足している、
+  貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記貫通型積層セラミックコンデンサを高さ方向から見たときの平面輪郭の総面積をＴＡＲとし、前記第１外部電極の平面輪郭の面積をＡＲ１とし、前記第２外部電極の平面輪郭の面積をＡＲ２とし、前記第３外部電極の平面輪郭の面積をＡＲ３としたとき、前記総面積ＴＡＲと前記面積ＡＲ１と前記面積ＡＲ２と前記面積ＡＲ３は０．６≦（ＡＲ１＋ＡＲ２＋ＡＲ３）／ＴＡＲ≦０．９の条件を満足している、
+  請求項１に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記コンデンサ本体の高さ方向両面及び幅方向両面のうち、前記第１外部電極と前記第３外部電極の間の部分と、前記第２外部電極と前記第３外部電極の間の部分は、それぞれ露出しており、
+  前記第１外部電極の表面粗さと前記第２外部電極の表面粗さと前記第３外部電極の表面粗さは、前記コンデンサ本体の露出部分の表面粗さよりも粗い、
+  請求項１又は２に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記第１外部電極は、前記コンデンサ本体の長さ方向一面の稜線に近い部分の厚さが他の部分の厚さよりも厚く、
+  前記第２外部電極は、前記コンデンサ本体の長さ方向他面の稜線に近い部分の厚さが他の部分の厚さよりも厚く、
+  前記第３外部電極は、前記コンデンサ本体の高さ方向一面の稜線に近い部分の厚さと前記コンデンサ本体の高さ方向他面の稜線に近い部分の厚さが他の部分の厚さよりも厚い、
+  請求項１～３の何れか１項に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記貫通型積層セラミックコンデンサの高さは２５０μｍ以下である、
+  請求項１～４の何れか１項に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記第１外部電極の高さ方向両面部分の最大厚さをＴ１ｍａｘとし、前記第２外部電極の高さ方向両面部分の最大厚さをＴ２ｍａｘとし、前記第３外部電極の高さ方向両面部分の最大厚さをＴ３ｍａｘとしたとき、前記最大厚さＴ１ｍａｘと前記最大厚さＴ３ｍａｘはＴ１ｍａｘ＞Ｔ３ｍａｘの条件を満足し、且つ、前記最大厚さＴ２ｍａｘと前記最大厚さＴ３ｍａｘはＴ２ｍａｘ＞Ｔ３ｍａｘの条件を満足している、
+  請求項１～５の何れか１項に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記コンデンサ本体の高さ方向両面及び幅方向両面のうち、前記第１外部電極と前記第３外部電極の間の部分と、前記第２外部電極と前記第３外部電極の間の部分は、それぞれ露出しており、
+  前記第３外部電極の高さ方向両面部分の平均厚さをＴ３ａｖｅとし、前記コンデンサ本体における前記第１外部電極と前記第３外部電極の間の露出部分の間隔をＩ１とし、前記コンデンサ本体における前記第２外部電極と前記第３外部電極の間の露出部分の間隔をＩ２としたとき、前記平均厚さＴ３ａｖｅと前記間隔Ｉ１はＴ３ａｖｅ≦Ｉ１／２の条件を満足し、且つ、前記平均厚さＴ３ａｖｅと前記間隔Ｉ２はＴ３ａｖｅ≦Ｉ２／２の条件を満足している、
+  請求項１～６の何れか１項に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記コンデンサ本体の高さ方向両面及び幅方向両面のうち、前記第１外部電極と前記第３外部電極の間の部分と、前記第２外部電極と前記第３外部電極の間の部分は、それぞれ露出しており、
+  前記貫通型コンデンサの長さをＬ１とし、前記コンデンサ本体における前記第１外部電極と前記第３外部電極の間の露出部分の間隔をＩ１とし、前記コンデンサ本体における前記第２外部電極と前記第３外部電極の間の露出部分の間隔をＩ２としたとき、前記間隔Ｉ１と前記長さＬ１はＩ１≦０．１５×Ｌ１の条件を満足し、且つ、前記間隔Ｉ２と前記長さＬ１はＩ２≦０．１５×Ｌ１の条件を満足している、
+  請求項１～７の何れか１項に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記複数の第１内部電極層は長さ方向両端部に長さ方向に延びる幅狭の引出部を有する形状を成し、前記複数の第２内部電極層は幅方向両端部に幅方向に延びる幅狭の引出部を有する形状を成している、
+  請求項１～８の何れか１項に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記複数の第１内部電極層は長さ方向両端部の幅方向両側に幅方向に延びる幅狭の引出部を有する形状を成し、前記複数の第２内部電極層は幅方向両端部に幅方向に延びる幅狭の引出部を有する形状を成している、
+  請求項１～８の何れか１項に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記コンデンサ本体の長さをＬ２とし、前記コンデンサ本体の高さ方向一面に平行投影された前記複数の第１内部電極層における長さ方向一方の引出部と前記複数の第２内部電極層の引出部との間隔をＩ３とし、前記複数の第１内部電極層における長さ方向他方の引出部と前記複数の第２内部電極層の引出部との間隔をＩ４としたとき、前記間隔Ｉ３と前記長さＬ２はＩ３≦０．３５×Ｌ２の条件を満足し、且つ、前記間隔Ｉ４と前記長さＬ２はＩ４≦０．３５×Ｌ２の条件を満足している、
+  請求項１０に記載の貫通型積層セラミックコンデンサ。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

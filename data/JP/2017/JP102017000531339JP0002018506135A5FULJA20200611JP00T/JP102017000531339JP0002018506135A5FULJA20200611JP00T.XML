@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000531339JP0002018506135A5FULJA20200611JP00T.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2018506135" kind="A5" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018506135</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018506135</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">特許法第１７条の２の規定による補正の掲載</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>2018008</business:GazetteNumber>
+        <base:Date>00000000</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000531339</base:DocNumber>
+        <base:Date>00000000</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017531339</base:DocNumber>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>37</business:MainGroup>
+        <business:Subgroup>317</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01J  37/317       20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>265</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  21/265       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01J37/317 C</business:FI>
+      <business:FI type="secondary">H01L21/265 603B</business:FI>
+      <business:FI type="secondary">H01L21/265 T</business:FI>
+    </business:JPClassification>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T5</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+  </business:BibliographicData>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:InventionTitle>走査ビーム注入器のためのビームプロファイリング速度の向上</business:InventionTitle>
+        <base:Heading>発明の詳細な説明</base:Heading>
+        <base:Paragraphs num="0001">
+  〔関連出願の参照〕
+
+  本願は、「走査ビーム注入器のためのビームプロファイリング速度の向上」（BEAM PROFILINGSPEED ENHANCEMENT FOR SCANNED BEAM IMPLANTERS）というタイトルが付された米国仮出願Ｎｏ．６２／０９６，９６３（２０１４年１２月２６日出願）の優先権およびその利益を主張する。当該出願の全体の内容は、本明細書中において完全に開示されるように、参照によって本明細書に組み込まれる。
+</base:Paragraphs>
+        <base:Paragraphs num="0002">
+  〔本発明の分野〕
+
+  本発明は、一般的にはイオン注入システムに関し、より具体的には、イオンビームの電流プロファイルを便宜的に判定（決定）するための線量測定システムおよび方法に関する。
+</base:Paragraphs>
+        <base:Paragraphs num="0003">
+  〔本発明の背景〕
+
+  半導体デバイスの製造において、イオン注入は、半導体に不純物をドーピングするために使用されている。ｎ型材料またはｐ型材料のドーピングを実現すること、または、集積回路の製造においてパッシベーション層を形成することを目的として、イオン注入システムは、多くの場合、ワークピース（例：半導体ウェハ）に、イオンビームによって提供されるイオンをドーピングするために使用される。イオン注入システムは、半導体ウェハのドーピングのために使用される場合、ワークピースの内部に選択されたイオン種を注入し、所望の外因的な材料を生成する。
+</base:Paragraphs>
+        <base:Paragraphs num="0004">
+  イオン注入において、多くの場合、ワークピースに供給されるドーパントの量を判定することが好ましい。ウェハまたはワークピースの内部に注入されたイオンの測定は、線量測定と称される。イオン注入の用途において、線量測定は、電流（例：イオンビーム電流）を測定することによって行われることが一般的である。イオンの注入量を制御する場合、注入が行われたワークピースの内部における注入量の均一性を実現することを目的として、閉ループフィードバック制御系が、注入を動的に調整するために使用されることが標準的である。当該制御系は、ワークピースがイオンビームを通過するように走査される速度を制御するために、イオンビームの電流を監視する。これにより、当該システムは、ワークピースの全域において、均一なイオンの注入を提供する。
+</base:Paragraphs>
+        <base:Paragraphs num="0005">
+  リボン状のイオンビーム（例：幅が高さよりも長い断面を有する、静電的に走査されたイオンビーム）を有するイオン注入システムにおいて、ビームを通過するワークピースの移動速度および経路を適切に調整することを目的として、多くの場合、イオンビームのプロファイル（すなわち形状）は、均一なドーピングを実現するために所望される。こうした状況において、一般的に、ファラデーカップは、イオンビームを通過するように移動および走査される。その一方で、イオンビームは、ワークピースへの注入時に使用される周波数と同一の周波数によって、静電的に走査される。このため、ファラデーカップのスリットは、次第に増加する、イオンビームに関連するビーム電流を測定する。そして、ファラデーカップは、十分なビームプロファイルに亘って電流を積算するために、十分に長い時間、それぞれの空間的な位置に配置されるであろう。
+</base:Paragraphs>
+        <base:Paragraphs num="0006">
+  このようにファラデーカップがイオンビームを通過することにより、時間依存のイオンビームのプロファイルが提供される。そして、一般的には、このようにファラデーカップにイオンビームを通過させることにより、イオンビームの全体のプロファイルを十分に推定できると考えられている。しかし、時間依存のプロファイルは、一般的には、ワークピースの内部にイオンビームが実際に注入される場合に使用されるイオンビームの走査周波数と同一の周波数を用いて実行される。また、多くの場合、ノイズの影響を低減するために、２つ以上のプロファイルが所望される。このため、プロファイリングには過度に長い時間を要することが一般的であり、スループットは低下する。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  〔本発明の概要〕
+
+  本開示は、現時点において、実際の注入時に使用される速度よりも有意に高いイオンビーム走査速度によってプロファイリング動作を実行することにより、イオンビームを十分かつ迅速にプロファイリングするためのシステムおよび方法を提供する。そこで、以下では、本発明の複数の態様に対する基本的な理解を提供するために、簡略的な本発明の概要を示す。本概要は、本発明の広い範囲での概要ではない。本発明の主要な点または重要な要素を特定することを意図しているわけでもないし、本発明の範囲を規定することを意図しているわけでもない。本概要の目的は、後述するより詳細な説明の序文として、簡略化された形態によって、本発明の複数のコンセプトを示すことにある。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  走査ビームイオン注入システム（例：２次元的な走査ビーム、または、１次元的な機械式走査を伴う１次元的な走査ビーム）において、注入量の均一性の修正、角度の測定と修正、および他の「リボン」ビームの測定は、一般的には、ワークピースの内部へのイオン注入に用いられる走査周波数での、イオンビームによる走査によって行われる。走査周波数が非常に低い場合（例：約１～２Ｈｚ）、所定の処理の効果を得るために、測定時間は非常に長くなりうる（例；１～２分またはさらに多くのオーダ）。測定装置は、十分な数の走査を累積させる必要があるためである。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  例えば、注入量の均一性の測定は、一般的には、「リボン」ビームプロファイルを横断して移動するスリットファラデーカップを用いて行われる。当該カップは、十分なビームプロファイルに亘って電流を積算するために、十分に長い時間、それぞれの空間的な位置に配置される必要がある。標準的には、ノイズを低減するために、約３００個の空間的な点が測定され、かつ、少なくとも複数の十分なプロファイルに亘って積算される。プロファイルのペアについての場合でさえも、１Ｈｚの場合、このような動作には、約３００秒を要するであろう（例：３００＊１フルサイクル（カップを亘るビームの２つの経路）＊１秒／サイクル＝３００秒）。少なくとも２つのプロファイリング経路が、一般的には用いられる。このため、測定時間は容認しがたいほどに長くなりうる。その結果、より高い走査周波数の場合に比べて、スループットが大きく減少してしまう。そこで、本開示は、低速ビーム走査に関連する測定時間を低減するための装置および方法について説明する。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  本開示では、現時点において、瞬間的なビームプロファイル形状は、関心のある範囲の走査周波数（例：１～１０００Ｈｚ）に、強く影響しないと考えている。このため、本開示は、有益なことに、高い周波数によって実行可能なビーム測定を提供できる。その結果、測定に要する時間を低減できる。測定が完了すると、走査周波数を、注入のために要求される低い周波数へと低下させることができる。必要に応じて、注入周波数において、最終的なチェックが行われてよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  このように、イオンを注入するための方法が提供される。当該方法において、イオンビームは所望の電流に応じて調整される。このようなイオンビームの調整は、例えば、ビームの走査を停止させた状態で実行されてもよいし、注入走査周波数または別の周波数によって走査が行われている状態で実行されてよい。そして、新しい周波数がより高速な測定時間を目的として最適化されるように、注入時に用いられる周波数とは異なる周波数に応じて、走査が調整される。例えば、測定に用いられる周波数は、注入に用いられる周波数よりも有意に高い。イオンビームの測定（例：注入量の均一性の測定、および、ビーム角度の測定）がさらに行われる。そして、走査周波数は、注入走査周波数へと変更される。必要に応じて、注入走査周波数において、ビーム測定の最終的なチェックが行われてよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  ２つの異なる周波数における測定間において変化が見出された場合、２つの測定セット間における周波数の差異に基づいて、修正を適用することが可能である。例えば、低い周波数において、ビーム角がエッジにおいて増加する場合、この点を考慮し、高い周波数における測定が修正されてよい。当該修正は、例えば、レシピごとに格納されてよい（例：自動調整の履歴に類似している）。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  さらに、当該修正を用いた別の方法が提供される。当該方法において、イオンビームは所望の電流に応じて調整される。このようなイオンビームの調整は、走査を停止させた状態で行われてもよいし、注入走査周波数または別の周波数による走査が行われている状態で実行されてよい。そして、新しい周波数がより高速な測定時間を目的として最適化されるように、注入に用いられる周波数とは異なる周波数に応じて、走査が調整される。例えば、測定に用いられる周波数は、注入に用いられる周波数よりも有意に高い。ビームの測定（例：注入量の均一性の測定、および、ビーム角度の測定）がさらに行われる。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  続いて、走査周波数は、注入走査周波数へと切り替えられる。そして、測定および捜査波形に対する修正が行われてよい。必要に応じて、注入走査周波数において、ビーム測定の最終的なチェックが行われてよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  ２つの周波数における測定間において変化が生じる原因として考えられるものの１つは、走査発生・増幅システム（scangeneration or amplification systems）の周波数応答
+
+における相違である。この場合、ビームプロファイラの経路を比較するよりも高速な、何らかの方法によって、２つの周波数の波形を一致させることは有益であろう。一例として、高いバンド幅に依存しない電界または磁界の測定が、各周波数における実際の波形を測定するために用いられてよい。続いて、走査波形がより高い周波数での走査における波形の形状に精度良く一致するまで、低速の走査周波数において走査波形が修正されてよい。一例として、波形を修正するために、直接的な測定に替えて、周波数応答の誤差の理論モデルを十分に使用することもできる。いずれの場合においても、本開示は、プロファイル測定の反復回数を低減し、かつ、全体的な修正時間を低減できる。
+</base:Paragraphs>
+        <base:Paragraphs num="0016">
+  本発明は、イオンビームのプロファイルを迅速に判定（決定）するためのイオン注入システムおよび方法を全般的に対象としている。例示的な一態様において、イオン注入システムは、イオンビームを発生させるように構成されたイオン源を備えている。イオンビームは、当該イオンビームに関連するイオンビーム電流を有している。イオンビームは、例えば、走査されたペンシルビームまたはリボンビームを含む。質量分析器がさらに設けられている場合、当該質量分析器は、イオンビームを質量分析するように構成されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0017">
+  一例として、ビームスキャナが設けられている。当該ビームスキャナは、走査平面に沿ってイオンビームを走査するように構成されている。その結果、走査イオンビームが規定される。ビームスキャナは、例えば、第１の周波数および第２の周波数によってイオンビームを走査するように、さらに構成されている。なお、第１の周波数は、第２の周波数よりも高い。一例として、第１の周波数は、第２の周波数に比べてオーダが大きい。第１の周波数は、イオンビームをプロファイリングするために使用される。第２の周波数は、ワークピースの内部へとイオンを注入するために使用される。エンドステーションは、例えば、ビームスキャナがイオンビームを第２の周波数によって走査する場合に、ワークピースに関連するワークピース平面において、走査イオンビームを受けるように構成されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0018">
+  一態様において、ビームプロファイリング装置は、少なくとも、第１の周波数によってイオンビームが走査される場合に、走査平面に沿って、走査イオンビームを通過するように移動するように構成されている。ビームプロファイリング装置は、例えば、走査イオンビームの１つ以上の特性（例：走査イオンビームの電流および角度方向）を測定するように、さらに構成されている。当該測定は、ビームプロファイリング装置の移動とともに行われる。
+</base:Paragraphs>
+        <base:Paragraphs num="0019">
+  さらに、制御器は、イオンビームが第２の周波数によって走査され<base:Underline style="single">る</base:Underline>場合の、走査イオンビームのプロファイルを判定（決定）するように構成されている。当該<base:Underline style="single">決定</base:Underline>は、イオンビームが第１の周波数によって走査された場合の、走査イオンビームの１つ以上の特性に少なくとも部分的に基づいている。別の例として、制御器は<base:Underline style="single">、</base:Underline>（ｉ）第１の周波数によって測定されたイオンビームの１つ以上の特性と、（ｉｉ）<base:Underline style="single">イオンビームが第２の周波数によって走査される場合の、</base:Underline>イオンビームの所望の１つ以上の<base:Underline style="single">特性</base:Underline>と、に基づいて、イオンビームを調整するようにさらに構成されている。制御器は、イオン源、質量分析器、およびビームスキャナのうちの１つ以上を制御することによって、イオンビームを調整するように構成されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0020">
+  本開示の別に態様に基づいて、イオンを注入するための方法が提供される。当該方法において、イオンビームは、第１のプロセスレシピに基づいて調整される。イオンビームは、第１の周波数によって、走査平面に沿って走査される。その結果、第１の走査イオンビームが規定される。そして、ビームプロファイリング装置は、第１の走査イオンビームを通過するように移動させられる。第１の走査イオンビームの１つ以上の特性は、ビームプロファイリング装置の移動とともに、第１走査イオンビームの幅方向に対して測定される。その結果、第１の走査イオンビームに関連する第１のビームプロファイルが規定される。第１のビームプロファイルは、例えば、第１の走査周波数における、時間・位置依存の（time and position dependent）イオンビームのプロファイルを含む。
+</base:Paragraphs>
+        <base:Paragraphs num="0021">
+  イオンビームは、ワークピースの内部への注入を行うための第２の周波数によって、走査平面に沿って走査されるように、さらに設定される。その結果、第２の走査イオンビームが規定される。第２の周波数は、第１の周波数よりも低い。このように、第２の走査イオンビームに関連する第２のビームプロファイルは、少なくとも部分的に、第１のビームプロファイルに基づいて判定される。例えば、第２のビームプロファイルは、第２の走査周波数における、時間・位置依存のイオンビームのプロファイルを含む。この場合もやはり、第２のビームプロファイルは、第１のビームプロファイルに基づいている。一例として、イオンビームは、第２のプロセスレシピに応じてさらに調整される。第２のプロセスレシピは、第２のプロファイルに基づいている。別の例として、第２のプロファイルの判定は、イオンビームの走査に関連する走査発生・増幅システム（scan generation and amplification systems）の周波数応答にさらに基づいている。
+</base:Paragraphs>
+        <base:Paragraphs num="0022">
+  このように、上述の目的および関連する目的を達成するために、本発明は、以下に十分に説明され、かつ、特許請求の範囲において具体的に示された構成を備えている。以下の説明および添付の図面は、本発明の所定の例示的な実施形態を詳細に開示する。これらの実施形態は、本発明の原則において採用されうる様々な方法の一部を例示している。本発明の他の目的、利点、および新たな構成は、図面とともに考慮されることにより、以下の本発明の詳細な説明から、明確になるであろう。
+</base:Paragraphs>
+        <base:Paragraphs num="0023">
+  〔図面の簡単な説明〕
+
+  図１は、本開示の１つの例示的な態様に基づくイオン注入システムを示すブロック図である。
+</base:Paragraphs>
+        <base:Paragraphs num="0024">
+  図２は、本開示に基づいてイオンビームをプロファイリングするための例示的な方法を示すブロック図である。
+</base:Paragraphs>
+        <base:Paragraphs num="0025">
+  〔本発明の詳細な説明〕
+
+  本発明は、走査イオンビームのプロファイルを迅速に判定（決定）するためのシステム、装置、および方法を全般的に対象としている。以降、本発明は、図面を参照して説明される。同様の参照番号は、同様の部材を一貫して参照するために用いられてよい。様々な態様についての説明は単なる例示であると理解されるべきであり、限定的な意味に解釈されるべきではない。以下の記載では、説明のために、様々な具体的な詳細が、本発明に対する十分な理解を与えるために開示されている。但し、本発明はこれらの具体的な詳細がなくとも実施されてよいことは、当業者にとって明白であろう。
+</base:Paragraphs>
+        <base:Paragraphs num="0026">
+  図面を参照する。図１は、例示的なイオン注入システム１００を示す。イオン注入システム１００は、ターミナル１０２、ビームラインアセンブリ１０４、およびエンドステーション１０６を有している。ターミナル１０２は、例えば、高電圧電源１１０によって給電されるイオン源１０８を備えている。当該イオン源は、イオンビーム１１２を発生させ、かつ、当該イオンビーム１１２を、ビームラインアセンブリ１０４を通過させ、最終的にはエンドステーション１０６に向かわせる。イオンビーム１１２は、例えば、スポットビーム、ペンシルビーム、リボンビーム、または任意の他の形状のビームの形態をとっていてよい。ビームラインアセンブリ１０４は、ビームガイド１１４および質量分析器１１６をさらに有している。ビームラインアセンブリ１１４の内部には、適切な電荷質量比を有するイオンのみを、ビームガイド１１４の出射端に位置する開口１１８を通過させ、エンドステーション１０６に配置されたワークピース１２０（例：半導体ウェハ、ディスプレイパネル等）に向かわせるように、双極子磁界が形成されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0027">
+  一例として、イオンビーム走査機構１２２（例：静電スキャナまたは電磁スキャナ（全般的に「スキャナ」と称される））は、ワークピース１２０に対して、少なくとも第１の方向１２３（例：＋／－のｙ方向，第１の走査経路、あるいは、「高速走査」（fast scan）軸、経路、または方向とも称される）にイオンビーム１１２を走査するように構成さ
+
+れている。その結果、リボン状のイオンビーム１２４または走査イオンビームが規定される。さらに、当該例では、ワークピース走査機構１２６が設けられている。当該ワークピース走査機構は、イオンビーム１１２を受けるように、少なくとも第２の方向１２５（例：＋／－のｘ方向，第２の走査経路、あるいは、「低速走査」（slow scan）軸、経路、または方向とも称される）に、ワークピース１２０を選択的に走査するように構成されている。イオンビーム走査機構１２２およびワークピース走査機構１２６は、例えば、イオンビーム１１２に対するワークピースの所望の走査を提供するために、個別に構成されてもよいし、互いに関連するように構成されてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0028">
+  別の例として、イオンビーム１１２は第１の方向１２３に静電的に走査され、その結果、走査イオンビーム１２４が生成される。そして、ワークピース１２０は、走査イオンビーム１２４を受けるように、第２の方向１２５に機械的に走査される。イオンビーム１１２およびワークピース１２０についての、このような静電的な走査および機械的な走査の組み合わせは、いわゆる「ハイブリッド走査」（hybrid scan）をもたらす。本発明は、イオンビーム１１２に対するワークピース１２０の走査の全ての組み合わせについて適用可能であり、その逆についても同様である。
+</base:Paragraphs>
+        <base:Paragraphs num="0029">
+  別の例として、ビームプロファイリング装置１２８は、イオンビームの１つ以上の特性（例：イオンビーム電流）を測定するために、イオンビーム１１２の経路に沿って設けられている。ビームプロファイリング装置１２８は、ワークピース１２０の上流または下流に設けられてよい。当該ビームプロファイリング装置は、イオンビームがワークピースと交差しない場合に、イオンビーム１１２の１つ以上の特性（例：イオンビーム電流）を検出するように構成されている。ビームプロファイリング装置１２８は、例えば、所定の時間に亘って、プロファイリング平面１３０に沿って、イオンビームを通過するように（第１の方向に）移動するように構成されている。当該ビームプロファイリング装置は、移動とともに、イオンビーム１１２の幅１３２に対してビーム電流を測定するように、さらに構成されている。その結果、当該ビームプロファイリング装置は、時間・位置依存のイオンビームの電流プロファイル１３４（時間依存プロファイルまたは時間依存測定とも称される）を規定する。
+</base:Paragraphs>
+        <base:Paragraphs num="0030">
+  ビームプロファイリング装置１２８は、例えば、ファラデーカップ１３６を備えている。ある例において、当該ファラデーカップは、上流に向かう（例：イオンビーム１１２に対向する）狭いスリット１３８を備えている。そして、当該ファラデーカップは、イオンビームのプロファイルを取得するために、イオンビームの幅全体に対して、第１の方向１２３に沿って移動するように構成されている。従って、ファラデーカップ１３６は、時間・位置依存のビーム電流プロファイル１３４を、制御器１４０に供給するように構成されている。制御器１４０は、例えば、イオン源１０８、高電圧電源１１０、ビームガイド１１４、質量分析器１１６、イオンビーム走査機構１２２．ワークピース走査機構１２６．およびビームプロファイリング装置１２８のうちの少なくとも１つを制御し、および／または、これらの部材のうちの少なくとも１つに信号を送信し、かつ、これらの部材のうちの少なくとも１つから信号を受信するように構成されている。特に、以下にさらに詳細に述べるように、制御器１４０は、イオンビーム１１２の走査周波数を制御するように構成されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0031">
+  本発明の別の態様に基づいて、図２は、イオンビームのプロファイルを迅速に判定（決定）するための例示的な方法２００を示す。例示的な方法は、本明細書では一連の動作またはイベントとして図示および説明されているが、本発明はこのような例示された動作またはイベントの順序に限定されないと理解できることに留意されたい。このため、本発明において、一部のステップは、異なる順序で実行されてもよいし、あるいは本明細書に図示および説明されていない他のステップと共に実行されてもよい。また、本発明に係る方法を実行するために、図示された全てのステップが必ずしも実行される必要があるわけではない。さらに、当該方法は、本明細書において図示または説明されたシステムに関連して実行されてもよいし、本明細書において図示されていない他のシステムにも関連して実行されてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0032">
+  図２に示されるように、方法２００は、動作２０２から開始される。動作２０２では、第１のプロセスレシピを用いて、イオンビームが形成される。第１のプロセスレシピは、例えば、ワークピースを処理するための様々な設定を含む。動作２０４では、第１の走査イオンビームを形成するために、イオンビームは、第１の周波数によって、走査平面に沿って走査される。例えば、図１のイオンビーム１１２は、イオンビーム走査システム１２２を用いて、第１の周波数によって静電的に走査される。その結果、図２の動作２０４の、第１の走査イオンビームが規定される。動作２０６では、イオンビームを通過するようにビームプロファイリング装置を移動させることにより、第１の走査イオンビームの１つ以上の特性が測定される。従って、一例として、第１の走査イオンビームに関連する時間・位置依存の第１のプロファイルが規定される。
+</base:Paragraphs>
+        <base:Paragraphs num="0033">
+  第１の走査イオンビームの１つ以上の特性は、例えば、ビームプロファイリング装置の移動とともに、第１のイオンビームの幅方向に対して測定される。その結果、第１の走査イオンビームに関連する、第１のビームプロファイルが規定される。第１の走査イオンビームの１つ以上の特性は、例えば、イオンビームの電流、イオンビームの均一性、および、ワークピースの平面に入射するイオンビームの角度のうちの１つ以上を含んでいる。
+</base:Paragraphs>
+        <base:Paragraphs num="0034">
+  動作２０８では、第２の走査イオンビームを形成するために、イオンビームは、第２の周波数によって、走査平面に沿って走査される。当該例では、第２の周波数は、第１の周波数よりも低い。一例として、第１の周波数は、第２の周波数に比べてオーダが大きい。別の例として、第１の周波数は、第２の周波数の少なくとも２倍である。
+</base:Paragraphs>
+        <base:Paragraphs num="0035">
+  動作２１０において、第２の走査イオンビームに関連する時間・位置依存の第２のプロファイルが判定（決定）される。当該判定は、少なくとも部分的に、第１のプロファイルに基づいている。このため、動作２１２において、第２の周波数によって走査された第２の走査イオンビームを用いて、ワークピースの内部にイオンが注入される。従って、例えば、図１のイオンビーム１１２がイオン注入時に用いられる周波数よりも十分に高い周波数によって走査された場合に、当該イオンビーム１１２がプロファイリングされる。それゆえ、イオンビームのプロファイリングに要する時間を低減することにより、スループットが増加する。
+</base:Paragraphs>
+        <base:Paragraphs num="0036">
+  別の例として、図２の動作２１４において、イオンビームは、第２のプロセスレシピに応じてさらに調整される。第２のプロセスレシピは、少なくとも部分的に、第２のプロファイルに基づいている。例えば、第１の周波数での走査と第２の周波数での走査との間での変化は、イオンビームを第２のプロセスレシピに応じて調整することよって補償されてよい。加えて、第２のプロファイルの判定は、イオンビームの走査に関連する走査発生・増幅システムの周波数応答にさらに基づいていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0037">
+  本発明は特定の好適な１つ以上の実施形態に関して図示および説明されているが、本明細書および添付の図面を読んで理解することにより、等価的な変形および修正が当業者によって想到されることは明白である。特に、上述の部材（アセンブリ、デバイス、および回路等）によって実現される様々な機能に関して、これらの部材を説明するために使用される用語（「手段」（means）への言及を含む）は、特に明示されない限り、説明された
+
+部材の特定の機能を実現する任意の部材（つまり、機能的に等価である部材）に対応するものであると意図されている。このことは、例え当該任意の部材が、本明細書において、本発明の例示的な実施形態にて説明された機能を実現する開示された構造と、構造的に等価でない場合にも当てはまる。さらに、本発明の特定の構成は、複数の実施形態のうちの１つの実施形態のみに関して開示されている場合がある。但し、任意または特定の応用例について、望ましくかつ有益である場合には、このような構成は、他の実施形態の１つ以上の構成と組み合わせられてもよい。
+</base:Paragraphs>
+        <business:DrawingsDescription>
+          <base:Paragraphs num="0038">
+            <base:FigureReference num="0001">本開示の１つの例示的な態様に基づくイオン注入システムを示すブロック図である。</base:FigureReference>
+            <base:FigureReference num="0002">本開示に基づいてイオンビームをプロファイリングするための例示的な方法を示すブロック図である。</base:FigureReference>
+          </base:Paragraphs>
+        </business:DrawingsDescription>
+      </business:Description>
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>
+  ワークピースにイオンを注入するためのイオン注入システムであって、
+
+  イオンビームを発生させるイオン源と、
+
+  上記イオンビームを質量分析する質量分析器と、
+
+  走査イオンビームを規定するために走査平面に沿って上記イオンビームを走査し、かつ、<base:Underline style="single">ビームプロファイリングのための</base:Underline>第１の周波数<base:Underline style="single">、</base:Underline>および<base:Underline style="single">注入のための</base:Underline>第２の周波数によって上記イオンビームをさらに走査するビームスキャナと、
+
+  上記ビームスキャナが上記イオンビームを第２の周波数によって走査する場合に、上記ワークピースに関連するワークピース平面において上記走査イオンビームを受けるエンドステーションと、
+
+  上記イオンビームが上記第１の周波数によって走査される場合に、上記走査平面に沿って上記走査イオンビームを通過するように移動するビームプロファイリング装置と、
+
+  制御器と、を備えており、
+
+  上記第１の周波数は、上記第２の周波数よりも高く、
+
+  上記ビームプロファイリング装置は、上記移動とともに、上記走査イオンビームの１つ以上の特性をさらに測定し、
+
+  上記制御器は、
+
+    上記イオンビームが上記第１の周波数によって走査された場合の、上記走査イオンビームの上記１つ以上の特性に<base:Underline style="single">部</base:Underline>分的に基づいて、
+
+    上記イオンビームが第２の周波数によって走査され<base:Underline style="single">る場合に得られるであろう</base:Underline>、上記走査イオンビームのプロファイルを<base:Underline style="single">決定し、</base:Underline><base:Underline style="single">上記制御器は、さらに、</base:Underline><base:Underline style="single">  （ｉ）上記第１の周波数によって測定された、上記イオンビームの上記１つ以上の特性と、</base:Underline><base:Underline style="single">  （ｉｉ）上記イオンビームが上記第２の周波数によって走査される場合に得られるであろう、上記イオンビームの所望の１つ以上の特性と、に基づいて、上記イオンビームを調整する</base:Underline>ことを特徴とするイオン注入システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>
+  上記イオンビームの上記１つ以上の特性は、
+
+  上記イオンビームの電流、および、上記ワークピース平面に入射する上記イオンビームの角度のうちの、１つ以上を含んでいることを特徴とする請求項１に記載のイオン注入システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>
+  上記第１の周波数は、上記第２の周波数の少なくとも２倍であることを特徴とする請求項１に記載のイオン注入システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>
+  上記第１の周波数は、上記第２の周波数に比べて、少なくとも１桁のオーダで高いことを特徴とする請求項１に記載のイオン注入システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>
+  上記ビームプロファイリング装置は、上記走査平面に沿って上記イオンビームを通過するファラデーカップを備えていることを特徴とする請求項１に記載のイオン注入システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>
+  上記ファラデーカップは、上記イオンビームの一部の侵入が許容される狭いスリットを備えていることを特徴とする請求項５に記載のイオン注入システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>
+  上記制御器は、上記イオン源、上記質量分析器、および上記ビームスキャナのうちの１つ以上を制御することによって、上記イオンビームを調整することを特徴とする請求項<base:Underline style="single">１</base:Underline>に記載のイオン注入システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>
+  イオンを注入するための方法であって、
+
+  第１のプロセスレシピに応じてイオンビームを調整する工程と、
+
+  第１の走査イオンビームを規定するために、<base:Underline style="single">ビームプロファイリングのための</base:Underline>第１の周波数によって、走査平面に沿って上記イオンビームを走査する工程と、
+
+  上記第１の走査イオンビームを通過するように、ビームプロファイリング装置を移動させる工程と、
+
+  上記第１の走査イオンビームに関連する第１のビームプロファイルを規定するために、上記ビームプロファイリング装置の上記移動とともに、当該第１の走査イオンビームの幅方向に対して、当該第１の走査イオンビームの１つ以上の<base:Underline style="single">特性</base:Underline>を測定する工程と、
+
+  <base:Underline style="single">上</base:Underline>記第１のビームプロファイルに<base:Underline style="single">部</base:Underline>分的に基づいて、<base:Underline style="single">上記第１の周波数よりも低い第２の周波数によって、上記走査平面に沿って上記イオンビームを走査するために用いられるであろう</base:Underline>第２のビームプロファイルを<base:Underline style="single">決定</base:Underline>する工程と、
+
+  <base:Underline style="single">第２のプロセスレシピに応じて上記イオンビームを調整する工程と、を含んでおり、</base:Underline><base:Underline style="single">上記第２のプロセスレシピは、</base:Underline><base:Underline style="single">上記第２のビームプロファイルに基づいているとともに、</base:Underline><base:Underline style="single">    （ｉ）上記第１の周波数によって測定された、上記第１の走査イオンビームの上記１つ以上の特性と、</base:Underline><base:Underline style="single">  （ｉｉ）上記イオンビームが上記第２の周波数によって走査される場合に得られるであろう、上記イオンビームの所望の１つ以上の特性と、に基づいており、</base:Underline><base:Underline style="single">上記方法は、</base:Underline><base:Underline style="single">第２の走査イオンビームを規定するために、注入のための上記第２の周波数によって、上記走査平面に沿って上記イオンビームを走査する工程と、</base:Underline>
+
+  上記第２の走査イオンビームを用いて、ワークピースにイオンを注入する工程と、を含んでいることを特徴とする方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>
+  上記第１の走査イオンビームの上記１つ以上の特性は、
+
+  上記イオンビームの電流、上記イオンビームの均一性、および、上記イオンビームの角度のうちの、１つ以上を含んでいることを特徴とする請求項<base:Underline style="single">８</base:Underline>に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>
+  上記ビームプロファイリング装置は、ファラデーカップを備えていることを特徴とする請求項<base:Underline style="single">８</base:Underline>に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>
+  上記第２の<base:Underline style="single">ビーム</base:Underline>プロファイルを<base:Underline style="single">決定</base:Underline>する工程は、上記イオンビームの走査に関連する走査発生・増幅システムの周波数応答にさらに基づいていることを特徴とする請求項<base:Underline style="single">８</base:Underline>に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>
+  上記第１の周波数は、上記第２の周波数の少なくとも２倍であることを特徴とする請求項<base:Underline style="single">８</base:Underline>に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>
+  上記第１の周波数は、上記第２の周波数に比べて、少なくとも１桁のオーダで高いことを特徴とする請求項<base:Underline style="single">８</base:Underline>に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>
+  イオン注入システムにおいて線量制御を行うための方法であって、
+
+  第１のプロセスレシピを用いてイオンビームを形成する工程と、
+
+  <base:Underline style="single">ビームプロファイリングのための</base:Underline>第１の走査イオンビームを形成するために、第１の周波数によって、走査平面に沿って上記イオンビームを走査する工程と、
+
+  上記第１の走査イオンビームに関連する時間・位置依存の第１のプロファイルを規定するために、上記イオンビームを通過するようにビームプロファイリング装置を移動させることにより、上記第１の走査イオンビームの１つ以上の<base:Underline style="single">特性</base:Underline>を測定する工程と、
+
+  <base:Underline style="single">上</base:Underline>記第１のプロファイルに<base:Underline style="single">部</base:Underline>分的に基づいて、<base:Underline style="single">上記第１の周波数よりも低い第２の周波数によって、上記走査平面に沿って上記イオンビームを走査するために用いられるであろう</base:Underline>時間・位置依存の第２のプロファイルを<base:Underline style="single">決定</base:Underline>する工程と、
+
+  <base:Underline style="single">第２のプロセスレシピに応じて上記イオンビームを調整する工程と、を含んでおり、</base:Underline><base:Underline style="single">上記第２のプロセスレシピは、</base:Underline><base:Underline style="single">上記第２のプロファイルに基づいているとともに、</base:Underline><base:Underline style="single">    （ｉ）上記第１の周波数によって測定された、上記第１の走査イオンビームの上記１つ以上の特性と、</base:Underline><base:Underline style="single">  （ｉｉ）上記イオンビームが上記第２の周波数によって走査される場合に得られるであろう、上記イオンビームの所望の１つ以上の特性と、に基づいており、</base:Underline><base:Underline style="single">上記方法は、</base:Underline><base:Underline style="single">注入のための第２の走査イオンビームを形成するために、上記第２の周波数によって、上記走査平面に沿って上記イオンビームを走査する工程と、</base:Underline>
+
+  上記第２の走査イオンビームを用いて、ワークピースにイオンを注入する工程と、を含んでいることを特徴とする方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0015">
+          <business:ClaimText>
+  上記イオンビームの上記１つ以上の特性を測定する工程は、
+
+  上記イオンビームの電流、および、上記走査平面における上記イオンビームの入射角を、測定する工程を含んでいることを特徴とする請求項<base:Underline style="single">１４</base:Underline>に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0016">
+          <business:ClaimText>
+  上記イオンビームの上記１つ以上の特性を測定する工程は、
+
+  上記第１の走査イオンビームの第１の側稜から第２の側稜までファラデーカップを移動させる工程と、
+
+  上記ファラデーカップを用いて、上記ビームの電流を測定する工程と、を含んでいることを特徴とする請求項<base:Underline style="single">１４</base:Underline>に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0017">
+          <business:ClaimText>
+  上記第１の周波数は、上記第２の周波数に比べて、少なくとも１桁のオーダで高いことを特徴とする請求項<base:Underline style="single">１４</base:Underline>に記載の方法。
+
+ 
+</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

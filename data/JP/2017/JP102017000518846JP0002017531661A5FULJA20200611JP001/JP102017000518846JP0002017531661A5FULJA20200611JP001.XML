@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000518846JP0002017531661A5FULJA20200611JP001.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2017531661" kind="A5" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017531661</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017531661</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">特許法第１７条の２の規定による補正の掲載</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>2017041</business:GazetteNumber>
+        <base:Date>00000000</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000518846</base:DocNumber>
+        <base:Date>00000000</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017518846</base:DocNumber>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>27</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  27/02        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>59</business:MainGroup>
+        <business:Subgroup>72</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  59/72        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>43</business:MainGroup>
+        <business:Subgroup>23</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  43/23        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>69</business:MainGroup>
+        <business:Subgroup>76</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  69/76        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>49</business:MainGroup>
+        <business:Subgroup>755</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  49/755       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="6">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>7</business:MainGroup>
+        <business:Subgroup>18</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07F   7/18        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="7">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>49</business:MainGroup>
+        <business:Subgroup>84</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  49/84        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="8">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>39</business:MainGroup>
+        <business:Subgroup>17</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  39/17        20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="9">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>37</business:MainGroup>
+        <business:Subgroup>055</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  37/055       20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="10">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>41</business:MainGroup>
+        <business:Subgroup>30</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  41/30        20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="11">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>45</business:MainGroup>
+        <business:Subgroup>29</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  45/29        20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="12">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>45</business:MainGroup>
+        <business:Subgroup>65</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07C  45/65        20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="13">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>53</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07B  53/00        20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="14">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>61</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07B  61/00        20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="15">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>07</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>309</business:MainGroup>
+        <business:Subgroup>12</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C07D 309/12        20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="16">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>31</business:MainGroup>
+        <business:Subgroup>192</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  31/192       20060101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">C07C27/02</business:FI>
+      <business:FI type="secondary">C07C59/72</business:FI>
+      <business:FI type="secondary">C07C43/23 C</business:FI>
+      <business:FI type="secondary">C07C69/76 A</business:FI>
+      <business:FI type="secondary">C07C49/755</business:FI>
+      <business:FI type="secondary">C07F7/18 H</business:FI>
+      <business:FI type="secondary">C07C49/84 C</business:FI>
+      <business:FI type="secondary">C07F7/18 G</business:FI>
+      <business:FI type="additional">C07C39/17</business:FI>
+      <business:FI type="additional">C07C37/055</business:FI>
+      <business:FI type="additional">C07C41/30</business:FI>
+      <business:FI type="additional">C07C45/29</business:FI>
+      <business:FI type="additional">C07C45/65</business:FI>
+      <business:FI type="additional">C07B53/00 B</business:FI>
+      <business:FI type="additional">C07B61/00 300</business:FI>
+      <business:FI type="additional">C07D309/12</business:FI>
+      <business:FI type="additional">A61K31/192</business:FI>
+    </business:JPClassification>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T5</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+  </business:BibliographicData>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <base:Paragraphs num="0038">
+ｈ２．）ｘが２を意味する場合、キラル触媒の存在下で有機金属<base:Underline style="single">試薬</base:Underline>と反応させ、次いで一般式ＩＶｂ．
+
+<base:Chemistry num="0023"><base:Image id="imag000001" he="58" wi="111" file="2017531661_000001.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>4</base:Sup>の意味は上と同義である］
+
+の生成した化合物の保護基Ｒ<base:Sup>4</base:Sup>を除去し、
+</base:Paragraphs>
+      </business:Description>
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>
+  式Ｉ
+
+<base:Chemistry num="0001"><base:Image id="imag000002" he="41" wi="116" file="2017531661_000002.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+のトレプロスチニル、ならびに塩基を使用して得られたその非晶質塩形態、塩無水物、ならびに塩の一水和物および多水和物の製造方法であって、
+
+一般式ＸＶＩＩ
+
+<base:Chemistry num="0002"><base:Image id="imag000003" he="20" wi="113" file="2017531661_000003.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル基また<base:Underline style="single">はメ</base:Underline>トキシメチル<base:Underline style="single">基を</base:Underline>表<base:Underline style="single">す、</base:Underline>
+
+  ｘは０または２を表す］
+
+の化合物を一般式ＸＶＩ
+
+<base:Chemistry num="0003"><base:Image id="imag000004" he="35" wi="99" file="2017531661_000004.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表す］
+
+の化合物と、
+
+ａ１．）グリニャール試薬の存在下で反応させ、一般式ＸＶ
+
+<base:Chemistry num="0004"><base:Image id="imag000005" he="40" wi="107" file="2017531661_000005.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>1</base:Sup>およびＲ<base:Sup>2</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を酸化させ、
+
+一般式ＸＩＶ
+
+<base:Chemistry num="0005"><base:Image id="imag000006" he="39" wi="116" file="2017531661_000006.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>1</base:Sup>およびＲ<base:Sup>2</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を選択的に還元し、
+
+または
+
+ａ２．）キラル塩基および亜鉛塩の存在下で反応させ、工程ａ１．）またはａ２．）で得られた一般式ＸＩＩＩ
+
+<base:Chemistry num="0006"><base:Image id="imag000007" he="40" wi="117" file="2017531661_000007.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>1</base:Sup>およびＲ<base:Sup>2</base:Sup>は上で定義した意味を有する］
+
+の化合物を、基Ｒ<base:Sup>3</base:Sup>を導入するのに適した化合物と反応させ、ここで、Ｒ<base:Sup>3</base:Sup>はケイ素原子<base:Underline style="single">含有保護基</base:Underline>を表し、
+
+ｂ．）一般式ＸＩＩ
+
+<base:Chemistry num="0007"><base:Image id="imag000008" he="45" wi="117" file="2017531661_000008.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>1</base:Sup>、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>3</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を分子内環化に供し、
+
+ｃ．）一般式ＸＩ
+
+<base:Chemistry num="0008"><base:Image id="imag000009" he="42" wi="117" file="2017531661_000009.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>1</base:Sup>、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>3</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を触媒的に水素化し、ｘ＝０の場合は異性化し、
+
+ｄ．）一般式Ｘａ．またはＸｂ．
+
+<base:Chemistry num="0009"><base:Image id="imag000010" he="89" wi="140" file="2017531661_000010.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、Ｒ<base:Sup>1</base:Sup>、Ｒ<base:Sup>2</base:Sup>は上で定義した意味を有し、式Ｘａ．の化合物においてはｘ＝０、式Ｘｂ．の化合物においてはｘ＝２である］
+
+の生成した化合物を還元し、
+
+ｅ．）一般式ＩＸ
+
+<base:Chemistry num="0010"><base:Image id="imag000011" he="41" wi="114" file="2017531661_000011.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>1</base:Sup>およびＲ<base:Sup>2</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を、基Ｒ<base:Sup>4</base:Sup>を導入するのに適した化合物と反応させ、ここで、Ｒ<base:Sup>4</base:Sup>は<base:Underline style="single">ｐ－フェニルベンゾイル基</base:Underline>を表す<base:Underline style="single">、</base:Underline><base:Underline style="single">ｆ</base:Underline>．）一般式ＶＩＩＩ
+
+<base:Chemistry num="0011"><base:Image id="imag000012" he="50" wi="114" file="2017531661_000012.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>1</base:Sup>、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>4</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物から、該Ｒ<base:Sup>1</base:Sup>保護基を酸性媒体中で切断し、
+
+ｇ．）一般式ＶＩＩ
+
+<base:Chemistry num="0012"><base:Image id="imag000013" he="51" wi="114" file="2017531661_000013.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>4</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を酸化させ、
+
+ｈ．）一般式ＶＩ
+
+<base:Chemistry num="0013"><base:Image id="imag000014" he="47" wi="113" file="2017531661_000014.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、ｘ、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>4</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を、
+
+ｈ１．）ｘが０を意味する場合は、ウィッティヒ反応において一般式
+
+        ＣＨ<base:Sub>3</base:Sub>－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>4</base:Sub>－ＣＯ－ＣＨ<base:Sub>2</base:Sub>－ＰＯ（ＯＲ<base:Sup>6</base:Sup>）<base:Sub>2</base:Sub>
+
+［式中、Ｒ<base:Sup>6</base:Sup>はＣ<base:Sub>1</base:Sub>～<base:Sub>4</base:Sub>アルキル基またはフェニル基を表す］
+
+の化合物と反応させ、一般式Ｖ
+
+<base:Chemistry num="0014"><base:Image id="imag000015" he="50" wi="117" file="2017531661_000015.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>4</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を選択的に還元し、一般式ＩＶａ．
+
+<base:Chemistry num="0015"><base:Image id="imag000016" he="49" wi="117" file="2017531661_000016.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>4</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物のＲ<base:Sup>4</base:Sup>保護基を除去し、一般式ＩＩＩ
+
+<base:Chemistry num="0016"><base:Image id="imag000017" he="43" wi="117" file="2017531661_000017.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、Ｒ<base:Sup>2</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物を水素化するか、または
+
+ｈ２．）ｘが２を意味する場合、キラル触媒の存在下で有機金属<base:Underline style="single">試薬</base:Underline>と反応させ、一般式ＩＶｂ．
+
+<base:Chemistry num="0017"><base:Image id="imag000018" he="50" wi="123" file="2017531661_000018.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、Ｒ<base:Sup>2</base:Sup>およびＲ<base:Sup>4</base:Sup>は上で定義した意味を有する］
+
+の生成した化合物の保護基Ｒ<base:Sup>4</base:Sup>を除去し、
+
+ｉ）工程ｈ１．）またはｈ２．）で得られた一般式ＩＩ
+
+<base:Chemistry num="0018"><base:Image id="imag000019" he="42" wi="112" file="2017531661_000019.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、Ｒ<base:Sup>2</base:Sup>は上で定義した意味を有する］
+
+の化合物を公知の方法によって式Ｉのトレプロスチニルに変換させ、所望の場合には、塩基を使用して得られるその塩に変換させる
+
+ことを特徴とする、前記方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>
+  Ｒ<base:Sup>1</base:Sup>保護基としてメトキシメチル<base:Underline style="single">基ま</base:Underline>たはテトラヒドロピラニル基、Ｒ<base:Sup>2</base:Sup>保護基としてメチル基、Ｒ<base:Sup>3</base:Sup>保護基としてケイ素原子含有保護<base:Underline style="single">基、</base:Underline>Ｒ<base:Sup>4</base:Sup>保護基としてｐ－フェニルベンゾイル基が適用されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>
+  前記工程ａ１において、グリニャール試薬としてメチルマグネシウムブロミド、エチルマグネシウムブロミド、プロピルマグネシウムブロミド、ブチルマグネシウムブロミド、シクロヘキシルマグネシウムブロミ<base:Underline style="single">ドが</base:Underline>適用されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>
+  前記工程ａ１において、式ＸＶの化合物の酸化はスワーン酸化により実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>
+  前記工程ａ１において、還元はキラルなオキサザボロリジン触媒の存在下でボラン化合物を使用して実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>
+  ボラン化合物として、ボラン－ジメチルスルフィド錯体、カテコールボランまたはボラン－ジエチルアニリン錯<base:Underline style="single">体が</base:Underline>適用されることを特徴とする、請求項５に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>
+  前記工程ａ２において、キラル塩基としてキラルなアミノアルコールまたはジアミ<base:Underline style="single">ンが</base:Underline>適用されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>
+  前記工程ａ２において、亜鉛塩として亜鉛トリフラートが適用されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>
+  前記工程ｂにおいて、分子内環化はポーソン・カンド環化方法により実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>
+  ポーソン・カンド環化はジコバルトオクタカルボニルを使用することにより実行されることを特徴とする、請求項９に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>
+  ジコバルトオクタカルボニルが等モル量でまたは等モル未満もしくは等モル超の量で適用されることを特徴とする、請求項１０に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>
+  反応は一酸化炭素雰囲気中で実行されることを特徴とする、請求項９～１１のいずれか１項に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>
+  反応は酢酸エチル中で実行されることを特徴とする、請求項９～１２のいずれか１項に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>
+  前記工程ｃにおいて、式ＸＩの化合物の水素化用の触媒として、Ｐｄ／Ｃ触媒または酸化白金触<base:Underline style="single">媒が</base:Underline>適用されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0015">
+          <business:ClaimText>
+  前記工程ｄにおいて、式Ｘの化合物の還元は水素化ジイソブチルアルミニウム、水素化アルミニウムリチウム、アルミニウムイソプロピレートまたは水素化ホウ素ナトリウ<base:Underline style="single">ムを</base:Underline>使用して実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0016">
+          <business:ClaimText>
+  前記工程ｅにおいて、基Ｒ<base:Sup>4</base:Sup>の導入に適した化合物としてｐ－フェニルベンゾイルクロリドが適用されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0017">
+          <business:ClaimText>
+  前記工程ｇにおいて、式ＶＩＩの化合物の酸化はスワーン条件下で、もしくはＴＥＭＰＯを使用して、またはフィッツナー・モファット条件下で実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0018">
+          <business:ClaimText>
+  前記工程ｈ１において、式Ｖの化合物の還元はオキサザボロリジン触媒の存在下でボラン化合物を使用して実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0019">
+          <business:ClaimText>
+  ボラン化合物としてカテコールボラン、ボラン－ジエチルアニリン錯体、ボラン－ジメチルスルフィド錯<base:Underline style="single">体が</base:Underline>適用されることを特徴とする、請求項１８に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0020">
+          <business:ClaimText>
+  前記工程ｉにおいて、適用される触媒は酸化白金触媒、Ｐｄ／Ｃ触<base:Underline style="single">媒で</base:Underline>あることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0021">
+          <business:ClaimText>
+  前記工程ｈ１またはｈ２において、Ｒ<base:Sup>4</base:Sup>保護基の切断は塩基の存在下でメタノリシスにより実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0022">
+          <business:ClaimText>
+  一般式ＩＩＩ
+
+<base:Chemistry num="0019"><base:Image id="imag000020" he="43" wi="120" file="2017531661_000020.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0023">
+          <business:ClaimText>
+  一般式ＩＶ
+
+<base:Chemistry num="0020"><base:Image id="imag000021" he="51" wi="119" file="2017531661_000021.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  Ｒ<base:Sup>4</base:Sup>は<base:Underline style="single">ｐ－フェニルベンゾイル基</base:Underline>を表す、
+
+  点線は単結合または二重結合を表す］
+
+の化合物（ただし、メチル２－（（１Ｒ，２Ｒ，３ａＳ，９ａＳ）－２，３，３ａ，４，９，９ａ－ヘキサヒドロ－２－（ｔｅｒｔ－ブチルジメチルシリオキシ）－１－（（Ｓ，Ｅ）－３－ヒドロキシオクト－１－エニル）－１Ｈ－シクロペンタ［ｂ］ナフタレン－５－イルオキシ）アセテートを除く）。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0024">
+          <business:ClaimText>
+  一般式Ｖ
+
+<base:Chemistry num="0021"><base:Image id="imag000022" he="49" wi="116" file="2017531661_000022.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  Ｒ<base:Sup>4</base:Sup>は<base:Underline style="single">ｐ－フェニルベンゾイル基</base:Underline>を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0025">
+          <business:ClaimText>
+  一般式ＶＩ
+
+<base:Chemistry num="0022"><base:Image id="imag000023" he="47" wi="113" file="2017531661_000023.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  Ｒ<base:Sup>4</base:Sup>は<base:Underline style="single">ｐ－フェニルベンゾイル基</base:Underline>を表す、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0026">
+          <business:ClaimText>
+  一般式ＶＩＩ
+
+<base:Chemistry num="0023"><base:Image id="imag000024" he="50" wi="116" file="2017531661_000024.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  Ｒ<base:Sup>4</base:Sup>は<base:Underline style="single">ｐ－フェニルベンゾイル基</base:Underline>を表す、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0027">
+          <business:ClaimText>
+  一般式ＶＩＩＩ
+
+<base:Chemistry num="0024"><base:Image id="imag000025" he="50" wi="123" file="2017531661_000025.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル<base:Underline style="single">基ま</base:Underline>たはメトキシメチル<base:Underline style="single">基を</base:Underline>表す、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  Ｒ<base:Sup>4</base:Sup>は<base:Underline style="single">ｐ－フェニルベンゾイル基</base:Underline>を表す、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0028">
+          <business:ClaimText>
+  一般式ＩＸ
+
+<base:Chemistry num="0025"><base:Image id="imag000026" he="43" wi="110" file="2017531661_000026.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル<base:Underline style="single">基または</base:Underline>メトキシメチル基を表す、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0029">
+          <business:ClaimText>
+  一般式Ｘ
+
+<base:Chemistry num="0026"><base:Image id="imag000027" he="43" wi="115" file="2017531661_000027.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル基<base:Underline style="single">または</base:Underline>メトキシメチル基を表す、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0030">
+          <business:ClaimText>
+  一般式ＸＩ
+
+<base:Chemistry num="0027"><base:Image id="imag000028" he="42" wi="116" file="2017531661_000028.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル基<base:Underline style="single">または</base:Underline>メトキシメチル基を表す、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  Ｒ<base:Sup>3</base:Sup>はケイ素原子<base:Underline style="single">含有</base:Underline>保護基を表し、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0031">
+          <business:ClaimText>
+  一般式ＸＩＩ
+
+<base:Chemistry num="0028"><base:Image id="imag000029" he="46" wi="114" file="2017531661_000029.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル基<base:Underline style="single">または</base:Underline>メトキシメチル基を表す、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  Ｒ<base:Sup>3</base:Sup>はケイ素原子<base:Underline style="single">含有</base:Underline>保護基を表し、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0032">
+          <business:ClaimText>
+  一般式ＸＩＩＩ
+
+<base:Chemistry num="0029"><base:Image id="imag000030" he="41" wi="119" file="2017531661_000030.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル基<base:Underline style="single">または</base:Underline>メトキシメチル基、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0033">
+          <business:ClaimText>
+  一般式ＸＩＶ
+
+<base:Chemistry num="0030"><base:Image id="imag000031" he="39" wi="116" file="2017531661_000031.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル基またはメトキシメチル基を表す、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0034">
+          <business:ClaimText>
+  一般式ＸＶ
+
+<base:Chemistry num="0031"><base:Image id="imag000032" he="40" wi="120" file="2017531661_000032.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>1</base:Sup><base:Underline style="single">はテ</base:Underline>トラヒドロピラニル基<base:Underline style="single">または</base:Underline>メトキシメチル基を表す、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表し、
+
+  ｘは０または２を表す］
+
+の化合物。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0035">
+          <business:ClaimText>
+  一般式ＩＩ
+
+<base:Chemistry num="0032"><base:Image id="imag000033" he="44" wi="115" file="2017531661_000033.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Chemistry>
+［式中、
+
+  Ｒ<base:Sup>2</base:Sup>は－（ＣＨ<base:Sub>2</base:Sub>）<base:Sub>n</base:Sub>Ｙを表し、ここで、
+
+    Ｙは水素原<base:Underline style="single">子を</base:Underline>表し、
+
+    ｎは<base:Underline style="single">１を</base:Underline>表す］
+
+の化合物のＲ<base:Sup>2</base:Sup>基の除去はアルカリハロゲン化物の存在下でドデカンチオールを使用して実行されることを特徴とする、請求項１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000222514JP00020161272710AFULJA20160711JP00V.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127271" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127271</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127271</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000222514</base:DocNumber>
+        <base:Date>20151112</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015222514</base:DocNumber>
+        <base:Date>20151112</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000265572</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265572</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>S</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>183</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01S   5/183       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>306</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  21/306       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01S5/183</business:FI>
+      <business:FI type="secondary">H01L21/306 B</business:FI>
+      <business:FI type="secondary">H01L21/306 S</business:FI>
+      <business:FClass>
+        <business:FTerm>5F043AA15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F043BB08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F043DD15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AC14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AH03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AP32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AP33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AR06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5F043</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5F173</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">面発光レーザ、情報取得装置、撮像装置、レーザアレイ及び面発光レーザの製造方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>キヤノン株式会社</base:Name>
+            <base:RegisteredNumber>000001007</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都大田区下丸子３丁目３０番２号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中西  宏一郎</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都大田区下丸子３丁目３０番２号キヤノン株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>長友  靖浩</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都大田区下丸子３丁目３０番２号キヤノン株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>阿部  琢磨</base:Name>
+            <base:RegisteredNumber>100126240</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>黒岩  創吾</base:Name>
+            <base:RegisteredNumber>100124442</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>18</business:ClaimsCount>
+      <base:TotalPageCount>13</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】  波長可変帯域が広い面発光レーザを提供する。【解決手段】  第１反射鏡１０２と第２反射鏡１１６と第１反射鏡１０２と第２反射鏡１１６の間に配置された活性層１０４と、を有し、第２反射鏡１１６と活性層１０４の間には間隙が形成され、発振波長が可変である面発光レーザであって、第２反射鏡１１６は、単結晶の半導体からなる梁１０８と、梁１０８によって支持された誘電体多層膜１１０と、を有し、誘電体多層膜１１０は、梁１０８に形成された開口部１１８に配置されている。【選択図】  図１</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="63" file="2016127271_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、面発光レーザ、情報取得装置、撮像装置、レーザアレイ及び面発光レーザの製造方法に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  発振波長を変えることのできる波長可変レーザは、通信やセンシング、イメージングなどの様々な分野への応用が期待できることから、近年盛んに研究開発が行われている。波長可変レーザとしては、垂直共振器型面発光レーザ（Ｖｅｒｔｉｃａｌ  Ｃａｖｉｔｙ  Ｓｕｒｆａｃｅ  Ｅｍｉｓｓｉｏｎ  Ｌａｓｅｒ：以下、ＶＣＳＥＬという）の一対の反射鏡の一方を動かす構成が開発されている。具体的には、Ｍｉｃｒｏ  Ｅｌｅｃｔｒｏ  Ｍｅｃｈａｎｉｃａｌ  Ｓｙｓｔｅｍｓ（以下、ＭＥＭＳという）技術により一対の反射鏡の一方（可動鏡）を機械的に動かすことで共振器長を変動させ、ＶＣＳＥＬの発振波長を変化させている。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  また、可動鏡としては、誘電体の分布ブラッグ反射鏡（Ｄｉｓｔｒｉｂｕｔｅｄ  Ｂｒａｇｇ  Ｒｅｆｌｅｃｔｏｒ：以下ＤＢＲという）を用いることができる。非特許文献１には、誘電体ＤＢＲを可動鏡に備えた波長可変型のＶＣＳＥＬについて開示されている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">
+          <business:ApplicationCitation num="0001">
+            <base:Text>米国特許第８０５９６９０号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0002">
+            <base:Text>米国特許第８１８９６４３号明細書</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+      <business:NPL>
+        <base:Paragraphs num="0005">
+          <business:NPLCitation num="0001">
+            <base:Text>Ｇａｒｒｅｔｔ  Ｄ．  Ｃｏｌｅ  ｅｔ  他３名、「Ｓｈｏｒｔ－Ｗａｖｅｌｅｎｇｔｈ  ＭＥＭＳ－ｔｕｎａｂｌｅ  ＶＣＳＥＬｓ」、ＯＰＴＩＣＳ  ＥＸＰＲＥＳＳ  ２９ｔｈ  Ｓｅｐｔｅｍｂｅｒ  ２００８  Ｖｏｌ．１６  Ｎｏ．２０  ｐ．１６０９３－１６１０３</base:Text>
+          </business:NPLCitation>
+        </base:Paragraphs>
+      </business:NPL>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">
+  非特許文献１のＦｉｇ．４に示されるように、誘電体ＤＢＲは広い波長帯域で高い反射率を有するが、この誘電体ＤＢＲの反射率スペクトルは、反射率が他よりも大きく低下するディップといわれる領域が存在する。波長可変型のＶＣＳＥＬにおいて、このディップに対応する波長では発振閾値が上昇するため、発振しにくく、波長可変帯域を広くすることができなくなる。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  本発明の目的は、波長可変帯域が広い面発光レーザを提供することである。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">
+  本発明の一態様の面発光レーザは、第１反射鏡と、第２反射鏡と、前記第１反射鏡と前記第２反射鏡の間に配置された活性層と、を有し、前記第２反射鏡と前記活性層の間には間隙が形成され、前記第２反射鏡は、単結晶の半導体からなる梁と、前記梁によって支持された誘電体多層膜と、を有し、前記誘電体多層膜は、前記梁に形成された開口部に配置されていることを特徴とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  本発明の別の態様の面発光レーザは、第１反射鏡と、第２反射鏡と、前記第１反射鏡と前記第２反射鏡の間に配置された活性層と、を有し、前記第２反射鏡は、梁と、前記梁によって支持された多層膜と、を有し、前記第２反射鏡と前記活性層の間には、間隙が形成され、前多層膜は、前記梁に形成された開口部に配置され、前記多層膜は、前記開口部から前記開口部の周辺の前記梁の前記活性層に対向する面とは反対側の面にまで繋がって配置されていることを特徴とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  また、本発明の面発光レーザの製造方法は、第１反射鏡と、第２反射鏡と、前記第１反射鏡と前記第２反射鏡の間に配置された活性層と、を有し、前記第２反射鏡と前記活性層の間には間隙が形成され、前記発振波長が可変である面発光レーザの製造方法であって、第１反射鏡と、活性層と、犠牲層と、をこの順に形成する工程と、前記犠牲層の上に、単結晶の半導体からなる梁前駆体を形成する工程と、前記梁前駆体に、前記梁前駆体を貫通する開口部を形成する工程と、前記開口部に誘電体多層膜を形成する工程と、前記犠牲層を除去して、前記第２反射鏡と前記活性層の間に間隙を形成して梁を形成する工程と、を有することを特徴とする。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0011">
+本発明によれば、波長可変帯域が広い面発光レーザを得ることができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0012">
+        <base:FigureReference num="0001">実施形態１に係る面発光レーザの一例を示す断面模式図</base:FigureReference>
+        <base:FigureReference num="0002">実施形態１に係る面発光レーザの上部反射ミラーの反射特性を示す図</base:FigureReference>
+        <base:FigureReference num="0003">実施形態１に係る面発光レーザの他の一例を示す断面模式図</base:FigureReference>
+        <base:FigureReference num="0004">実施形態１に係る面発光レーザの梁の一例を示す模式図</base:FigureReference>
+        <base:FigureReference num="0005">実施形態２に係る撮像装置の一例を示す模式図</base:FigureReference>
+        <base:FigureReference num="0006">実施例１に係る面発光レーザの製造方法の一例を示す断面模式図</base:FigureReference>
+        <base:FigureReference num="0007">実施例２に係る面発光レーザの製造方法の一例を示す断面模式図</base:FigureReference>
+        <base:FigureReference num="0008">比較例の面発光レーザを示す断面模式図</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0013">
+  まず、上記の課題について詳しく述べる。図８は、比較例の面発光レーザを示す断面模式図である。この面発光レーザは、基板５００の上に、第１反射鏡５０２と、活性層５０４と、支持層５０６と、第２反射鏡５１６と、を有する。第２反射鏡５１６は、梁５０８と梁５０８上に形成された誘電体多層膜（誘電体ＤＢＲ）５１０とを有している。第２反射鏡５１６と活性層５０４と間には間隙ＡＧが形成されている。また、第２反射鏡５１６の梁５０８が支持層５０６により支持されている。活性層５０４内には、発光部５１２があり、発光部５１２と誘電体多層膜５１０が対応している。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  梁５０８は、単結晶の半導体からなり、導電性を有している。そして、基板５００の下部に設けられた第１電極５２４と梁５０８の上部に設けられた第２電極５２２との間に交流電圧を印加することによって、梁５０８が活性層５０４の厚さ方向に振動する。この結果、誘電体多層膜５１０も活性層５０４の厚さ方向に振動し、第１反射鏡５０２と第２反射鏡５１６からなる一対の反射鏡の共振器長が変動し、発光部５１２で発光した光のうち共振器長に応じた特定の波長の光が外部に射出される。このようにして、面発光レーザの発振波長が可変となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  比較例の第２反射鏡５１６の反射スペクトルは、図２の破線で表される。このように、比較例の第２反射鏡５１６では、反射率が他よりも０．５％以上大きく低下する領域であるディップが存在する。具体的には、１０６０ｎｍ乃至１０９５ｎｍの波長帯域で反射率が大きく低下している。このような領域では、レーザ発振が起こすことが困難になり、波長可変帯域が小さくなってしまう。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  本発明者らが鋭意検討を重ねた結果、誘電体多層膜５１０の下部に梁５０８があることで、この現象を引き起こすことが判明した。具体的には、図８の比較例の梁５０８の誘電体多層膜５１０側の面で反射する反射光Ｒ１と梁５０８の誘電体多層膜５１０側の面とは反対側の面で反射する反射光Ｒ２とが弱め合う干渉を特定の波長で起こしているものと考える。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  そこで、本発明の第２反射鏡としては、梁に開口部を設けて、その開口部に誘電体多層膜を配置する構成を採っている。この構成により、発光部と対応する位置に梁がないため、梁における弱め合いの干渉が生じない。この結果、図２の実線のように、第２反射鏡の反射スペクトルにディップが生じることがなく、波長可変帯域を広くすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  以下に、本発明に係る波長可変型の面発光レーザ、それを備える情報取得装置、撮像装置、及びレーザアレイについて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  （実施形態１）
+  図１は、本実施形態に係る面発光レーザの一例を示す断面模式図である。この面発光レーザは、基板１００の上に、第１反射鏡１０２と、活性層１０４と、支持層１０６と、第２反射鏡１１６と、を有する。第２反射鏡１１６は、梁１０８と梁１０８に支持された誘電体多層膜（誘電体ＤＢＲ）１１０とを有している。第２反射鏡１１６と活性層１０４と間には間隙ＡＧが形成されている。また、第２反射鏡１１６の梁１０８が支持層１０６により支持されている。活性層１０４内には、発光部１１２があり、発光部１１２と誘電体多層膜１１０が対応している。なお、基板１００と第１反射鏡１０２と活性層１０４と支持層１０６とを、以下で半導体構造体１１４という場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  梁１０８は、単結晶の半導体からなり、導電性を有している。そして、基板１００の下部に設けられた第１電極１２４と梁１０８の上部に設けられた第２電極１２２との間に交流電圧を印加することによって、梁１０８が活性層１０４の厚さ方向に振動する。この結果、誘電体多層膜１１０も活性層１０４の厚さ方向に振動し、第１反射鏡１０２と第２反射鏡１１６からなる一対の反射鏡の共振器長が変動し、発光部１１２で発光した光のうち共振器長に応じた特定の波長の光が外部に射出される。このようにして、面発光レーザの発振波長が可変となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  そして、本実施形態の面発光レーザでは、梁１０８に開口部１１８が設けられ、この開口部に誘電体多層膜１１０が配置されている。開口部１１８は、発光部１１２に対応する位置に設けられている。このため、上述したように、誘電体多層膜１１０も発光部１１２に対応する位置に配置される。この結果、発光部１１２に対応する位置の梁１０８がなくなるため、比較例のような課題が生じなくなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  図２は、本実施形態の第２反射鏡１１６の反射スペクトルを実線で示している。なお、破線は、図８の比較例の第２反射鏡５１６の反射スペクトルを示している。このように、比較例よりも広い波長帯域で高い反射率を維持していることが分かる。このため、波長可変型の面発光レーザの発振波長の可変波長帯域を広くすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  また、本実施形態の第２反射鏡１１６の構成によれば、比較例に対して共振器長（一対の反射鏡の間の光学距離）を短くすることができる。具体的には、単結晶の半導体からなる梁の屈折率をｎとし、その厚さをｄとすると、本実施形態の共振器長は、比較例のそれに比べて少なくとも（ｎ－１）×ｄ以上短くすることができる。共振器長が短い場合、式１で示す縦モード間隔Δλを大きくするようことができる。これにより、モードホップが生じにくく、安定した波長掃引動作が可能となる。
+Δλ＝λ<base:Sup>２</base:Sup>／（２Ｌ）  ・・・式１
+ここで、λは発振波長帯域の中心波長であり、Ｌは共振器長である。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  また、誘電体多層膜１１０の活性層１０４に対向する面Ｓ１が、梁１０８の活性層１０４に対向する面Ｓ２よりも活性層１０４の側に開口部１１８から突き出た構成とすることにより、さらに共振器長を短くすることができる。この構成により、モードホップをさらに抑制することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  さらに、誘電体多層膜１１０の活性層１０４に対向する面Ｓ１とは反対側の面Ｓ３が、梁１０８の活性層１０４に対向する面Ｓ２とは反対側の面Ｓ４よりも活性層１０４とは反対側に開口部１１８から突き出ていてもよい。また、面Ｓ３と面Ｓ４は同じ位置でもよいし、面Ｓ３の方が面Ｓ４よりも活性層１０４側に位置していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  また、支持層１０６は、複数の支持層が積層された構成であってもよい。この場合、各支持層は、異なる単結晶の半導体で構成されていることが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  第２反射鏡１１６の誘電体多層膜１１０としては、誘電体ＤＢＲを用いるが、その高屈折率と低屈折率の誘電体の組み合わせは使用する波長帯によって選択すればよい。例えば、面発光レーザの発振波長帯域が１μｍ帯域であれば、誘電体多層膜１１０は、酸化タンタルと酸化シリコンの多層膜や酸化チタンと酸化シリコンの多層膜を用いることができる。誘電体多層膜１１０としての反射帯域は、二つの誘電体の屈折率差で決まるため、なるべく二つの誘電体の屈折率差を大きくとることが重要である。一方、誘電体多層膜１１０の反射率は積層数を増やせば増大するが、積層数の増加につれてコストや作製の困難さが増大する。また、一般的に可動鏡である第２反射鏡１１６の共振周波数ｆは以下の式で表わされる。
+ｆ＝α×（ｋ／ｍ）<base:Sup>１／２</base:Sup>  ・・・式２
+ここで、αは第２反射鏡１１６の構造によって決まる定数であり、ｋは第２反射鏡１１６のばね定数、ｍは第２反射鏡１１６の実効質量である。このため、誘電体多層膜１１０の積層数を増やすと質量が増えるため、式２よりわかるように共振周波数が低下する。このため、誘電体多層膜１１０の積層数は必要最小限に設定することが好ましい。例えば所望の波長帯域に於いて反射率９９．５％程度を目安として積層数を決定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  なお、第２反射鏡１１６の質量を軽減する観点では、発光部１１２と対応する梁１０８上の開口部１１８にのみ誘電体多層膜１１０が設けられていることが好ましい。一方で、誘電体多層膜２１０の耐久性の観点から、図３のように、梁１０８上に誘電体多層膜２１０が開口部１１８から開口部１１８の周辺の梁１０８の活性層１０４対向する面とは反対側の面Ｓ４にまで繋がって配置されていることが好ましい。この構成であれば、誘電体多層膜２１０と梁１０８との接着面積を大きくすることができるため、誘電体多層膜２１０と梁１０８との密着性が大きくなり、誘電体多層膜２１０が梁１０８から剥がれるということが抑制できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  また、図３のような構成においては、開口部１１８周辺の梁１０８の厚さを、開口部１１８の周辺以外の梁１０８の厚さよりも薄くすると、開口部１１８による誘電体多層膜２１０の段切れが抑制できるため好ましい。例えば、図４（ａ）のように、梁１０８の厚さが開口部１１８に向かって連続的に薄くなってもよいし、図４（ｂ）のように、梁１０８の厚さが開口部１１８に向かって段階的に薄くなってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  また、開口部１１８は、図４（ｃ）のように、梁１０８をくり抜くような貫通孔で形成されていてもよい。また、その平面形状は、円形でもよいし、楕円や矩形でもよい。また、図４（ｄ）のように、開口部１１８は、梁１０８を切断するようなスリットでもよい。つまり、開口部１１８によって梁１０８は繋がっていない構成である。この場合には、誘電体多層膜２１０は、図３のように、梁１０８上に誘電体多層膜２１０が開口部１１８から開口部１１８の周辺の梁１０８にまで繋がって配置されていることが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  半導体構造体１１４は、使用する波長によって、各層の材料を選択すればよい。例えば、半導体構造体１１４の各層としては、ＧａＡｓ系やＩｎＰ系、ＧａＮ系などを用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  また、第１反射鏡１０２は、誘電体ＤＢＲや半導体ＤＢＲを用いてもよい。また、第１反射鏡１０２は、回折格子、例えば高屈折率差サブ波長回折格子（Ｈｉｇｈ  ｉｎｄｅｘＣｏｎｔｒａｓｔ  Ｇｒａｔｉｎｇ、以下ＨＣＧという）ミラーであってもよい。ＨＣＧミラーは、高屈折率の材料と低屈折率の材料とが面内方向に交互に周期的に並んだ構成である。例えば、高屈折率の材料（例えば、Ａｌ<base:Sub>０．７</base:Sub>Ｇａ<base:Sub>０．３</base:Sub>Ａｓ）の一部を除去してスリット（開口部）を周期的に形成することで、高屈折領域（Ａｌ<base:Sub>０．７</base:Sub>Ｇａ<base:Sub>０．３</base:Sub>Ａｓ）と低屈折領域（空気）を面内方向に交互に周期的に並んだ構成を得ることができる。なお、ＨＣＧとして、特許文献１及び２に記載されているものを用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  また、図１では、光励起型の面発光レーザを示している。そのため、この面発光レーザを発光させる手段として外部光源（不図示）を備えている。ただし、本実施形態の面発光レーザは、電流注入型の面発光レーザにも適用することが可能である。電流注入型の面発光レーザでは、キャリア注入用の一対の電極を別途有していればよい。また、第１電極１２４、第２電極１２２の一方を、キャリア注入用の一対の電極の一方と兼用する構成も可能である。例えば、活性層１０４の上に第３電極（不図示）が形成され、第２電極１２２と第３電極との間に交流電圧を印加することで梁１０８が駆動し、第１電極１２４と第３電極とを用いて発光部１１２に電流を流して発光部１１２が発光する構成でもよい。また、本実施形態の面発光レーザは、酸化狭窄構造などの発光領域を規定する規定構造、電流注入領域を規定する電流狭窄構造を有する構成としてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  本実施形態では、１つの面発光レーザについて説明したが、複数の面発光レーザをアレイ状に備えたレーザアレイの形態であっても、同様に適用できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  （実施形態２）
+  本実施形態では、実施形態１の面発光レーザを光源装置として用いた情報取得装置の例について説明する。波長可変型の光源装置は、光通信用光源や光計測用光源として利用することができる。さらに、波長可変型の光源装置は、非侵襲、非破壊で測定対象物の内部の情報を取得する情報取得装置の光源装置として利用することができる。以下では、本実施形態の光源装置を用いた情報取得装置の一例として、光干渉断層撮像装置（以下、ＯＣＴ装置という）について図５を用いて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  図５は、本実施形態に係るＯＣＴ装置８を示す模式図である。ＯＣＴ装置８は、光源装置８０１、干渉光学系８０２、光検出部８０３、測定対象物の内部情報を取得する情報取得部８０４、を少なくとも有する。光源装置８０１として、実施形態１又は２の面発光レーザを用いることができる。また、図示していないが、情報取得部８０４はフーリエ変換器を有する。ここで、情報取得部８０４がフーリエ変換器を有するとは、情報取得部８０４が入力されたデータに対してフーリエ変換する機能を有していれば形態は特に限定されない。一例は、情報取得部８０４が演算部を有し、この演算部がフーリエ変換する機能を有する場合である。具体的には、演算部がＣＰＵを有するコンピュータであり、このコンピュータが、フーリエ変換機能を有するアプリケーションを実行する場合である。他の例は、情報取得部８０４がフーリエ変換機能を有するフーリエ変換回路を有する場合である。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  光源装置８０１から出た光は干渉光学系８０２を経て測定対象の物体８１２の情報を有する干渉光となって出力される。干渉光は光検出部８０３において受光される。なお光検出部８０３は差動検出型でも良いし単純な強度モニタ型でも良い。受光された干渉光の強度の時間波形の情報は光検出部８０３から情報取得部８０４に送られる。情報取得部８０４では、受光された干渉光の強度の時間波形のピーク値を取得してフーリエ変換をし、物体８１２の情報（例えば断層像の情報）を取得する。なお、ここで挙げた光源装置８０１、干渉光学系８０２、光検出部８０３、情報取得部８０４を任意に設けることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  以下、光源装置８０１から光が照射されてから、測定対象の物体の内部の情報を得るまでについて詳細に説明する。光源装置８０１から出た光は、ファイバ８０５を通って、カップラ８０６に入り、照射光用のファイバ８０７を通る照射光と、参照光用のファイバ８０８を通る参照光とに分岐される。カップラ８０６は、光源の波長帯域でシングルモード動作のもので構成し、各種ファイバカップラは３ｄＢカップラで構成することができる。照射光はコリメーター８０９を通って平行光になり、ミラー８１０で反射される。ミラー８１０で反射された光はレンズ８１１を通って物体８１２に照射され、物体８１２の奥行き方向の各層から反射される。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  一方、参照光はコリメーター８１３を通ってミラー８１４で反射される。カップラ８０６では、物体８１２からの反射光とミラー８１４からの反射光による干渉光が発生する。干渉した光はファイバ８１５を通り、コリメーター８１６を通って集光され、光検出部８０３で受光される。光検出部８０３で受光された干渉光の強度の情報は電圧などの電気的な情報に変換されて、情報取得部８０４に送られる。情報取得部８０４では、干渉光の強度のデータを処理、具体的にはフーリエ変換し断層像の情報を得る。このフーリエ変換する干渉光の強度のデータは通常、等波数間隔にサンプリングされたデータであるが、等波長間隔にサンプリングされたデータを用いることも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  得られた断層像の情報は、情報取得部８０４から画像表示部８１７に送って画像として表示させてもよい。なお、ミラー８１０を照射光の入射する方向と垂直な平面内で走査することで、測定対象の物体８１２の３次元の断層像を得ることができる。また、光源装置８０１の制御は、情報取得部８０４が電気回路８１８を介して行ってもよい。また図示しないが、光源装置８０１から出る光の強度を逐次モニタリングし、そのデータを干渉光の強度の信号の振幅補正に用いてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  ＯＣＴ装置は、眼科、歯科、皮膚科等の分野において、動物や人のような生体内の断層像を取得する際に有用である。生体の断層像に関する情報とは、生体の断層像のみならず、断層像を得るために必要な数値データをも含む。特に、測定対象を人体の眼底や歯、血管とし、それらの断層像に関する情報を取得することに用いられることが好適である。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  （実施例１）
+  本実施例は、図１で示された面発光レーザに関する。つまり、実施形態１に対応する面発光レーザである。図６は、本実施例の面発光レーザの製造方法を説明する図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  まず、図６（ａ）に示すように、ＧａＡｓ基板１００の上に、ＡｌＡｓ／ＧａＡｓを３０ペア積層して構成した半導体ＤＢＲからなる第１反射鏡１０２を形成する。そして、第１反射鏡１０２の上に、ＩｎＧａＡｓの量子井戸層を含む活性層１０４を形成する。そして、活性層１０４の上に、ＧａＡｓ犠牲層２０６、単結晶の半導体からなる（Ａｌ<base:Sub>０．７</base:Sub>Ｇａ<base:Sub>０．３</base:Sub>）<base:Sub>０．５</base:Sub>Ａｓ梁前駆体層２０８を形成する。犠牲層２０６、梁前駆体層２０８はそれぞれ、厚さ２１２０ｎｍ、９０９ｎｍで形成する。なお、犠牲層２０６は、その一部が図１の支持層１０６になり、梁前駆体層２０８は、図１の梁１０８となる。梁前駆体層２０８は、活性層１０４の発光部となる領域を覆い、かつ犠牲層２０６の全部ではなく一部だけを覆うパターンで形成される。本実施例において、第１反射鏡１０２から梁前駆体層２０８までを連続的にエピタキシャル成長を行う。また、梁前駆体層２０８には、導電性を高めるためにＳｉを３×１０<base:Sup>１８</base:Sup>／ｃｍ<base:Sup>３</base:Sup>程度ドーピングしている。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  次に、図６（ｂ）で示すように、梁前駆体層２０８を貫通する開口部１１８を形成する。本実施例ではＳｉＣｌ<base:Sub>４</base:Sub>とＡｒを用いたＲＩＥ（Ｒｅａｃｔｉｖｅ  Ｉｏｎ  Ｅｔｃｈｉｎｇ）を用い、梁前駆体層２０８に対して１００ｎｍのオーバーエッチングを行い、犠牲層２０６の一部にまで到達する開口部１１８を形成した。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  次に、図６（ｃ）で示すように、梁前駆体層２０８の上と、梁前駆体層２０８に設けられた開口部１１８を介して犠牲層２０６の上に、誘電体ＤＢＲ層１２０を形成する。本実施例では、誘電体ＤＢＲ層は、それぞれλ／４の光学長の酸化チタン／酸化シリコンをスパッタリング法によって８ペア積層している。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  次に、図６（ｄ）に示すように、梁前駆体層２０８の上の誘電体ＤＢＲ層１２０を、ＣＦ<base:Sub>４</base:Sub>を用いたＲＩＥによって除去し、開口部１１８のみに誘電体多層膜１１０を形成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  次に、図６（ｅ）で示すように、第１電極１２４としてＡｕＧｅ／Ｎｉ／Ａｕ、第２電極１２２としてＡｕ／Ｔｉを形成する。さらに、梁前駆体層２０８で覆われていない部分から犠牲層２０６の一部をクエン酸と過酸化水素からなるエッチャントを用いて選択的に除去して、間隙ＡＧ、梁１０８を形成する。犠牲層２０６のうち除去されなかった部分が支持層１０６となる。このようにして、図１に示す面発光レーザを作製する。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  このようにして作製された面発光レーザの第２反射鏡１１６の反射スペクトルが図２の実線に示されている。また、破線は、図８で示す比較例、つまり開口部１１８を設けない面発光レーザの第２反射鏡５１６の反射スペクトルである。図２で示すように、比較例では１０８２ｎｍ近辺に反射率の大きなディップが生じて反射率９９．５％に満たない波長領域が５０ｎｍ程度発生している。一方、本実施例ではおよそ９７０ｎｍから１１５０ｎｍまで１８０ｎｍに渡って反射率９９．５％を維持していることが確認できる。つまり、本実施例によれば、広い波長可変帯域を確保することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  また、同様に比較例と本実施例の縦モード間隔を測定したところ、比較例の縦モード間隔が８５ｎｍだったのに対して本実施例の縦モード間隔は１６０ｎｍであり、安定した波長掃引動作を行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  （実施例２）
+  本実施例は、実施形態１に対応する面発光レーザである。図７は、本実施例の面発光レーザの製造方法を説明する図である。本実施例は、実施例１とは、複数の犠牲層（複数の支持層）を設けている点が異なっている。それ以外の構成は、実施例１と同じである。以下では、実施例１との差異点について主に述べる。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  まず、図７で示すように、実施例１と同様にして、ＧａＡｓ基板１００の上に、第１反射鏡１０２、活性層１０４を形成する。そして、活性層１０４の上に、ＧａＡｓ第１犠牲層３０６、ＡｌＩｎＰ第２犠牲層３０７、単結晶の半導体からなる（Ａｌ<base:Sub>０．７</base:Sub>Ｇａ<base:Sub>０．３</base:Sub>）<base:Sub>０．５</base:Sub>Ａｓ梁前駆体層２０８を形成する。第１犠牲層３０６、第２犠牲層３０７、梁前駆体層２０８はそれぞれ、厚さ２１２０ｎｍ、１００ｎｍ、９０９ｎｍで形成する。なお、第１犠牲層３０６、第２犠牲層３０７は、その一部が支持層になり、梁前駆体層２０８は、梁となる。梁前駆体層２０８は、活性層１０４の発光部となる領域を覆い、かつ第１犠牲層３０６、第２犠牲層３０７の全部ではなく一部だけを覆うパターンで形成される。本実施例においても実施例１と同様に、第１反射鏡１０２から梁前駆体層２０８までを連続的にエピタキシャル成長を行う。また、梁前駆体層２０８には、Ｓｉを３×１０<base:Sup>１８</base:Sup>／ｃｍ<base:Sup>３</base:Sup>程度ドーピングしている。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  次に、図７（ｂ）で示すように、梁前駆体層２０８を貫通する開口部３１８を形成する。本実施例ではＳｉＣｌ<base:Sub>４</base:Sub>とＡｒを用いたＲＩＥ（Ｒｅａｃｔｉｖｅ  Ｉｏｎ  Ｅｔｃｈｉｎｇ）を用い、梁前駆体層２０８に対して５０ｎｍのオーバーエッチングを行った。その後、塩酸系エッチャントを用いて第２犠牲層３０７をウェットエッチングし、開口部１１８を形成した。第１犠牲層３０６を塩酸系エッチャントでのウェットエッチングのストップ層として用いた。実施例１では開口部３１８の形成の際、ＲＩＥ装置のエッチング速度の面内分布によって開口部３１８の深さばらつきが８０ｎｍ程度ある。本実施例では、第１犠牲層３０６をエッチングストップ層として用いることにより、開口部３１８の深さのばらつきを１０ｎｍ程度に抑えることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  後は、実施例１と同様である。つまり、図７（ｃ）で示すように、誘電体ＤＢＲ層１２０を形成する。そして、図７（ｄ）に示すように、梁前駆体層２０８の上の誘電体ＤＢＲ層１２０を除去し、開口部３１８のみに誘電体多層膜１１０を形成する。そして、図７（ｅ）で示すように、第１電極１２４、第２電極１２２を形成する。さらに、梁前駆体層３０８で覆われていない部分から第１犠牲層３０６の一部、第２犠牲層３０７の一部を選択的に除去する。こうして、間隙ＡＧ、梁１０８を形成する。第１犠牲層３０６、第２犠牲層３０７のうち除去されなかった部分が第１支持層４０６、第２支持層４０７となる。このようにして、面発光レーザを作製する。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  本実施例の面発光レーザの第２反射鏡１１６の反射スペクトル、縦モード間隔ともに、実施例１の面発光レーザと同等の特性を得ることができる。また、実施例１で作製した面発光レーザは初期の発振波長のばらつきが１２ｎｍほどあったが、本実施例では、ばらつきが２ｎｍ未満に収まっている。これは複数の犠牲層の一方をストップエッチング層として用いて、開口部３１８の深さばらつきを低減し、初期の共振器長のばらつきを低減することができるからである。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0055">
+  １０２  第１反射鏡
+  １０８  梁
+  １１０  誘電体多層膜
+  １１６  第２反射鏡
+  １０４  活性層
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="114" wi="75" file="2016127271_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="118" wi="75" file="2016127271_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="118" wi="75" file="2016127271_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="118" wi="75" file="2016127271_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="118" wi="75" file="2016127271_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="118" wi="75" file="2016127271_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="118" wi="75" file="2016127271_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="118" wi="75" file="2016127271_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  第１反射鏡と、第２反射鏡と、前記第１反射鏡と前記第２反射鏡の間に配置された活性層と、を有し、
+  前記第２反射鏡と前記活性層の間には間隙が形成され、
+  前記第２反射鏡は、単結晶の半導体からなる梁と、前記梁によって支持された誘電体多層膜と、を有し、
+  前記誘電体多層膜は、前記梁に形成された開口部に配置されていることを特徴とする面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記誘電体多層膜の前記活性層に対向する面が、前記梁の前記活性層に対向する面よりも前記活性層の側に前記開口部から突き出ていることを特徴とする請求項１に記載の面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記誘電体多層膜の前記活性層に対向する面とは反対側の面が、前記梁の前記活性層に対向する面とは反対側の面よりも前記活性層とは反対側に前記開口部から突き出ていることを特徴とする請求項１又は２に記載の面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記活性層を含む半導体構造体を有し、
+前記半導体構造体は、前記梁を支持するための単結晶の半導体からなる支持層を有することを特徴とする請求項１乃至３のいずれか１項に記載の面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記支持層は、異なる単結晶の半導体からなる複数の支持層で構成されていることを特徴とする請求項４に記載の面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記誘電体多層膜は、前記開口部から前記開口部の周辺の前記梁の前記活性層に対向する面とは反対側の面にまで繋がって配置されていることを特徴とする請求項１乃至５のいずれか１項に記載の面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  第１反射鏡と、第２反射鏡と、前記第１反射鏡と前記第２反射鏡の間に配置された活性層と、を有し、
+  前記第２反射鏡は、梁と、前記梁によって支持された多層膜と、を有し、
+  前記第２反射鏡と前記活性層の間には、間隙が形成され、
+  前記多層膜は、前記梁に形成された開口部に配置され、
+  前記多層膜は、前記開口部から前記開口部の周辺の前記梁の前記活性層に対向する面とは反対側の面にまで繋がって配置されていることを特徴とする面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記梁の厚さが開口部に向かって薄くなることを特徴とする請求項１乃至７のいずれか１項に記載の面発光レーザ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  請求項１乃至８のいずれか１項に記載の面発光レーザと、
+測定対象物の内部情報を取得する情報取得部と、を有することを特徴とする情報取得装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  請求項１乃至８のいずれか１項に記載の面発光レーザと、
+  前記面発光レーザからの光を測定対象物へ照射する照射光と参照光とに分岐させ、前記測定対象物に照射された光の反射光と前記参照光による干渉光を発生させる干渉光学系と、
+  前記干渉光を受光する光検出部と、
+  前記光検出部からの信号に基づき、前記測定対象物の情報を取得する情報取得部と、を有することを特徴とする撮像装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  複数の面発光レーザを有するレーザアレイであって、
+  前記複数の面発光レーザのうち少なくとも１つは、請求項１乃至８のいずれか１項に記載の面発光レーザであることを特徴とするレーザアレイ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  第１反射鏡と、第２反射鏡と、前記第１反射鏡と前記第２反射鏡の間に配置された活性層と、を有し、前記第２反射鏡と前記活性層の間には間隙が形成され、発振波長が可変である面発光レーザの製造方法であって、
+  第１反射鏡と、活性層と、犠牲層と、をこの順に形成する工程と、
+  前記犠牲層の上に、単結晶の半導体からなる梁前駆体層を形成する工程と、
+  前記梁前駆体層に、前記梁前駆体層を貫通する開口部を形成する工程と、
+  前記開口部に誘電体多層膜を形成する工程と、
+  前記犠牲層を除去して、前記第２反射鏡と前記活性層の間に間隙を形成して梁を形成する工程と、を有することを特徴とする面発光レーザの製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記誘電体多層膜を形成する工程は、前記誘電体多層膜の前記活性層に対向する面が前記梁前駆体層の前記活性層に対向する面よりも前記活性層の側に突き出るように誘電体多層膜を形成することを特徴とする請求項１２に記載の面発光レーザの製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記誘電体多層膜を形成する工程は、前記誘電体多層膜の前記活性層に対向する面の反対側の面が前記梁前駆体の前記活性層に対向する面の反対側の面よりも前記活性層とは反対側に突き出るように誘電体多層膜を形成することを特徴とする請求項１２又は１３に記載の面発光レーザの製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  前記梁前駆体層を形成する工程は、前記梁前駆体層を前記犠牲層の上にエピタキシャル成長で形成することを特徴とする請求項１２乃至１４のいずれか１項に記載の面発光レーザの製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  前記犠牲層は、異なる単結晶の半導体からなる複数の犠牲層で構成されていることを特徴とする請求項１２乃至１５のいずれか１項に記載の面発光レーザの製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  前記開口部を形成する工程において、前記複数の犠牲層のうち前記活性層に近い少なくとも一つの犠牲層をエッチングストップ層として、前記梁前駆体層に開口部を形成することを特徴とする請求項１６に記載の面発光レーザの製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  前記誘電体多層膜を形成する工程において、前記開口部を介して前記犠牲層の上に前記誘電体多層膜を形成することを特徴とする請求項１２乃至１７のいずれか１項に記載の面発光レーザの製造方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

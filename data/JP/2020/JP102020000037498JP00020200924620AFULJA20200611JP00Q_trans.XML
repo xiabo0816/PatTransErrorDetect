@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102020000037498JP00020200924620AFULJA20200611JP00Q.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020092462" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092462</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092462</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102020000037498</base:DocNumber>
+        <base:Date>20200305</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020037498</base:DocNumber>
+        <base:Date>20200305</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>13/306,775</base:DocNumber>
+        <base:Date>20111129</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>13/335,465</base:DocNumber>
+        <base:Date>20111222</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="3">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>13/335,490</base:DocNumber>
+        <base:Date>20111222</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102011130306775</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20111129</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102011000335465</base:DocNumber>
+        <base:Date>20111222</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="3">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102011130335490</base:DocNumber>
+        <base:Date>20111222</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>12</business:MainGroup>
+        <business:Subgroup>917</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04L  12/917       20130101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H04L12/917</business:FI>
+      <business:FClass>
+        <business:FTerm>5K030GA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K030HD03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K030HD06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K030JA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K030JA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K030LC09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K030MA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K030MB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5K030</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">用于管理直接网络对等的接口</business:InventionTitle>
+    <business:RelatedDocuments>
+      <business:Division>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1" lang="ja">
+              <base:DocNumber>2018235439</base:DocNumber>
+              <base:Date>20121126</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Division>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アマゾン・テクノロジーズ・インコーポレーテッド</base:Name>
+            <base:RegisteredNumber>507303550</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98108－1226・ワシントン州・シアトル・ピイオーボックス・81226</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ミラー，ケヴィン・クリストファー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98144－2734・ワシントン州・シアトル・12ティエイチ  アヴェニュ  サウス・1200・スイート・1200</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ドーン，アンドリュー・ジェイ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98144－2734・ワシントン州・シアトル・12ティエイチ  アヴェニュ  サウス・1200・スイート・1200</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アブエレラ，マハムード・エイ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98144－2734・ワシントン州・シアトル・12ティエイチ  アヴェニュ  サウス・1200・スイート・1200</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ファー，マイケル・ビイ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98144－2734・ワシントン州・シアトル・12ティエイチ  アヴェニュ  サウス・1200・スイート・1200</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>レノン，デイヴィッド・ビイ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98144－2734・ワシントン州・シアトル・12ティエイチ  アヴェニュ  サウス・1200・スイート・1200</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="6" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>スクマラン，アニシュ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98144－2734・ワシントン州・シアトル・12ティエイチ  アヴェニュ  サウス・1200・スイート・1200</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="7" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ホール，ジェレミー・ティー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国・98144－2734・ワシントン州・シアトル・12ティエイチ  アヴェニュ  サウス・1200・スイート・1200</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>山川  茂樹</base:Name>
+            <base:RegisteredNumber>100098394</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>山川  政樹</base:Name>
+            <base:RegisteredNumber>100064621</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>15</business:ClaimsCount>
+      <base:TotalPageCount>46</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供管理直接网络对等的接口。 该系统包括数据中心、端点路由器和连接性协调器。 连接性协调器实现定义连接性操作的编程接口,接收根据接口格式化的对到数据中心资源的专用连接性的请求,选择建立物理链路以实现专用连接性的目标端点路由器,识别目标端点路由器,以及发送包括配置指令的响应,以建立专用连接性的物理链路。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="95" wi="68" file="2020092462_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">许多公司和其他组织运行计算机网络,该计算机网络将许多计算系统互连以支持公司和其他组织的操作以及它们向分布在世界各地的终端客户提供的服务。 例如,容纳大量互连计算系统的数据中心已经变得普遍,诸如由单个组织操作并为单个组织操作的私人数据中心,以及由作为企业的实体操作以向客户提供计算资源的公共数据中心。 在许多情况下,提供商建立大型网络,该大型网络可以在逻辑上跨越多个区域或甚至跨越多个国家,并且可以包括多个数据中心,这些数据中心具有不同级别的可用服务和设施,并且一起用于向终端客户提供一组集成服务。</base:Paragraphs>
+      <base:Paragraphs num="0002">在被构造为向远程客户端提供计算和/或存储设施的一些数据中心中,数据中心的一组计算资源可以被动态地划分成资源池,每个池允许给定客户端在指定时间段内独占使用。 对于这些设施的客户如何建立到指定供客户使用的资源池的网络连接,存在若干可用的选项。 客户请求可以来自各种各样的设备：台式个人计算机、膝上型计算机、客户端-办公服务器、平板电脑、智能电话等。 这些设备可以使用长期网络链路（例如,在T1连接中使用客户端办公网络）来与接近的专用网络和/或公共互联网通信,或者可以具有临时连接（例如,如果客户使用移动智能电话）。 客户的装置直接连接到的邻近网络然后可以通过各种路径将请求业务路由到提供商网络的数据中心。 这种路径通常具有一些不可预测的性能、可靠性和安全性特征。</base:Paragraphs>
+      <base:Paragraphs num="0003">在一些临时类型的服务请求的情况下,例如来自客户的从基于网络的新闻提供商检索最近的新闻文章的请求,可以接受相应的响应性变化和偶尔的连接中断。 然而,在许多企业相关的数据传输的情况下,例如在线股票交易者提供的股票行市服务和股票订单服务,或者在软件开发中心部署宽带软件包的情况下,可能存在更严格的性能、可靠性和安全性需求。 在这样的环境中,提供商网络的客户可能需要比公共互联网上通常可用的网络隔离和控制更高级别的网络隔离和控制。 例如,客户可能希望在客户拥有的网络与提供商网络之间建立专用的物理网络链路,使得通过这样的链路传输的唯一业务是为客户并且根据客户建立的策略生成的业务。 此外,为了满足快速变化的业务需求,客户可能希望能够以最小的麻烦和停滞动态地启用和禁用这种专用链路。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0004">
+        <base:FigureReference num="0001">图0001示出了根据至少一些实施方案的示例性系统。</base:FigureReference>
+        <base:FigureReference num="0002">图0002提供了根据至少一些实施方案的可以借助于由连接性协调器提供的服务来执行以在客户端网络与资源集合之间建立专用连接性的步骤的高级概述。</base:FigureReference>
+        <base:FigureReference num="0003">图0003示出了根据至少一些实施方案的来自客户端的专用连接性请求的部件的示例。</base:FigureReference>
+        <base:FigureReference num="0004">图0004示出了根据至少一些实施方案的对专用连通性请求的响应的部件的示例。</base:FigureReference>
+        <base:FigureReference num="0005">图0005示出了根据至少一些实施方案的逻辑上分离的网络路径请求的部件的示例。</base:FigureReference>
+        <base:FigureReference num="0006">图0006示出了根据至少一些实施方案的指示已建立所请求的连接性的确认消息的内容的示例。</base:FigureReference>
+        <base:FigureReference num="0007">图0007示出了根据至少一些实施方案的共享使用由连接性协调器提供的接口建立的物理链路的两个逻辑上分离的网络路径的示例。</base:FigureReference>
+        <base:FigureReference num="0008">图0008示出了根据至少一些实施方案的可由连接性协调器提供的示例性基于网络的接口的一部分。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是根据至少一些实施方案用于提供连接相关服务的方法的流程图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是根据至少一些实施方案的用于提供连接相关服务的方法的流程图,该方法包括关于配置客户端网络设备的指导。</base:FigureReference>
+        <base:FigureReference num="0011">图0011示出了根据至少一些实施方案的包括提供商网络的系统的实施例,其中可以经由“最后一英里”连接提供商从客户端网络提供连接。</base:FigureReference>
+        <base:FigureReference num="0012">图0012示出了根据至少一些实施方案的通过连通性提供商请求专用连通性的组件的示例。</base:FigureReference>
+        <base:FigureReference num="0013">图0013示出了根据至少一些实施方案的包括关于可用连通性提供商的信息的对专用连通性请求的响应的部件的示例。</base:FigureReference>
+        <base:FigureReference num="0014">图0014示出了根据至少一些实施方案的来自识别所选择的连接提供商的客户端的示例性通信。</base:FigureReference>
+        <base:FigureReference num="0015">图0015示出根据一实施例,在客户端选择连接性提供商之后从连接性协调器到连接性提供商和客户端的示例性通信。</base:FigureReference>
+        <base:FigureReference num="0016">图0016示出了根据一些实施方案的可被提供以发起连接提供商的选择的示例性基于网络的界面的一部分。</base:FigureReference>
+        <base:FigureReference num="0017">图0017是根据至少一些实施方案的用于允许客户端选择连接提供商的方法的流程图。</base:FigureReference>
+        <base:FigureReference num="0018">图0018是根据至少一些实施方案用于提供动态连通性相关服务的方法的流程图。</base:FigureReference>
+        <base:FigureReference num="0019">图0019是根据至少一些实施方案的包括动态地响应业务级别的改变的方法的流程图。</base:FigureReference>
+        <base:FigureReference num="0020">图0020是示出可以在一些实施例中使用的示例性计算机系统的框图。 虽然本文通过示例的方式针对多个实施例和说明性附图描述了实施例,但是本领域技术人员将认识到,实施例不限于所描述的实施例或附图。 应当理解,附图及其详细描述不旨在将实施例限于所公开的特定形式,而是相反,旨在覆盖落入由所附权利要求限定的精神和范围内的所有修改、等同物和替代方案。 本文使用的标题仅用于组织目的,并不意味着用于限制描述或权利要求的范围。 在整个本申请中使用的术语“可以”以允许的意义（即,以“可能”的意义）使用,而不是以强制性的意义（即,以“必须”的意义）使用。 类似地,术语“包括（include）”、“包括（including）”和“包括（includes）”意指“包括但不限于”。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0005">描述了用于使用诸如应用编程接口(API)的接口来管理客户网络与提供商网络之间的专用网络连接的方法和装置的各种实施例。 由诸如企业或公共部门组织的实体建立以向分布式客户端集提供可经由因特网（诸如各种类型的基于云的计算或存储）访问的一个或多个服务的网络在本文中可以被称为提供商网络。 这样的提供商网络可以包括多个数据中心,所述多个数据中心托管实现和分布由提供商提供的服务所需的各种资源池,诸如一组计算机服务器、一组存储设备、联网设备等。</base:Paragraphs>
+      <base:Paragraphs num="0006">为了扩展可以以期望的性能、可靠性和安全性水平访问其服务的地理区域,提供商网络的运营商可以在其数据中心与物理上位于远离数据中心的设施中的一个或多个路由器之间建立专用的专用网络路径。 容纳这些路由器的设施在本文献中被称为“路由器共置设施”,因为它们有时可以容纳由除提供商网络的运营商之外的企业实体（诸如由独立的网络服务提供商或由客户端本身）拥有和/或管理的路由器和其他网络设备。 在路由器共置设施处,由提供商网络运营商拥有或管理的路由器在本文档中被称为“端点”路由器,因为它可以表示提供商网络的控制或网络设备的所有权扩展的最远点。 例如,可以在端点路由器与提供商网络的其他部件之间的私有路径上仅允许通过由提供商网络运营商拥有或管理的设备并且因此符合由提供商网络运营商设置的策略的业务。 在一些实施例中,路由器共置设施的一个或多个其他路由器可以是客户端网络的一部分。 也就是说,这样的路由器可以由客户端拥有和/或管理或者由客户端拥有和/或管理,或者其他路由器可以具有到提供商网络的客户端生成提供商网络的服务请求的系统的专用连接。 这些其他路由器在本文中被称为“客户端”路由器。</base:Paragraphs>
+      <base:Paragraphs num="0007">为了促进对客户端网络与提供商网络之间的网络连接的管理,在一些实施方案中,可以配置连接协调器,其负责实现一个或多个编程接口,其中处理来自客户端的连接相关请求。 各种不同类型的连接相关请求可以通过不同实施方式的接口变得可用,诸如发现可以访问的连接选项的类型的请求、选择特定连接选项或服务的请求、建立或移除物理链路的请求等。 在各种实施方案中,界面可以以许多不同的方式向客户端公开,例如,作为API,通过图形用户界面、网页或网站,甚至作为可以从计算机系统的命令行提示发出的一组命令。</base:Paragraphs>
+      <base:Paragraphs num="0008">在一个实施例中,可以分配数据中心中的一个或多个资源集合或池以供特定客户端使用,即,以实现满足客户端网络的设备所请求的服务所需的功能。 在此类实施例中,连接性协调器可操作以从客户端接收建立到一个或多个资源池的专用连接性的请求。 可以生成或格式化连接性请求以匹配由连接性协调器实现的界面,并且可以例如在界面作为一组网页呈现给客户端的情况下通过提交基于web的表单来接收连接性请求。 响应于对专用连接性的请求,连接性协调器可以从提供商网络的端点路由器集合中选择特定端点路由器作为目标路由器,专用连接性从该目标路由器被提供给请求客户端。 例如,可以从在地理上最接近客户端设施的路由器配置设施的可用端点路由器中选择目标路由器,其中客户端具有对现有客户端侧路由器的访问。 在一些实现中,接口允许客户端在请求中指定可以帮助连接性协调器选择适当的目标端点路由器的各种细节,诸如路由器共置装备的一个或多个名称和/或地址、期望的带宽、期望的价格范围等。</base:Paragraphs>
+      <base:Paragraphs num="0009">在选择目标端点路由器时,连接性协调器可以生成用于建立一个或多个物理网络链路以提供期望的专用连接性的配置指令,并且可以将该指令作为对客户端的应答发送回客户端。 还可以生成回答以符合由连接提供商实现的界面,例如,如果具有表单的网页被用于客户端请求,则配置指令还可以被指定为一个或多个网页,或者被指定为到可从网站访问的文档的链接。 配置指令可以标识例如端点路由器的物理位置、目标端点路由器的物理端口、目标路由器所在的机架、物理链路所需的某种类型的连接器等。 在客户端根据指令建立物理网络链路之后,在一些实施方案中,连接提供商可以验证链路已被正确建立,并且向客户端发送指示已建立所请求的专用连接的确认消息。</base:Paragraphs>
+      <base:Paragraphs num="0010">图1示出了根据至少一些实施方案的示例系统环境。 系统100可以包括具有一个或多个数据中心110的提供商网络105,所述一个或多个数据中心110被维持以向客户端提供服务,诸如云计算服务或云存储服务。 然后,数据中心110可以包括资源集合,诸如120A和120B。 每个资源集合120可以包括一组资源（例如,计算机服务器、存储设备、网络设备等）,诸如资源集合120A中的资源112A和资源集合120B中的资源112B。 在一些实施方案中,系统100还可以包括被配置为向客户端提供连接性服务的连接性协调器114、连接性数据库115、以及诸如端点路由器132A和132B的多个端点路由器。 端点路由器132可以经由诸如路径170A、170B、170C和170D的专用网络路径链接到资源集合120。 诸如170A至170D的专用网络路径170的直接使用可以限于提供商网络的设备和服务器。 也就是说,网络分组可以简单地在专用网络路径的链路上从由提供商网络的所有者拥有或管理的设备物理地传输。 如本文中所使用,术语“路径”广义上是指由网络消息或分组在源装置与目的地装置之间遍历的链路和装置的集合。 在一些情况下,当源和目的地可以通过物理电缆直接链接时,给定路径的一组链路可以构成单线。 在其他情况下,路径可以包括多个有线和/或无线链路以及多个中间设备,诸如交换机、网关、路由器等。 路径可以包括单向和/或双向物理链路。</base:Paragraphs>
+      <base:Paragraphs num="0011">在所示和所描述的实施例中,示出了表示提供商网络105的每个客户端的两个示例性客户端网络162A和162B。 每个客户端网络包括多个客户端设备148（例如,148A和148B）,从这些客户端设备148可以生成最终在资源集合120中服务的请求。 这样的客户端设备148可以包括各种系统,诸如台式或机架式计算机系统、膝上型电脑、笔记本电脑、平板电脑、智能电话等。 在各种实施方案中,一些客户端装置148可容纳在客户端数据办公室设施、客户端数据中心或客户端家庭设施中,而其它客户端装置148可为不具有任何固定物理位置的移动装置。 在所示的环境中,特定客户端的客户端设备148可以访问客户端侧路由器。 例如,客户端网络162A的客户端设备148A经由路径160A连接到客户端侧路由器142A,并且客户端网络160B的客户端设备148B经由路径160B连接到客户端侧路由器142B。</base:Paragraphs>
+      <base:Paragraphs num="0012">在图1所示的实施例中,客户端侧路由器142A容纳在路由器共置设备150A中,端点路由器132A也位于路由器共置设备150A中,并且客户端侧路由器142B容纳在路由器共置设备150B中,端点路由器132B位于路由器共置设备150B中。 通常,在各种实施例中,可以从客户端网络162A获得到数据中心110的各种部件（诸如连接性协调器114和资源集合120）的若干不同类型的路径。 例如,不包括端点路由器132A的路径175在图1中示出在客户端网络162A的客户端设备148A与连接性提供商114之间。 这样的路径175可以包括例如公共互联网的各种路由器、网关和设备,例如,它们可以提供或可以不提供由提供商网络105提供的一些服务所需的期望水平的性能、可用性、可靠性或其他服务特性。 虽然未在图1中示出,但是类似于175的其他路径也可以从客户端设备148A和/或148B获得资源集合120。</base:Paragraphs>
+      <base:Paragraphs num="0013">在各种实施方案中,由连接性协调器114提供的连接性服务可以包括被实施以帮助提供商网络的客户端建立和管理从客户端网络162到资源集合120的专用网络路径的若干方法。 例如,可以借助于由连接性协调器114提供的连接性服务的特性中的一些来建立跨网络连接191,包括客户端侧路由器142B和端点路由器132B之间的物理链路或电缆。 如本文所使用的,术语交叉网络连接是指在两个自主网络之间建立的物理网络连接。 例如,在互联网中,自主网络可以由唯一的自主系统(AS)标识符来标识,即,在一个或多个网络运营商的控制下的一组连接的互联网协议(IP)的路由前缀,其向互联网指示公共的、明确定义的路由策略。 在所示出和描述的实施例中,连接协调器114可以可操作以实现定义客户端可用的各种连接操作的接口,包括建立诸如连接191的跨网络连接,以及使用这种跨网络链路建立逻辑上分离的连接或路径。 界面可以以各种方式实现,例如,在不同的实施例中,使用基于网络的界面、其他图形用户界面或命令行界面作为应用程序编程界面(API)。 连接性协调器114还可以使用各种机制来向客户端通知界面,例如,在一个实施方案中,可以在一个或多个企业网站上发布详细描述界面的通知。 在一些实施方案中,连接性协调器114本身可以驻留在提供商网络105外部,并且在其他实施方案中,可以并入在提供商网络105内。</base:Paragraphs>
+      <base:Paragraphs num="0014">使用由连接性协调器114实现的接口,客户端可以生成专用连接性请求。 客户端可能希望通过做出这样的请求来指示为了与一个或多个资源池120通信而专门为客户端网络162A建立物理网络链路（类似于图1中所示的跨网络连接191）,这是由于若干原因中的任何原因,诸如更好的性能、更高的可靠性、增强的安全性或更低或更可预测的成本。 排他性要求可以指示通过所请求的专用物理网络链路仅允许去往或来自客户端的网络的指定网络地址集合的业务。 在一些实施例中,一组或多组物理地址可以在已经建立物理链路之后由客户端识别和/或修改,即,物理地址可能不需要在第一次建立物理链路之前指定。 在各种实施方案中,请求可以提供可能对连接提供商114有用的若干不同细节的任何组合,例如,可以使用的一个或多个客户端侧路由器的物理位置、期望带宽和/或其他服务要求。 在一些实现中,可以在发送建立专用物理连接的第一请求之后在后续请求中提供特定服务要求。</base:Paragraphs>
+      <base:Paragraphs num="0015">响应于接收到这样的请求,连接性协调器114可以选择可能适合于满足客户端要求的特定端点路由器132。 例如,在一个实施方式中,可以选择物理上最接近一个或多个客户端设施的端点路由器,在所述一个或多个客户端设施处可以预期发生大多数客户端请求。 在选择目标端点路由器以提供专用连通性时,连通性协调器114可以生成应答或通知,该应答或通知包括用于建立到目标端点路由器132的物理网络链路以提供期望的专用连通性的至少一部分的配置指令。 在各种实施例中,指令可以包括用于识别目标端点路由器的各种元件,包括例如端口号、机架标识符等。 还可以根据界面生成指令,例如,当请求被接收为提交基于web的表单时,在实施方式中作为网页的内容。 在一些情况下,多个响应（例如,对请求者的一个或多个web请求和一个或多个电子邮件消息的组合）可以由连接性协调器发送,其中一些可以被发送到除客户端之外的实体,诸如路由器配置设施150的运营商。 来自连通性协调器114的一个或多个响应可用于建立所需的物理链路。 建立物理链路所花费的时间可以根据客户端的响应性、路由器配置设施150的运营商的响应性、以及为了安全性、授权等可能必须完成的各种过程而显著变化。 在已经建立了物理网络链路之后,在一些实施例中,连接性协调器114可以向客户端发送指示已经建立了期望的专用连接性的确认消息。 在一些实施例中,各种连接性相关信息可以存储在连接性数据库115中,包括例如标识物理链路（诸如跨网络连接191）的细节的数据、标识建立这种链路的客户端的数据、建立专用连接的日期或时间等。</base:Paragraphs>
+      <base:Paragraphs num="0016">除了图1中所示的网络路径之外,在许多环境中,在客户端网络162与各种系统的部件100之间可以存在多个其他替代网络路径。 例如,可以通过包括公共链路或共享链路的路径将一些连接请求发送到连接提供商114,并且可以类似地通过公共链路或共享链路来访问在资源集合120中提供的各种服务。 在一些情况下,替代路径可以用作备用,以防通过期望的专用路径的连接性被中断。</base:Paragraphs>
+      <base:Paragraphs num="0017">物理和逻辑连接性的建立图2提供了在一个实施例中可以借助于由连接性协调器114提供的服务来执行以在客户端网络162与资源集合120之间建立专用连接性的步骤的高级概述。 如图2中标记为201的条目所示,连接性协调器114可以实现定义一组连接性相关操作的接口,这些操作可用于客户端、其他实体（一个或多个管理服务器、测量代理、计费代理等）和/或提供商网络105的其他方。 在一些实现中,一组可用操作可以包括例如创建、查询、检索、更新或删除连接性记录或对象的操作。 在一些环境中,可用操作可以以各种标准或编程语言中的任何一种（诸如web服务描述语言(WSDL)、XML、Java、C、C++、Python、Perl或其衍生物）经由应用编程接口(API)来发布,并且客户端可以通过发出方法调用、函数调用等以编程方式与连接提供商交互。 在其他环境中,除了或代替提供客户端可以使用其来写入代码的公共API,连接性协调器可以提供更用户友好的接口,诸如一组网页。 在一个实施方式中,连接性协调器可以发布提供例如API的详尽列表的文档集合（类似于Java或Javadoc,如果使用诸如Java的编程语言）,并且可以经由一个或多个网页发布连接性相关操作的频繁使用的子集。 在这样的环境中,客户端可以选择使用网页进行一般操作,并且可以使用调用API调用的程序来进行更复杂的操作或其中网络接口不由连接性协调器114提供的操作。 在一些这样的实施方案中,与客户端的特定的基于网络的交互可以在内部导致在连接性协调器114处对API的一个或多个调用。 在各种实施例中,可以单独地或组合地使用其他类型的接口,诸如命令行工具、独立可安装的图形用户界面(GUI)（即,不依赖于网页和基于HTTP的交互的GUI）、胖客户端、电子邮件或消息传递协议,以实现由连接性协调器114提供的服务。 在一些情况下,界面可以由多个层组成,界面的一个层可以调用另一个层,并且多个层中的一个或多个层可以暴露以用于直接客户端交互。</base:Paragraphs>
+      <base:Paragraphs num="0018">在一个实施例中,连通性协调器可以提供“欢迎指南”或一些其他类似的文档,其可以提供可以如何使用接口的示例。 具有标记为API-1至API-18的条目的以下列表是可以在用于由连接性协调器114提供的连接性服务的子集的这样的文档中提供的API调用的集合的调用的示例。 [API-1]CustomerId customerId=createNewCustomer（CustomerInfo customerlnfo） 
+createNewCustomer API可用于在连接提供商处创建客户账户。 可以将顾客信息（例如,名称、地址、支付相关细节）作为输入并返回顾客标识符。 [API-2]ConnectionRequestId requestId=requestDirectConnection（CustomerId customerId、ConnectionSpecification connectionSpecification） 
+客户可以使用requestDirectConnection API来发送专用连接请求,以及封装在连接规范对象中的期望连接特性的各种细节。 [API-3]RequestStatus requestStatus=getConnectionRequestStatus（CustomerID customerId、RequestId requestId） 
+客户可以使用getConnectionRequestStatus API来查询连接请求的当前状态,例如,连接提供商可以在返回的RequestStatus对象中指示当前状态是“进行中”、“完成”或“被拒绝”。 [API-4]ConnectionId connectionId=getConnectionId（CustomerID customerId、RequestId requestId） 
+如果连接对象由连接性协调器成功创建（并且例如存储在连接性数据库115中）,则客户端可以使用getConnectionId API来获得该连接对象的标识符。 [API-5]ConnectionInfo connectionInfo=getConnectionInfo（ConnectionId connectionId） 
+getConnectionInfo API可以用于获得连接对象的属性,包括诸如路由器的物理位置、端口号、流量使用度量等的特性。 [API-6]PhysicalConnectionInfo physicallnfo=getPhysicalConnectionInfo（ConnectionInfo connectionInfo） 
+getPhysicalConnectionInfo API可用于从ConnectionInfo对象中提取连接对象的位置特定属性。 [API-7]AuthInfo authInfo=getAuthInfo（PhysicalConnectionInfo（physicalConnectionInfo）） 
+getAuthInfo API可以用于提取与连接的授权相关的信息,例如,允许技术人员进入端点路由器132所在的设施并创建到端点路由器的物理网络链路的文档。 [API-8]RequestStatus modificationStatus=modifyConnection（ConnectionId connectionId、Modificationlnfo modificationlnfo） 
+modifyConnection API可以用于请求改变现有连接,例如请求更多带宽。 [API-9]RequestStatus disableStatus=disableConnection（ConnectionId connectionId） 
+禁用连接API可以用于请求禁用现有连接,即,不允许任何业务流过为该连接预先配置的物理链路。 [API-10]RequestStatus enableStatus=enableConnection（ConnectionId connectionId） 
+启用连接API可用于请求启用现有（例如,当前无效的）连接。 [API-11]RequestStatus deleteStatus=deleteConnection（ConnectionId connectionId） 
+deleteConnection API可以用于请求永久地移除连接。 [API-12]LogicalRequestId logicalRequestId=setUpLogicalConnection（ConnectionId connectionId、LogicalConnectionParameters IcParameters） 
+setUpLogicalConnection API可以用于请求使用预先建立的物理连接和封装在LogicalConnectionParameters对象中的一组逻辑连接特性来设置逻辑隔离的网络路径。 [API-13]LogicalConnectionId logicalConnectionId=getLogicalConnectionId（LogicalRequestId logicalRequestId） 
+客户端可以使用getLogicalConnectionId API来获得特定逻辑连接的标识符。 [API-14]LogicalConnectionInfo logicalConnectionInfo=getLogicalConnectionInfo（LogicalConnectionId logicalConnectionId） 
+getLogicalConnectionInfo API可以用于获得逻辑连接的特性,包括诸如用于逻辑连接的VLAN标签和/或与逻辑连接相关联的其他路由相关信息的特性。 [API-15]LogicalConnectionRequestStatus modificationStatus=modifyLogicalConnection（LogicalConnectionId logicalConnectionId、LogicalConnectionModificationlnfo modificationlnfo） 
+modifyLogicalConnection API可以用于请求改变现有逻辑连接,例如,以修改与其相关联的一组网络前缀。 [API-16]LogicalConnectionRequestStatus disableLogicalConnectionStatus=disableLogicalConnection（LogicalConnectionId connectionId） 
+disableLogicalConnection API可以用于请求禁用现有逻辑连接,即,不允许任何业务流过与逻辑连接相关联的逻辑上分离的路径。 [API-17]LogicalConnectionRequestStatus enableLogicalConnectionStatus=enableLogicalConnection（LogicalConnectionId connectionId） 
+enableLogicalConnection API可用于请求启用现有（例如,当前无效的）逻辑连接。 [API-18]LogicalConnectionRequestStatus deleteLogicalConnectionStatus=deleteLogicalConnection（LogicalConnectionId connectionId） 
+deleteLogicalConnection API可用于请求永久地移除逻辑连接。 </base:Paragraphs>
+      <base:Paragraphs num="0019">再次参考图2,在206处指示的下一高级步骤是客户端账户的建立,并且可以用于例如计费目的。 在一些实施方案中,由连接性协调器114提供的接口可以用于建立客户账户（诸如通过调用createNewCustomer API,或者因此通过调用类似API的web接口）。 在其他实施例中,连通性协调器114可以不直接参与账户的创建,并且可以使用一些其他机制（诸如与账户管理器组件的交互,图1中未示出）来建立客户账户。</base:Paragraphs>
+      <base:Paragraphs num="0020">具有已建立的账户的客户可以使用由连接性协调器114实现的接口来首先为期望的专用连接性建立物理链路（图2中的条目211）,然后使用该物理链路建立一个或多个逻辑上分离的网络路径（条目221）。 最后,可以验证或确认专用连接性的功能（条目231）,例如,在一些实施方案中,客户端和/或连接性协调器114可以执行一个或多个确认操作以确认客户端请求已经被令人满意地实现。 图2的条目211、221和231中所示的每个更高阶阶跃可以涉及在客户端端和连接提供商114处的多个交互和/或操作,并且下面提供关于每个更高阶阶跃的进一步细节。</base:Paragraphs>
+      <base:Paragraphs num="0021">图3示出了根据一个实施例的来自客户端的专用连接性请求351的示例元素。 如图所示,该请求可以在客户端设备148处生成,并且可以根据由连接性协调器114提供给连接性相关服务的接口来格式化,并且包括位置信息360、带宽要求361、可用性要求363、多路径要求365、客户端网络设备信息367和附加规范368。 并非所有这些元素都可以包括在连通性请求中,并且在各种实施例中,这些元素和其他元素的任何组合或子集可以包括在请求中。 在使用类似于上述requestDirectConnection API的API的实施方式中,请求元素中的一些或全部可以被提供为连接规范对象的字段或其等同物。</base:Paragraphs>
+      <base:Paragraphs num="0022">位置信息360可以包括期望专用连接的物理位置的细节,例如,客户端侧路由器142当前所在的或者可能需要例如借助于第三方网络服务提供商来配置这样的客户端侧路由器的门牌号地址。 在一些情况下,客户端可以仅列出客户端网络162的一部分所在的一个或多个城市甚至州,并且请求连接协调器114提供一组可能的位置,在该组可能的位置处可以建立物理连接以提供客户端网络。</base:Paragraphs>
+      <base:Paragraphs num="0023">在一些实施方式中,客户端可以经由带宽要求361为专用连接指定期望的带宽。 例如,由连接提供商提供给客户端的接口可以允许客户端在诸如每秒500兆位、每秒1千兆位或每秒10千兆位的一组单独的带宽选择中进行选择,所述选择可以源自可用于建立到端点路由器132的物理链路的特定联网硬件的细节。 例如,在一些路由器共置设施中,物理链路选项可以包括通过单模光纤的1Gbps 1000BASE-LX（1310nm）单模光纤连接和通过单模光纤的10Gbps 10GBASE-LR（1310nm）单模光纤连接,并且连接性协调器114可以允许客户端在1Gbps选项和10Gbps选项之间进行选择。 在其他情况下,可以允许客户端请求任何任意带宽,并且连接性协调器114可以通过指示可以提供或将要提供的带宽来对该请求进行响应。 在一个实施方式中,连通性协调器可以不提供带宽可用性的任何保证,而是例如向客户端指示将使用最大努力方法。 也就是说,连接性协调器试图提供尽可能多的带宽（达到客户期望的限制）。 在另一实施方式中,连接性协调器可以指示可能需要多于一个物理链路,例如,如果客户请求20Gbps并且通过单个电缆可用的最大带宽是10Gbps。 此外,还可以响应于对专用连接性的单个请求来建立分布在不同路由器共置装备132上的多个物理链路,例如,如果特定客户端能够访问装备132A和132B中的每一个处的客户端侧路由器142A和142B,则可以在需要或请求的情况下在每个装备处建立一个或多个物理链路。 由连接性协调器114提供的接口允许客户端指定是否以及在这种情况下使用多个单独的物理位置来提供期望的连接性。</base:Paragraphs>
+      <base:Paragraphs num="0024">在一些实施例中,客户端还可以提供可用性要求363和/或多路径要求365。 可用性要求可以用各种度量中的任何度量来表示,诸如期望的最大网络故障限制（例如,每年一小时的最大故障时间）或故障之间的平均时间。 多路径要求365可以指示要在客户端侧路由器142与端点路由器132之间建立的物理链路的数量。 例如,可能需要多个物理链路以用于性能（例如,使得来自客户端网络162的业务可以负载平衡或以其他方式分布在多个物理路径上,从而减少网络拥塞）、用于更高可用性（例如,通过提供多个路径,在物理链路之一发生故障的情况下,替代路径可以用作备用路径）、或者用于性能原因和可用性原因的组合。 除了指定需要多少物理链路之外,客户端还可以指定在链路上分布业务的方式。 例如,在需要两条路径的情况下,客户端可以指定是以主动/主动模式（例如,使用边界网关协议(BGP)多路径以平衡两条链路上的负载,并且在故障的情况下,一条链路接管另一条链路的业务）还是以主动/待机模式（其中一次仅使用一条链路,并且仅在第一条链路发生故障的情况下,第二条链路被唤醒）来建立路径。 在一些实现方式中,可以经由接口向客户端指示默认选择（例如,主动/主动）,使得如果客户端不希望明确地指定多路由的类型,则客户端不需要这样做。 在一些情况下,指示多路径要求365可以抵消（或否定）对可用性要求363的需要,并且因此可以允许客户端仅指定这两种类型的选项中的一种。</base:Paragraphs>
+      <base:Paragraphs num="0025">在一个实施例中,为了进一步简化客户端可能需要执行的任务,例如以在其终端建立连接或优化性能,连接性协调器114还可以提供客户端可能具有的特定类型的联网设备的配置指令、建议和/或合适的设置。 在这样的环境中,客户端可以向连接性协调器114提供客户端网络设备信息367,并且可以例如查找配置数据的数据库（例如,数据库115）以查找设备的配置指令并向客户端提供配置建议或指令。 例如,如果客户端经由信息367指示他们希望使用来自特定供应商的特定类型或类别的路由器（例如,Cisco路由器、Juniper路由器或Yamaha路由器）,则连接性协调器可以能够提供特定类型的路由器或在该特定路由器上运行的特定版本的软件的供应商特定配置的提示。 这样的提示可以包括如何配置或验证BGP设置、隧道相关设置、IKE（互联网密钥交换）设置的示例,并且还可以包括关于如何测试特定供应商的设备是否有效操作的指令。 在一些实施例中,故障排除和/或调谐提示（诸如可以是供应商特定的和/或设备特定的合适的缓冲区大小）也可以由连接性协调器114提供。 因为在至少一些环境中,提供商网络105可以具有使用各种各样的网络设备的多个客户端,所以连接协调器114可以能够构建知识库,该知识库针对各种各样的网络设备的配置、由提供商网络拥有的设备最佳地起作用的多种类型的客户端侧设置等,并且对于正在进行将网络160链接到提供商网络105的过程的客户端可能是非常有用的。 在一些实施方式中,期望连接性的附加规范368也可以包括在客户端请求中,例如,在诸如专用连接性的期望开始或结束时间的规范中,或者在客户端网络162中支持特定BGP版本和/或双向转发检测(BFD)的确认中。</base:Paragraphs>
+      <base:Paragraphs num="0026">在各种实施例中,可以在多个步骤中将类似于图3中所示的信息的信息传送到连接性协调器114,例如,首先可以传送位置信息和期望带宽,然后连接性协调器可以提供具有可能选项列表的响应,然后客户端可以从这些可能选项中选择一个选项并在后续消息中提供附加规范。 可以使用任何可用网络路径（例如,可以包括公共互联网的一部分的路径175）将信息从客户端（或从代表客户端的第三方）传送到连接性协调器114。 在各种实施方案中,客户端与连接性协调器114之间的一些或所有交互可以被加密。 在客户端当前不具有在适当的路由器配置设施150处已经可用的客户端侧路由器的一些情况下,可能需要客户端与连接性协调器114之间的进一步交互,在这种情况下,例如,连接性协调器提供客户端可以使用以获得对适当路由器的访问的第三方网络服务提供商的建议。</base:Paragraphs>
+      <base:Paragraphs num="0027">图4示出了根据至少一些实施方案的可对来自客户端的专用连接性请求生成的响应的部件的实施例。 所示实施例示出了连接性协调器114将响应451发送回请求客户端设备148,并且还示出了可选的通知452,在一些实施例中,该可选的通知452可以被发送给路由器配置设施150的操作者或管理者。 如图3中所示,通过检查客户端请求的专用连接性的各种参数或特性,连接性协调器114可以最终确定特定端点路由器132,该特定端点路由器132可以适合于将物理链路设置到客户端的网络。 例如,在图1中,可以选择路由器共置装备150A的端点路由器132A以提供到客户端网络162A的物理连接。 响应451可以包括物理链路配置指令471、授权信息482、连接标识符482和设备特定配置指令483的任何组合。 物理链路配置指令471可识别（例如）来自客户端侧路由器（例如路由器142A）的电缆所附接的确切物理坐标、物理端口的识别信息467（例如,“端口3”或“左起第三端口”）、笼识别符461、机架识别符463和接线板识别符465。</base:Paragraphs>
+      <base:Paragraphs num="0028">在许多情况下,诸如路由器132和142的联网设备被包含在安全环境中,在该安全环境中没有人可以具有物理访问。 在这种情况下,可以向客户端提供授权信息481,该授权信息481可以包括例如允许技术人员访问端点路由器132A的法律约束力协议。 在一些环境中,类似于或源自常用的标准授权通信格式（称为“LOA-CFA”（授权和客户设备分配的快报））的文档可以用于授权信息481。 在一些情况下,授权信息481本身可以包括物理链路坐标,诸如端口标识符467、笼标识符461、支架标识符462和接线板标识符465。 响应451还可以包括对应于所请求的专用连接的连接标识符482,该连接标识符482可以用于从客户端到连接协调器114的进一步通信中,诸如经由setUpLogicalConnection API建立逻辑上分离的路径的请求,如上面描述的并且下面结合图5的描述进一步讨论的。</base:Paragraphs>
+      <base:Paragraphs num="0029">在一些实施例中,连接性协调器114还可以为客户端侧网络装置提供配置指令483。 如果客户端网络设备信息367先前被提供给连接性协调器114,并且在一些实施方式中,即使客户端先前没有提供客户端设备细节,这样的指令也可以被提供给默认的设备集合（例如,最常用类型的路由器）。 取决于为物理连接选择的端点路由器132的特性,不同的客户端侧配置设置集通常也可以适用于客户端侧网络装置的给定部分,并且在选择端点路由器132之后,连接性协调器可以参考该配置的知识库以选择适当的指令。</base:Paragraphs>
+      <base:Paragraphs num="0030">如上所述,在一些环境中,可能需要许可来配置到端点路由器132的物理连接。 在一些实施例中,授权信息481也可以（或替代地）由连接性协调器发送给路由器配置设施150的运营商433。 在一些司法管辖区中,法律约束可以阻止连接性协调器114与共置装备运营商433之间的这种直接通信,在这种情况下,如果需要,可以由客户端向运营商433提供授权信息。</base:Paragraphs>
+      <base:Paragraphs num="0031">在许多情况下,客户端可能有兴趣将资源集合120用于各种不同的目的,例如,软件供应商可能希望使用一组资源112A来配置其软件工程师的开发和构建环境,使用互联网的另一组资源112B来在企业内部存储和共享公司信息,以及使用可以由软件供应商的客户访问的网站的第三组资源112C（图1中未示出）。 这样的客户端可能希望将每组资源112的网络流量与另一组资源112的流量隔离,例如,用于管理、记账/计费和/或安全目的。 例如,软件供应商可能希望确保与构建相关的流量保持与内联网流量分开,来自构建机器或资源112A的流量可能不被允许到达一个或多个内联网服务器112B等。 同时,此类客户端可能希望利用经由端点路由器132提供的用于所有这些不同功能的相同专用物理连接性。 也就是说,客户端可能希望建立多个逻辑上分离的网络路径,其共享所有相同的物理链路,类似于为到资源集合120的专用连接而建立的跨网络链路191。 在一些实施例中,由连接性协调器114组装的接口可以能够提供对与这种逻辑上分离的路径相关联的各种操作的支持,诸如创建、修改、删除和检索路径或查询路径的状态。</base:Paragraphs>
+      <base:Paragraphs num="0032">图5示出了根据至少一些实施方案的可以被发送到连接性协调器114的逻辑隔离的网络路径的隔离请求551的组件的示例。 在请求逻辑上分离的网络路径之前,客户端可能已经建立了物理链路以获得专用连接,如图2的更高阶步骤211所示,并且可能已经在物理链路建立过程期间获得了连接标识符482。 在所示实施例中,连接标识符可以被包括在请求551中。 在各种实施例中,请求551还可包括各种选择标准,诸如VLAN标签501、BGP ASN 511、一组网络前缀521、配对信息531、虚拟专用网关信息541和/或可用于分离网络的其他信息等的任何组合。</base:Paragraphs>
+      <base:Paragraphs num="0033">虚拟局域网(VLAN)是一种经常用于在单个物理网络内创建多个逻辑上分离的网络的方法。 为了允许交换机或其他网络设备识别分组所属的VLAN,可以将被称为VLAN标签的标签或标识符插入在给定VLAN环境内传输的每个分组的报头中。 在一个实施例中,连接性协调器114可以请求客户端为客户端想要建立的每个逻辑上隔离的网络路径提供唯一VLAN标签501。 也就是说,客户端可能不允许对多个逻辑上分离的路径使用相同的VLAN标签。 在一个实施方式中,VLAN标签501可能需要符合诸如以太网802.1 q标准的标准。</base:Paragraphs>
+      <base:Paragraphs num="0034">客户端还可能需要提供BGP自主系统号(ASN)511。 如上所述,自主系统(AS)是在一个或多个网络运营商的控制下的一组连接的互联网协议(IP)路由前缀,其向互联网指示共同的、明确定义的路由策略。 通常,将唯一的ASN分配给每个AS以在BGP路由中使用。 在各种实施方案中,取决于客户端希望建立的逻辑连接的类型,ASN 511可以是公共的（即,可以向公共互联网的各种路由器开放）或私有的（仅向提供商网络100和客户端网络162的路由器开放）。 客户端还可以提供一组网络前缀521,例如,根据BGP或另一个路由协议,这些网络前缀521针对逻辑上分离的网络是开放的。 在一些实施例中,还可以在请求551中包括配对信息531,例如,指示期望的逻辑上分离的路径是在主动/主动模式中还是在主动/待机模式中与任何其他路径配对。 在一些实施方式中,提供商网络可以支持虚拟专用网关的建立以支持客户端网络162和资源集合120之间的VPN（虚拟专用网络）功能,并且请求551还可以包括用于逻辑隔离的网络路径的这种虚拟专用网关的标识。 在一些实施例中,可以使用多协议标签交换(MPLS)方法来实现逻辑网络隔离。 虽然图5中所示的示例性元件可以适用于其中使用BGP和相关协议的环境,但是在其他实施例中,其他网络隔离机制（例如,虚拟私有云或可用于连接到VPN的任何其他方法）可以由客户端提供并由连接提供商用于逻辑网络隔离。 在上述示例性setUpLogicalConnection API调用中,请求551的各种元素中的一些或全部可以被包括在例如作为参数传递的LogicalConnectionParameters对象的字段中。</base:Paragraphs>
+      <base:Paragraphs num="0035">在一个实施例中,在接收到建立逻辑上分离的网络路径的请求551之后,连接性协调器114可以执行一组操作,诸如更新连接性数据库115、将适当的路由信息传播到提供商网络105的各种路由器、刷新各种路由相关高速缓存等,以完成所请求的配置。 在成功建立逻辑隔离的网络路径之后,在一些实施例中,连接性协调器114可以向客户端发送回指示成功提供了所请求的专用连接性和/或逻辑隔离的确认消息。 图6示出了根据至少一些实施方案的指示已建立所请求的连接性的这种确认消息651的内容的示例。 在所示实施例中,物理连接确认细节601可以确认与在客户端请求中建立的物理链路相关的一些信息,诸如端口标识符467、机架标识符463、可用带宽等。 逻辑连接验证细节621可以验证逻辑上分离的网络路径的特性,诸如VLAN标签501、BGP ASN 511、网络前缀521、配对信息531和虚拟专用网关信息541。 在所示实施例中,确认消息651还包括连接标识符482和支持信息611,例如,如果发生业务阻塞、性能差或其他可能的问题,则客户端可以使用该信息来获得帮助。 在不同的实施例中,确认消息651可以排除图6中所示的元素的任何组合,并且在一些实施例中,可以包括附加信息。 在一个实施例中,可以由连接性协调器114发送多个确认消息,例如,可以在建立物理链路之后发送第一确认消息,并且可以在建立逻辑上分离的网络路径之后发送第二确认消息。 连接性协调器114还可向客户端发送指令以验证或确认所要连接性在客户端端处正确地起作用,例如,在其中资源112包括具有相关联的公共和/或私有IP地址的虚拟计算服务器的实施方案中,此类指令指示客户端启动虚拟计算服务器且将引脚发送到其IP地址中的一者。</base:Paragraphs>
+      <base:Paragraphs num="0036">图7示出了根据至少一些实施方案的共享单个专用物理链路（诸如使用由连接性协调器114提供的接口建立的跨网络连接）的两个逻辑上隔离的网络路径752A和752B的实施例。 在图2所示的环境中,客户端需要在内部网络732与受限访问资源群712之间建立和维护连接。 同时,客户端已经建立了客户端网络162A的子网络,其可以经由非军事区(DMZ)722（也可以称为边界网络）（即,提供商网络105的数据中心中的公共访问资源群702）向公共或不受信任的互联网发布客户端的一些服务。 为了确保受限接入资源群712和公共接入资源群702两者的业务满足期望的性能、安全性和成本要求,客户端可以首先使用由连接性协调器114提供的接口（例如,使用图2中描述的步骤）在客户端侧路由器142A与端点路由器132A之间建立跨网络连接791。 客户端可进一步使用接口的其它组件来建立共享跨网络连接791的两个逻辑上隔离的网络路径：用于在DMZ 722与公共接入资源群702之间的业务的路径752A,以及用于在客户端的内部网络732与受限接入资源群712之间的业务的路径752B。</base:Paragraphs>
+      <base:Paragraphs num="0037">在一些实施例中,可以在一个路由器配置设施150内或跨多个路由器配置设施为单个客户配置多个专用物理链路,诸如跨网络连接791或191。 例如,跨国公司可以在多个不同国家具有办公设施,所有这些设施都可以受益于到一组资源集合120的专用连接,并且在这种情况下,可以为地理上分离的办公室位置中的每一个建立一个或多个专用物理链路。 可以跨多个逻辑上分离的路径（诸如图7的路径752）共享单个物理链路。 此外,给定资源集合（例如资源群702或712）可经由多个逻辑上隔离的路径752存取,其中一些逻辑上隔离的路径752可使用不同的专用物理链路791。</base:Paragraphs>
+      <base:Paragraphs num="0038">图8是在一些实施例中可以由连接性协调器114提供的示例性基于网络的接口的一部分的说明性示例。 如上所述,在一些实施例中,由连接性协调器114实现以提供连接性服务的界面可以作为一组网页向客户端公开。 图8的网页800表示包括多个表单字段的一个此类网页的实施例,客户端可以填写这些表单字段以提供关于期望的专用连接要求的细节。 在一些实现中,经由诸如网页800的界面呈现表单数据可以导致调用一个或多个API调用,类似于上面结合图2的元素201的描述列出的API调用。</base:Paragraphs>
+      <base:Paragraphs num="0039">在网页800的区域803中,可以提供友好问候和摘要消息。 可以提供表单字段805以允许客户端指定期望专用连接的物理位置。 使用表单字段807,客户端指定期望的带宽,但是在图8中预先选择并示出了1Gbps的默认值。 表单字段809可以用于提供可选的配对或多路信息,其中,如图所示,在默认的两个连接中,主动/主动模式被预先选择。 表单字段811可以允许客户端指定用于专用物理链路的客户端路由器的供应商名称和型号。 表单字段813可以允许客户端识别网络服务提供商,其也可以参与设置专用连接,例如,可以使用的路由器配置设施的运营商。 在一些实施方案中,当客户端填写表单字段805中的地址信息时,连接性协调器114可以自动填写网络服务提供商表单字段813,或者可以填充一组下拉选项,客户端可以经由表单字段813从中选择合适的提供商。 在所示实施例中,客户端可以使用提交按钮815提交完成的表单。 在利用网页界面的一些实施方式中,可以在建立期望的物理和逻辑连接的过程期间利用多个不同的网页。 当客户端填写一个表单条目时,连接性协调器可以能够定制或缩小可用于后续表单条目的一组选项。</base:Paragraphs>
+      <base:Paragraphs num="0040">图9是根据至少一些实施方案的用于提供连接性相关服务的方法的流程图。 如流程图的元素900所示,定义一组连接性操作的接口可以例如由连接性协调器114实现。 经由接口提供的连接操作可以包括用于建立、查询、修改、禁用和丢弃各种类型的物理和逻辑连接的服务。 界面可以包括一组API、基于web或独立GUI、命令行工具等的任何组合。</base:Paragraphs>
+      <base:Paragraphs num="0041">如元素910所示,可以根据接口接收对专用连接性的请求。 例如,在接口基于web的环境中,请求可以包括一个或多个HTTP请求,而在不同的实施方案中,请求可以包括来自为客户端编码和执行的程序的一个或多个方法调用。 该请求可以包括多个细节的列表,这些细节可能需要关于可以在哪里、如何提供专用连接以及哪些企业实体（诸如第三方网络服务提供商或网络数据中心的运营商）可能需要参与这些细节。 例如,该请求可以指定客户端侧路由器142可用于使用、期望带宽和各种其他要求的期望物理地址。</base:Paragraphs>
+      <base:Paragraphs num="0042">如图9中的元素920所示,一旦接收到请求,就可以选择提供商网络105的目标端点路由器132,并且通过该目标端点路由器132可以配置用于向客户端提供期望的专用连接的路由。 在不同的实施例中,可以基于各种因素中的任何因素来选择目标端点路由器,这些因素包括物理位置、测量和/或预期带宽利用水平、成本、运营商对路由器所在的设备的先前积极或消极体验、客户端与联网设备的兼容性等。</base:Paragraphs>
+      <base:Paragraphs num="0043">如元素930所示,然后可以生成一组配置信息和指令以建立到目标点路由器的物理链路,然后可以发送响应（元素940）。 在一些实施例中,可以仅将响应提交给请求客户端,而在其他实施例中,可以将响应提交给在其上建立物理链路的路由器配置设施150的运营商,或者可以将响应提交给请求客户端和设施运营商两者。 在一些实施方式中,响应可以包括标识物理电缆可以附接到的特定物理端口、笼、机架和/或接线板的数据。 例如,向技术人员授予访问端点路由器的许可的许可信息可以被包括在响应中或者可以经由响应而变得可访问。</base:Paragraphs>
+      <base:Paragraphs num="0044">在一个实施方式中,在已经建立物理链路之后,可以向客户端发送指示已经成功建立期望的连接性的确认消息（图9中的元素950）。 在其他实施方式中,可以在建立一个或多个逻辑上分离的网络路径之后使用新建立的物理链路来生成确认消息。</base:Paragraphs>
+      <base:Paragraphs num="0045">图10是根据至少一些实施方案的用于提供连接性相关服务的方法的流程图,该方法包括关于配置客户端网络设备的指导。 可以如元素1000所示实现允许客户端做出各种连接相关请求的接口,包括请求帮助配置可以用于建立与提供商网络的专用连接的一个或多个网络设备。 可以根据界面接收提供可供客户端使用的联网装置的标识（例如,在联网装置上运行的软件的供应商名称、型号名称和软件版本标识符的任何组合）的请求（元素1010）。 此类请求还可以包括客户端所请求的连接性的其他细节,诸如期望的带宽、可用性/冗余要求等。</base:Paragraphs>
+      <base:Paragraphs num="0046">响应于该请求,在一些实现中,连接性协调器114可以使用例如供应商名称、型号名称、软件版本和/或连接性要求的组合来查询配置信息的数据库（元素1020）。 如果例如基于请求中提供的标识找到适当的配置引导,则可以生成包括配置信息或指令的响应（元素1030）并将其发送到请求客户端（元素1040）。 在一些实施方式中,配置信息的数据库可以包括使用不同类型的联网装置的位置的清单（即,由其客户端）,并且在这种情况下,可以将指示请求客户端使用指定装置的记录插入到数据库中（元素1050）。 在一些环境中,连接性协调器114还可以在知识库中维护关于不同类型的联网设备的体验的附加信息,诸如那些联网设备的客户端满意度调查、故障的平均时间、可用性数据等,并且这些附加信息中的一些或全部也可以经由接口可用。</base:Paragraphs>
+      <base:Paragraphs num="0047">图11示出了根据至少一些实施方案的包括提供商网络1100的系统1105的实施例,其中可以通过“最后一英里”连接提供商（例如,1150A、1150B和1150C）从诸如1162A和1162B的客户端网络提供连接。 在许多环境中,诸如1148A和1148B的客户端设备可以在网络（例如,1162A和1162B）中提供,该网络可能不具有从其客户端侧路由器1142到诸如1132A和1132B的端点路由器可以位于其中的路由器共置设施（类似于图1的设施150）的可用私有路径。 这尤其可能发生在相对较小的客户端企业的情况下,或者当客户端企业的设施位于稍微远离路由器配置中心的区域中时。 虽然这样的客户端网络1162可以通过共享网络路径（例如,公共互联网的一部分,包括路径1175的一部分）访问提供商网络1100的各种资源集合1120,但是客户端网络的运营商可能希望利用专用路径到资源集合的益处。 各种第三方连接性提供商1150（即,除提供商网络的运营商之外的企业实体）可以提供到端点路由器1132的专用路径,例如,在图11中,连接性提供商1150C被示出为提供端点路由器1132B与客户端网络1162B之间的专用或直接路径1149。 这样的连接提供商可以帮助客户端填充客户端网络1162与端点路由器1132和资源集合1120之间可用的私有路径1170（例如,类似于图1的路径170的路径1170A、1170B、1170C和1170D）之间的间隙。 这些第三方连接性提供商通常被称为“最后一英里”连接性提供商（或者在度量距离单位更常见的环境中,称为“最后一公里”连接性提供商）,因为这些第三方连接性提供商通常负责提供最接近客户端设施并且因此最远离关键网络基础设施提供商的设施的物理网络连接性。 在本文档中,还可以使用缩写“LMCP”来指代最后一英里的连接提供商。</base:Paragraphs>
+      <base:Paragraphs num="0048">在识别它之后,如果适用的话,最后一英里连接提供商可能是可用的,并且从客户端的角度来看,将客户端的网络链接到提供商网络1100通常可能是麻烦的。 在一些情况下,一些LMCP可以在客户端设施附近操作,但是提供商网络1100的运营商可以支持或优选仅子集。 在图11中示出和描述的实施例中,连接性协调器1114可以可操作以实现定义各种连接性相关服务的接口,并且可以允许客户端容易地确定哪些LMCP 1150可以用于连接到提供商网络1100。 这样的接口可以进一步允许客户端在所选择的最后一英里连接提供商的帮助下建立到资源集合1120的期望的专用连接（例如,经由直接路径1149）。 连接性协调器1114可以实现一个或多个数据库1115以存储连接性相关信息,包括例如最后一英里连接性提供商1150及其服务的目录。 界面可以由连接性协调器1114建立,或者可以使用任何合适的技术对客户端可用,诸如向提供商网络1100的所有客户端建立一个或多个电子邮件消息、具有界面细节的网站或网页等。 界面本身可以是例如编程的,并且可以包括一组API、一个或多个网页、命令行工具、可安装的图形用户界面等的任何组合。 在一些实施方案中,连接性协调器1114本身可以驻留在提供商网络1100外部,并且在其他实施方案中,可以并入在提供商网络1100内。</base:Paragraphs>
+      <base:Paragraphs num="0049">使用该接口,例如从客户端设备1142A中的一个,客户端可以例如通过可以包括公共互联网链路的路径1175来提交对专用连接性的请求。 例如,请求可以包括客户端希望专用连接的一个或多个物理地址。 响应于该请求,连接性协调器可以可操作以识别一个或多个LCMP 1150,所述LCMP 1150可用于在提供商网络1100与请求客户端的网络（例如,1162A）之间建立专用连接,并且生成和发送列出所选择的一个或多个LMCP的响应。 所选择的LMCP可以操作或管理恰好与提供商网络1100的端点路由器1132中的一个共同定位的一个或多个路由器,或者如果这样的路由器尚未可用,则可以具有配置它们的能力。 在一些实施例中,连通性协调器1114允许客户端从一组可用LMCP中选择LMCP,而在其他实施例中,连通性协调器1114可确定要使用的特定LMCP并将该确定通知客户端。 此后,例如,在经由与图2中概述的那些类似的步骤设置专用连接之后,在一些实施方案中,连接性协调器1114可以向客户端提供指示已经验证期望的连接性的确认。 接口可以用于在专用连接的建立阶段和使用阶段期间客户端与连接协调器1114之间的通信,例如,客户端可以使用接口来查询所请求的连接或所建立的连接的状态,并且还可以请求各种连接的修改、连接的启用和禁用等。 对客户端请求的响应也可以根据接口被格式化。</base:Paragraphs>
+      <base:Paragraphs num="0050">连接性协调器1114可以例如在数据库1115中查找LMCP信息,以对专用连接性的初始请求进行响应。 如果多个LMCP 1150可用,则在一些实现中,连通性协调器1114可以提供所有可用LMCP的无序列表。 在其他实施方式中,可以根据基于客户端请求细节和连接性协调器的LMCP知识库的各种标准中的任何标准来对可用LMCP进行分类。 例如,如果连接提供商1114知道各种LMCP的服务质量的排名或评估,则它可以将LMCP从最高质量分类为最低质量。 如果连接提供商1114具有可用于不同LMCP的定价信息,则其可以根据价格等对它们进行排名。 在一些实现中,连接性协调器1114可以周期性地询问客户端对不同LMCP的质量进行排名或评估,并将此类调查的结果存储在其数据库1115中,或者可以监视故障或支持请求以建立其自身的质量排名。 在一个实施方式中,其中客户端可以指定期望的连接建立时间（例如,对应于“我需要这个连接,直到2011年8月1日,东部标准时间上午8点”的逻辑）,连接协调器可以能够基于LMCP过去知道建立连接的速度从可用LMCP的列表中移除一些LMCP。 在一些实施例中,由连接性协调器1114支持的接口允许客户端查询其LMCP的知识库。 除了图11中所示的路径之外,在许多环境中,可以存在客户端网络1162与各种系统1105的部件之间可用的多个其他替代网络路径,例如,可以通过包括公共链路或共享链路的路径向连接提供商1114发送连接请求,并且可以通过公共链路或共享链路来访问资源集合1120中提供的各种服务。</base:Paragraphs>
+      <base:Paragraphs num="0051">图12示出了根据至少一些实施方案的通过连接性提供商1150的专用连接性的初始请求1251的示例性组件。 如图所示,该请求包括客户端网络1162的位置信息1260、可选连接性细节1261、可选开始时间1268和可选结束时间1269。 连接性协调器1114可以使用位置信息1260作为查询其LMCP数据库以识别可用LMCP的主要准则。 可选连接细节1261可以包括与图3中所示的那些类似的要求,例如,带宽要求361、可用性要求363和/或多路径要求365。 在一些实施方案中,客户端还可指定期望的开始时间1268和/或期望的结束时间1269,其指示例如从2011年1月1日开始仅三个月需要期望的连接性。 在一些情况下,开始时间和结束时间可以仅指示使用该时间的一部分的专用连接性的期望,例如,开始时间和结束时间可以被指定为“8AM到8PM,周一到周五”。 在客户端指示期望开始时间1268的一些实施方式中,结束时间1269可能是不必要的。 在一些实施例中,包括期望的开始时间和/或结束时间的定时请求可以与初始请求1251分开发送。</base:Paragraphs>
+      <base:Paragraphs num="0052">图13示出了根据至少一些实施方案的包括关于可用连通性提供商1150的信息的对专用连通性请求的响应1301的示例性组件。 响应1301可以包括连接性协调器1114可以发现满足来自客户端的请求1251的一个或多个LMCP的详细记录1361的列表,例如1361A和1361B。 在各种实施例中,可以向客户端提供关于可用LMCP的不同类型的信息。 例如,LMCP详细记录1361A可以包括1150A的标识信息（例如,姓名和联系信息）1311A、字段1321A和1321B的定价信息、预期连接性建立的时间1341A和/或满意度评级1351A。 定价信息可以被划分成重复价格组件1321A（例如,“$X/月,而不考虑实际使用费”）和非重复价格组件1331A（例如,基于客户端测量的带宽使用）。 在一些实现中,定价信息可以进一步被划分成由客户端直接向LMCP 1150A支付的组件和向提供商网络1100的运营商支付的组件。 在一些实现中,协调器1114支持的界面允许客户端提交定价相关查询作为单独的请求。 可以经由字段1341A指示LMCP1150A和/或提供商网络1100的运营商可以建立期望的专用连接的最早时间。 在一些情况下,可包括满意度评估1351A（例如,基于对LMCP 1150A的客户端的调查）,这可用于客户端在可用LMCP之间进行选择。 详细记录1361B可以包括与不同LMCP（例如,LMCP1150B）的记录1361A类似的字段。</base:Paragraphs>
+      <base:Paragraphs num="0053">图14示出了根据至少一些实施方案的来自客户端的标识所选择的连接性提供商1150A的示例性通信,其可以在接收到响应1301之后由客户端生成。 选择通知1451也可以根据由连接性协调器1114实现的接口被格式化,例如,作为API调用或web表单的选择。 图15示出根据实施例的在客户端选择LMCP之后从连接性协调器1114到LMCP 1150和客户端的示例性通信。 如图所示,在对客户端的响应1551中,连通性协调器1114可以提供对LMCP的选择的确认1583。 在一个实施例中,连接性协调器1114可以例如基于客户端位置信息来确定要使用的LMCP 1150,并且可以不要求客户端做出选择,而在其他实施例中,连接性协调器1114可以在做出LMCP确定之前等待客户端选择或确认。 在一些实施方式中,客户端可以在专用连通性的初始请求（例如,图12中的请求1251）中建议或推荐一个或多个LMCP,并且连通性协调器1114可以基于初始请求来确定要使用的LMCP。 还可以在响应1551中将连接标识符1581提供给客户端。 在一些实施方案中,类似于图4中所示的授权信息481,还可以向客户端提供授权对网络提供商的端点路由器1132的物理访问的授权信息1582。 在发送到所选择的LMCP 1150的通知1552中,连接性协调器1114还可以提供授权信息1582并且还可以提供物理链路配置指令1571（类似于图4的物理链路配置指令471）,所述物理链路配置指令1571可以包括端点路由器1132的端口标识符1567、笼标识符1561、机架标识符1563和/或接插板标识符1565,物理链路可以由所选择的LMCP建立或针对所选择的LMCP建立。 在一些实施例中,授权信息1582可以发送到客户端或LMCP,但不发送到两者。</base:Paragraphs>
+      <base:Paragraphs num="0054">在一个实施方案中,在客户端和/或所选择的LMCP 1150接收到类似于图15中所示的通信之后,可以使用所选择的LMCP的网络和/或设备在提供商网络的设备（诸如端点路由器1132）与客户端网络1162之间建立具有专用物理链路的路径（类似于图11的直接路径1149）。 如果需要,则可以使用新建立的专用物理链路来建立类似于结合图5和图7的描述所讨论的一个或多个逻辑上分离的路径。 在一些实施方式中,连接性协调器1114可以验证提供了期望的专用连接性,例如,通过与客户端交换一个或多个网络分组或消息,检查消息所采用的路径,并且可以向客户端和/或LMCP 1150发送指示实现的确认消息。</base:Paragraphs>
+      <base:Paragraphs num="0055">在客户端请求定时约束（诸如开始时间和/或结束时间）的环境中,连接提供商1114还可以可操作以例如通过调度路由改变或通过在适当的时间进行其他配置改变来实现这样的定时约束。 例如,在BGP被用作路由协议的一个环境中,客户端网络的一组网络前缀可以在启用或禁用专用连接的期望开始时间或紧接在该期望开始时间之前被通告。 在一些实施方式中,借助于LMCP提供给客户端的专用连接可以具有相关联的带宽限制,并且由连接性协调器1114支持的接口还可以允许客户端进行带宽修改请求,例如,请求比最初同意的速率更高或更低的业务速率。 响应于这样的请求,连通性协调器1114可以动态地改变一个或多个设备处的配置设置以适应新的带宽要求。 在一个实施例中,连接性协调器1114可以自身监视业务流到客户端网络1162的速率。 如果业务在所测量的时间段内达到阈值（例如,大于或等于最大允许业务的80%）,则连接性协调器1114可以通知客户端可能需要带宽修改,使得客户端可以使用接口来请求带宽增加。 在一些实施方式中,连接性协调器1114还可以被配置为在可能期望降低与专用直接路径相关联的带宽限制的情况下通知客户端,例如,在测量值指示客户端将仅使用请求的带宽的一小部分的情况下通知客户端。</base:Paragraphs>
+      <base:Paragraphs num="0056">图16是根据一些实施例的可以被提供来发起连接提供商选择的示例性基于web的界面的一部分的说明性示例。 如图所示,基于网络的界面可以包括具有多个表单域的网页1600,其可以由连接性协调器1114向客户端指示。 网页可以包括欢迎消息区域1603和表单字段1605,其中客户端指定期望专用连接的物理地址。 在字段1607中,客户端可以指示是否希望帮助选择连接提供商。 带宽要求可以在字段1609中指定,并且专用连通性的定时相关要求（诸如期望的开始时间和/或期望的结束时间）可以在字段1611中指定。 提交按钮1615可以用于将完成的表单提交给连通性协调器1114。</base:Paragraphs>
+      <base:Paragraphs num="0057">在一个实施例中,这种表单的呈现可以导致对连接性协调器的一个或多个API的调用,该API类似于结合图2的描述列出的API,即API-1至API-18。 在一些实施方式中,还可以支持一些附加API,包括一些特定于LMCP的API和用于提供现有连接的动态修改和/或定价相关操作的API,其示例性调用可以包括： [API-21]ProviderList providerList=getConnectionProviders（CustomerID customerId、CustomerLocationRecord location） 
+getConnectionProviders API可以用于基于在CustomerLocationRecord对象中指定的位置信息来定位可用的LMCP。 [API-22]RequestStatus status=setConnectionProvider（ProviderIdproviderId、CustomerId customerId、RequestId requestId） 
+setConnectionProvider API可以用于指定客户已经选择了由其ProviderId标识的特定LMCP。 [API-23]RequestStatus status=setConnectionStartTime（ConnectionId connectionId） 
+setConnectionStartTime API可用于指定专用连接的开始时间。 [API-24]RequestStatus status=setConnectionEndTime（ConnectionId connectionId） 
+setConnectionEndTime API可用于指定专用连接的期望终止时间。 [API-25]Pricinglnfo pricinglnfo=getConnectionPricingInfo（ConnectionId connectionId） 
+getConnectionPricinglnfo API可以用于查询现有连接或尚未建立的连接的定价相关信息。 </base:Paragraphs>
+      <base:Paragraphs num="0058">在一些实施例中,API（诸如上面提供的实施例）可供客户端、LMCP 1150和/或其他网络提供商直接使用,或者可供装备提供商（诸如路由器配置装备150的运营商）直接使用。 在一些实施方式中,可以支持多层接口,允许客户端使用例如web接口来请求一些连接相关操作,并且使用API来执行或请求其他操作。</base:Paragraphs>
+      <base:Paragraphs num="0059">图17是根据至少一些实施方案的用于允许客户端选择连接提供商的方法的流程图。 该方法（在图17中的元素1700处示出）包括实现限定提供商网络1100的客户端可通过连接性协调器1114获得的一组连接性操作的接口。 接口可以包括例如API、命令行接口、基于网络的接口、一些其他GUI或任何其他编程接口。 可以接收根据接口格式化的专用连接的请求（元素1702）。 在一些情况下,该请求可以直接指示请求者在选择连接提供商时需要帮助。 在其他情况下,请求可以仅包括一些信息（诸如客户端想要获得专用连接的物理地址）,由此,连接性协调器1114可以基于其对提供商网络1100的端点路由器1132在物理上位于何处的知识来推断连接性提供商可能需要满足客户端的请求。 如元素1704所示,然后可以选择一个或多个连通性提供器,并且可以生成识别所选择的一个或多个连通性提供器的响应（图17中的元素1706）并发送（元素1708）。 在一些实施方式中,响应可以仅被发送到请求客户端,而在其他实施方式中,响应和/或通知也可以或替代地被发送到所选择的连接提供商。</base:Paragraphs>
+      <base:Paragraphs num="0060">在接收到标识诸如LMCP 1150的候选连接性提供商的信息时,客户端可以选择一个连接性提供商（如果由连接性协调器1114标识了多于一个连接性提供商）并且将该选择通知给连接性协调器。 连通性协调器1114然后与所选择的LMCP 1150通信并且与客户端通信,以协调物理链路（并且在一些情况下,使用物理链路的一个或多个逻辑连接）的建立,以满足客户端的连通性需求。 在成功建立连通性之后,在一些实现中,连通性协调器1114可以发送对建立完成的确认（图17中的元素1710）。</base:Paragraphs>
+      <base:Paragraphs num="0061">在一些实施例中,除了连接性提供商的选择和连接性的建立之外,还可以经由由连接性协调器1114提供的接口来支持一些附加能力。 图18是根据至少一些实施方案的用于提供动态连接相关服务的方法的流程图。 连接性协调器1114可以等待来自客户端的连接性相关请求,如元素1800所示。 当接收到这样的请求时,如果该请求是支持类型的请求,则连接性协调器1114可以采取所请求的动作。 例如,如果接收到对动态启用连通性的请求并且在实施例中被支持（元素1810）,则连通性协调器可以启用业务流,如元素1815所示。 在一些情况下,启用或禁用业务可能需要连通性协调器1114与LMCP 1150之间的交互或协调。 类似地,如果是禁用连通性的请求（元素1820）,则可以由连通性协调器1114来执行期望的改变（元素1825）。 如果请求改变与客户端的专用连接路径相关联的带宽限制（元素1830）,则可以例如通过在提供商网络1100和/或LMCP的一个或多个网络设备处进行配置改变来实现所请求的改变。 如果请求是定价查询（元素1840）,则连接性协调器1114可以提供所请求的定价信息（元素1845）,所请求的定价信息可以包括例如提供商网络运营商和/或LMCP可以向客户端收费的重复和/或非重复成本信息。 如果接收到未经授权的或不支持的请求,则连通性协调器可以发送指示接收到意外请求的响应,如元素1850所指示的。 在每种情况下,如返回到元素1800的箭头所示,连通性协调器最终恢复等待连通性相关的请求。 为了简洁起见,在图中1800处将请求类型的确定示为一系列确认（首先确认动态启用请求,然后确认停用请求等）,但是在各种实施方式中,可以使用类似于C或Java中的“情况”或“切换”语句的逻辑在单个步骤中确定请求类型。</base:Paragraphs>
+      <base:Paragraphs num="0062">图19是根据至少一些实施方案的包括动态地响应业务水平的变化的方法的流程图。 如元素1900所示,连接性协调器可以监视针对客户端设置的专用路径上的业务速率。 如果达到业务的某个阈值或者阈值被维持一段时间（在元素1910处检测到）,则连通性协调器可以向客户端提供带宽改变可能是适当的指示（元素1915）。 如果响应于该指示而接收到改变带宽的请求（元素1920）,则连通性协调器可以实现所请求的改变（元素1925）。 然后,连接性协调器可以恢复监视业务。 可以使用由连接性协调器提供的一个或多个界面（诸如一个或多个网页）来实现图18和图19中所示的连接性协调器1114与客户端之间的每个交互。</base:Paragraphs>
+      <base:Paragraphs num="0063">上文所描述的提供用于操作专用于实例用例的连接的易于使用的接口的方法可用于各种环境中。 例如,如果提供商网络在公共可用联网设施的可靠性、性能和/或安全性受到限制的新地理区域上快速扩展,则越来越多的客户端可能希望利用专用连接,特别是在以相应的价格点提供的情况下。 另外,在提供商网络运营商已经可以提供用于管理当前经由共享（非专用）路径访问的计算和/或存储资源（诸如资源集合120或1120）的一组接口的情况下,提供用于管理专用连接选项的附加接口可以显著增加运营商操作的专用连接服务的采用率。</base:Paragraphs>
+      <base:Paragraphs num="0064">可以考虑以下条款来描述示例性实施例：附录1.一种系统,包括： 指定用于响应从客户端接收的服务请求的资源集合。 数据中心； 通过一个或多个专用网络路径链接到数据中心。 多个端点路由器； 连接性协调器； 所述连通性协调器被配置为： 实现定义客户端可用的连接行为的接口； 从客户端接收对到资源集合的专用连接性的连接性请求,所述连接性请求根据接口被格式化,并且响应于所述连接性请求来选择所述多个端点路由器中的目标端点路由器,所述目标端点路由器能够被配置为根据所述连接性请求来提供通过一个或多个专用网络的专用网络路径的路由,并且能够操作以生成应答并且将所述应答发送到客户端,所述应答包括用于建立到所述目标端点路由器的物理网络链路以提供专用连接性的至少一部分的配置指令。条款2.根据条款1所述的系统,其中,所述界面包括应用编程界面(API)、图形用户界面(GUI)或命令行界面中的至少一个。条款3.根据条款1所述的系统,其中,所述目标端点路由器被容纳在需要物理访问的许可的设施中,并且其中,所述应答包括在所述设施处许可对所述目标端点路由器的物理访问的指示。条款4.根据条款1所述的系统,其中,所述连接性协调器还可操作以接收从所述客户端经由所述物理链路建立到所述资源集合的逻辑上隔离的网络路径的隔离请求,并且根据所述隔离请求实现网络隔离机制以建立逻辑上隔离的网络路径。条款5.根据条款4所述的系统,其中,网络隔离机制包括虚拟LAN(VLAN)机制或多协议标签交换(MPLS)方法中的至少一种。条款6.根据条款1所述的系统,其中所述连接性协调器还可操作以从所述客户端接收用于将所述客户端的网络业务发送到所述资源集合的网络装置的标识,并且基于所述标识向所述客户端提供用于所述网络装置的一个或多个配置指令。条款7.一种方法,包括： 向提供商网络的客户端呈现连接服务,包括： 所述连接性服务包括： 实现定义客户端可用的连接操作的编程接口； 连接性协调器。 向客户端呈现； 在连接性协调器中, 接收到提供商网络的资源集合的专用连接的连接请求； 接收根据接口格式化的连接请求,响应于所述连接请求,选择提供商网络的多个端点路由器中的目标端点路由器,其中所述目标端点路由器能够被配置为根据所述连接请求通过私有网络提供到资源集合的路由,生成通知,所述通知包括用于建立到所述目标端点路由器的物理网络链路以提供专用连接的至少一部分的配置信息,以及发送所述通知。条款8.根据条款7所述的方法,还包括：接收用于将客户端的网络业务传输到资源集合的网络装置的标识信息,以及基于所述标识信息提供用于所述网络装置的一个或多个配置指令。条款9.根据条款7所述的方法,其中,所述资源集合包括多个资源,并且所述方法还包括接收一个或多个选择标准,所述一个或多个选择标准标识通过物理网络链路提供所述隔离连接的所述多个资源的子集,以及根据所述选择标准来路由网络业务。条款10.根据条款9所述的方法,其中所述一个或多个选择标准中的一个选择标准包括虚拟局域网(VLAN)标签。条款11.根据条款7所述的方法,其中,所述目标端点路由器容纳在需要对物理访问的授权的设施中,并且其中,所述通知包括在所述设施处对所述目标端点路由器的物理访问的授权的指示。条款12.根据条款7所述的方法,其中,发送通知包括将通知发送给目标端点路由器所在的装备的运营商。存储程序指令； 一种非暂时性计算机可访问存储介质,包括： 所述程序指令包括： 当在一个或多个处理器上执行时： 实现定义提供商网络的客户端可用的连接操作的编程接口； 从客户端接收到提供商网络的资源集合的专用连接性的连接性请求,所述连接性请求根据接口被格式化,并且响应于所述连接性请求生成通知,所述通知包括用于建立到提供商网络的目标端点路由器的物理网络链路以提供专用连接性的至少一部分的配置信息,所述目标端点路由器能够被配置为根据所述连接性请求通过专用网络路径提供到资源集合的路由,并且所述目标端点路由器发送所述通知。条款14.根据条款13所述的非暂时性计算机可访问存储介质,其中所述程序指令当在所述一个或多个处理器上被执行时传输确认消息,所述确认消息指示在已建立物理网络链路之后已提供专用连接。条款15.根据条款13所述的非暂时性计算机可访问存储介质,其中所述配置信息包括目标端点路由器的物理端口、机架标识符、笼标识符或接线板标识符中的至少一个。条款16.根据条款13所述的非暂时性计算机可访问存储介质,其中所述连接性请求包括带宽要求、可用性要求或到所述资源集合的多个物理路径要求中的一者或多者。条款17.根据条款13所述的非暂态计算机可访问存储介质,其中所述程序指令当在所述一个或多个处理器上被执行时,接收用于将客户端的网络流量传输到资源集合的网络设备的标识信息,并且基于所述标识信息为所述网络设备提供一个或多个配置指令。条款18.根据条款13所述的非暂态计算机可访问存储介质,其中所述资源集合包括多个资源,并且其中所述程序指令当在所述一个或多个处理器上被执行时,接收一个或多个选择标准,所述一个或多个选择标准识别通过物理网络链路提供所述隔离连接的所述多个资源的子集,并且根据所述选择标准生成用于路由网络业务的路由信息。项19.根据项18所述的非暂态计算机可访问存储介质,其中所述一个或多个选择标准中的一个选择标准包括虚拟局域网(VLAN)标签。项20.根据项13所述的非暂时性计算机可访问存储介质,其中,所述目标端点路由器容纳在需要对物理访问的授权的设施中,并且其中,所述通知包括在所述设施处对所述目标端点路由器的物理访问的授权的指示。条款21.根据条款13所述的非暂时性计算机可访问存储介质,其中,所述配置信息包括所述目标端点路由器的物理位置的标识。条款22.一种系统,包括： 提供商网络的第一地理区域内的第一资源集合； 以及提供商网络的第二地理区域内的第二资源集合。 提供商网络的多个资源集合； 经由专用物理网络链路将第一资源集合链接到客户端的客户端网络； 连接性协调器,所述连接性协调器实现用于从客户端接收连接性请求的接口,并且从所述客户端接收建立到第二资源集合的逻辑上隔离的网络路径的连接性请求,所述连接性请求根据所述接口被格式化并且能够操作以执行一个或多个配置操作以允许业务通过逻辑上隔离的网络路径使用专用物理网络链路从客户端网络流到第二资源集合。条款23.根据条款22所述的系统,其中,所述连接性协调器还可操作以：响应于所述连接性请求,向所述客户端发送指令,以将与所述逻辑隔离的网络路径相关联的连接性元数据发送到所述第二地理区域中的目的地地址,并且在执行所述一个或多个配置操作之前,验证根据所述指令发送了所述连接性元数据。条款24.根据条款22所述的系统,其中所述连接性协调器还可操作以实现所述第一地理区域的所述第一定价策略和所述第二地理区域的所述策略的所述定价策略,并且根据所述界面向所述客户端提供所述第一定价策略和所述第二定价策略的指示。条款25.根据条款22所述的系统,其中所述连接性协调器还可操作以向客户端提供一个或多个资源集合的枚举,在所述一个或多个资源集合中,可以通过专用物理网络链路建立逻辑上分离的连接,其中所述枚举是根据所述接口格式化的。条款26.根据条款22所述的系统,其中所述界面构成应用程序编程界面、命令行界面、图形用户界面或web界面中的一个或多个。条款27.一种方法,包括： 向提供商网络的客户端呈现连接服务,包括： 提供商网络包括： 第一地理区域,所述第一地理区域包括分配给客户端的第一资源集合； 以及第二地理区域,所述第二地理区域包括分配给所述客户端的第二资源集合, 所述连接性服务包括： 接收连接请求,所述连接请求使用为所述客户端建立到第一地理区域中的端点路由器的专用物理链路从所述客户端建立到第二资源集合的逻辑上隔离的网络路径,所述连接请求根据所述接口被格式化,以及执行配置操作以允许业务经由所述专用物理网络链路沿着第二逻辑上隔离的网络路径流动。条款28.根据条款27所述的方法,还包括：响应于所述连接性请求,向所述客户端发送指令,以将与所述逻辑隔离的网络路径相关联的连接性元数据发送到所述第二地理区域中的目的地地址,并且在执行所述配置操作之前,验证已根据所述指令发送了所述连接性元数据。条款29.根据条款28所述的方法,其中,根据加密算法对所述连接性元数据进行编码,所述加密算法被配置为使所述连接性协调器与所述第二地理区域中的网络设备之间的通信安全。条款30.根据条款27所述的方法,还包括：实现第一地理区域的第一定价策略和第二地理区域的策略的定价策略,以及根据界面向客户端提供第二定价策略的指示。条款31.根据条款30所述的方法,其中,所述第一定价策略和所述第二定价策略中的至少一个定价策略包括基于以下中的至少一个的定价指示符：所生成的网络流量的量、所述网络流量被传输的距离、负载平衡机制的使用或广域网(WAN)缩放机制的使用。条款32.根据条款27所述的方法,还包括：在执行所述配置操作之前,验证所述配置操作遵守与所述第二资源集合相关联的一个或多个访问策略。条款33.根据条款27所述的方法,还包括向客户端提供一个或多个资源集合的枚举,在所述一个或多个资源集合中,可以通过专用物理链路建立逻辑上分离的连接,其中所述枚举是根据接口格式化的。条款34.根据条款27所述的方法,还包括向客户端提供第一地理分区中的业务的第一性能服务水平和第一地理分区与第二地理分区之间的业务的第二性能服务水平的指示,其中所述指示根据所述接口格式化。条款35.根据条款27所述的方法,其中所述配置操作包括端点路由器处的路由改变。存储程序指令； 一种非暂时性计算机可访问存储介质,包括： 所述程序指令包括： 当在一个或多个处理器上执行时： 实现定义提供商网络的客户端可用的连接操作的编程接口； 提供商网络包括： 第一地理区域,所述第一地理区域包括分配给客户端的第一资源集合； 第二地理区域,所述第二地理区域包括分配给所述客户端的第二资源集合,其中,使用为所述客户端建立的到所述第一地理区域中的端点路由器的专用物理链路,从所述客户端接收建立到所述第二资源集合的逻辑上隔离的网络路径的连接请求,其中,所述连接请求根据所述接口被格式化,并且其中,所述连接请求执行配置操作以允许业务经由所述专用物理网络链路沿着所述第二逻辑上隔离的网络路径流动。条款37.根据条款36所述的非暂时性计算机可访问存储介质,其中,当所述指令在所述一个或多个处理器上被执行时,所述指令向所述客户端发送指令,所述指令通过除了所述专用物理网络链路之外的路径将与所述逻辑隔离的网络路径相关联的连接性元数据发送到所述第二地理区域中的所述目的地地址,并且在执行所述配置操作之前,验证已经根据所述指令发送了所述连接性元数据。条款38.根据条款37所述的非暂时性计算机可访问存储介质,其中根据加密机制对所述连通性元数据进行编码。条款39.根据条款36所述的暂时性计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时,实现所述第一地理区域的所述第一定价策略和所述第二地理区域的所述策略的定价策略,并且根据所述界面向所述客户端提供所述第二定价策略的指示。条款40.根据条款36所述的暂时性计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时,向客户端提供一个或多个资源集合的枚举,在所述一个或多个资源集合中能够通过专用物理链路建立逻辑隔离连接,其中所述枚举根据所述接口被格式化。条款41.根据条款36所述的暂时性计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时,向所述客户端提供所述第一地理区域中的所述业务的第一性能服务水平以及所述第一地理区域与所述第二地理区域之间的所述业务的第二性能服务水平的指示,其中所述指示根据所述接口被格式化。项42.根据项36所述的暂时性计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时,使得所述配置操作包括端点路由器处的路由改变。条款43.根据条款36所述的暂时性计算机可访问存储介质,其中所述界面包括应用程序编程界面、命令行界面、图形用户界面或web界面中的至少一个。条款44.一种系统,包括： 分配给提供商网络的第一客户端； 经由第一专用物理链路链接到第一客户端的第一客户端网络。 资源集合； 连接性协调器； 所述连通性协调器被配置为： 第一客户端和第二客户端。 实现定义提供商网络的多个客户端可用的连接操作的接口； 一种系统,其向第二客户端发送根据接口格式化的通知,所述通知指示对由第一客户端在资源集合中提供的服务的访问能够经由包括第二专用物理链路的路径配置,所述第二专用物理链路能够操作以执行一个或多个配置操作以将第二客户端的第二客户端网络连接到提供商网络,并且响应于来自第二客户端的根据接口格式化的订阅请求,使得能够使用第二专用物理链路将对服务的请求从第二客户端网络路由到资源集合。条款45.根据条款44所述的系统,其中,所述连接性协调器还可操作以从所述第二客户端接收根据所述接口格式化的服务发现请求,其中,响应于所述服务发现请求而生成根据所述接口格式化的通知。条款46.根据条款44所述的系统,其中,所述连通性协调器还能够被配置为从所述第一客户端接收根据所述接口格式化的服务广告请求,所述服务广告请求指示所述服务可用于订阅,其中,在接收到所述服务广告请求之后生成根据所述接口格式化的通知。条款47.根据条款44所述的系统,其中,所述通知包括所述服务的定价指示符。条款48.根据条款44所述的系统,其中所述界面构成应用程序编程界面、命令行界面、图形用户界面或web界面中的至少一个。条款49.一种方法,包括： 连接服务, 第一客户端和第二客户端。 向提供商网络的多个客户端呈现,所述呈现包括： 所述连接性服务包括： 连接性协调器,所述连接性协调器实现编程接口,所述编程接口定义可用于多个客户端的连接性操作。 响应于来自第二客户端的根据接口格式化的订阅请求,执行一个或多个配置操作以使得能够使用在客户端网络和提供商网络之间建立的专用物理链路将对服务的请求从第二客户端的客户端网络路由到第一资源集合,所述通知指示由第一客户端在提供商网络的第一资源集合中实现的服务可用于订阅。条款50.根据条款49所述的方法,其中,所述通知包括所述服务的一个或多个定价指示符。条款51.根据条款50所述的方法,其中服务的一个或多个定价指示符包括第一时间段的第一定价指示符和第二时间段的第二定价指示符。条款52.根据条款50所述的方法,其中服务的一个或多个定价指示符包括由第一客户端收取的订阅费用、由提供商网络的运营商收取的网络使用费。条款53.根据条款50所述的方法,其中所述一个或多个定价指示符中的定价指示符基于与所述服务相关联的网络流量的量或与所述服务相关联的网络流量被传输的距离中的至少一个。条款54.根据条款49所述的方法,还包括在发送所述通知之前验证所述通知符合与所述第一资源集合相关联的一个或多个访问策略,并且在执行所述一个或多个配置操作之前验证所述一个或多个配置操作符合所述一个或多个访问策略。条款55.根据条款49所述的方法,还包括在响应于所述订阅请求而执行所述一个或多个配置操作之前,使用根据所述接口格式化的与所述第一客户端的一个或多个通信来验证所述订阅请求对于所述第一客户端是可接受的。条款56.根据条款49所述的方法,还包括从第一客户端接收服务广告请求,所述服务广告请求根据所述界面格式化,并且指示所述服务可用于订阅。条款57.根据条款49所述的方法,还包括从所述第一客户端接收订阅槽的可用性指示符,所述订阅槽的可用性指示符根据所述界面格式化,所述界面包括所述服务可用的订阅数量的指示。条款58.根据条款49所述的方法,还包括从所述第二客户端接收根据所述接口格式化的服务发现请求,其中发送所述通知是响应于所述服务发现请求。条款59.根据条款49所述的方法,其中所述一个或多个配置操作包括通过专用物理链路建立逻辑上分离的网络路径。项60.根据项49所述的方法,其中所述一个或多个配置操作包括在提供商网络的路由器处的路由改变。存储程序指令； 一种非暂时性计算机可访问存储介质,包括： 所述程序指令包括： 当在一个或多个处理器上执行时： 第一客户端和第二客户端。 实现编程接口,所述编程接口定义提供商网络的多个客户端可用的连接操作； 一种非暂时性计算机可访问存储介质,所述非暂时性计算机可访问存储介质执行一个或多个配置操作以向第二客户端发送根据接口格式化的通知,所述通知指示由第一客户端在提供商网络的第一资源集合中实现的服务可用于订阅,并且响应于来自第二客户端的根据接口格式化的订阅请求,使得能够使用在客户端网络和提供商网络之间建立的专用物理链路将对服务的请求从第二客户端的客户端网络路由到第一资源集合。条款62.根据条款61所述的非暂时性计算机可访问存储介质,其中所述通知包括所述服务的一个或多个定价指示符。条款63.根据条款61所述的非暂态计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时,在响应于所述订阅请求而执行所述一个或多个配置操作之前,使用根据所述接口格式化的一个或多个通信来验证所述订阅请求对于所述第一客户端是可接受的。条款64.根据条款61所述的非暂态计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时,从所述第一客户端接收服务广告请求,所述服务广告请求根据指示所述服务可用于订阅的界面被格式化。条款65.根据条款61所述的非暂态计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时,从所述第一客户端接收订阅槽可用性指示符,所述订阅槽可用性指示符根据所述界面被格式化,所述界面包括所述服务可用的订阅数量的指示。条款66.根据条款61所述的非暂时性计算机可访问存储介质,其中所述指令当在所述一个或多个处理器上被执行时从所述第二客户端接收根据所述接口格式化的服务发现请求,并且其中响应于所述服务发现请求传送所述通知。项67.根据项61所述的非暂态计算机可访问存储介质,其中所述一个或多个配置操作包括通过专用物理链路建立逻辑上分离的网络路径。项68.根据项61所述的非暂态计算机可访问存储介质,其中所述一个或多个配置操作包括在提供商网络的路由器处的路由改变。</base:Paragraphs>
+      <base:Paragraphs num="0065">在至少一些实施方案中,实现本文描述的技术中的一个或多个的一部分或全部的服务器（包括用于实现定义各种连接的服务和操作的接口以及经由接口接收和响应各种类型的连接请求的方法）可以包括通用计算机系统,该通用计算机系统包括或被配置为访问一个或多个计算机可访问介质,诸如图20中所示的计算机系统2000。 在所示出和描述的实施方案中,计算机系统2000包括经由输入/输出（I/O）接口2030耦合到系统存储器2020的一个或多个处理器2010。 计算机系统2000还包括耦合到I/O接口2030的网络接口2040。</base:Paragraphs>
+      <base:Paragraphs num="0066">在各种实施方案中,计算机系统2000可以是包括一个处理器2010的单处理器系统或包括多个（例如,两个、四个、八个或另一合适数量）处理器2010的多处理器系统。 处理器2010可以是能够执行指令的任何合适的处理器。 例如,在各种实施例中,处理器2010可以是实现各种指令集架构(ISA)中的任何一种的通用或嵌入式处理器,诸如x86、PowerPC、SPARC或MIPS ISA或任何其他合适的ISA。 在多处理器系统中,处理器2010中的每一个通常（但不一定）可以实现相同的ISA。</base:Paragraphs>
+      <base:Paragraphs num="0067">系统存储器2020可以被配置为存储可由处理器2010访问的指令和数据。 在各种实施方案中,系统存储器2020可以使用任何合适的存储器技术来实现,诸如静态随机存取存储器(SRAM)、同步动态RAM(SDRAM)、非易失性/闪存型存储器或任何其他类型的存储器。 在所示出和描述的实施例中,实现一个或多个期望功能的程序指令和数据（诸如上述方法、技术和数据）被示出为作为代码2025和数据2026存储在系统存储器2020中。</base:Paragraphs>
+      <base:Paragraphs num="0068">在一个实施方案中,I/O接口2030可经配置以协调处理器2010、系统存储器2020与装置中的任何外围装置（包含网络接口2040或其它外围接口）之间的I/O流量。 在一些实施方案中,I/O接口2030可执行任何必要的协议、定时或其他数据转换,以将来自一个部件（例如,系统存储器2020）的数据信号转换成适合于由另一个部件（例如,处理器2010）使用的格式。 在一些实施方案中,I/O接口2030可包括对通过各种类型的外围总线（诸如外围装置互连(PCI)总线标准或通用串行总线(USB)标准的变型）附接的装置的支持。 在一些实施方案中,I/O接口2030的功能可以分成两个或更多个单独的部件,例如北桥和南桥。 此外,在一些实施方案中,I/O接口2030（诸如到系统存储器2020的接口）的一些或所有功能可直接并入处理器2010中。</base:Paragraphs>
+      <base:Paragraphs num="0069">例如,网络接口2040可以被配置为允许在计算机系统2000与附接到一个或多个网络2050的另一设备2060（诸如,如图1-20中所示的其他计算机系统或设备）之间交换数据。 在各种实施例中,网络接口2040可以支持通过任何合适的有线或无线通用数据网络（例如,多种类型的以太网网络）的通信。 另外,网络接口2040可以支持通过电信/电话通信网络（诸如模拟语音网络或数字光纤通信网络）的通信、通过存储区域网络（诸如光纤信道SAN）的通信、或通过任何其它合适类型的网络和/或协议的通信。</base:Paragraphs>
+      <base:Paragraphs num="0070">在一些实施例中,系统存储器2020可以是计算机可访问介质的实施例,该计算机可访问介质被配置为存储程序指令和数据,如上面关于图1至图19所描述的,以实现用于直接网络对等管理接口的方法和装置的实施例。 然而,在其他实施例中,可以在不同类型的计算机可访问介质上接收、发送或存储程序指令和/或数据。 通常,计算机可访问介质可包括非暂时性存储介质或存储器介质,诸如磁性或光学介质,例如通过I/O接口2030耦合到计算机系统2000的磁盘或DVD/CD。 非暂时性计算机可访问存储介质还可以包括任何易失性或非易失性介质,诸如RAM（例如,SDRAM、DDR SDRAM、RDRAM、SRAM等）、ROM等,其可以被包括作为系统存储器2020或计算机系统2000的一些实施方案中的另一种类型的存储器。 此外,计算机可访问介质可以包括传输介质或信号,诸如通过通信介质（诸如网络和/或无线链路,诸如可以通过网络接口2040实现的网络和/或无线链路）传送的电信号、电磁信号或数字信号。</base:Paragraphs>
+      <base:Paragraphs num="0071">各种实施例还可以包括接收、发送或存储指令和/或数据,所述指令和/或数据根据以上关于计算机可访问介质的描述来实现。 通常,计算机可访问介质可以包括存储介质或存储器介质,诸如磁性或光学介质,易失性或非易失性介质,诸如磁盘或DVD/CD-ROM、RAM（例如,SDRAM、DDR、RDRAM、SRAM等）、ROM,以及传输介质或信号,诸如通过通信介质（诸如网络和/或无线链路）传送的电信号、电磁信号或数字信号。</base:Paragraphs>
+      <base:Paragraphs num="0072">在附图中示出并在本文中描述的各种方法表示示例性方法实施例。 这些方法可以以软件、硬件或其组合来实现。 可以改变方法的顺序,并且可以添加、重新排列、组合、省略、修改等各种元素。</base:Paragraphs>
+      <base:Paragraphs num="0073">对于利用本公开的本领域技术人员显而易见的是,可以进行各种修改和变化。 本发明旨在包括所有这些修改和变化,因此,以上描述应被视为具有说明性意义而非限制性意义。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="119" wi="85" file="2020092462_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="63" file="2020092462_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="122" wi="81" file="2020092462_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="122" wi="81" file="2020092462_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="122" wi="83" file="2020092462_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="123" wi="83" file="2020092462_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="122" wi="83" file="2020092462_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="123" wi="85" file="2020092462_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="115" wi="85" file="2020092462_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="123" wi="81" file="2020092462_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="122" wi="83" file="2020092462_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="122" wi="80" file="2020092462_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="122" wi="85" file="2020092462_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="122" wi="72" file="2020092462_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="123" wi="85" file="2020092462_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="122" wi="83" file="2020092462_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="116" wi="85" file="2020092462_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="109" wi="82" file="2020092462_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="96" wi="83" file="2020092462_000021.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="118" wi="82" file="2020092462_000022.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种方法,包括： 向提供商网络的客户端呈现连接服务,包括： 所述连接性服务包括： 允许所述客户端访问所述提供商网络的资源集合； 连接性协调器,所述连接性协调器实现定义所述客户端可用的连接性操作的编程接口； 响应于接收到针对到所述提供商网络的所述资源集合的专用连接性的连接性请求： 选择所述提供商网络的多个端点路由器中的目标端点路由器,所述目标端点路由器包括： 所述目标端点路由器被配置为： 根据提供对所述客户端的所述资源集合的访问的所述连接性请求： 通过专用网络提供到所述资源集合的路由。 用于提供所述专用连接的至少一部分的方法包括： 生成包括从所述客户端网络建立到所述提供商网络的所述目标端点路由器的专用物理网络链路的配置信息的通知,通过所述专用物理网络链路和所述提供商网络的所述专用网络路径监视所述客户端网络和所述提供商网络的所述资源集合之间的网络流量,以及响应于所监视的网络流量达到一个或多个阈值,向所述客户端提供修改所述专用连接性的带宽的推荐。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的方法,还包括从所述客户端接收带宽修改请求,以及根据所述带宽修改请求动态地改变所述目标端点路由器处的配置设置,以修改所述专用连接的带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的方法,还包括从所述客户端接收带宽修改请求,以及根据所述带宽修改请求生成新通知,所述新通知包括所述提供商网络从客户端网络到所述目标端点路由器或其他目标端点路由器的修改的或附加的专用物理网络链路的配置信息,以提供所述专用连接。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1至3中任一项所述的方法,其中,所述连接性请求指定用于经由所述提供商网络的所述专用物理网络链路和所述专用网络路径到所述资源集合的所述专用连接性的期望带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>如权利要求1至4中任一项所述的方法,其中通过所述连接性协调器可用于所述客户端的所述连接性操作中的至少一个是用于修改所述客户端网络与所述提供商网络的所述资源集合之间存在的专用连接性的带宽的应用程序编程接口(API)。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1至5中任一项所述的方法,其中,针对所述专用连接来请求指示多路径连接的所述连接性请求,并且其中,所述连接性协调器在所述通知或其他通知中包括从所述客户端网络建立到所述提供商网络的多个专用物理链路的配置信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求6所述的方法,其中,在所述请求中指示的所述专用连接性的期望带宽是通过所述多个物理链路提供的总带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1至7中任一项所述的方法,其中,所述通知指示物理电缆所附接到的目标端点路由器的物理位置,以建立所述专用物理网络链路。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>如权利要求1至8中任一项所述的方法,其中,所选择的目标端点路由器是在地理上最接近所述客户端的所述客户端网络的所述提供商网络的端点路由器。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1至9中任一项所述的方法,其中,由所述编程接口定义的附加连接操作包括以下操作中的至少一个：建立专用连接、查询专用连接或禁用专用连接。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>系统,包括： 一个或多个处理器； 存储程序指令； 非暂时性计算机可访问存储介质； 所述程序指令包括： 当在所述一个或多个处理器上被执行时： 使所述系统： 允许所述提供商网络的客户端访问所述提供商网络的资源集合； 实现定义所述客户端可用的连接操作的编程接口； 其中针对到所述提供商网络的资源集合的专用连接性的连接性请求包括： 经由所述编程接口接收； 选择所述提供商网络的多个端点路由器中的目标端点路由器,所述目标端点路由器包括： 所述目标端点路由器被配置为： 提供对所述资源集合的所述客户端访问。 根据所述连接请求通过提供商网络的专用网络路径提供到所述资源集合的路由。 使得生成包括用于建立从所述客户端网络到所述提供商网络的目标端点路由器的物理网络链路以提供所述专用连接性的至少一部分的配置信息的通知,使得监视所述提供商网络的资源集合与所述客户端的客户端网络之间的网络流量,以及使得响应于所监视的网络流量达到一个或多个阈值,使得向所述客户端提供修改所述专用连接性的带宽的推荐。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求11所述的系统,其中所述程序指令当在所述一个或多个处理器上被执行时还使所述系统向所述配置设施的所述客户端或运营商发送包括所述专用物理网络链路的所述配置信息的所述通知。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求11或12所述的系统,其中,所述通知指示物理电缆所附接到的目标端点路由器的物理位置,以建立所述专用物理网络链路。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>如权利要求11-13中任一项所述的系统,其中所述程序指令当在所述一个或多个处理器上被执行时,还使所述系统：从所述客户端接收带宽修改请求,以及根据所述带宽修改请求动态地改变所述目标端点路由器处的配置设置,以修改所述专用连接的带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>如权利要求11至14中任一项所述的系统,其中所述程序指令当在所述一个或多个处理器上被执行时还使所述系统从所述客户端接收带宽修改请求,并且根据所述带宽修改请求生成新通知,所述新通知包括所述提供商网络从客户端网络到所述目标端点路由器或另一目标端点路由器的修改的或附加的专用物理网络链路的配置信息,以提供所述专用连接。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

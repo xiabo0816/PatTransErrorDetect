@@ -1,0 +1,1065 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000265856JP00020161233110AFULJA20160711JP00Z.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016123311" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123311</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123311</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant kind="patent">
+        <base:DocumentID>
+          <base:DocNumber>5861048</base:DocNumber>
+          <base:Date>20160216</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000265856</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265856</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>15</business:MainGroup>
+        <business:Subgroup>09</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N  15/09        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>68</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12Q   1/68        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>48</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12Q   1/48        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">C12N15/00 A</business:FI>
+      <business:FI type="secondary">C12Q1/68 A</business:FI>
+      <business:FI type="secondary">C12Q1/48</business:FI>
+      <business:FClass>
+        <business:FTerm>4B024AA12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B024CA09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B024HA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QA13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QA18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QA19</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QQ03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QQ08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QQ28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QQ42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QQ53</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR55</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR56</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR62</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR72</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QR77</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QS02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QS03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QS12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QS25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QS28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QS34</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QS36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B063QX02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B024</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B063</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">遺伝子発現解析による大腸癌の検出</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社キュービクス</base:Name>
+            <base:RegisteredNumber>515002805</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>石川県野々市市末松３－５７０  いしかわ大学連携インキュベータ２０３</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>丹野  博</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>石川県野々市市末松３－５７０  いしかわ大学連携インキュベータ２０３  株式会社キュービクス内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>宮崎  義孝</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>石川県野々市市末松３－５７０  いしかわ大学連携インキュベータ２０３  株式会社キュービクス内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>金子  周一</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>石川県金沢市宝町１３－１  金沢大学大学院医薬保健学総合研究科内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>酒井  佳夫</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>石川県金沢市宝町１３－１  金沢大学大学院医薬保健学総合研究科内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>松井  茂之</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛知県名古屋市昭和区鶴舞町６５番地  名古屋大学大学院医学系研究科内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>平木  祐輔</base:Name>
+            <base:RegisteredNumber>100091096</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>藤田  節</base:Name>
+            <base:RegisteredNumber>100118773</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>田中  夏夫</base:Name>
+            <base:RegisteredNumber>100111741</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>9</business:ClaimsCount>
+      <base:TotalPageCount>26</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】大腸癌に関連して発現が変動する遺伝子を解析して、大腸癌を検出する方法並びに検出試薬の提供。【解決手段】特定の２０個の遺伝子セットの塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドを含む大腸癌を検出するための試薬、並びに特定の２０個の遺伝子の発現レベルを測定し、該発現レベルに基づいて大腸癌を検出する方法。【選択図】なし</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、末梢血液を材料とし遺伝子発現解析を利用した大腸癌の検出に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  大腸癌は日本人で部位別のがん死亡数（男女計）順位が3番目の消化器系悪性腫瘍であり、厚生労働省調べでは年間4万1千人の患者が死亡する。早期発見し治療を行えば完治しうるが、早期病変であるほど臨床症状を呈さず、進行した状態で発見され予後不良の転帰をとる症例も認められる。早期発見の契機として、検診の際の内視鏡・画像検査にて偶然に発見される場合や、癌とは直接的に関連しない症状を精査する過程で発見される場合も多く、現在のところ、大腸癌の早期発見に有用な特異性の高い血液診断マーカーは存在しない。大腸癌の存在を出来るだけ早い段階で診断できるシステムを確立することは極めて重要である。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  昨今、DNAマイクロアレイ技術の発展、及びヒトゲノム解読によって、全遺伝子を対象とした網羅的遺伝子発現解析が可能になった。これにより、新しい癌の診断・予後予測、治療後の再発率の予測などが可能になった。本発明者らのグループは、大腸癌における遺伝子発現プロファイルを解析し、遺伝子発現プロファイルによる大腸癌の特異的検出方法を開発し（特許文献１を参照）、DNAマイクロアレイを用いた検出方法を実施している。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">
+          <business:ApplicationCitation num="0001">
+            <base:Text>WO2011/024618</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">
+  本発明は、患者への侵襲も低く、且つ患者からの遺伝子抽出も容易な方法で、大腸癌に関連して発現が変動する遺伝子を解析して、大腸癌を検出する方法、並びに大腸癌を検出するための検出試薬の提供を目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">
+  本発明者らは、リアルタイムPCRによる検出方法がDNAマイクロアレイを用いた検出方法より低コストで行うことができ、またより迅速な検出が可能になることに鑑み、リアルタイムPCRによる大腸癌の検出方法を開発すべく大腸癌患者における遺伝子発現プロファイルを解析した。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  その結果、大腸癌と関連した２０個の遺伝子セットを２セット見出し、さらにこれら２０個の遺伝子の発現レベルと大腸癌の関係を統計的に判別解析し、２０個の遺伝子の発現レベルにより大腸癌陽性か陰性かを判別できる判別式を開発し、本発明を完成させるに至った。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  すなわち、本発明は以下のとおりである。
+[１]  以下の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドを含む大腸癌を検出するための試薬：
+遺伝子セットＡ
+（１）Chromosome 21 open reading frame 56（C21orf56）
+（２）CD69 molecule（CD69）
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（５）Forkhead box O1（FOXO1）
+（６）IMP (inosine 5'-monophosphate) dehydrogenase 2（IMPDH2）
+（７）Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3（LAMTOR3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（９）Leucine rich repeat containing 68（LRRC68）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（１１）N-acetyltransferase 1 (arylamine N-acetyltransferase) （NAT1）
+（１２）NDRG family member 2（NDRG2）
+（１３）Phospholipase C, beta 1 (phosphoinositide-specific) （PLCB1）
+（１４）Regulator of G-protein signaling 18（RGS18）
+（１５）Ribosomal protein S27-like（RPS27L）
+（１６）Ribosomal protein S4, Y-linked 1（RPS4Y1）
+（１７）Ribosomal L24 domain containing 1（RSL24D1）
+（１８）Sterile alpha motif domain containing 9（SAMD9）
+（１９）SUB1 homolog (S. cerevisiae) （SUB1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+遺伝子セットＢ
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+（２１）AE binding protein 1（AEBP1）
+（２２）Annexin A1（ANXA1）
+（２３）BCL2-related protein A1（BCL2A1）
+（２４）Centromere protein Q（CENPQ）
+（２５）C-type lectin domain family 4, member D（CLEC4D）
+（２６）Chromosome Y open reading frame 15B（CYorf15B）
+（２７）D site of albumin promoter (albumin D-box) binding protein（DBP）
+（２８）Interleukin 24（IL24）
+（２９）Integrin beta 3 binding protein (beta3-endonexin)（ITGB3BP）
+（３０）Mitochondrial ribosomal protein S28（MRPS28）
+（３１）S100 calcium binding protein A12（S100A12）
+（３２）S100 calcium binding protein A8（S100A8）
+（３３）Thioredoxin（TXN）
+（３４）X-ray repair complementing defective repair in Chinese hamster cells 4（XRCC4）
+（３５）Zinc finger protein 584（ZNF584）。
+[２]  一部配列を含むヌクレオチドがPCR用プライマーである、[１]の大腸癌を検出するための試薬。
+[３]  被験体における以下の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子の発現レベルを測定し、該発現レベルに基づいて大腸癌を検出する方法：
+遺伝子セットＡ
+（１）Chromosome 21 open reading frame 56（C21orf56）
+（２）CD69 molecule（CD69）
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（５）Forkhead box O1（FOXO1）
+（６）IMP (inosine 5'-monophosphate) dehydrogenase 2（IMPDH2）
+（７）Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3（LAMTOR3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（９）Leucine rich repeat containing 68（LRRC68）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（１１）N-acetyltransferase 1 (arylamine N-acetyltransferase) （NAT1）
+（１２）NDRG family member 2（NDRG2）
+（１３）Phospholipase C, beta 1 (phosphoinositide-specific) （PLCB1）
+（１４）Regulator of G-protein signaling 18（RGS18）
+（１５）Ribosomal protein S27-like（RPS27L）
+（１６）Ribosomal protein S4, Y-linked 1（RPS4Y1）
+（１７）Ribosomal L24 domain containing 1（RSL24D1）
+（１８）Sterile alpha motif domain containing 9（SAMD9）
+（１９）SUB1 homolog (S. cerevisiae) （SUB1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+遺伝子セットＢ
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+（２１）AE binding protein 1（AEBP1）
+（２２）Annexin A1（ANXA1）
+（２３）BCL2-related protein A1（BCL2A1）
+（２４）Centromere protein Q（CENPQ）
+（２５）C-type lectin domain family 4, member D（CLEC4D）
+（２６）Chromosome Y open reading frame 15B（CYorf15B）
+（２７）D site of albumin promoter (albumin D-box) binding protein（DBP）
+（２８）Interleukin 24（IL24）
+（２９）Integrin beta 3 binding protein (beta3-endonexin)（ITGB3BP）
+（３０）Mitochondrial ribosomal protein S28（MRPS28）
+（３１）S100 calcium binding protein A12（S100A12）
+（３２）S100 calcium binding protein A8（S100A8）
+（３３）Thioredoxin（TXN）
+（３４）X-ray repair complementing defective repair in Chinese hamster cells 4（XRCC4）
+（３５）Zinc finger protein 584（ZNF584）。
+[４]  被験体の遺伝子の発現レベルが、被験体の末梢血細胞のmRNAを用いて測定する、[３]の大腸癌を検出する方法。
+[５]  遺伝子の発現レベルを、[３]の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドをターゲットとした定量PCRにより測定する、[３]又は[４]の大腸癌を検出する方法。
+[６]  以下の工程を含む、[３]～[５]のいずれかの大腸癌を検出する方法：
+（１）被験体より採取した末梢血細胞よりmRNAを抽出する工程；
+（２）遺伝子セットＡの２０個の遺伝子又は遺伝子セットＢの２０個の遺伝子をPCRにより増幅し、Ct（Cycle threshold）値を得て、GAPDH等のハウスキーピング遺伝子のCt値により標準化し、標準化Ct値を得る工程；
+（３）遺伝子セットＡ又は遺伝子セットＢの各遺伝子の標準化Ct値を判別式に代入し、大腸癌が陽性である確率を算出する工程。
+[７]  以下の判別式を用いて大腸癌を検出する[６]の大腸癌を検出する方法であって、以下の判別式から算出される数値が０より大きい場合に大腸癌陽性であると判定する、[６]の大腸癌を検出する方法：
+式：intercept + Σ(beta i × X i)
+[式において、intercept は定数、beta iは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のi番目の遺伝子に対する係数、ｘ iは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のi番目の遺伝子の標準化Ct値であり、Σは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のそれぞれの遺伝子のbeta × Xを合計することを示す]。
+[８]  ２０個の遺伝子セットＡを用いる判別式Ａにおけるintercept及び各遺伝子のbeta iが以下に示す値である、[７]の大腸癌を検出する方法：
+intercept: 1.947970595
+<base:Image id="imag000002" he="102" wi="131" file="2016123311_000002.TIF" imgContent="drawing" imgFormat="TIFF" />
+[９]  ２０個の遺伝子セットＢを用いる判別式Ｂにおけるintercept及び各遺伝子のbeta iが以下に示す値である、[７]の大腸癌を検出する方法：
+intercept：1.507712014
+<base:Image id="imag000003" he="102" wi="128" file="2016123311_000003.TIF" imgContent="drawing" imgFormat="TIFF" /></base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0009">
+  本発明の２０個の遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のリアルタイムPCRで測定した発現レベルに基づいて、被験体が大腸癌に罹患しているか否かを高精度で判定することができる。特に、統計的解析により開発した遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子の発現レベルを変数とした判別式を用いることにより、容易にかつ高精度に大腸癌を検出することが可能である。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0010">
+  以下、本発明を詳細に説明する。
+  本発明の方法で用いる遺伝子は、大腸癌で発現レベルが変動する３５個の遺伝子である。これらの３５個の遺伝子の発現レベルを測定し発現プロファイルを解析することにより大腸癌を検出することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  本発明の方法で用いる遺伝子は、以下に述べる方法で選択することができる。医師が大腸癌であると判断した患者を大腸癌群とし、該大腸癌群及び健常人群から末梢血単核球を採取し、該単核球からトータルmRNAを単離する。単離したmRNAをヒト遺伝子を含むDNAマイクロアレイに適用し、遺伝子の発現レベルを測定し、階層的クラスタリング分析を行い、大腸癌群と健常人群とで発現レベルに差がある遺伝子を選択する。マイクロアレイ解析で選択された遺伝子について大腸癌群と健常人群に関してリアルタイムPCRを用いて発現解析を行う。この際、GAPDH（グリセルアルデヒド3リン酸デヒドロゲナーゼ）等のハウスキーピング遺伝子をコントロールとして発現を解析すればよい。最終的にリアルタイムPCR解析により大腸癌群で健常人群と発現レベルが異なる遺伝子を大腸癌特異的遺伝子として選択することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  本発明で用いる遺伝子は以下に示す３５個の遺伝子である。かっこ内に遺伝子のSymbol、NCBI RefSeqID及び配列番号を示す。
+（１）Chromosome 21 open reading frame 56（C21orf56）（NM_032261.4）（配列番号１）
+（２）CD69 molecule（CD69）（NM_001781.2）（配列番号２）
+（３）COMM domain containing 8（COMMD8）（NM_017845.3）（配列番号３）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）（NM_005449.4）（配列番号４）
+（５）Forkhead box O1（FOXO1）（NM_002015.3）（配列番号５）
+（６）IMP (inosine 5'-monophosphate) dehydrogenase 2（IMPDH2）（NM_000884.2）（配列番号６）
+（７）Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3（LAMTOR3）（NM_021970.3）（配列番号７）
+（８）Lysophosphatidic acid receptor 6（LPAR6）（NM_005767.5）（配列番号８）
+（９）Leucine rich repeat containing 68（LRRC68）（XM_001722969.2）（配列番号９）
+（１０）Melanoma antigen family D, 1（MAGED1）（NM_006986.3）（配列番号１０）
+（１１）N-acetyltransferase 1 (arylamine N-acetyltransferase) （NAT1）（NM_000662.7）（配列番号１１）
+（１２）NDRG family member 2（NDRG2）（NM_201541.1）（配列番号１２）
+（１３）Phospholipase C, beta 1 (phosphoinositide-specific) （PLCB1）（NM_015192.3）（配列番号１３）
+（１４）Regulator of G-protein signaling 18（RGS18）（NM_130782.2）（配列番号１４）
+（１５）Ribosomal protein S27-like（RPS27L）（NM_015920.3）（配列番号１５）
+（１６）Ribosomal protein S4, Y-linked 1（RPS4Y1）（NM_001008.3）（配列番号１６）
+（１７）Ribosomal L24 domain containing 1（RSL24D1）（NM_016304.2）（配列番号１７）
+（１８）Sterile alpha motif domain containing 9（SAMD9）（NM_017654.3）（配列番号１８）
+（１９）SUB1 homolog (S. cerevisiae) （SUB1）（NM_006713.3）（配列番号１９）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）（NM_212559.2）（配列番号２０）
+（２１）AE binding protein 1（AEBP1）（NM_001129.4）（配列番号２１）
+（２２）Annexin A1（ANXA1）（NM_000700.1）（配列番号２２）
+（２３）BCL2-related protein A1（BCL2A1）（NM_004049.3）（配列番号２３）
+（２４）Centromere protein Q（CENPQ）（NM_018132.3）（配列番号２４）
+（２５）C-type lectin domain family 4, member D（CLEC4D）（NM_080387.4）（配列番号２５）
+（２６）Chromosome Y open reading frame 15B（CYorf15B）（NM_032576.4）（配列番号２６）
+（２７）D site of albumin promoter (albumin D-box) binding protein（DBP）（NM_001352.4）（配列番号２７）
+（２８）Interleukin 24（IL24）（NM_006850.3）（配列番号２８）
+（２９）Integrin beta 3 binding protein (beta3-endonexin)（ITGB3BP）（NM_014288.4）（配列番号２９）
+（３０）Mitochondrial ribosomal protein S28（MRPS28）（NM_014018.2）（配列番号３０）
+（３１）S100 calcium binding protein A12（S100A12）（NM_005621.1）（配列番号３１）
+（３２）S100 calcium binding protein A8（S100A8）（NM_002964.4）（配列番号３２）
+（３３）Thioredoxin（TXN）（NM_003329.3）（配列番号３３）
+（３４）X-ray repair complementing defective repair in Chinese hamster cells 4（XRCC4）（NM_003401.3）（配列番号３４）
+（３５）Zinc finger protein 584（ZNF584）（NM_173548.1）（配列番号３５）
+  上記３５の遺伝子（１）～（３５）の塩基配列をそれぞれ配列表の配列番号１～３５に示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  本発明の方法において用いるヌクレオチドは、上記配列を含むヌクレオチド又はその断片配列からなるヌクレオチドを含む。また、本発明に用いるヌクレオチドは、上記配列番号で示される塩基配列を有するヌクレオチドとストリンジェントな条件下でハイブリダイズするヌクレオチド及びその断片配列からなるヌクレオチドも含まれる。このようなヌクレオチドとしては、例えば、上記塩基配列との相同性の程度が、全体の平均で約80％以上、好ましくは約90％以上、より好ましくは約95％以上、特に好ましくは約98％以上である塩基配列を含有するヌクレオチド等を挙げることが出来る。ハイブリダイゼーションは、カレント・プロトコールズ・イン・モレキュラー・バイオロジー（Current protocols in molecular biology（edited by Frederick M. Ausubel et al., 1987））に記載の方法等、当業界で公知の方法あるいはそれに準じる方法に従って行なうことができる。また、市販のライブラリーを使用する場合、添付の使用説明書に記載の方法に従って行なうことができる。ここで、「ストリンジェントな条件」とは、例えば、「１XSSC、0.1％  SDS、37℃」程度の条件であり、より厳しい条件としては「0.5XSSC、0.1％  SDS、42℃」程度の条件であり、さらに厳しい条件としては「0.2XSSC、0.1％  SDS、65℃」程度の条件である。このようにハイブリダイゼーションの条件が厳しくなるほどプローブ配列と高い相同性を有するヌクレオチドを単離し得る。ただし、上記のSSC、SDS及びに温度の条件の組み合わせは例示であり、当業者であればハイブリダイゼーションのストリンジェンシーを決定する上記もしくは他の要素（例えば、プローブ濃度、プローブの長さ、ハイブリダイゼーションの反応時間など）を適宜組み合わせることにより、上記と同様のストリンジェンシーを実現することが可能である。さらに、これらの遺伝子はバリアントを有する場合もあり、本発明で用いる遺伝子には上記遺伝子のバリアントも含まれる。バリアントの塩基配列は遺伝子データベースにアクセスすることにより得ることができる。本発明のヌクレオチドは該バリアントの塩基配列を含むヌクレオチド又はその断片配列からなるヌクレオチドも含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  また、本発明で用いるヌクレオチドは、上記遺伝子のセンス鎖よりなるヌクレオチド、アンチセンス鎖よりなるヌクレオチドのいずれをも用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  本発明において、遺伝子の発現レベルとは、遺伝子の発現量、発現強度又は発現頻度をいい、通常、遺伝子に対応する転写産物の産生量、又はその翻訳産物の産生量、活性等により解析することができる。また、発現プロファイルとは、各遺伝子の発現レベルに関する情報をいう。遺伝子の発現レベルは、絶対値で表してもよく、また相対値で表してもよい。なお、発現プロファイルを発現パターンという場合もある。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  本発明の方法において、被験体における上記３５の遺伝子のうち、（１）～（２０）までの２０遺伝子の遺伝子セットＡ、又は（３）、（４）、（８）、（１０）及び（２０）～（３５）の２０遺伝子の遺伝子セットＢの発現レベルを指標に大腸癌を検出する。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  発現レベルの測定は、遺伝子の転写産物、すなわちmRNAの測定により行ってもよいし、遺伝子の翻訳産物、すなわちタンパク質の測定により行ってもよい。好ましくは、遺伝子の転写産物の測定により行なう。遺伝子の転写産物には、mRNAから逆転写されて得られたcDNAも含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  遺伝子の転写産物の測定は、上記の遺伝子の塩基配列の全部又は一部を含むヌクレオチドをプローブ又はプライマーとして用いて遺伝子発現の程度を測定すればよい。遺伝子発現の程度は、定量しようとする遺伝子又はその断片をターゲットとした定量PCR法、マイクロアレイ（マイクロチップ）を用いた方法、ノーザンブロット法等で測定することが可能である。好ましくは定量PCR法で遺伝子発現を測定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  定量PCR法としては、アガロースゲル電気泳動法、蛍光プローブ法、RT-PCR法、リアルタイムPCR法、ATAC-PCR法(Kato,K.et al.,Nucl.Acids Res.,25,4694-4696,1997)、Taqman PCR法（SYBR（登録商標）グリーン法）（Schmittgen TD,Methods25,383-385,2001）、Body Map法(Gene,174,151-158(1996))、Serial analysis of gene expression(SAGE)法（米国特許第527,154号、第544,861号、欧州特許公開第0761822号）、MAGE法(Micro-analysis of Gene Expression)（特開2000-232888号）等がある。リアルタイムPCRとしては、例えばTaqMan（登録商標）プローブを用いた方法等が挙げられる。ここに挙げた方法はいずれも公知の方法で行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  PCR法は公知の手法で行うことができる。用いるプライマーの塩基長は、５～50、好ましくは10～30、さらに好ましくは15～25である。通常、標的遺伝子の塩基配列に基づいてフォワードプライマー及びリバースプライマーが設計される。本発明の方法において、配列番号１～３５の標的遺伝子の塩基配列に基づいてプライマーの配列を設計することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  これらの方法を用いて、上記遺伝子の全部又は一部から転写されたメッセンジャーRNA（mRNA）の量を測定すればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  DNAマイクロアレイ（DNAチップ）は、前記遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドを適当な基板上に固定化することにより作製することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  固定基板としては、ガラス板、石英板、シリコンウェハーなどが挙げられる。基板の大きさとしては、例えば3.5mm×5.5mm、18mm×18mm、22mm×75mmなどが挙げられるが、これは基板上のプローブのスポット数やそのスポットの大きさなどに応じて様々に設定することができる。ポリヌクレオチド又はその断片の固定化方法としては、ヌクレオチドの荷電を利用して、ポリリジン、ポリエチレンイミン、ポリアルキルアミンなどのポリ陽イオンで表面処理した固相担体に静電結合させたり、アミノ基、アルデヒド基、エポキシ基などの官能基を導入した固相表面に、アミノ基、アルデヒド基、SH基、ビオチンなどの官能基を導入したヌクレオチドを共有結合により結合させることもできる。固定化は、アレイ機を用いて行えばよい。上記２０個の遺伝子又はその断片を基板に固相化してDNAマイクロアレイを作製し、該DNAマイクロアレイと蛍光物質で標識した被験体由来のmRNAまたはcDNAを接触させ、ハイブリダイズさせ、DNAマイクロアレイ上の蛍光強度を測定することにより、mRNAの種類と量を決定することができる。その結果、被験体において発現が変動している遺伝子がわかり、遺伝子発現プロファイルを得ることができる。被験体由来のmRNAを標識する蛍光物質は、限定されず、市販の蛍光物質を用いることができる。例えば、Cy3、Cy5等を用いればよい。mRNAの標識は公知の方法で行うことができる。DNAマイクロアレイを用いた方法は、上記遺伝子のmRNAにハイブリダイズするヌクレオチドプローブの使用により測定することができる。測定に用いるプローブの塩基長は、10～50bp、好ましくは15～25bpである。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  遺伝子の翻訳産物の測定は、翻訳されたタンパク質を定量するか、又はタンパク質の活性を測定すればよい。タンパク質の定量はELISA等の免疫測定法により行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  遺伝子の転写産物を測定する場合の試料は、被験体の細胞を用い、細胞からmRNAを抽出単離すればよい。細胞は、限定されないが、血液中の細胞が好ましく、その中でも末梢血液中の白血球、特に単核球（PBMC）が好ましい。単核球は、血液成分分離装置を用いたアフェレーシスによって単離することもできるし、末梢血液から密度勾配遠心分離法により単離してもよい。密度勾配遠心分離による単核球の単離は、公知のFicoll-Paque（登録商標）比重遠心法により行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  本発明の方法により、被験体が大腸癌に罹患しているか否かを評価判定し、大腸癌に罹患するリスクの程度を評価判定することができる。また、被験体が大腸癌に罹患するリスクが高いか否かを評価判定することができる。さらに、大腸癌に罹患している被験体における病態予測、予後予測が可能になる。本発明は、大腸癌に罹患しているか否か、あるいは罹患するリスクが高いかの判定、並びに病態予測及び予後予測を行うための補助的データを取得する方法でもある。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  例えば、被験体において、上記２０個の遺伝子セットＡ又はＢのうち、大腸癌患者において発現が亢進する遺伝子の発現が亢進しているか、大腸癌患者において発現が減弱する遺伝子の発現が減弱しているか、あるいは大腸癌患者において発現が亢進する遺伝子の発現が亢進し、かつ大腸癌患者において発現が減弱する遺伝子の発現が減弱している場合、被験体は大腸癌に罹患していると評価判定することができ、又は被験体は大腸癌に罹患するリスクが大きいと評価判定することができる。例えば、大腸癌患者において発現が亢進する遺伝子の発現が正常人に比べ有意に亢進している場合、又は大腸癌患者において発現が減弱する遺伝子の発現が正常人に比べ有意に減弱している場合、被験体は大腸癌に罹患しているか、又は大腸癌に罹患するリスクが高いと評価判定することができる。ここで、有意に亢進しているとは、統計学的に有意差をもって発現が亢進していると決定できることをいい、例えば遺伝子発現の絶対値又は相対値が1.2倍以上、好ましくは1.5倍以上、さらに好ましくは２倍以上に亢進している場合をいう。また、有意に減弱しているとは、統計学的に有意差をもって発現が減弱していると決定できることをいい、例えば遺伝子発現の絶対値又は相対値が３分の２以下、好ましくは２分の１以下、さらに好ましくは３分の１以下に減弱している場合をいう。ここで、評価、判定とは予測ともいう。また、本発明において、上記の大腸癌に罹患しているか否かの評価判定、大腸癌に罹患するリスクの評価判定、病態予測、予後予測等を広く大腸癌の検出という。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  また、上記２０個の遺伝子セットＡ又はＢのすべての遺伝子発現プロファイルを得て、発現プロファイルを解析することにより、被験体の病態又は大腸癌に罹患するリスクを評価判定することができる。被験体から得られた発現プロファイルが大腸癌患者群で得られた発現プロファイルと類似している場合、被験体は大腸癌に罹患していると評価判定することができ、被験体から得られた発現プロファイルが大腸癌群で得られた発現プロファイルと類似している場合、被験体は大腸癌に罹患しているか、又は大腸癌に罹患するリスクが大きいと評価判定することができる。また、被験体から得られた発現プロファイルを正常人で得られた発現プロファイルと比較し、正常人の発現プロファイルとの相違により、評価判定することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  遺伝子発現プロファイルは、蛍光強度等の発現シグナルのパターンが、デジタル数値で又は色を有する画像で記録される。遺伝子発現プロファイルの比較は、例えばパターン比較ソフトウェアを用いて行うことができ、判別分析、コックスハザード分析等を利用することができる。あらかじめ病態を評価判定し、病態予測又は予後予測を行うための判別分析モデルを構築し、該判別分析モデルに被験体から得られた遺伝子発現プロファイルに関するデータを入力し、病態を評価判定し、病態予測又は予後予測を行うこともできる。例えば、判別分析により判別式を得て、蛍光強度と病態、病態予測又は予後予測を関連付け、判別式に被験体の発現シグナル数値を代入することにより、病態を評価判定し、病態予測又は予後予測を行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  本発明は、本発明の２０個の遺伝子セットＡ又はＢの塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドを含む大腸癌を検出するための試薬又はキットを包含する。該試薬は、前記遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドをプライマー又はプローブとして含む試薬であり、また前記遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドを固相化したマイクロアレイ等の基板である。PCRキットの場合、他に熱安定性ポリメラーゼ、逆転写酵素、デオキシヌクレオチド３リン酸、ヌクレオチド３リン酸等を含んでいてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  この試薬又はキットは、上記２０個の遺伝子セットＡ又はＢのそれぞれの２０個全ての一部配列を含むヌクレオチドを含んでいる。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  また、本発明の方法において、あらかじめ大腸癌に罹患しているか否かを検出し、大腸癌に罹患するリスクの程度を評価判定し、又は病態予測若しくは予後予測を行うための判別式を構築し、当該判別式に被験体から得られた２０個の遺伝子セットＡ又はＢの発現レベルに関するデータを入力し、大腸癌に罹患しているか否かを検出し、大腸癌に罹患するリスクの程度を評価判定し、又は病態予測若しくは予後予測を行うこともできる。例えば、判別分析により判別式を得て、発現レベルと病態、病態予測又は予後予測を関連付け、判別式に被験体の発現レベルを代入することにより、病態を評価判定し、病態予測又は予後予測を行うことができる。発現レベルを示す数値としては、例えば、リアルタイムPCRによって目的遺伝子の増幅を行ったときの増幅産物がある一定量に達したときのサイクル数（Cycle threshold: Ct)が挙げられる。横軸に増幅のサイクル数、縦軸にPCR増幅産物量をプロットして、増幅曲線を作成し、PCR増幅産物量の値に閾値（Threshold）を設定したときに閾値と増幅曲線が交わる点のサイクル数がCt値となる。プローブを用いた場合は、蛍光強度を用いることもできる。発現レベルを測定するときは、被験体の状態に関らず普遍的に一定レベルで発現している遺伝子の発現レベルに対する相対値を用いるのが好ましい。普遍的に一定レベルで発現している遺伝子として、ハウスキーピング遺伝子が挙げられ、例えば、グリセロアルデヒド3リン酸デヒドロゲナーゼ（GAPDH）が挙げられる。同一サンプルにおいて、各遺伝子の発現レベルの測定と同時にGAPDHの発現レベルを内部標準として測定し、各遺伝子の発現レベルをGAPDHの発現レベルに対する相対値で表せばよい。例えば、リアルタイムPCRで発現レベルを測定する場合、発現量が一定のハウスキーピング遺伝子（内部標準）について、リアルタイムPCRを行い、Ct値を求める。次いで、目的の遺伝子についてハウスキーピング遺伝子と同じ条件でリアルタイムPCRを行い、Ct値を求める。目的の遺伝子のCt値をハウスキーピング遺伝子のCt値で除し、標準化Ct値を求めて、判別式作成のための遺伝子定量値として用いればよい。一方、各遺伝子の発現レベルが蛍光強度で表される場合、各遺伝子の蛍光強度をGAPDHの蛍光強度で除すればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  判別分析は、２群以上の母集団から抽出した標本データを得て、どの母集団に属するか不明のサンプルデータがある場合に、このサンプルデータがどの母集団に属するか調べる方法である。本発明においては２０個の遺伝子セットＡ及びＢのそれぞれの２０個の遺伝子の発現レベルに関する数値からなる多変量データ（x1、x2、・・・xn）を説明変数として用いて、判別分析を行う。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  このような判別分析の手法は公知であり、代表的な判別分析法として、サポートベクターマシン（support vector machine：SVM)による判別、線形判別関数による判別、ロジスティック回帰分析等があり、どのような手法を用いてもよいが、非線形への拡張が可能な線形カーネルをもつサポートベクターマシン（support vector machine; SVM)を用いることが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  サポートベクターマシンを用いた判別式の作成においては、１つのサンプルをテストセット(testing set)とし、他を訓練セット（training set)とする交差検証法(Leave-one-out cross-validation; LOOCV）を行えばよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  本発明の方法においては、リアルタイムPCRを用いて発現レベルを測定し、サポートベクターマシンを用いて構築した以下の判別式Iを用いればよい。
+式I：intercept + Σ(beta i × X i) &gt; 0 ならば 大腸癌陽性
+[式Ｉにおいて、intercept は定数、beta iは２０個の遺伝子のi番目の遺伝子に対する係数、ｘ iは２０個の遺伝子のi番目の遺伝子の標準化Ct値であり、Σは２０個の遺伝子のそれぞれの遺伝子のbeta × Xを合計することを示す。]
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  ２０個の遺伝子セットＡ及びＢについて上記の式Ｉにそれぞれに遺伝子のCt値を入れ計算し、算出された数値が０を超える場合に、大腸癌が陽性であると判定することができる。ここで、大腸癌が陽性であるとは、大腸癌に罹患していると判定することができ、大腸癌に罹患するリスクが高いと判定することができることをいう。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  ここで、（１）～（２０）までの２０遺伝子の遺伝子セットＡ、又は（３）、（４）、（８）、（１０）及び（２０）～（３５）の２０遺伝子の遺伝子セットＢについて、interceptの値及び各遺伝子のbetaは以下のとおりである。遺伝子セットＡ及びＢの各遺伝子のbetaは、それぞれ、表１及び２に示す。
+遺伝子セットＡのintercept: 1.947970595
+遺伝子セットＢのintercept： 1.507712014
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+        <base:TableDetails num="0001">
+          <base:Image id="000004" he="103" wi="127" file="2016123311_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+        </base:TableDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0040">
+        <base:TableDetails num="0002">
+          <base:Image id="000005" he="102" wi="129" file="2016123311_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+        </base:TableDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0041">
+  本発明の方法による大腸癌の検出は、例えば、以下の工程で行う。
+（１）被験体より採取した末梢血細胞よりmRNAを抽出する。
+（２）遺伝子セットＡの２０個の遺伝子又は遺伝子セットＢの２０個の遺伝子をPCRにより増幅し、Ct（Cycle threshold）値を得て、GAPDH等のハウスキーピング遺伝子のCt値により標準化し、標準化Ct値を得る。
+（３）遺伝子セットＡについては、遺伝子セットＡの各遺伝子の標準化Ct値を判別式Ａに代入し、大腸癌が陽性である確率Ｐを求める。遺伝子セットＢについては、遺伝子セットＢの各遺伝子の標準化Ct値を判別式Ｂに代入し、Ｐを求める。
+（４）Ｐが０を超える場合に、前記被験体は大腸癌が陽性であると評価判定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  本発明は本発明の大腸癌を検出する方法により、被験体の大腸癌を検出するシステムを包含する。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  本発明の大腸癌を検出するシステムは、
+(a)  被験体の遺伝子発現プロファイルに関するデータを入力する手段、ここで入力される遺伝子発現プロファイルに関するデータとは、例えば、各遺伝子における標準化Ct値等の各遺伝子の発現レベルを示すデータである；
+(b)  構築した判別式を記憶している記憶手段、
+(c)  (a)の入力手段を用いて入力したデータを(b)の記憶手段に記憶されている判別式に適用して、大腸癌の病態の決定を行うためのデータ処理手段、及び
+(d)  予測された大腸癌の病態の決定、病態予測、予後予測を出力する出力手段、
+を含むシステムである。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  (a)のデータを入力する手段は、キーボード又はデータを記憶した外部記憶装置等を含む。(b)の記憶手段はハードディスク等を含む。データ処理手段は、記憶手段から判別モデルを受け取るとともに、入力されたデータを処理して、処理結果を出力手段に送り、出力手段で処理結果が表示される。データ処理手段は、データを演算処理する中央演算処理装置（CPU）等を含む。また、出力手段は、結果を表示するモニタやプリンタを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  本発明のシステムは、市販のパーソナルコンピュータ等を用いて構築することが可能である。
+</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0046">
+  本発明を以下の実施例によって具体的に説明するが、本発明はこれらの実施例によって限定されるものではない。
+</base:Paragraphs>
+        <base:Paragraphs num="0047">
+  本実施例において、用いた材料及び実験の方法は以下の通りであった。
+対象
+  医師が大腸癌と診断した患者から採取した血液を大腸癌症例とした。対照群としては自治体主催における住民健診において同意を得た受診者の善意により提供された血液を下記検査項目により検索し正常値を示した受診者のみを健常人とした。
+</base:Paragraphs>
+        <base:Paragraphs num="0048">
+検査項目
+  収縮期血圧、拡張期血圧、赤血球数、白血球数、ヘモグロビン値、ヘマトクリット値、肝機能（GOT、GPT、γ-GTP）、腎機能（クレアチニン値）、脂質代謝（ＬＤＬ-c、ＨＤＬ-c、総コレステロール値）、尿タンパク、尿鮮血
+</base:Paragraphs>
+        <base:Paragraphs num="0049">
+末梢血液採取およびRNA抽出
+  パクスジーンRNA採血管（日本ベクトン・ディッキンソン株式会社  医療機器製造販売認証番号：218AFBZX00014000）を用いて、患者より末梢血液を採取した。
+</base:Paragraphs>
+        <base:Paragraphs num="0050">
+RNA抽出及びハイブリダイゼーション
+  パクスジーンRNA採血管よりPAXgene Blood RNA Kit（PreAnalytiX GmbH，Hombrechtikon，Switzerland）を用いて、プロトコールにしたがってRNAを抽出した。
+</base:Paragraphs>
+        <base:Paragraphs num="0051">
+マイクロアレイ解析
+  抽出したRNAを元にQuickAmp Labeling Kit，1color（Agilent Technologies, Santa Clara, CA）を用いてRNAを増幅し、同時にCy3色素にてラベル化を行った。ラベル化RNAをGene Expression Hybridization Kit（Agilent Technologies, Santa Clara, CA）を使用して混合した後、Whole Human Genomeマイクロアレイ（Agilent Technologies, Santa Clara, CA）にハイブリダイゼーションを行った。マイクロアレイによる解析は大腸癌検体12例、健常人検体13例を行った。なお、RNAの増幅からハイブリダイゼーションまでの行程はAgilent Technologiesが公表している実験プロトコールに従って作業を行った。
+</base:Paragraphs>
+        <base:Paragraphs num="0052">
+マイクロアレイのイメージ解析及び遺伝子の選出
+  マイクロアレイ上の各スポットの蛍光強度はマイクロアレイスキャナ（Agilent Technologies, Santa Clara, CA）にて獲得した。獲得したイメージはFeature Extraction ソフトウェア（Agilent Technologies, Santa Clara, CA）にて各スポットの蛍光強度の数値化を行った。この数値化により、そのスポット上に配置されているプローブの蛍光強度が算定された。
+</base:Paragraphs>
+        <base:Paragraphs num="0053">
+  GeneSpring GX（Agilent Technologies, Santa Clara, CA）を用いて、マイクロアレイ上の全プローブの蛍光強度数値のノーマライゼーションを行った。
+</base:Paragraphs>
+        <base:Paragraphs num="0054">
+  各プローブの発現増強減弱を示すノーマライズされた数値を元に各プローブの蛍光強度およびFlag情報から各遺伝子発現量の解析を行い、大腸癌群と健常人群とで遺伝子発現量に差がある解析結果となった遺伝子を365個選出した。
+</base:Paragraphs>
+        <base:Paragraphs num="0055">
+リアルタイムPCRによる遺伝子発現量の測定
+  上記365個の遺伝子にハウスキーピング遺伝子15個、実験コントロール3個、18SrRNAを1個追加し合計384個とし、これら384個について一度にリアルタイムPCRでの測定が可能なCustom Profiler RT<base:Sup>2</base:Sup> PCR Arrays（QIAGEN GmbH, Hilden, Germany）を用いて癌症例および健常人に関して遺伝子発現量の測定を行った。リアルタイムPCR装置はLightCycler（登録商標） 480 リアルタイムPCRシステム（F. Hoffmann-La Roche Ltd, Basel, Switzerland）を使用した。リアルタイムPCRによる測定は大腸癌検体22例、健常人検体27例を行った。なお、リアルタイムPCRにおける測定作業はQIAGENが公表しているRT<base:Sup>2</base:Sup> HT First Strand HandbookおよびRT<base:Sup>2</base:Sup> Profiler PCR Array Handbookに従った。
+</base:Paragraphs>
+        <base:Paragraphs num="0056">
+リアルタイムPCRによる遺伝子発現量測定結果の解析および大腸癌特異的遺伝子の選出
+  まずハウスキーピング遺伝子15個の中からコントロール遺伝子として測定数値（Ct値）の標準化に使用するコントロール遺伝子を設定した後に、リアルタイムPCRによる測定をおこなった365個の遺伝子のCt値をコントロール遺伝子のCt値で標準化した。その標準化された数値を用いて統計的手法による解析を行った結果、大腸癌特異的遺伝子を選出した。
+</base:Paragraphs>
+        <base:Paragraphs num="0057">
+  本実施例において以下の結果が得られた。
+コントロール遺伝子
+  ハウスキーピング遺伝子15個の中で、大腸癌検体22例におけるCt値の平均が24.72、健常人検体27例におけるCt値の平均が24.59であり、大腸癌群と健常人群との有意差検定におけるp値が0.5056であり有意差が無いことが確認できたことから、コントロール遺伝子を「GAPDH」に決定した。
+</base:Paragraphs>
+        <base:Paragraphs num="0058">
+大腸癌特異的遺伝子
+  大腸癌検体22例、健常人検体27例のリアルタイムPCRの測定結果から得られたCt値を標準化し統計的解析手法により解析した結果、リストにある35個の遺伝子を大腸癌特異的遺伝子として選出した。選出した遺伝子を表３に示す。
+</base:Paragraphs>
+        <base:Paragraphs num="0059">
+          <base:TableDetails num="0003">
+            <base:Image id="000006" he="100" wi="136" file="2016123311_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0060">
+  このうち、大腸癌が陽性／陰性の判定には以下の2セットのいずれかの遺伝子群を用いて判定を行う事ができる。
+＜セットA＞
+No.1～20までの20遺伝子
+＜セットB＞
+No.3、4、8、10及び20～35までの20遺伝子
+</base:Paragraphs>
+        <base:Paragraphs num="0061">
+大腸癌判定式および判定結果
+  大腸癌の陽性／陰性の判定には、以下の判別式を使用する。判別式の構築方法の詳細については後述する。
+式  ：  intercept + Σ(beta i × X i) &gt; 0 ならば 大腸癌陽性
+[式Ｉにおいて、intercept は定数、beta iは２０個の遺伝子のi番目の遺伝子に対する係数、ｘ iは２０個の遺伝子のi番目の遺伝子の標準化Ct値であり、Σは２０個の遺伝子のそれぞれの遺伝子のbeta × Xを合計することを示す。]
+</base:Paragraphs>
+        <base:Paragraphs num="0062">
+  セットAの場合はIntercept=1.947970595であり、セットBの場合はIntercept=1.507712014となる。betaはそれぞれ表４の通りである。遺伝子セットＡ及び遺伝子セットＢに対する判別式を、それぞれ、判別式Ａ及び判別式Ｂと呼ぶ。 
+</base:Paragraphs>
+        <base:Paragraphs num="0063">
+          <base:TableDetails num="0004">
+            <base:Image id="000007" he="103" wi="163" file="2016123311_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0064">
+  これらの判別式を用いてクロスバリデーションによる感度・特異度の推定を大腸癌検体22例、健常人検体27例に行ったところ、以下の結果となった。
+大腸癌検体22例中陽性20例、陰性2例
+健常人検体27例中陽性1例、陰性26例
+  この結果より、この判別式の感度は91％、特異度は96％となった。
+</base:Paragraphs>
+        <base:Paragraphs num="0065">
+  以下に大腸癌検出のための判別式の作成方法について詳細に記す。
+  金沢大学及び関連医療機関による臨床研究に登録され、マイクロアレイ解析が実施された大腸癌検体12例、健常人検体13例に対し、両群で発現量に大きな差が認められた345個の遺伝子を選抜した。これに、ハウスキーピング遺伝子15個を加えた合計380個からなる遺伝子セットに対し、大腸癌検体22例、健常人検体27例（合計49例）を対象として、リアルタイムPCRによって遺伝子発現量を測定した。
+</base:Paragraphs>
+        <base:Paragraphs num="0066">
+  リアルタイムPCR解析の対象である49例に対して、代表的な機械学習法の一つである線形カーネルをもつサポートベクターマシン（support vector machine）[Hastie T et al., Inference, and Prediction, 2<base:Sup>nd</base:Sup> edn. Springer, New York, 2009]を用いて判別式を作製した。全49例の内、一つの検体をテストセット、残り全てを訓練セットとする交差検証法（leave-one-out cross-validation; LOOCV）を実施した。判別に用いる遺伝子の選択には、逐次変数消去法（recursive feature elimination）[Guyon I et al., Machine Learning, 2002; 46: 389-422.]を用い、交差検証のステップ毎に遺伝子を選択した。判別精度の評価には、感度、特異度を用いた。判別に用いる遺伝子数を変化させたところ、LOOCVによる判別精度は遺伝子数が16個程度でほぼピークとなり、それ以上では判別精度はほぼ横ばいであった。この種の高次元データの判別解析では、判別に役立たない遺伝子（偽陽性）を多少選択しても、判別に役立つ遺伝子（真陽性）を取り逃がさないことがより重要との議論 [Simon R., Journal of Clinical Oncology, 2005; 23: 7332-41.]があること、49例という比較的小さなサンプルでの解析であること、最終製品で想定される測定コスト等を考慮して、やや多めの20個の遺伝子を用いるのが妥当と判断した。このときの感度は0.91、特異度は0.96であった。
+</base:Paragraphs>
+        <base:Paragraphs num="0067">
+  最後に、全49例を訓練セットとみなして、サポートベクターマシンを適用し、逐次変数消去法により20個の遺伝子を選択した。これより得られる判別式を将来の患者の判別に用いる判別式とした（判別式Ａ）。
+</base:Paragraphs>
+        <base:Paragraphs num="0068">
+  一方、上記の判別解析における解析対象49例のうち、23例（大腸癌検体10例、健常人検体13例）は先のマイクロアレイ解析で既に解析対象となっており、380個（正確にはハウスキーピング遺伝子を除いた345個）の遺伝子の選抜に用いられている。これより、これらの検体は、リアルタイムPCR解析においては常に訓練セットとみなすべきとも考えられる。そこで、参考解析として、この23例のみを訓練セットに用いた判別アルゴリズムの作製を上記のサポートベクターマシン、逐次変数消去法を用いて行った。残りの検体（新規にリアルタイムPCR解析の対象となった26例）をテストセットとして判別精度を評価したところ、遺伝子数と判別精度の傾向は先の判別解析とほぼ同様であった。そこで、ここでも遺伝子数は20個が妥当と判断し、このときの判別式も作製した（判別式Ｂ）。なお、感度は0.83、特異度は1.00であった。
+</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0069">
+  本発明により、低侵襲で簡便かつ高精度な大腸癌検出が可能になる。
+</base:Paragraphs>
+    </business:IndustrialApplicability>
+  </business:Description>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  以下の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドを含む大腸癌を検出するための試薬：
+遺伝子セットＡ
+（１）Chromosome 21 open reading frame 56（C21orf56）
+（２）CD69 molecule（CD69）
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（５）Forkhead box O1（FOXO1）
+（６）IMP (inosine 5'-monophosphate) dehydrogenase 2（IMPDH2）
+（７）Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3（LAMTOR3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（９）Leucine rich repeat containing 68（LRRC68）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（１１）N-acetyltransferase 1 (arylamine N-acetyltransferase) （NAT1）
+（１２）NDRG family member 2（NDRG2）
+（１３）Phospholipase C, beta 1 (phosphoinositide-specific) （PLCB1）
+（１４）Regulator of G-protein signaling 18（RGS18）
+（１５）Ribosomal protein S27-like（RPS27L）
+（１６）Ribosomal protein S4, Y-linked 1（RPS4Y1）
+（１７）Ribosomal L24 domain containing 1（RSL24D1）
+（１８）Sterile alpha motif domain containing 9（SAMD9）
+（１９）SUB1 homolog (S. cerevisiae) （SUB1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+遺伝子セットＢ
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+（２１）AE binding protein 1（AEBP1）
+（２２）Annexin A1（ANXA1）
+（２３）BCL2-related protein A1（BCL2A1）
+（２４）Centromere protein Q（CENPQ）
+（２５）C-type lectin domain family 4, member D（CLEC4D）
+（２６）Chromosome Y open reading frame 15B（CYorf15B）
+（２７）D site of albumin promoter (albumin D-box) binding protein（DBP）
+（２８）Interleukin 24（IL24）
+（２９）Integrin beta 3 binding protein (beta3-endonexin)（ITGB3BP）
+（３０）Mitochondrial ribosomal protein S28（MRPS28）
+（３１）S100 calcium binding protein A12（S100A12）
+（３２）S100 calcium binding protein A8（S100A8）
+（３３）Thioredoxin（TXN）
+（３４）X-ray repair complementing defective repair in Chinese hamster cells 4（XRCC4）
+（３５）Zinc finger protein 584（ZNF584）
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  一部配列を含むヌクレオチドがPCR用プライマーである、請求項１記載の大腸癌を検出するための試薬。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  被験体における以下の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子の発現レベルを測定し、該発現レベルに基づいて大腸癌を検出する方法：
+遺伝子セットＡ
+（１）Chromosome 21 open reading frame 56（C21orf56）
+（２）CD69 molecule（CD69）
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（５）Forkhead box O1（FOXO1）
+（６）IMP (inosine 5'-monophosphate) dehydrogenase 2（IMPDH2）
+（７）Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3（LAMTOR3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（９）Leucine rich repeat containing 68（LRRC68）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（１１）N-acetyltransferase 1 (arylamine N-acetyltransferase) （NAT1）
+（１２）NDRG family member 2（NDRG2）
+（１３）Phospholipase C, beta 1 (phosphoinositide-specific) （PLCB1）
+（１４）Regulator of G-protein signaling 18（RGS18）
+（１５）Ribosomal protein S27-like（RPS27L）
+（１６）Ribosomal protein S4, Y-linked 1（RPS4Y1）
+（１７）Ribosomal L24 domain containing 1（RSL24D1）
+（１８）Sterile alpha motif domain containing 9（SAMD9）
+（１９）SUB1 homolog (S. cerevisiae) （SUB1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+遺伝子セットＢ
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+（２１）AE binding protein 1（AEBP1）
+（２２）Annexin A1（ANXA1）
+（２３）BCL2-related protein A1（BCL2A1）
+（２４）Centromere protein Q（CENPQ）
+（２５）C-type lectin domain family 4, member D（CLEC4D）
+（２６）Chromosome Y open reading frame 15B（CYorf15B）
+（２７）D site of albumin promoter (albumin D-box) binding protein（DBP）
+（２８）Interleukin 24（IL24）
+（２９）Integrin beta 3 binding protein (beta3-endonexin)（ITGB3BP）
+（３０）Mitochondrial ribosomal protein S28（MRPS28）
+（３１）S100 calcium binding protein A12（S100A12）
+（３２）S100 calcium binding protein A8（S100A8）
+（３３）Thioredoxin（TXN）
+（３４）X-ray repair complementing defective repair in Chinese hamster cells 4（XRCC4）
+（３５）Zinc finger protein 584（ZNF584）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  被験体の遺伝子の発現レベルが、被験体の末梢血細胞のmRNAを用いて測定する、請求項３に記載の大腸癌を検出する方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  遺伝子の発現レベルを、請求項３に記載の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドをターゲットとした定量PCRにより測定する、請求項３又は４に記載の大腸癌を検出する方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  以下の工程を含む、請求項３～５のいずれか１項に記載の大腸癌を検出する方法：
+（１）被験体より採取した末梢血細胞よりmRNAを抽出する工程；
+（２）遺伝子セットＡの２０個の遺伝子又は遺伝子セットＢの２０個の遺伝子をPCRにより増幅し、Ct（Cycle threshold）値を得て、GAPDH等のハウスキーピング遺伝子のCt値により標準化し、標準化Ct値を得る工程；
+（３）遺伝子セットＡ又は遺伝子セットＢの各遺伝子の標準化Ct値を判別式に代入し、大腸癌が陽性である確率を算出する工程。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  以下の判別式を用いて大腸癌を検出する請求項６に記載の大腸癌を検出する方法であって、以下の判別式から算出される数値が０より大きい場合に大腸癌陽性であると判定する、請求項６記載の大腸癌を検出する方法：
+式：intercept + Σ(beta i × X i)
+[式において、intercept は定数、beta iは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のi番目の遺伝子に対する係数、ｘ iは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のi番目の遺伝子の標準化Ct値であり、Σは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のそれぞれの遺伝子のbeta × Xを合計することを示す]。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  ２０個の遺伝子セットＡを用いる判別式Ａにおけるintercept及び各遺伝子のbeta iが以下に示す値である、請求項７記載の大腸癌を検出する方法：
+intercept: 1.947970595
+<base:Image id="imag000008" he="103" wi="140" file="2016123311_000008.TIF" imgContent="drawing" imgFormat="TIFF" /></business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  ２０個の遺伝子セットＢを用いる判別式Ｂにおけるintercept及び各遺伝子のbeta iが以下に示す値である、請求項７記載の大腸癌を検出する方法：
+intercept：1.507712014
+<base:Image id="imag000009" he="103" wi="126" file="2016123311_000009.TIF" imgContent="drawing" imgFormat="TIFF" /></business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>
+  以下の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子<base:Underline style="single">のみの発現レベルを測定し、該発現レベルに基づいて大腸癌を検出するための試薬であって、前記２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子</base:Underline>の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドを含む大腸癌を検出するための試薬：
+遺伝子セットＡ
+（１）Chromosome 21 open reading frame 56（C21orf56）
+（２）CD69 molecule（CD69）
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（５）Forkhead box O1（FOXO1）
+（６）IMP (inosine 5'-monophosphate) dehydrogenase 2（IMPDH2）
+（７）Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3（LAMTOR3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（９）Leucine rich repeat containing 68（LRRC68）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（１１）N-acetyltransferase 1 (arylamine N-acetyltransferase) （NAT1）
+（１２）NDRG family member 2（NDRG2）
+（１３）Phospholipase C, beta 1 (phosphoinositide-specific) （PLCB1）
+（１４）Regulator of G-protein signaling 18（RGS18）
+（１５）Ribosomal protein S27-like（RPS27L）
+（１６）Ribosomal protein S4, Y-linked 1（RPS4Y1）
+（１７）Ribosomal L24 domain containing 1（RSL24D1）
+（１８）Sterile alpha motif domain containing 9（SAMD9）
+（１９）SUB1 homolog (S. cerevisiae) （SUB1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+遺伝子セットＢ
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+（２１）AE binding protein 1（AEBP1）
+（２２）Annexin A1（ANXA1）
+（２３）BCL2-related protein A1（BCL2A1）
+（２４）Centromere protein Q（CENPQ）
+（２５）C-type lectin domain family 4, member D（CLEC4D）
+（２６）Chromosome Y open reading frame 15B（CYorf15B）
+（２７）D site of albumin promoter (albumin D-box) binding protein（DBP）
+（２８）Interleukin 24（IL24）
+（２９）Integrin beta 3 binding protein (beta3-endonexin)（ITGB3BP）
+（３０）Mitochondrial ribosomal protein S28（MRPS28）
+（３１）S100 calcium binding protein A12（S100A12）
+（３２）S100 calcium binding protein A8（S100A8）
+（３３）Thioredoxin（TXN）
+（３４）X-ray repair complementing defective repair in Chinese hamster cells 4（XRCC4）
+（３５）Zinc finger protein 584（ZNF584）
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>
+  一部配列を含むヌクレオチドがPCR用プライマーである、請求項１記載の大腸癌を検出するための試薬。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>
+  被験体における以下の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子<base:Underline style="single">のみ</base:Underline>の発現レベルを測定し、該発現レベルに基づいて大腸癌を検出する方法：
+遺伝子セットＡ
+（１）Chromosome 21 open reading frame 56（C21orf56）
+（２）CD69 molecule（CD69）
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（５）Forkhead box O1（FOXO1）
+（６）IMP (inosine 5'-monophosphate) dehydrogenase 2（IMPDH2）
+（７）Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3（LAMTOR3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（９）Leucine rich repeat containing 68（LRRC68）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（１１）N-acetyltransferase 1 (arylamine N-acetyltransferase) （NAT1）
+（１２）NDRG family member 2（NDRG2）
+（１３）Phospholipase C, beta 1 (phosphoinositide-specific) （PLCB1）
+（１４）Regulator of G-protein signaling 18（RGS18）
+（１５）Ribosomal protein S27-like（RPS27L）
+（１６）Ribosomal protein S4, Y-linked 1（RPS4Y1）
+（１７）Ribosomal L24 domain containing 1（RSL24D1）
+（１８）Sterile alpha motif domain containing 9（SAMD9）
+（１９）SUB1 homolog (S. cerevisiae) （SUB1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+遺伝子セットＢ
+（３）COMM domain containing 8（COMMD8）
+（４）Fas apoptotic inhibitory molecule 3（FAIM3）
+（８）Lysophosphatidic acid receptor 6（LPAR6）
+（１０）Melanoma antigen family D, 1（MAGED1）
+（２０）XK, Kell blood group complex subunit-related, X-linked（XKRX）
+（２１）AE binding protein 1（AEBP1）
+（２２）Annexin A1（ANXA1）
+（２３）BCL2-related protein A1（BCL2A1）
+（２４）Centromere protein Q（CENPQ）
+（２５）C-type lectin domain family 4, member D（CLEC4D）
+（２６）Chromosome Y open reading frame 15B（CYorf15B）
+（２７）D site of albumin promoter (albumin D-box) binding protein（DBP）
+（２８）Interleukin 24（IL24）
+（２９）Integrin beta 3 binding protein (beta3-endonexin)（ITGB3BP）
+（３０）Mitochondrial ribosomal protein S28（MRPS28）
+（３１）S100 calcium binding protein A12（S100A12）
+（３２）S100 calcium binding protein A8（S100A8）
+（３３）Thioredoxin（TXN）
+（３４）X-ray repair complementing defective repair in Chinese hamster cells 4（XRCC4）
+（３５）Zinc finger protein 584（ZNF584）。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>
+  被験体の遺伝子の発現レベル<base:Underline style="single">を</base:Underline>、被験体の末梢血細胞のmRNAを用いて測定する、請求項３に記載の大腸癌を検出する方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>
+  遺伝子の発現レベルを、請求項３に記載の２０個の遺伝子セットＡ又は２０個の遺伝子セットＢの２０個の遺伝子の塩基配列からなるヌクレオチド又はその一部配列を含むヌクレオチドをターゲットとした定量PCRにより測定する、請求項３又は４に記載の大腸癌を検出する方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>
+  以下の工程を含む、請求項３～５のいずれか１項に記載の大腸癌を検出する方法：
+（１）被験体より採取した末梢血細胞よりmRNAを抽出する工程；
+（２）遺伝子セットＡの２０個の遺伝子又は遺伝子セットＢの２０個の遺伝子をPCRにより増幅し、Ct（Cycle threshold）値を得て、GAPDH等のハウスキーピング遺伝子のCt値により標準化し、標準化Ct値を得る工程；
+（３）遺伝子セットＡ又は遺伝子セットＢの各遺伝子の標準化Ct値を判別式に代入し、大腸癌が陽性である確率を算出する工程。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>
+  以下の判別式を用いて大腸癌を検出する請求項６に記載の大腸癌を検出する方法であって、以下の判別式から算出される数値が０より大きい場合に大腸癌陽性であると判定する、請求項６記載の大腸癌を検出する方法：
+式：intercept + Σ(beta i × X i)
+[式において、intercept は定数、beta iは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のi番目の遺伝子に対する係数、ｘ iは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のi番目の遺伝子の標準化Ct値であり、Σは遺伝子セットＡ又は遺伝子セットＢの２０個の遺伝子のそれぞれの遺伝子のbeta × Xを合計することを示す]。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>
+  ２０個の遺伝子セットＡを用いる判別式Ａにおけるintercept及び各遺伝子のbeta iが以下に示す値である、請求項７記載の大腸癌を検出する方法：
+intercept: 1.947970595
+<base:Image id="imag000010" he="103" wi="140" file="2016123311_000010.TIF" imgContent="drawing" imgFormat="TIFF" /></business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>
+  ２０個の遺伝子セットＢを用いる判別式Ｂにおけるintercept及び各遺伝子のbeta iが以下に示す値である、請求項７記載の大腸癌を検出する方法：
+intercept：1.507712014
+<base:Image id="imag000011" he="103" wi="126" file="2016123311_000011.TIF" imgContent="drawing" imgFormat="TIFF" /></business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+  <business:SequenceListDoc>
+    <business:SequenceList file="2016123311000001.APP" id="sequencelist000001">
+      <base:Paragraphs />
+    </business:SequenceList>
+  </business:SequenceListDoc>
+</business:PatentDocumentAndRelated>

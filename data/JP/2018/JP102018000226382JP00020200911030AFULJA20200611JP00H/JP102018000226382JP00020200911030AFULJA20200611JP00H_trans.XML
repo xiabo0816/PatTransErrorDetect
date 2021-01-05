@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000226382JP00020200911030AFULJA20200611JP00H.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020091103" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091103</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091103</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000226382</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018226382</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>T</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>36</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01T   1/36        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>T</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>17</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01T   1/17        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G01T1/36 D</business:FI>
+      <business:FI type="secondary">G01T1/36 A</business:FI>
+      <business:FI type="secondary">G01T1/17 H</business:FI>
+      <business:FI type="secondary">G01T1/17 G</business:FI>
+      <business:FClass>
+        <business:FTerm>2G188AA23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188BB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188BB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188BB09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188CC29</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188EE01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188EE06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188EE36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188FF04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G188FF07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2G188</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">辐射测量装置和辐射测量方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>日立GEニュークリア・エナジー株式会社</base:Name>
+            <base:RegisteredNumber>507250427</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>茨城県日立市幸町三丁目1番1号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>上野  克宜</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内一丁目6番6号  株式会社日立製作所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>名雲  靖</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内一丁目6番6号  株式会社日立製作所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>田所  孝広</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内一丁目6番6号  株式会社日立製作所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>上野  雄一郎</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内一丁目6番6号  株式会社日立製作所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>米谷  豊</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>茨城県日立市幸町三丁目1番1号  日立GEニュークリア・エナジー株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="6" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>岡田  耕一</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内一丁目6番6号  株式会社日立製作所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="7" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>畠山  修一</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内一丁目6番6号  株式会社日立製作所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人磯野国際特許商標事務所</base:Name>
+            <base:RegisteredNumber>110001807</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>15</business:ClaimsCount>
+      <base:TotalPageCount>26</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>检测测定对象物所放射的α射线的α射线检测器101,其提供即使在大气环境中也能够简易地实施高精度的α射线测定的放射线测量装置和放射线测量方法； 具备：算出波高值谱和峰波高值的信号处理装置102、探测与测定对象物的距离的测距仪103、算出α射线检测距离的距离算出装置104、基于波高值谱和α射线检测距离算出α射线能量的α射线能量算出装置105、和显示输出的显示装置106,α射线能量算出装置105取得多个峰波高值,将峰波高值的推移用评价函数进行近似,由评价函数算出α射线检测器与前述测定对象物的距离为0mm时的峰波高值,使用事先取得的峰波高值-α射线能量转换系数,将前述0mm时的峰波高值换算成α射线能量并输出。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="50" wi="69" file="2020091103_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及放射线测量装置以及放射线测量方法。 特别是涉及一种简易地对来自测定对象物中所含的α放出核素的α射线能量进行测定、能够辨别天然放射性核素和人工放射性核素的放射线测量装置和放射线测量方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">自然界中存在许多发射α射线的核素。 在钍发生核分裂的钍系列（Th-232）中,存在Th-228、Ra-224、Rn-220、Po-216、Bi212、Po-212这样的放射性核素。 另外,铀系列（U-238）中存在Ra-226、Rn-222、Po-218、Po-214、Po-210这样的放射性核素。 进而,由于过去实施的核试验等导致的放射性沉降物（放射性沉降物）的影响,自然界中存在极少的钚（Pu-239、Pu-240、Pu-242等）、镅（Am-241、Am-243等）。</base:Paragraphs>
+      <base:Paragraphs num="0003">α射线测量技术应用于铀矿床勘探、温泉勘探、地震预知、断层分析、原子能发电厂、放射性废弃物处理设施、加速器设施等放射线管理区域中的排气监视器、排水监视器、灰尘监视器、检测仪。 在这些场地、设施中,测定α射线总量,实施各种评价、监视。 该方法中难以测定α射线能量,因此难以掌握α射线放出核素。 为了通过测定α射线能量来掌握α射线放出核素,需要通过使用真空室、真空泵来降低由α射线与空气的相互作用引起的能量损失,利用放射线检测器来测定α射线能量。 然而,在这些场地、设施中,在实用上难以每次搬运真空室、真空泵来进行测定。 因此,为了实施更高精度的α射线测定、实现高度的分析、监视,需要能够在大气环境下测定α射线能量的放射线测量装置及其方法。</base:Paragraphs>
+      <base:Paragraphs num="0004">例如,在专利文献1的[摘要]中记载有“[课题]提供一种能检测测定对象物中的剂量累积部位的深度的放射线测定装置。 具备：具有检测经由准直器4入射的放射线的放射线检测元件5、以及测量来自放射线检测元件5的输出信号的波高值的放射线测量电路6的放射线检测器1、根据放射线测量电路6的测量结果来运算放射线的能谱的能谱运算部13、根据能谱来运算全部能量吸收峰区域中的计数率与散射线区域中的计数率之比即计数率比的计数率比运算部14、存储预先获取的计数率比与剂量累积部位的深度的关系的数据库15、以及基于由数据库15存储的关系并根据由计数率比运算部14运算出的计数率比来运算测定对象物7中的剂量累积部位的深度的深度运算部16。 ,公开了放射线测定装置的技术。</base:Paragraphs>
+      <base:Paragraphs num="0005">另外,在专利文献2的[摘要]中记载了“[课题]提供一种带电粒子测定装置,其能够抑制鉴定放出α射线等带电粒子的放射性核素或测定放射性强度的带电粒子测定装置中的反冲粒子对带电粒子检测器的污染。 α射线测定装置100具备能够调节测定试样2与半导体检测器1的带电粒子入射面之间的距离的升降机5、位置传感器5a、控制单元13、α射线放出核素分析装置40。 α射线放出核素分析装置的特征在于,确定放出最高能量值的α射线的核素,基于该核素、最高能量值以及由测定腔室7内的真空度监视器9测定出的N<base:Sub>2</base:Sub>气压来决定所述距离的测定条件距离值d,在控制单元中控制升降机来调节距离。”,公开了带电粒子测定装置的技术。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0006">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2014－122793号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開2007－298285号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0007">在现场、设施中,为了实施更高精度的α射线测定、实现高度的分析、监视,需要能够在大气环境下测定α射线能量的放射线测量装置及其方法。 然而,在专利文献1所公开的技术中,测定对象不是α射线而是γ射线。 另外,根据剂量累积部位的不同,利用能谱中的全能量吸收峰区域的计数率与散射线区域的计数率之比,由此示出剂量累积部位的深度与比的评价函数,但完全没有关于应用了α射线放出核素的情况下的能谱的行为的记述,在测定对象为α射线的情况下,存在无法应用的课题（问题）。</base:Paragraphs>
+        <base:Paragraphs num="0008">另外,在专利文献2所公开的技术中,确定最高能量的α射线放出核素,基于该核素、最高能量值以及由测定腔室内的真空度监视器测定出的N<base:Sub>2</base:Sub>气压,调整距离值。 因此,为了掌握该最高能量,需要具备相当于真空腔室的测定腔室、真空泵的真空排气装置、气体置换装置。 然而,在这些装置构成中,完全没有与在大气环境下测定α射线能量相关的技术。 因此,在大气环境中测定α射线能量的情况下,存在无法应用的课题（问题）。</base:Paragraphs>
+        <base:Paragraphs num="0009">本发明是鉴于上述课题而完成的,其课题（目的）在于提供一种即使在大气环境下也能够简易地实施高精度的α射线测定的放射线测量装置和放射线测量方法。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0010">为了解决上述课题,如下构成本发明。 即, 本发明的放射线测量装置具备： 一种放射线测量装置,其检测源自测定对象物所附带的α射线放出核素的α射线, α射线检测部,其具有检测所述测定对象物所放射的α射线的α射线检测器； 信号处理装置,处理所述α射线检测单元的输出信号,计算α射线引起的波高值谱和峰值波高值； 测距仪,其探测所述α射线检测器与所述测定对象物的距离； 距离计算装置,其对所述测距仪的输出信号进行处理而计算所述α射线检测器与所述测定对象物之间的α射线检测距离； 以及显示装置,其显示所述信号处理装置、所述距离计算装置和所述α射线能量计算装置的输出,所述α射线能量计算装置取得多个相对于所述α射线检测距离的所述波高值谱的所述峰值波高值,将所述峰值波高值的推移用评价函数近似,由所述评价函数计算所述α射线检测器与所述测定对象物的距离为0mm时的峰值波高值,使用事先取得的峰值波高值-α射线能量转换系数,将所述0mm时的峰值波高值换算成α射线能量并输出。</base:Paragraphs>
+        <base:Paragraphs num="0011">另外,本发明的放射线测量方法包括： 一种放射线测量方法,其为检测源自测定对象物所附带的α射线放出核素的α射线的放射线测量方法,所述放射线测量方法包括： α射线检测部,其具有检测所述测定对象物所放射的α射线的α射线检测单元； 信号处理机构,处理所述α射线检测部的输出信号,算出α射线引起的波高值谱和峰值波高值； 距离测量单元,其探测所述α射线检测单元与所述测定对象物的距离； 距离计算单元,其对所述距离测量单元的输出信号进行处理而计算所述α射线检测单元与所述测定对象物之间的α射线检测距离； 和显示单元,其显示所述信号处理单元、所述距离计算单元和所述α射线能量计算单元的输出,所述α射线能量计算单元取得多个相对于所述α射线检测距离的所述波高值谱的所述峰值波高值,将所述峰值波高值的推移用评价函数进行近似,由所述评价函数算出所述α射线检测单元与所述测定对象物的距离为0mm时的峰值波高值,使用事先取得的峰值波高值-α射线能量转换系数,将所述0mm时的峰值波高值换算成α射线能量并输出。</base:Paragraphs>
+        <base:Paragraphs num="0012">另外,其他手段在用于实施发明的方式中进行说明。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0013">根据本发明,能够提供即使在大气环境中也能够简易地实施高精度的α射线测定的放射线测量装置和放射线测量方法。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">图0001是表示本发明的第1实施方式所涉及的放射线测量装置的结构例的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是示出本发明第1实施方式的α射线检测器的电脉冲的输出波形例的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示本发明的第1实施方式的信号处理装置的结构例的图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示本发明的第一实施方式的波高值频谱运算器的基于α射线检测的波高值频谱的一例的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是示出本发明的第一实施方式的α射线能量计算装置中的α射线检测距离与峰值峰值的关系的一例的图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是示出本发明的第一实施方式的α射线能量计算装置中的基于不同的α射线能量的α射线检测距离与峰值波高值的关系的一例的图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是将使用了本发明的第1实施方式所涉及的放射线测量装置的α射线测定流程作为流程图例来表示的图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是表示本发明的第2实施方式所涉及的放射线测量装置的结构例的图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是表示本发明的第3实施方式所涉及的放射线测量装置的结构例的图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是表示本发明的第4实施方式所涉及的放射线测量装置的结构例的图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是表示由本发明的第四实施方式的信号处理装置进行信号处理的基于α射线检测的波峰值频谱的一个例子的图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012是表示由本发明的第4实施方式的信号处理装置进行信号处理的测定对象物为配管时的配管表面的α射线相对强度分布的图像的一例的图。</base:FigureReference>
+        <base:FigureReference num="0013">图0013是表示本发明的第5实施方式所涉及的放射线测量装置的结构例的图。</base:FigureReference>
+        <base:FigureReference num="0014">图0014是示出本发明的第五实施方式的放射线测量装置中的α射线检测单元和α射线检测单元对应信号处理装置的详细结构、与α射线能量计算装置的连接关系的图。</base:FigureReference>
+        <base:FigureReference num="0015">图0015是表示本发明的第6实施方式所涉及的放射线测量装置的结构例的图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">以下,适当地参照附图对用于实施本发明的方式（以下记作“实施方式”）进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0016">参照图1～图7适当地说明本发明的第一实施方式所涉及的放射线测量装置的结构和功能。 另外,以下的说明主要作为“放射线测量装置”进行说明,但也兼作“放射线测量方法”的说明。 图1是表示本发明的第1实施方式所涉及的放射线测量装置100的结构例的图。 图1中,放射线测量装置100具备α射线检测器（α射线检测单元、α射线检测部）101、信号处理装置（信号处理单元）102、测距仪（距离测量单元）103、距离计算装置（距离计算单元）104、α射线能量计算装置（α射线能量计算单元）105和显示装置（显示单元）106而构成。 此外,在图1中,还图示了由放射线测量装置100测量的测定对象物108和从测定对象物108放出的α射线107。</base:Paragraphs>
+      <base:Paragraphs num="0017">&lt;放射线测量装置100的结构、功能、动作的概要&gt; 
+α射线检测器（α射线检测部）101检测从附着于测定对象物108的α射线放出核素（未图示）放出的α射线107,产生伴随检测的电信号。 由α射线检测器101检测到的电信号输入到信号处理装置102。 在信号处理装置102中,对输入的电信号进行处理而识别有意义的电脉冲,将该信号发送至α射线能量计算装置105。 </base:Paragraphs>
+      <base:Paragraphs num="0018">在测距仪103和距离计算装置104中,计测、计算α射线检测器101与测定对象物108的距离（α射线检测距离）,将该距离信息的信号发送至α射线能量计算装置105。 α射线能量计算装置105中,基于来自信号处理装置102的信号和距离计算装置104的信号,计算α射线检测距离中的峰值波高值（参照图4、图5、图6）,由其结果计算α射线能量。 然后,将与该信息相关的信号发送到显示装置106。 显示装置106显示与α射线能量有关的信息。</base:Paragraphs>
+      <base:Paragraphs num="0019">&lt;构成放射线测量装置100的各部的结构、功能、动作的详细内容&gt; 
+接着,依次说明构成放射线测量装置100的α射线检测器101、信号处理装置102、测距仪103和距离计算装置104、α射线能量计算装置105的结构/功能/动作的详细情况。 </base:Paragraphs>
+      <base:Paragraphs num="0020">《α射线检测器101》 
+α射线检测器（α射线检测部）101如前所述,检测从附着于测定对象物108的α射线放出核素（未图示）放出的α射线107,产生伴随检测的电信号。 作为α射线检测器101中使用的检测方式,有半导体方式、闪烁方式、气体方式。 在半导体方式中,使用硅或碳化硅、金刚石、CdTe、CdZnTe、GaN等材料作为半导体。 通过在这些半导体上设置电极,对半导体内部施加一定的电场,能够收集因半导体与α射线的相互作用而产生的电子空穴对。 使用与半导体相邻配置的前置放大器（未图示）使所收集的电子空穴对倍增,针对一个α射线探测而生成一个电脉冲。 另外,将该电脉冲传输到后级的信号处理装置102。 </base:Paragraphs>
+      <base:Paragraphs num="0021">α射线检测器101中使用的检测方式为闪烁方式时,使用ZnS（Ag）、Bi<base:Sub>2</base:Sub>Ge<base:Sub>3</base:Sub>O<base:Sub>12</base:Sub>、Gd<base:Sub>2</base:Sub>Si<base:Sub>2</base:Sub>O<base:Sub>7</base:Sub>：Ce、Gd<base:Sub>3</base:Sub>Al<base:Sub>2</base:Sub>Ga<base:Sub>3</base:Sub>O<base:Sub>12</base:Sub>：Ce、塑料闪烁器等材料。 利用光检测器检测因闪烁体与α射线的相互作用而产生的闪烁光。 在此,在将闪烁体安装于光检测器的方式中,可举出将闪烁体直接粘接于光检测器的方式、通过经由导光器、光纤而光学地连接于光检测器的方式。 在光检测器中,将光信号转换为电信号,针对1个α射线探测而生成1个电脉冲。 该电脉冲被传输到后级的信号处理装置102。</base:Paragraphs>
+      <base:Paragraphs num="0022">α射线检测器101中使用的检测方式为气体方式（气体放大方式）时,电离区域、比例区域、GM区域等气体倍增区域根据电场强度而不同,作为检测方式,使用GM计数管、电离箱等。 另外,作为二维检测器的气体放大方式,有多线比例计数管、微图案气体检测器等。 通过在气体发生器内设置有感气体和电极,并对气体发生器内部施加一定的电场,能够收集通过气体与α射线的相互作用而产生的电子空穴对。 使用与气体发生器相邻配置的前置放大器使所收集的电子空穴对倍增,针对1个α射线感测而产生1个电脉冲。 该电脉冲被传输到后级的信号处理装置102。</base:Paragraphs>
+      <base:Paragraphs num="0023">在以后的实施方式的说明中,作为一个例子,假定使用半导体方式的α射线检测器101的情况来进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0024">图2是示出本发明的第1实施方式的α射线检测器101的电脉冲的输出波形例的图。 在图2中,横轴表示时刻（时间的推移）,纵轴表示电压（电脉冲的电压）。 在图2中,在相当于偏置（动作基点的电位）的基线1109上重叠电脉冲1111。 另外,设定有用于电脉冲的检测的“阈值1112”。</base:Paragraphs>
+      <base:Paragraphs num="0025">例如,在α射线107入射到α射线检测器101并被检测的检测定时1110a,产生电脉冲1111a。 另外,如图2所示,检测时刻1110a与电脉冲1111a的产生存在少许时滞。 另外,α射线放出核素放出α射线107的时机是随机的,在任意的时机、例如检测时机1110b、检测时机1110c,产生电脉冲1111b、电脉冲1111c。 另外,电脉冲1111a、1111b、1111c超过阈值1112。 在电脉冲的检测中,使用由搭载于后述的信号处理装置102的比较器114形成的“阈值1112”。</base:Paragraphs>
+      <base:Paragraphs num="0026">《信号处理装置102》 
+图3是示出本发明的第一实施方式的信号处理装置102的结构例的图。 在图3中,信号处理装置102包括模拟-数字转换器（A/D转换器）113、比较器114、波高值频谱运算器115而构成。 此外,虽然未记载它们所附带的各种存储器、IC（Integrated Circuit：集成电路）,但设为使用一般的电子设备所使用的部件。 在图3中,向模拟-数字转换器（A/D转换器）113输入作为α射线检测器101的输出信号的电脉冲1111,转换为数字信号。 使用具有阈值1112的比较器114感测该数字信号的电脉冲。 </base:Paragraphs>
+      <base:Paragraphs num="0027">在波峰值谱运算器115中,对超过阈值1112的电脉冲1111（1111a、1111b、1111c：图2）进行计数,运算、记录波峰值。 此外,作为电脉冲的识别方法,存在前缘方式、恒速定时方式等。 这里,作为一例,通过使用前沿方式设定阈值1112来实施。 在超过阈值1112的电脉冲被输出的情况下,信号处理装置102识别为有意义的电脉冲。</base:Paragraphs>
+      <base:Paragraphs num="0028">图4是表示本发明的第一实施方式的波峰值频谱运算器115（图3）中的基于α射线检测的波峰值频谱1116的一例的图。 图4中,横轴为电脉冲的波高值,纵轴表示电脉冲的计数值。 并且,在波高值频谱1116中,示出峰值1117的峰值波高值1118。 如上所述,在波高值谱运算器115（图3）中,将超过阈值1112（图2）的电脉冲1111（图3）作为一次计数进行计数,并记录其波高值。</base:Paragraphs>
+      <base:Paragraphs num="0029">图4所示的波峰值频谱1116是将多个电脉冲的波峰值相加的结果。 通常,该电脉冲计数在任意的测定时间内连续实施,将各电脉冲的峰值相加。 由于α射线107（图1）的射程非常短,因此在α射线107入射到α射线检测器101（图1）的情况下,几乎能够检测到。 α射线107的能量被赋予至α射线检测器101,通过该赋予能量而形成峰1117（图4）。 在波峰值频谱运算器115中记录波峰值频谱1116（图4）和峰值1117的峰值波峰值1118（图4）。</base:Paragraphs>
+      <base:Paragraphs num="0030">《测距仪103以及距离计算装置104》 
+接着,对测距仪103（图1）以及距离计算装置104（图1）进行说明。 测距仪103计测关于α射线检测器101（图1）与测定对象物108（图1）的距离（α射线检测距离）的信息,距离计算装置104基于该信息计算α射线检测器101与测定对象物108的距离（α射线检测距离）。 然后,记录α射线检测距离。 作为距离测量方式,有接触方式、反射型光学式、透射型光学式、涡电流方式、超声波方式等。 在本发明中的测距仪103以及距离计算装置104中,能够利用任意的方式。 </base:Paragraphs>
+      <base:Paragraphs num="0031">《α射线能量计算装置105》 
+α射线能量计算装置105（图1）中,使用由信号处理装置102（图1）得到的峰值峰值1118（图4）和由距离计算装置104（图1）得到的α射线检测距离作为输入值。 需要说明的是,如后述的α射线测定流程（图7）所示,在相同的测定点,测定多个α射线检测距离中的峰峰值,利用它们的数据。 </base:Paragraphs>
+      <base:Paragraphs num="0032">图5是示出本发明的第一实施方式的α射线能量计算装置105中的α射线检测距离与峰值的关系的一例的图。 在图5中,横轴为α射线检测距离,纵轴表示峰值波高值。 此外,纵轴进行对数(log)表示。 另外,显示多个α射线检测距离的测定位置中的多个峰值峰值1119,记录于成为评价函数1120的特性线（1120）上。 需要说明的是,特性点（计算点）1121表示α射线检测距离0mm时的峰值波高值。</base:Paragraphs>
+      <base:Paragraphs num="0033">α射线107（图1）由于与空气的相互作用而损失能量,因此若远离测定对象物108（图1）,则α射线107所具有的能量（α射线能量）降低。 检测能量降低的α射线107时,其作为对α射线检测器101的赋予能量的降低而被计测。 对α射线检测器101的赋予能量与峰值波高值（1118（图4）、1119（图5））相关,通常可以以比例关系表现。 由此,峰值峰值1119显示出α射线检测距离的依赖性（图5）。</base:Paragraphs>
+      <base:Paragraphs num="0034">对于多个α射线检测距离中的多个峰值波高值1119,可将其关系作为评价函数而近似某任意的函数。 例如,任意的函数使用二次以上的多项式或指数函数。 在图5中,将用2次以上的多项式近似的评价函数1120作为一例进行图示。 图5中,作为评价函数1120的截距,成为α射线检测距离0mm处的峰值波高值1121。 需要说明的是,α射线检测距离0mm时的峰值峰值1121是指α射线的产生源刚产生α射线后的峰值峰值。 α射线能量计算装置105（图1）中,记录α射线检测距离0mm处的峰值波高值1121（图5）。 此外,α射线能量计算装置105利用以下所示的式（1）将峰值波高值1121转换为赋予能量。 E=C×PH···（1） 
+式（1）中,将E设为与峰值1121对应的赋予能量,将C设为峰值-赋予能量转换系数,将PH设为峰值1121。 此外,式（1）也是校正计数。 </base:Paragraphs>
+      <base:Paragraphs num="0035">本（第1）实施方式中,将与由式（1）得到的峰峰值1121对应的赋予能量(E)视为由α射线放出核素放出的α射线能量。 α射线能量与α射线放出核素的关联性在一般的文献中是已知的,因此能够数据库化。 基于该数据库,可以由算出的α射线能量(E)评价附着于测定对象物108的α射线放出核素。 另外,能够掌握通过该评价测定的α射线是天然或人工α射线放出核素。</base:Paragraphs>
+      <base:Paragraphs num="0036">接着,对基于不同的α射线能量的α射线检测距离与峰值波高值的关系进行说明。 图6是示出本发明的第一实施方式的α射线能量计算装置105中的基于不同的α射线能量的α射线检测距离与峰值波高值的关系的一例的图。 在图6中,横轴为α射线检测距离,纵轴表示峰值波高值。 此外,纵轴进行对数(log)表示。 另外,示出多个α射线检测距离的测定部位的多个峰值峰值1119、1122、1123,记录于成为评价函数1120a、1120b、1120c的特性线（1120a、1120b、1120c）上。 需要说明的是,特性点（计算点）1121、1124、1125表示各自的α射线检测距离0mm处的峰值波高值。</base:Paragraphs>
+      <base:Paragraphs num="0037">另外,图5所示的评价函数1120（峰值峰值1119）在图6中与评价函数1120a（峰值峰值1119）对应。 如图6所示,在入射比对应于评价函数1120a所对应的峰值（α射线检测距离0mm处的峰值）1121的α射线能量更高的能量的α射线的情况下,通过使用各α射线检测距离处的峰值1122处的评价函数1120b,可得到峰值（α射线检测距离0mm处的峰值）1124。 另外,在入射比对应于评价函数1120a所对应的峰值（α射线检测距离0mm处的峰值）1121的α射线能量低的能量的α射线的情况下,通过使用各α射线检测距离处的峰值1123处的评价函数1120c,可得到峰值（α射线检测距离0mm处的峰值）1125。 需要说明的是,在α射线能量低的情况下,空气中的射程变短,因此更接近测定对象物108（图1）进行测定。</base:Paragraphs>
+      <base:Paragraphs num="0038">&lt;α射线测定流程&gt; 
+接着,对使用了图1所示的放射线测量装置100的α射线测定流程进行说明。 图7是将使用了本发明的第1实施方式所涉及的放射线测量装置100（图1）的α射线测定流程作为流程图例而示出的图。 在图7中,对步骤S1001～步骤S1010进行说明。 </base:Paragraphs>
+      <base:Paragraphs num="0039">&lt;步骤S1001&gt;若“开始”测量,则首先在步骤S1001中,在测定对象物108的附近的测定点配置α射线检测器101和测距仪103。 然后,进入步骤S1002。</base:Paragraphs>
+      <base:Paragraphs num="0040">在步骤S1002中,利用测距仪103测定与测定对象物108的距离（α射线检测距离）,利用距离计算装置104计算α射线检测距离。 然后,进入步骤S1003。</base:Paragraphs>
+      <base:Paragraphs num="0041">在步骤S1003中,利用α射线检测器101探测（测定）α射线107,利用信号处理装置102计算峰值波高值1118（图4）。 然后,进入步骤S1004。</base:Paragraphs>
+      <base:Paragraphs num="0042">在步骤S1004中,利用α射线能量计算装置105记录α射线检测距离与峰值1119（图5）的关系。 然后,进入步骤S1005。</base:Paragraphs>
+      <base:Paragraphs num="0043">&lt;步骤S1005&gt;在步骤S1005中,判定是否记录了规定的多个位置（α射线检测距离）处的数据）。在记录了的情况下（是）,进入步骤S1006.在未记录的情况下（否）,进入步骤S1010.关于步骤S1010,在后面叙述。</base:Paragraphs>
+      <base:Paragraphs num="0044">在步骤S1006中,利用评价函数1120（图5）对多个位置（α射线检测距离）处的峰值波高值1119（图5）进行近似。 然后,进入步骤S1007。</base:Paragraphs>
+      <base:Paragraphs num="0045">在步骤S1007中,将评价函数的截距（α射线检测距离0mm）的峰值波高值1121（图5）作为数值进行记录。 然后,处理进入步骤S1008。</base:Paragraphs>
+      <base:Paragraphs num="0046">&lt;步骤S1008&gt;在步骤S1008中,使用作为校正计数的式（1）将峰值波高值1121转换为α射线能量。 然后,进入步骤S1009。</base:Paragraphs>
+      <base:Paragraphs num="0047">&lt;步骤S1009&gt;在步骤S1009中,由显示装置106显示换算结果。 然后,“结束”。</base:Paragraphs>
+      <base:Paragraphs num="0048">&lt;步骤S1010&gt;在上述的步骤S1005中,在未记录的情况下（否）,进入步骤S1010。 此时,在步骤S1010中,在与现有数据不同的位置（α射线检测距离）配置α射线检测器101和测距仪103。 然后,返回到步骤S1002,继续步骤S1002中的上述的测定和计算。</base:Paragraphs>
+      <base:Paragraphs num="0049">&lt;第一实施方式的总结&gt; 
+根据第1实施方式的放射线测量装置和放射线测量方法,通过具备α射线检测器101和信号处理装置102,能够计算波高值谱中的α射线引起的峰的峰值波高值。 另外,通过具备测距仪103和距离计算装置104,能够掌握与峰值的测定结果对应的测定对象物-检测器间距离。 另外,通过具备α射线能量计算装置105,能够由评价函数计算α射线检测器101与测定对象物108的距离为0mm时的峰值,使用事先取得的峰值-α射线能量转换系数,将0mm时的峰值换算为α射线能量。 </base:Paragraphs>
+      <base:Paragraphs num="0050">另外,通过具备显示装置106,能够显示信号处理装置102、距离计算装置104和α射线能量计算装置105的输出。 另外,作为α射线能量计算装置105中的评价函数,通过使用2次以上的多项式或指数函数,能够计算0mm处的峰值波高值。 通过具备该功能,能够简易地算出距离0mm处的峰值波高值,能够实现向α射线能量的换算。 另外,通过具备以上的功能,能够在大气环境中简易地实现α射线能量,在各个场地、设施中实施更高精度的α射线测定。</base:Paragraphs>
+      <base:Paragraphs num="0051">&lt;第1实施方式的效果&gt; 
+通过使用以上的第1实施方式中说明的放射线测量装置及其放射线测量方法,具有不使用真空室、真空泵等装置而能够在大气环境中简易地测定α射线能量的效果。 另外,通过掌握天然或人工α射线放出核素,具有能够简易地实施高精度的α射线测定的效果。 另外,具有能够实现基于测定结果的高度的分析、监视的效果。 即,根据本发明的第1实施方式,能够提供即使在大气环境中也能够简易地实施高精度的α射线测定的放射线测量装置和放射线测量方法。 </base:Paragraphs>
+      <base:Paragraphs num="0052">参照图8对本发明的第二实施方式所涉及的放射线测量装置的结构和功能进行说明。 第2实施方式涉及考虑了由α射线检测器与测定对象物间的固体物质引起的α射线能量损失的放射线测量装置。 另外,以下的说明主要作为“放射线测量装置”进行说明,但也兼作“放射线测量方法”的说明。</base:Paragraphs>
+      <base:Paragraphs num="0053">图8是表示本发明的第2实施方式所涉及的放射线测量装置200的结构例的图。 在图8中,放射线测量装置200具备图1所示的α射线检测器101、信号处理装置102、测距仪103、距离计算装置104、显示装置106。 进而,在图8中,放射线测量装置200具备固体物质（物质）126、固体物质观察装置151、α射线能量损失值数据库127和α射线能量损失值计算装置（α射线能量损失值计算单元）128。 此外,图1中所示的α射线能量计算设备105是图8中的支持校正的α射线能量计算设备（支持校正的α射线能量计算装置）129,其是能够支持对α射线能量的损失值的校正的α射线能量计算设备。 此外,关于上述的α射线检测器101、信号处理装置102、测距仪103、距离计算装置104、显示装置106,由于与图1所示的第1实施方式中的构成要素相同,因此省略重复的说明。</base:Paragraphs>
+      <base:Paragraphs num="0054">在以上的图8的构成中,固体物质（物质）126配置在α射线检测器101与放出α射线107的α射线放出核素所附着的测定对象物108之间。 另外,固体物质126具有不遮蔽α射线而能够透过的厚度。 另外,固体物质126具有保护α射线检测器101等作用。 在规定的固体物质126中,其组成、尺寸信息是已知的。 另外,固体物质126为了特性的稳定化而由固体的物质形成,气体（空气）状的物质不是对象。</base:Paragraphs>
+      <base:Paragraphs num="0055">但是,在固体物质126不是规定的固体物质的情况下,或者在更换使用多个固体物质126的情况下,需要识别固体物质126。 在这种情况下,使用固体物质观察装置151。 固体物质观察装置151是具有掌握与固体物质126的形状（截面）、材料（固有信息）位置等有关的信息的功能的装置。 作为从固体物质观察装置151输入到α射线能量损失值计算装置128的信息,特别重要的是固体物质126的材料和α射线的透射方向上的厚度。 此外,光学相机、超声装置或激光装置可以用作固体物质观察装置151。</base:Paragraphs>
+      <base:Paragraphs num="0056">在图8中,在α射线107到达α射线检测器101之前,在固体物质126中损失能量。 因此,在α射线能量损失值数据库127中,将预先分析了由固体物质126引起的能量损失的α射线能量损失值作为数据库进行保管。 在α射线能量损失值计算装置128中,将基于固体物质观察装置151的信息的固体物质126的材质及其厚度等作为输入值,另外,访问α射线能量损失值数据库127,根据两者的信息计算α射线能量损失值。 在支持校正的α射线能量计算装置129中,使用α射线能量损失值、α射线检测距离0mm处的峰值波峰值和波峰值-赋予能量转换系数,计算与α射线能量的损失值的校正对应的α射线能量。</base:Paragraphs>
+      <base:Paragraphs num="0057">该算出使用以下的式（2）转换为所赋予的α射线能量（赋予能量）来实施。 E=C×PH+ER···（2） 
+式（2）中,E为与图5所示的峰值1121对应的赋予能量,C为峰值-赋予能量转换系数,PH为峰值1121,ER为固体物质126中的α射线能量损失值。 以上,通过式（2）对所测定的α射线能量的值进行校正。 此外,显示装置106显示由可校正α射线能量计算装置129校正的α射线能量的值。 </base:Paragraphs>
+      <base:Paragraphs num="0058">&lt;第二实施方式的效果&gt; 
+通过使用具备以上的α射线能量损失值数据库127和α射线能量损失值计算装置128的第2实施方式的放射线计测装置、和放射线计测方法,具有如下效果：能够算出基于气体状（空气）以外的物质和厚度的α射线能量损失值,校正所测定的α射线能量的值。 另外,通过将固体物质126配置于测定对象物108与α射线检测器101之间,具有保护α射线检测器101的效果。 </base:Paragraphs>
+      <base:Paragraphs num="0059">参照图9对本发明的第三实施方式所涉及的放射线测量装置的结构和功能进行说明。 另外,以下的说明主要作为“放射线测量装置”进行说明,但也兼作“放射线测量方法”的说明。 图9是表示本发明的第3实施方式所涉及的放射线测量装置300的结构例的图。 图9中,第3实施方式中的放射线测量装置300中,图1所示的第1实施方式中的α射线检测器101、信号处理装置102、测距仪103、距离计算装置104、α射线能量计算装置105为共通的构成。 在图9中,还具备光学相机130。 另外,图9中的显示装置131除了图1中的显示装置106显示α射线能量计算装置105的输出信息以外,还显示图9的光学相机130的图像信息。</base:Paragraphs>
+      <base:Paragraphs num="0060">如上所述,图9的第3实施方式的放射线测量装置300与图1的第1实施方式的放射线测量装置100不同的是光学相机130,因此主要对光学相机130进行说明。 另外,适当省略其他重复的说明。 图9中,利用光学照相机130俯瞰地观察α射线检测器101中的测定对象物108,将该得到的图像信息用显示装置131显示。 另外,在将光学照相机130与α射线检测器101相邻地设置时,将α射线检测器101的测定区域放大进行观察。 这样,能够在显示装置131上观察光学相机130的图像,因此能够掌握测定对象物附近,实现测量的可靠性和效率化。</base:Paragraphs>
+      <base:Paragraphs num="0061">&lt;第三实施方式的效果&gt; 
+通过使用以上的第3实施方式的放射线测量装置及其放射线测量方法,能够以目视观测α射线检测器101的测定对象和区域,具有实现测量的可靠性和效率化的效果。 </base:Paragraphs>
+      <base:Paragraphs num="0062">参照图10对本发明的第四实施方式所涉及的放射线测量装置的结构和功能进行说明。 第4实施方式涉及测定结果的映射。 另外,以下的说明主要作为“放射线测量装置”进行说明,但也兼作“放射线测量方法”的说明。 图10是表示本发明的第4实施方式所涉及的放射线测量装置400的结构的一例的图。 在图10中,第4实施方式中的放射线测量装置400中,图1所示的第1实施方式的α射线检测器101、测距仪103、距离计算装置104是共通的结构。</base:Paragraphs>
+      <base:Paragraphs num="0063">图10中,还具备光学相机130、位置传感器132、α射线映射装置（α射线映射单元）133。 另外,在图10中,信号处理装置135、α射线能量计算装置136、显示装置134使图1中的信号处理装置102、α射线能量计算装置105、显示装置106各自的功能与通过追加光学照相机130、位置传感器132等而产生的新的信息对应。 在光学照相机130中,如第3实施方式中记载的那样,俯瞰地观察α射线检测器101中的测定对象物108。 在位置传感器132中,将α射线检测器101的位置以二维的映射图的形式算出。</base:Paragraphs>
+      <base:Paragraphs num="0064">《基于α射线检测的波高值频谱》 
+接着,参照图11,对基于α射线检测的波峰值频谱进行说明。 图11是示出由本发明的第四实施方式的信号处理装置135进行信号处理的基于α射线检测的波峰值频谱的一个例子的图。 在图11中,横轴是波高值,纵轴表示计数值。 并且,示出波峰值频谱1116的波峰1117和计数值范围1137。 </base:Paragraphs>
+      <base:Paragraphs num="0065">《信号处理装置135、α射线能量计算装置136、α射线映射装置133》 
+在信号处理装置135（图10）中,除了信号处理装置102（图1）中的功能之外,还追加了从计数值范围1137（图11）计算波峰值频谱1116（图11）的峰值1117（图11）的计数值的总和的计数值计算功能。 在α射线能量计算装置136（图10）中,除了α射线能量计算装置105（图1）中的输出之外,还输出计数值范围1137（图11）中的计数值的总和。 </base:Paragraphs>
+      <base:Paragraphs num="0066">图10所示的α射线映射装置133中的输入值是由位置传感器132获得的位置信息、由光学相机130获得的图像信息、由α射线能量计算装置136获得的计数值范围1137（图11）中的计数值的总和以及α射线能量信息。 图10中的放射线测量装置400的α射线测定不是对测定对象物108二维地测定一个位置,而是二维地测定多个位置。 α射线映射装置133具有将位置和计数值之和以及α射线能量叠加在图像上的功能。</base:Paragraphs>
+      <base:Paragraphs num="0067">《α射线相对强度分布》 
+接着,参照图12,对α射线相对强度分布进行说明。 图12是表示由本发明的第4实施方式的信号处理装置135进行信号处理的测定对象物108（图10）为配管138（图12）时的配管138的表面中的α射线相对强度分布1139的图像1140的一例的图。 图12中,以相对强度表示将配管138的表面分割成格子状的各区域中的α射线相对强度分布1139。 需要说明的是,将左右带阴影的分割区域标记为强度最高的区域,将接着向右带较细阴影的分割区域标记为强度第二高的区域,将再接着向左带较粗阴影的分割区域标记为较弱的区域,将未带任何阴影等的空白的分割区域标记为更弱的区域。 这样,α射线相对强度分布1139随着分割区域的强度的标记变化而表示基于计数值总和的相对强度,通过组合位置信息和图像信息而形成分布信息。 </base:Paragraphs>
+      <base:Paragraphs num="0068">《显示装置134》 
+在图10中,显示设备134将来自α射线映射设备133的α射线能量信息显示为图像140（图12）。 另外,在观测到多个α射线能量的情况下,显示装置134显示多个α射线能量计算结果。 </base:Paragraphs>
+      <base:Paragraphs num="0069">&lt;第四实施方式的总结&gt; 
+根据第1实施方式的放射线测量装置和放射线测量方法,在α射线检测器101的附近具备位置传感器132、和将位置传感器132的位置计算结果与α射线能量计算装置136中的输出组合而计算测定位置处的α射线测定结果的α射线映射装置133,将多个位置处的α射线测定结果在显示装置134中以映射的形式显示。 </base:Paragraphs>
+      <base:Paragraphs num="0070">&lt;第四实施方式的效果&gt; 
+通过使用以上的第4实施方式的放射线测量装置和放射线测量方法,能够将多个位置处的α射线测定结果以映射的形式显示。 通过具有该功能,容易将α射线测定结果更明确地可视化。 </base:Paragraphs>
+      <base:Paragraphs num="0071">参照图13、图14适当地说明本发明的第一实施方式所涉及的放射线测量装置的结构和功能。 另外,以下的说明主要作为“放射线测量装置”进行说明,但也兼作“放射线测量方法”的说明。 图13是表示本发明的第5实施方式所涉及的放射线测量装置500的结构的一例的图。 在图13中,放射线测量装置500具备α射线检测部141、α射线检测部对应信号处理装置142、测距仪103、α射线检测部对应距离计算装置144、α射线能量计算装置143和显示装置106而构成。</base:Paragraphs>
+      <base:Paragraphs num="0072">以上,第5实施方式的放射线测量装置500与第1实施方式的放射线测量装置100不同的是α射线检测部141、α射线检测部对应信号处理装置142、α射线检测部对应距离计算装置144和α射线能量计算装置143。 另外,第5实施方式的放射线测量装置500中的测距仪103、显示装置106与第1实施方式的放射线测量装置100中的测距仪103、显示装置106大致相同,因此省略重复的说明。</base:Paragraphs>
+      <base:Paragraphs num="0073">《关于α射线检测单元141、与α射线检测单元对应的信号处理装置142、α射线能量计算装置143》 
+接下来,将参考图14描述放射线测量装置500中的α射线检测单元141、与α射线检测单元对应的信号处理装置142和α射线能量计算装置143。 图14是示出根据本发明的第五实施方式的放射线测量装置500中的α射线检测单元141和对应于α射线检测单元的信号处理装置142的详细配置与α射线能量计算装置143之间的连接关系的图。 </base:Paragraphs>
+      <base:Paragraphs num="0074">在图14中,α射线检测单元141包括三个（多个）α射线检测器101。 此外,与α射线检测单元兼容的信号处理设备142包括三个（多个）信号处理设备（信号处理单元）102。 3台（多台）α射线检测器101各自的α射线检测距离不同。 该α射线检测距离分别不同的α射线检测器101高度不同地设置。 3台（多台）高度不同的各个α射线检测器101与3台（多台）各个信号处理装置102连接。 包括三个（多个）信号处理设备102的对应于α射线检测单元的信号处理设备142将由三个（多个）信号处理设备102获取的信息（输出）输出到α射线能量计算设备143。 另外,在测距仪103和α射线检测部对应距离计算装置144中,计算3台（多台）α射线检测器101与测定对象物108的距离（α射线检测距离）,将该距离信息的信号发送至α射线能量计算装置143。</base:Paragraphs>
+      <base:Paragraphs num="0075">α射线能量计算装置143中,将由α射线检测部对应距离计算装置144得到的高度不同地设置的α射线检测器101的位置关系组入α射线检测距离。 然后,基于α射线检测部对应信号处理装置142的信号和α射线检测部对应距离计算装置144的信号,算出图5所示的α射线探测距离与峰值的关系,使用评价函数算出α射线探测距离0mm处的峰值,算出α射线能量。 这样,通过使α射线检测部141相对于测定对象物108二维地进行扫描,能够相对于1个测定对象部取得3个（多个）距离（α射线检测距离）中的α射线测定结果。 此外,α射线能量计算装置143将与计算出的结果的信息相关的信号发送到显示装置106。 显示装置106显示与所取得的α射线能量有关的信息。</base:Paragraphs>
+      <base:Paragraphs num="0076">&lt;第五实施方式的总结&gt; 
+第1实施方式的放射线测量装置（放射线测量方法）具备α射线检测部141和α射线检测部对应信号处理装置142,所述α射线检测部141具有相对于测定对象物108在多个不同的距离以不同高度设置的2台以上（多个）前述α射线检测器101,所述α射线检测部对应信号处理装置142处理α射线检测器101的输出。 另外,在α射线检测部141所具备的多个α射线检测器101中,具备检测1台α射线检测器101与测定对象物108的距离的测距仪103、和计算1台α射线检测器101与测定对象物108的距离并计算α射线检测部141的各个α射线检测器101与测定对象物108的距离的α射线检测部对应距离计算装置144。 而且,通过使用α射线检测部141对一个测定对象物108二维地实施测定,从而简化相对于一个测定对象物108的多个距离处的α射线测定。 </base:Paragraphs>
+      <base:Paragraphs num="0077">&lt;第五实施方式的效果&gt; 
+通过使用α射线检测部对一个测定对象物二维地实施测定,能够高速且准确地实施对一个测定对象物的多个α射线检测距离中的α射线测定,能够缩短测定时间。 另外,通过增加搭载于α射线检测部的高度不同的α射线检测器,能够以检测器台数的量取得针对一个测定对象部的数据。 另外,通过组合上述功能,具有测定对象物的二维扫描、对于一个测定对象部取得2个以上（多个）距离处的α射线测定结果变得容易这样的效果。 </base:Paragraphs>
+      <base:Paragraphs num="0078">参照图15适当地说明本发明的第六实施方式所涉及的放射线测量装置的结构和功能。 第6实施方式涉及α射线检测器的移动方法。 另外,以下的说明主要作为“放射线测量装置”进行说明,但也兼作“放射线测量方法”的说明。 图15是表示本发明的第6实施方式所涉及的放射线测量装置600的结构的一例的图。 图15中,放射线测量装置600具备α射线检测器101、信号处理装置102、测距仪103、距离计算装置104、α射线能量计算装置105、移动机构（移动单元）145、移动机构控制装置（移动机构控制单元）146、显示装置147而构成。</base:Paragraphs>
+      <base:Paragraphs num="0079">另外,在图15中,第6实施方式的放射线测量装置600中的α射线检测器101、信号处理装置102、测距仪103、距离计算装置104、α射线能量计算装置105与图1所示的第1实施方式的放射线测量装置100中的α射线检测器101、信号处理装置102、测距仪103、距离计算装置104、α射线能量计算装置105为大致相同的功能、结构,因此省略重复的说明。</base:Paragraphs>
+      <base:Paragraphs num="0080">在图15中,移动机构145搭载α射线检测器101和测距仪103,使它们移动。 移动机构控制装置146控制移动机构145。 另外,显示装置147显示与α射线能量计算装置105的α射线能量相关的信息和移动机构145的控制信息。 此外,作为上述的移动机构145,有远程操作型机器人、伸缩方式等。 另外,在上述的移动机构控制装置146中,在利用α射线检测器101进行的α射线测定中,以移动机构145适当地动作的方式进行控制。 另外,在上述的显示装置147中,显示用于监视移动机构145、移动机构控制装置146是否正常动作的状态的信息。 通过该移动机构145和移动机构控制装置146,即使在测定者不进入的远处、狭窄部也能够实施α射线测量。</base:Paragraphs>
+      <base:Paragraphs num="0081">&lt;第六实施方式的效果&gt; 
+通过使用在第六实施方式中说明的放射线测量装置、以及放射线测量方法,即使在测定者不进入的远程位置、狭窄部也能够进行α射线测量。 </base:Paragraphs>
+      <base:Paragraphs num="0082">此外,本发明并不限定于以上说明的实施方式,还包含各种变形例。 例如,上述的实施方式是为了易于理解地说明本发明而详细地进行了说明的实施方式,并不限定于必须具备所说明的全部结构。 另外,能够将某实施方式的结构的一部分置换为其他实施方式的结构的一部分,进而,也能够对某实施方式的结构追加、删除、置换其他实施方式的结构的一部分或全部。 以下,对其他实施方式、变形例进一步进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0083">《测距仪、距离计算装置》 
+在图1所示的第1实施方式中,说明了通过测距仪103和距离计算装置104来计测、计算α射线检测器101与测定对象物108的距离（α射线检测距离）。 但是,并不限定于将测距仪103和距离计算装置104配置为不同的装置。 也可以是将测距仪103与距离计算装置104一体化的装置。 </base:Paragraphs>
+      <base:Paragraphs num="0084">《固体物质观察装置》 
+在图8所示的第2实施方式的放射线测量装置200中,示出了为了掌握固体物质126的组成、形状（尺寸）、位置等信息而具备固体物质观察装置151的结构例。 然而,如果固体物质126的组成、形状（尺寸）和位置信息是已知的并且是清楚的,则可以删除固体物质观察装置151。 在这种情况下,已知的固体物质126的组成（材料）和形状（厚度尺寸）的信息被直接输入到α射线能量损失值计算装置128。 </base:Paragraphs>
+      <base:Paragraphs num="0085">《固体物质》 
+在图8所示的第2实施方式的放射线测量装置200中,说明了具有α射线检测器的保护等作用的固体物质126是气体状以外的固体物质。 但是,考虑到固体与液体的边界不明确,固体在物理上具有结晶结构,非结晶结构（阿莫尔法斯）的例如玻璃有时也被分类为液体,固体物质126并不限定于具有结晶结构的固体。 例如,也可以使用上述的非结晶结构的玻璃、塑料（结晶性、非结晶性）。 另外,如果使用确保形状的构造、例如容器,则也能够使用液体、粉末状的固体、混合物作为固体物质126。 </base:Paragraphs>
+      <base:Paragraphs num="0086">《α射线检测器、信号处理装置的台数》 
+在图13、图14所示的第5实施方式的放射线测量装置500中,以α射线检测器101和信号处理装置分别为3台的情况进行了说明,但并不限定于3台。 可以是2台,也可以是4台以上的多台。 另外,说明了3台α射线检测器101配置成二维状,但根据测定对象物108的形状、辐射源的状况,也可以将多个α射线检测器101配置成三维状。 </base:Paragraphs>
+      <base:Paragraphs num="0087">《评价函数》 
+在第一实施方式的说明中,参照图5、图6,对将多个峰值峰值（1119、1122、1123）记录在成为评价函数（1120、1120a、1120b、1120c）的特性线上的方法进行了说明。 而且,作为评价函数,说明了使用2次以上的多项式或指数函数的情况。 但是,评价函数并不限定于上述的函数。 也可以是包含多项式和指数函数的组合,另外,还存在使用其他函数的方法。 </base:Paragraphs>
+      <base:Paragraphs num="0088">《放射线》 
+在第1实施方式～第6实施方式中,主要着眼于通过使用α射线检测器101来检测α射线而进行了说明。 但是,并不限定于α射线的检测。 例如,通过具备β射线（β射线）、中子射线的检测器来代替α射线检测器101,也能够将第1实施方式～第6实施方式中说明的放射线测量装置应用于上述的其他放射线测量。 </base:Paragraphs>
+      <base:Paragraphs num="0089">《第1实施方式～第6实施方式的组合》 
+在第1实施方式～第6实施方式中,对具有各种功能的结构要素和具有将其组合而成的结构的放射线测量装置以及放射线测量方法进行了说明。 但是,并不限定于第1实施方式～第6实施方式。 也能够将第1实施方式～第6实施方式各自所具有的构成要素与构成组合。 </base:Paragraphs>
+      <base:Paragraphs num="0090">例如,存在使用第二实施方式中描述的图8中的固体物质126和固体物质观察装置151以及第三实施方式中描述的图9中的光学相机130的方法。 通过该组合,第2实施方式和第3实施方式的特征一并出现。 另外,还有将图8中的固体物质观察装置151兼用作图9所示的光学相机的功能的方法。</base:Paragraphs>
+      <base:Paragraphs num="0091">此外,也可以将第2实施方式中说明的图8中的使用固体物质126的方法组入第4实施方式,在图10中说明的显示利用α射线映射装置133得到的映射图像的方法中包含α射线检测器101的保护功能。</base:Paragraphs>
+      <base:Paragraphs num="0092">另外,还有将图10的第4实施方式中说明的利用α射线映射装置133生成映射图像的方法与图14所示的第5实施方式中说明的具备多台α射线检测器101的方法组合的方法。 根据基于该组合的方法,具有能够在短时间内得到映射图像的效果。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0093">100、200、300、400、500、600放射线测量装置101α射线检测器（α射线检测部）、α射线检测单元102、135信号处理装置、信号处理单元103测距仪、测距单元104距离计算装置、距离计算单元105、136、143α射线能量计算装置、α射线能量计算单元106、131、134、147显示装置、显示单元107α射线108测定对象物113模拟-数字转换器（A/D转换器） 
+114比较器115波高值频谱运算器126固体物质（物质、气体状以外的物质） 
+127α射线能量损失值数据库128α射线能量损失值计算装置、α射线能量损失值计算单元129支持校正的α射线能量计算装置（α射线能量计算装置）、支持校正的α射线能量计算单元130光学照相机132位置传感器133α射线映射装置、α射线映射单元138配管（测定对象物） 
+141α射线检测部（α射线检测器） 
+142：与α射线检测部对应的信号处理装置（信号处理装置）； 
+144α射线检测部对应距离计算装置（距离计算装置） 
+145移动机构、移动单元146移动机构控制装置、移动机构控制单元151固体物质观察装置 </base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="60" wi="82" file="2020091103_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="59" wi="82" file="2020091103_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="60" wi="82" file="2020091103_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="59" wi="82" file="2020091103_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="59" wi="82" file="2020091103_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="58" wi="82" file="2020091103_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="107" wi="82" file="2020091103_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="62" wi="82" file="2020091103_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="57" wi="82" file="2020091103_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="71" wi="82" file="2020091103_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="47" wi="82" file="2020091103_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="103" wi="82" file="2020091103_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="60" wi="82" file="2020091103_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="57" wi="82" file="2020091103_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="58" wi="82" file="2020091103_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种放射线测量装置,其检测源自测定对象物所附带的α射线放出核素的α射线, α射线检测部,其具有检测所述测定对象物所放射的α射线的α射线检测器； 信号处理装置,处理所述α射线检测单元的输出信号,计算α射线引起的波高值谱和峰值波高值； 测距仪,其探测所述α射线检测器与所述测定对象物的距离； 距离计算装置,其对所述测距仪的输出信号进行处理而计算所述α射线检测器与所述测定对象物之间的α射线检测距离； α射线能量计算装置,其基于由所述信号处理装置得到的所述波峰值谱和所述距离计算装置的α射线检测距离,计算α射线能量； 显示装置,其显示所述信号处理装置、所述距离计算装置和所述α射线能量计算装置的输出,所述α射线能量计算装置取得多个相对于所述α射线检测距离的所述波峰值谱的所述波峰值,用评价函数对所述波峰值的推移进行近似,由所述评价函数计算出所述α射线检测器与所述测定对象物的距离为0mm时的波峰值,使用事先取得的波峰值-α射线能量转换系数,将所述0mm时的波峰值换算为α射线能量并输出。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>如权利要求1所述的放射线测量装置,其特征在于,作为所述α射线能量计算装置中的所述评价函数,使用2次以上的多项式或指数函数。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的半导体装置,其特征在于, 保管基于事先解析的固体物质的材质和厚度的α射线能量损失值的α射线能量损失值数据库； 一种放射线测量装置,其特征在于,具备α射线能量损失值计算装置和校正对应α射线能量计算装置,所述α射线能量损失值计算装置以所述α射线检测器与所述测定对象物之间存在的固体物质的材质和厚度作为输入值,使用所述α射线能量损失值数据库算出α射线能量损失值,所述校正对应α射线能量计算装置由所述0mm处的峰值、所述峰值-α射线能量转换系数和所述α射线能量损失值算出α射线能量,将由所述α射线检测器与所述测定对象物之间存在的固体物质所导致的α射线能量损失值和所述0mm处的峰值得到的α射线能量的值相加,从而对所测定的α射线能量的值进行校正。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>如权利要求3所述的放射线测量装置,其特征在于,具备对存在于所述α射线检测器与所述测定对象物之间的固体物质进行观察的固体物质观察装置,所述α射线能量损失值计算装置输入由所述固体物质观察装置得到的固体物质的材质和厚度作为输入值。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>如权利要求1所述的放射线测量装置,其特征在于,具备设置于所述α射线检测器的附近而映出测定对象物的光学照相机,所述显示装置显示所述光学照相机的图像。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>如权利要求1所述的放射线测量装置,其特征在于,具备位置传感器、α射线映射装置和光学照相机,所述位置传感器以二维映射的形式算出所述α射线检测器的位置,所述α射线映射装置将所述位置传感器算出的作为二维映射的位置算出结果与所述α射线能量计算装置中的输出组合而算出测定位置处的α射线测定结果,所述光学照相机设置于所述α射线检测器的附近而映出所述测定对象物,将从所述α射线映射装置输出的多个位置处的α射线测定结果以映射的形式显示于所述显示装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1所述的放射线测量装置,其特征在于,所述α射线检测单元具有在相对于所述测定对象物不同的多个距离上高度不同地设置的多个所述α射线检测器而构成,由多台构成的所述信号处理装置与多个所述α射线检测器的输出信号分别对应地进行信号处理,所述测距仪探测所述α射线检测单元所具备的多个所述α射线检测器中的1台所述α射线检测器与所述测定对象物的距离,所述距离计算装置对所述测距仪的输出信号进行处理,算出所述α射线检测单元的各个所述α射线检测器与所述测定对象物的距离,对于一个所述测定对象物,所述α射线检测单元二维地实施测定。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>如权利要求1所述的放射线测量装置,其特征在于,具备搭载所述α射线检测器和所述测距仪并使它们分别移动的移动机构、以及控制所述移动机构的移动机构控制装置,所述显示装置显示所述移动机构的控制信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>一种放射线测量方法,其为检测源自测定对象物所附带的α射线放出核素的α射线的放射线测量方法,所述放射线测量方法包括： α射线检测部,其具有检测所述测定对象物所放射的α射线的α射线检测单元； 信号处理机构,处理所述α射线检测部的输出信号,算出α射线引起的波高值谱和峰值波高值； 距离测量单元,其探测所述α射线检测单元与所述测定对象物的距离； 距离计算单元,其对所述距离测量单元的输出信号进行处理而计算所述α射线检测单元与所述测定对象物之间的α射线检测距离； α射线能量计算单元,其基于由所述信号处理单元得到的所述波高值谱和所述距离计算单元的α射线检测距离来计算α射线能量； 显示单元,其显示所述信号处理单元、所述距离计算单元和所述α射线能量计算单元的输出,所述α射线能量计算单元取得多个相对于所述α射线检测距离的所述波峰值谱的所述波峰值,用评价函数对所述波峰值的推移进行近似,由所述评价函数算出所述α射线检测单元与所述测定对象物的距离为0mm时的波峰值,使用事先取得的波峰值-α射线能量转换系数,将所述0mm时的波峰值换算为α射线能量并输出。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>如权利要求9所述的放射线测量方法,其特征在于,作为所述α射线能量计算单元中的所述评价函数,使用2次以上的多项式或指数函数。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求9所述的半导体装置,其特征在于, 保管基于事先解析的固体物质的材质和厚度的α射线能量损失值的α射线能量损失值数据库； 一种放射线测量方法,其特征在于,具备α射线能量损失值计算单元和校正对应α射线能量计算单元,所述α射线能量损失值计算单元以存在于所述α射线检测单元与所述测定对象物之间的固体物质的材质和厚度作为输入值,使用所述α射线能量损失值数据库算出α射线能量损失值,所述校正对应α射线能量计算单元由所述0mm处的峰值、所述峰值-α射线能量转换系数和所述α射线能量损失值算出α射线能量,将由存在于所述α射线检测单元与所述测定对象物之间的固体物质所产生的α射线能量损失值和所述0mm处的峰值得到的α射线能量的值相加,从而对所测定的α射线能量的值进行校正。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>如权利要求9所述的放射线测量方法,其特征在于,具备设置于所述α射线检测单元的附近而映出测定对象物的光学照相机,所述显示单元显示所述光学照相机的图像。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>如权利要求9所述的放射线测量方法,其特征在于,具备：将所述α射线检测单元的位置以二维图谱的形式算出的位置传感器、将所述位置传感器算出的作为二维图谱的位置算出结果与所述α射线能量算出单元中的输出组合而算出测定位置处的α射线测定结果的α射线映射单元、和设置于所述α射线检测单元的附近而映现所述测定对象物的光学照相机,将从所述α射线映射单元输出的多个位置处的α射线测定结果以图谱的形式显示于所述显示单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>如权利要求9所述的放射线测量方法,其特征在于,所述α射线检测部构成为具有在相对于所述测定对象物不同的多个距离上高度不同地设置的多个所述α射线检测单元,由多台构成的所述信号处理单元与多个所述α射线检测单元的输出分别对应地进行信号处理,所述距离测量单元检测所述α射线检测部所具备的多个所述α射线检测单元中的1台所述α射线检测单元与所述测定对象物的距离,所述距离计算单元对所述距离测量单元的输出信号进行处理,算出所述α射线检测部的各个所述α射线检测单元与所述测定对象物的距离,对于一个所述测定对象物,所述α射线检测部二维地实施测定。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>如权利要求9所述的放射线测量方法,其特征在于,具备搭载所述α射线检测单元和所述距离测量单元并使它们分别移动的移动单元、以及控制所述移动单元的移动机构控制单元,所述显示单元显示所述移动单元的控制信息。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

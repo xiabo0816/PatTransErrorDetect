@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000265850JP00020161276840AFULJA20160711JP00N.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127684" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127684</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127684</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000265850</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265850</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>02</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>32</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H02P   8/32        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>03</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>14</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G03G  21/14        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H02P8/32</business:FI>
+      <business:FI type="secondary">G03G21/14</business:FI>
+      <business:FClass>
+        <business:FTerm>2H270LA98</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270LC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270LC05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270MB29</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270MB43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270MC78</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270MD12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270MH06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270MH09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270ZC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270ZC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270ZC05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2H270ZC06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H580AA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H580CB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H580EE03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H580FA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H580FA24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H580HH22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H580HH40</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2H270</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5H580</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">电机驱动装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>京セラドキュメントソリューションズ株式会社</base:Name>
+            <base:RegisteredNumber>000006150</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市中央区玉造1丁目2番28号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>青野  信也</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市中央区玉造1丁目2番28号  京セラドキュメントソリューションズ株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>堀  城之</base:Name>
+            <base:RegisteredNumber>100097113</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>前島  幸彦</base:Name>
+            <base:RegisteredNumber>100162363</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>6</business:ClaimsCount>
+      <base:TotalPageCount>11</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明提供一种马达驱动装置,其能够以适当的斩波频率进行斩波动作,该斩波频率能够减轻控制时钟引起的切换定时的偏差。 具备构成为能够设定多个斩波频率的斩波频率设定部5、根据由斩波频率设定部5设定的斩波频率进行斩波动作的励磁控制部3、以及检测由步进马达1的驱动引起的振动的振动检测部7,在步进马达1的驱动时,利用励磁控制部3以能够由斩波频率设定部5设定的各个斩波频率分别进行斩波动作,基于振动检测部7的检测结果,将斩波频率设定部5中设定的斩波频率决定为监视频率的频率电平成为最小的斩波频率。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="29" wi="69" file="2016127684_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及对在复印机、打印机、传真机等图像形成装置中使用的步进马达进行驱动的步进马达驱动装置。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">在复印机、打印机、传真机等图像形成装置中,通常使用通过基于开环的马达控制来驱动步进马达的马达驱动装置。 在基于开环的电机控制中,不需要反馈由编码器、转速发生器等传感器检测的旋转角、旋转速度等信息,能够省略这些传感器,在成本方面是有利的（例如,参照专利文献1）。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2002－78385号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">然而,在基于开环的电机控制中,虽然与控制时钟同步地切换向A相/B相的线圈（励磁相）的供电,但在通过斩波动作而实施使电机驱动电流恒定的恒流控制的情况下,由于硬件上的制约,基于控制时钟的供电的切换定时会产生偏差,从而会产生由此引起的振动。</base:Paragraphs>
+        <base:Paragraphs num="0005">步进马达的驱动通过切换向A相/B相的线圈的供电来进行。 向线圈的供电的切换与根据转速设定的控制时钟同步地进行（以下,将根据控制时钟切换向线圈的供电的定时称为切换定时）。 而且,使马达驱动电流恒定的恒流控制通过构成有Hi桥电路的步进马达的驱动电路的接通/断开控制（斩波动作）来进行。 以下,将斩波动作的周期称为“斩波周期”,将其频率称为“斩波频率”。</base:Paragraphs>
+        <base:Paragraphs num="0006">在斩波动作中,需要避免构成有Hi桥电路的驱动电路中的电源-GGND短路（防止贯通电流流过高侧/低侧的FET）。 因此,即使输入控制时钟的边沿,在斩波周期内也不进行切换,基于控制时钟的切换定时产生偏差。 该偏差成为旋转不均,其结果,表现为振动、声音。 另外,由控制时钟引起的切换定时的偏差的影响也根据励磁模式而变化。 在1-2相励磁的阶跃切换中,存在2相（A相/B相）均同时切换的定时,因此,相邻的控制时钟间的频率偏差与2相励磁相比变大。</base:Paragraphs>
+        <base:Paragraphs num="0007">控制时钟引起的切换定时的偏差在斩波频率低时变大,相反在斩波频率高时变小。 但是,内部开关时的作为驱动器件(FET)的损耗在斩波频率低时变小,在斩波频率高时变大,其作为驱动器件的发热而产生影响。</base:Paragraphs>
+        <base:Paragraphs num="0008">本发明的目的在于解决上述问题点,提供一种能够以适当的斩波频率进行斩波动作的电动机驱动装置,该适当的斩波频率能够减轻由控制时钟引起的切换定时的偏差。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0009">本发明的马达驱动装置具备： 具有与控制时钟同步地切换向步进马达的励磁相的供电的驱动电路, 所述马达驱动装置通过对所述驱动电路的开关元件进行接通/断开控制的斩波动作来进行使马达驱动电流恒定的恒流控制, 斩波频率设定部,其构成为能够设定多个斩波频率； 以及斩波频率决定部,其在所述步进马达的驱动时,使所述励磁控制部以能够由所述斩波频率设定部设定的各个斩波频率分别进行斩波动作,并基于所述振动检测部的检测结果,进行将在所述斩波频率设定部中设定的斩波频率决定为监视频率的频率电平成为最小的斩波频率的斩波频率决定动作。 并且,在本发明的马达驱动装置中,也可以是,所述监视频率被设定为安装于所述步进马达的输出轴的马达小齿轮的齿数与所述步进马达的马达转子的极数的公倍数中的任意一个。 并且,在本发明的马达驱动装置中,也可以是,所述监视频率被设定为事先在规定的条件下使步进马达驱动而使振动等级最大的值。 并且,在本发明的电机驱动装置中,也可以是,所述斩波频率决定部在执行所述斩波频率决定动作时,以最快的控制时钟来驱动所述驱动电路。 并且,在本发明的马达驱动装置中,也可以是,所述斩波频率设定部仅将包含基于控制时钟的切换定时在内的一个时钟周期内的一部分设定为通过所述斩波频率决定部的所述斩波频率决定动作而决定的斩波频率。 另外,本发明的马达驱动装置的特征在于, 具有与控制时钟同步地切换向步进马达的励磁相的供电的驱动电路, 所述马达驱动装置通过对所述驱动电路的开关元件进行接通/断开控制的斩波动作来进行使马达驱动电流恒定的恒流控制, 斩波频率设定部,其构成为能够设定多个斩波频率； 励磁控制部,其根据由所述斩波频率设定部设定的斩波频率进行斩波动作； 以及斩波频率决定部,其在所述步进马达的驱动时,进行斩波频率决定动作,在该斩波频率决定动作中,从能够由所述斩波频率设定部设定的斩波频率中的斩波频率低的一方起依次由所述励磁控制部进行斩波动作,基于所述振动检测部的检测结果,将在所述斩波频率设定部设定的斩波频率决定为监视频率的频率电平成为预先设定的阈振动电平以下的斩波频率。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0010">根据本发明,起到如下效果：能够以能够减轻由控制时钟引起的切换定时的偏差的适当的斩波频率进行斩波动作,能够减轻由切换定时偏差引起的步进马达1的振动。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0011">
+        <base:FigureReference num="0001">图0001是表示本发明的马达驱动装置的第一实施方式的结构的框图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示本发明的电动机驱动装置的第一实施方式的斩波频率决定动作的控制顺序的流程图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示由图1所示的振动检测部监视的振动频率的波形图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是用于说明图1所示的斩波频率设定部中的斩波频率的设定例的波形图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是表示本发明的电动机驱动装置的第二实施方式的斩波频率决定动作的控制顺序的流程图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0012">接着,参照附图具体地说明本发明的实施方式。 （第一实施方式） 
+第一实施方式的马达驱动装置是驱动在复印机、打印机、传真机等图像形成装置中使用的步进马达1的装置,参照图1,具备驱动电路2、励磁控制部3、控制时钟切换部4、斩波频率设定部5、电流检测部6、振动检测部7、以及控制它们整体的CPU8。 </base:Paragraphs>
+      <base:Paragraphs num="0013">驱动电路2是具备将步进马达1的各励磁相接通/断开的开关元件即FET的Hi电桥电路。</base:Paragraphs>
+      <base:Paragraphs num="0014">励磁控制部3是基于从控制时钟切换部4输入的控制时钟、与由CPU8指示的励磁模式(MODE)及旋转方向（CW/CCW）来驱动驱动电路2的FET,由此切换步进马达1的各励磁相的接通/断开的控制电路。 另外,励磁控制部3通过以斩波频率设定部5所设定的斩波频率及占空比对驱动电路2的FET进行接通/断开控制（斩波动作）,从而进行使马达驱动电流恒定的恒流控制。</base:Paragraphs>
+      <base:Paragraphs num="0015">控制时钟切换部4将与由CPU8指示的转速对应的控制时钟输出到励磁控制部3。</base:Paragraphs>
+      <base:Paragraphs num="0016">斩波频率设定部5构成为能够设定人的可听区域（～20kHz）以上的多个斩波频率（例如,25/30/35/40kHz）,将所设定的斩波频率的矩形波信号（以下,称为斩波信号）输出至励磁控制部3。 另外,斩波频率设定部5设定斩波信号的占空比,以使由电流检测部6检测的马达驱动电流恒定。</base:Paragraphs>
+      <base:Paragraphs num="0017">电流检测部6是检测流过步进马达1的各励磁相的马达驱动电流的电流检测单元,例如由电流检测用的电阻构成。</base:Paragraphs>
+      <base:Paragraphs num="0018">振动检测部7是检测由步进马达1的驱动引起的振动的振动检测机构,将振动检测信号向CPU8输出。 振动检测部7例如由配置在步进马达1附近或与步进马达1接触的加速度传感器构成。 此外,也能够由磁铁（magnet）和磁力传感器构成振动检测部7。</base:Paragraphs>
+      <base:Paragraphs num="0019">CPU8对控制时钟切换部4指示转速,并且对励磁控制部3指示励磁模式(MODE)和旋转方向（CW/CCW）。 另外,CPU8基于振动检测部7的检测信号,进行决定斩波频率设定部5中设定的斩波频率的斩波频率决定动作。</base:Paragraphs>
+      <base:Paragraphs num="0020">以下,参照图2和图3对斩波频率决定动作的控制顺序进行详细说明。 CPU8作为控制斩波频率决定动作的斩波频率决定部发挥功能。 首先,CPU8对励磁控制部3指示1-2相励磁作为多个例示模式中的假定为振动最大的励磁模式,将励磁模式设定为1-2相励磁（步骤A1）,并且对控制时钟切换部4指示最快的转速,将驱动时钟设定为最快（步骤A2）,使步进马达1驱动（步骤A3）。</base:Paragraphs>
+      <base:Paragraphs num="0021">接着,CPU8对变量n设置1（步骤A4）,对斩波频率设定部5设定第n个斩波频率（步骤A5）。 由此,第n个斩波频率的斩波信号被输出到励磁控制单元3,以第n个斩波频率对驱动电路2的FET进行接通/断开控制。 然后,CPU8通过对从振动检测部7输出的振动检测信号进行采样,来测定监视频率的信号电平（步骤A6）。 振动检测信号的采样进行数次（例如,每500ms进行5次）。 监视频率被设定为安装于步进马达1的输出轴的马达小齿轮的齿数与步进马达1的马达转子的极数的公倍数中的任意一个。 若对步进马达1的驱动期间的实际振动进行频率解析,则如图3中箭头所示,以马达小齿轮的齿数与马达转子的极数的公倍数的频率表现出振动水平的峰值。 因此,可以事先以规定的条件使步进马达1驱动,将振动等级最大的马达小齿轮的齿数与马达转子的极数的公倍数设定为监视频率。 另外,监视频率在0～最快的控制时钟*2的范围内设定。 即,在控制时钟的最快为2500Hz的情况下,在0～5000Hz的范围内对实际振动进行频率分析,监视频率被设定为其中的振动等级最大的公倍数。</base:Paragraphs>
+      <base:Paragraphs num="0022">接着,CPU8判断变量n是否达到阈值N（步骤A7）,在变量n未达到阈值N的情况下,使变量n递增（步骤A8）,返回步骤A5。 阈值N是能够由斩波频率设定部5设定的斩波频率的数量,例如,在能够由斩波频率设定部5设定的斩波频率为25/30/35/40kHz这4种情况下,阈值N=4。</base:Paragraphs>
+      <base:Paragraphs num="0023">在步骤A7中变量n达到阈值N的情况下,改变斩波频率来测定N次的监视频率的信号电平,CPU8将在步骤A6中测定出的监视频率的信号电平最低时的斩波频率决定为对斩波频率设定部5进行设定的斩波频率（步骤A9）,结束斩波频率决定动作。</base:Paragraphs>
+      <base:Paragraphs num="0024">由此,在斩波频率设定部5设定监视频率的信号电平最低时的斩波频率,通过该斩波频率进行斩波动作,能够减轻由切换定时偏差引起的步进马达1的振动。</base:Paragraphs>
+      <base:Paragraphs num="0025">此外,斩波频率决定动作的实施定时没有特别限制,也可以在生产线或服务从业者的调整中设置专用模式。 另外,也可以通过用户的操作来实施斩波频率决定动作。 并且,在电源接通时（或者从低电力模式恢复时）,为了使机器正常地动作,作为初始动作,有时进行使机器旋转一定时间（驱动连结动作）的控制,也可以在该初始动作时实施斩波频率决定动作。</base:Paragraphs>
+      <base:Paragraphs num="0026">另外,若斩波频率变高,则也担心驱动设备（驱动电路2的FET）的发热的问题。 因此,在步骤A9中决定的斩波频率为预先设定的阈值频率（例如,30kHz）以上的情况下,斩波频率设定部5也可以构成为仅将包含基于控制时钟的切换定时的1个时钟周期（1CLK）内的一部分切换设定为在步骤A9中决定的斩波频率。 例如,如图4所示,斩波频率设定部5在控制时钟的上升沿为切换定时的情况下,将1CLK内的从上升沿到下降沿设定为能够设定的斩波频率中的最低的25kHz,将从下降沿到上升沿设定为在步骤A9中决定的斩波频率（例如,40kHz）。 由此,能够实现如下步进马达驱动电路控制：减轻由切换定时偏差引起的步进马达1的振动,并且抑制驱动装置的发热,也护理了驱动装置发热。</base:Paragraphs>
+      <base:Paragraphs num="0027">如上所述, 根据第一实施方式, 具有与控制时钟同步地切换向步进马达1的励磁相的供电的驱动电路2, 一种马达驱动装置,通过对驱动电路2的开关元件进行接通/断开控制的斩波动作来进行使马达驱动电流恒定的恒流控制, 斩波频率设定部5,其构成为能够设定多个斩波频率； 以及CPU8（斩波频率决定部）,其在步进马达1的驱动时,使励磁控制部3以能够由斩波频率设定部5设定的各个斩波频率分别进行斩波动作,并基于振动检测部7的检测结果,进行将斩波频率设定部5中设定的斩波频率决定为监视频率的频率电平成为最小的斩波频率的斩波频率决定动作。 通过该结构,能够以能够减轻由控制时钟引起的切换定时的偏差的适当的斩波频率进行斩波动作,能够减轻由切换定时偏差引起的步进马达1的振动。</base:Paragraphs>
+      <base:Paragraphs num="0028">并且,根据本实施方式,监视频率被设定为安装于步进马达1的输出轴的马达小齿轮的齿数与步进马达1的马达转子的极数的公倍数中的任意一个。 通过该结构,能够基于出现振动水平的峰值的频率下的振动水平来决定斩波频率,因此能够有效地减轻由切换定时偏差引起的步进马达1的振动。</base:Paragraphs>
+      <base:Paragraphs num="0029">进而,根据本实施方式,监视频率事先以规定的条件使步进马达1驱动,被设定为振动等级最大的值。 通过该结构,能够基于出现振动水平的最大的峰值的频率下的振动水平来决定斩波频率,因此能够更有效地减轻由切换定时偏差引起的步进马达1的振动。</base:Paragraphs>
+      <base:Paragraphs num="0030">并且,根据本实施方式,CPU8在执行斩波频率决定动作时,以最快的控制时钟使驱动电路驱动。 通过该结构,能够以振动电平最大的控制时钟决定振动电平最小的斩波频率,因此能够有效地减轻由切换定时偏差引起的步进马达1的振动。</base:Paragraphs>
+      <base:Paragraphs num="0031">并且,根据本实施方式,斩波频率设定部5仅将包含基于控制时钟的切换定时的1个时钟周期内的一部分设定为通过CPU8的斩波频率决定动作决定的斩波频率。 通过该结构,能够抑制驱动装置的发热,能够实现也护理了驱动装置的发热的步进马达驱动电路控制。</base:Paragraphs>
+      <base:Paragraphs num="0032">（第二实施方式） 
+在第2实施方式中,斩波频率的决定方法与第1实施方式不同。 参照图5,若设定第n个斩波频率（步骤A5）,并测定监视频率的信号电平（步骤A6）,则CPU8判断监视频率的信号电平是否为预先设定的阈振动电平以下（步骤B1）。 另外,在第二实施方式中,在步骤A5中,在能够由斩波频率设定部5设定的斩波频率中,从斩波频率低的一方起依次进行设定。 </base:Paragraphs>
+      <base:Paragraphs num="0033">在步骤B1中监视频率的信号电平为预先设定的阈振动电平以下的情况下,将在步骤A5中设定的第n个斩波频率决定为对斩波频率设定部5进行设定的斩波频率（步骤B2）,结束斩波频率决定动作。</base:Paragraphs>
+      <base:Paragraphs num="0034">另一方面,在步骤B1中监视频率的信号电平不是预先设定的阈振动电平以下的情况下,CPU8判断变量n是否达到阈值N（步骤A7）,在变量n未达到阈值N的情况下,使变量n递增（步骤A8）,返回步骤A5。</base:Paragraphs>
+      <base:Paragraphs num="0035">即,在第二实施方式中,能够在监视频率的信号电平成为预先设定的阈振动电平以下的时刻,将斩波频率设定部5决定为设定的斩波频率。 由此,能够迅速地决定能够将由切换定时偏差引起的步进马达1的振动减轻至容许范围的、最低的斩波频率。</base:Paragraphs>
+      <base:Paragraphs num="0036">此外,在步骤A7中变量n达到阈值N的情况下,不存在监视频率的信号电平成为预先设定的阈振动电平以下的斩波频率。 因此,通过将第N个斩波频率（最高的斩波频率）决定为对斩波频率设定部5进行设定的斩波频率（步骤B3）,尽可能减少由切换定时偏差引起的步进马达1的振动。 在步骤A7中变量n达到阈值N的情况下,也可以通知错误。</base:Paragraphs>
+      <base:Paragraphs num="0037">如上所述, 根据第二实施方式, 具有与控制时钟同步地切换向步进马达1的励磁相的供电的驱动电路2, 一种马达驱动装置,通过对驱动电路2的开关元件进行接通/断开控制的斩波动作来进行使马达驱动电流恒定的恒流控制, 斩波频率设定部5,其构成为能够设定多个斩波频率； 以及CPU8（斩波频率决定部）,其在步进马达1的驱动时进行斩波频率决定动作,在该斩波频率决定动作中,在能够由斩波频率设定部5设定的斩波频率中,从斩波频率低的一方起依次由励磁控制部3进行斩波动作,基于振动检测部7的检测结果,将斩波频率设定部5中设定的斩波频率决定为监视频率的频率电平成为预先设定的阈振动电平以下的斩波频率。 通过该结构,能够迅速地决定能够将由切换定时偏差引起的步进马达1的振动减轻至容许范围的、最低的斩波频率。</base:Paragraphs>
+      <base:Paragraphs num="0038">此外,本发明并不限定于上述各实施方式,在本发明的技术思想的范围内,各实施方式能够适当变更是显而易见的。 另外,上述构成部件的数量、位置、形状等并不限定于上述实施方式,在实施本发明的基础上能够设为适当的数量、位置、形状等。 此外,在各图中,对相同的构成要素标注相同的附图标记。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0039">1步进马达,2驱动电路,3励磁控制部,4控制时钟切换部,5斩波频率设定部,6电流检测部,7振动检测部,8 CPU</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="35" wi="83" file="2016127684_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="113" wi="83" file="2016127684_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="53" wi="83" file="2016127684_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="42" wi="83" file="2016127684_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="64" wi="83" file="2016127684_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>具有与控制时钟同步地切换向步进马达的励磁相的供电的驱动电路, 所述马达驱动装置通过对所述驱动电路的开关元件进行接通/断开控制的斩波动作来进行使马达驱动电流恒定的恒流控制, 斩波频率设定部,其构成为能够设定多个斩波频率； 励磁控制部,其根据由所述斩波频率设定部设定的斩波频率进行斩波动作； 斩波频率决定部,其在所述步进马达的驱动时,进行斩波频率决定动作,在所述斩波频率决定动作中,使所述励磁控制部以能够由所述斩波频率设定部设定的各个斩波频率分别进行斩波动作,并基于所述振动检测部的检测结果,将在所述斩波频率设定部中设定的斩波频率决定为监视频率的频率电平成为最小的斩波频率。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>如权利要求1所述的马达驱动装置,其特征在于,所述监测频率被设定为安装在所述步进马达的输出轴上的马达小齿轮的齿数与所述步进马达的马达转子的极数的公倍数中的任意一个。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求2所述的马达驱动装置,其特征在于,所述监视频率事先以规定的条件使步进马达驱动,并设定为振动等级最大的值。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1至3中任一项所述的马达驱动装置,其特征在于,所述斩波频率决定部在执行所述斩波频率决定动作时,以最快的控制时钟驱动所述驱动电路。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1至4中任一项所述的电动机驱动装置,其特征在于,所述斩波频率设定部仅将包含基于控制时钟的切换定时的一个时钟周期内的一部分设定为通过所述斩波频率决定部的所述斩波频率决定动作而决定的斩波频率。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>具有与控制时钟同步地切换向步进马达的励磁相的供电的驱动电路, 所述马达驱动装置通过对所述驱动电路的开关元件进行接通/断开控制的斩波动作来进行使马达驱动电流恒定的恒流控制, 斩波频率设定部,其构成为能够设定多个斩波频率； 励磁控制部,其根据由所述斩波频率设定部设定的斩波频率进行斩波动作； 斩波频率决定部,其在所述步进马达的驱动时,进行斩波频率决定动作,在该斩波频率决定动作中,从能够由所述斩波频率设定部设定的斩波频率中的斩波频率低的一方起依次由所述励磁控制部进行斩波动作,并基于所述振动检测部的检测结果,将设定于所述斩波频率设定部的斩波频率决定为监视频率的频率电平成为预先设定的阈振动电平以下的斩波频率。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

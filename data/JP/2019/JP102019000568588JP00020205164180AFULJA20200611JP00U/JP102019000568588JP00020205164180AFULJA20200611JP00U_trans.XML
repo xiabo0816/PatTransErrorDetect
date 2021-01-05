@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000568588JP00020205164180AFULJA20200611JP00U.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020516418" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516418</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516418</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000568588</base:DocNumber>
+        <base:Date>20180301</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019568588</base:DocNumber>
+        <base:Date>20180301</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>62/465,336</base:DocNumber>
+        <base:Date>20170301</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002017000465336</base:DocNumber>
+        <base:Date>20170301</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>18</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61B  18/02        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61B18/02</business:FI>
+      <business:FClass>
+        <business:FTerm>4C160JJ00</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C160</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">冷冻疗法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ミラキ  イノベーション  シンク  タンク  エルエルシー</base:Name>
+            <base:RegisteredNumber>519316519</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  マサチューセッツ  02138，  ケンブリッジ，  ブラトル  ストリート  44，  ハーバード  スクエア，  4ティーエイチ  フロア</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ヴェリス，  クリストファー  ジェイ.ピー.</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  マサチューセッツ  02138，  ケンブリッジ，  ウィンスロップ  ストリート  97，  ハーバード  スクエア</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ミラー，  カレン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  マサチューセッツ  02138，  ケンブリッジ，  ウィンスロップ  ストリート  97，  ハーバード  スクエア</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>チョードリー，  タリク  エス.</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  マサチューセッツ  02138，  ケンブリッジ，  ウィンスロップ  ストリート  97，  ハーバード  スクエア</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アリアス，  スーザン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  マサチューセッツ  02138，  ケンブリッジ，  ウィンスロップ  ストリート  97，  ハーバード  スクエア</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>山本  秀策</base:Name>
+            <base:RegisteredNumber>100078282</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>森下  夏樹</base:Name>
+            <base:RegisteredNumber>100113413</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>飯田  貴敏</base:Name>
+            <base:RegisteredNumber>100181674</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>石川  大輔</base:Name>
+            <base:RegisteredNumber>100181641</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="attorney">
+          <base:AddressBook lang="ja">
+            <base:Name>山本  健策</base:Name>
+            <base:RegisteredNumber>230113332</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2018020387</base:DocNumber>
+        <base:Date>20180301</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018160797</base:DocNumber>
+        <base:Date>20180907</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>18</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>将冷浆液递送到内部组织可用于治疗各种医学疾病和病症的疗法中。 例如,冷浆液可活化棕色脂肪组织以治疗肥胖症。 可以将冷浆液递送至受创伤或疾病损害的组织,以减少炎症,进而减少疼痛,从而导致更快的恢复。 冷浆疗法可用于治疗肌肉和神经障碍,并且可用于控制疼痛。 在神经处或附近递送的冷浆液的冷却作用减少了该神经的神经支配,进而减少了痉挛或疼痛。 冷却作用还可导致组织中的细胞死亡。 有利地,冷浆疗法可用于减少或去除组织,例如治疗纤维腺瘤或瘢痕组织。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="79" wi="60" file="2020516418_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:BackgroundArt>
+      <base:Paragraphs num="0001">使用冷冻疗法或应用冷冻来治疗损伤或疾病是用于治疗急性软组织损伤并减少损伤和手术后恢复时间的已确立的方法。 冷冻疗法可以在各种组织中以及在与感觉神经和运动神经相关的神经和生理炎症反应中维持生理和生物作用。 冷冻疗法的其他应用包括减少脂肪、消融和切割,以及在手术环境中保存组织。</base:Paragraphs>
+      <base:Paragraphs num="0002">在脂肪减少的领域中,冷冻疗法可用于刺激卡路里燃烧。 非震颤产热是从物质（例如游离脂肪酸）产生热量而没有震颤的代谢过程。 最近的研究表明,该过程主要发生在棕色脂肪组织中,并受交感神经供应的活性控制。 在人体中,当被充分刺激时,棕色脂肪组织可以产生比身体的任何其他组织多300倍的热量。 大约2盎司的褐色脂肪组织,一天可以燃烧300～500卡路里,这足以在一周内最大减量1磅。 因此,作为治疗肥胖和体重相关病症的方法,活化褐色脂肪组织备受关注。</base:Paragraphs>
+      <base:Paragraphs num="0003">已知身体暴露于低温（例如16℃或更低）会刺激棕色脂肪组织的活性。 用于冷诱导的产热的先前方法包括坐在冷藏室中或在冷水浴中几小时,而另一种方法是将冷却毯包裹在身体周围。 这些方法非常不舒服,因为它们涉及整个身体或身体的大部分的冷却。 又一种方法是将冷却装置嵌入体内以冷却内部。 该方法是不充分的,因为它需要将外来物体放置在体内,这可能会被排斥或分解。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0004">将冷浆递送到患者体内的组织可用于多种疗法中以治疗多种医学疾病和病症。 例如,可以将冷浆液递送到患者的脂肪组织、结肠组织、腹部组织或下丘脑组织处或附近。 冷浆对这些组织的冷却作用可以刺激患者棕色脂肪组织中的产热并增加全身代谢活性。 因此,冷浆疗法可用于治疗肥胖症或体重相关病症。 在另一个实例中,冷浆液可以被递送到由创伤或疾病损伤的内部组织处或附近。 冷浆液对受损组织的冷却作用可以减少炎症,进而减少疼痛,导致更快的恢复。</base:Paragraphs>
+        <base:Paragraphs num="0005">冷浆疗法可用于治疗一些肌肉和神经障碍,并且可用于治疗疼痛。 在神经处或附近递送的冷浆液的冷却作用可以减少神经的神经支配或传导。 这转而减轻惊厥或疼痛。 冷浆液对组织的冷却作用也可导致组织中的细胞死亡。 有利地,冷浆疗法可用于减少或去除组织,例如治疗纤维腺瘤或瘢痕组织。</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0006">
+        <base:FigureReference num="0001">图0001是成人身体的示意图,显示了棕色脂肪组织的储存位置。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是用冷浆冷却受试者的内部组织以在棕色脂肪组织中诱导产热的示例性程序的图示。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是用冷浆冷却受试者的腹部组织以在棕色脂肪组织中诱导产热的示例性程序的图示。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是用冷浆冷却受试者的结肠组织以在棕色脂肪组织中诱导产热的示例性程序的图示。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是用冷浆冷却受试者的下丘脑组织以在棕色脂肪组织中诱导产热的示例性程序的图示。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是用冷浆冷却受验者的神经以介导神经的神经作用或去除神经的示例性过程的图示。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0007">本发明涉及一种冷浆疗法,其包括将冷浆递送至受试者体内的组织以诱导受试者的棕色脂肪组织中的产热。 在递送到内部组织时,冷浆料冷却内部组织,并且在一些情况下,也冷却周围组织。 暴露于低温触发儿茶酚胺神经递质（例如去甲肾上腺素）的释放,其向交感神经系统发出信号并刺激β-肾上腺素受体,启动棕色脂肪组织中的细胞内事件级联,导致线粒体解偶联蛋白1（UCP-1）的活化。 UCP-1位于线粒体内膜中,并且通过促进质子穿过线粒体膜泄漏而起到解偶联氧化磷酸化的作用,从而产生热并减少ATP合成。 其结果,在非震颤热产生的过程中燃烧卡路里。</base:Paragraphs>
+      <base:Paragraphs num="0008">图1示出了可以在成人身体100中找到棕色脂肪组织库的位置。 颈部储存器105位于颈部的两侧。 锁骨上储存器110位于肩胛骨之间。 纵隔（主动脉旁）储器115位于心脏附近。 旁脊柱储存器120沿着脊髓定位。 肾上腺储存器125围绕肾脏。</base:Paragraphs>
+      <base:Paragraphs num="0009">位于身体表面和身体核心部分的热感受器检测温度并将温度信息传递到下丘脑的视前区(POA),在那里感知到热或冷的感觉。 位于体内的热感受器或“核心热感受器”包括POA本身,其含有其活性受局部脑温度影响的神经元。 脊髓中的温度变化也可能影响POA中的温度调节神经元的活性。 内脏神经和迷走神经的传入纤维分布在腹部,并表现出对温度变化的反应,类似于位于身体表面的热感受器。 还在不同的迷走神经区域中鉴定了热感受器,包括胃肠道和呼吸器官。</base:Paragraphs>
+      <base:Paragraphs num="0010">图2表示位于对象内部的内部组织200（假想线）。 内部组织200可以是例如位于受试者的腹部中的脂肪组织。 冷浆料可以从位于受试者体外的递送装置205递送到内部组织200。 （在本公开的末尾更详细地描述输送装置205和冷浆料）。</base:Paragraphs>
+      <base:Paragraphs num="0011">在附图中示出为递送的冷浆料210的冷浆料可以通过上述交感神经控制机制在受试者的棕色脂肪组织中诱导非震颤热产生。 例如,受影响组织200包括感测寒冷的寒冷热感受器。 在感测到递送的冷浆料210的冷时,冷热感受器经由交感神经途径向受试者的下丘脑发送信号。 其次,下丘脑刺激棕色脂肪组织,从而导致非震颤产热。</base:Paragraphs>
+      <base:Paragraphs num="0012">冷热接收器还可以位于邻近于所输送的冷浆料210的相邻组织215中。 在递送之后,受影响区域220扩大到比初始递送部位更大的尺寸（在图中示出为从递送的冷浆料210向外辐射的箭头,并且示出为尺寸增加的虚线圆圈）。 受影响区域220的尺寸可以达到覆盖邻近组织215的一部分的尺寸,并且所递送的冷浆料210的冷度可以由冷性热感受器感测,从而诱导受试者的棕色脂肪组织中的非震颤热产生。</base:Paragraphs>
+      <base:Paragraphs num="0013">所输送的冷浆料210的冷却作用定位于待处理的组织（即,内部组织200）和周围组织（即,相邻组织215）。 以这种方式,限制了由冷治疗引起的任何不适。 冷浆料是无菌的和生物相容的,使得递送的冷浆料210可以方便地保留在身体上（例如,在获得冷却之后不需要移除浆料）。 冷浆液可以递送到其他内部组织,例如腹部组织、结肠组织和下丘脑组织,如下所述。</base:Paragraphs>
+      <base:Paragraphs num="0014">图3示出了用冷浆冷却受试者的腹部组织300（以虚线示出）以在受试者的棕色脂肪组织中诱导产热的示例性过程。 清洁受试者的腹部305周围的区域,并标记腹部组织300下方的皮肤进入点310。</base:Paragraphs>
+      <base:Paragraphs num="0015">在该示例中,使用注射器315将冷浆料递送到腹部组织300。 将注射器315插入进入点310并推进到腹部组织300（或腹部组织300附近的组织）。 然后将冷浆料注射到腹部组织300中（或附近）,如图中所示为输送的冷浆料320。 所输送的冷浆料320直接（或间接）冷却腹部组织300。 腹部组织300中的冷性热感受器感测冷性并刺激受试者的棕色脂肪组织中的未震颤热产生。</base:Paragraphs>
+      <base:Paragraphs num="0016">一定量的冷浆料可以被输送到腹部组织300处（或附近）的多个部位。 这是有益的,因为它可以增加暴露于冷浆料并被冷却的腹部组织300的量,从而提高治疗的有效性。</base:Paragraphs>
+      <base:Paragraphs num="0017">图4示出了用冷浆冷却受试者的结肠组织400以在受试者的棕色脂肪组织中诱导产热的示例性程序。 将导管405插入受试者的肛门410中并通过直肠415推进,直到到达结肠420。 将冷浆料从受试者的外部泵送（例如,使用注射器）通过导管405（在图中显示为一系列箭头）并递送到结肠组织400。 在附图中示出为输送的冷浆料425的冷浆料冷却结肠组织400。 结肠组织400中的冷热感受器感测冷,然后刺激受试者的棕色脂肪组织中的非震颤热产生。</base:Paragraphs>
+      <base:Paragraphs num="0018">图5示出了用冷浆冷却受试者的下丘脑组织500（以虚线示出）以在受试者的棕色脂肪组织中诱导产热的示例性过程。 通过受试者的皮肤和颅骨在下丘脑组织500上植入端口（未示出）。 在受试者体外,管505（具有单个管或多个管）连接到端口。 连接到管505的另一端的注射器或泵（未示出）通过管505（在图中显示为一系列箭头）将冷浆料递送到下丘脑组织500。 在附图中示出为递送的冷浆料510的冷浆料冷却下丘脑组织500。 下丘脑组织500中的冷性热感受器感测冷性,然后刺激受试者的棕色脂肪组织中的非震颤热产生。 这种布置可以用于在一段时间内多次输送冷浆料。 这对于冷浆料的长期施用是特别有利的。</base:Paragraphs>
+      <base:Paragraphs num="0019">上述程序可用于治疗肥胖症和体重相关病症。 通常,治疗方法包括向需要治疗的受试者（包括已被诊断为需要这种治疗的受试者）施用有效量的冷浆液（如上所述）的步骤。</base:Paragraphs>
+      <base:Paragraphs num="0020">治疗方法可以包括鉴定需要治疗的受试者（例如,患有肥胖症或处于患有肥胖症的风险中或处于发展成体重相关病症的风险中的受试者）,并向受试者施用有效量的冷浆液（如上所述）。 在一个方便的实例中,受试者是已被诊断为太胖或肥胖的受试者（例如,身体质量指数(BMI)为25-29或30或更高）或患有体重相关病症的受试者。 可以基于受试者的体重或BMI来选择需要治疗的受试者。</base:Paragraphs>
+      <base:Paragraphs num="0021">在治疗方法的一些实例中,受试者的选择可以包括评估受试者中棕色脂肪组织的量或活性,并记录这些观察结果。 可以在递送冷浆料之前、期间和/或之后进行评估。 例如,可以在递送冷浆料之前和/或之后至少1天、2天、4天、7天、14天、21天、30天或更长时间进行评估。</base:Paragraphs>
+      <base:Paragraphs num="0022">治疗方法可包括评估治疗。 例如,观察并记录治疗后对象中棕色脂肪组织的量或活性。 可以将该治疗后的观察结果与在受试者选择时进行的观察结果进行比较。 在一些实例中,受试者具有增加的棕色脂肪组织水平和/或活性。 在其他实例中,受试者表现出减轻的症状。</base:Paragraphs>
+      <base:Paragraphs num="0023">治疗的评估可以包括在治疗之前和/或之后确定受试者的体重或BMI,并将治疗前受试者的体重或BMI与治疗后的体重或BMI进行比较。 成功的指标将是观察到体重或BMI降低。 在一些实例中,施用治疗一次或多次另外的次数,直到达到目标体重或BMI。 或者,可以使用腰围测量,例如腰部、胸围、臀部、大腿或手臂周围的测量。</base:Paragraphs>
+      <base:Paragraphs num="0024">治疗评估可用于确定受试者的未来治疗过程。 例如,治疗可以在不改变的情况下继续,可以在改变的情况下继续（例如,另外的治疗或更积极的治疗）,或可以停止治疗。 治疗方法可以包括一次或多次另外递送冷浆液,例如以维持受试者的肥胖症或增加非震颤热产生以进一步减少受试者的肥胖症。</base:Paragraphs>
+      <base:Paragraphs num="0025">过量脂肪对宿主造成许多局部和全身问题,包括心血管疾病的风险增加,特别是与过量内脏脂肪相关,II型糖尿病和癌症的风险增加,以及由于超重而造成的继发性问题,包括骨骼肌问题、关节炎和运动困难。 已经暗示脂肪组织优先对冷损伤敏感。 婴儿中寒冷诱导的脂肪坏死（一种罕见的临床单位）已被充分描述,并且有时被称为“冰糖脂肪组织炎”。 面颊脂肪组织的炎症发生在婴儿长期舔食冷冻甜点后。 另一个罕见的临床单位,皮下脂肪组织炎,已经描述了在寒冷气候下穿着紧身裤骑马后的妇女。 这些罕见的临床发现表明人脂肪组织可能优先因暴露于寒冷而受损。</base:Paragraphs>
+      <base:Paragraphs num="0026">基于脂肪细胞比皮肤细胞更容易受到冷却损伤的前提,开发了冷却脂肪融化作为破坏脂肪细胞的非外科方法。 将寒冷施加到富含脂质的组织（脂肪）区域以有效地使脂肪细胞结晶并诱导细胞凋亡,这是一种天然细胞死亡。 此外,随后是组织的局部脂肪组织炎或炎症； 这导致由于吞噬作用而进一步去除脂肪细胞（脂肪细胞）。 脂肪组织的丧失可以在寒冷应用后持续4～6周。</base:Paragraphs>
+      <base:Paragraphs num="0027">除了减少脂肪组织之外,冷却的脂肪融化也可以用于减少心外膜脂肪、心包脂肪和内脏脂肪,如美国专利申请号13/574,425和国际申请号PCT/US2015/047292中所述,其全部内容通过引用并入本文。 冷却的脂肪融化的其他应用包括阻塞性睡眠呼吸暂停、脊髓脂肪瘤和脂肪脊髓脑膜瘤的治疗,其也在上述申请中描述。</base:Paragraphs>
+      <base:Paragraphs num="0028">本发明的冷浆疗法还包括将冷浆递送至神经以介导神经的神经作用或去除神经的步骤。 图6示出了位于受试者体内的神经600（虚线）。 神经600可以是例如迷走神经。 冷浆料可以从位于受试者体外的输送装置205输送到神经600处或附近（输送装置205和冷浆料在本公开的末尾更详细地描述）。</base:Paragraphs>
+      <base:Paragraphs num="0029">在图中示出为递送的冷浆料610的冷浆料可以限制神经的神经支配或传导。 可替代地,所递送的冷浆料610的冷却作用可以引起神经600的细胞死亡,从而减小神经600的尺寸或完全移除神经600。 任何机制可用于例如控制疼痛和/或治疗神经病变。 在递送之后,患病区域620扩大到比初始递送部位更大的尺寸（在图中显示为从递送的冷浆料610向外辐射的箭头和尺寸增加的虚线圆圈）。 受影响区域620达到涵盖邻近组织615的一部分的尺寸。</base:Paragraphs>
+      <base:Paragraphs num="0030">所输送的冷浆料610的冷却作用定位于待处理的组织（即,神经600）和周围组织（即,邻近组织615）。 以这种方式,限制了由冷冻疗法引起的任何不适。 冷浆料是无菌的和生物相容的,使得递送的冷浆料610可以方便地保留在身体中（例如,在获得冷却之后不需要移除浆料）。</base:Paragraphs>
+      <base:Paragraphs num="0031">Warler变性,一种轴突变性的主要类型,可能是一种感兴趣的作用机制。 它是指外周神经的远端部分发生的变化,特别是轴突变性及其髓鞘覆盖。 所递送的冷浆料610可以通过治疗部位和其远端处的轴突变性暂时去神经化或限制神经传导,但是无细胞神经结构保持完整并且神经内膜的基底层不受影响。 由于周围神经内部、神经周围和神经上部结构的保留,在数周至数月内,轴突和髓鞘逐渐再生至正常水平。</base:Paragraphs>
+      <base:Paragraphs num="0032">髓鞘是神经细胞的轴突周围的脂肪性白色物质,形成电绝缘层,对于神经通路的适当的功能是必需的。 髓鞘的干燥重量约为70～85%脂质,因此这些细胞作为寒冷浆料递送的结果而能够结晶化,受到凋亡,之后从可能保持完整的轴突除去细胞。 虽然这种机制可以模拟在皮下脂肪组织中发现的机制,但在治疗的神经中髓鞘重塑（髓鞘的产生）预计在大约6周内发生,同时神经通路的功能恢复。</base:Paragraphs>
+      <base:Paragraphs num="0033">所递送的冷浆料610还可以引起神经血管的血管损伤,所述神经血管是向神经600供应血液的血管,这导致严重的神经内水肿。 所递送的冷却浆料610破坏神经结构并引起Warler变性,同时髓鞘和神经内膜保持完整。 此外,局部水肿通过降低的血管通透性而减少,这又减少了炎性介质的释放。</base:Paragraphs>
+      <base:Paragraphs num="0034">神经支配的减少适用于感觉和运动纤维两者,这反过来保持了在感觉和运动障碍中的适用性。 如国际申请号PCT/US2015/047292中所述,也可以通过在神经处或附近递送冷浆液来治疗一些其他神经病症,所述申请通过引用整体并入本文。</base:Paragraphs>
+      <base:Paragraphs num="0035">约320万美国人患有“慢性偏头痛”,其具有偏头痛病史,并且每天持续4小时或更长时间的头痛可被定义为以每月15天或更长时间的患者为特征的明显和严重的神经病变。 将冷浆液递送至内部组织的程序,例如上文参考图6所述的程序,可用于治疗慢性偏头痛。 该程序可以包括将冷浆注射（例如,使用图1中的递送装置205）到位于患者的头部和颈部周围的多个点（例如,七个点）处的肌肉处或附近。 这些肌肉的收缩被认为是偏头痛的诱因。 在肌肉处或附近递送的冷浆液的冷却作用可以使肌肉松弛,然后减轻偏头痛。</base:Paragraphs>
+      <base:Paragraphs num="0036">冷浆液可用于减少或消除与由周围神经病变引起的疼痛障碍相关的症状,所述周围神经病变可与代谢性神经损伤、感染、创伤、遗传因素和/或化学过程相关。 例如,冷浆液可用于减轻患有化疗诱导的周围神经病变或紫杉醇诱导的急性疼痛综合征的患者的疼痛。</base:Paragraphs>
+      <base:Paragraphs num="0037">痉挛是一种肌肉控制障碍,其特征在于僵硬或僵硬的肌肉以及不能控制这些肌肉。 此外,反射可能持续很长时间,并且可能太强（过度活跃反射）。 痉挛是由从中枢神经系统（脑和脊髓）到肌肉的信号不平衡引起的。 这种不平衡经常在患有脑瘫、创伤性脑损伤、中风、多发性硬化和脊髓损伤的人中发现。 可以使用多种冷浆料递送程序来减少或抑制肌肉痉挛。</base:Paragraphs>
+      <base:Paragraphs num="0038">例如,可以向内部递送一定量的冷浆料,以向感觉运动复合体的组分提供冷却作用,所述感觉运动复合体的组分包括肌梭的传入纤维、皮肤受体、锤外肌纤维和神经肌肉接头。 已经发现冷却这些组分会降低痉挛。 在另一个实例中,可以将一定量的冷浆料递送到冷纤维（感测冷刺激的有髓纤维）或其附近。 这些冷纤维的交感神经刺激导致血管收缩,降低肌梭的敏感性,进而降低痉挛。 在又一个实例中,将冷浆料递送到内部组织可用于改变膜的极化。 当感觉末端冷却时,末端变得超极化,从而降低肌梭的释放活性并降低痉挛。</base:Paragraphs>
+      <base:Paragraphs num="0039">冷浆液可用于治疗逼尿肌收缩或膀胱痉挛,其导致急迫性尿失禁（膀胱过度活动症）和紧张性失禁。 递送到腰骶骨脊髓或其附近的冷浆的冷却作用可以减轻对膀胱的副交感神经支配。 这又减少了膀胱不稳定性,同时关闭了尿道的出口。</base:Paragraphs>
+      <base:Paragraphs num="0040">冷浆料可用于治疗导致面部抽搐、抽搐和吸引的面部痉挛。 在第七脑神经或面神经处或附近递送的冷浆液的冷却作用可以限制运动神经支配,这进而可以限制面部痉挛。</base:Paragraphs>
+      <base:Paragraphs num="0041">冷浆液可用于治疗喉痉挛,喉痉挛可能暂时使说话或呼吸困难。 在迷走神经处或附近递送的冷浆液的冷却作用可以限制运动神经支配,这进而可以限制喉痉挛。</base:Paragraphs>
+      <base:Paragraphs num="0042">在内部组织处或附近递送一定量的冷浆液的程序可用于促进肌肉收缩,以用于各种类型的神经源性肌肉无力和肌肉再教育。 在肌肉处或附近递送的冷浆液的冷却作用使肌肉痉挛松弛并使上运动神经元的痉挛性最小化。 这又允许适当的愈合,而痉挛不会干扰愈合过程。</base:Paragraphs>
+      <base:Paragraphs num="0043">冷浆料可用作治疗剂以治疗多汗症/味觉多汗症。 冷浆料可用作其他多汗症治疗的止痛助剂。 例如,冷浆液可用作冷冻无痛剂,以降低在患有局部腋窝多汗症的患者中注射肉毒杆菌毒素时的疼痛强度。 冷浆液也可以用作多汗症的干预,以破坏或抑制顶泌体和/或外分泌汗腺。</base:Paragraphs>
+      <base:Paragraphs num="0044">例如,可以使用将一定量的冷浆液递送到内部组织处或附近的程序来减少术后急性炎症反应。 手术本质上对组织和皮肤有害,并且激活身体对应激和创伤的天然反应。 炎症是身体愈合的尝试,其中红细胞开始炎症过程,白细胞积聚并对抗可能的感染。 炎症是在短时间内愈合所必需的,但是长时间的炎症可能是有害的并且可能延迟愈合过程。</base:Paragraphs>
+      <base:Paragraphs num="0045">将冷浆递送到受损组织处或附近的冷却作用降低了受损组织的温度和代谢速率,从而使血管和血流变窄。 它促进愈合并抑制炎症。 在除去冷浆液（例如,融化）之后,高氧饱和的富营养血液流到受损区域以减少疼痛、瘀伤和肿胀。 有利地,冷浆料递送程序加速了手术的恢复并减少了疤痕和瘢痕组织的形成。</base:Paragraphs>
+      <base:Paragraphs num="0046">冷浆料可用于治疗由创伤性下肢骨折引起的膝部屈曲的限制。 这种骨折后康复通常需要关节运动训练,以解决由骨折引起的膝盖的丢失弯曲或伸展。 通常,接受康复治疗的患者在进行这些训练时具有显著的疼痛。 为了帮助患者应对疼痛,可以将一定量的冷浆液递送到膝盖周围的内部组织,以在训练期间抑制疼痛并减少关节渗出物。 有利地,这种冷浆料输送程序允许患者以较少的疼痛进行关节运动训练,这可以导致更快的恢复。 将一定量的冷浆液递送到内部组织处或附近的程序可用于控制术后疼痛。 因此,冷淤浆疗法可以是硬膜外麻醉或使用可能不必要地成瘾的麻醉止痛剂的替代方案。 例如,可以将一定量的冷浆液递送到切除部位处或附近,以用作局部麻醉剂。 在胸廓切开术的实例中,可以在术中将一定量的冷浆液递送到切口点上方和下方的肋间神经处或附近,以减轻与胸廓切开术相关的术后疼痛。</base:Paragraphs>
+      <base:Paragraphs num="0047">如以上实例中所述,将一定量的冷浆液递送到内部组织处或附近可以是疾病治疗程序的一部分。 在一些这些实例中,所递送的冷浆料的冷却作用可以具有减少与程序相关的术后疼痛的额外益处。 例如,在用于治疗心律失常的肾交感神经去神经手术中,可以将一定量的冷浆液递送到肾动脉壁的神经处或附近（通过血管内导管）。 所递送的冷浆液的冷却作用导致这些神经的细胞死亡。 这是通过射频能量或超声消融神经的替代方案。 然而,与射频或超声消融不同,冷浆料输送程序的冷却效果在减少该程序的疼痛和血管并发症方面具有额外的益处。</base:Paragraphs>
+      <base:Paragraphs num="0048">当用作冷冻治疗剂时,冷冻浆液可以提供对影响传入神经通路的病症的有效治疗反应,所述传入神经通路可以导致发痒、烧伤或疼痛感觉。 可以通过冷浆液递送程序治疗的示例性病症包括但不限于背部感觉错觉、三叉神经痛、幻肢痛、神经种（莫顿神经瘤）、疱疹后神经痛、枕神经痛、紧张性头痛和血管性疼痛。 在一些用于感觉神经的冷浆料递送程序中,冷浆料用于冷冻无痛方法（也称为冷冻神经消融、冷冻镇痛和冷冻神经调节）。 在感觉神经处或附近递送的冷浆液的冷却作用减少了神经的神经支配或传导。 例如,在三叉神经处或附近递送冷浆的冷却作用减少了对三叉神经的感觉神经支配。</base:Paragraphs>
+      <base:Paragraphs num="0049">在用于感觉神经的其他冷浆输送程序中,冷浆用于冷冻消融。 在感觉神经处或附近递送的冷浆液的冷却作用破坏或损伤神经。 例如,为了治疗枕神经痛,将冷浆液递送到枕神经处或其附近,在那里通过所递送的冷浆液的冷却作用来烧灼枕神经。</base:Paragraphs>
+      <base:Paragraphs num="0050">可以通过在患病组织处或附近递送冷浆来治疗各种皮肤病学病症。 例如,冷浆料的冷却作用可以减少与诸如硬化性苔藓、扁平苔藓、特应性皮炎（湿疹）、牛皮癣和结节性痒疹的病症相关的炎症和疼痛。 类似地,冷浆液可用于治疗感觉神经介导的皮肤刺激或发痒/灼热感,包括头皮发痒和外阴发痒。 在这些情况下,冷浆液用作抑制皮肤中感觉神经元活性的止痛剂。 此外,冷浆料可用于减少和/或平坦化瘢痕疙瘩病变、增生性瘢痕形成和其他表层瘢痕形成。 例如,冷浆的冷却作用可以破坏或减少构成疤痕的细胞,从而减少其体积。</base:Paragraphs>
+      <base:Paragraphs num="0051">用冷浆液治疗可以是治疗皮肤病的常规方法的替代方案。 例如,为了治疗湿疹,冷浆液可以是局部抗炎剂的可行替代品。 冷浆治疗也可以是辅助治疗,并且可以与另一种治疗一起使用以增强该治疗的功效。 例如,为了治疗慢性单纯性苔藓,可以在病变处或附近递送冷浆,同时将皮质类固醇施加到病变。</base:Paragraphs>
+      <base:Paragraphs num="0052">冷浆料也可用于治疗与胸膜炎、肺癌、哮喘、肋骨骨折、肌肉撕裂和带状疱疹相关的胸痛。 通过依次处理每个疼痛源,递送到覆盖咽喉和肺内部的组织处或附近的冷浆液的冷却作用可以减少与这些组织的炎症和胸膜炎相关的疼痛。 冷却作用减少了传递到中枢神经系统的疼痛信号。 为了治疗与肺癌相关的疼痛,冷浆液可用作缓解恶性病例的手段。 在肺处或附近递送的冷浆液的冷却作用可以减轻呼吸困难和咳血的症状。</base:Paragraphs>
+      <base:Paragraphs num="0053">为了治疗与哮喘相关的疼痛,在支气管处或附近递送的冷浆液的冷却作用可以引起支气管的短期扩张,导致用力呼气量增加。 此外,冷浆的冷却作用可以对支气管粘膜中的慢性炎症过程具有抑制作用,从而减轻疼痛。 为了治疗与肋骨骨折相关的疼痛,在骨折处或附近递送的冷浆料的冷却作用可以减少来自损伤的炎症反应,从而减轻疼痛。</base:Paragraphs>
+      <base:Paragraphs num="0054">为了治疗与拉伤相关的疼痛,在拉伤的肌肉处或附近递送的冷浆液的冷却作用可以通过延迟神经冲动、通过局部血管狭窄减少炎症以及通过降低细胞代谢速率加速愈合来减少疼痛。 为了治疗与带状疱疹相关的疼痛,在受影响组织处或附近递送的冷浆液的冷却作用可以通过抑制或减少感觉神经活性来减少疼痛和不适。 由于冷浆倾向于加速代谢速率而导致的能量增加； 发生头痛、发烧和发冷的倾向较低； 以及减少对控制症状的药物的依赖性。</base:Paragraphs>
+      <base:Paragraphs num="0055">冷浆液可用于治疗灰泥或尾骨痛。 在尾骨的血管处或附近递送的冷浆料的冷却作用可以引起这些血管的血管收缩。 反过来,它可以减轻疼痛并控制与灰泥症相关的炎症和水肿。</base:Paragraphs>
+      <base:Paragraphs num="0056">冷浆液可用于治疗与背痛和椎间盘突出相关的疼痛（有或没有神经根损伤）。 该冷浆疗法可以与脊髓减压治疗一起使用。 治疗的组合可以为椎间盘突出提供安全和适当的治疗。 其他益处可包括减轻疼痛和头痛的作用以及改善集中力。</base:Paragraphs>
+      <base:Paragraphs num="0057">冷浆可用于治疗与骨关节炎或小面关节综合征相关的疼痛,包括腰骶小面关节综合征和腰椎小面关节综合征。 将冷浆输送到脊柱的两个椎骨之间的关节处或附近可以提供暂时疼痛的减轻。 冷浆料的冷却作用可以使周围肌肉松弛,从而导致不侵权信息的减少。</base:Paragraphs>
+      <base:Paragraphs num="0058">将冷浆递送到内部组织也可用于治疗各种舌部疾病。 例如,可以通过将一定量的冷浆液递送到皮下病变处或附近来治疗血管瘤,所述血管瘤是可以在舌的皮下层中形成的良性血管肿瘤。 白斑,主要是口腔粘膜的白色病变,可以通过将一定量的冷浆液递送到病变处或附近来治疗。 冷浆料递送程序也可用于治疗“口腔灼热综合征”,这是一种通常影响舌头的慢性疼痛障碍。 在该程序中,将一定量的冷浆液递送到舌下神经和迷走神经咽支处或附近。</base:Paragraphs>
+      <base:Paragraphs num="0059">将冷浆料递送到内部组织也可用于冷冻切割。 该程序涉及施加闭塞止血带以隔离患者的受影响的肢体,并将冷浆料递送到受影响的内部组织（例如,使用图1的递送装置205）。 这使四肢冷却,并且可以在对患者进行医学优化之后进行正式切割。 例如,可以使患有引起血液动力学不稳定的四肢坏疽或坏死感染的患者复苏,然后通过使用冷冻切割将感染与循环隔离来进行切割。</base:Paragraphs>
+      <base:Paragraphs num="0060">通过上述用于将冷浆递送到受影响肢体的内部组织的技术,可以在医学优化后等待进行高风险紧急切割。 有利地,患者可以适当地复苏,并且可以安全地延迟切割,直到患者足够稳定以耐受非紧急手术。</base:Paragraphs>
+      <base:Paragraphs num="0061">将冷浆液递送到内部组织也可用于治疗多种癌症。 例如,原发性皮肤B细胞淋巴瘤、光化性角化病（癌前样皮肤生长）、鳞状细胞癌和基底细胞癌和结膜淋巴瘤可以通过在相应病变处或附近递送一定量的冷浆液来治疗。 在一些实例中,冷浆料输送程序可以提供优于常规方法的替代方案。 例如,用于治疗结膜淋巴瘤的冷冻疗法为放射疗法提供了低成本的替代方案,具有较少的眼部和全身并发症。</base:Paragraphs>
+      <base:Paragraphs num="0062">在诸如汽车碰撞的事故之后,受伤的人可能遭受软组织损伤、骨折、出血和/或内脏和血管撕裂。 如果不治疗,这些创伤性损伤可能导致严重的残疾和死亡。 创伤性损伤可以使用将冷浆料递送到受损组织处或附近的程序来治疗。 将冷浆料输送到受损区域处或附近（例如,使用图1中的输送装置205）导致血管收缩并降低局部组织温度。 其次,血管收缩减少流向受损区域的血流并限制出血,而减少的局部细胞代谢防止细胞死亡。 这种冷浆料递送程序也可用于其他创伤性损伤,包括钝性创伤、穿透性创伤和烧伤。 例如,冷浆料递送程序可用于减少肿胀/水肿、反应性充血或降低肌肉效率。 由于神经肌肉传递障碍,冷浆液的递送也可以具有镇痛作用。</base:Paragraphs>
+      <base:Paragraphs num="0063">冷冻疗法利用了通过冷冻和融化来诱导组织破坏的原理,例如分别使用氩气和氦气。 消融程序在老年患者、患有合并症的患者或患有单肾病或肾损伤中的小直径肾肿块(SRM)的患者中特别有用。 消融治疗具有较少的治疗相关并发症和有前景的中期肿瘤学结果。 长期的结果正在累积。 冷冻疗法可能是比射频消融(RFA)更好的肿瘤控制方式。 消融治疗已成为SRM的可行治疗选择,其无复发生存率接近切除手术的生存率。</base:Paragraphs>
+      <base:Paragraphs num="0064">纤维腺瘤是在青春期少女和30岁以下女性中最常见的实体非癌性乳腺肿瘤。 纤维腺瘤是年轻女性中最常见的乳房肿瘤之一。 治疗可包括监测以检测纤维腺瘤的大小或感觉的变化、活检以评估肿块或手术以移除肿块。</base:Paragraphs>
+      <base:Paragraphs num="0065">将冷浆液递送到纤维腺瘤处或附近的程序是诸如肿瘤切除术的手术的微创非手术替代方案。 该程序在纤维腺瘤处或附近递送冷浆液,以破坏或减小纤维腺瘤的尺寸。 该程序可以包括在超声引导下递送冷浆料（例如,使用图1中的递送装置205）。 该程序还可以包括通过第一次递送冷浆来冷冻纤维腺瘤,使纤维腺瘤融化,然后通过第二次递送冷浆来再冷冻融化的纤维腺瘤。 这一系列冷冻、融化和冷冻可以帮助破坏或减小纤维腺瘤的大小。 上述程序也可用于乳腺肿瘤。</base:Paragraphs>
+      <base:Paragraphs num="0066">众所周知,低体温可以延迟由不适当的血液供应和氧气耗尽引起的对组织的损伤。 体温过低的潜在保护特性的一个重要实例是心脏骤停领域。 心脏细胞从严重缺血中存活的能力可以通过短暂的低体温而显著增强。 将冷浆液施加到心脏以及其他组织可以减少由缺血组织的突然再灌注引起的组织损伤。</base:Paragraphs>
+      <base:Paragraphs num="0067">冷浆液可以通过胃肠道递送以冷却胃肠道附近的器官,包括肺、心脏、肾、膀胱和脾。 人类消化道可分为上消化道和下消化道。 上消化道包括口、食道、胃和十二指肠。 作为消化道的起点的口部限定了第一冷浆料输送程序的进入点。 在该程序中,将适当尺寸的管或导管插入患者的嘴中并推进到上消化道中,直到管/导管到达患者的嘴和十二指肠之间的期望位置。 一旦到达,就可以输送一定量的冷浆料（例如,使用连接到管/导管的图1的输送装置205）,从而冷却与输送位置相邻的器官。</base:Paragraphs>
+      <base:Paragraphs num="0068">胃肠道包括小肠和大肠,大肠还包括结肠、直肠和肛门。 作为消化道的末端的肛门限定了第二冷浆料递送程序的进入点。 在该程序中,将适当尺寸的管或导管插入患者的肛门中并推进到下消化道中,直到管/导管到达患者肛门和十二指肠之间的期望位置。 一旦到达,就可以输送一定量的冷浆料（例如,使用连接到管/导管的图1的输送装置205）,从而冷却与输送位置相邻的器官。</base:Paragraphs>
+      <base:Paragraphs num="0069">使用哪种冷浆液递送程序的选择可以基于作为冷却目标的器官。 当选择使用哪种冷浆料输送程序时,也可以考虑其他因素,例如患者舒适度。 如上所述,通过消化道递送冷浆料是有利的,因为消化道是患者体内穿过许多器官附近的天然导管。 这些器官中的一些器官难以从患者外部到达（例如,由于位置和/或与其他器官的近端性）。 因此,通过胃肠道递送冷浆液的程序可以是冷却体腔的方便方法。</base:Paragraphs>
+      <base:Paragraphs num="0070">动脉粥样硬化或动脉硬化是由动脉中斑块（脂肪沉积物、钙沉积物和瘢痕组织）的增加引起的。 如果不治疗,动脉粥样硬化可能导致心脏病发作或中风,这是美国男性和女性死亡和残疾的两大原因。 该手术可包括血管内支架手术,其中将称为血管内支架的小金属丝网管放置在患病动脉中,以纠正由斑块阻塞的动脉狭窄。</base:Paragraphs>
+      <base:Paragraphs num="0071">当将血管内支架放置在受影响的动脉中时,可能存在斑块的一部分从动脉壁脱落并阻塞动脉的风险。 不幸的是,这可能导致患者在血管内支架手术期间心脏病发作或中风。 为了防止这种风险,可以使用在放置支架之前递送冷浆料以使斑块硬化的程序。 该程序包括使在其末端具有收缩球囊的导管穿过患者胯部之间的切口到达受影响的血管。 整个过程可以通过荧光镜观察。 然后用冷浆料填充球囊,从而使球囊膨胀并使斑块与血管壁接触。 然后将输送的冷浆料冷却以固化板。</base:Paragraphs>
+      <base:Paragraphs num="0072">在斑块冷却和硬化之后,使球囊塌缩（例如,通过熔化或除去冷浆料）以从患者移除导管。 接着,通过同一切口部位,利用在其前端的支架内具有收缩球囊的另一导管,将血管内支架穿到受影响的血管。 将球囊导管引导到闭塞区域,使球囊膨胀,并且使支架膨胀并压靠在血管壁上的冷却和硬化的斑块上。 然后使球囊收缩并从血管中取出。 支架永久地留在血管中,以使血管壁保持开放,并允许血液自由通过,如在正常工作的健康动脉的情况下。 细胞和组织开始生长,直到其内表面覆盖在支架上。 以这种方式,支架成为功能动脉的永久部分。</base:Paragraphs>
+      <base:Paragraphs num="0073">在手术的一个简单示例中,可以使用单个导管来递送冷浆料并将支架放置在血管中。 有利地,这样的示例可以减少执行该过程所需的时间。</base:Paragraphs>
+      <base:Paragraphs num="0074">如前所述,图1的输送装置205可用于将冷浆料输送到内部组织。 更具体地,输送装置205可以例如通过输送装置205中的叶片的旋转、使用振动或这两者来向临床环境中的冷浆料提供持续搅动。 冷浆料容易在输送装置205上滑动,并且可以通过使用在临床环境中提供冷却的小轮廓冷却套筒来冷却/继续冷却输送装置205的内部。 冷却套可以通过诸如提供冷藏剂、诱导吸热反应和压缩气体的几种机制来冷却冷浆料或保持冷浆料的温度。 递送装置的其它实例描述于2016年2月26日提交的美国临时专利申请序列号62/300,679和2016年11月2日提交的美国临时专利申请序列号62/416484中,其全部内容并入本文。</base:Paragraphs>
+      <base:Paragraphs num="0075">冷浆料可以由可以被冷却以提供冷浆料的任何无菌生物相容性流体制成。 通过向输送装置205提供流体并在搅拌流体的同时在输送装置205中冷却流体,可以在输送装置205本身中产生冷浆料。 冷浆料也可以在单独的室中产生,然后转移到输送装置205。 用于制备冷浆料的设备和用于制备冷浆料的方法的其他实例也描述于美国临时专利申请序列号62/416484中。</base:Paragraphs>
+      <base:Paragraphs num="0076">优选地,流体的温度被冷却至约10℃、7℃、5℃、4℃、3℃、2℃、1℃、0℃、-1℃、-2℃、-3℃、-4℃、-5℃、-10℃、-15℃、-20℃、-30℃、-40℃和-50℃或更低。 所产生的冷浆料具有多个无菌冰颗粒,并且适合于递送至受试者。 示例性浆料组成、浆料温度和冰颗粒横截面尺寸描述于美国临时专利申请序列号62/300,679； 和国际申请PCT/US 2015/047292和PCT/US 2015/047301中提供。 应当理解,根据本发明的冷浆料的优点是冷浆料的组成适合于递送到体内组织,使得浆料可以被递送到患者体内的组织并保留在体内（例如,在已经发生冷却之后不需要去除浆料）。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="80" wi="52" file="2020516418_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="53" wi="53" file="2020516418_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="66" wi="59" file="2020516418_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="70" wi="61" file="2020516418_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="50" wi="43" file="2020516418_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="53" wi="54" file="2020516418_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种在受试者的棕色脂肪组织中诱导非颤抖热产生的方法,所述方法包括将有效量的冷浆液递送至受试者体内的组织。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的方法,其中,被输送所述冷浆料的所述内部组织与包含冷热感受器的组织相邻。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述寒冷浆料被输送至的所述内部组织包括寒冷热感受器。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求3所述的方法,其中,具有所述冷热感受器的所述内部组织为脂肪组织、结肠组织、腹部组织和下丘脑组织中的任一种。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的方法,其中所述递送包括使用注射器注射所述冷浆料。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的方法,其中所述递送包括通过导管递送所述冷浆料。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1所述的方法,还包括在用于输送所述冷浆料的注射器中制备所述冷浆料的步骤。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1所述的方法,其还包括施用所述有效量的冷浆液以治疗肥胖或体重相关病症的步骤。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>如权利要求8所述的方法,其特征在于,还包括选择投予所述寒冷浆料的对象的步骤。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求8所述的方法,其中,还包括对投予所述寒冷浆料的结果进行评估的步骤。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>将有效量的冷浆料, 周围神经、自主神经、躯体神经、副交感神经、交感神经、中间神经元、颈丛神经、臂丛神经、腰丛神经、骶丛神经、枕丛神经、腹腔丛神经、奥尔巴赫丛神经、迈斯纳丛神经、枕小神经、耳廓大神经、颈横神经、颈神经、锁骨上神经、膈神经、肌皮神经、腋窝神经、桡神经、正中神经、尺神经、髂下腹神经、髂腹股沟神经、股阴神经、股外侧神经、股股神经、闭合神经、臀上神经、臀下神经、股后神经、胫神经、腓骨（腓骨侧）神经、阴部神经、坐骨神经、基座神经（pedestal nerve）、肋间下神经（pedestal nerve）、下肋间神经（pedestal nerve）、</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>将有效量的冷浆液递送至周围神经的神经周髓鞘。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000009" file="2020516418_000009.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

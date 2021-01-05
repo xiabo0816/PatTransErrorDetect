@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102020000017954JP00020200924340AFULJA20200611JP00M.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020092434" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092434</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092434</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102020000017954</base:DocNumber>
+        <base:Date>20200205</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020017954</base:DocNumber>
+        <base:Date>20200205</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>62/110,164</base:DocNumber>
+        <base:Date>20150130</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>62/165,823</base:DocNumber>
+        <base:Date>20150522</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="3">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>15/009,804</base:DocNumber>
+        <base:Date>20160128</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002015000110164</base:DocNumber>
+        <base:Date>20150130</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002015000165823</base:DocNumber>
+        <base:Date>20150522</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="3">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102016000009804</base:DocNumber>
+        <base:Date>20160128</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20090101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>74</business:MainGroup>
+        <business:Subgroup>08</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W  74/08        20090101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20090101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>28</business:MainGroup>
+        <business:Subgroup>06</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W  28/06        20090101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20090101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>72</business:MainGroup>
+        <business:Subgroup>04</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W  72/04        20090101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>27</business:MainGroup>
+        <business:Subgroup>26</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04L  27/26        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20180101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>70</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W   4/70        20180101ALN20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H04W74/08</business:FI>
+      <business:FI type="secondary">H04W28/06 110</business:FI>
+      <business:FI type="secondary">H04W72/04 136</business:FI>
+      <business:FI type="secondary">H04L27/26 420</business:FI>
+      <business:FI type="secondary">H04L27/26 113</business:FI>
+      <business:FI type="additional">H04W4/70</business:FI>
+      <business:FClass>
+        <business:FTerm>5K067AA22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067CC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067CC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067DD11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067JJ13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5K067</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">用于机器类型通信(MTC)的随机接入过程和广播优先级排序</business:InventionTitle>
+    <business:RelatedDocuments>
+      <business:Division>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1" lang="ja">
+              <base:DocNumber>2017540087</base:DocNumber>
+              <base:Date>20160129</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Division>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>クゥアルコム・インコーポレイテッド</base:Name>
+            <base:RegisteredNumber>595020643</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マドハバン・スリニバサン・バジャペヤム</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ハオ・シュ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ピーター・ガール</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ワンシ・チェン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アルベルト・リコ・アルバリーニョ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="6" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>セイエド・アリ・アクバル・ファクーリアン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>蔵田  昌俊</base:Name>
+            <base:RegisteredNumber>100108855</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>井関  守三</base:Name>
+            <base:RegisteredNumber>100158805</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>岡田  貴志</base:Name>
+            <base:RegisteredNumber>100112807</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>40</business:ClaimsCount>
+      <base:TotalPageCount>56</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供了用于机器类型通信(MTC)设备和增强型MTC（eMTC）中的广播传输的随机接入过程和/或优先级划分的技术和装置。 所述技术包括：确定UE可以在其中向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧,确定多个子帧内用于发送集束RACH消息的至少一个窄带区域,确定集束RACH消息的集束大小,以及至少部分地基于所确定的集束大小来在多个子帧的窄带区域中发送集束RACH消息,其中所述集束大小指示在其上发送集束RACH消息的多个子帧的数量。 图6</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="97" wi="66" file="2020092434_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本申请要求2015年1月30日提交的美国临时申请No.62/110,164、2015年5月22日提交的美国临时申请No.62/165,823和2016年1月28日提交的美国专利申请No.15/009,804的权益,所有这三个申请都转让给本申请的受让人并且通过引用明确地并入本文。</base:Paragraphs>
+      <base:Paragraphs num="0002">[0002]概括地说,本公开内容的某些方面涉及无线通信,并且更具体地,涉及机器类型通信(MTC)设备和增强型或演进型MTC（eMTC）中的广播传输的随机接入过程和/或优先级划分。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0003">[0003]无线通信系统被广泛部署以提供各种类型的通信内容,诸如语音、数据等。 这些系统可以是能够通过共享可用系统资源（例如,带宽和发射功率）来支持与多个用户的通信的多址系统。 这种多址系统的示例包括码分多址(CDMA)系统、时分多址(TDMA)系统、频分多址(FDMA)系统、第三代合作伙伴计划（3GPP）LTE（包括长期演进(LTE)高级系统）、以及正交频分多址(OFDMA)系统。</base:Paragraphs>
+      <base:Paragraphs num="0004">[0004]通常,无线多址通信系统可以同时支持多个无线终端的通信。 每个终端经由前向链路和反向链路上的传输与一个或多个基站进行通信。 前向链路（或下行链路）是指从基站到终端的通信链路,而反向链路（或上行链路）是指从终端到基站的通信链路。 该通信链路可以经由单输入单输出、多输入单输出或多输入多输出(MIMO)系统来建立。</base:Paragraphs>
+      <base:Paragraphs num="0005">[0005]无线通信网络可以包括能够支持多个无线设备的通信的多个基站。 无线设备可以包括用户装备(UE)。 一些UE可以被认为是机器类型通信(MTC)UE,其可以包括可以与基站、另一个远程设备或某个其它实体通信的远程设备。 机器类型通信(MTC)可以指代涉及在通信的至少一个端部上的至少一个远程设备的通信,并且可以包括涉及不一定需要人类交互的一个或多个实体的数据通信的形式。 MTC UE可以包括能够例如经由公共陆地移动网络(PLMN)与MTC服务器和/或其它MTC设备进行MTC通信的UE。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <base:Paragraphs num="0006">[0006]本公开内容的系统、方法和设备各自具有若干方面,其中的单个方面不单独地负责其期望的属性。 在不限制由所附权利要求表示的本公开的范围的情况下,现在将简要描述一些特征。 在考虑该描述之后,并且特别是在阅读标题为“具体实施方式”的部分之后,将理解本公开的特征如何提供包括无线网络中的接入点与站之间的改进的通信的优点。</base:Paragraphs>
+      <base:Paragraphs num="0007">[0007]本文提供了用于MTC和增强型MTC（eMTC）中的广播传输的随机接入过程和/或优先级划分的技术和装置。 MTC/eMTC设备包括诸如传感器、仪表、监视器、位置标签、无人机、跟踪器、机器人/机器人设备等的设备。 MTC/eMTC设备可以被实现为万物联网（IoE）设备或物联网（IoT）设备（例如,窄带IoT（NB-IoT）设备）。 为了增强某些设备（诸如MTC设备）的覆盖,可以利用“捆绑”,其中某些传输作为传输束发送,例如,在多个子帧上发送相同的信息。 本公开内容的某些方面涉及确定用于在随机接入过程期间交换的消息的资源和/或捆绑大小。</base:Paragraphs>
+      <base:Paragraphs num="0008">[0008]本公开内容的某些方面提供了一种用于由用户装备(UE)进行无线通信的方法。 该方法通常包括：确定UE可以在其中向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧,确定多个子帧内的用于发送RACH消息的至少一个窄带区域,以及确定RACH消息的集束大小。 捆绑尺寸表示发送RACH消息的多个子帧的数量。 该方法还包括：至少部分地基于所确定的集束大小,在多个子帧的窄带区域中发送RACH消息。</base:Paragraphs>
+      <base:Paragraphs num="0009">[0009]本公开内容的某些方面提供了一种用于无线通信的装置。 该装置通常包括：用于确定该装置可以在其中向BS发送集束RACH消息的多个子帧的单元,用于在多个子帧内确定用于发送RACH消息的至少一个窄带区域的单元,以及用于确定RACH消息的集束大小的单元。 捆绑尺寸表示发送RACH消息的多个子帧的数量。 该装备还包括：用于至少部分地基于所确定的集束大小来在多个子帧的窄带区域中发送RACH消息的单元。</base:Paragraphs>
+      <base:Paragraphs num="0010">[0010]本公开内容的某些方面提供了一种用于无线通信的装置。 该装置通常包括至少一个处理器,该至少一个处理器被配置为：确定该装置可以在其中向BS发送集束RACH消息的多个子帧,确定多个子帧内的用于发送RACH消息的至少一个窄带区域,以及确定RACH消息的集束大小。 捆绑尺寸表示发送RACH消息的多个子帧的数量。 该装置还可包括发射机,该发射机被配置成至少部分地基于所确定的集束大小在多个子帧的窄带区域中传送RACH消息。 该装置可以进一步包括耦合到至少一个处理器的存储器。</base:Paragraphs>
+      <base:Paragraphs num="0011">[0011]本公开内容的某些方面提供了一种其上存储有计算机可执行代码的计算机可读介质。 所述计算机可执行代码通常包括：用于确定UE可以在其中向BS发送集束RACH消息的多个子帧的代码,用于在所述多个子帧内确定用于发送RACH消息的至少一个窄带区域的代码,以及用于确定RACH消息的集束大小的代码。 捆绑尺寸表示发送RACH消息的多个子帧的数量。 所述计算机可执行代码还包括：用于至少部分地基于所确定的集束大小来在多个子帧的窄带区域中发送RACH消息的代码。</base:Paragraphs>
+      <base:Paragraphs num="0012">[0012]本公开内容的某些方面提供了一种用于由BS进行无线通信的方法。 该方法通常包括：确定UE可以在其中向BS发送集束RACH消息的多个子帧,确定多个子帧内的用于接收RACH消息的至少一个窄带区域,以及确定RACH消息的集束大小。 捆绑大小指示UE在其上发送RACH消息的多个子帧的数量。 该方法还包括：至少部分地基于所确定的集束大小,在多个子帧的窄带区域中接收RACH消息。</base:Paragraphs>
+      <base:Paragraphs num="0013">[0013]本公开内容的某些方面提供了一种用于无线通信的装置。 该装备通常包括：用于确定UE可以在其中向该装备发送集束RACH消息的多个子帧的单元,用于确定多个子帧内的用于接收RACH消息的至少一个窄带区域的单元,以及用于确定RACH消息的集束大小的单元。 捆绑大小指示UE在其上发送RACH消息的多个子帧的数量。 该装备还包括用于至少部分地基于所确定的集束大小来在多个子帧的窄带区域中接收RACH消息的装置。</base:Paragraphs>
+      <base:Paragraphs num="0014">[0014]本公开内容的某些方面提供了一种用于无线通信的装置。 该装置通常包括至少一个处理器,该至少一个处理器被配置为：确定UE可以在其中向该装置发送集束RACH消息的多个子帧,确定多个子帧内的用于接收RACH消息的至少一个窄带区域,以及确定RACH消息的集束大小。 捆绑大小指示UE在其上发送RACH消息的多个子帧的数量。 该装置还可包括接收机,该接收机被配置成至少部分地基于所确定的集束大小来在多个子帧的窄带区域中接收RACH消息。 该装置可以进一步包括耦合到至少一个处理器的存储器。</base:Paragraphs>
+      <base:Paragraphs num="0015">[0015]本公开内容的某些方面提供了一种其上存储有计算机可执行代码的计算机可读介质。 所述计算机可执行代码通常包括：用于确定UE可以在其中向BS发送集束RACH消息的多个子帧的代码,用于在所述多个子帧内确定用于接收RACH消息的至少一个窄带区域的代码,以及用于确定RACH消息的集束大小的代码。 捆绑大小指示UE在其上发送RACH消息的多个子帧的数量。 所述计算机可执行代码还包括：用于至少部分地基于所确定的集束大小来在多个子帧的窄带区域中接收RACH消息的代码。</base:Paragraphs>
+      <base:Paragraphs num="0016">[0016]本公开内容的某些方面提供了一种用于无线通信的方法。 该方法通常包括：从RACH前导码集合中选择RACH前导码,发送包括RACH前导码的物理RACH(PRACH)消息,至少部分地基于RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源,以及在RAR资源上接收RAR消息。</base:Paragraphs>
+      <base:Paragraphs num="0017">[0017]本公开内容的某些方面提供了一种用于无线通信的方法。 该方法通常包括：接收包括RACH前导码的PRACH消息,以及至少部分地基于RACH前导码来选择用于发送RAR消息的RAR资源。</base:Paragraphs>
+      <base:Paragraphs num="0018">[0018]本公开内容的某些方面提供了一种用于无线通信的装置。 该装置通常包括：用于从RACH前导码集合中选择RACH前导码的单元,用于发送包括RACH前导码的PRACH消息的单元,用于至少部分地基于RACH前导码来确定用于接收RAR消息的RAR资源的单元,以及用于在RAR资源上接收RAR消息的单元。</base:Paragraphs>
+      <base:Paragraphs num="0019">[0019]本公开内容的某些方面提供了一种用于无线通信的装置。 该装置通常包括：用于接收包括RACH前导码的PRACH消息的单元,以及用于至少部分地基于RACH前导码来选择用于发送RAR消息的RAR资源的单元。</base:Paragraphs>
+      <base:Paragraphs num="0020">[0020]本公开内容的某些方面提供了一种用于无线通信的装置。 该装置包括至少一个处理器、耦合到该至少一个处理器的存储器、发射机和接收机。 所述至少一个处理器被配置为：从RACH前导码集合中选择RACH前导码,经由发射机发送包括RACH前导码的PRACH消息,至少部分地基于RACH前导码来确定用于接收RAR消息的RAR资源,以及经由接收机在RAR资源上接收RAR消息。</base:Paragraphs>
+      <base:Paragraphs num="0021">[0021]本公开内容的某些方面提供了一种用于无线通信的装置。 该装置包括至少一个处理器、耦合到该至少一个处理器的存储器、以及接收机。 接收器被配置为接收包括RACH前导码的PRACH消息。 所述至少一个处理器被配置为至少部分地基于RACH前导码来选择用于发送RAR消息的RAR资源。</base:Paragraphs>
+      <base:Paragraphs num="0022">[0022]本公开内容的某些方面提供了一种用于无线通信的方法。 该方法通常包括：选择用于PRACH消息的捆绑大小,至少部分地基于捆绑大小来确定用于PRACH消息传输的PRACH资源,以及使用PRACH资源来发送PRACH消息。</base:Paragraphs>
+      <base:Paragraphs num="0023">[0023]在一些方面,PRACH资源可以包括载波带宽的窄带频域。 确定PRACH资源可以包括：至少部分地基于捆绑大小,从窄带频域集合中确定窄带频域。 该方法还可以包括从系统信息广播消息中识别窄带频域集合。 该方法还可以包括选择RACH前导码,其中,PRACH资源独立于RACH前导码来确定,并且其中,PRACH消息包括RACH前导码。</base:Paragraphs>
+      <base:Paragraphs num="0024">[0024]在一些方面,PRACH资源可以包括RACH前导码。 确定PRACH资源可以包括：至少部分地基于捆绑大小,从RACH前导码集合中确定RACH前导码。 该方法还可以包括独立于RACH前导码来选择用于PRACH消息传输的载波带宽的窄带频域。 在一些情况下,确定RACH前导码可以包括从RACH前导码集合中随机地选择RACH前导码。</base:Paragraphs>
+      <base:Paragraphs num="0025">[0025]该方法还可以包括：至少部分地基于捆绑大小来确定PRACH消息的起始传输时间。 确定起始传输时间可包括从起始传输时间集合中随机选择起始传输时间。</base:Paragraphs>
+      <base:Paragraphs num="0026">[0026]该方法还可以包括：选择PRACH消息的发射功率。 可以至少部分地基于所选择的发射功率来确定PRACH资源。</base:Paragraphs>
+      <base:Paragraphs num="0027">[0027]本公开内容的某些方面提供了一种用于无线通信的方法。 该方法通常包括：接收利用第一PRACH资源发送的PRACH消息,以及至少部分地基于用于PRACH消息的第一PRACH资源,确定用于PRACH消息的第二PRACH资源。 第一或第二PRACH消息可以包括RACH前导码、PRACH消息捆绑大小、窄带频率资源或起始传输时间中的至少一个。</base:Paragraphs>
+      <base:Paragraphs num="0028">[0028]提供了许多其他方面,包括方法、装置、系统、计算机程序产品、计算机可读介质和处理系统。 为了实现前述和相关目的,一个或多个方面包括下文充分描述并在权利要求中特别指出的特征。 以下描述和附图详细阐述了一个或多个方面的某些说明性特征。 然而,这些特征仅指示可以采用各个方面的原理的各种方式中的一些,并且该描述旨在包括所有这样的方面及其等同物。</base:Paragraphs>
+      <base:Paragraphs num="0029">[0029]为了可以详细理解本公开内容的上述特征的方式,可以通过参考各方面来获得上面简要概述的更具体的描述,其中一些方面在附图中示出。 然而,应注意,附图仅说明本发明的某些典型方面,且因此不应被视为限制本发明的范围,因为所述描述可允许其它等效方面。</base:Paragraphs>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0030">
+        <base:FigureReference num="0001">图0001是根据本公开内容的某些方面概念性地示出示例无线通信网络的框图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是概念性地示出根据本公开内容的某些方面的在无线通信网络中与用户装备(UE)处于通信的演进型节点B（eNB）的示例的框图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是根据本公开内容的某些方面概念性地示出供在无线通信网络中使用的特定无线电接入技术(RAT)的示例帧结构的框图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004示出了根据本公开内容的某些方面的用于具有正常循环前缀的下行链路的示例性子帧格式。</base:FigureReference>
+        <base:FigureReference num="5A">图5A是解说根据本公开的某些方面的诸如长期演进(LTE)之类的宽带系统中的机器类型通信(MTC)共存的示例的示图。</base:FigureReference>
+        <base:FigureReference num="5B">图5B示出了根据本公开内容的某些方面的宽带系统（诸如长期演进(LTE)）内的机器类型通信(MTC)共存的示例。</base:FigureReference>
+        <base:FigureReference num="0006">图0006示出了根据本公开内容的某些方面的用于由UE进行无线通信的示例操作。</base:FigureReference>
+        <base:FigureReference num="0007">图0007示出了根据本公开内容的某些方面的用于由BS进行无线通信的示例操作。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是解说用于MTC和/或eMTC中的随机接入过程的呼叫流的示例的图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0031">[0038]为了便于理解,在可能的情况下,已经使用相同的附图标记来表示附图共有的相同元件。 预期在一个实施例中公开的元件可以有利地用于其他实施例,而无需另外描述。</base:Paragraphs>
+      <base:Paragraphs num="0032">[0039]本公开内容的方面提供了可以由在机器类型通信(MTC)和/或eMTC中操作的设备使用的随机接入过程。 如下面更详细描述的,本文给出的技术可以允许MTC和/或eMTC的设备确定（和/或适配）在随机接入过程中使用的一个或多个集束消息（例如,随机接入信道(RACH)前导码、随机接入响应消息、连接请求消息、和/或竞争解决消息）的位置、定时、和/或大小。 还如下面更详细描述的,本文给出的方面还可以提供用于在MTC和/或eMTC中对广播传输进行优先级划分的技术。</base:Paragraphs>
+      <base:Paragraphs num="0033">[0040]本公开内容的方面提供了用于具有有限通信资源的设备（诸如MTC设备（例如,低成本MTC设备、低成本eMTC设备））的技术。 低成本MTC设备可以在特定无线电接入技术(RAT)（例如,长期演进(LTE)等）中与其它传统设备共存,并且可以在从由特定RAT支持的可用系统带宽中划分出的一个或多个窄带区域上操作。 低成本MTC设备还可以支持各种操作模式,诸如覆盖增强模式（例如,可以在多个子帧上捆绑或发送相同消息的重复）、正常覆盖模式（例如,可以不发送重复）等。</base:Paragraphs>
+      <base:Paragraphs num="0034">[0041]本文描述的技术可以用于各种无线通信网络,诸如码分多址(CDMA)网络、时分多址(TDMA)网络、频分多址(FDMA)网络、正交FDMA(OFDMA)网络、单载波FDMA（SC-FDMA）网络等等。 术语“网络”和“系统”通常可互换地使用。 CDMA网络可以实现诸如通用陆地无线电接入(UTRA)、cdma2000等的无线电技术。 UTRA包括宽带CDMA（W-CDMA）、时分同步CDMA（TD-SCDMA）和CDMA的其它变型。 cdma2000涵盖IS-2000、IS-95和IS-856标准。 TDMA网络可以实现诸如全球移动通信系统(GSM)之类的无线电技术。 OFDMA网络可以实现诸如演进型UTRA（E-UTRA）、超移动宽带(UMB)、IEEE 802.11（Wi-Fi）、IEEE 802.16（WiMAX）、IEEE 802.20、Flash-OFDM等的无线电技术。 UTRA和E-UTRA是通用移动电信系统(UMTS)的一部分。 频分双工(FDD)和时分双工(TDD)中的3GPP长期演进(LTE)和LTE-高级（LTE-A）是使用E-UTRA的UMTS的新版本,E-UTRA在下行链路上利用OFDMA并且在上行链路上利用SC-FDMA。 在来自名为“第三代合作伙伴计划”（3GPP）的组织的文档中描述了UTRA、E-UTRA、UMTS、LTE、LTE-A和GSM。 在来自名为“第三代合作伙伴计划2”（3GPP2）的组织的文档中描述了cdma2000和UMB。 本文描述的技术可以用于上述无线网络和无线电技术以及其它无线网络和无线电技术。 为了清楚起见,下文关于LTE/LTE-A来描述这些技术的某些方面,并且在下文大部分描述中使用LTE/LTE-A术语。 LTE和LTE-A通常被称为LTE。</base:Paragraphs>
+      <base:Paragraphs num="0035">[0042]图1示出了具有基站(BS)和用户装备(UE)的示例性无线通信网络100,其中可以实践本公开内容的方面。 例如,无线通信网络100中的一个或多个UE（例如,低成本MTC UE、低成本eMTC UE等）可以利用随机接入过程来发起与无线通信网络中的一个或多个BS的通信,如下面更详细描述的。</base:Paragraphs>
+      <base:Paragraphs num="0036">[0043]根据本文给出的技术,无线通信网络100中的eNB 110和UE 120可以能够针对在随机接入过程中使用的集束消息中的每一个来确定（和/或适配）集束消息的位置（例如,来自可用系统带宽的可用于集束消息的一个或多个窄带区域）、定时（例如,可用于集束消息的一个或多个子帧）、和/或大小（例如,可用于集束消息的一个或多个子帧的数量）。 此外,根据各个方面,可以根据本文呈现的技术,对可以在无线通信网络100中使用的MTC和/或eMTC中的一个或多个广播传输进行优先级排序。</base:Paragraphs>
+      <base:Paragraphs num="0037">[0044]无线通信网络100可以是LTE网络或某种其它无线网络。 无线通信网络100可以包括多个演进型节点B（eNB）110和其它网络实体。 eNB是与用户装备(UE)通信的实体,并且还可以被称为基站、节点B、接入点(AP)等。 每个eNB可以为特定地理区域提供通信覆盖。 在3GPP中,取决于使用该术语的上下文,术语“小区”可以指代eNB的覆盖区域和/或服务该覆盖区域的eNB子系统。</base:Paragraphs>
+      <base:Paragraphs num="0038">[0045]eNB可以为宏小区、微微小区、毫微微小区和/或其它类型的小区提供通信覆盖。 宏小区可以覆盖相对较大的地理区域（例如,半径为数千米）,并且可以允许具有服务订阅的UE进行不受限制的接入。 微微小区可以覆盖相对较小的地理区域,并且可以允许具有服务订阅的UE进行不受限制的接入。 毫微微小区可以覆盖相对较小的地理区域（例如,家庭）,并且可以允许有约束地由与毫微微小区具有关联的UE（例如,封闭订户组(CSG)中的UE）接入。 用于宏小区的eNB可以被称为宏eNB。 用于微微小区的eNB可以被称为微微eNB。 用于毫微微蜂窝小区的eNB可被称为毫微微eNB或家庭eNB（HeNB）。 在图1所示的示例中,eNB 110a可以是用于宏小区102a的宏eNB,eNB 110b可以是用于微微小区102b的微微eNB,并且eNB 110c可以是用于毫微微小区102c的毫微微eNB。 eNB可以支持一个或多个（例如,三个）蜂窝小区。 术语“eNB”、“基站”和“小区”在本文中可以互换使用。</base:Paragraphs>
+      <base:Paragraphs num="0039">[0046]无线通信网络100还可以包括中继站。 中继站是可以从上游站（例如,eNB或UE）接收对数据的传输并且向下游站（例如,UE或eNB）发送对数据的传输的实体。 中继站还可以是能够向其它UE中继传输的UE。 在图1所示的示例中,中继（站）eNB 110d可以与宏eNB 110a和UE 120d通信,以实现eNB 110a和UE 120d之间的通信。 中继站还可以被称为中继eNB、中继基站、中继等。</base:Paragraphs>
+      <base:Paragraphs num="0040">[0047]无线通信网络100可以是包括各种类型的eNB（例如,宏eNB、微微eNB、毫微微eNB、中继eNB等）的异构网络。 这些不同类型的eNB可以具有不同的发射功率电平、不同的覆盖区域、以及对无线网络100中的干扰的不同影响。 例如,宏eNB可以具有高发射功率电平（例如,5～40W）,而微微eNB、毫微微eNB和中继eNB可以具有较低发射功率电平（例如,0.1～2W）。</base:Paragraphs>
+      <base:Paragraphs num="0041">[0048]网络控制器130可以耦合到一组eNB,并且可以提供对这些eNB的协调和控制。 网络控制器130可以经由回程与eNB通信。 eNB还可以例如经由无线或有线回程直接或间接地彼此通信。</base:Paragraphs>
+      <base:Paragraphs num="0042">[0049]UE 120（例如,120a、120b、120c）可以分散在整个无线通信网络100中,并且每个UE可以是固定的或移动的。 UE还可以被称为接入终端、终端、移动站(MS)、订户单元、站(STA)等。 UE可以是蜂窝电话、个人数字助理(PDA)、无线调制解调器、无线通信设备、手持设备、膝上型计算机、无绳电话、无线本地环路(WLL)站、平板设备、智能电话、上网本、智能本、超极本、娱乐设备（例如,音乐播放器、游戏设备等）、相机、移动设备、导航设备、无人机、机器人/机器人设备、可穿戴设备（例如,智能手表、智能服装、智能腕带、智能戒指、智能手环、智能眼镜、虚拟现实护目镜）等。</base:Paragraphs>
+      <base:Paragraphs num="0043">[0050]无线通信网络100（例如,LTE网络）中的一个或多个UE 120还可以是低成本低数据速率设备,例如,低成本MTC UE、低成本eMTC UE等。 低成本UE可以与LTE网络中的传统和/或高级UE共存,并且与无线网络中的其它UE（例如,非低成本UE）相比,可以具有有限的一个或多个能力。 例如,与LTE网络中的传统和/或高级UE相比,低成本UE可以利用以下各项中的一项或多项来操作：减小的最大带宽（相对于传统UE）、单个接收射频(RF)链、减小的峰值速率、减小的发射功率、秩1传输、半双工操作等。 如本文所使用的,具有有限通信资源的设备（诸如MTC设备、eMTC设备等）被统称为低成本UE。 类似地,诸如传统和/或高级（例如,在LTE中）UE之类的传统设备被统称为非低成本UE。</base:Paragraphs>
+      <base:Paragraphs num="0044">[0051]如上所述,无线通信系统中的一个或多个UE 120可以使用随机接入过程来发起与eNB 110的通信。 随机接入过程通常可以在各种情况下使用,诸如来自隔离条件或无线电故障的初始接入、需要随机接入过程的切换、在UE 120随后将失去同步的连接条件期间的下行链路或上行链路数据进入、没有专用调度请求信道可用的上行链路数据进入、和/或各种其他情况。 随机接入过程的示例可以包括可以在随机接入信道(RACH)上发起的基于竞争的随机接入过程以及无竞争（例如,非基于竞争的）随机接入过程。 这两个过程之间的差异可以是使用重叠的随机接入前导码是否可能发生故障。</base:Paragraphs>
+      <base:Paragraphs num="0045">[0052]还如上所述,根据某些方面,随机接入过程还可以用于可以与无线通信网络100中的LTE共存的MTC和/或eMTC中。 然而,如将更详细地描述的,部分地由于支持MTC和eMTC中的窄带操作和/或捆绑,由MTC和/或eMTC的一个或多个低成本UE 120使用的随机接入过程可以不同于由非低成本UE使用的随机接入过程。 因此,本文给出的方面提供了用于可以由MTC和/或eMTC的低成本UE 120使用的随机接入过程的技术。</base:Paragraphs>
+      <base:Paragraphs num="0046">[0053]图2是BS/eNB 110和UE 120的设计的框图,其可以分别是图1中的BS/eNB 110之一和UE 120之一。 BS 110可以装备有T个天线234a至234t,并且UE 120可以装备有R个天线252a至252r,通常T≥1并且R≥1。</base:Paragraphs>
+      <base:Paragraphs num="0047">[0054]在BS 110处,发送处理器220可以从数据源212接收用于一个或多个UE的数据,基于从UE接收的信道质量指示符(CQI)来选择用于每个UE的一个或多个调制和编码方案(MCS),基于为该UE选择的MCS来处理（例如,编码和调制）用于每个UE的数据,以及提供用于所有UE的数据符号。 发送处理器220还可以处理系统信息（例如,针对半静态资源划分信息(SRPI)等）和控制信息（例如,CQI请求、准予、高层信令等）,并提供开销符号和控制符号。 处理器220还可以生成用于参考信号（例如,公共参考信号(CRS)）和同步信号（例如,主同步信号(PSS)和副同步信号(SSS)）的参考符号。 发射(TX)多输入多输出(MIMO)处理器230可以对数据符号、控制符号、开销符号和/或参考符号执行空间处理（例如,预编码）（如果适用的话）,并且可以向T个调制器(MOD)232a至232t提供T个输出符号流。 每个MOD 232可以处理相应的输出符号流（例如,针对OFDM等）以获得输出采样流。 每个MOD 232可以进一步处理（例如,转换为模拟、放大、滤波和上变频）输出采样流以获得下行链路信号。 来自调制器232a～232t的T个下行链路信号能够分别经由T个天线234a～234t发送。</base:Paragraphs>
+      <base:Paragraphs num="0048">[0055]在UE 120处,天线252a至252r可以从BS 110和/或其它BS接收下行链路信号,并且可以分别向解调器(DEMOD)254a至254r提供接收到的信号。 每个DEMOD 254可以调节（例如,滤波、放大、下变频和数字化）其接收信号以获得输入采样。 每一DEMOD 254可进一步处理输入样本（例如,针对OFDM等）以获得所接收符号。 MIMO检测器256能够从全部的R个解调器254a～254r取得接收符号,在能够应用的情况下,对接收符号执行MIMO检测,并提供检测符号。 接收处理器258可以处理（例如,解调和解码）检测到的符号,向数据宿260提供针对UE 120的经解码的数据,以及向控制器/处理器280提供经解码的控制信号和系统信息。 信道处理器可以确定参考信号接收功率(RSRP)、接收信号强度指示符(RSSI)、参考信号接收质量(RSRQ)、CQI等等。</base:Paragraphs>
+      <base:Paragraphs num="0049">[0056]在上行链路上,在UE 120处,发送处理器264可以接收并处理来自数据源262的数据和来自控制器/处理器280的控制信息（例如,针对包括RSRP、RSSI、RSRQ、CQI等的报告）。 处理器264还可以生成用于一个或多个参考信号的参考符号。 来自发送处理器264的符号可以由TX MIMO处理器266预编码（如果适用的话）,由MOD 254a至254r进一步处理（例如,用于SC-FDM、OFDM等）,并且被发送到BS 110。 在BS 110处,来自UE 120和其它UE的上行链路信号可以由天线234接收,由DEMOD 232处理,由MIMO检测器236检测（如果适用的话）,并且由接收处理器238进一步处理,以获得由UE 120发送的经解码的数据和控制信息。 处理器238可以向数据宿239提供经解码的数据,并向控制器/处理器240提供经解码的控制信息。 BS 110可以包括通信单元244,并且经由通信单元244与网络控制器130通信。 网络控制器130可以包括通信单元294、控制器/处理器290和存储器292。</base:Paragraphs>
+      <base:Paragraphs num="0050">[0057]控制器/处理器240和280可以分别指导BS 110和UE 120处的操作。 例如,BS 110处的控制器/处理器240和/或其它处理器和模块可以执行或指导图7中所示的操作700和/或用于本文所描述的技术的其它过程。 类似地,控制器/处理器280和/或UE 120处的其它处理器和模块可以执行或指导图6中所示的操作600和/或用于本文所描述的技术的过程。 存储器242和282可以分别存储用于BS 110和UE 120的数据和程序代码。 调度器246可以调度UE以在下行链路和/或上行链路上进行数据传输。</base:Paragraphs>
+      <base:Paragraphs num="0051">[0058]图3示出了用于LTE中的FDD的示例性帧结构300。 下行链路和上行链路中的每一者的传输时间线可被划分成无线电帧单元。 每个无线帧可以具有预定的持续时间（例如,10毫秒(ms)）,并且可以被划分成具有索引0到9的10个子帧。 每个子帧可以包括两个时隙。 因此,各无线帧能够包含具有0～19的索引的20个时隙。 每个时隙可以包括L个符号周期,例如,用于正常循环前缀的7个符号周期（如图2所示）或者用于扩展循环前缀的6个符号周期。 可以将索引0至2L-1分配给每个子帧中的2L个符号周期。</base:Paragraphs>
+      <base:Paragraphs num="0052">[0059]在LTE中,eNB可以在下行链路上以由eNB支持的每个小区的系统带宽的中心1.08 MHz来发送主同步信号(PSS)和副同步信号(SSS)。 PSS和SSS可以分别在具有正常循环前缀的每个无线电帧的子帧0和5中的符号周期6和5中发送,如图3所示。 PSS和SSS可以由UE用于小区搜索和捕获。 eNB可以针对由eNB支持的每个小区在系统带宽上发送因小区而异的参考信号(CRS)。 CRS可以在每个子帧的若干符号周期期间发送,并且可以由UE使用以执行信道估计、信道质量测量和/或其它功能。 eNB还可以在多个无线电帧的时隙1中的符号周期0至3中发送物理广播信道(PBCH)。 PBCH可以携带一些系统信息。 eNB可以在某些子帧中的物理下行链路共享信道(PDSCH)上发送其它系统信息,诸如系统信息块(SIB)。 eNB可以在子帧的前B个符号周期中在物理下行链路控制信道(PDCCH)上发送控制信息/数据,其中B可以是每子帧可配置的。 eNB可以在每个子帧的剩余符号周期中在PDSCH上发送业务数据和/或其它数据。</base:Paragraphs>
+      <base:Paragraphs num="0053">[0060]在公开的名称为“Evolved Universal Terrestrial Radio Access（E-UTRA）；Physical Channels and Modulation”的3GPP TS 36.211中描述了LTE中的PSS、SSS、CRS和PBCH。</base:Paragraphs>
+      <base:Paragraphs num="0054">[0061]图4示出了用于具有普通循环前缀的下行链路的两个示例性子帧格式410和420。 用于下行链路的可用时频资源可以被划分成资源块。 每个资源块可覆盖一个时隙中的12个子载波,并且可包括多个资源元素。 每个资源元素可以覆盖一个符号周期中的一个子载波,并且可以被用于发送一个调制符号,该调制符号可以是实值或复值。</base:Paragraphs>
+      <base:Paragraphs num="0055">[0062]子帧格式410可被用于装备有两个天线的eNB。 可以在符号周期0、4、7和11期间从天线0和1发送CRS。 参考信号是发射机和接收机先验已知的信号,并且还可以被称为导频。 CRS是特定于小区的参考信号,例如,基于小区标识(ID)生成的。 在图4中,对于具有标记Ra的给定资源元素,可以在该资源元素上从天线a发送调制符号,并且可以不在该资源元素上从其它天线发送调制符号。 子帧格式420可被用于装备有四个天线的eNB。 CRS可以在符号周期0、4、7和11期间从天线0和1发送,并且可以在符号周期1和8期间从天线2和3发送。 对于子帧格式410和420两者,CRS可以在均匀间隔的子载波上发送,该子载波可以基于小区ID来确定。 各种eNB可以根据它们的小区ID在相同或不同的子载波上发送它们的CRS。 对于子帧格式410和420两者,未被用于CRS的资源元素可被用于传送数据（例如,业务数据、控制数据、和/或其它数据）。</base:Paragraphs>
+      <base:Paragraphs num="0056">[0063]交织结构可以用于LTE中的FDD的下行链路和上行链路中的每一个。 例如,可以定义索引为0到Q-1的Q个交织,其中Q可以等于4、6、8、10或某个其它值。 每个交织可以包括由Q个帧间隔开的子帧。 具体地,交织q可以包括子帧q、q+Q、q+2Q等,其中q∈{0,...,Q-1}。</base:Paragraphs>
+      <base:Paragraphs num="0057">[0064]无线网络可以支持针对下行链路和上行链路上的数据传输的混合自动重传请求(HARQ)。 对于HARQ,发射机（例如,eNB 110）可以发送分组的一个或多个传输,直到该分组被接收机（例如,UE 120）正确解码或者遇到某个其它终止条件。 对于同步HARQ,分组的所有传输可以在单个交织的子帧中发送。 对于异步HARQ,分组的每个传输可以在任何子帧中发送。</base:Paragraphs>
+      <base:Paragraphs num="0058">[0065]UE可以位于多个eNB的覆盖内。 可以选择这些eNB中的一个来服务该UE。 可以基于诸如接收信号强度、接收信号质量、路径损耗等各种标准来选择服务eNB。 接收信号质量可以通过信号干扰加噪声比(SINR)、或参考信号接收质量(RSRQ)、或某个其它度量来量化。 UE可以在显著干扰场景中操作,其中UE可以观察到来自一个或多个干扰eNB的高干扰。</base:Paragraphs>
+      <base:Paragraphs num="0059">[0066]如上所述,与无线通信网络中的其它（非低成本）设备相比,无线通信网络（例如,无线通信网络100）中的一个或多个UE可以是具有有限的通信资源的设备,诸如低成本UE。</base:Paragraphs>
+      <base:Paragraphs num="0060">[0067]在一些系统中,例如,在LTE Rel-13中,低成本UE可以限于可用系统带宽内的特定窄带指派（例如,六个或更少的资源块(RB)）。 然而,低成本UE可能能够重新调谐（例如,操作和/或驻扎）到LTE系统的可用系统带宽内的不同窄带区域,例如,以便在LTE系统内共存。</base:Paragraphs>
+      <base:Paragraphs num="0061">[0068]作为LTE系统内的共存的另一示例,低成本UE可以（重复地）接收传统物理广播信道(PBCH)（例如,通常携带可以用于初始接入小区的参数的LTE物理信道）,并且支持一种或多种传统物理随机接入信道(PRACH)格式。 例如,低成本UE可以在多个子帧上接收具有PBCH的一个或多个附加重复的传统PBCH。 作为另一示例,低成本UE可以向LTE系统中的eNB（例如,eNB 110）发送PRACH的一个或多个重复（例如,具有所支持的一个或多个PRACH格式）。 PRACH可以用于识别低成本UE。 此外,可以由eNB配置重复PRACH尝试的数量。</base:Paragraphs>
+      <base:Paragraphs num="0062">[0069]低成本UE还可以是链路预算受限设备,并且可以基于其链路预算限制（例如,使用针对发送到低成本UE或从低成本UE发送的消息的不同重复次数）以不同的操作模式进行操作。 例如,在一些情况下,低成本UE可以在具有很少到没有重复的正常覆盖模式下操作（例如,UE成功接收和/或发送消息所需的重复量可以是低的,或者甚至可以不需要重复）。 替换地,在一些情况下,低成本UE可以在覆盖增强(CE)模式下操作,其中可以存在高重复量。 例如,对于328比特的有效载荷,CE模式中的低成本UE可能需要150次或更多次重复有效载荷以成功地发送和/或接收有效载荷。</base:Paragraphs>
+      <base:Paragraphs num="0063">[0070]在一些情况下,例如,在LTE Rel-13中,低成本UE在接收广播传输和单播传输（例如,针对系统信息块(SIB)、寻呼消息、随机接入响应(RAR)消息等）方面可能具有有限的能力。 例如,用于由低成本UE接收的广播传输的最大传输块(TB)大小可以被限制为1000比特。 此外,在一些情况下,低成本UE可能无法在子帧中接收多于一个单播TB。 在一些情况下（例如,对于上述CE模式和正常模式两者）,低成本UE可能无法在子帧中接收多于一个广播TB。 此外,在一些情况下,低成本UE可能无法在子帧中接收单播TB和广播TB两者。</base:Paragraphs>
+      <base:Paragraphs num="0064">[0071]在MTC中,在LTE系统中共存的低成本UE还可以支持用于某些过程（例如,寻呼、随机接入过程、广播系统信息的接收等）的新消息（例如,与在LTE中用于这些过程的传统消息相反）。 换言之,用于寻呼、随机接入过程等的这些新消息可以与用于与非低成本UE相关联的类似过程的消息分开。 例如,与LTE中使用的传统寻呼消息相比,低成本UE可能能够监视和/或接收非低成本UE可能无法监视和/或接收的寻呼消息。 类似地,与传统随机接入过程中使用的传统RAR消息相比,低成本UE可能能够接收非低成本UE可能无法接收的RAR消息。 与低成本UE相关联的新寻呼和RAR消息也可以被重复（例如,捆绑）一次或多次。 此外,可以支持新消息的不同数量的重复（例如,不同的捆绑大小）。</base:Paragraphs>
+      <base:Paragraphs num="0065">如上所述,可以在无线通信网络（例如,无线通信网络100）中支持MTC和/或eMTC操作（例如,与LTE或某个其它RAT共存）。 例如,图5A和5B示出了MTC操作中的低成本UE可以如何在诸如LTE的宽带系统内共存的示例。</base:Paragraphs>
+      <base:Paragraphs num="0066">[0073]如图5A的示例帧结构500A中所示,与MTC和/或eMTC操作相关联的子帧502可以同与LTE（或某个其它RAT）相关联的常规子帧504进行时分复用(TDM)。 如图所示,在一个示例实现中,与(e)MTC操作相关联的子帧502的数量与正常子帧504的数量相比可以相对较小。</base:Paragraphs>
+      <base:Paragraphs num="0067">[0074]附加地或替换地,如图5B的子帧500B的示例帧结构中所示,由MTC中的低成本UE使用的一个或多个窄带可以在由LTE支持的更宽带宽内进行频分复用(FDM)。 可以支持用于MTC和/或eMTC操作的多个窄带区域,其中每个窄带区域跨越总共不超过6个RB的带宽。 在一些情况下,MTC操作的每个低成本UE可以一次在一个窄带区域内（例如,在1.4 MHz或6个RB中）操作。 然而,MTC操作中的低成本UE可以在给定时间重新调谐到更宽系统带宽中的其它窄带区域。 在一些示例中,多个低成本UE可以由相同的窄带区域服务。 在其它示例中,多个低成本UE可以由不同的窄带区域（例如,每个窄带区域跨越六个RB）来服务。 在其他示例中,低成本UE的不同组合可以由一个或多个相同的窄带区域和/或一个或多个不同的窄带区域来服务。</base:Paragraphs>
+      <base:Paragraphs num="0068">[0075]如图5B所示,在子帧500B中,低成本UE可以在宽带区域506中监视传统控制信息,并且在宽带区域508A和508B中监视数据。 低成本UE可以针对窄带区域内的各种不同操作进行操作（例如,监视/接收/发送）。 例如,如图5B中所示,子帧的第一窄带区域510（例如,跨越6个或更少的RB）可以由一个或多个低成本UE针对来自无线通信网络中的BS的主同步信号(PSS)、副同步信号(SSS)、物理广播信道(PBCH)、MTC信令或寻呼传输中的任一者来监视。 还如图5B所示,低成本UE可以重新调谐到子帧的第二窄带区域512（例如,也在6个或更少的RB上）,以发送先前在从BS接收的信令中配置的RACH或数据。 在一些情况下,第二窄带区域512可以由与利用第一窄带区域510相同的低成本UE利用（例如,低成本UE可以在第一窄带区域中进行监视之后重新调谐到第二窄带区域以进行传输）。 在一些情况下（尽管未示出）,第二窄带区域512可以由与利用第一窄带区域510的低成本UE不同的低成本UE利用。</base:Paragraphs>
+      <base:Paragraphs num="0069">[0076]虽然本文所描述的示例假设6个RB的窄带,但是本领域技术人员将认识到,本文所呈现的技术也可以应用于不同大小的窄带区域。</base:Paragraphs>
+      <base:Paragraphs num="0070">如上所述,在一些系统（例如,LTE Rel-13系统）中,可以支持用于eMTC的窄带操作。 此外,也如上所述,还可以支持用于低成本设备（诸如eMTC中的低成本UE）的不同操作模式,其可以在消息被低成本UE成功接收和/或发送之前使用不同量的重复。</base:Paragraphs>
+      <base:Paragraphs num="0071">[0078]根据某些方面,MTC和/或eMTC中的随机连接过程还可以针对在随机接入过程中使用的不同消息使用窄带操作和不同量的捆绑。 例如,如图8所示,eMTC中的低成本UE和/或eNB可以在随机接入过程中使用（例如,监视/发送/接收）集束（例如,一个或多个重复）随机接入信道(RACH)前导码（MTC_MSG1）、集束随机接入响应(RAR)消息（MTC_MSG2）、集束连接请求消息（MTC_MSG3）和/或集束竞争解决消息（MTC_MSG4）。 此外,在随机接入过程中使用的集束消息中的每一者可以在多个子帧中以及在从可用系统带宽中划分出的一个或多个窄带中被传送/接收。 此外,集束消息中的每一者的集束大小（例如,在其上传送集束消息中的每一者的多个子帧的数目）可以变化。</base:Paragraphs>
+      <base:Paragraphs num="0072">[0079]因此,在一些情况下,由于对这些特征的支持,BS和/或低成本UE知道发送/接收在随机接入过程中使用的集束消息中的每一个集束消息的特定方式（例如,位置、定时和数量）可能是有用的。</base:Paragraphs>
+      <base:Paragraphs num="0073">[0080]因此,如上所述,本文给出的方面提供了使得低成本UE和BS能够针对在随机接入过程中使用的集束消息中的每一者来确定（和/或适配）集束消息的位置（例如,可用于集束消息的来自可用系统带宽的一个或多个窄带区域）、定时（例如,可用于集束消息的一个或多个子帧）、和/或大小（例如,可用于集束消息的一个或多个子帧的数量）的技术。</base:Paragraphs>
+      <base:Paragraphs num="0074">[0081]图6根据本公开内容的某些方面,示出了用于无线通信的示例操作600。 操作600可以由诸如低成本UE的UE来执行,低成本UE可以是图1和图2中所示的UE 120之一。</base:Paragraphs>
+      <base:Paragraphs num="0075">[0082]操作600可以在602处开始,其中UE确定UE可以在其中向BS发送集束RACH消息的多个子帧。 在604处,UE确定子帧中的用于发送RACH消息的至少一个窄带区域。 在606处,UE确定RACH消息的捆绑大小,该捆绑大小指示在其上发送RACH消息的多个子帧的数量。 在608处,UE至少部分地基于所确定的集束大小来在多个子帧的窄带区域中发送RACH消息。</base:Paragraphs>
+      <base:Paragraphs num="0076">[0083]图7根据本公开内容的某些方面,示出了用于无线通信的示例操作700。 操作700可以由BS（诸如图1和图2中所示的BS/eNB 110中的一个）来执行。</base:Paragraphs>
+      <base:Paragraphs num="0077">[0084]操作700可以在702处开始,其中BS确定UE（例如,低成本UE）可以向BS发送集束RACH消息的多个子帧。 在704处,BS在子帧中确定用于接收RACH消息的至少一个窄带区域。 在706处,BS确定RACH消息的捆绑大小,该捆绑大小指示UE在其上发送RACH消息的多个子帧的数量。 在708处,BS至少部分地基于所确定的集束大小,在多个子帧的窄带区域中接收RACH消息。</base:Paragraphs>
+      <base:Paragraphs num="0078">[0085]图8示出了用于MTC和/或eMTC中的随机接入过程的呼叫流程800的示例。 例如,图8中所示的eNB和MTC设备（例如,低成本UE）可以分别是图1至图2中所示的BS/eNB 110和UE 120中的任一个。</base:Paragraphs>
+      <base:Paragraphs num="0079">[0086]在随机接入过程（在MTC、eMTC等中）的一个参考示例中,在802处,UE 120向eNB 110发送捆绑的RACH前导码（例如,MTC_MSG1）（例如,用于发起与eNB的通信等）。 UE可以从RACH前导码集合中选择RACH消息的RACH前导码。 UE可以向eNB发送捆绑的RACH消息（包括所选择的RACH前导码）。 根据某些方面,UE 120向eNB 110发送具有一个或多个不同集束大小（例如,1、2、3等集束大小）的集束RACH消息。 例如,在一些情况下,用于集束RACH消息的集束量可以至少部分地基于UE 120正在操作的特定覆盖模式（例如,CE模式、正常模式等）。 如上所述,当UE 120在正常模式下操作时,相对于UE 120在CE模式下操作时使用的捆绑量,UE 120可以使用较低量的捆绑。 然而,一般而言,UE 120和/或eNB 110可以支持用于不同覆盖增强的多个集束大小。</base:Paragraphs>
+      <base:Paragraphs num="0080">[0087]因此,本文给出的方面提供了使得UE 120和/或eNB 110能够确定在随机接入过程中要发送给eNB 110的集束RACH消息的集束大小的技术。 在一方面,UE 120和/或eNB 110可以至少部分地基于来自eNB 110的广播信令来确定用于集束RACH消息的集束大小。 如上所述,用于指示捆绑大小的广播信令可以是与用于向非低成本UE指示系统信息的广播信令分开的广播信令。</base:Paragraphs>
+      <base:Paragraphs num="0081">[0088]根据某些方面,UE 120和/或eNB 110可以至少部分地基于从可用系统带宽中划分出的一个或多个窄带区域的位置来确定集束RACH消息的集束大小。 例如,在一些情况下,一个或多个窄带区域中的每一个窄带区域可以具有可用于RACH传输的固定集束大小。 在一些情况下,窄带区域中的每一个窄带区域可以具有用于RACH传输的不同的固定集束大小。 在一些情形中,一个或多个窄带区域可具有与一个或多个其他窄带区域相同的固定集束大小。</base:Paragraphs>
+      <base:Paragraphs num="0082">[0089]在一些方面,一个或多个窄带区域可以支持针对UE 120的不同覆盖模式,并且可以至少部分地基于支持针对UE 120的特定覆盖模式的一个或多个窄带区域来确定针对RACH传输的捆绑大小。 例如,在一些情况下,如果UE 120正在正常覆盖模式下操作,则UE 120可以标识支持该正常覆盖模式的一个或多个窄带区域。 随后,UE 120可以例如至少部分地基于由支持正常覆盖模式的一个或多个窄带区域使用的固定集束大小来确定用于RACH传输的集束大小。 类似的示例可以应用于CE模式和/或UE 120的其它模式。</base:Paragraphs>
+      <base:Paragraphs num="0083">[0090]根据某些方面,UE 120和/或eNB 110可以至少部分地基于集束RACH消息的起始子帧来确定集束RACH消息的集束大小。 例如,在一个或多个窄带区域中的每一个窄带区域内,可以支持多个集束大小。 在一些情况下,在特定窄带区域内,第一子帧集可以具有用于RACH传输的特定捆绑大小,并且第二子帧集可以具有用于其它传输的另一捆绑大小。 在这些情况下,在一个或多个窄带区域中的每一个窄带区域内,用于集束RACH传输的集束大小可以根据集束RACH传输可以在其中开始的子帧（例如,在第一子帧集合中）而变化。</base:Paragraphs>
+      <base:Paragraphs num="0084">[0091]根据某些方面,UE 120和/或eNB 110可以至少部分地基于低成本UE的估计CE目标（例如,针对CE模式）来确定用于集束RACH消息的集束大小。 例如,UE 120（和/或eNB 110）可以至少部分地基于UE 120和eNB 110之间的无线电条件的质量来识别可以用于RACH传输的估计的CE目标。 在一些情况下,UE 120可以使用下行链路(DL)路径损耗来确定估计的CE目标。 例如,基于DL路径损耗,UE 120可以确定UE 120将在用于集束RACH的CE模式下操作并且使用相对较大的集束大小（例如,与用于正常模式的集束大小相比）。 在其他示例中,UE 120可以确定用于集束RACH的一个或多个其他集束大小（例如,基于其他质量测量）。</base:Paragraphs>
+      <base:Paragraphs num="0085">[0092]根据某些方面,UE 120和/或eNB 110可以基于eNB 110成功地解码先前发送的集束RACH消息的成功或失败来确定集束RACH消息的集束大小。 例如,在一些情况下,如果UE 120成功解码了来自eNB 110的针对先前发送的集束RACH（例如,MTC_MSG1）的随机接入响应(RAR)消息,则UE 120可以确定（eNB 110解码先前发送的集束RACH消息（诸如MTC_MSG1）的）成功。 类似地,在一些情况下,如果UE 120不能针对先前发送的集束RACH成功地解码来自eNB 110的RAR消息,则UE 120可以确定（eNB 110解码先前发送的集束RACH消息的）失败。 在一些情况下（例如,如果UE 120确定失败）,响应于eNB 110成功解码先前集束RACH消息的失败,UE 120可以相对于用于先前集束RACH消息的集束大小增加集束大小。</base:Paragraphs>
+      <base:Paragraphs num="0086">[0093]另外或替代地,在一些情况下,响应于eNB 110成功解码先前集束RACH消息的失败,UE 120可以相对于用于发送先前集束RACH消息的发射功率来增加发射功率。 在一些方面,可以相对于用于先前集束RACH消息的集束大小和/或用于随后传送的集束RACH消息的集束大小来增加发射功率。 此外,当发送集束RACH消息时,UE 120处的RACH计数器可以每集束RACH消息仅增加一次（例如,与每在单个集束RACH中发送的RACH消息增加一次相反）。</base:Paragraphs>
+      <base:Paragraphs num="0087">[0094]如上所述,本文给出的方面还提供了使UE 120和/或eNB 110能够确定UE 120可以向eNB 110发送集束RACH的多个子帧的技术。 在一方面,可以至少部分地基于可用作集束RACH消息的起始子帧的特定子帧来确定多个子帧。</base:Paragraphs>
+      <base:Paragraphs num="0088">[0095]例如,如果UE 120和/或eNB 110针对集束RACH确定集束大小为4,则在一些情况下,每个集束RACH传输可以在子帧0、4、8等处开始（例如,其中集束RACH的每个RACH传输发生在连续子帧中）。 在另一种情况下,例如,对于集束RACH使用相同的集束大小4,集束RACH传输中的每个RACH传输可以在子帧0、2、4、6等中开始（例如,其中集束RACH中的每个RACH传输发生在不连续的子帧中）。 然而,通常,对用于每个集束RACH传输的起始子帧的确定可以至少部分地基于在帧中使用的特定子帧上行链路/下行链路配置。</base:Paragraphs>
+      <base:Paragraphs num="0089">[0096]如图8所示,作为随机接入过程的一部分,在804处,eNB 110响应于从UE 120接收到集束RACH消息,向UE 120发送集束RAR消息（例如,MTC_MSG2）。 UE至少部分地基于RACH前导码来确定用于接收RAR消息的RAR资源,并且在RAR资源上接收RAR消息。 RAR资源可以包括载波带宽的窄带频域、起始传输时间、起始子帧或捆绑大小中的至少一者。 在一些情况下,集束RAR消息可以不支持HARQ。 如图8所示,集束RAR消息的集束大小可以至少部分地基于集束RACH消息。</base:Paragraphs>
+      <base:Paragraphs num="0090">[0097]在一些方面,UE还可以至少部分地基于RACH前置码来识别一个或多个控制信道解码候选,并且对一个或多个控制信道候选进行盲解码。 在一些情形中,识别一个或多个控制信道解码候选可以包括确定聚合等级（例如,控制信道元素(CCE)和/或增强型控制信道元素（eCCE）的数量）、RAR消息捆绑大小、或RAR消息分组大小中的至少一者。 UE可以至少部分地基于RACH前导码来确定RAR消息分组大小。 在一些情况下,UE可以至少部分地基于RAR消息的捆绑大小来选择RACH前导码。</base:Paragraphs>
+      <base:Paragraphs num="0091">[0098]在一些方面,UE 120和/或eNB 110可以至少部分地基于由UE选择的RACH消息来确定集束RAR消息的集束大小和/或窄带区域。 RAR消息集束大小和/或窄带区域可以进一步取决于集束RACH消息的窄带区域或集束大小中的至少一者。 例如,在一些情况下,集束RAR消息的集束大小可以与从低成本UE接收到的集束RACH消息的集束大小（例如,在图8所示的一种实现中为4的集束大小）相同。 在一些情形中,集束RAR消息的集束大小可以是根据在窄带区域中的一个或多个窄带区域中用于发送集束RACH消息的集束大小来确定的。 在一些情况下,RAR消息的捆绑大小可以不取决于PRACH消息的捆绑大小。</base:Paragraphs>
+      <base:Paragraphs num="0092">[0099]在一些方面,可以捆绑RAR消息的控制和/或数据部分。 例如,RAR消息的控制部分可以具有与用于RAR消息的数据部分的集束大小相同或不同的集束大小。 在一些方面,可以至少部分地基于由UE选择的相应RACH消息的至少一个属性来隐式地确定RAR消息（例如,在ePDCCH上）的控制部分的捆绑大小和/或窄带区域。 例如,对用于RAR消息的控制部分的窄带区域和/或用于发送RAR消息的控制部分的集束大小的确定可以至少部分地基于用于发送RACH消息的集束大小和/或窄带区域。 在一些情况下,可以存在来自用于RACH消息的集束大小和/或窄带区域与用于RAR消息的控制部分的集束大小和/或窄带区域的一对一映射。</base:Paragraphs>
+      <base:Paragraphs num="0093">[00100]根据某些方面,集束RAR消息的定时可以至少部分地基于RACH消息的集束大小。 例如,在发送集束RACH消息之后,UE 120可以在集束RACH的传输之后的时间段内预期集束RAR消息。</base:Paragraphs>
+      <base:Paragraphs num="0094">[00101]在传统的随机接入过程（例如,由非低成本UE使用）中,该时间段可以仅持续固定的时间段（例如,大约10ms）。 然而,在eMTC中,由于捆绑、子帧配置等,该时间段可能不是足以使低成本UE检测捆绑RAR是否被成功接收的时间段。 例如,如上所述,对于部分足够的捆绑,RAR的第一子帧（包括控制部分）可能需要在特定子帧处开始。</base:Paragraphs>
+      <base:Paragraphs num="0095">[00102]因此,本文给出的技术可以允许扩展时间段（例如,在eMTC中）,以允许更多时间用于低成本UE检测集束RAR传输而不声明RACH失败。 在一些情况下,用于处理捆绑RAR消息的随机接入无线电网络临时标识符（RA-RNTI）的计算可以与传统随机接入过程中使用的计算不同。 例如,在eMTC中,RA-RNTI计算可以使用集束RACH开始或结束的子帧。</base:Paragraphs>
+      <base:Paragraphs num="0096">[00103]在一些方面,集束RAR提供用于发送附接请求消息的准许。 例如,集束RAR消息可以包括各种量的信息（例如,在UL授权中）,该信息可以由低成本UE在随机接入过程中发送/接收一个或多个后续集束消息时使用。 如图8所示,例如,集束连接请求消息（例如,806处的MTC_MSG3）和/或集束竞争解决消息（例如,808处的MTC_MSG4）两者可以至少部分地基于集束RAR消息。</base:Paragraphs>
+      <base:Paragraphs num="0097">[00104]在一些情况下,集束RAR消息可以（经由UL准许）指示用于UE 120向eNB 110发送集束连接请求消息（例如,MTC_MSG3）的窄带区域或集束大小中的至少一者。 替换地或附加地,在一些情况下,集束RAR消息还可以（经由UL准许）指示用于UE 120从eNB 110接收集束竞争解决消息（例如,MTC_MSG4）的窄带区域或集束大小。</base:Paragraphs>
+      <base:Paragraphs num="0098">[00105]在一些方面,捆绑RAR消息中的RAR授权可以与传统随机接入过程中使用的RAR授权不同地定义。 例如,对于非低成本UE,RAR授权可以是20个比特,并且可以包括用于跳变标志的1个比特、用于固定大小资源块指派的10个比特、用于缩短的调制和编码方案的4个比特、用于针对调度的物理上行链路共享信道(PUSCH)的发送/发送功率控制(TPC)命令的3个比特、用于UL延迟的1个比特、以及用于信道状态信息请求的1个比特。</base:Paragraphs>
+      <base:Paragraphs num="0099">[00106]根据某些方面,对于eMTC中的低成本UE（例如,在TTI捆绑下）,捆绑RAR消息中的RAR授权可以是12比特,并且可以包括用于传输块大小(TBS)指示符的2比特、用于UL资源块指派指示符的4比特、用于捆绑长度和子带跳变指示符的3比特、以及用于TPC模式指示符和TPC命令的3比特。 在一些情形中,TBS指示符可指示正交相移键控(QPSK)调制和编码方案(MCS)。 在一些情况下,UL资源块指派指示符可被用于指示六个资源块（例如,窄带区域）的子带内的特定资源分配。 在一些情况下,集束长度和子带跳频指示符可以指示针对给定集束长度的特定集束长度和子带跳频序列。 例如,对于32个给定捆绑长度,捆绑长度和子带跳频指示符可以指示应当存在八个消息块,并且每个消息块在四个不同的子带中跳频。 在一些情形中,TPC模式指示符可指示低成本UE是否将以一个或多个发射功率模式进行操作。 例如,TPC模式指示符可以指示低成本UE将在最大功率模式或某个其它功率模式下操作。 替换地,可以在RAR授权内使用一个或多个TPC命令来指示低成本UE应当以哪个功率进行发送。</base:Paragraphs>
+      <base:Paragraphs num="0100">[00107]如上所述,在eNB 110在804处向UE 120发送集束RAR消息之后,UE 120可以在806处使用集束RAR消息中的各种信息（例如,在上面定义的RAR准许中提供的信息）,以向eNB 110发送集束无线电资源控制(RRC)连接请求消息（例如,MTC_MSG3）。 换言之,RAR消息可以提供用于发送连接请求消息的准许,并且该准许可以指示与连接请求消息有关的关于TBS、捆绑长度、子带跳变指示符、TPC等的信息。 在一些情况下,如上所述,集束RRC连接请求消息的特定窄带区域和/或集束大小可以由接收到的集束RAR消息来指示。</base:Paragraphs>
+      <base:Paragraphs num="0101">[00108]此外,本文给出的某些方面可以允许捆绑的RRC连接请求消息的传输定时改变（例如,与传统随机接入过程相反）。 例如,通常,在传统随机接入过程中,用于连接请求消息的传输的传输定时由RAR消息中的准予的接收定时来控制。 然而,在eMTC中,由于捆绑和/或窄带操作,捆绑RRC连接请求消息的传输定时可能需要根据用于捆绑RAR和捆绑连接请求消息的捆绑量来适配。</base:Paragraphs>
+      <base:Paragraphs num="0102">[00109]因此,本文给出的技术可以允许发送连接请求消息的定时至少部分地基于集束RAR消息的集束大小和/或连接请求消息的集束大小。 例如,在解码特定子帧k中的集束RAR消息中的RAR准许时,UE 120可以在第一上行链路子帧k+n（n&gt;n1）上发起集束连接请求消息的传输,其中n1包括UE 120准备新UL分组和/或执行可能的窄带重新调谐的时间。</base:Paragraphs>
+      <base:Paragraphs num="0103">[00110]此外,在一些情况下,用于集束连接请求消息的集束量可以取决于UE 120重新调谐到正在操作的窄带区域和/或另一窄带区域所需的时间。 例如,如上所述,在一些情况下,集束连接请求传输可以在特定子帧中开始,并且集束量可以取决于窄带区域中剩余的可用于上行链路传输的可用子帧的数量。</base:Paragraphs>
+      <base:Paragraphs num="0104">[00111]在806处,在UE 120向eNB 110发送集束连接请求消息之后,UE 120可以预期从eNB 110接收集束竞争解决消息（例如,MTC_MSG4）。 如上所述,在一些情况下,可以至少部分地基于从eNB 110接收到的集束RAR消息中的指示来确定用于集束竞争解决消息的窄带区域和/或集束大小。 然而,在一些情况下,如果在集束RAR消息中没有指示用于集束竞争解决消息的窄带区域和/或集束大小,则集束竞争解决消息可以在与发送集束RAR消息的窄带区域相同的窄带区域中发送和/或使用与集束RAR消息所使用的集束大小相同的集束大小。</base:Paragraphs>
+      <base:Paragraphs num="0105">[00112]虽然本文描述的技术可以用于MTC和eMTC中的随机接入过程,但是本领域技术人员将领会,本文呈现的技术还可以应用于MTC和/或eMTC中的其它过程,诸如系统信息的寻呼、发送/接收等。</base:Paragraphs>
+      <base:Paragraphs num="0106">本文呈现的方面还可以提供用于在MTC和/或eMTC中对广播传输进行优先级划分的技术。</base:Paragraphs>
+      <base:Paragraphs num="0107">[00114]如上所述,在一些情况下,低成本UE可能无法在给定时间接收多于单个广播TB。 例如,对于每个子帧,低成本UE能够并且能够一次仅接收RAR消息、寻呼消息或广播信令等中的任何一个。 此外,虽然不同的广播传输可以发生在不同的窄带区域中,但是BS可以能够在相同的时间同时广播每个窄带区域的传输。 因此,在一些情况下,可能存在低成本UE期望来自BS的特定广播传输而BS可能不发送该特定广播传输的时间。</base:Paragraphs>
+      <base:Paragraphs num="0108">[00115]因此,本文的技术提供了当eMTC中的设备发送/接收广播传输时要遵循的优先级规则。</base:Paragraphs>
+      <base:Paragraphs num="0109">[00116]在一些方面,低成本UE可以在确定要从BS收集的消息的类型（例如,广播传输）时应用一个或多个优先级规则。 例如,（来自BS的）广播传输可以是来自BS的（捆绑的）随机接入响应、（捆绑的）寻呼消息、携带系统信息的广播消息等。 在一些情况下,低成本UE可以在向BS发送RACH消息之后应用优先级规则。</base:Paragraphs>
+      <base:Paragraphs num="0110">[00117]在一个特定实现方式中,低成本UE可以将对集束RAR消息的接收定义为第一优先级（例如,因为RAR消息可以由发送的RACH触发）,将对寻呼消息的接收定义为第二优先级（例如,其可以用于传入数据通知和系统信息的更新）,以及将对系统信息的接收定义为第三优先级（例如,其通常可以不需要频繁接收,但也可以经由寻呼来指示）。</base:Paragraphs>
+      <base:Paragraphs num="0111">[00118]因此,在上述示例中,如果低成本UE正在发送集束RACH消息并且还没有从BS接收到集束RAR消息,则低成本UE可以在监视寻呼消息和系统信息之前决定监视广播的集束RAR消息。 然而,如果低成本UE没有发送集束RACH消息,也没有接收RAR消息,则低成本UE可以在监视广播的系统信息等之前决定监视广播的寻呼消息。</base:Paragraphs>
+      <base:Paragraphs num="0112">[00119]然而,通常,尽管上述示例描述了用于在eMTC中收集来自BS的广播传输的特定优先级顺序,但是本领域技术人员将认识到,也可以为MTC和/或eMTC中的广播传输定义其它优先级。</base:Paragraphs>
+      <base:Paragraphs num="0113">[00120]如本文所使用的,涉及项目列表中的“至少一个”的短语是指这些项目的任何组合,包括单个成员。 举例来说,“a、b或c中的至少一个”旨在涵盖a、b、c、a-b、a-c、b-c和a-b-c,以及使用多个相同元件的任何组合（例如,a-a、a-a-a、a-a-b、a-a-c、a-b-b、a-c-c、b-b、b-b-b、b-b-c、c-c和c-c-c,或a、b和c的任何其他序列）。</base:Paragraphs>
+      <base:Paragraphs num="0114">[00121]如本文所用,术语“确定”包括各种各样的动作。 例如,“确定”可以包括计算、计算、处理、推导、研究、查找（例如,在表、数据库或另一数据结构中查找）、确认等。 此外,“确定”可以包括接收（例如,接收信息）、访问（例如,访问存储器中的数据）等。 此外,“确定”可以包括解析、选择、选择、建立等。</base:Paragraphs>
+      <base:Paragraphs num="0115">[00122]在一些情形中,不是实际传达帧,而是设备可具有用于传达帧以供传送或接收的接口。 例如,处理器可以经由总线接口将帧输出到RF前端以供传输。 类似地,设备可以具有用于获得从另一设备接收的帧的接口,而不是实际接收帧。 例如,处理器可以经由总线接口从RF前端获得（或接收）用于传输的帧。</base:Paragraphs>
+      <base:Paragraphs num="0116">[00123]本文公开的方法包括用于实现所描述的方法的一个或多个步骤或动作。 在不脱离权利要求的范围的情况下,方法步骤和/或动作可以彼此互换。 换言之,除非指定了步骤或动作的特定顺序,否则在不脱离权利要求的范围的情况下,可以改变特定步骤和/或动作的顺序和/或使用。</base:Paragraphs>
+      <base:Paragraphs num="0117">[00124]以上描述的方法的各种操作可以由能够执行相应功能的任何合适的单元来执行。 一个或多个处理器、电路或其他设备可以执行软件。 软件无论被称为软件、固件、中间件、微代码、硬件描述语言,还是被称为其他名称,都应被广义地解释为意味着指令、指令集、代码、代码段、程序代码、程序、子程序、软件模块、应用、软件应用、软件包、例程、子例程、对象、可执行文件、执行线程、过程、函数等。 这些单元可以包括各种硬件和/或软件组件和/或模块,包括但不限于电路、专用集成电路(ASIC)或处理器。 通常,在存在附图中解说的操作的情况下,这些操作可以由任何合适的对应的功能模块组件来执行。</base:Paragraphs>
+      <base:Paragraphs num="0118">[00125]例如,用于接收的单元和/或用于监视的单元可以包括接收机,诸如图2中所示的基站110的接收处理器238、MIMO检测器236、解调器232a至232t和/或天线234a至234t,和/或图2中所示的用户设备120的MIMO检测器256、接收处理器258、解调器254a至254r和/或天线252a至252r。 用于确定的单元、用于监视的单元、用于应用的单元、用于解码的单元、用于指示的单元、用于选择的单元、用于增加的单元和/或用于执行的单元可以包括一个或多个处理器（或处理系统）,诸如图2中所示的基站110的控制器/处理器240、调度器246、发射机处理器220、接收处理器238、MIMO检测器236、TX MIMO处理器230和/或调制器/解调器232a至232t,和/或图2中所示的用户设备120的控制器/处理器280、接收处理器258、发射处理器264、MIMO检测器256、TX MIMO处理器266和/或调制器/解调器254a至254r。 用于发信号通知的单元、用于提供的单元、用于发送的单元、用于增加的单元和/或用于指示的单元可以包括发射机,诸如图2中所示的基站110的发射处理器220、TX MIMO处理器230、调制器232a至232t和/或天线234a至234t,和/或图2中所示的用户设备120的发射处理器264、TX MIMO处理器266、调制器254a至254r和/或天线252a至252r。</base:Paragraphs>
+      <base:Paragraphs num="0119">[00126]本领域技术人员将理解,可以使用各种不同的技术和技术中的任何一种来表示信息和信号。 例如,贯穿上面描述始终可能被述及的数据、指令、命令、信息、信号、比特、码元和码片可由电压、电流、电磁波、磁场或磁粒子、光场或光粒子、或其组合来表示。</base:Paragraphs>
+      <base:Paragraphs num="0120">[00127]所属领域的技术人员将进一步了解,结合本文中的公开内容所描述的各种说明性逻辑块、模块、电路和算法步骤可实施为硬件、软件或其组合。 为清楚地说明硬件与软件的此可互换性,各种说明性组件、块、模块、电路及步骤已在上文大体上就其功能性而加以描述。 此类功能性是实施为硬件还是软件取决于特定应用和施加于整个系统的设计约束。 所属领域的技术人员可针对每一特定应用以不同方式实施所描述的功能性,但此类实施决策不应被解释为导致脱离本发明的范围。</base:Paragraphs>
+      <base:Paragraphs num="0121">[00128]结合本文公开内容描述的各种说明性逻辑框、模块和电路可用被设计为执行本文描述的功能的通用处理器、数字信号处理器(DSP)、专用集成电路(ASIC)、现场可编程门阵列(FPGA)或其它可编程逻辑器件、分立门或晶体管逻辑、分立硬件组件或其任何组合来实现或执行。 通用处理器可以是微处理器,但在替代方案中,处理器可以是任何常规的处理器、控制器、微控制器或状态机。 处理器还可以被实现为计算设备的组合（例如,DSP和微处理器的组合、多个微处理器、一个或多个微处理器与DSP内核的结合、或者任何其它这样的配置）。</base:Paragraphs>
+      <base:Paragraphs num="0122">[00129]结合本文公开内容描述的方法或算法的步骤可以直接在硬件中、在由处理器执行的软件模块中、或其组合中实现。 软件模块可以驻留在RAM存储器、闪存、ROM存储器、EPROM存储器、EEPROM存储器、相变存储器、寄存器、硬盘、可移动盘、CD-ROM或者本领域已知的任何其它形式的存储介质中。 示例性存储介质耦合到处理器,使得处理器可以从存储介质读取信息以及向存储介质写入信息。 在替代方案中,存储介质可以被集成到处理器中。 处理器和存储介质可以驻留在ASIC中。 ASIC可以驻留在用户终端中。 在替代方案中,处理器及存储媒体可作为离散组件驻存于用户终端中。</base:Paragraphs>
+      <base:Paragraphs num="0123">[00130]在一个或多个示例性设计中,所描述的功能可以在硬件、软件或其组合中实现。 如果在软件中实现,则各功能可以作为一条或多条指令或代码存储在计算机可读介质上或在计算机可读介质上进行传输。 计算机可读介质包括计算机存储介质和通信介质两者,通信介质包括便于将计算机程序从一个地方传送到另一个地方的任何介质。 存储介质可以是能够由通用计算机或专用计算机访问的任何可用介质。 作为示例而非限制,这样的计算机可读介质可以包括RAM、ROM、EEPROM、CD/DVD或其它光盘存储、磁盘存储或其它磁存储设备、或者可以用于以指令或数据结构的形式携带或存储期望的程序代码单元并且可以由通用或专用计算机、或者通用或专用处理器访问的任何其它介质。 此外,任何连接被适当地称为计算机可读介质。 举例来说,如果软件是使用同轴电缆、光纤电缆、双绞线、数字订户线(DSL)或例如红外线、无线电及微波的无线技术从网站、服务器或其它远程源发射,那么同轴电缆、光纤电缆、双绞线、DSL或例如红外线、无线电及微波的无线技术包含于媒体的定义中。 如本文中所使用,磁盘及光盘包含压缩光盘(CD)、激光光盘、光学光盘、数字多功能光盘(DVD)、软盘及蓝光光盘,其中磁盘通常以磁性方式再现数据,而光盘用激光以光学方式再现数据。 以上各者的组合也应包含于计算机可读媒体的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0124">[00131]提供对本公开内容的先前描述是为了使本领域技术人员能够制作或使用本公开内容。 对本公开内容的各种修改对于本领域技术人员将是显而易见的,并且在不脱离本公开内容的精神或范围的情况下,本文定义的一般原理可以应用于其他变型。 因此,本公开内容不旨在限于本文所描述的示例和设计,而是要符合与本文所公开的原理和新颖性特征相一致的最宽范围。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="122" wi="83" file="2020092434_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="83" file="2020092434_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="122" wi="83" file="2020092434_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="122" wi="83" file="2020092434_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="122" wi="83" file="2020092434_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="122" wi="83" file="2020092434_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="122" wi="83" file="2020092434_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="83" file="2020092434_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="83" file="2020092434_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种用于由用户设备(UE)进行无线通信的方法,包括： 确定所述UE可以在其中向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧,确定所述多个子帧内的用于发送所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,以及至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中发送所述集束RACH消息,其中所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述多个子帧是至少部分地基于可用作所述捆绑RACH消息的起始子帧的特定子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的方法,其中,用于所述集束RACH消息的所述集束大小是至少部分地基于来自所述BS的广播信令来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>如权利要求1所述的方法,其特征在于,所述集束RACH消息的所述集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述集束RACH消息的所述集束大小是至少部分地基于估计的覆盖增强目标来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于所述BS成功地解码先前集束RACH消息的成功或失败来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求6所述的方法,其中,所述成功或失败是至少部分地基于成功解码来自所述BS的针对先前发送的集束RACH消息的随机接入响应消息来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求6所述的方法,还包括以下各项中的至少一项：响应于所述BS成功解码所述先前捆绑RACH消息的失败,相对于所述先前捆绑RACH消息的捆绑大小增加所述捆绑RACH消息的捆绑大小,或者相对于所述先前捆绑RACH消息的发射功率增加所述捆绑RACH消息的发射功率。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求1所述的方法,还包括从所述BS接收捆绑的随机接入响应消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>如权利要求9所述的方法,其特征在于,所述集束随机接入响应消息的控制部分的集束大小或窄带区域中的至少一者至少部分地基于对来自所选择的集束RACH消息的至少一个属性的确定。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求10所述的方法,其中,所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求9所述的方法,其中,所述集束随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求9所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE发送连接请求消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求13所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE从所述BS接收竞争解决消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>根据权利要求9所述的方法,其中,所述捆绑随机接入响应消息提供用于发送连接请求消息的授权,所述授权指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符和发射功率控制(TPC)中的至少一者的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>根据权利要求9所述的方法,其中,发送连接请求消息的定时至少部分地基于所述集束随机接入响应消息或所述连接请求消息中的至少一者的集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>根据权利要求9所述的方法,其中,来自所述BS的竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>根据权利要求1所述的方法,还包括：应用所述UE的优先级来确定要从所述BS收集的消息的类型,其中,至少部分地基于所述UE的所述优先级来监视来自所述BS的消息的所述类型,其中,所述消息的所述类型包括以下各项中的一项：随机接入响应消息、寻呼消息、或者携带系统信息的广播消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>一种用于无线通信的装置,包括： 用于确定所述装置可以在其中向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧的单元,用于在所述多个子帧内确定用于发送所述集束RACH消息的至少一个窄带区域的单元,用于确定所述集束RACH消息的集束大小的单元,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中发送所述集束RACH消息的单元,其中所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>根据权利要求19所述的装置,其中,所述多个子帧是至少部分地基于可用作所述集束RACH消息的起始子帧的特定子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0021">
+      <business:ClaimText>根据权利要求19所述的装置,其中,用于所述集束RACH消息的所述集束大小是至少部分地基于来自所述BS的广播信令来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0022">
+      <business:ClaimText>如权利要求19所述的装置,其特征在于,所述集束RACH消息的所述集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0023">
+      <business:ClaimText>根据权利要求19所述的装置,其中,所述集束RACH消息的所述集束大小是至少部分地基于估计的覆盖增强目标来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0024">
+      <business:ClaimText>根据权利要求19所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于所述BS成功地解码先前集束RACH消息的成功或失败来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0025">
+      <business:ClaimText>根据权利要求24所述的装置,还包括用于解码随机接入响应消息的单元,其中,所述成功或失败是至少部分地基于成功解码来自所述BS的针对先前发送的集束RACH消息的所述随机接入响应消息来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0026">
+      <business:ClaimText>根据权利要求24所述的装置,还包括：用于响应于所述BS成功解码所述先前集束RACH消息的失败,相对于所述先前集束RACH消息的集束大小增加所述集束RACH消息的集束大小,或者相对于所述先前集束RACH消息的发射功率增加所述集束RACH消息的发射功率中的至少一者的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0027">
+      <business:ClaimText>根据权利要求19所述的装置,还包括：用于从所述BS接收捆绑的随机接入响应消息的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0028">
+      <business:ClaimText>如权利要求27所述的装置,其特征在于,所述集束随机接入响应消息的控制部分的窄带区域或集束大小中的至少一者至少部分地基于对来自所选择的集束RACH消息的至少一个属性的确定。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0029">
+      <business:ClaimText>根据权利要求27所述的装置,其中,所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0030">
+      <business:ClaimText>根据权利要求27所述的装置,其中,所述集束随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0031">
+      <business:ClaimText>根据权利要求27所述的装置,进一步包括：用于发送连接请求消息的单元,其中,所述集束随机接入响应消息指示窄带区域或集束大小中的至少一者,以供所述装置发送所述连接请求消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0032">
+      <business:ClaimText>根据权利要求31所述的装置,进一步包括：用于接收竞争解决消息的单元,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述装置从所述BS接收所述竞争解决消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0033">
+      <business:ClaimText>根据权利要求27所述的装置,还包括：用于发送连接请求消息的单元,其中,所述捆绑随机接入响应消息提供用于发送所述连接请求消息的准许,所述准许指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符、以及发射功率控制(TPC)中的至少一者的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0034">
+      <business:ClaimText>如权利要求27所述的装置,其特征在于,进一步包括：用于发送连接请求消息的单元,其中,发送所述连接请求消息的定时至少部分地基于所述集束随机接入响应消息或所述连接请求消息中的至少一者的集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0035">
+      <business:ClaimText>如权利要求27所述的装置,其特征在于,进一步包括用于接收竞争解决消息的单元,其中,来自所述BS的所述竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0036">
+      <business:ClaimText>根据权利要求19所述的装置,还包括：用于应用所述装置的用于确定要从所述BS收集的消息的类型的优先级的单元,其中,用于至少部分地基于所述装置的所述优先级来监视来自所述BS的消息的所述类型的单元,其中,所述消息的所述类型包括随机接入响应消息、寻呼消息、或者携带系统信息的广播消息中的一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0037">
+      <business:ClaimText>一种用于无线通信的装置,包括： 确定所述装置可以向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧； 至少一个处理器,其被配置为：确定所述多个子帧内的用于发送所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量,发射机,其被配置为：至少部分地基于所确定的集束大小,在所述多个子帧的所述至少一个窄带区域中发送所述集束RACH消息；</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0038">
+      <business:ClaimText>1.一种用于由用户设备(UE)进行无线通信的计算机可读介质,包括： 用于确定多个子帧的代码,在所述多个子帧中,所述UE可以向基站(BS)发送集束随机接入信道(RACH)消息； 用于确定用于在所述多个子帧内发送所述集束RACH消息的至少一个窄带区域的代码,用于确定所述集束RACH消息的集束大小的代码,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中发送所述集束RACH消息的代码,其中,所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0039">
+      <business:ClaimText>一种用于由基站(BS)进行无线通信的方法,包括： 确定用户设备(UE)可以在其中向所述BS发送集束随机接入信道(RACH)消息的多个子帧,确定所述多个子帧内的用于接收所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,以及至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中接收所述集束RACH消息,其中所述集束大小指示在其中由所述UE发送所述集束RACH消息的所述多个子帧的数量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0040">
+      <business:ClaimText>根据权利要求39所述的方法,其中,所述多个子帧是至少部分地基于可用作所述集束RACH消息的起始子帧的特定子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0041">
+      <business:ClaimText>根据权利要求39所述的方法,其中,用于所述集束RACH消息的所述集束大小是至少部分地基于来自所述BS的广播信令来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0042">
+      <business:ClaimText>如权利要求39所述的方法,其中,所述集束RACH消息的所述集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0043">
+      <business:ClaimText>根据权利要求39所述的方法,其中,所述集束RACH消息的所述集束大小是至少部分地基于估计的覆盖增强目标来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0044">
+      <business:ClaimText>根据权利要求39所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于所述BS成功地解码先前集束RACH消息的成功或失败来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0045">
+      <business:ClaimText>根据权利要求44所述的方法,其中,所述成功或失败是至少部分地基于所述UE成功解码来自所述BS的针对先前集束RACH消息的随机接入响应消息来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0046">
+      <business:ClaimText>根据权利要求39所述的方法,还包括：从所述BS传送捆绑的随机接入响应消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0047">
+      <business:ClaimText>如权利要求46所述的方法,其特征在于,所述集束随机接入响应消息的控制部分的集束大小或窄带区域中的至少一者是至少部分地基于对来自所述集束RACH消息的至少一个属性的确定来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0048">
+      <business:ClaimText>如权利要求47所述的方法,其中,来自所述集束RACH消息的所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0049">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0050">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE发送连接请求消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0051">
+      <business:ClaimText>根据权利要求50所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE从所述BS接收竞争解决消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0052">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述捆绑随机接入响应消息提供用于发送连接请求消息的授权,所述授权指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符、以及发射功率控制(TPC)中的至少一者的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0053">
+      <business:ClaimText>如权利要求46所述的方法,其特征在于,接收连接请求消息的定时至少部分地基于所述集束随机接入响应消息或所述连接请求消息中的至少一者的集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0054">
+      <business:ClaimText>根据权利要求46所述的方法,其中,来自所述BS的竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0055">
+      <business:ClaimText>一种用于无线通信的装置,包括： 用于确定多个子帧的单元,在所述多个子帧中,用户设备(UE)可以向所述装置发送集束随机接入信道(RACH)消息； 用于在所述多个子帧内确定用于接收所述集束RACH消息的至少一个窄带区域的单元,用于确定所述集束RACH消息的集束大小的单元,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中接收所述集束RACH消息的单元,其中,所述集束大小指示在其上由所述UE发送所述集束RACH消息的所述多个子帧的数量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0056">
+      <business:ClaimText>根据权利要求55所述的装置,其中,所述多个子帧是至少部分地基于可用作所述集束RACH消息的起始子帧的特定子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0057">
+      <business:ClaimText>如权利要求55所述的装置,其中,用于所述集束RACH消息的所述集束大小是至少部分地基于来自所述装置的广播信令来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0058">
+      <business:ClaimText>如权利要求55所述的装置,其特征在于,所述集束RACH消息的所述集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0059">
+      <business:ClaimText>根据权利要求55所述的装置,其中,所述集束RACH消息的所述集束大小是至少部分地基于估计的覆盖增强目标来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0060">
+      <business:ClaimText>根据权利要求55所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于所述装置成功解码先前集束RACH消息的成功或失败来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0061">
+      <business:ClaimText>根据权利要求60所述的装置,其中,所述成功或失败是至少部分地基于所述UE成功解码来自所述装置的针对先前捆绑的RACH消息的随机接入响应消息来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0062">
+      <business:ClaimText>如权利要求55所述的装置,其特征在于,还包括：用于从所述装置发送捆绑的随机接入响应消息的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0063">
+      <business:ClaimText>如权利要求62所述的装置,其特征在于,所述集束随机接入响应消息的控制部分的窄带区域或集束大小中的至少一者至少部分地基于对来自所述集束RACH消息的至少一个属性的确定。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0064">
+      <business:ClaimText>如权利要求63所述的装置,其特征在于,来自所述集束RACH消息的所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0065">
+      <business:ClaimText>根据权利要求62所述的装置,其中,所述集束随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0066">
+      <business:ClaimText>根据权利要求62所述的装置,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE发送连接请求消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0067">
+      <business:ClaimText>根据权利要求66所述的装置,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE从所述装置接收竞争解决消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0068">
+      <business:ClaimText>根据权利要求62所述的装置,其中,所述捆绑随机接入响应消息提供用于发送连接请求消息的准许,所述准许指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符、以及发射功率控制(TPC)中的至少一者的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0069">
+      <business:ClaimText>如权利要求62所述的装置,其特征在于,进一步包括用于接收连接请求消息的单元,其中,接收所述连接请求消息的定时至少部分地基于所述集束随机接入响应消息或所述连接请求消息中的至少一者的集束大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0070">
+      <business:ClaimText>如权利要求62所述的装置,进一步包括用于发送竞争解决消息的单元,其中,来自所述装置的所述竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0071">
+      <business:ClaimText>一种用于无线通信的装置,包括： 确定用户设备(UE)可以在其中向所述装置发送集束随机接入信道(RACH)消息的多个子帧； 至少一个处理器,其被配置为：确定所述多个子帧内的用于接收所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,所述集束大小指示在其上由所述UE发送所述集束RACH消息的所述多个子帧的数量,接收机,其被配置为：至少部分地基于所确定的集束大小,在所述多个子帧的所述至少一个窄带区域中接收所述集束RACH消息；</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0072">
+      <business:ClaimText>一种用于由基站(BS)进行无线通信的计算机可读介质,包括： 所述计算机可读介质包括： 用于确定多个子帧的代码,在所述多个子帧中,用户设备(UE)可以向所述BS发送捆绑的随机接入信道(RACH)消息； 用于在所述多个子帧内确定用于接收所述集束RACH消息的至少一个窄带区域的代码,用于确定所述集束RACH消息的集束大小的代码,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中接收所述集束RACH消息的代码,其中,所述集束大小指示在其中由所述UE发送所述集束RACH消息的所述多个子帧的数量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0073">
+      <business:ClaimText>从随机接入信道(RACH)前导码集合中选择RACH前导码,发送包括所述RACH前导码的物理RACH(PRACH)消息,至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源,以及在所述RAR资源上接收所述RAR消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0074">
+      <business:ClaimText>根据权利要求73所述的方法,还包括至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选,以及对所述一个或多个控制信道候选进行盲解码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0075">
+      <business:ClaimText>根据权利要求74所述的方法,其中,识别所述一个或多个控制信道解码候选包括确定聚合等级、RAR消息捆绑大小、或RAR消息分组大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0076">
+      <business:ClaimText>根据权利要求75所述的方法,其中,所述聚合等级包括增强型控制信道元素(ECCE)。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0077">
+      <business:ClaimText>根据权利要求75所述的方法,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0078">
+      <business:ClaimText>根据权利要求73所述的方法,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0079">
+      <business:ClaimText>根据权利要求73所述的方法,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0080">
+      <business:ClaimText>根据权利要求79所述的方法,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0081">
+      <business:ClaimText>接收包括RACH前导码的物理随机接入信道(PRACH)消息,以及至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0082">
+      <business:ClaimText>根据权利要求81所述的方法,还包括：至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0083">
+      <business:ClaimText>用于从随机接入信道(RACH)前导码集合中选择RACH前导码的装置,用于发送包括所述RACH前导码的物理RACH(PRACH)消息的装置,用于至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源的装置,以及用于在所述RAR资源上接收所述RAR消息的装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0084">
+      <business:ClaimText>根据权利要求83所述的装置,还包括：用于至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选的单元,以及用于对所述一个或多个控制信道候选进行盲解码的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0085">
+      <business:ClaimText>根据权利要求84所述的装置,其中,所述用于识别所述一个或多个控制信道解码候选的单元包括用于确定聚合等级、RAR消息捆绑大小、或RAR消息分组大小中的至少一者的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0086">
+      <business:ClaimText>根据权利要求85所述的装置,其中,所述聚合等级包括增强型控制信道元素(ECCE)。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0087">
+      <business:ClaimText>根据权利要求85所述的装置,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0088">
+      <business:ClaimText>根据权利要求83所述的装置,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0089">
+      <business:ClaimText>根据权利要求83所述的装置,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧、或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0090">
+      <business:ClaimText>根据权利要求89所述的装置,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0091">
+      <business:ClaimText>用于接收包括RACH前导码的物理随机接入信道(PRACH)消息的装置,以及用于至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源的装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0092">
+      <business:ClaimText>根据权利要求91所述的装置,还包括：用于至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0093">
+      <business:ClaimText>至少一个处理器,其被配置为从随机接入信道(RACH)前导码集合中选择RACH前导码,经由发射机发送包括所述RACH前导码的物理RACH(PRACH)消息,至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源,以及经由接收机在所述RAR资源上接收所述RAR消息,以及耦合到所述至少一个处理器的存储器。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0094">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述至少一个处理器还被配置为：至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选,以及对所述一个或多个控制信道候选进行盲解码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0095">
+      <business:ClaimText>根据权利要求94所述的装置,其中,所述至少一个处理器被配置为确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0096">
+      <business:ClaimText>根据权利要求95所述的装置,其中,所述聚合等级包括增强型控制信道元素(ECCE)。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0097">
+      <business:ClaimText>根据权利要求95所述的装置,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0098">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0099">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧、或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0100">
+      <business:ClaimText>根据权利要求99所述的装置,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0101">
+      <business:ClaimText>一种用于无线通信的装置,包括：接收机,其被配置为接收包括RACH前导码的物理随机接入信道(PRACH)消息；至少一个处理器,其被配置为至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源；以及存储器,其耦合到所述至少一个处理器。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0102">
+      <business:ClaimText>根据权利要求101所述的装置,其中,所述至少一个处理器还被配置为：至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0103">
+      <business:ClaimText>用于从随机接入信道(RACH)前导码集合中选择RACH前导码的代码,用于发送包括所述RACH前导码的物理RACH(PRACH)消息的代码,用于至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源的代码,以及用于在所述RAR资源上接收所述RAR消息的代码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0104">
+      <business:ClaimText>根据权利要求103所述的非瞬态计算机可读介质,还包括：用于至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选的代码,以及用于对所述一个或多个控制信道候选进行盲解码的代码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0105">
+      <business:ClaimText>根据权利要求104所述的非瞬态计算机可读介质,其中,用于识别所述一个或多个控制信道解码候选的所述代码包括用于确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一者的代码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0106">
+      <business:ClaimText>根据权利要求105所述的非暂时性计算机可读介质,其中,所述聚合等级包括增强型控制信道元素(ECCE)。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0107">
+      <business:ClaimText>根据权利要求105所述的非暂时性计算机可读介质,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0108">
+      <business:ClaimText>根据权利要求103所述的非暂时性计算机可读介质,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0109">
+      <business:ClaimText>根据权利要求103所述的非暂时性计算机可读介质,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0110">
+      <business:ClaimText>根据权利要求109所述的非暂时性计算机可读介质,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0111">
+      <business:ClaimText>用于接收包括RACH前导码的物理随机接入信道(PRACH)消息的代码,以及用于至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源的代码。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0112">
+      <business:ClaimText>根据权利要求111所述的非瞬态计算机可读介质,还包括：用于至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小的代码。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <base:Paragraphs num="0124">[00131]提供对本公开内容的先前描述是为了使本领域技术人员能够制作或使用本公开内容。对本公开内容的各种修改对于本领域技术人员将是显而易见的,并且在不脱离本公开内容的精神或范围的情况下,本文定义的一般原理可以应用于其他变型。因此,本公开内容不旨在限于本文所描述的示例和设计,而是要符合与本文所公开的原理和新颖性特征相一致的最宽范围。以下,附记本申请的申请最初的权利要求书所记载的发明。[C1]一种用于由用户设备(UE)进行无线通信的方法,包括： 确定所述UE可以在其中向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧,确定所述多个子帧内的用于发送所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,以及至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中发送所述集束RACH消息,其中所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量。[C2]根据C1所述的方法,其中,所述多个子帧是至少部分地基于可用作所述集束RACH消息的起始子帧的特定子帧来确定的。[C3]如C1所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于来自所述BS的广播信令来确定的。[C4]根据C1所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。[C5]根据C1所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于估计的覆盖增强目标来确定的。[C6]根据C1所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于所述BS成功解码先前集束RACH消息的成功或失败来确定的。[C7]根据C6所述的方法,其中,所述成功或失败是至少部分地基于成功解码来自所述BS的针对先前发送的集束RACH消息的随机接入响应消息来确定的。[C8]根据C6所述的方法,还包括以下各项中的至少一项：响应于所述BS未能成功解码所述先前捆绑RACH消息,相对于所述先前捆绑RACH消息的捆绑大小增加所述捆绑RACH消息的捆绑大小,或者相对于所述先前捆绑RACH消息的发射功率增加所述捆绑RACH消息的发射功率。[C9]如C1所述的方法,还包括：从所述BS接收捆绑的随机接入响应消息。[C10]如C9所述的方法,其中,所述集束随机接入响应消息的控制部分的窄带区域或集束大小中的至少一者至少部分地基于对来自所选择的集束RACH消息的至少一个属性的确定。[C11]根据C10所述的方法,其中,所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。[C12]如C9所述的方法,其中,所述集束随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。[C13]根据C9所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE发送连接请求消息。[C14]根据C13所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE从所述BS接收竞争解决消息。[C15]根据C9所述的方法,其中,所述捆绑随机接入响应消息提供用于发送连接请求消息的授权,所述授权指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符和发射功率控制(TPC)中的至少一个的信息。[C16]如C9所述的方法,其中,发送连接请求消息的定时至少部分地基于所述捆绑随机接入响应消息或所述连接请求消息中的至少一者的捆绑大小。[C17]如C9所述的方法,其中,来自所述BS的竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。[C18]根据C1所述的方法,还包括：应用所述UE的优先级来确定要从所述BS收集的消息的类型,其中,至少部分地基于所述UE的所述优先级来监视来自所述BS的消息的所述类型,其中,所述消息的所述类型包括随机接入响应消息、寻呼消息、或者携带系统信息的广播消息中的一者。[C19]一种用于无线通信的装置,包括： 用于确定所述装置可以在其中向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧的单元,用于在所述多个子帧内确定用于发送所述集束RACH消息的至少一个窄带区域的单元,用于确定所述集束RACH消息的集束大小的单元,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中发送所述集束RACH消息的单元,其中所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量。[C20]根据C19所述的装置,其中,所述多个子帧是至少部分地基于可用作所述集束RACH消息的起始子帧的特定子帧来确定的。[C21]如C19所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于来自所述BS的广播信令来确定的。[C22]如C19所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。[C23]如C19所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于估计的覆盖增强目标来确定的。[C24]如C19所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于所述BS成功解码先前集束RACH消息的成功或失败来确定的。[C25]如C24所述的装置,还包括：用于解码随机接入响应消息的单元,其中,所述成功或失败是至少部分地基于成功解码来自所述BS的针对先前发送的集束RACH消息的所述随机接入响应消息来确定的。[C26]根据C24所述的装置,还包括：用于响应于所述BS成功解码所述先前集束RACH消息的失败,相对于所述先前集束RACH消息的集束大小增加所述集束RACH消息的集束大小,或者相对于所述先前集束RACH消息的发射功率增加所述集束RACH消息的发射功率中的至少一者的单元。[C27]如C19所述的装置,还包括：用于从所述BS接收捆绑的随机接入响应消息的单元。[C28]根据C27所述的装置,其中,所述集束随机接入响应消息的控制部分的窄带区域或集束大小中的至少一者至少部分地基于对来自所选择的集束RACH消息的至少一个属性的确定。[C29]根据C27所述的装置,其中,所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。[C30]根据C27所述的装置,其中,所述集束随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。[C31]根据C27所述的装置,还包括：用于发送连接请求消息的单元,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述装置发送所述连接请求消息。[C32]根据C31所述的装置,还包括：用于接收竞争解决消息的单元,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述装置从所述BS接收所述竞争解决消息。[C33]根据C27所述的装置,还包括：用于发送连接请求消息的单元,其中,所述捆绑随机接入响应消息提供用于发送所述连接请求消息的授权,所述授权指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符和发射功率控制(TPC)中的至少一者的信息。[C34]如C27所述的装置,还包括：用于发送连接请求消息的单元,其中,发送所述连接请求消息的定时至少部分地基于所述捆绑随机接入响应消息或所述连接请求消息中的至少一者的捆绑大小。[C35]如C27所述的装置,进一步包括：用于接收竞争解决消息的单元,其中,来自所述BS的所述竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。[C36]如C19所述的装置,还包括：用于应用所述装置的优先级来确定要从所述BS收集的消息的类型的单元,以及用于至少部分地基于所述装置的所述优先级来监视来自所述BS的消息的所述类型的单元,其中,所述消息的所述类型包括随机接入响应消息、寻呼消息、或者携带系统信息的广播消息中的一者。[C37]一种用于无线通信的装置,包括： 确定所述装置可以向基站(BS)发送集束随机接入信道(RACH)消息的多个子帧； 至少一个处理器,其被配置为：确定所述多个子帧内的用于发送所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量,发射机,其被配置为：至少部分地基于所确定的集束大小,在所述多个子帧的所述至少一个窄带区域中发送所述集束RACH消息；[C38]一种用于由用户设备(UE)进行无线通信的计算机可读介质,包括： 用于确定多个子帧的代码,在所述多个子帧中,所述UE可以向基站(BS)发送集束随机接入信道(RACH)消息； 用于确定用于在所述多个子帧内发送所述集束RACH消息的至少一个窄带区域的代码,用于确定所述集束RACH消息的集束大小的代码,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中发送所述集束RACH消息的代码,其中,所述集束大小指示在其中发送所述集束RACH消息的所述多个子帧的数量。[C39]一种用于由基站(BS)进行无线通信的方法,包括： 确定用户设备(UE)可以在其中向所述BS发送集束随机接入信道(RACH)消息的多个子帧,确定所述多个子帧内的用于接收所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,以及至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中接收所述集束RACH消息,其中所述集束大小指示在其中由所述UE发送所述集束RACH消息的所述多个子帧的数量。[C40]如C39所述的方法,其中,所述多个子帧是至少部分地基于可用作所述集束RACH消息的起始子帧的特定子帧来确定的。[C41]如C39所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于来自所述BS的广播信令来确定的。[C42]如C39所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。[C43]如C39所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于估计的覆盖增强目标来确定的。[C44]如C39所述的方法,其中,所述集束RACH消息的集束大小是至少部分地基于所述BS成功解码先前集束RACH消息的成功或失败来确定的。[C45]如C44所述的方法,其中,所述成功或失败是至少部分地基于所述UE成功解码来自所述BS的针对先前捆绑的RACH消息的随机接入响应消息来确定的。[C46]如C39所述的方法,还包括：从所述BS发送捆绑的随机接入响应消息。[C47]如C46所述的方法,其中,所述集束随机接入响应消息的控制部分的集束大小或窄带区域中的至少一者是至少部分地基于对来自所述集束RACH消息的至少一个属性的确定来确定的。[C48]如C47所述的方法,其中,来自所述集束RACH消息的所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。[C49]如C46所述的方法,其中,所述随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。[C50]如C46所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE发送连接请求消息。[C51]如C50所述的方法,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE从所述BS接收竞争解决消息。[C52]如C46所述的方法,其中,所述捆绑随机接入响应消息提供用于发送连接请求消息的授权,所述授权指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符和发射功率控制(TPC)中的至少一个的信息。[C53]如C46所述的方法,其中,接收连接请求消息的定时至少部分地基于所述捆绑随机接入响应消息或所述连接请求消息中的至少一者的捆绑大小。[C54]如C46所述的方法,其中,来自所述BS的竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。[C55]一种用于无线通信的装置,包括： 用于确定多个子帧的单元,在所述多个子帧中,用户设备(UE)可以向所述装置发送集束随机接入信道(RACH)消息； 用于在所述多个子帧内确定用于接收所述集束RACH消息的至少一个窄带区域的单元,用于确定所述集束RACH消息的集束大小的单元,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中接收所述集束RACH消息的单元,其中,所述集束大小指示在其上由所述UE发送所述集束RACH消息的所述多个子帧的数量。[C56]如C55所述的装置,其中,所述多个子帧是至少部分地基于可用作所述集束RACH消息的起始子帧的特定子帧来确定的。[C57]如C55所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于来自所述装置的广播信令来确定的。[C58]如C55所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于所述集束RACH消息的所述至少一个窄带区域的位置或起始子帧来确定的。[C59]如C55所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于估计的覆盖增强目标来确定的。[C60]如C55所述的装置,其中,所述集束RACH消息的集束大小是至少部分地基于所述装置成功解码先前集束RACH消息的成功或失败来确定的。[C61]如C60所述的装置,其中,所述成功或失败是至少部分地基于所述UE成功解码来自所述装置的针对先前捆绑的RACH消息的随机接入响应消息来确定的。[C62]根据C55所述的装置,还包括：用于从所述装置发送捆绑的随机接入响应消息的单元。[C63]如C62所述的装置,其中,所述集束随机接入响应消息的控制部分的窄带区域或集束大小中的至少一者至少部分地基于对来自所述集束RACH消息的至少一个属性的确定。[C64]如C63所述的装置,其中,来自所述集束RACH消息的所述至少一个属性包括所述集束RACH消息的所述至少一个窄带区域或所述集束大小中的至少一者。[C65]根据C62所述的装置,其中,所述集束随机接入响应消息的定时至少部分地基于所述集束RACH消息的所述集束大小。[C66]根据C62所述的装置,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE发送连接请求消息。[C67]根据C66所述的装置,其中,所述捆绑随机接入响应消息指示窄带区域或捆绑大小中的至少一者,以供所述UE从所述装置接收竞争解决消息。[C68]根据C62所述的装置,其中,所述捆绑随机接入响应消息提供用于发送连接请求消息的授权,所述授权指示关于传输块大小(TBS)、捆绑长度、子带跳变指示符和发射功率控制(TPC)中的至少一者的信息。[C69]如C62所述的装置,还包括：用于接收连接请求消息的单元,其中,接收所述连接请求消息的定时至少部分地基于所述捆绑随机接入响应消息或所述连接请求消息中的至少一者的捆绑大小。[C70]如C62所述的装置,进一步包括：用于发送竞争解决消息的单元,其中,来自所述装置的所述竞争解决消息的窄带区域或集束大小中的至少一者是至少部分地基于所述集束随机接入响应消息的窄带区域或集束大小中的至少一者来确定的。[C71]一种用于无线通信的装置,包括： 确定用户设备(UE)可以在其中向所述装置发送集束随机接入信道(RACH)消息的多个子帧； 至少一个处理器,其被配置为：确定所述多个子帧内的用于接收所述集束RACH消息的至少一个窄带区域,确定所述集束RACH消息的集束大小,所述集束大小指示在其上由所述UE发送所述集束RACH消息的所述多个子帧的数量,接收机,其被配置为：至少部分地基于所确定的集束大小,在所述多个子帧的所述至少一个窄带区域中接收所述集束RACH消息；[C72]一种用于由基站(BS)进行无线通信的计算机可读介质,包括： 所述计算机可读介质包括： 用于确定多个子帧的代码,在所述多个子帧中,用户设备(UE)可以向所述BS发送捆绑的随机接入信道(RACH)消息； 用于在所述多个子帧内确定用于接收所述集束RACH消息的至少一个窄带区域的代码,用于确定所述集束RACH消息的集束大小的代码,以及用于至少部分地基于所确定的集束大小来在所述多个子帧中的所述至少一个窄带区域中接收所述集束RACH消息的代码,其中,所述集束大小指示在其中由所述UE发送所述集束RACH消息的所述多个子帧的数量。[C73]一种无线通信的方法,包括：从随机接入信道(RACH)前导码集合中选择RACH前导码,发送包括所述RACH前导码的物理RACH(PRACH)消息,至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源,以及在所述RAR资源上接收所述RAR消息。[C74]如C73所述的方法,还包括：至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选,以及对所述一个或多个控制信道候选进行盲解码。[C75]如C74所述的方法,其中,识别所述一个或多个控制信道解码候选包括：确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一者。[C76]如C75所述的方法,其中,所述聚合等级包括增强型控制信道元素(ECCE)。[C77]如C75所述的方法,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。[C78]如C73所述的方法,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。[C79]如C73所述的方法,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。[C80]根据C79所述的方法,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。[C81]一种无线通信的方法,包括：接收包括RACH前导码的物理随机接入信道(PRACH)消息,以及至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源。[C82]如C81所述的方法,还包括：至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小。[C83]一种用于无线通信的装置,包括：用于从随机接入信道(RACH)前导码集合中选择RACH前导码的单元,用于发送包括所述RACH前导码的物理RACH(PRACH)消息的单元,用于至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源的单元,以及用于在所述RAR资源上接收所述RAR消息的单元。[C84]根据C83所述的装置,还包括：用于至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选的单元,以及用于对所述一个或多个控制信道候选进行盲解码的单元。[C85]根据C84所述的装置,其中,所述用于识别所述一个或多个控制信道解码候选的单元包括：用于确定聚合等级、RAR消息捆绑大小、或RAR消息分组大小中的至少一者的单元。[C86]如C85所述的装置,其中,所述聚合等级包括增强型控制信道元素(ECCE)。[C87]如C85所述的装置,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。[C88]根据C83所述的装置,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。[C89]如C83所述的装置,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。[C90]根据C89所述的装置,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。[C91]一种用于无线通信的装置,包括：用于接收包括RACH前导码的物理随机接入信道(PRACH)消息的单元,以及用于至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源的单元。[C92]根据C91所述的装置,还包括：用于至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小的单元。[C93]一种用于无线通信的装置,包括：至少一个处理器,其被配置为从随机接入信道(RACH)前导码集合中选择RACH前导码,经由发射机发送包括所述RACH前导码的物理RACH(PRACH)消息,至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源,以及经由接收机在所述RAR资源上接收所述RAR消息,以及耦合到所述至少一个处理器的存储器。[C94]根据C93所述的装置,其中,所述至少一个处理器还被配置为：至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选,以及对所述一个或多个控制信道候选进行盲解码。[C95]根据C94所述的装置,其中,所述至少一个处理器被配置为确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一个。[C96]如C95所述的装置,其中,所述聚合等级包括增强型控制信道元素(ECCE)。[C97]如C95所述的装置,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。[C98]根据C93所述的装置,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。[C99]如C93所述的装置,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。[C100]根据C99所述的装置,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。[C101]一种用于无线通信的装置,包括：被配置为接收包括RACH前导码的物理随机接入信道(PRACH)消息的接收机,被配置为至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源的至少一个处理器,以及耦合到所述至少一个处理器的存储器。[C102]根据C101所述的装置,其中,所述至少一个处理器还被配置为：至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小。[C103]一种其上存储有计算机可执行代码的非暂时性计算机可读介质,所述计算机可执行代码包括：用于从随机接入信道(RACH)前导码集合中选择RACH前导码的代码,用于发送包括所述RACH前导码的物理RACH(PRACH)消息的代码,用于至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源的代码,以及用于在所述RAR资源上接收所述RAR消息的代码。[C104]如C103所述的非瞬态计算机可读介质,还包括：用于至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选的代码,以及用于对所述一个或多个控制信道候选进行盲解码的代码。[C105]如C104所述的非瞬态计算机可读介质,其中,用于识别所述一个或多个控制信道解码候选的所述代码包括用于确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一项的代码。[C106]如C105所述的非暂时性计算机可读介质,其中,所述聚合等级包括增强型控制信道元素(ECCE)。[C107]如C105所述的非暂时性计算机可读介质,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。[C108]如C103所述的非暂时性计算机可读介质,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。[C109]如C103所述的非暂时性计算机可读介质,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。[C110]如C109所述的非暂时性计算机可读介质,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。[C111]一种存储有计算机可执行代码的非暂时性计算机可读介质,所述计算机可执行代码包括：用于接收包括RACH前导码的物理随机接入信道(PRACH)消息的代码,以及用于至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源的代码。[C112]根据C111所述的非暂时性计算机可读介质,还包括：用于至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小的代码。</base:Paragraphs>
+      </business:Description>
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>从随机接入信道(RACH)前导码集合中选择RACH前导码,发送包括所述RACH前导码的物理RACH(PRACH)消息,至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源,以及在所述RAR资源上接收所述RAR消息。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>根据权利要求1所述的方法,还包括至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选,以及对所述一个或多个控制信道候选进行盲解码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>根据权利要求2所述的方法,其中,识别所述一个或多个控制信道解码候选包括确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一者。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>根据权利要求3所述的方法,其中,所述聚合等级包括扩展控制信道元素(ECCE)。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>根据权利要求3所述的方法,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>根据权利要求1所述的方法,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>根据权利要求1所述的方法,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>根据权利要求7所述的方法,所述RAR消息捆绑尺寸不依赖于PRACH消息捆绑尺寸。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>接收包括RACH前导码的物理随机接入信道(PRACH)消息,以及至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>根据权利要求9所述的方法,还包括：至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>用于从随机接入信道(RACH)前导码集合中选择RACH前导码的装置,用于发送包括所述RACH前导码的物理RACH(PRACH)消息的装置,用于至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源的装置,以及用于在所述RAR资源上接收所述RAR消息的装置。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>根据权利要求11所述的装置,还包括：用于至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选的单元,以及用于对所述一个或多个控制信道候选进行盲解码的单元。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>根据权利要求12所述的装置,其中,所述用于识别所述一个或多个控制信道解码候选的单元包括用于确定聚合等级、RAR消息捆绑大小、或RAR消息分组大小中的至少一者的单元。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>根据权利要求13所述的装置,其中,所述聚合等级包括增强型控制信道元素(ECCE)。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0015">
+          <business:ClaimText>根据权利要求13所述的装置,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0016">
+          <business:ClaimText>根据权利要求11所述的装置,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0017">
+          <business:ClaimText>根据权利要求11所述的装置,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0018">
+          <business:ClaimText>根据权利要求17所述的装置,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0019">
+          <business:ClaimText>用于接收包括RACH前导码的物理随机接入信道(PRACH)消息的装置,以及用于至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源的装置。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0020">
+          <business:ClaimText>根据权利要求19所述的装置,还包括：用于至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小的单元。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0021">
+          <business:ClaimText>至少一个处理器,其被配置为从随机接入信道(RACH)前导码集合中选择RACH前导码,经由发射机发送包括所述RACH前导码的物理RACH(PRACH)消息,至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源,以及经由接收机在所述RAR资源上接收所述RAR消息,以及耦合到所述至少一个处理器的存储器。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0022">
+          <business:ClaimText>根据权利要求21所述的装置,其中,所述至少一个处理器还被配置为：至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选,以及对所述一个或多个控制信道候选进行盲解码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0023">
+          <business:ClaimText>根据权利要求22所述的装置,其中,所述至少一个处理器被配置为确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一者。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0024">
+          <business:ClaimText>根据权利要求23所述的装置,其中,所述聚合等级包括增强型控制信道元素(ECCE)。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0025">
+          <business:ClaimText>根据权利要求23所述的装置,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0026">
+          <business:ClaimText>根据权利要求21所述的装置,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0027">
+          <business:ClaimText>根据权利要求21所述的装置,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0028">
+          <business:ClaimText>根据权利要求27所述的装置,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0029">
+          <business:ClaimText>一种用于无线通信的装置,包括：接收机,其被配置为接收包括RACH前导码的物理随机接入信道(PRACH)消息；至少一个处理器,其被配置为至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源；以及存储器,其耦合到所述至少一个处理器。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0030">
+          <business:ClaimText>根据权利要求29所述的装置,其中,所述至少一个处理器还被配置为：至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0031">
+          <business:ClaimText>用于从随机接入信道(RACH)前导码集合中选择RACH前导码的代码,用于发送包括所述RACH前导码的物理RACH(PRACH)消息的代码,用于至少部分地基于所述RACH前导码来确定用于接收随机接入响应(RAR)消息的RAR资源的代码,以及用于在所述RAR资源上接收所述RAR消息的代码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0032">
+          <business:ClaimText>根据权利要求31所述的非瞬态计算机可读介质,还包括：用于至少部分地基于所述RACH前导码来识别一个或多个控制信道解码候选的代码,以及用于对所述一个或多个控制信道候选进行盲解码的代码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0033">
+          <business:ClaimText>根据权利要求32所述的非瞬态计算机可读介质,其中,用于识别所述一个或多个控制信道解码候选的所述代码包括用于确定聚合等级、RAR消息捆绑大小或RAR消息分组大小中的至少一者的代码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0034">
+          <business:ClaimText>根据权利要求33所述的非暂时性计算机可读介质,其中,所述聚合等级包括增强型控制信道元素(ECCE)。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0035">
+          <business:ClaimText>根据权利要求33所述的非暂时性计算机可读介质,其中,所述RAR消息分组大小至少部分地基于所述RACH前导码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0036">
+          <business:ClaimText>根据权利要求31所述的非暂时性计算机可读介质,其中,所述RACH前导码是至少部分地基于所述RAR消息的捆绑大小来选择的。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0037">
+          <business:ClaimText>根据权利要求31所述的非暂时性计算机可读介质,其中,所述RAR资源包括载波带宽的窄带频域、起始传输时间、起始子帧或RAR消息捆绑大小中的至少一者。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0038">
+          <business:ClaimText>根据权利要求37所述的非暂时性计算机可读介质,其中,所述RAR消息捆绑大小不取决于PRACH消息捆绑大小。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0039">
+          <business:ClaimText>用于接收包括RACH前导码的物理随机接入信道(PRACH)消息的代码,以及用于至少部分地基于所述RACH前导码来选择用于发送随机接入响应(RAR)消息的RAR资源的代码。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0040">
+          <business:ClaimText>根据权利要求39所述的非瞬态计算机可读介质,还包括：用于至少部分地基于所述RACH前导码来确定所述RAR消息的捆绑大小的代码。</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

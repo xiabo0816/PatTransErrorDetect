@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="US101995000412814US00000057062140AFULEN19980106US00W.XML" dateProduced="20160817" status="C" lang="en" country="US" docNumber="5706214" kind="A" datePublication="19980106">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>05706214</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19980106</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>5706214</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19980106</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant>
+        <base:DocumentID>
+          <base:Date>19980106</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>08/412814</base:DocNumber>
+        <base:Date>19950329</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>101995000412814</base:DocNumber>
+        <base:Date>19950329</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPC>
+      <base:EditionStatement>6</base:EditionStatement>
+      <business:MainClassification dataFormat="original">G01R02106</business:MainClassification>
+      <business:MainClassification dataFormat="standard">G01R0021060000</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">H03M00110</business:FurtherClassification>
+      <business:FurtherClassification sequence="1" dataFormat="standard">H03M0001100000</business:FurtherClassification>
+    </business:ClassificationIPC>
+    <business:ClassificationNational>
+      <business:MainClassification dataFormat="original">700286</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">324142</business:FurtherClassification>
+      <business:FurtherClassification sequence="2" dataFormat="original">702061</business:FurtherClassification>
+    </business:ClassificationNational>
+    <business:InventionTitle lang="en" sourceDB="US">微机计量器具的校准</business:InventionTitle>
+    <business:ReferencesCited>
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:ApplicationCitation id="pcit000001" num="0001">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4672555</base:DocNumber>
+              <base:Date>19870600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04672555</base:DocNumber>
+              <base:Date>19870600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hart et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>364483</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="2">
+        <business:ApplicationCitation id="pcit000002" num="0002">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4794369</base:DocNumber>
+              <base:Date>19881200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04794369</base:DocNumber>
+              <base:Date>19881200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Haferd</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>364483</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="3">
+        <business:ApplicationCitation id="pcit000003" num="0003">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4814696</base:DocNumber>
+              <base:Date>19890300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04814696</base:DocNumber>
+              <base:Date>19890300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Kern et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324142</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="4">
+        <business:ApplicationCitation id="pcit000004" num="0004">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4884021</base:DocNumber>
+              <base:Date>19891100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04884021</base:DocNumber>
+              <base:Date>19891100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hammond et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324142</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="5">
+        <business:ApplicationCitation id="pcit000005" num="0005">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4892282</base:DocNumber>
+              <base:Date>19900100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04892282</base:DocNumber>
+              <base:Date>19900100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Orwell</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>36457101</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="6">
+        <business:ApplicationCitation id="pcit000006" num="0006">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4933869</base:DocNumber>
+              <base:Date>19900600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04933869</base:DocNumber>
+              <base:Date>19900600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Gareis et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>364582</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="7">
+        <business:ApplicationCitation id="pcit000007" num="0007">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4937520</base:DocNumber>
+              <base:Date>19900600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04937520</base:DocNumber>
+              <base:Date>19900600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Arseneau et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324141</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="8">
+        <business:ApplicationCitation id="pcit000008" num="0008">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4980634</base:DocNumber>
+              <base:Date>19901200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04980634</base:DocNumber>
+              <base:Date>19901200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Mallinson</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324142</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="9">
+        <business:ApplicationCitation id="pcit000009" num="0009">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5122735</base:DocNumber>
+              <base:Date>19920600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05122735</base:DocNumber>
+              <base:Date>19920600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Porter et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324142</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="10">
+        <business:ApplicationCitation id="pcit000010" num="0010">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5173657</base:DocNumber>
+              <base:Date>19921200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05173657</base:DocNumber>
+              <base:Date>19921200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Holdsclaw</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324142</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="11">
+        <business:ApplicationCitation id="pcit000011" num="0011">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5212441</base:DocNumber>
+              <base:Date>19930500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05212441</base:DocNumber>
+              <base:Date>19930500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>McEachern et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324142</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="12">
+        <business:ApplicationCitation id="pcit000012" num="0012">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5247467</base:DocNumber>
+              <base:Date>19930900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05247467</base:DocNumber>
+              <base:Date>19930900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Nguyen et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>36457102</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="13">
+        <business:ApplicationCitation id="pcit000013" num="0013">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5270898</base:DocNumber>
+              <base:Date>19931200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05270898</base:DocNumber>
+              <base:Date>19931200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Elms et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>361096</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="14">
+        <business:ApplicationCitation id="pcit000014" num="0014">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5298856</base:DocNumber>
+              <base:Date>19940300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05298856</base:DocNumber>
+              <base:Date>19940300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>McEachern et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>324142</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="15">
+        <business:ApplicationCitation id="pcit000015" num="0015">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5325315</base:DocNumber>
+              <base:Date>19940600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05325315</base:DocNumber>
+              <base:Date>19940600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Elms et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>36457105</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="16">
+        <business:ApplicationCitation id="pcit000016" num="0016">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5361218</base:DocNumber>
+              <base:Date>19941100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05361218</base:DocNumber>
+              <base:Date>19941100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Tripp et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>36457103</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="17">
+        <business:ApplicationCitation id="pcit000017" num="0017">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5477471</base:DocNumber>
+              <base:Date>19951200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05477471</base:DocNumber>
+              <base:Date>19951200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Baum et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>364582</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="18">
+        <business:ApplicationCitation id="pcit000018" num="0018">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5515295</base:DocNumber>
+              <base:Date>19960500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05515295</base:DocNumber>
+              <base:Date>19960500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Wang</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>36457101</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="19">
+        <business:NPLCitation id="ncit000001" num="0001">
+          <base:Text>The Data Acquisition System handbook. vol. 29, 1995, Omega Engineering, Inc. </base:Text>
+        </business:NPLCitation>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:SearchField>
+      <business:ClassificationNational>
+        <business:MainClassification>364/571.01</business:MainClassification>
+        <business:FurtherClassification sequence="1">364/571.03</business:FurtherClassification>
+        <business:FurtherClassification sequence="2">364/483</business:FurtherClassification>
+        <business:FurtherClassification sequence="3">364/581</business:FurtherClassification>
+        <business:FurtherClassification sequence="4">364/485</business:FurtherClassification>
+        <business:FurtherClassification sequence="5">364/582</business:FurtherClassification>
+        <business:FurtherClassification sequence="6">364/480</business:FurtherClassification>
+        <business:FurtherClassification sequence="7">364/481</business:FurtherClassification>
+        <business:FurtherClassification sequence="8">324/141</business:FurtherClassification>
+        <business:FurtherClassification sequence="9">324/142</business:FurtherClassification>
+        <business:FurtherClassification sequence="10">324/78</business:FurtherClassification>
+        <business:FurtherClassification sequence="11">324/83</business:FurtherClassification>
+      </business:ClassificationNational>
+    </business:SearchField>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="US">
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Putt</base:LastName>
+            <base:FirstName>Sally A.</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>Imperial</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:State>PA</base:State>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>Imperial  PA US</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Elms</base:LastName>
+            <base:FirstName>Robert T.</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>Monroeville</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:State>PA</base:State>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>Monroeville  PA US</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Moran</base:LastName>
+            <base:FirstName>Martin J.</base:FirstName>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:AssigneeDetails>
+      <business:Assignee sequence="1" dataFormat="original" sourceDB="US">
+        <base:AddressBook lang="en">
+          <base:OrganizationName>Eaton Corporation</base:OrganizationName>
+          <base:Address>
+            <base:AddressLine>0</base:AddressLine>
+            <base:AddressMailCode>0</base:AddressMailCode>
+            <base:PostBox>0</base:PostBox>
+            <base:AddressRoom>0</base:AddressRoom>
+            <base:AddressFloor>0</base:AddressFloor>
+            <base:AddressBuilding>0</base:AddressBuilding>
+            <base:Street>0</base:Street>
+            <base:AddressCity>Cleveland</base:AddressCity>
+            <base:County>0</base:County>
+            <base:City>0</base:City>
+            <base:State>OH</base:State>
+            <base:PostCode>0</base:PostCode>
+            <base:WIPOST3Code>US</base:WIPOST3Code>
+            <base:Text>Cleveland  OH US</base:Text>
+          </base:Address>
+        </base:AddressBook>
+        <business:AssigneeCode>0000000000</business:AssigneeCode>
+      </business:Assignee>
+    </business:AssigneeDetails>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" role="chief">
+        <base:LastName>Trammell, James P.</base:LastName>
+      </business:Examiner>
+      <business:Examiner sequence="2" role="assistant">
+        <base:LastName>Bui, Bryan</base:LastName>
+      </business:Examiner>
+    </business:ExaminerDetails>
+    <business:StatisticalInformation>
+      <business:DrawingSheetsCount>8</business:DrawingSheetsCount>
+      <business:ClaimsCount>14</business:ClaimsCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract lang="en" dataFormat="original" sourceDB="US">
+    <base:Paragraphs>为了校准基于微处理器的电计量装置，电流和电压输入的缩放值沿着相关联的缩放因子的侧面呈现在显示器上。 显示器上的软键用于递增或递减缩放因子，以将相关联的电流或电压的缩放值调整到由精密参考仪表指示的值，该精密参考仪表测量由稳定源提供的电流和电压的测试值。 对于模拟输入，零比例因子（偏移）和满比例因子（斜率）都在显示器上呈现在缩放的模拟值附近，并且可以由软键单独调整。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="US">
+    <business:TechnicalField>
+      <base:Paragraphs>背景技术</base:Paragraphs>
+      <base:Paragraphs>1. 技术领域</base:Paragraphs>
+      <base:Paragraphs>本发明涉及基于微计算机的计量装置的校准，特别是用于监测电力分配系统的电参数的这种装置。 更具体地，本发明涉及具有显示装置的基于微计算机的计量设备，在该显示装置上可以结合被校准的测量结果显示相应的比例因子。</base:Paragraphs>
+      <base:Paragraphs>2. 背景技术信息</base:Paragraphs>
+      <base:Paragraphs>诸如与配电系统一起使用的计量装置包括微型计算机，该微型计算机为执行计量功能提供了相当大的功能性和灵活性的机会。 这种计量装置通常监测电流和电压、功率、能量、功率因数、瓦特、VAR、K因子以及在一些情况下谐波失真的RMS和峰值。</base:Paragraphs>
+      <base:Paragraphs>通常，这种计量装置具有显示器和用户界面，在显示器上呈现各种参数，用户可以通过用户界面与装置交互以选择操作模式和条件并请求期望的信息。 微型计算机从模拟输入信号产生各种参数的数字表示。 这些表示配电系统中的电流和电压的模拟输入信号由输入电路按比例缩小到电表的模数转换器的0-20mA和0-10伏输入范围。</base:Paragraphs>
+      <base:Paragraphs>目前，这种装置由单独的计算机校准。 待校准的仪表的稳定参考输入和仪表的输出响应被提供给计算比例因子的计算机。 然后将比例因子下载到仪表的微型计算机。 这是针对仪表的每个输入来完成的。 因此，用于校准的本系统需要单独的计算机，并且也不向用户提供计算机缩放因子的效果的清楚指示。</base:Paragraphs>
+      <base:Paragraphs>需要一种改进的装置，用于校准基于微型计算机的仪表，特别是与配电系统一起使用的仪表。</base:Paragraphs>
+      <base:Paragraphs>更特别地需要一种改进的基于微计算机的计量装置，其更容易校准并提供调节比例因子的效果的清楚指示。</base:Paragraphs>
+      <base:Paragraphs>还需要这样的改进的计量装置，其不需要单独的计算机进行校准。</base:Paragraphs>
+      <base:Paragraphs>发明内容</base:Paragraphs>
+      <base:Paragraphs>本发明满足了这些需求和其它需求，本发明涉及一种基于微型计算机的计量装置，其中，为了校准的目的，在显示装置上显示应用于输入电参数的感测值以产生计量值的比例因子。 可以通过用户界面调整缩放因子，以调整显示的计量值，使其与可以由精密仪表测量的参数的参考值一致。 优选地，缩放因子的调整被限制到诸如缩放因子的标称值附近的值范围。 例如，缩放因子可以被限制为标称值的大约正负5%。</base:Paragraphs>
+      <base:Paragraphs>本发明涉及具有上述用于校准的特征的基于微型计算机的计量装置，以及校准这种装置的方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs>附图说明</base:Paragraphs>
+      <base:Paragraphs>当结合附图阅读时，可以从优选实施例的以下描述中获得对本发明的完全理解，在附图中：</base:Paragraphs>
+      <base:Paragraphs>图1是根据本发明的计量装置的主要以框图形式的示意图。</base:Paragraphs>
+      <base:Paragraphs>图2是框图形式的示意图，示出了根据本发明的用于校准图1的计量装置的布置。</base:Paragraphs>
+      <base:Paragraphs>图3A-3G是根据本发明生成的用于使用图2的布置来校准图1的计量装置的显示屏幕的图示。</base:Paragraphs>
+      <base:Paragraphs>图4是根据本发明的用于改变比例因子的例程的流程图。</base:Paragraphs>
+      <base:Paragraphs>图5是由图1的计量装置中的微计算机使用的主例程的流程图。</base:Paragraphs>
+      <base:Paragraphs>图6是根据本发明的用于缩放模拟输入的例程的流程图。</base:Paragraphs>
+      <base:Paragraphs>图7是根据本发明的用于缩放模拟输出的例程的流程图。</base:Paragraphs>
+      <base:Paragraphs>图8是根据本发明的用于校准模拟输出缩放的布置的框图形式的示意图。</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:Disclosure>
+      <base:Paragraphs>具体实施方式</base:Paragraphs>
+      <base:Paragraphs>本发明涉及测量电力电路中的电参数的装置。 其将被描述为应用于用于监测这些电参数的计量装置。 然而，应当理解，本发明同样适用于其他设备，例如执行计量功能以确定受保护电路中的电流的断路器。 本发明还可以应用于除了其他功能之外还执行计量功能的其他装置，例如接触器和电动机启动器。</base:Paragraphs>
+      <base:Paragraphs>转到图1，本发明的监测器或计量装置1用于监测和分析诸如配电系统的ac电力系统3。 所示的配电系统3具有三个相导体5A、5B和5C、中性导体5N和接地导体5G。 电流互感器7A、7B、7C、7N和7G感测在每个或这些导体中流动的电流，同时由电压互感器9A感测相间电压。 变压器9N感测中线到地线电压。 微计算机10包括测距电路11，该测距电路11将电流和电压信号从-10伏信号转换为0伏信号到+10伏信号，以便由模数（A/D）转换器13转换以输入到数字处理器15。 A/D转换器13以由数字处理器15生成的中断确定的采样率对模拟电压和电流进行采样。</base:Paragraphs>
+      <base:Paragraphs>数字处理器15利用由电流和电压的数字样本生成的数据来生成两组电参数的值。 第一组参数与监测功能相关，并且包括计量参数，例如：RMS电流和电压、峰值电流和电压、最小电流和电压、功率因数、瓦特、VAR、伏安、总谐波因子、K因子、CBMEA降额因子等。 由数字处理器15计算的第二组参数包括表示每个谐波的相对幅度的各个谐波系数。</base:Paragraphs>
+      <base:Paragraphs>微计算机10具有输入-输出(I/O)17，处理器15通过该输入-输出(I/O)17连接到前面板19。 前面板19具有诸如气体等离子体显示器的显示设备21和用户界面23。 优选地，用户界面是呈现在显示器21上的软键25的形式。 用户通过触摸与显示器21相邻的前面板上的多个开关26中的适当的一个来进行选择。 开关26的功能由呈现在显示器上的软开关图标25指示，并且可以在屏幕之间改变，如将看到的。 可以使用其他类型的用户接口设备23，诸如键盘、鼠标或轨迹球。 优选地，具有其测距电路11、处理器15和I/O 17的微计算机与通信链路27集成在单个芯片上，如美国专利No.5,270,898中所示，该专利通过引用并入本文。</base:Paragraphs>
+      <base:Paragraphs>输入/输出设备17还通过数字输入将数字处理器15与接触输入接口。 还通过输入/输出装置17提供继电器输出和通过数模（D/A）转换器18的模拟输出。 数字处理器15还可以通过通信链路27与远程处理器（未示出）通信。 除了来自电气系统3的电压和电流输入之外，微计算机10还可以适应通过测距电路11施加的模拟输入。</base:Paragraphs>
+      <base:Paragraphs>为了校准监测器/仪表1，提供稳定的电压和电流值的源29连接到装置1的输入测距电路，如图2所示。 电流或电压的稳定值也被施加到精密仪表31，精密仪表31为输入参数提供参考值。 如果输入正确的工厂密码，则可从顶层程序菜单（未示出）访问校准。 这在显示设备上向用户呈现图3A所示的校准菜单屏幕33。 可以看出，该校准菜单33提供了若干类别的参数以进行校准。 这些因素包括电流、电压、模拟输出、模拟输入和更改工厂密码。 在该屏幕上包括SEL、UP和DOWN的软开关25允许用户通过用软开关向上和向下定位光标35并通过使用SEL软开关输入选择来选择要校准的参数。 当选择参数之一时，在显示器21上呈现相关联的屏幕。 例如，当选择当前时，生成图3B中所示的屏幕。 该屏幕列出了所有电流，包括相电流IA、IB、IC、IN和IG、这些电流中的每一个的计量值以及用于从由源供应的电流的稳定值计算电流的相关联的比例因子。 要校准的特定电流再次由软开关25选择。</base:Paragraphs>
+      <base:Paragraphs>当已经选择电流中的一个时，呈现新的屏幕，诸如图3C中所示的用于选择相电流IA的屏幕。 如图3C所示，显示了所有电流的计量值，但仅呈现了所选电流IA的比例因子。 仅呈现所选当前闪烁和新软键25i的比例因子的第一数字。 最左边的软键是右箭头，以允许用户将光标移动到右边的下一个数字。 中间的两个软键用于递增/递减数字值。 然后使用最右边的软键来输入缩放因子的调整值。 用户用箭头软键将光标定位在特定数字上。 然后，通过上/下软键递增或递减该数字。 当比例因子改变时，效果由显示在比例因子旁边的实时计量值示出。 示出的电流的计量值是RMS值。 在校准电流时，用户向上或向下调节比例因子，以使在比例因子旁边示出的计量值尽可能接近由精密仪表31生成的参考值。</base:Paragraphs>
+      <base:Paragraphs>图3D示出了在显示器21上呈现的用于选择用于校准的电压的菜单。 如在电流的情况下，显示RMS计量值以及用于从电压的输入值生成该计量读数的缩放因子。 如在当前菜单的情况下，软键23’用于加亮要被选择用于校准的特定电压。 用于电压校准的屏幕（未示出）类似于示出用于电流校准的图3C。 也就是说，示出了所有电压的计量值，但仅显示了所选电压的比例因子。</base:Paragraphs>
+      <base:Paragraphs>图3E示出了在显示器21上呈现的用于选择用于校准的模拟输出信号的菜单。 由于监测器/仪表1不测量模拟输出值，因此在显示器21上仅呈现比例因子。 在仅呈现所选比例因子的屏幕（未示出）上改变比例因子值。</base:Paragraphs>
+      <base:Paragraphs>两个比例因子被应用于模拟输入信号：零比例因子或偏移，以及满比例因子或斜率。 当从图3A的菜单中选择模拟输入缩放时，在显示器21上呈现图3F所示的屏幕。 该显示显示了与计量值相邻的模拟输入零标度因子和也与计量值相邻的模拟输入满标度标度因子。 模拟输入的计量值是零比例因子和满比例比例因子的函数，使得图3F中与相应比例因子相邻的计量值产生新的屏幕（未示出，但类似于图3C的屏幕），从中可以调整所选的比例因子。</base:Paragraphs>
+      <base:Paragraphs>操作者还可以使用图3G中所示的屏幕来改变工厂插入的密码。 使用箭头软键选择连续的数字，并用UP和DOWN软键递增。 然后用输入软键输入新口令。</base:Paragraphs>
+      <base:Paragraphs>图4示出了由处理器15用于实现所选参数的比例因子的变化的例程的流程图。 当在39处选择特定参数的软键时，例如图3D中所示的电流，显示并闪烁所选择的比例因子。 然后，如41所示，呈现用于改变诸如图3C所示的比例因子的软键定义。 如果在43处按下的软键是向上或向下软键，则在45处适当地递增或递减比例因子的所选数字。 处理器限制可以调整比例因子的范围，如47所示。 优选地，调整比例因子的这种限制是比例因子的标称值的+或-5%。 然后使用经调整的比例因子来生成新的计量值，该新的计量值与经调整的比例因子一起显示在49处。 如果在43处按下箭头软键，则光标在51处向右移动一个数字，并且在53处闪烁新选择的数字。 当用户对调整后的比例因子满意时，在43按下输入软键。 这将比例因子保存在微计算机存储器的设置区域中，如55所示，然后程序返回到57处的前一菜单级别。</base:Paragraphs>
+      <base:Paragraphs>图5示出了仪表/监测器1的主要功能的流程图58。 这包括采样例程59，采样例程59由时间中断启动以对输入电流、电压和模拟信号进行采样。 然后在61处使用样本值，以使用存储的缩放因子来计算RMS值。 在时间允许的情况下，在63处执行其他参数，诸如瓦特、VAR、伏安、功率因数、总谐波失真百分比、波峰因子和用于各个谐波计算的系数。 与本发明无关的附加功能也在循环中执行。</base:Paragraphs>
+      <base:Paragraphs>如上所述，仪表/监测器1还可以容纳模拟输入。 模拟信号被施加到输入电阻器65。 电阻器两端的电压由A/D转换器13读取。 图6示出了由数字处理器15用来适当地缩放对应于模拟输入的数字信号的流程图67。 两个比例因子被应用于这些信号：零比例因子，其应用dc偏移，以及满比例因子，其实际上调节转换函数的斜率。 数字处理器15在69处读取由A/D转换器生成的模拟信号的数字值。 然后在71处减去零标度因子，然后在73处将结果乘以满标度因子。 模拟输入信号可以是0至20 ma或4-20 ma信号。 该信息被单独提供给数字处理器15。 如果输入信号是0-20mA信号，如在75处确定的，则在77处存储数据。 然而，如果输入信号是4-20mA信号，则在77处存储数据之前，在79处减去4mA。 如上所述，结合图3F，通过使用显示器上的软键调整零标度因子和满标度标度因子来校准模拟输入。</base:Paragraphs>
+      <base:Paragraphs>仪表/监测器1利用图7所示的装置来产生模拟输出。 应当理解，这些模拟输出可以表示由仪表/监测器1监测的各种测量或计算的参数。 例如，它们可以是电压、电流、瓦特等。这些模拟输出信号也可以是0-20mA信号或4-20mA信号。 因此，数字处理器15利用图7的例程81来适当地缩放模拟输出。 首先，例程81在83处归一化要作为模拟信号输出的参数值。 也就是说，它将其转换为0到100%信号。 如果输出信号是如在85处确定的0-20mA信号，则在87处将归一化参数值乘以模拟输出比例因子，并在89处写入数模转换器。 另一方面，如果输出信号是4-20mA信号，则在91处将4mA偏移添加到归一化值，并且在93处将总和乘以20/24。 所得的转换信号然后在87处乘以模拟输出比例因子，然后在89处输出到数模转换器。</base:Paragraphs>
+      <base:Paragraphs>仪表/监测器1不测量模拟输出信号。 因此，为了校准模拟输出，利用图8所示的布置。 用于生成期望的模拟输出信号的适当输入由稳定源29提供。 例如，如果模拟输出是RMS电流，则适当的稳定电流值由源29提供给仪表/监测器I。 通常，测试信号是满量程值的90%，尽管这不是必需的。 精密参考仪表31连接到适当的模拟输出。 然后如上结合图3E所述执行校准。 如这里所解释的，在显示器21上仅呈现每个模拟输出的单个比例因子。 利用软键调整该比例因子，以将仪表读数调整到正在输出的参数的数字值。 例如，使用图3D的显示器从仪表读取由数字处理器确定的RMS输入电流的缩放值。 然后，使用图3E的显示，可以调整模拟输出的比例因子，直到仪表31读取与微处理器指示的数字值相同的值。</base:Paragraphs>
+      <base:Paragraphs>虽然已经详细描述了本发明的具体实施例，但是本领域技术人员将理解，根据总体教导或公开内容，可以开发对这些细节的各种修改和替代。 因此，所公开的特定布置仅是说明性的，而不是限制本发明的范围，本发明的范围由所附权利要求及其任何和所有等同物的全部宽度给出。</base:Paragraphs>
+    </business:Disclosure>
+  </business:Description>
+  <business:Claims dataFormat="original" sourceDB="US" lang="en">
+    <base:Paragraphs>权利要求是：</base:Paragraphs>
+    <base:Paragraphs>1. 一种用于监测配电系统中的电参数的基于微计算机的电计量装置，所述装置包括：</base:Paragraphs>
+    <base:Paragraphs>感测所述电参数以产生感测参数值的输入装置；</base:Paragraphs>
+    <base:Paragraphs>处理器装置，用于将相关联的可调节比例因子应用于每个感测的参数值；</base:Paragraphs>
+    <base:Paragraphs>显示装置，用于显示所述计量参数值和所述相关的可调节比例因子； 以及</base:Paragraphs>
+    <base:Paragraphs>用户接口装置，用于选择所选择的定标参数值并用于调整相关联的可调整定标因子以生成调整后的定标因子，所述处理器装置包括将所述调整后的定标因子应用于所述感测参数值以生成调整后的定标参数值，并在所述显示装置上显示与所述相关联的调整后的定标因子相关联的所述调整后的定标参数值的装置。</base:Paragraphs>
+    <base:Paragraphs>2. 根据权利要求1所述的计量装置，其中，所述处理器装置包括限制所述可调节比例因子的调节的装置。</base:Paragraphs>
+    <base:Paragraphs>3. 根据权利要求2所述的计量装置，其中限制所述可调节比例因子的调节的所述装置包括将所述调节限制到所述可调节比例因子的标称值附近的指定范围的装置。</base:Paragraphs>
+    <base:Paragraphs>4. 根据权利要求1所述的计量装置，其中，所述输入装置包括用于输入模拟信号的装置，所述处理器装置包括用于将零缩放因子和满标度缩放因子应用于所述模拟信号以产生缩放的模拟信号的装置，所述显示装置包括显示与所述零缩放因子和满标度缩放因子相关联的所述缩放的模拟信号。 以及所述用户接口装置包括用于在所述显示装置上显示时调整所述零标度因数和所述满标度标度因数的装置。</base:Paragraphs>
+    <base:Paragraphs>5. 根据权利要求4所述的计量装置，其中，所述处理器装置包括限制所述零标度因子和所述满标度标度因子的调节的装置。</base:Paragraphs>
+    <base:Paragraphs>6. 根据权利要求3所述的计量装置，其中，所述指定范围约为所述标称值的正负5%。</base:Paragraphs>
+    <base:Paragraphs>7. 根据权利要求4所述的计量装置，包括模拟输出信号生成装置，所述模拟输出信号生成装置用于从由所述处理器装置生成的数字值生成模拟输出信号，并且其中所述处理器装置包括用于将输出缩放因子应用于所述数字信号以生成缩放的模拟输出信号的装置，其中所述显示装置包括同时显示所述缩放的模拟输出信号和所述模拟输出缩放因子的装置，并且其中所述用户界面装置包括用于在所述显示装置上显示所述模拟输出缩放因子的同时调整所述模拟输出缩放因子的装置。</base:Paragraphs>
+    <base:Paragraphs>8. 根据权利要求7所述的计量装置，其中，所述处理器装置包括限制所述模拟输出比例因子的调节的装置。</base:Paragraphs>
+    <base:Paragraphs>9. 组合：</base:Paragraphs>
+    <base:Paragraphs>一种用于监测配电系统中的电参数的基于微计算机的电计量装置，所述装置包括：</base:Paragraphs>
+    <base:Paragraphs>输入装置，用于感测所述电参数以产生感测的参数值；</base:Paragraphs>
+    <base:Paragraphs>处理器装置，其用于将相关联的可调整缩放因子应用于每一感测参数值以产生经缩放参数值；</base:Paragraphs>
+    <base:Paragraphs>显示装置，显示所述定标参数值和所述相关的可调定标因子； 以及</base:Paragraphs>
+    <base:Paragraphs>用户接口装置，用于选择所选择的电参数值并用于调整相关联的可调整比例因子以生成调整后的比例因子，所述处理器装置包括将所述调整后的比例因子应用于从所述所选择的电参数生成的所述感测参数值以生成调整后的缩放参数值并在所述显示装置上显示与所述相关联的调整后的比例因子相关联的所述调整后的缩放参数值的装置； 以及</base:Paragraphs>
+    <base:Paragraphs>连接到所述输入装置的所述选择的电参数的稳定值的源； 以及</base:Paragraphs>
+    <base:Paragraphs>参考仪表，所述选择的电参数的所述稳定值也被应用于所述参考仪表，用于生成所述选择的电参数的参考参数值，所述可调节的定标是通过所述用户接口装置调节的，用于使所述调节的定标参数值基本上等于所述参考参数值。</base:Paragraphs>
+    <base:Paragraphs>10. 根据权利要求9所述的组合，其中，所述处理器装置包括限制所述可调节缩放因子的调节的装置。</base:Paragraphs>
+    <base:Paragraphs>11. 根据权利要求10所述的组合，其中限制所述可调整缩放因子的调整的所述装置包括将所述调整限制到所述可调整缩放因子的标称值附近的指定范围的装置。</base:Paragraphs>
+    <base:Paragraphs>12. 一种校准基于微计算机的计量装置的方法，所述计量装置将可调节比例因子应用于输入电参数以生成所述输入电参数的计量参数值，并且具有用于显示所述计量参数值的显示装置，所述方法包括以下步骤：</base:Paragraphs>
+    <base:Paragraphs>将产生所述输入电参数的稳定值的电源连接到所述计量装置；</base:Paragraphs>
+    <base:Paragraphs>在所述显示装置上与所述计量参数值相关联地显示所述可调节比例因子；</base:Paragraphs>
+    <base:Paragraphs>用精密仪表测量所述输入电参数，以产生所述输入电参数的参考参数值； 以及</base:Paragraphs>
+    <base:Paragraphs>参考所述显示装置调节所述可调节比例因子，直到所述计量参数值基本上等于所述参考参数值。</base:Paragraphs>
+    <base:Paragraphs>13. 根据权利要求12所述的方法，包括：将所述调整可缩放因子的所述调整限制到标称值周围的缩放因子的指定范围。</base:Paragraphs>
+    <base:Paragraphs>14. 根据权利要求13所述的方法，其中所述调整步骤包括调整所述缩放因子以将所述缩放因子的值限制到所述标称值的约5%的范围。</base:Paragraphs>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="US101996000597278US00000057050360AFULEN19980106US00A.XML" dateProduced="20160817" status="C" lang="en" country="US" docNumber="5705036" kind="A" datePublication="19980106">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>05705036</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19980106</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>5705036</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19980106</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant>
+        <base:DocumentID>
+          <base:Date>19980106</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>08/597278</base:DocNumber>
+        <base:Date>19960206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>101996000597278</base:DocNumber>
+        <base:Date>19960206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPC>
+      <base:EditionStatement>6</base:EditionStatement>
+      <business:MainClassification dataFormat="original">B01D00342</business:MainClassification>
+      <business:MainClassification dataFormat="standard">B01D0003420000</business:MainClassification>
+    </business:ClassificationIPC>
+    <business:ClassificationNational>
+      <business:MainClassification dataFormat="original">202176</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">159044</business:FurtherClassification>
+      <business:FurtherClassification sequence="2" dataFormat="original">159046</business:FurtherClassification>
+      <business:FurtherClassification sequence="3" dataFormat="original">202160</business:FurtherClassification>
+      <business:FurtherClassification sequence="4" dataFormat="original">202167</business:FurtherClassification>
+      <business:FurtherClassification sequence="5" dataFormat="original">202181</business:FurtherClassification>
+      <business:FurtherClassification sequence="6" dataFormat="original">2021852</business:FurtherClassification>
+      <business:FurtherClassification sequence="7" dataFormat="original">2021853</business:FurtherClassification>
+      <business:FurtherClassification sequence="8" dataFormat="original">2021855</business:FurtherClassification>
+      <business:FurtherClassification sequence="9" dataFormat="original">202206</business:FurtherClassification>
+      <business:FurtherClassification sequence="10" dataFormat="original">203001</business:FurtherClassification>
+      <business:FurtherClassification sequence="11" dataFormat="original">203002</business:FurtherClassification>
+      <business:FurtherClassification sequence="12" dataFormat="original">203010</business:FurtherClassification>
+      <business:FurtherClassification sequence="13" dataFormat="original">203022</business:FurtherClassification>
+      <business:FurtherClassification sequence="14" dataFormat="original">203027</business:FurtherClassification>
+      <business:FurtherClassification sequence="15" dataFormat="original">203DIG8</business:FurtherClassification>
+      <business:FurtherClassification sequence="16" dataFormat="original">203DIG18</business:FurtherClassification>
+    </business:ClassificationNational>
+    <business:InventionTitle lang="en" sourceDB="US">水蒸馏器</business:InventionTitle>
+    <business:ReferencesCited>
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:ApplicationCitation id="pcit000001" num="0001">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3029068</base:DocNumber>
+              <base:Date>19620400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03029068</base:DocNumber>
+              <base:Date>19620400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Skow</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>202177</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="2">
+        <business:ApplicationCitation id="pcit000002" num="0002">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3687817</base:DocNumber>
+              <base:Date>19720800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03687817</base:DocNumber>
+              <base:Date>19720800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Jimerson et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>2021853</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="3">
+        <business:ApplicationCitation id="pcit000003" num="0003">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4110170</base:DocNumber>
+              <base:Date>19780800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04110170</base:DocNumber>
+              <base:Date>19780800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Kirschman et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>202160</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="4">
+        <business:ApplicationCitation id="pcit000004" num="0004">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4247369</base:DocNumber>
+              <base:Date>19810100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04247369</base:DocNumber>
+              <base:Date>19810100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Bean</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>202176</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="5">
+        <business:ApplicationCitation id="pcit000005" num="0005">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4888097</base:DocNumber>
+              <base:Date>19891200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04888097</base:DocNumber>
+              <base:Date>19891200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Palmer et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>203010</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="6">
+        <business:ApplicationCitation id="pcit000006" num="0006">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4906337</base:DocNumber>
+              <base:Date>19900300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04906337</base:DocNumber>
+              <base:Date>19900300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Palmer</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>203010</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="7">
+        <business:ApplicationCitation id="pcit000007" num="0007">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5021128</base:DocNumber>
+              <base:Date>19910600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05021128</base:DocNumber>
+              <base:Date>19910600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Palmer</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>203004</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="8">
+        <business:ApplicationCitation id="pcit000008" num="0008">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5266170</base:DocNumber>
+              <base:Date>19931100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05266170</base:DocNumber>
+              <base:Date>19931100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Weber et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>2021853</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="9">
+        <business:ApplicationCitation id="pcit000009" num="0009">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5281309</base:DocNumber>
+              <base:Date>19940100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05281309</base:DocNumber>
+              <base:Date>19940100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Greene</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>2021853</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="10">
+        <business:ApplicationCitation id="pcit000010" num="0010">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5286351</base:DocNumber>
+              <base:Date>19940200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05286351</base:DocNumber>
+              <base:Date>19940200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Salmon</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>203001</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="11">
+        <business:ApplicationCitation id="pcit000011" num="0011">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5290402</base:DocNumber>
+              <base:Date>19940300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05290402</base:DocNumber>
+              <base:Date>19940300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Tsai</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>202181</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="12">
+        <business:ApplicationCitation id="pcit000012" num="0012">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5304286</base:DocNumber>
+              <base:Date>19940400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05304286</base:DocNumber>
+              <base:Date>19940400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Palmer</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>202167</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="13">
+        <business:ApplicationCitation id="pcit000013" num="0013">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5496447</base:DocNumber>
+              <base:Date>19960300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05496447</base:DocNumber>
+              <base:Date>19960300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Wang</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>2021853</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:SearchField>
+      <business:ClassificationNational>
+        <business:MainClassification>202/176</business:MainClassification>
+        <business:FurtherClassification sequence="1">202/180</business:FurtherClassification>
+        <business:FurtherClassification sequence="2">202/160</business:FurtherClassification>
+        <business:FurtherClassification sequence="3">202/181</business:FurtherClassification>
+        <business:FurtherClassification sequence="4">202/167</business:FurtherClassification>
+        <business:FurtherClassification sequence="5">202/185.3</business:FurtherClassification>
+        <business:FurtherClassification sequence="6">202/185.2</business:FurtherClassification>
+        <business:FurtherClassification sequence="7">202/190</business:FurtherClassification>
+        <business:FurtherClassification sequence="8">202/196</business:FurtherClassification>
+        <business:FurtherClassification sequence="9">202/202</business:FurtherClassification>
+        <business:FurtherClassification sequence="10">202/206</business:FurtherClassification>
+        <business:FurtherClassification sequence="11">202/185.5</business:FurtherClassification>
+        <business:FurtherClassification sequence="12">203/1</business:FurtherClassification>
+        <business:FurtherClassification sequence="13">203/10</business:FurtherClassification>
+        <business:FurtherClassification sequence="14">203/2</business:FurtherClassification>
+        <business:FurtherClassification sequence="15">203/100</business:FurtherClassification>
+        <business:FurtherClassification sequence="16">203/DIG. 8</business:FurtherClassification>
+        <business:FurtherClassification sequence="17">203/DIG. 17</business:FurtherClassification>
+        <business:FurtherClassification sequence="18">203/22</business:FurtherClassification>
+        <business:FurtherClassification sequence="19">203/27</business:FurtherClassification>
+        <business:FurtherClassification sequence="20">203/DIG. 18</business:FurtherClassification>
+        <business:FurtherClassification sequence="21">392/402</business:FurtherClassification>
+        <business:FurtherClassification sequence="22">159/44</business:FurtherClassification>
+        <business:FurtherClassification sequence="23">159/46</business:FurtherClassification>
+        <business:FurtherClassification sequence="24">137/386</business:FurtherClassification>
+        <business:FurtherClassification sequence="25">137/391-395</business:FurtherClassification>
+      </business:ClassificationNational>
+    </business:SearchField>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="US">
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Wu</base:LastName>
+            <base:FirstName>Yueh-feng</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>2nd Fl., No. 14, Lane 81, Kwangchow St., Wanhua Dist.</base:Street>
+              <base:AddressCity>Taipei</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>TW</base:WIPOST3Code>
+              <base:Text>2nd Fl., No. 14, Lane 81, Kwangchow St., Wanhua Dist. Taipei   TW</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Chen</base:LastName>
+            <base:FirstName>Mu-huo</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>2nd Fl., No. 14, Lane 81, Kwangchow St., Wanhua Dist.</base:Street>
+              <base:AddressCity>Taipei</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>TW</base:WIPOST3Code>
+              <base:Text>2nd Fl., No. 14, Lane 81, Kwangchow St., Wanhua Dist. Taipei   TW</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:OrganizationName>Kirkpatrick &amp; Lockhart LLP</base:OrganizationName>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" role="chief">
+        <base:LastName>Manoharan, Virginia</base:LastName>
+      </business:Examiner>
+    </business:ExaminerDetails>
+    <business:StatisticalInformation>
+      <business:DrawingSheetsCount>5</business:DrawingSheetsCount>
+      <business:ClaimsCount>10</business:ClaimsCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract lang="en" dataFormat="original" sourceDB="US">
+    <base:Paragraphs>一种水蒸馏装置，包括具有入口和出口的预热罐，用于经由入口储存来自水源的水，由连接到地电位的导电壳体形成并具有与预热罐的出口连接的入口的沸腾罐，位于沸腾罐内以使水沸腾从而产生蒸汽的加热器，以及从沸腾罐延伸通过预热罐以冷凝蒸汽并预热预热罐内的水的出口烟道， 与所述预热箱的出口烟道连接的散热盘管，将空气吹向所述散热盘管的风扇，与所述散热盘管连接的用于从其中储存冷凝水的冷却水箱，垂直延伸到所述沸腾箱中的电极，所述电极与所述沸腾箱的壳体电隔离并连接到正电压源，控制电路，所述控制电路电连接到所述电极、所述风扇和所述加热器中的每一个，用于当所述沸腾箱的水位低于所述电极时断开所述风扇和所述加热器， 以及水龙头，用于从冷却水箱分配水。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="US">
+    <business:TechnicalField>
+      <base:Paragraphs>背景技术</base:Paragraphs>
+      <base:Paragraphs>本发明涉及一种水蒸馏装置，尤其涉及一种在蒸馏水中产生OH离子的水蒸馏装置。</base:Paragraphs>
+      <base:Paragraphs>存在许多用于净化和煮沸水的水处理设备，诸如净化设备、蒸馏设备等，然而，这些设备对人类的健康没有积极的帮助。 因此，本发明的一个优点是提供具有OH-的蒸馏水，其有益于人类健康。</base:Paragraphs>
+      <base:Paragraphs>发明内容</base:Paragraphs>
+      <base:Paragraphs>本发明的一个目的是提供一种在蒸馏水中提供OH-的蒸馏水装置。</base:Paragraphs>
+      <base:Paragraphs>根据本发明，一种水蒸馏装置包括：具有入口和出口的预热罐，用于经由入口储存来自水源的水；由连接到地电位的导电壳体形成的沸腾罐，其具有与预热罐的出口连接的入口；位于沸腾罐的底部内以使水沸腾并产生蒸汽的第一加热装置， 以及设置在所述沸腾罐上的出口烟道，所述出口烟道延伸穿过所述预热罐以冷凝所述蒸汽并预热所述预热罐内的水；散热盘管，所述散热盘管与所述出口烟道连接到所述预热罐外；风扇，所述风扇将空气吹向所述散热盘管；冷却水罐，所述冷却水罐与所述散热盘管连接以从其中储存冷凝水；第一电极，所述第一电极垂直延伸到所述沸腾罐中并与所述沸腾罐的壳体电隔离并连接到正电位；控制装置，所述控制装置电连接到所述第一电极，所述控制装置电连接到所述第一电极， 所述加热装置，用于当所述沸腾罐的水位低于所述第一电极时断开所述风扇和所述加热装置；以及龙头，用于从所述冷却水罐分配水。</base:Paragraphs>
+      <base:Paragraphs>本发明的其他目的、优点和新颖特征将从以下结合附图的详细描述中变得更加明显。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs>附图说明</base:Paragraphs>
+      <base:Paragraphs>图1是本发明的蒸馏装置的透视图；</base:Paragraphs>
+      <base:Paragraphs>图2是图1的蒸馏装置的立体图，其中，蒸馏装置的壁被移除；</base:Paragraphs>
+      <base:Paragraphs>图3是本发明的蒸馏装置的分解图；</base:Paragraphs>
+      <base:Paragraphs>图4是本发明的入口阀的平面图；</base:Paragraphs>
+      <base:Paragraphs>图5是本发明的电极和罐的剖视图； 以及</base:Paragraphs>
+      <base:Paragraphs>图6是本发明的水蒸馏装置的控制电路的电路图。</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:Disclosure>
+      <base:Paragraphs>具体实施方式</base:Paragraphs>
+      <base:Paragraphs>参考图1，示出了根据本发明的水蒸馏装置100的透视图。 如图所示，水蒸馏装置100包括用于储存冷却水的冷却水罐10、安装在冷却水罐10的前壁上的冷却水龙头12、水处理主体20、从冷却水罐10突出用于支撑水处理主体20的多个柱14、设置在水处理主体20的前壁21上的电源开关22、设置在水处理主体20上用于排出由其产生的热量的通风板24 设置在其前壁21上的多个指示灯26、安装在水处理主体20的前壁21上的热水龙头28、以及用于将水供应到水处理主体20中的供水管30。</base:Paragraphs>
+      <base:Paragraphs>如图2所示，水蒸馏装置100还包括预热罐40、沸腾罐50、入口阀32、螺旋散热盘管60、冷却风扇62和热水箱70。</base:Paragraphs>
+      <base:Paragraphs>参照图3，首先通过入口阀32将水供应到用于预热的预热箱40中，然后通过管51将预热的水输送到沸腾箱50中，用于通过多个加热器52、52’沸腾预热的水并产生蒸汽，然后通过浸入预热箱40内的冷却管42将沸腾箱50中产生的蒸汽输送到预热箱40中，用于加热预热箱40内的水并将来自沸腾箱50的蒸汽冷凝成水。 然后，冷凝水经由散热盘管60流入到冷却水箱10中，散热盘管60由冷却风扇62冷却，冷却风扇62由稍后提到的控制电路控制。 孔口64限定在散热线圈60的最上部分中，用于分配化学污染物，诸如氯等。</base:Paragraphs>
+      <base:Paragraphs>泵16设置在冷却水箱10的底部下方，用于经由管18将水泵送到热水箱70。 由稍后提到的控制电路控制的加热器72设置在热水箱70内，用于将蒸馏水加热到由恒温器74预设的期望温度。</base:Paragraphs>
+      <base:Paragraphs>沸腾罐50具有三个钛电极Y0、Y1和Y2，冷却水罐10具有四个钛电极Y3、Y4、Y5和Y6，热水箱70具有三个钛电极Y7、Y8和Y9，分别与后面提到的控制电路配合，用于检测相应罐的水位，并响应检测到的水位通过控制电路控制供水阀32和泵16。 此外，每个钛电极用作正电极，并且相应罐的壳体用作负电极，使得当向电极施加合适的电力时，对相应罐内的水进行电解以获得具有OH-的蒸馏水。 此外，当罐连接到负电源时，在其中形成阴极保护。</base:Paragraphs>
+      <base:Paragraphs>钛电极和罐的详细结构在图5中示出，钛电极形成为具有头部104和螺纹端106的螺钉102的形状。 首先将电极插入玻璃管120中，并且其螺纹端106依次与硅橡胶密封件108和螺母110接合。 其次，通过硅橡胶紧固件112将组装的电极的头部插入相应的罐中。 最后，钛电极的螺纹端106的尖端114电连接到耦合到正电位的导电连接器116，用于执行水位测量和电解的功能。 在这种布置中，电极和相应的罐通过玻璃管120和硅橡胶紧固件112电隔离。</base:Paragraphs>
+      <base:Paragraphs>返回参考图3，沸腾罐50另外具有排水管56，用于当用户打算清洁罐50的内壁时将水排出罐50。 U形横截面的纵向板58垂直地固定在沸腾槽50的壁上，并限定了一个纵向开口59，该开口59包围电极Y0、Y1和Y2，其长度大于任何电极Y0、Y1和Y2的长度，用于防止沸腾槽50内的钛电极Y0、Y1和Y2暴露于水沸腾时产生的多个气泡（未示出），从而避免了不正确的水位检测。</base:Paragraphs>
+      <base:Paragraphs>如图4所示，入口阀32还设置有双金属恒温器34，用于在没有水从供水管30流过阀32时保护阀32内的电线圈（未示出）免于烧坏。 恒温器34由与阀32的柱塞321接触的簧片341和两个常闭触点36、38组成，当簧片341检测到来自阀32的柱塞321的由水不通过阀32引起的异常温度时，8个触点36、38将跳闸。 这将导致控制电路（图6中所示）将阀32内的电线圈电断开，以保护电线圈免于烧坏。</base:Paragraphs>
+      <base:Paragraphs>图6示出了本发明的控制电路。 控制电路由供水电路CK1、沸腾电路CK2、泵控制电路CK3和热水控制电路CK4组成。</base:Paragraphs>
+      <base:Paragraphs>供水电路CK1由恒温器34、可控硅整流器（SCR）T1、连接在SCR T1的阳极和栅极之间的晶体管Q1、以及用于控制阀32的固态继电器（SSR1）和连接在SSR1的输出端的灯24组成。 供水电路CK1还具有两个SCR T2、T3，分别连接在相应SCR T2、T3的阳极和栅极之间的两个晶体管Q2、Q3，连接在低电平电极Y0和晶体管Q2之间的二极管D1，连接在高电平电极Y1和晶体管Q3之间的二极管D2，以及具有连接到SCR T2的阳极的栅极的SCR T4。 电极Y0和Y1浸没在沸腾罐50内，沸腾罐50如上所述地连接到地面。 当沸腾罐50的水位低于低电平电极Y0时，即低电平电极Y0处于高电位，晶体管Q2和SCR T2处于“关”状态，使得SCR T4处于“开”状态，然后SSR1将被激活，阀32将被打开。 当沸腾罐50的水位达到高水位电极Y1时，晶体管Q3和SCR T3将处于“接通”状态，SSR1将处于“断开”状态，使得阀32将关闭。 另外，如果恒温器34的常闭触点36、38被激活，则晶体管Q1和SCR T1也将被关断，使得阀32也将被关闭。</base:Paragraphs>
+      <base:Paragraphs>沸腾电路CK2具有与供水电路CK1类似的布置，除了沸腾电路CK2具有用于控制搅拌器52、冷却风扇62和灯24'的SSR2，并且包括浸没在沸腾箱50内的长电极Y2、晶体管Q5和SCR TS，该SCR TS用于当沸腾箱50的水位低于长电极Y2时禁用SSR2，从而关闭加热器52和风扇62。 类似地，低水位电极Y3和高水位电极Y4浸没在冷却水箱10内，并且以与供水回路CK1的高水位电极Y0和低水位电极Y1类似的功能操作。</base:Paragraphs>
+      <base:Paragraphs>泵控制电路CK3具有与沸腾电路CK2类似的布置，除了SSR3用于控制泵16和灯24”，并且包括SCR T6、晶体管Q6和泵送指示电极Y6。 泵控制电路CK3还具有浸没在热水箱70内的低水位电极Y7和高水位电极Y8。 当热水箱70的水位低于低水位电极Y7并且冷水箱10的水位上升到泵送指示电极Y6时，泵16将被激活。 如果冷却水箱10的水位低于浸入其中的长电极Y5，则泵16将关闭。</base:Paragraphs>
+      <base:Paragraphs>热水控制电路CK4仅使用一组SCR T7、晶体管Q7、二极管D3、恒温器74、长电极Y9和SSR4，其电路布置类似于供水电路CK1。 当热水箱70的水位低于长电极Y9时，热水箱70内的加热器72将被关闭。 当热水箱内的水的水温低于预设温度时，加热器72将被激活以将水加热到期望温度。 注意，仅当热水箱70的水位到达长电极Y9时才启动该加热程序。</base:Paragraphs>
+      <base:Paragraphs>尽管本发明已经关于其优选实施例进行了解释，但是应当理解，在不脱离如所附权利要求的本发明的精神和范围的情况下，可以进行许多其他可能的修改和变化。</base:Paragraphs>
+    </business:Disclosure>
+  </business:Description>
+  <business:Claims dataFormat="original" sourceDB="US" lang="en">
+    <base:Paragraphs>我要求：</base:Paragraphs>
+    <base:Paragraphs>1. 一种水蒸馏装置，包括：</base:Paragraphs>
+    <base:Paragraphs>预热罐，其具有入口和出口，用于经由所述入口储存来自水源的水；</base:Paragraphs>
+    <base:Paragraphs>沸腾罐，所述沸腾罐由连接到地电位的导电壳体形成，并且具有与所述预热罐的出口连接的入口、位于所述沸腾罐的底部内以使水沸腾并产生蒸汽的第一加热装置、设置在所述沸腾罐上用于延伸穿过所述预热罐以将所述蒸汽冷凝成水并预热所述预热罐内的水的出口烟道、以及第一水位检测装置，所述第一水位检测装置的第一端垂直延伸到所述沸腾罐中， 并且与所述沸腾罐的所述壳体电隔离，并且第二端电连接到正电位；</base:Paragraphs>
+    <base:Paragraphs>散热盘管，所述散热盘管与所述预热罐外的所述出口烟道连接；</base:Paragraphs>
+    <base:Paragraphs>风扇，所述风扇将空气吹向所述散热线圈；</base:Paragraphs>
+    <base:Paragraphs>冷却水箱，其电连接到地电位并与散热线圈耦合，用于储存来自散热线圈的冷凝水；</base:Paragraphs>
+    <base:Paragraphs>控制装置，电连接到第一水位检测装置、风扇和所述第一加热装置，用于当沸腾箱的水位低于第一水位检测装置时断开风扇和加热装置； 以及</base:Paragraphs>
+    <base:Paragraphs>第一龙头，其安装在所述冷水箱上，用于从所述冷水箱分配水；</base:Paragraphs>
+    <base:Paragraphs>入口阀，所述入口阀固定在所述预热箱的入口上，用于控制来自所述水源的水；</base:Paragraphs>
+    <base:Paragraphs>第二水位检测装置，其垂直延伸到所述沸腾槽中，其长度短于所述第一水位检测装置，并与所述控制装置电连接，用于在所述沸腾槽的水位低于所述第二水位检测装置时向所述控制装置产生信号以启动所述阀； 以及</base:Paragraphs>
+    <base:Paragraphs>第三水位检测装置，该第三水位检测装置垂直延伸到所述沸腾槽中，并且其长度短于所述第二水位检测装置，并且与所述控制装置电连接，用于在所述沸腾槽的水位达到所述第三水位检测装置时向所述控制装置产生信号以停用所述阀。</base:Paragraphs>
+    <base:Paragraphs>2. 根据权利要求1所述的水蒸馏装置，还包括：</base:Paragraphs>
+    <base:Paragraphs>恒温器，其安装在所述入口阀上并电连接到所述控制装置，用于当所述入口阀的温度超过在所述恒温器上设定的预定温度时停用所述阀。</base:Paragraphs>
+    <base:Paragraphs>3. 根据权利要求1所述的水蒸馏装置，还包括：</base:Paragraphs>
+    <base:Paragraphs>第四水位检测装置，所述第四水位检测装置浸没在所述冷却水箱内并与所述控制装置电连接，用于当所述冷却水箱的水位低于所述第四水位检测装置时，向所述控制装置产生信号以启动所述第一加热装置；</base:Paragraphs>
+    <base:Paragraphs>第五水位检测装置，所述第五水位检测装置垂直延伸到所述冷却水箱中，其长度短于所述第四水位检测装置，并且与所述控制装置电连接，用于在所述冷却水箱的水位达到所述第五水位检测装置时向所述控制装置产生信号以停用所述第一加热装置。</base:Paragraphs>
+    <base:Paragraphs>4. 根据权利要求1所述的水蒸馏装置，还包括：</base:Paragraphs>
+    <base:Paragraphs>电连接到地电位的热水箱；</base:Paragraphs>
+    <base:Paragraphs>连接在所述热水箱和所述冷水箱之间的管；</base:Paragraphs>
+    <base:Paragraphs>泵，其安装在所述管上，用于将所述冷水箱内的水泵入所述热水箱；</base:Paragraphs>
+    <base:Paragraphs>第二加热装置，其电连接到所述控制装置并浸没在热水箱内，用于使其中的水沸腾；</base:Paragraphs>
+    <base:Paragraphs>第六水位检测装置，其垂直延伸到所述冷却水箱中并与所述控制装置电连接，用于在冷却水箱的水位低于所述第六水位检测装置时向所述控制装置产生信号以停用所述泵；</base:Paragraphs>
+    <base:Paragraphs>第七水位检测装置，所述第七水位检测装置垂直延伸到所述冷却水箱中，其长度比所述第六水位检测装置短，并且与所述控制装置电连接，用于当所述冷却水箱的水位达到所述第七水位检测装置时向所述控制装置产生信号以启动所述泵；</base:Paragraphs>
+    <base:Paragraphs>第八水位检测装置，其垂直延伸到所述热水箱中并电连接到所述控制装置，用于当所述热水箱的水位低于所述第八水位检测装置时向所述控制装置产生信号以启动所述泵；</base:Paragraphs>
+    <base:Paragraphs>第九水位检测装置，其垂直延伸到热水箱中，其长度比第八水位检测装置短，并与所述控制装置电连接，用于当热水箱的水位达到第九水位检测装置时，向所述控制装置产生信号以停用泵； 以及</base:Paragraphs>
+    <base:Paragraphs>第二龙头，所述第二龙头安装在所述热水箱上，用于从所述热水箱分配水。</base:Paragraphs>
+    <base:Paragraphs>5. 根据权利要求4所述的水蒸馏装置，还包括：</base:Paragraphs>
+    <base:Paragraphs>第十水位检测装置，其长度大于所述第八水位检测装置，并且电连接到所述控制装置，用于在所述热水箱的水位低于所述第十水位检测装置时向所述控制装置产生信号以停用所述第二加热装置。</base:Paragraphs>
+    <base:Paragraphs>6. 根据权利要求5所述的水蒸馏装置，还包括：</base:Paragraphs>
+    <base:Paragraphs>恒温器，所述恒温器连接在所述第十水位检测装置和所述控制装置之间，用于控制所述热水箱内的水温。</base:Paragraphs>
+    <base:Paragraphs>7. 根据权利要求1所述的水蒸馏装置，其中，每个所述水位检测装置由钛电极和用于接收所述电极的玻璃管形成。</base:Paragraphs>
+    <base:Paragraphs>8. 根据权利要求7所述的水蒸馏装置，其中，每个所述电极是螺旋形的，并且具有头部和螺纹端。</base:Paragraphs>
+    <base:Paragraphs>9. 根据权利要求8所述的水蒸馏装置，还包括：</base:Paragraphs>
+    <base:Paragraphs>固定在每个玻璃管上的紧固件，用于将水位检测装置安装到相应的水箱上；</base:Paragraphs>
+    <base:Paragraphs>设置在每个所述水位检测装置上的密封件，用于密封玻璃管和电极； 以及</base:Paragraphs>
+    <base:Paragraphs>螺母，所述螺母与每个电极的相应螺纹端螺纹接合，用于将所述密封件偏置到所述玻璃管上并调节所述密封件在所述相应罐内的长度。</base:Paragraphs>
+    <base:Paragraphs>10. 根据权利要求1所述的水蒸馏设备，还包括纵向板，所述纵向板具有U形横截面，所述纵向板竖直地固定在所述沸腾箱内，并且限定了包围所述第一水位检测装置、所述第二水位检测装置和所述第三水位检测装置的纵向开口，并且所述纵向板的长度比所述第一水位检测装置长，用于遮蔽所述第一水位检测装置、所述第二水位检测装置和所述第三水位检测装置。</base:Paragraphs>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

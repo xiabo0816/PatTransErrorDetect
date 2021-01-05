@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000228709JP00020200895820AFULJA20200611JP007.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020089582" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020089582</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020089582</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000228709</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018228709</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>63</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>04</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A63F   5/04        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A63F5/04 651</business:FI>
+      <business:FClass>
+        <business:FTerm>2C082BA17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB34</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB44</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB55</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB56</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB78</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB93</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082BB94</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2C082</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AB12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC38</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC52</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC62</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC74</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC75</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC77</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C082AC82</business:FTerm>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">老虎机</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社三共</base:Name>
+            <base:RegisteredNumber>000144153</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都渋谷区渋谷三丁目29番14号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>小倉  敏男</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都渋谷区渋谷三丁目29番14号  株式会社三共内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>1</business:ClaimsCount>
+      <base:TotalPageCount>38</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种具有关于操作模式的通知的改进的老虎机。 在CZ中,通过进行AT转移提示,提示向AT的转移,因此能通过一场游戏的演出使玩家认识到从CZ转移到AT的意思,进而,在进行这样的AT转移提示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能使玩家集中于AT转移提示。 并且,在进行AT中的成果显示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于成果显示。 图8</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="55" wi="69" file="2020089582_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及一种投币式游戏机,其具备可变显示部,该可变显示部能够变动显示分别能够识别的多种识别信息,在对可变显示部进行了变动显示之后,通过停止可变显示部的变动显示来导出显示结果,能够根据该显示结果产生获奖。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">投币式游戏机通常具备可变显示部,该可变显示部具有在外周部描绘有作为识别信息的多种图案的卷盘,在设定了规定的赌点数的状态下,通过操作开始开关而卷盘开始旋转,在操作停止开关而卷盘的旋转停止时,在获奖线上导出预先决定的图案组合（例如,7-7-7,以下,也将图案组合称为显示结果的组合或牌型）,由此产生获奖。</base:Paragraphs>
+      <base:Paragraphs num="0003">作为角色的种类,有小角色、特别角色、再游戏角色这样的种类。 在此,在获奖线上导出了与小角色对应的显示结果的情况下,支付针对每个小角色的种类而确定的数量的奖牌。 在与特别角色对应的显示结果被导出到获奖线上的情况下,状态能够转移到普通奖励(RB)或大奖励(BB)这样的对玩家有利的特别状态。 在与再游戏角色对应的显示结果被导出到获奖线上的情况下,能够不在设定赌点数时消费新的奖牌而进行下一次游戏。</base:Paragraphs>
+      <base:Paragraphs num="0004">作为这样的投币式游戏机,存在如下的投币式游戏机：能够将停止开关的操作方式控制为用于通知玩家的AT（辅助时间）,通过使玩家选择AT状态中的每一个游戏的奖牌的净增数,从而使每一个游戏的净增数不同（例如,专利文献1）。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2015－160095号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">在上述的投币式游戏机中,以每1个游戏的纯净增数成为由游戏者选择的纯净数的方式报知停止开关的操作形态,但关于报知操作形态的时机,依然存在改良的余地。</base:Paragraphs>
+        <base:Paragraphs num="0007">本发明是鉴于所述实际情况而想出的,其目的在于提供一种关于操作形态的通知而下功夫的投币式老虎机。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">（1）具备可变显示部,该可变显示部能够变动显示分别能够识别的多种识别信息, 在对所述可变显示部进行变动显示之后, 通过停止所述可变显示部的变动显示来导出显示结果, 在能够根据所述显示结果而产生获奖的投币式老虎机中, 状态控制单元,其控制状态； 事先决定单元,其决定容许导出的显示结果； 导出操作机构,为了导出显示结果而被操作； 报告机构,其能够报告所述导出操作机构的操作形态, 所述事先决定单元的决定结果包括： 包含赋予决定结果,该赋予决定结果允许伴随着比用于设定赌点数的游艺用价值大的游艺用价值的赋予的赋予显示结果的导出, 由所述状态控制单元控制的状态包括第1状态以及第2状态,所述第2状态被设计为,与所述第1状态相比,从赋予的游戏用价值的总数减去用于设定赌数的游戏用价值的总数而得到的净增数变大,所述状态控制单元能够使状态在所述第1状态与所述第2状态之间转移,所述报告单元在所述事先决定单元的决定结果为所述赋予决定结果时,能够报告与该赋予决定结果对应的特定操作方式,在所述第2状态下的游戏结果显示于显示部的游戏中,即使所述事先决定单元的决定结果为所述赋予决定结果,也不报告所述特定操作方式。</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0009">
+        <base:FigureReference num="0001">图0001(a)是本实施方式的投币式老虎机的前视图,(b)是表示投币式老虎机的主要内部构成的一例的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示各卷盘的图案排列的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是用于说明游戏状态的转换的图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是用于说明获奖角色的种类、获奖角色的图案组合以及获奖时的赋予的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是用于说明按每个游戏状态作为抽选对象角色读出的获奖角色的组合的图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是用于说明按顺序选中时的带盘控制的图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是用于说明与优惠相关的各种表的图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是用于说明用于管理是否执行导航的导航表的图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是用于说明与演出有关的各种表的图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是用于说明演出的流程的一例子的图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是用于说明通常时的角色选中提示及获奖通知的一例的图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012是用于说明CZ中的角色选中提示及获奖通知的一例的图。</base:FigureReference>
+        <base:FigureReference num="0013">图0013是用来说明CZ中的模式UP演出及机会演出的一例子的图。</base:FigureReference>
+        <base:FigureReference num="0014">图0014是用于说明CZ中的AT转移提示的一例的图。</base:FigureReference>
+        <base:FigureReference num="0015">图0015是用于说明AT中的角色选中提示及获奖通知的一例的图。</base:FigureReference>
+        <base:FigureReference num="0016">图0016是用于说明AT中的追加非通知及追加通知的一例的图。</base:FigureReference>
+        <base:FigureReference num="0017">图0017是用于说明CZ中的结果通知的一例的图。</base:FigureReference>
+        <base:FigureReference num="0018">图0018是用来说明CZ中的模式启示的一个例子的图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0010">基于以下所示的实施例对用于实施本发明的投币式游戏机的方式进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0011">图1(a)是本实施方式的投币式游戏机1的主视图,图1(b)是表示投币式游戏机1的主要内部结构的一例的图。 如图1(a)所示,投币式游戏机1具备转动自如地枢轴支承于前表面开口的框体1a的侧端的前表面门1b。 在投币式游戏机1的内部,在水平方向上并排设置有卷轴2L、2C、2R（以下称为左卷轴、中卷轴、右卷轴）,该卷轴2L、2C、2R以规定的顺序分别以相同数量排列有能够相互识别的多种图案,这些卷轴2L、2C、2R上排列的图案中的连续的三个图案在设置于投币式游戏机1的正面的大致中央的透视窗3中分别显示为上中下三层,以从游戏者侧观察的方式配置。</base:Paragraphs>
+      <base:Paragraphs num="0012">另外,在本实施方式中,例示出使用三个带盘的结构,但是也可以采用仅使用一个带盘的结构、使用两个带盘的结构、使用四个以上的带盘的结构。 另外,在本实施方式中,将通过带盘2L、2C、2R的旋转而使透视窗3所显示的图案可变显示的结构作为可变显示部,但不限于带盘,例如,也可以是能够通过使在外周面配置有多个图案的带移动而使图案变动显示的结构。 另外,在本实施方式中,由物理性卷盘构成可变显示部,但也可以由液晶显示器等图像显示装置构成可变显示部。</base:Paragraphs>
+      <base:Paragraphs num="0013">在投币式游戏机1的正面,如图1所示,可投入奖牌的奖牌投入部4、支付奖牌的奖牌支付口9、使用信用（作为游艺者持有的游艺用价值而存储的奖牌数）在该范围内设定根据游艺状态而决定的规定数（在本实施方式中为3）的投注数中的最大的投注数时操作的最大投注开关6、在开始游戏时操作的开始开关7、在分别停止卷轴2L、2C、2R的旋转时操作的停止开关8L、8C、8R、以及在演出时由游艺者操作的演出用开关56分别可由游艺者操作地设置。</base:Paragraphs>
+      <base:Paragraphs num="0014">此外,以下,也将对启动开关7的操作（例如,用手按下启动开关7的操作）称为“启动操作”,将对用于停止第一个带盘的旋转的停止开关的操作（例如,用手按下停止开关的操作）称为“第一停止操作”,将对用于停止第二个带盘的旋转的停止开关的操作（例如,用手按下停止开关的操作）称为“第二停止操作”,以及将对用于停止第三个带盘的旋转的停止开关的操作（例如,用手按下停止开关的操作）称为“第三停止操作”。 另外,也将第1停止操作、第2停止操作以及第3停止操作统称为“停止操作”。 并且,将对第1个停止开关的按下（第1停止操作）被解除（例如,手离开停止开关）的情况也称为“第1停止离开”,将对第2个停止开关的按下（第2停止操作）被解除（即,手离开停止开关）的情况也称为“第2停止离开”,以及将对第3个停止开关的按下（第3停止操作）被解除（即,手离开停止开关）的情况也称为“第3停止离开”。</base:Paragraphs>
+      <base:Paragraphs num="0015">在投币式游戏机1的正面,在带盘2L、2C、2R的旁边设置有由多个LED构成的侧灯27。 另外,在带盘2L、2C、2R的附近设置有与带盘2L、2C、2R分别对应地设置并且从带盘的里侧或横向对带盘2L、2C、2R分别照射光的带盘背光源28L、28C、28C（以下,也简称为“带盘背光源28”）。 并且,在液晶显示器51的上方设置有输出声音的扬声器53、54。</base:Paragraphs>
+      <base:Paragraphs num="0016">在液晶显示器51的显示区域设置有能够确定AT中的剩余游戏数等的特定区域60。 例如,在特定区域60中,进行表示AT的剩余游戏数的显示（图中“LAST○○G”的显示）、以及表示AT中支付的奖牌枚数的显示（图中“GET○○枚”的显示）等。</base:Paragraphs>
+      <base:Paragraphs num="0017">在投币式游戏机1的正面设置有： 如图1所示, 信用显示器11,其显示作为信用存储的奖牌枚数； 设置有游戏用显示部13,所述游戏用显示部13设置有游戏辅助显示器12、1BETLED14、2BETLED15、3BETLED16、投入请求LED17、开始有效LED18、有利区间LED19、重放中LED20,所述游戏辅助显示器12显示因发生获奖而支付的奖牌枚数、在发生错误时表示其内容的错误代码等,所述1BETLED14通过点亮通知设定了1个赌注数,所述2BETLED15通过点亮通知设定了2个赌注数,所述3BETLED16通过点亮通知设定了3个赌注数,所述投入请求LED17通过点亮通知能够投入奖牌的状态,所述开始有效LED18通过点亮通知基于开始开关7的操作的游戏的开始操作有效,所述有利区间LED19通过点亮通知</base:Paragraphs>
+      <base:Paragraphs num="0018">如图1(b)所示,在投币式游戏机1的内部设置有主控制部41,该主控制部41控制游戏的进行并且根据游戏的进行而输出各种指令。 主控制部41具备进行与游戏的进展相关的各种控制的主CPU41a、和存储与游戏的进展相关的各种数据的RAM41c。 主控制部41检测对MAXBET开关6、开始开关7、以及停止开关8L、8C、8R等的操作、以及对奖牌投入部4的奖牌的投入,根据检测出的操作,进行带盘2L、2C、2R的旋转/停止或游艺用显示部13中的各LED的点亮/熄灭等与游艺的进行相关的控制。</base:Paragraphs>
+      <base:Paragraphs num="0019">在投币式游戏机1的内部设置有根据来自主控制部41的指令来控制演出的副控制部91。 副控制部91具备进行与演出相关的各种控制的副CPU91a和存储与演出相关的各种数据的RAM91c。 副控制部91基于来自主控制部41的命令,对液晶显示器51中的图像的显示、来自扬声器53、54的声音输出、以及侧灯27、卷轴背光源28的点亮/熄灭等进行控制。 用于液晶显示器51的图像显示、扬声器53、54的声音输出的演出数据存储于RAM91c。 进而,副控制部91检测对演出用开关56的操作,并根据检测出的操作控制液晶显示器51中的图像的显示或来自扬声器53、54的声音输出。</base:Paragraphs>
+      <base:Paragraphs num="0020">当在投币式游戏机1中进行游戏时,游戏者向奖牌投入部4投入奖牌,或者操作MAX投注开关6等来设定规定数的投注数。 由此,中奖线LN变得有效,并且对开始开关7的操作变得有效,成为能够开始游戏的状态。 获奖线LN是用于判定显示于透视窗3的带盘2L、2C、2R中的图案的组合是否与获奖图案的组合一致的线。 在本实施方式中,仅将跨越在卷轴2L的中段、卷轴2C的中段、卷轴2R的中段、即中段沿水平方向排列的图案而设定的获奖线LN确定为获奖线,但也可以设置多条获奖线。 另外,也可以设置有容易识别构成获奖的图案的组合与获奖线LN对齐的无效线。</base:Paragraphs>
+      <base:Paragraphs num="0021">当在能够开始游戏的状态下操作开始开关7时,带盘2L、2C、2R旋转。 此时,通过主控制部41进行内部抽选。 内部抽选是决定允许导出的图案组合（显示结果组合）的处理。 也将允许通过内部抽选导出图案组合的情况称为选中了与该图案组合对应的牌型。</base:Paragraphs>
+      <base:Paragraphs num="0022">当操作停止开关8L、8C、8R时,与被操作的停止开关对应的带盘的旋转停止。 由此,在透视窗3导出显示图案组合。 在获奖线LN上与中奖角色的图案组合一致的图案组合停止的情况下,发生与该中奖角色对应的获奖。</base:Paragraphs>
+      <base:Paragraphs num="0023">在卷轴的停止控制中,在从对每个停止开关执行操作时起的最大停止延迟时间（在本实施例中,190ms（毫秒））内,执行用于停止卷轴2L、2C和2R的与操作相对应的旋转的控制。 使带盘2L、2C、2R在1分钟内旋转80圈,使80（旋转）×20（每1带盘的图案帧数,例如20帧）=1600帧的量的图案变动,因此在经过预先设定的最大停止延迟时间（190ms）为止的期间,最多能够引入4帧的量的图案。 即,在停止控制中,能够从在操作了停止开关8L、8C、8R时显示的图案和从该停止开关8L、8C、8R起到4帧前为止的图案、合计5帧量（拉入范围）的图案中选择一个图案,并导出至卷轴2L、2R、2R。</base:Paragraphs>
+      <base:Paragraphs num="0024">作为可能发生获奖的角色,有特别角色（奖励）、小角色及再游戏角色。 特别角色（奖励）是通过获奖而游戏状态被控制为中奖为小角色的概率比非奖励状态高的奖励状态的角色。 特别角色（奖励）包括RB（普通奖励）、BB（大奖励）这样的第一种特别角色以及CB（挑战奖励）这样的第二种特别角色。 在本实施方式中,作为特别功能,设置有CB。 小角色是通过获奖而被赋予奖牌的角色。 再游戏角色（重放）是通过获奖,不消费玩家所有的奖牌就能够开始下一个游戏的角色。</base:Paragraphs>
+      <base:Paragraphs num="0025">为了发生根据游戏状态确定的各牌型的获奖,需要在内部抽选中抽中,并设定该牌型的抽中标志。 在内部抽选中,主控制部41在导出所有的带盘2L、2C、2R的显示结果以前（具体而言,在开始开关7的检测时）使用随机数来决定是否允许对上述各牌型的获奖。</base:Paragraphs>
+      <base:Paragraphs num="0026">此外,各牌型的选中标志中,小牌型及再游艺牌型的选中标志仅在设定有该标志的游戏中有效,在下一游戏中无效,但特别牌型的选中标志在通过该标志允许的牌型的组合齐备之前有效,在允许的牌型的组合齐备的游戏中无效。 即,特别角色的中奖标志一旦中奖,则即使在通过该标志不能使被允许的角色的组合一致的情况下,该中奖标志也不会被设为无效,而被留给下一个游戏。</base:Paragraphs>
+      <base:Paragraphs num="0027">另外,在内部抽选中,在以预先确定的规定的操作形态（例如,操作顺序、操作时机）进行停止操作的情况下,与以其他操作形态进行停止操作的情况相比变得有利的小角色或再游戏角色（以下,也称为“按顺序角色”）能够被选中。 按序角色例如包括与在以预先决定的规定的操作形态进行停止操作的情况下以其他操作形态进行停止操作的情况下停止的停止形态相比成为有利的停止形态的角色、在以预先决定的规定的操作形态进行停止操作的情况下与以其他操作形态进行停止操作的情况相比有利的停止形态停止的比例高的角色等。 并且,有利的停止形态不仅是伴随奖牌的赋予的停止形态,还包括伴随向有利的游艺状态的转移的停止形态、避免向不利的游艺状态的转移的停止形态等。</base:Paragraphs>
+      <base:Paragraphs num="0028">主控制部41在通过内部抽选选中按序角色时,能够执行通知对游戏者有利的停止开关8L、8C、8R的操作方式的导航。 具体而言,主控制部41能够控制为辅助时间(AT),该辅助时间(AT)是能够执行根据内部抽奖结果通过游戏辅助显示器12的点亮方式来通知对游戏者有利的停止开关8L、8C、8R的操作方式的导航通知的通知期间。</base:Paragraphs>
+      <base:Paragraphs num="0029">详细后述,主控制部41在通常区间中预先确定的规定的抽选条件成立时,进行决定是否控制在对游戏者有利的状态的有利区间的有利区间转移抽选,通过在该有利区间转移抽选中选中,开始有利区间的控制。 在有利区间中,主控制部41在当选为按顺序角色时,通过进行AT的控制来执行导航通知,使用游戏辅助显示器12通知对玩家有利的停止开关8L、8C、8R的操作形态（例如,操作顺序、操作定时等）,并且将能够确定对玩家有利的操作形态的命令发送给副控制部91,从而执行使用液晶显示器51等通知该操作形态的导航演出。</base:Paragraphs>
+      <base:Paragraphs num="0030">按序牌型包括在游戏者的操作形态和与选中的按序牌型对应的操作形态（以下,也称为“正确顺序”）一致时铃声获奖的按序铃声、以及在游戏者的操作形态和与选中的按序牌型对应的操作形态一致时重放获奖的按序提示。 以下,将在按序铃中奖的游戏中能够进行的导航也称为Bernavi。 此外,通常区间与如有利区间那样能够执行伯导航的状态不同,是不能执行伯导航的状态。</base:Paragraphs>
+      <base:Paragraphs num="0031">游戏者通过按照Bernavi以正确顺序操作停止开关8L、8C、8R,能够使按顺序铃声所包含的牌型中奖牌的支付多的牌型获奖。 或者,游戏者通过按照Bernavi以正确顺序操作停止开关8L、8C、8R,能够使按顺序铃声所包含的牌型中的不可能错过获奖的牌型获奖。 此外,也将按序铃所包含的牌型中的、以正确顺序操作停止开关8L、8C、8R时能够获奖的牌型称为“主角”,将以与正确顺序不同的不正确顺序操作停止开关8L、8C、8R时能够获奖的牌型称为“副牌”。</base:Paragraphs>
+      <base:Paragraphs num="0032">在通过导航通知及导航演出通知的操作形态下,通过操作停止开关8L、8C、8R,能够使通过内部抽选选中的按序角色中包含的主角可靠地获奖。 另外,在有利区间的控制中,将有利区间LED19设为点亮状态,通知正在进行有利区间的控制。</base:Paragraphs>
+      <base:Paragraphs num="0033">图3是用于说明游戏状态的转换的图。 如图3所示,由液晶显示器51控制的游戏状态包括非内部中和内部中。</base:Paragraphs>
+      <base:Paragraphs num="0034">内部中是游戏能够进行的状态,并且是基于预先设定的设计值的奖牌的支付率被担保的状态。 此外,在本实施方式的投币式游戏机1中,使游戏者在内部中进行几乎所有的游戏。</base:Paragraphs>
+      <base:Paragraphs num="0035">另一方面,非内部中是游戏者不进行游戏的状态,或者即使有时进行游戏,其时间也极短的状态。 在非内部中,当被CB中奖且该CB未获奖时,游戏状态从下一个游戏转移到内部中。 即,内部处于推迟CB中奖的状态。 一旦游戏状态被控制到内部中,则被遗留的CB几乎不会得奖,即使有,也是极低的概率。</base:Paragraphs>
+      <base:Paragraphs num="0036">此外,在图3所示的例子中,作为游戏状态而省略了CB的图示,但如果假设在非内部中或内部中有可能在CB中获奖,则游戏状态从非内部中或内部中向CB转移。 在该情况下,CB大致以1场游戏结束,游戏状态再次向非内部中转移。</base:Paragraphs>
+      <base:Paragraphs num="0037">内部状态包括正常区间和有利区间。 通常区间是不执行伯导航的状态。 有利区间是可以执行Bernavi的状态。 在通常区间中,当通过有利区间转移抽选选中时,状态被控制为有利区间。</base:Paragraphs>
+      <base:Paragraphs num="0038">有利区间中的状态包括正常时间、CZ和AT。 通常时是能够执行导航的状态,是“第三状态”的一例。 CZ是能够执行导航的状态,是“第一状态”的一例。 AT是能够执行导航的状态,是与CZ相比导航的执行概率高的状态,是“第二状态”的一例。 在AT中玩家能够获得的每一个游戏的净增数大于在CZ中玩家能够获得的每一个游戏的净增数。 换言之,在AT中玩家能够获得的净增数的总数比在CZ中玩家能够获得的净增数的总数大。 此外,每一个游戏的净增数是指,从每一个游戏支付的奖牌的枚数中减去每一个游戏中用于设定赌点数的奖牌的枚数而得到的数。 规定状态（CZ或AT）下的净增数是指,从规定状态（CZ或AT）下支付的奖牌总数中减去该规定状态（CZ或AT）下用于设定赌数的奖牌总数后的数字。 另外,“净增数”是比0大的数。</base:Paragraphs>
+      <base:Paragraphs num="0039">在通常情况下,当通过后述的有利转移抽选选中（有利选中）时,状态被控制为CZ或AT。 在通常情况下,设置有有利转移抽选中的选中概率不同的多种概率模式。 在本实施方式中,设置有有利转移抽选中的抽中概率最低的低概率模式、有利转移抽选中的抽中概率高于低概率模式的中概率模式、以及有利转移抽选中的抽中概率最高的高概率模式。</base:Paragraphs>
+      <base:Paragraphs num="0040">在从通常时将状态控制为CZ或AT时,通过导出七个图案为三个的图案组合（以下,也称为“七个整齐”）,从而向玩家暗示将状态控制为CZ或AT。 另外,也将用于通知用于导出七套的停止开关8L、8C、8R的操作步骤的导航称为“七套导航”。</base:Paragraphs>
+      <base:Paragraphs num="0041">对CZ的控制通过游戏数来管理,以在CZ中消化的游戏数达到预先设置的上限游戏数为条件,该CZ结束。 此外,CZ不限于通过游戏数来管理,也可以基于导航（例如,铃导航）的执行次数、铃的获奖次数达到预先设置的上限次数、以及支付张数、净增加张数达到预先设置的上限张数等其他条件来管理。</base:Paragraphs>
+      <base:Paragraphs num="0042">在CZ中,当通过后述的AT抽选选中（AT选中）时,由AT控制状态。 此外,在CZ中,设置有AT抽选中的选中概率不同的多种概率模式。 在本实施方式中,设置有AT抽选中的选中概率最低的低概率模式、AT抽选中的选中概率高于低概率模式的中概率模式、以及AT抽选中的选中概率最高的高概率模式。</base:Paragraphs>
+      <base:Paragraphs num="0043">对AT的控制由导航的执行次数管理,以在AT中执行的导航（例如,Bernavi）的执行次数达到预先设置的上限次数为条件,该AT结束。 此外,AT不限于通过导航的执行次数来管理,也可以基于消化游戏数达到预先设置的上限游戏数、铃声的获奖次数达到预先设置的上限次数、以及支付张数、净增加张数达到预先设置的上限张数等其他条件来管理。</base:Paragraphs>
+      <base:Paragraphs num="0044">在AT中,在通过后述的追加抽选选中（追加选中）时,延长对AT的控制期间。 此外,在AT中,也可以设置追加抽选中的选中概率不同的多种概率模式。</base:Paragraphs>
+      <base:Paragraphs num="0045">当AT结束时,状态再次被CZ控制,当在该CZ中AT选中时,状态再次被AT控制。 另一方面,当在该CZ中没有AT中奖且消化游戏数达到上限游戏数时,在通常时控制状态。 以这种方式,状态从正常时间开始被控制为CZ或AT,并且状态在CZ和AT之间来回移动。 在CZ中净增数的合计约为0枚或者比0枚稍小（例如-20枚）,在AT中净增数的合计比0枚大,约100枚奖牌作为净增数被计数。 因此,设计成在CZ与AT之间状态往返的情况下,净增数的合计持续增加。 另一方面,在通常时,净增数的合计约为0张或小于0张,因此若通常时停留的游戏数大于CZ与AT之间停留的游戏数,则净增数的合计持续减少。</base:Paragraphs>
+      <base:Paragraphs num="0046">此外,在本实施方式中,虽然是从通常时直接控制为CZ或AT,但在从通常时将状态控制为CZ或AT时,也可以在控制为能够执行与CZ或AT不同的导航的伪奖励的基础上,从该伪奖励将状态控制为CZ或AT。</base:Paragraphs>
+      <base:Paragraphs num="0047">当在有利区间中限制条件成立或者任意的结束条件成立时,从该有利区间向通常区间控制状态。 例如,限制条件包括有利区间中的消化游戏数达到1500G、或者有利区间中的净增数达到2400枚。 另外,例如,任意的结束条件包括在通常时没有有利中奖而消化了预定的上限游戏数。</base:Paragraphs>
+      <base:Paragraphs num="0048">图4是用于说明获奖任务的种类、获奖任务的图案组合以及获奖时的赋予的图。 在图4的名称栏中示出获奖角色的名称,在图案的组合栏中示出该获奖角色获奖的图案的组合。 此外,在能够在无效线停止的图案的组合栏中,示出了当成为获奖的图案的组合在获奖线停止时能够在无效线停止的图案的组合且游戏者容易识别的图案的组合。 在付与栏中,示出了获奖时付与的价值（奖牌支付枚数、再游艺付与等）。</base:Paragraphs>
+      <base:Paragraphs num="0049">如图4所示,作为特别功能,设置有CB。 作为小角色,设置有中段钟形、上段钟形1～8、西瓜、樱桃、以及一个角色。 作为再游戏角色,通常设置有再游戏以及7套再游戏。</base:Paragraphs>
+      <base:Paragraphs num="0050">中段钟是与上述的主角对应的角色。 上层喇叭1～8是与上述的副功能对应的功能,与中层喇叭相比支出张数少。 在西瓜获奖的情况下,在卷轴2L、2C、2R中西瓜图案一致。 在7集齐复制品获奖的情况下,在带盘2L、2C、2R中白色7或黑色7对齐。</base:Paragraphs>
+      <base:Paragraphs num="0051">图5是用于说明按每个游戏状态作为抽选对象角色读出的获奖角色的组合的图。 在图5的角色编号栏中示出了按每个抽选对象角色确定的角色编号,在抽选对象角色栏中示出了其名称,在获奖角色的组合栏中示出了各抽选对象角色所包含的获奖角色的组合,在游戏状态栏中按每个游戏状态用圆圈示出了该抽选对象角色是抽选对象。</base:Paragraphs>
+      <base:Paragraphs num="0052">如图5所示,作为特别角色的抽选对象角色,设置有CB。 作为小角色的抽选对象角色,设有六选钟1～6、西瓜以及樱桃。 作为再游戏角色的抽选对象角色,设置有通常重复和特别重复。 另外,西瓜和樱桃在内部抽奖中的中奖概率比六选钟低,因此也称为“稀有角色”。 作为稀有角色的西瓜、樱桃的构成图案在任一个卷轴中均未配置在5帧以内。 因此,根据停止开关8L、8C、8R的操作时机,无法使构成图案停止在获奖线上,有时会错过中奖的稀有角色的获奖。</base:Paragraphs>
+      <base:Paragraphs num="0053">在非内部中,所有的牌型都可以中奖,但在内部中,由于CB的中奖已经被推迟,所以只有CB不能中奖。</base:Paragraphs>
+      <base:Paragraphs num="0054">图6是用于说明按顺序角色选中时的带盘控制的图。 如图6所示,按序功能设置有六选钟1～6以及特别提示。 在AT中六选钟选中的游戏中,执行Bernavi,并将正确顺序通知给游戏者。 游戏者通过按照Bernavi以正确顺序操作停止开关8L、8C、8R,能够使对游戏者有利的获奖角色获奖。</base:Paragraphs>
+      <base:Paragraphs num="0055">例如,在当选为六选铃声1～6中的任意一个的游戏中,当以正确顺序操作了停止开关8L、8C、8R时,作为主角的中段铃声获奖,另一方面,当以不正确顺序操作了停止开关8L、8C、8R时,作为副角色的上段铃声获奖,或者未获奖。</base:Paragraphs>
+      <base:Paragraphs num="0056">在特别重复中奖的游戏中,在按停止开关8R、停止开关8C、停止开关8L的顺序操作时,七套重复能够获奖。 此外,以下,也将按停止开关8R、停止开关8C、停止开关8L的顺序操作称为反向按。 另一方面,在特别重复中奖的游戏中,在通过反按以外的方式操作了停止开关8L、8C、8R时,通常重复中奖。</base:Paragraphs>
+      <base:Paragraphs num="0057">此外,在特别提示中奖的游戏中,有时进行提醒玩家通过反向按压来操作停止开关8L、8C、8R的七套导航,若玩家按照七套导航来操作停止开关8L、8C、8R,则七套提示获奖。 另外,在特别重复中奖的游戏中,有时进行非7套导航（所谓杀人的导航）,该非7套导航催促玩家通过反按以外来操作停止开关8L、8C、8R,若玩家按照非7套导航来操作停止开关8L、8C、8R,则通常重复获奖。</base:Paragraphs>
+      <base:Paragraphs num="0058">图7是用于说明与优惠相关的各种表的图。 主控制部41基于图7所示的各种表执行与优惠相关的抽选。 本实施方式中的与优惠相关的表包括模式抽选表、有利转移抽选表、AT抽选表以及追加抽选表。</base:Paragraphs>
+      <base:Paragraphs num="0059">（模式抽选表） 
+如图7的(a)所示,主控制部41通过执行模式抽选,基于抽选决定通常时以及CZ各自的概率模式。 模式抽选中的抽选条件包括状态从通常时转移到CZ、状态从CZ转移到通常时、以及在有利区间中从AT转移到CZ。 </base:Paragraphs>
+      <base:Paragraphs num="0060">在模式抽选中,在状态从AT转移到CZ时,与状态从通常时转移到CZ时相比,被决定为中概率模式或高概率模式的概率变高。 因此,与从通常时转移的CZ相比,从AT转移的CZ容易被AT选中,通过暂时被AT控制,容易反复进行CZ与AT的状态的往来。</base:Paragraphs>
+      <base:Paragraphs num="0061">（有利转移抽选表） 
+如图7(b)所示,主控制部41通过在通常时执行有利转移抽选,基于抽选来决定是否在有利区间控制状态。 有利转移抽选中的抽选条件包括稀有角色选中。 </base:Paragraphs>
+      <base:Paragraphs num="0062">在有利转移抽选中,根据通常时的概率模式的种类,以不同的概率决定有无有利选中。 具体而言,在低概率模式下,有利中奖的概率最低,在中概率模式下,有利中奖的概率比低概率模式高,在高概率模式下,有利中奖的概率最高。</base:Paragraphs>
+      <base:Paragraphs num="0063">（AT抽选表） 
+如图7(c)所示,主控制部41通过在CZ中执行AT抽选,基于抽选来决定是否使AT控制状态。 AT抽奖中的抽奖条件包括稀有角色中奖和六选钟中奖。 </base:Paragraphs>
+      <base:Paragraphs num="0064">在AT抽选中,以根据CZ中的概率模式的种类而不同的概率来决定AT选中的有无。 具体而言,在低概率模式下,AT选中的概率最低,在中概率模式下,AT选中的概率比低概率模式高,在高概率模式下,AT选中的概率最高。 另外,在AT抽选中,与选中六选钟时相比,选中稀有角色时以更高的概率进行AT选中。</base:Paragraphs>
+      <base:Paragraphs num="0065">此外,即使在CZ中六选钟中奖时不执行Bernavi,由于进行AT抽选,因此能够使游戏者尽量不感到尽管六选钟中奖但不执行Bernavi这样的不满。</base:Paragraphs>
+      <base:Paragraphs num="0066">（追加抽选表） 
+如图7(d)所示,主控制部41通过在AT中执行追加抽选,基于抽选决定是否延长对AT的控制期间。 追加抽选中的抽选条件包括稀有角色选中。 如上所述,本实施方式中的对AT的控制通过导航的执行次数来管理。 因此,在追加选中的情况下,预先设置的上限次数增加,或者导航的执行次数的计数停止。 此外,主控制部41在CZ中也可以基于追加抽选来决定是否延长向CZ的控制期间。 </base:Paragraphs>
+      <base:Paragraphs num="0067">图8是用于说明用于管理是否执行导航的导航表的图。 主控制部41按照导航表,按每个状态管理有无导航的执行。</base:Paragraphs>
+      <base:Paragraphs num="0068">（通常时的导航） 
+通常情况下,在进行有利转移建议的游戏中,即使中奖六选钟也不执行Bernavi。 详细内容后述,有利转移提示是提示状态从通常时向有利区间转移的意思的演出。 在进行有利转移建议的游戏中中奖时,执行七套导航,而不执行非七套导航。 </base:Paragraphs>
+      <base:Paragraphs num="0069">由此,在进行有利转移启示的游戏中,通过玩家按照七套导航操作停止开关8L、8C、8R来导出七套,能够向玩家启示状态从通常时转移到有利区间。</base:Paragraphs>
+      <base:Paragraphs num="0070">在通常时,在其他游戏中,不执行Bernavi、七组导航以及非七组导航中的任一个。</base:Paragraphs>
+      <base:Paragraphs num="0071">（CZ中的导航） 
+在CZ中,在进行AT转移建议的游戏中,即使六选钟中奖也不执行Bernavi。 详情后述,AT转移提示是提示状态从CZ向AT转移的意思的演出。 此外,即使在进行AT转移提示的游戏中中奖,也不执行七套导航和非七套导航中的任一个。 </base:Paragraphs>
+      <base:Paragraphs num="0072">这样,在进行AT转移提示的游戏中,不执行任何导航,因此不会被导航妨碍,能使玩家集中于与AT转移提示相关的演出。 另外,在进行AT转移提示的游戏中,由于连非七套导航也不执行,因此不会使游戏者误解为执行了Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0073">在CZ中,在进行结果通知的游戏中,即使六选钟中奖,也不执行Bernavi。 详情后述,结果报知是在AT中的游戏的结果在该AT结束后转移的CZ中报知的演出。 此外,在进行成果通知的游戏中,即使中奖为特别推荐,也不执行七套导航和非七套导航中的任一个。</base:Paragraphs>
+      <base:Paragraphs num="0074">这样,在进行结果通知的游戏中,不执行任何导航,因此不会被导航妨碍,能够使玩家集中于与结果通知相关的演出。 此外,在进行成果报知的游戏中,即使非七套导航也不执行,因此不会使游戏者误解为执行了Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0075">在CZ中,在进行模式提示的游戏中,即使选中六选钟也不执行Bernavi。 详细后述,模式提示是提示CZ中的概率模式的选择结果的演出。 此外,在进行模式提示的游戏中,即使中奖为特别提示,也不执行七套导航以及非七套导航中的任一个。</base:Paragraphs>
+      <base:Paragraphs num="0076">这样,在进行模式提示的游戏中,不执行任何导航,因此不会被导航妨碍,能够使游戏者集中于与模式提示相关的演出。 此外,在进行模式提示的游戏中,即使非七套导航也不执行,因此不会使玩家误解为执行了Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0077">此外,进行AT转移提示的游戏、进行成果通知的游戏以及进行模式提示的游戏分别是不进行Bernavi的游戏,因此也称为“无导航游戏”。 与此相对,也将进行Bernavi的游戏称为“有导航游戏”。</base:Paragraphs>
+      <base:Paragraphs num="0078">在CZ中,在其他游戏中,当六选钟中奖时,以比AT时低的概率执行Bernavi。 另外,在其他游戏中,在特别提示中奖时,不执行七套导航,而执行非七套导航。</base:Paragraphs>
+      <base:Paragraphs num="0079">由此,在不进行任何特定的演出的游戏中,虽然是低概率,但通过执行Bernavi,能够使游戏者放心能够使主角获奖。 另外,在不进行任何特定的演出的游戏中,通过执行非七套导航,能够防止不必要地导出有利转移启示时使用的七套的图案组合。</base:Paragraphs>
+      <base:Paragraphs num="0080">（AT中的导航） 
+在AT中,在前兆期间中的游戏中,当六选钟中奖时,以比CZ时高的概率执行Bernavi。 详情后述,前兆期间是进行向游戏者煽动是否已追加中奖的演出的期间。 另外,在前兆期间中的游戏中,在特别提示中奖时,不执行七套导航,另一方面,执行非七套导航。 </base:Paragraphs>
+      <base:Paragraphs num="0081">在AT中,在进行追加通知的游戏中,即使选中六选钟也不执行Bernavi。 详情后述,追加通知是在经过前兆期间后暗示追加当选的演出。 此外,在进行追加通知的游戏中,即使中奖为特别推荐,也不执行七套导航以及非七套导航中的任一个。</base:Paragraphs>
+      <base:Paragraphs num="0082">由此,在进行追加通知的游戏中,不执行任何导航,因此不会被导航妨碍,能够使玩家集中于与追加通知相关的演出。 此外,在进行追加通知的游戏中,即使非七套导航也不执行,因此不会使游戏者误解为执行了Bernavi。 并且,如上所述,在前兆期间中的游戏中,能够执行伯氏导航和非7集导航中的任一个,与此相对,在该前兆期间后进行追加通知的游戏中,不执行任一个导航。 由此,在前兆期间中,通过执行Bernavi,能够使玩家放心能够使主角获奖,并且通过执行非七套导航,能够防止在暗示有利转移时使用的七套图案组合被不必要地导出,另一方面,在进行追加通知的游戏中,不会被导航妨碍,能够使玩家集中于与追加通知相关的演出,因此能够在适当的时刻进行适当的导航。</base:Paragraphs>
+      <base:Paragraphs num="0083">在AT中,在其他游戏中,当六选钟中奖时,以比CZ时高的概率执行Bernavi。 另外,在其他游戏中,在特别提示中奖时,不执行七套导航,而执行非七套导航。</base:Paragraphs>
+      <base:Paragraphs num="0084">由此,在不进行任何特定的演出的游戏中,通过以高概率执行Bernavi,能够使游戏者放心能够使主角获奖。 另外,在不进行任何特定的演出的游戏中,通过执行非七套导航,能够防止不必要地导出有利转移启示时使用的七套的图案组合。</base:Paragraphs>
+      <base:Paragraphs num="0085">图9是用于说明与演出有关的各种表的图。 主控制部41及副控制部91基于图9所示的各种表执行演出。 在本实施方式中的与演出相关的表中,包括铃声获奖通知表、角色选中提示表、机会演出表、模式提升演出表、六选择铃声选中时演出抽选表及六选择铃声选中时演出内容抽选表。</base:Paragraphs>
+      <base:Paragraphs num="0086">（铃声获奖通知表） 
+如图9(a)所示,在铃声得奖通知表中,根据状态来决定铃声得奖通知的方式。 所谓铃声获奖通知,是在六选铃声中奖的游戏中,当主角获奖时进行的演出。 </base:Paragraphs>
+      <base:Paragraphs num="0087">在通常时,当进行铃声获奖报告时,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音。</base:Paragraphs>
+      <base:Paragraphs num="0088">在CZ中的有导航游戏中,当进行铃声获奖报告时,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音,进而在液晶显示器51显示“GET！！” 的图像（也称为“GET”显示）。 另一方面,在CZ中的无导航游戏中,当进行铃声获奖通知时,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音,但不进行GET显示。</base:Paragraphs>
+      <base:Paragraphs num="0089">这样,在CZ中,当在无导航游戏中中奖为六选钟时,尽管不执行Bernavi,但即使玩家偶然以正确顺序操作停止开关8L、8C、8R,从而主角获奖,也不进行GET显示。 由此,在尽管是有利区间但六选铃声中奖时,不会使未执行Bernavi的情况醒目,能够避免给玩家强烈印象未执行Bernavi的情况。</base:Paragraphs>
+      <base:Paragraphs num="0090">在AT中,当进行铃声获奖报告时,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音,进而进行GET显示。</base:Paragraphs>
+      <base:Paragraphs num="0091">这样,在AT中的铃声获奖通知中进行GET显示,与此相对,在CZ中的铃声获奖通知中不进行GET显示,因此在AT中获奖为主角时,与在CZ中获奖为主角时相比,能够强调获奖为主角,能够使AT中的游戏气氛高涨。</base:Paragraphs>
+      <base:Paragraphs num="0092">（角色选中提示表） 
+如图9(b)所示,在角色选中提示表中,根据状态确定了角色选中提示的方式。 角色选中提示是指,在选中了稀有角色、六选铃、以及重放（通常重复、七套重复）中的任一个角色的游戏中,提示选中的角色的演出。 也就是说,角色选中提示是指与选中角色相关联的提示演出。 例如,当六选钟中奖时,作为与六选钟中奖相关的提示演出,进行提示六选钟中奖的角色中奖提示。 </base:Paragraphs>
+      <base:Paragraphs num="0093">在通常时,在稀有角色中的樱桃中奖时,执行与樱桃对应的以红色为形象的演出,在稀有角色中的西瓜中奖时,执行与西瓜对应的以绿色为形象的演出。 此外,这些演出在无导航游戏中也能够执行。</base:Paragraphs>
+      <base:Paragraphs num="0094">通常情况下,当六选铃声中奖时,执行与铃声对应的以黄色为形象的演出。</base:Paragraphs>
+      <base:Paragraphs num="0095">在通常时任一个牌型中奖时,执行设想了与全部牌型（包含中奖）对应的白色的演出。</base:Paragraphs>
+      <base:Paragraphs num="0096">在CZ中,在稀有角色中的樱桃中奖时,执行与樱桃对应的以红色为形象的演出,在稀有角色中的西瓜中奖时,执行与西瓜对应的以绿色为形象的演出。 此外,这些演出在无导航游戏中也能够执行。</base:Paragraphs>
+      <base:Paragraphs num="0097">在CZ中当选六选钟时,执行与所有角色（包括中奖）对应的以白色为形象的演出。</base:Paragraphs>
+      <base:Paragraphs num="0098">在CZ中任一个牌型中奖时,执行与全部牌型（包含中奖）对应的想象了白色的演出。</base:Paragraphs>
+      <base:Paragraphs num="0099">在AT中,当稀有角色中的樱桃中奖时,执行与樱桃对应的以红色为形象的演出,当稀有角色中的西瓜中奖时,执行与西瓜对应的以绿色为形象的演出。 此外,这些演出在无导航游戏中也能够执行。</base:Paragraphs>
+      <base:Paragraphs num="0100">在AT中选中六选铃声时,执行与铃声对应的以黄色为形象的演出。</base:Paragraphs>
+      <base:Paragraphs num="0101">在AT中任一个牌型中奖时,执行与所有牌型（包含中奖）对应的想象了白色的演出。</base:Paragraphs>
+      <base:Paragraphs num="0102">这样,在CZ中,即使是无导航的游戏,在稀有角色中奖时也进行角色中奖提示,因此能够使玩家瞄准所提示的稀有角色的获奖,能够避免错过稀有角色的获奖。</base:Paragraphs>
+      <base:Paragraphs num="0103">此外,在CZ中奖为六选钟时,不是像通常时中奖为六选钟时那样执行以黄色为形象的演出,而是执行以与全部牌型（包括中奖）对应的白色为形象的演出,因此在CZ中,能够极力避免使玩家意识到中奖为六选钟。</base:Paragraphs>
+      <base:Paragraphs num="0104">（机会演出表） 
+如图9(c)所示,在机会演出表中,根据状态确定有无机会演出的执行。 机会演出是仅在CZ中能够执行的演出,是进行了AT抽选的意思以及暗示AT选中的演出。 机会演出可以在当选成为CZ中的AT抽选的执行条件的角色即六选钟时执行。 另外,机会演出可以在CZ中中奖六选钟时必须执行,也可以基于抽选随机执行,或者基于规定的决定执行。 </base:Paragraphs>
+      <base:Paragraphs num="0105">（模式UP演出表） 
+如图9(d)所示,在模式UP演出表中,根据状态确定模式UP演出的执行有无。 模式UP演出是指仅在CZ中能够执行的演出,是使游戏者认为好像概率模式从中概率模式向高概率模式提高了等级那样的演出。 </base:Paragraphs>
+      <base:Paragraphs num="0106">具体而言,如图7(a)所示,模式抽选在状态从通常时转移到CZ时、状态从CZ转移到通常时时、以及在有利区间中从AT转移到CZ时中的任一个执行。 因此,概率模式不会在CZ的中途发生变化。 但是,例如,即使在通过模式抽选决定为高概率模式的情况下,有时在CZ的最初执行与中概率模式或低概率模式对应的演出（背景演出等）,在该CZ的中途切换为与真的高概率模式对应的演出（背景演出等）。 将这样的演出设为模式UP演出。 在本实施方式中,仅在CZ中在内部确定为高概率模式的情况下执行模式UP演出,从与中概率模式对应的演出切换为与真的高概率模式对应的演出。</base:Paragraphs>
+      <base:Paragraphs num="0107">（六选钟抽中时演出抽选表） 
+如图9(e)所示,在六选钟抽中时演出抽选表中,当抽中六选钟时,根据状态确定用于确定是否执行任一演出的抽选概率。 此外,在任一演出中包含前述的角色选中暗示演出、机会演出以及模式提升演出。 再者,在任一演出中,也可以包含导航演出等其他演出。 </base:Paragraphs>
+      <base:Paragraphs num="0108">具体而言,在通常时中奖为六选钟时,以20%的概率执行任一种演出。 另一方面,在CZ中当选六选钟时,以80%的概率执行其中一个演出。</base:Paragraphs>
+      <base:Paragraphs num="0109">这样,在CZ中奖为六选钟时,以比通常时中奖为六选钟时高的概率执行角色中奖提示演出、机会演出等中的任一演出,因此与通常时相比,能够通过演出使作为有利区间的CZ气氛高涨。</base:Paragraphs>
+      <base:Paragraphs num="0110">（六选择铃选中时演出内容抽选表） 
+如图9(f)所示,在六选钟中奖时演出内容抽选表中,当六选钟中奖时,根据状态确定用于确定要执行的演出内容的抽选概率。 </base:Paragraphs>
+      <base:Paragraphs num="0111">具体而言,在通常情况下中奖为六选钟时,以80%的概率进行角色中奖提示,以20%的概率进行状态提示。 再者,在本实施方式中,在状态暗示中,包含机会演出及模式UP演出。 即,在通常时中奖为六选钟时,以80%的概率进行角色中奖提示,另一方面,以20%的概率进行机会演出或模式提升演出。</base:Paragraphs>
+      <base:Paragraphs num="0112">在CZ中奖六选钟时,以50%的概率进行角色中奖提示,以50%的概率进行状态提示（机会演出、模式UP演出）。 也就是说,在CZ中奖为六选钟时,以50%的概率进行角色中奖提示,另一方面,以50%的概率进行机会演出或模式提升演出。</base:Paragraphs>
+      <base:Paragraphs num="0113">这样,在通常情况下六选钟中奖时,与在CZ中六选钟中奖时相比,以更高的概率进行与六选钟中奖相关的角色中奖提示。 在此,CZ与AT相比,在被六选钟选中时执行导航的概率较低,因此,如果玩家识别出尽管被六选钟选中也不执行导航,则会使玩家感到不满。 因此,如本实施方式所示,在CZ中奖为六选钟时,与通常情况下中奖为六选钟时相比,通过减小进行与六选钟的中奖相关的角色中奖提示的频率,在CZ中,可以避免游戏者认识到中奖为六选钟,可以使游戏者尽量不感到如上所述的不满。</base:Paragraphs>
+      <base:Paragraphs num="0114">图10是用于说明演出的流程的一例子的图。 在图10中,示出了状态从通常时转移到CZ,之后状态从CZ转移到AT,再之后状态从AT转移到CZ的情况的例子。 另外,图中的“X1”、“X2”、……“X23”是任意的值。</base:Paragraphs>
+      <base:Paragraphs num="0115">如图10所示,在通常时的第X1场游戏中,当中奖六选钟（在本例中为六选钟3）时,进行提示六选钟中奖的角色中奖提示。 另外,在通常时的第X2游戏中,在稀有角色中奖时,进行提示稀有角色中奖的角色中奖提示。 例如,图11是用于说明通常时的角色选中提示及获奖通知的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0116">图11的（a1）～（d1）表示第X1游戏中的演出。 如图11的（a1）所示,在通常情况下,与山的背景图像一起显示角色进行动作的动画图像,从扬声器53、54输出与通常情况对应的BGM。 当在第X1游戏中进行开始操作时,滚轴旋转。 此时,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但由于是通常时,因此不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0117">如图11（b1）所示,当由游戏者进行用于使中滚盘2C停止的第一停止操作时,向中滚盘2C导出铃声。</base:Paragraphs>
+      <base:Paragraphs num="0118">如图11（c1）所示,当游戏者执行用于停止左卷轴2L的第二停止操作时,向左卷轴2L导出铃声。 此时,虽然没有执行Bernavi,但由于偶然地以正解顺序操作了停止开关而确定了主角的获奖,因此,作为角色选中提示,将以黄色为形象的铃的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0119">如图11（d1）所示,当由游戏者进行用于使右卷轴2R停止的第三停止操作时,向右卷轴2R导出铃声,之后,当进行第三停止分离时,作为铃声获奖报告,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音。</base:Paragraphs>
+      <base:Paragraphs num="0120">这样,在通常时中奖为六选钟时,不执行Bernavi,但作为角色中奖提示,执行想象了与钟对应的黄色的演出。 此外,并不是在执行了贝尔导航的基础上获奖为主角,因此在贝尔获奖通知中不进行GET显示。</base:Paragraphs>
+      <base:Paragraphs num="0121">图11的（a2）～（d2）表示第X2游戏中的演出。 如图11的（a2）所示,当在第X2游戏中进行开始操作时,滚轴旋转。 此时,基于樱桃中奖这一情况,提示角色中奖并执行想象了与樱桃对应的红色的演出。</base:Paragraphs>
+      <base:Paragraphs num="0122">如图11（b2）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,樱桃被导出到左卷轴2L。</base:Paragraphs>
+      <base:Paragraphs num="0123">如图11（c2）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,樱桃被导出到中间卷轴2C。</base:Paragraphs>
+      <base:Paragraphs num="0124">如图11（d2）所示,当由游戏者进行用于使右绕线轮2R停止的第3停止操作时,樱桃被导出到右绕线轮2R,之后,当进行第3停止分离时,作为樱桃的获奖报告,侧灯27及绕线轮背光源28点亮,并且从扬声器53、54输出获奖音。</base:Paragraphs>
+      <base:Paragraphs num="0125">这样,在通常时樱桃中奖时,作为角色中奖提示,执行想象了与樱桃对应的红色的演出。</base:Paragraphs>
+      <base:Paragraphs num="0126">返回到图10,在通常时的第X3游戏中,当特别提示中奖时,执行七套导航。 虽然省略图示,但若由游戏者按照七套导航操作停止开关8L、8C、8R,则导出七套。 进而,进行暗示状态从通常时向有利区间转移的有利转移暗示（例如,“CZ中选”、“WIN”、或者“进入CZ”等的图像显示）。 由此,能使游戏者认识到状态从通常时转移到有利区间。 然后,从CZ中的第X4游戏开始CZ。 此外,在第X4游戏中,即使六选钟中奖,也不执行Bernavi。 因此,Bernavi不会干扰指示CZ开始的CZ开始指示。</base:Paragraphs>
+      <base:Paragraphs num="0127">在CZ中的第X5场游戏中,当中奖六选钟（在本例中为六选钟3）时,进行提示六选钟中奖的角色中奖提示。 另一方面,在第X6游戏中,当中奖六选钟（在该例子中为六选钟3）时,也进行提示六选钟中奖的角色中奖提示,但在该游戏中,也执行Bernavi。 例如,图12是用于说明CZ中的角色选中提示和获奖通知的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0128">图12的（a1）～（d1）表示第X5游戏中的演出。 如图12（a1）所示,在CZ中,与海的背景图像一起显示角色进行动作的动画图像,从扬声器53、54输出与CZ对应的BGM。 此外,海的背景图像是与CZ中的中概率模式对应的背景图像。 当在第X5游戏中进行开始操作时,滚轴旋转。 此时,作为角色选中提示,形象为白色的乌贼的图像显示于液晶显示器51。 另外,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0129">如图12（b1）所示,当由游戏者进行用于使中滚盘2C停止的第一停止操作时,向中滚盘2C导出铃声。</base:Paragraphs>
+      <base:Paragraphs num="0130">如图12（c1）所示,当游戏者执行用于停止左卷轴2L的第二停止操作时,向左卷轴2L导出铃声。 此时,虽然未执行Bernavi,但偶然也以正确顺序操作了停止开关,由此确定主角的获奖。 此外,也可以是,在主角获奖确定的时间点,作为角色选中提示而执行的想象了白色的乌贼的图像变化为想象了黄色的图像。</base:Paragraphs>
+      <base:Paragraphs num="0131">如图12（d1）所示,当由游戏者进行用于使右卷轴2R停止的第三停止操作时,向右卷轴2R导出铃声,之后,当进行第三停止分离时,作为铃声获奖报告,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音。</base:Paragraphs>
+      <base:Paragraphs num="0132">这样,在CZ中奖为六选钟时,有时不执行Bernavi,作为角色中奖提示,执行与所有角色对应的想象了白色的演出。 此外,并不是根据执行了贝尔导航而获奖为主角,因此在贝尔获奖通知中不进行GET显示。 由此,在CZ中,尽量避免使游戏者意识到选中了六选钟,并且也不会使尽管选中了六选钟但未执行Bernavi的情况醒目。</base:Paragraphs>
+      <base:Paragraphs num="0133">图12的（a2）～（d2）示出了第X6游戏中的演出。 如图12的（a2）所示,当在第X6游戏中进行开始操作时,滚轴旋转。 此时,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,执行Bernavi。 另外,作为角色选中提示,形象为白色的乌贼的图像显示于液晶显示器51。 此外,由于通过执行Bernavi而使游戏者识别出六选钟的选中,因此作为角色选中提示,也可以在液晶显示器51上显示以黄色为形象的图像。</base:Paragraphs>
+      <base:Paragraphs num="0134">如图12（b2）所示,当游戏者执行用于停止中间卷轴2C的第一停止操作时,向中间卷轴2C导出铃声。</base:Paragraphs>
+      <base:Paragraphs num="0135">如图12（c2）所示,当游戏者执行用于停止左卷轴2L的第二停止操作时,向左卷轴2L导出铃声。 此时,通过按正确顺序操作停止开关来确定主角的获奖。 此外,也可以是,在主角获奖确定的时间点,作为角色选中提示而执行的想象了白色的乌贼的图像变化为想象了黄色的图像。</base:Paragraphs>
+      <base:Paragraphs num="0136">如图12（d2）所示,当由游戏者进行用于使右卷轴2R停止的第三停止操作时,向右卷轴2R导出铃声,之后,当进行第三停止分离时,作为铃声获奖报告,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音。 并且,由于主角根据伯纳比获奖,因此进行GET显示。</base:Paragraphs>
+      <base:Paragraphs num="0137">这样,在CZ中奖六选钟时,存在不执行Bernavi的情况和执行Bernavi的情况,在执行了Bernavi的情况下进行GET显示,与此相对,在不执行Bernavi的情况下不进行GET显示。 由此,即使选中了六选钟,也不会使Bernavi没有被执行的情况醒目。</base:Paragraphs>
+      <base:Paragraphs num="0138">返回到图10,在CZ中的第X7游戏中,在特别提示中奖时,执行非7集齐导航。 虽然省略图示,但若由游戏者按照非7套导航操作停止开关8L、8C、8R,则导出通常重复的图案组合。 由此,能够避免在特别重复中奖时不必要地导出7套。</base:Paragraphs>
+      <base:Paragraphs num="0139">在CZ中的第X8游戏中,当六选钟中奖时,执行模式提升演出。 之后,在CZ中的第X9游戏中,当中奖为稀有角色时,通过进行角色中奖提示的、基于该稀有角色的中奖的AT抽选来决定AT中奖。 之后,在CZ中的第X10游戏中,当六选钟中奖时,执行机会演出。 例如,图13是用于说明CZ中的模式UP演出及机会演出的一例子的图。</base:Paragraphs>
+      <base:Paragraphs num="0140">图13的（a1）～（d1）示出了第X8游戏中的演出。 如图13的（a1）所示,当在第X8游戏中进行开始操作时,滚轴旋转。 此时,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0141">如图13的（b1）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,重放被导出到左卷轴2L。 此时,暗示概率模式的等级提升的“模式…”的文字图像显示于液晶显示器51。 此外,“模式…”的文字图像也可以在开始操作时显示。</base:Paragraphs>
+      <base:Paragraphs num="0142">如图13（c1）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,白色BAR被导出到中间卷轴2C。 此时,确定地通知概率模式的等级上升的“模式UP！！” 的文字图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0143">如图13（d1）所示,当由游戏者进行用于使右拨盘2R停止的第三停止操作时,重放被导出到右拨盘2R而未得奖。 然后,当进行第3停止离开时,CZ中的画面从与中概率模式对应的海的背景图像切换为与高概率模式对应的夜空的背景图像。 另外,从扬声器53、54输出“模式UP”的声音。</base:Paragraphs>
+      <base:Paragraphs num="0144">这样,在CZ中,通过执行模式UP演出,可以以演出上的外观报知概率模式升级了。 并且,在执行这样的模式UP演出的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于模式UP演出。 此外,在进行模式UP演出的游戏中,即使偶然成为主角,也不进行GET显示。 由此,不会使尽管选中了六选钟但未执行Bernavi的情况醒目,也不会妨碍模式提升演出。</base:Paragraphs>
+      <base:Paragraphs num="0145">图13的（a2）～（d2）示出了第X10游戏中的演出。 如图13的（a2）所示,当在第X10游戏中进行开始操作时,滚轴旋转。 此时,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0146">如图13的（b2）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,重放被导出到左卷轴2L。 此时,执行机会演出,“？” 的云的图像显示于液晶显示器51。 另外,“？” 的云的图像可以在开始操作时显示。</base:Paragraphs>
+      <base:Paragraphs num="0147">如图13（c2）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,白色BAR被导出到中间卷轴2C。 此时,执行机会演出,“！” 的云的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0148">如图13（d2）所示,当由游戏者进行用于使右拨盘2R停止的第3停止操作时,向右拨盘2R导出回放而错过获奖。 然后,当进行第3停止离开时,执行暗示是机会的机会演出,将表示“机会”的云的图像显示于液晶显示器51。 另外,从扬声器53、54输出“机会”的声音。</base:Paragraphs>
+      <base:Paragraphs num="0149">这样,在CZ中,当中奖为六选钟时,不执行Bernavi,而是执行机会演出,从而能够向游戏者提示进行了AT抽选的意思及AT中奖,因此能够提高游戏的趣味。 而且,在执行这种机会演出的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于机会演出。 另外,在进行机会演出的游戏中,即使偶然成为主角,也不进行GET显示。 由此,即使选中了六选钟,也不会使Bernavi未被执行的情况醒目,也不会妨碍机会演出。</base:Paragraphs>
+      <base:Paragraphs num="0150">返回图10,在CZ中的第X11游戏中,当六选钟中奖时,进行AT转移提示。 之后,从CZ中的第X12游戏开始AT。 例如,图14是用于说明CZ中的AT转移提示的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0151">图14的（a1）～（e1）示出了第X11游戏中的演出。 如图14的（a1）所示,当在第X11游戏中进行开始操作时,滚轴旋转。 此时,在液晶显示器51上显示表示第X11游戏是CZ的最终游戏的意思的“LAST游戏”的文字图像。 另外,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0152">如图14的（b1）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,重放被导出到左卷轴2L。 此时,煽动是否转移到AT的“？” 以下相同）的钻石的图像显示于液晶显示器51。 另外,“？” 的钻石的图像也可以在开始操作时显示。</base:Paragraphs>
+      <base:Paragraphs num="0153">如图14（c1）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,白色BAR被导出到中间卷轴2C。 此时,煽动是否转移到AT的“！” 以下相同）的钻石的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0154">如图14（d1）所示,当由游戏者进行用于使右拨盘2R停止的第3停止操作时,向右拨盘2R导出回放而错过获奖。 然后,当进行第3停止离开时,按照角色的动作而在钻石上示出的“！” 变为“AT”。</base:Paragraphs>
+      <base:Paragraphs num="0155">如图14（e1）所示,之后,作为AT转移提示,与“AT突入”的文字图像一起显示字符图像。 由此,向玩家提示状态从CZ转移到AT。</base:Paragraphs>
+      <base:Paragraphs num="0156">这样,在CZ中,通过进行AT转移提示来提示向AT的转移,因此能通过一场游戏的演出使玩家认识到从CZ向AT转移的意思。 并且,在进行这样的AT转移提示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于AT转移提示。 此外,在进行AT转移提示的游戏中,即使偶然地成为主角,也不进行GET显示。 由此,即使选中了六选钟,也不会使Bernavi未被执行的情况醒目,也不会妨碍AT转移提示。</base:Paragraphs>
+      <base:Paragraphs num="0157">图14的（a2）～（d2）示出了第X12游戏中的演出。 如图14的（a2）所示,当在CZ中的第X12游戏中进行开始操作时,滚盘旋转。 此时,用于提示AT开始的意思的基于角色的动画图像被显示于液晶显示器51。 另外,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0158">如图14的（b2）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,将重放导出到左卷轴2L。 在演出中,基于角色的动画图像继续显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0159">如图14（c2）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,白色BAR被导出到中间卷轴2C。 在演出中,基于角色的动画图像继续显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0160">如图14（d2）所示,当由游戏者进行用于使右拨盘2R停止的第3停止操作时,向右拨盘2R导出回放而错过获奖。 然后,若进行第3停止离开,则进行AT开始提示,“AT开始”的文字图像显示于液晶显示器51。 从下一个游戏开始,AT开始。</base:Paragraphs>
+      <base:Paragraphs num="0161">这样,在CZ中,通过进行AT开始提示来提示AT的开始,因此能通过一个游戏的演出使游戏者认识到AT从下一个游戏开始的意思。 并且,在这样的进行AT开始提示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于AT开始提示。 此外,在进行AT开始提示的游戏中,即使偶然成为主角,也不进行GET显示。 由此,即使选中了六选钟,也不会使Bernavi未被执行的情况醒目,也不会妨碍AT开始提示。</base:Paragraphs>
+      <base:Paragraphs num="0162">此外,AT开始提示作为CZ中的游戏进行了说明,但也可以在AT中的最初的游戏中进行。 在这种情况下,也优选在选中六选钟时不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0163">返回图10,在AT中的第X13场游戏中,当中奖六选钟（在本例中为六选钟3）时,进行提示六选钟中奖的角色中奖提示。 另外,在第X14游戏中,在特别提示中奖时,执行非7集齐导航。 虽然省略图示,但若由游戏者按照非7套导航操作停止开关8L、8C、8R,则导出通常重复的图案组合。 由此,能够避免在特别重复中奖时不必要地导出7套。 之后,在AT中的第X15场游戏中,当中奖为稀有角色时,通过进行角色中奖提示的、基于该稀有角色的中奖的追加抽选来决定追加中奖。 例如,图15是用于说明AT中的角色选中提示及获奖通知的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0164">图15的（a1）～（d1）表示第X13游戏中的演出。 如图15的（a1）所示,当在第X13游戏中进行开始操作时,滚轴旋转。 此时,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,执行Bernavi。 另外,作为角色选中提示,将以黄色为形象的铃声的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0165">如图15的（b1）所示,当由游戏者进行用于使中滚盘2C停止的第一停止操作时,向中滚盘2C导出铃声。</base:Paragraphs>
+      <base:Paragraphs num="0166">如图15（c1）所示,当游戏者执行用于停止左卷轴2L的第二停止操作时,向左卷轴2L导出铃声。 此时,通过按正确顺序操作停止开关来确定主角的获奖。</base:Paragraphs>
+      <base:Paragraphs num="0167">如图15（d1）所示,当由游戏者进行用于使右卷轴2R停止的第三停止操作时,向右卷轴2R导出铃声,之后,当进行第三停止分离时,作为铃声获奖报告,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音。 并且,由于主角根据伯纳比获奖,因此进行GET显示。</base:Paragraphs>
+      <base:Paragraphs num="0168">这样,在AT中奖为六选钟时,执行Bernavi,并且在获奖为主角时的获奖通知中进行GET显示。</base:Paragraphs>
+      <base:Paragraphs num="0169">图15的（a2）～（d2）表示第X15游戏中的演出。 如图15的（a2）所示,当在第X15游戏中进行开始操作时,滚轴旋转。 此时,基于樱桃中奖这一情况,提示角色中奖并执行想象了与樱桃对应的红色的演出。</base:Paragraphs>
+      <base:Paragraphs num="0170">如图15（b2）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,樱桃被导出到左卷轴2L。</base:Paragraphs>
+      <base:Paragraphs num="0171">如图15（c2）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,樱桃被导出到中间卷轴2C。</base:Paragraphs>
+      <base:Paragraphs num="0172">如图15（d2）所示,当由游戏者进行用于使右绕线轮2R停止的第3停止操作时,樱桃被导出到右绕线轮2R,之后,当进行第3停止分离时,作为樱桃的获奖报告,侧灯27及绕线轮背光源28点亮,并且从扬声器53、54输出获奖音。</base:Paragraphs>
+      <base:Paragraphs num="0173">这样,在AT中樱桃中奖时,作为角色中奖提示,执行想象了与樱桃对应的红色的演出。</base:Paragraphs>
+      <base:Paragraphs num="0174">返回到图10,AT中的第X16场游戏～第X18场游戏成为煽动追加中奖的前兆期间。 在该前兆期间,执行跨及多个游戏的连续演出。 具体而言,当我方角色与敌方角色展开战斗,在最终战斗中我方角色胜利时,通知追加选中。 此外,在该例中,在第X16游戏中,当中奖六选钟（在该例中为六选钟3）时,进行提示六选钟中奖的角色中奖提示。 另外,在第X17游戏中,在特别提示中奖时,执行非7集齐导航。 虽然省略图示,但若由游戏者按照非7套导航操作停止开关8L、8C、8R,则导出通常重复的图案组合。 由此,能够避免在特别重复中奖时不必要地导出7套。</base:Paragraphs>
+      <base:Paragraphs num="0175">接着,在AT中的第X18场游戏中,当中奖了六选钟（在该例子中为六选钟3）时,暂时进行将未追加中奖的意思通知给游戏者的追加非通知,作为拒绝的通知。 然后,在AT中的第X19游戏中,当中奖为六选钟（在本例中为六选钟3）时,作为真通知,进行向游戏者通知已追加中奖的追加通知。 例如,图16是用于说明AT中的追加非通知以及追加通知的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0176">图16的（a1）～（d1）示出了第X18游戏中的演出。 虽然省略图示,但在前兆期间中的第X16场游戏和第X17场游戏中,进行多次战斗、战斗的准备。</base:Paragraphs>
+      <base:Paragraphs num="0177">如图16的（a1）所示,当在第X18游戏中进行开始操作时,滚轴旋转。 此时,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,执行Bernavi。 此时,我方角色与敌方角色对峙的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0178">如图16（b1）所示,当由游戏者进行用于使中滚盘2C停止的第一停止操作时,向中滚盘2C导出铃声。 此时,我方角色与敌方角色展开战斗的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0179">如图16（c1）所示,当由游戏者进行用于使左卷轴2L停止的第二停止操作时,向左卷轴2L导出铃声。 此时,我方角色和敌方角色继续展开战斗的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0180">如图16（d1）所示,当由游戏者进行用于使右滚轴2R停止的第三停止操作时,向右滚轴2R导出铃声,之后,当进行第三停止分离时,作为铃声获奖报告,侧灯27及滚轴背灯28点亮,并且从扬声器53、54输出获奖音。 并且,由于主角根据伯纳比获奖,因此进行GET显示。 另外,此时,作为战斗的结果,在液晶显示器51上显示因敌方角色的攻击而同伴角色倒下的图像。 由此,作为面纱的通知,向游戏者通知未追加中奖的意思。</base:Paragraphs>
+      <base:Paragraphs num="0181">图16的（a2）～（d2）示出了第X19游戏中的演出。 如图16的（a2）所示,当在第X19游戏中进行开始操作时,滚轴旋转。 此时,我方角色复活,我方角色与敌方角色对峙的图像显示于液晶显示器51。 另外,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0182">如图16的（b2）所示,当由游戏者进行用于使左卷轴2L停止的第一停止操作时,向左卷轴2L导出重放。 此时,我方角色与敌方角色展开战斗的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0183">如图16（c2）所示,当游戏者执行用于停止中卷轴2C的第二停止操作时,白色BAR被导出到中卷轴2C。 此时,我方角色和敌方角色继续展开战斗的图像显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0184">如图16（d2）所示,当由游戏者进行用于使右拨盘2R停止的第3停止操作时,向右拨盘2R导出回放而未得奖。 然后,当进行第3停止离开时,作为战斗的结果,在液晶显示器51上显示通过我方角色的攻击敌方角色倒下且我方角色胜利的意思的图像。 并且,在液晶显示器51上显示示出了“追加”的云出现的动画图像。 由此,作为真通知,将追加中奖的意思通知给游戏者。</base:Paragraphs>
+      <base:Paragraphs num="0185">这样,在追加抽选的结果最终被通知的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使游戏者集中精力进行与追加通知相关的演出。 并且,在通知前兆期间中或Gaze的追加抽选的结果的游戏中,能够执行伯导航或非七套导航,与此相对,在该前兆期间后最终通知追加抽选的结果的游戏中,不执行任何导航。 由此,在通知前兆期间中或加塞儿的追加抽选的结果的游戏中,通过执行Bernavi,能够使游戏者放心能够使主角获奖,并且通过执行非七套导航,能够防止在暗示有利转移时使用的七套的图案组合被不必要地导出,另一方面,在最终进行追加通知的游戏中,不会被Bernavi妨碍,能够使游戏者集中于与追加通知相关的演出,因此能够在适当的时机进行适当的导航。</base:Paragraphs>
+      <base:Paragraphs num="0186">返回到图10,在AT中的第X20游戏中,AT结束,状态从第X21游戏再次转变为CZ。 在CZ中的第X21游戏中,进行通知AT中的游戏结果的结果通知。 例如,图17是用于说明CZ中的结果通知的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0187">图17的（a1）～（d1）表示第X20游戏中的演出,图17的（a2）～（d2）表示第X21游戏中的演出。 如图17的（a1）所示,当在第X20游戏中进行开始操作时,滚轴旋转。 此时,在液晶显示器51上显示表示第X20游戏是AT的最终游戏的意思的“LAST游戏”的文字图像。 此时,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0188">如图17（b1）所示,当由游戏者进行用于使中滚盘2C停止的第一停止操作时,向中滚盘2C导出铃声。</base:Paragraphs>
+      <base:Paragraphs num="0189">如图17（c1）所示,当游戏者执行用于停止左卷轴2L的第二停止操作时,向左卷轴2L导出铃声。</base:Paragraphs>
+      <base:Paragraphs num="0190">如图17（d1）所示,当由游戏者进行用于使右卷轴2R停止的第三停止操作时,向右卷轴2R导出铃声,之后,当进行第三停止分离时,作为铃声获奖报告,侧灯27及卷轴背光源28点亮,并且从扬声器53、54输出获奖音。 并且,由于主角根据伯纳比获奖,因此进行GET显示。</base:Paragraphs>
+      <base:Paragraphs num="0191">如图17的（a2）所示,当在第X21游戏中进行开始操作时,滚轴旋转。 此时,用于表示AT中的奖牌的支付总数的计数图像（图中“TOTAL张”的图像）与角色图像一起显示在液晶显示器51上。 从扬声器53、54输出与结果通知对应的BGM。 另外,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0192">如图17的（b2）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,重放被导出到左卷轴2L。 此时,在计数图像中,示出第一位的数字（图中“0”）。</base:Paragraphs>
+      <base:Paragraphs num="0193">如图17（c2）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,白色BAR被导出到中间卷轴2C。 此时,在计数图像中,示出第二位的数字（图中“2”）。</base:Paragraphs>
+      <base:Paragraphs num="0194">如图17（d2）所示,当由游戏者进行用于使右拨盘2R停止的第3停止操作时,向右拨盘2R导出回放而错过获奖。 此时,在计数图像中,显示第三位的数字（图中“4”）,420枚奖牌在AT中被支付的意思被通知给玩家。</base:Paragraphs>
+      <base:Paragraphs num="0195">这样,在从AT转换状态后的CZ中,通过进行结果通知,从而通知AT中的游戏的结果,因此能够通过一个游戏的演出使玩家识别AT中的游戏的结果。 并且,在进行这样的结果通知的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使游戏者对结果通知集中注意力。 另外,在进行结果通知的游戏中,即使偶然地成为主角,也不进行GET显示。 由此,即使选中了六选钟,也不会使没有执行Bernavi的情况醒目,也不会妨碍结果通知。</base:Paragraphs>
+      <base:Paragraphs num="0196">返回到图10,在CZ中的第X22游戏中,进行提示CZ中的概率模式的选择结果的模式提示。 之后,从CZ中的第X23游戏开始CZ。 例如,图18是用于说明CZ中的模式启示的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0197">图18的（a1）～（d1）示出了第X22游戏中的演出。 如图18的（a1）所示,当在第X22游戏中进行开始操作时,滚轴旋转。 从扬声器53、54输出与模式抽选对应的BGM。 此时,表示进行用于决定CZ中的概率模式的模式抽选的意思的“模式抽选”的文字图像被显示于液晶显示器51。 另外,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0198">如图18的（b1）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,重放被导出到左卷轴2L。 此时,在液晶显示器51上显示与低概率模式对应的街道模式、与中概率模式对应的海洋模式、以及与高概率模式对应的夜空模式这三个概率模式的选择项。</base:Paragraphs>
+      <base:Paragraphs num="0199">如图18（c1）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,白色BAR被导出到中间卷轴2C。 此时,通过使3个概率模式的选择项像轮盘那样旋转,从而依次切换位于前面侧的选择项。</base:Paragraphs>
+      <base:Paragraphs num="0200">如图18（d1）所示,当由游戏者进行用于使右拨盘2R停止的第3停止操作时,向右拨盘2R导出回放而错过获奖。 此时,最终从三个概率模式中选择与中概率模式对应的海模式,仅残留“海模式（中概率）”的文字图像并显示在液晶显示器51上。</base:Paragraphs>
+      <base:Paragraphs num="0201">如图18的（a2）所示,当在第X23游戏中进行开始操作时,滚轴旋转,CZ开始。</base:Paragraphs>
+      <base:Paragraphs num="0202">这样,在CZ开始时,通过进行模式提示,提示CZ中的概率模式的选择结果,因此能通过一个游戏的演出使游戏者识别CZ中的概率模式。 并且,在进行这样的模式提示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于模式提示。 另外,在进行模式提示的游戏中,即使偶然成为主角,也不进行GET显示。 由此,即使选中了六选钟,也不会使没有执行Bernavi的情况醒目,也不会妨碍模式提示。</base:Paragraphs>
+      <base:Paragraphs num="0203">图18的（a2）～（d2）示出了第X23游戏中的演出。 如图18的（a2）所示,当在CZ中的第X23游戏中进行开始操作时,滚轴旋转。 此时,用于提示CZ开始的意思的基于角色的动画图像被显示于液晶显示器51。 另外,作为按序角色的六选择铃（在本例中为六选择铃3）中奖,但不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0204">如图18的（b2）所示,当游戏者执行用于停止左卷轴2L的第一停止操作时,重放被导出到左卷轴2L。 在演出中,基于角色的动画图像继续显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0205">如图18（c2）所示,当游戏者执行用于停止中间卷轴2C的第二停止操作时,白色BAR被导出到中间卷轴2C。 在演出中,基于角色的动画图像继续显示于液晶显示器51。</base:Paragraphs>
+      <base:Paragraphs num="0206">如图18（d2）所示,当由游戏者进行用于使右拨盘2R停止的第3停止操作时,向右拨盘2R导出回放而错过获奖。 然后,若进行第3停止离开,则进行CZ开始提示,将“CZ开始”的文字图像显示于液晶显示器51。 CZ从下一个游戏开始。</base:Paragraphs>
+      <base:Paragraphs num="0207">这样,通过进行CZ开始提示,提示CZ的开始,因此能通过一个游戏的演出使游戏者认识到从下一个游戏开始CZ的意思。 并且,在进行这样的CZ开始提示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于CZ开始提示。 另外,在进行CZ开始提示的游戏中,即使偶然成为主角,也不进行GET显示。 由此,即使六选钟中奖,也不会使Bernavi未被执行的情况醒目,也不会妨碍CZ开始提示。</base:Paragraphs>
+      <base:Paragraphs num="0208">[主要效果]接着,对通过上述的实施方式得到的主要效果进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0209">（1-1）具备可变显示部（例如,带盘2L、2C、2R）,该可变显示部能够对各自能够识别的多种识别信息（例如,图案）进行变动显示, 在对所述可变显示部进行变动显示之后, 通过停止所述可变显示部的变动显示来导出显示结果, 在能够根据所述显示结果而产生获奖的投币式老虎机（例如投币式老虎机1）中, 状态控制单元,其控制状态（例如,由主控制部41进行的控制状态的处理）； 事先决定单元（例如,进行基于主控制部41的内部抽选的处理）,其决定容许导出的显示结果； 导出操作机构（例如,停止开关8L、8C、8R）,其为了导出显示结果而被操作； 报告机构（例如,执行基于主控制部41及副控制部91的导航的处理）,其能够报告所述导出操作机构的操作形态, 所述事先决定单元的决定结果包括： 包含允许导出伴随着比用于设定赌点数的游艺用价值（例如,三枚）大的游艺用价值（例如,八枚）的赋予的赋予显示结果（例如,中段铃声的图案组合）的赋予决定结果（例如,六选铃声）, 由所述状态控制单元控制的状态包括： 包括第一状态（例如,CZ）和第二状态（例如,AT）； 所述第二状态包括： 与所述第1状态相比, 从被赋予的游艺用价值的总数减去用于设定赌数的游艺用价值的总数而得到的净增数被设计得较大（例如,AT与CZ相比每1个游艺的净增数较大,AT与CZ相比游艺者能够获得的净增数的总数较大）, 所述状态控制单元能够使状态在所述第一状态与所述第二状态之间转移（例如,参照图3所示的游戏状态的转移）,所述报告单元在所述事先决定单元的决定结果是所述赋予决定结果时,能够报告与该赋予决定结果对应的特定操作形态（例如,正确顺序）,在被提示从所述第一状态向所述第二状态转移的该第一状态中的游戏（例如,图14所示的第X11游戏、第X12游戏的游戏）中,即使所述事先决定单元的决定结果是所述赋予决定结果,也不报告所述特定操作形态（例如,在进行AT转移提示、AT开始提示的游戏中不执行Bernavi）。</base:Paragraphs>
+      <base:Paragraphs num="0210">具体而言,如图8和图14所示,在CZ中,通过进行AT转移提示来提示向AT的转移,因此能通过一场游戏的演出使玩家认识到从CZ向AT转移的意思。 并且,在进行这样的AT转移提示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于AT转移提示。 这样,通过在适当的定时执行Bernavi,能够增加纯增张数。</base:Paragraphs>
+      <base:Paragraphs num="0211">（1-2）所述通知单元在所述第一状态和所述第二状态中的任一状态下都能够通知所述导出操作单元的操作形态（例如,如图8所示,在CZ和AT中的任一状态下都执行Bernavi）,在所述第二状态下,以比所述第一状态高的概率通知所述导出操作单元的操作形态（例如,在AT中,以比CZ高的概率执行Bernavi）。</base:Paragraphs>
+      <base:Paragraphs num="0212">具体而言,如图8所示,有时在CZ和AT中都执行伯导航,但在AT中,以比CZ高的概率执行伯导航。 这样,不限于AT,在CZ中也执行低概率的Bernavi,因此能够使玩家放心能够使主角获奖。</base:Paragraphs>
+      <base:Paragraphs num="0213">（1-3）在所述第二状态下的游戏结果被显示在显示部（例如,液晶显示器51）上的游戏（例如,图17所示的第X21游戏的游戏）中,即使所述事先决定单元的决定结果是所述赋予决定结果,所述报告单元也不报告所述特定操作形态（例如,在进行结果报告的游戏中不执行Bernavi）。</base:Paragraphs>
+      <base:Paragraphs num="0214">具体而言,如图8及图17所示,在从AT转移状态后的CZ中,通过进行结果通知,从而通知AT中的游戏的结果,因此能通过1个游戏的演出使玩家识别AT中的游戏的结果。 并且,在进行这样的结果通知的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使游戏者对结果通知集中注意力。 这样,通过在适当的定时执行Bernavi,能够增加纯增张数。</base:Paragraphs>
+      <base:Paragraphs num="0215">（1-4）在所述第一状态下,以向所述第二状态的转移概率不同的多种模式（例如,低概率模式、中概率模式、高概率模式）中的某一种模式进行游戏,在模式的种类被建议的游戏（例如,图18所示的第X22游戏的游戏）中,即使所述事先决定单元的决定结果是所述赋予决定结果,所述报告单元也不报告所述特定操作形态（例如,在进行模式建议的游戏中不执行Bernavi）。</base:Paragraphs>
+      <base:Paragraphs num="0216">具体而言,如图8和图18所示,通过进行模式提示,提示CZ中的概率模式的选择结果,因此能通过一个游戏的演出使游戏者识别CZ中的概率模式。 并且,在进行这样的模式提示的游戏中,即使中奖为六选钟也不执行Bernavi,因此不会被Bernavi妨碍,能够使玩家集中于模式提示。 这样,通过在适当的定时执行Bernavi,能够增加纯增张数。</base:Paragraphs>
+      <base:Paragraphs num="0217">（1-5）根据（1-5）所述的信息处理装置,其中,在所述事先决定单元的决定结果 在包含允许导出特殊显示结果（例如,樱桃的图案组合）的特殊决定结果（例如,樱桃中奖）,且所述事先决定单元的决定结果是所述特殊决定结果时,有时不会根据所述导出操作单元的操作形态导出所述特殊显示结果（例如,樱桃中奖有时会漏掉）,还具备执行提示所述事先决定单元的决定结果是所述特殊决定结果的意思的提示演出（例如,角色选中提示）的提示演出单元（例如,由主控制部41及副控制部91进行的角色选中提示的处理）,即使是不由所述报告单元报告所述特定操作形态的游戏（例如,图8所示的无导航游戏）,提示演出单元也能够执行所述提示演出。</base:Paragraphs>
+      <base:Paragraphs num="0218">具体地说,如图10所示的第X9游戏那样,在樱桃等存在遗漏的稀有角色中奖时,进行角色中奖提示,因此能够使玩家瞄准所提示的稀有角色的获奖,能够避免遗漏稀有角色的获奖。 另外,如图9所示,即使是CZ中的无导航游戏,这种角色选中提示也是在稀有角色选中时进行的,因此,即使是无导航游戏,也能够避免稀有角色的获奖漏掉。</base:Paragraphs>
+      <base:Paragraphs num="0219">（1-6）还具备特定获奖报告单元（例如,进行由副控制部91进行的贝尔获奖报告的处理）,该特定获奖报告单元能够执行根据所述赋予显示结果的导出来报告发生了特定获奖（例如,主角的获奖）的消息的特定获奖报告（例如,贝尔获奖报告中的GET显示）,所述特定获奖报告单元在未由所述报告单元报告所述特定操作方式的游戏（例如,图12所示的第X5游戏的游戏）中,即使发生所述特定获奖,也不执行所述特定获奖报告（例如,在未执行贝尔导航的游戏中不进行GET显示）。</base:Paragraphs>
+      <base:Paragraphs num="0220">具体而言,如图12所示,在CZ中的不执行贝尔导航的游戏中,即使主角获奖,在贝尔获奖通知中也不进行GET显示。 由此,在CZ中,尽量避免使游戏者意识到选中了六选钟,并且也不会使尽管选中了六选钟但未执行Bernavi的情况醒目。</base:Paragraphs>
+      <base:Paragraphs num="0221">（1-7）根据（1-7）所述的信息处理装置,其中,在所述事先决定单元的决定结果 包含允许导出特定显示结果（例如,七套重复的图案组合）及规定显示结果（例如,通常重复的图案组合）的特定决定结果（例如,特别重复选中）, 无论导出所述特定显示结果和所述规定显示结果中的哪一个,游戏者的有利度都不变（例如,7组和通常组都是重放）,所述报告单元在所述事先决定单元的决定结果是所述特定决定结果时,能够报告用于导出前规定显示结果的规定操作形态（例如,逆按以外的操作形态）,在不报告所述特定操作形态的游戏（例如,无导航游戏）中,即使所述事先决定单元的决定结果是所述特定决定结果,也不报告所述规定操作形态（例如,如图8所示,在无导航游戏中不执行非7组导航）。</base:Paragraphs>
+      <base:Paragraphs num="0222">具体而言,如图8所示,在无导航游戏中不执行非七套导航,因此能够极力避免使玩家误解为在无导航游戏中执行了Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0223">（1-8）还具备优惠报知单元（例如,由主控制部41及副控制部91进行的报知AT中奖的处理）,该优惠报知单元在优惠（例如,AT的追加）的赋予条件成立后经过了规定期间（例如,前兆期间）时报知该优惠的赋予,所述报知单元能够在所述规定期间中报知所述导出操作单元的操作形态,但在由所述优惠报知单元报知所述优惠的赋予的游戏中不报知所述特定操作形态（例如,如图8、图10及图16所示,在前兆期间中执行Bernavi,与此相对,在进行追加报知的游戏中不执行Bernavi）。</base:Paragraphs>
+      <base:Paragraphs num="0224">具体而言,如图8、图10以及图16所示,在前兆期间中执行Bernavi,与此相对,在进行追加通知的游戏中不执行Bernavi。 由此,在前兆期间中,通过执行Bernavi,能够使玩家放心能够使主角获奖,另一方面,在进行追加通知的游戏中,不会被导航妨碍,能够使玩家集中于与追加通知相关的演出,因此能够在适当的定时进行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0225">（1-9）还具备在优惠（例如,AT的追加）的给予条件成立后执行规定期间（例如,前兆期间）的连续演出（例如,战斗演出）后,报知该优惠的给予的优惠报知单元（例如,由主控制部41及副控制部91进行的报知AT选中的处理）, 在所述连续演出的演出模式中,包括在经过了启示不被赋予特权的意思的第一游戏（例如,图16所示的第X18游戏的游戏）之后,进行启示被赋予特权的意思的第二游戏（例如,图16所示的第X19游戏的游戏）的模式,所述通知单元在所述第一游戏中能够通知所述导出操作单元的操作形态,但在所述第二游戏中不通知所述特定操作形态（例如,如图8、图10及图16所示,在通知了加斯的追加抽选的结果的游戏中执行Bernavi,与此相对,在通知了真的追加抽选的结果的游戏中不执行Bernavi）。</base:Paragraphs>
+      <base:Paragraphs num="0226">具体而言,如图8、图10以及图16所示,在报知加斯的追加抽选的结果的游戏中执行Bernavi,与此相对,在报知真正的追加抽选的结果的游戏中不执行Bernavi。 由此,在报知加斯的追加抽选的结果的游戏中,通过执行Bernavi,能够使玩家放心能够使主角获奖,另一方面,在进行报知真正的追加抽选的结果的追加报知的游戏中,不会被导航妨碍,能够使玩家集中于与追加报知相关的演出,因此能够在适当的时机进行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0227">（2-1）具备可变显示部（例如,带盘2L、2C、2R）,该可变显示部能够对各自能够识别的多种识别信息（例如,图案）进行变动显示, 在对所述可变显示部进行变动显示之后, 通过停止所述可变显示部的变动显示来导出显示结果, 在能够根据所述显示结果而产生获奖的投币式老虎机（例如投币式老虎机1）中, 状态控制单元,其控制状态（例如,由主控制部41进行的控制状态的处理）； 事先决定单元（例如,进行基于主控制部41的内部抽选的处理）,其决定容许导出的显示结果； 导出操作机构（例如,停止开关8L、8C、8R）,其为了导出显示结果而被操作； 报告机构（例如,执行基于主控制部41及副控制部91的导航的处理）,其能够报告所述导出操作机构的操作形态, 所述事先决定单元的决定结果包括： 包含允许导出伴随着比用于设定赌点数的游艺用价值（例如,三枚）大的游艺用价值（例如,八枚）的赋予的赋予显示结果（例如,中段铃声的图案组合）的赋予决定结果（例如,六选铃声）, 由所述状态控制单元控制的状态包括： 第一状态（例如,CZ）和第二状态（例如,AT）； 直到被控制为该第一状态或该第二状态为止的第三状态（例如,通常时）, 所述通知单元在所述事先决定单元的决定结果是所述赋予决定结果时,能够通知与该赋予决定结果对应的特定操作形态（例如,正确顺序）,在所述第2状态下,能够以比所述第1状态高的概率,在所述事先决定单元的决定结果是所述赋予决定结果时,通知所述特定操作形态（例如,如图8所示,在AT中以比CZ高的概率发生Bernavi）,在所述第3状态下,以比所述第1状态高的概率,在所述事先决定单元的决定结果是所述赋予决定结果时,执行与该赋予决定结果关联的提示演出（例如,如图9(f)所示,在通常时以比CZ高的概率进行角色选中提示）。</base:Paragraphs>
+      <base:Paragraphs num="0228">具体而言,如图9的(f)所示,在通常时以比CZ高的概率进行角色选中提示。 即,在CZ中奖为六选钟时,与通常中奖为六选钟时相比,进行与六选钟中奖相关的角色中奖提示的频率变小。 由此,在CZ中,能够避免游戏者认识到选中了六选钟,能够使游戏者尽量不感到尽管选中了六选钟但不执行导航这样的不满。</base:Paragraphs>
+      <base:Paragraphs num="0229">（2-2）在所述第一状态下,在所述事先决定单元的决定结果是所述赋予决定结果时,提示是否从该第一状态转移到所述第二状态（例如,提示通过在图13所示的第X10游戏中进行的机会演出进行了AT抽选的意思以及AT选中）。</base:Paragraphs>
+      <base:Paragraphs num="0230">具体而言,如图9(c)及图13所示,在CZ中,当六选钟中奖时,不执行Bernavi,而是执行机会演出。 由此,通过机会演出,能够向游戏者提示进行了AT抽选的意思及AT选中,因此能够提高游戏的趣味。</base:Paragraphs>
+      <base:Paragraphs num="0231">（2-3）在所述第一状态下,当所述事先决定单元的决定结果是所述赋予决定结果时,进行决定是否转移到所述第二状态的抽选（例如,如图7(c)所示,当六选钟选中时进行AT抽选）。</base:Paragraphs>
+      <base:Paragraphs num="0232">具体而言,如图7(c)所示,六选钟中奖时进行AT抽选。 由此,即使在CZ中六选钟中奖时不执行Bernavi,由于进行AT抽选,所以能够使游戏者尽量不感到尽管六选钟中奖也不执行Bernavi这样的不满。</base:Paragraphs>
+      <base:Paragraphs num="0233">（2-4）在所述第1状态下,当所述事先决定单元的决定结果是所述赋予决定结果时,使用白色的图像来执行所述提示演出（例如,基于图12所示的白色演出的角色选中提示）,在所述第3状态下,当所述事先决定单元的决定结果是所述赋予决定结果时,使用黄色的图像来执行所述提示演出（例如,基于图11所示的黄色演出的角色选中提示）。</base:Paragraphs>
+      <base:Paragraphs num="0234">具体而言,如图9(b)、图11及图12所示,在通常情况下,在六选择钟中奖时进行基于黄色演出的角色选中提示,与此相对,在CZ中,在六选择钟中奖时进行基于白色演出的角色选中提示。 这样,当在CZ中奖为六选钟时,不是像通常时中奖为六选钟时那样执行以黄色为形象的演出,而是执行以与全部牌型（包括中奖）对应的白色为形象的演出,因此,在CZ中,可以极力避免使玩家意识到中奖为六选钟。</base:Paragraphs>
+      <base:Paragraphs num="0235">（2-5）在所述第一状态下,以比所述第三状态高的概率,在所述事先决定单元的决定结果为所述给予决定结果时发生演出（例如,如图9(e)所示,在CZ中选中六选钟时,以比通常时选中六选钟时高的概率,执行角色选中暗示演出或机会演出等中的任一演出）。</base:Paragraphs>
+      <base:Paragraphs num="0236">具体而言,如图9(e)所示,在六选钟抽中时演出抽选中,在CZ中抽中六选钟时,以比通常时抽中六选钟时高的概率执行角色抽中暗示演出或机会演出等中的任一演出。 由此,与通常时相比,能够通过演出使CZ更高涨。</base:Paragraphs>
+      <base:Paragraphs num="0237">（2-6）在所述第2状态下,与所述第1状态相比,以强调的通知方式进行根据所述赋予显示结果的导出来通知发生了特定获奖（例如,主角获奖）的获奖通知（例如,铃声获奖通知）（例如,如图9的(a)所示,在AT中的铃声获奖通知中进行GET显示,与此相对,在CZ中的铃声获奖通知中不进行GET显示）。</base:Paragraphs>
+      <base:Paragraphs num="0238">具体而言,如图9的(a)所示,在AT中的铃声获奖通知中进行GET显示,与此相对,在CZ中的铃声获奖通知中不进行GET显示。 由此,在AT中获奖为主角时,与在CZ中获奖为主角时相比,能够强调获奖为主角,能够使AT中的游戏气氛高涨。</base:Paragraphs>
+      <base:Paragraphs num="0239">（2-7）在所述第2状态下,根据所述赋予显示结果的导出,使用多种演出手段（例如,侧灯27、卷轴背光源28、扬声器53、54、液晶显示器51）进行报知发生了特定获奖（例如,主角的获奖）的获奖报知（例如,铃声获奖报知）,在所述第1状态下,使用所述多种演出手段中的任一种（例如,侧灯27、卷轴背光源28、扬声器53、54）进行所述获奖报知。</base:Paragraphs>
+      <base:Paragraphs num="0240">具体而言,如图9的(a)所示,在AT中的铃声获奖报告中,侧灯27和卷筒背光源28点亮,并且从扬声器53、54输出获奖音,进而在液晶显示器51中进行GET显示,与此相对,在CZ中的铃声获奖报告中,在侧灯27和卷筒背光源28点亮,并且从扬声器53、54输出获奖音的一次报告中不进行GET显示。 由此,在AT中获奖为主角时,与在CZ中获奖为主角时相比,能够强调获奖为主角,能够使AT中的游戏气氛高涨。</base:Paragraphs>
+      <base:Paragraphs num="0241">以上,对本发明的主要的实施方式进行了说明,但本发明不限于上述的实施方式,能够进行各种变形、应用。 以下,对能够应用于本发明的上述实施方式的变形例进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0242">[关于Bernavi]在本实施方式中,CZ中的概率比AT中的概率低,但在六选钟中奖时执行Bernavi。 但是,并不限于此,投币式游戏机也可以如以下那样构成。</base:Paragraphs>
+      <base:Paragraphs num="0243">所述通知单元在所述第一状态和所述第三状态中的任一状态下都不通知所述导出操作单元的操作形态（例如,在CZ和通常时中的任一状态下都不执行Bernavi）。</base:Paragraphs>
+      <base:Paragraphs num="0244">这样,在CZ中六选钟中奖时,也可以完全不执行Bernavi。 即,在CZ中,Bernavi的执行概率也可以是0%。</base:Paragraphs>
+      <base:Paragraphs num="0245">在本实施方式中,如图16所示,在将未追加中奖的意思通知给游戏者的追加非通知的游戏中,不执行Bernavi,而在将追加中奖的意思通知给游戏者的游戏中,执行Bernavi,作为真通知,但追加通知与Bernavi的执行的关系也可以如下构成。</base:Paragraphs>
+      <base:Paragraphs num="0246">即,在经过前兆期间作为最终的连续演出（例如战斗演出）的结果而报知有无追加中奖的情况下,在该最终报知有无追加中奖的最终游戏中,即使中奖为六选钟也不执行Bernavi。 另外,在最终游戏之前通知追加中奖的有无作为gase的最终前游戏中,即使六选钟中奖,也不执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0247">或者,在经过前兆期间作为最终的连续演出（例如战斗演出）的结果而报知有无追加中奖的情况下,在该最终报知有无追加中奖的最终游戏中,即使六选钟中奖也不执行Bernavi。 另一方面,在最终游戏之前通知追加中奖的有无作为奖励的最终前游戏中,在中奖六选钟时执行Bernavi。 此外,在这种情况下,无论在最终前一游戏中报知已追加中奖的意思时,还是在最终前一游戏中未报知已追加中奖的意思时,在六选钟中奖时执行Bernavi。</base:Paragraphs>
+      <base:Paragraphs num="0248">另外,在CZ中,与AT中同样地,也可以进行延长该CZ的控制期间的追加抽选。 而且,关于CZ中的追加抽选的结果通知,也可以与AT中同样地,经过前兆期间进行追加选中的有无。 并且,在CZ中,也可以与AT中同样地,在将未追加中奖的意思通知给游戏者的追加非通知的游戏中,不执行Bernavi,而在将已追加中奖的意思通知给游戏者的游戏中,执行Bernavi,作为真通知。 上述的变形例也能够应用于CZ中的追加通知。</base:Paragraphs>
+      <base:Paragraphs num="0249">[关于铃声获奖通知]在本实施方式中,在尽管在CZ中六选铃声中奖但不执行铃声导航的游戏（无导航游戏）中,作为获奖通知,不进行GET显示,但侧灯27及卷轴背光源28点亮并且从扬声器53、54输出获奖声音。 但是,不限于此。</base:Paragraphs>
+      <base:Paragraphs num="0250">例如,在无导航游戏中,也可以不从扬声器53、54输出获奖音。 即,在CZ中六选铃声中奖而执行Bernavi的游戏中,从扬声器53、54输出获奖声音,并且进行GET显示,在这一点上,也可以与CZ中的无导航游戏相比强调了铃声获奖通知。 这样,铃声获奖通知也不会妨碍在无导航游戏中能够进行的AT转移提示、结果通知以及模式提示中的声音。</base:Paragraphs>
+      <base:Paragraphs num="0251">此外,上述的本实施方式和变形例中的各种结构、各种处理、各种处理的定时等能够适当组合。</base:Paragraphs>
+      <base:Paragraphs num="0252">应该认为本次公开的实施方式在所有方面都是例示而非限制性的。 本发明的范围不是由上述的说明表示,而是由权利要求书表示,意图包含与权利要求书等同的意思以及范围内的所有变更。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0253">单老虎机,1a壳体,1b正面门,2L、2C、2R卷轴,3透视窗,4奖牌投入部,6 MAXBET开关,7启动开关,8L、8C、8R停止开关,9奖牌支付口,11信用显示器,12游艺辅助显示器,13游艺用显示部,27侧灯,28L、28C、28R卷轴背光灯,41主控制部,41a主CPU,41c RAM,51液晶显示器,53、54扬声器,56演出用开关,91副控制部,91a副CPU,91c RAM。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="116" wi="68" file="2020089582_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="97" wi="57" file="2020089582_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="117" wi="76" file="2020089582_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="82" wi="74" file="2020089582_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="44" wi="76" file="2020089582_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="39" wi="72" file="2020089582_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="56" wi="72" file="2020089582_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="60" wi="75" file="2020089582_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="93" wi="76" file="2020089582_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="120" wi="78" file="2020089582_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="121" wi="78" file="2020089582_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="121" wi="78" file="2020089582_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="120" wi="78" file="2020089582_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="121" wi="78" file="2020089582_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="121" wi="78" file="2020089582_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="121" wi="78" file="2020089582_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="121" wi="78" file="2020089582_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="121" wi="78" file="2020089582_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>具备可变显示部,该可变显示部能够变动显示分别能够识别的多种识别信息, 在对所述可变显示部进行变动显示之后, 通过停止所述可变显示部的变动显示来导出显示结果, 在能够根据所述显示结果而产生获奖的投币式老虎机中, 状态控制单元,其控制状态； 事先决定单元,其决定容许导出的显示结果； 导出操作机构,为了导出显示结果而被操作； 报告机构,其能够报告所述导出操作机构的操作形态, 所述事先决定单元的决定结果包括： 包含赋予决定结果,该赋予决定结果允许伴随着比用于设定赌点数的游艺用价值大的游艺用价值的赋予的赋予显示结果的导出, 由所述状态控制单元控制的状态包含第1状态以及第2状态,所述第2状态被设计为,与所述第1状态相比,从赋予的游戏用价值的总数减去用于设定赌数的游戏用价值的总数而得到的净增数变大,所述状态控制单元能够使状态在所述第1状态与所述第2状态之间转移,所述报告单元在所述事先决定单元的决定结果为所述赋予决定结果时,能够报告与该赋予决定结果对应的特定操作方式,在所述第2状态下的游戏结果显示于显示部的游戏中,即使所述事先决定单元的决定结果为所述赋予决定结果,也不报告所述特定操作方式。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

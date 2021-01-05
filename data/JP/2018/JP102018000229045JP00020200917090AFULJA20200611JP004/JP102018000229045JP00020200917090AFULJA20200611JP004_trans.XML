@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000229045JP00020200917090AFULJA20200611JP004.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020091709" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091709</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091709</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000229045</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018229045</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>9</business:MainGroup>
+        <business:Subgroup>38</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F   9/38        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G06F9/38 350X</business:FI>
+      <business:FClass>
+        <business:FTerm>5B013AA12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5B013CC06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5B013CC11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5B013CC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5B013</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">运算处理装置以及运算处理装置的控制方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>富士通株式会社</base:Name>
+            <base:RegisteredNumber>000005223</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中4丁目1番1号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>田端  猛一</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中4丁目1番1号  富士通株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>秋月  康伸</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中4丁目1番1号  富士通株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>坂下  聡太</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市中原区上小田中4丁目1番1号  富士通株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>真田  有</base:Name>
+            <base:RegisteredNumber>100092978</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>28</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>抑制存储指令和加载指令的顺序交换的发生。 包括存储解码的存储器访问指令的第一队列161、存储与存储指令相关的存储数据的第二队列164、存储与可以确保第一队列161但不能确保第二队列164的存储指令相关的地址信息的存储单元144、以及在加载指令的处理期间在存储单元144中存储了与加载指令相关的地址信息匹配的地址信息的情况下抑制加载指令的执行的抑制单元143。 图4</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="64" file="2020091709_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及运算处理装置以及运算处理装置的控制方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">信息处理装置所具有的作为运算处理装置的处理器具备一个或多个处理器核心。</base:Paragraphs>
+      <base:Paragraphs num="0003">处理器核心包括指令高速缓存,指令缓冲器,解码单元,保留站,计算执行单元和加载存储单元。 处理器核心在执行指令时执行以下处理。</base:Paragraphs>
+      <base:Paragraphs num="0004">指令存储在指令高速缓存中,并且读取的指令存储在指令缓冲器中,并且顺序地发送到解码单元。 解码单元执行命令解释并将命令输入到保留站。</base:Paragraphs>
+      <base:Paragraphs num="0005">保留站包括存储计算命令的RSE（用于执行的保留站）和存储加载存储命令的RSA（用于地址的保留站）。</base:Paragraphs>
+      <base:Paragraphs num="0006">各保留站进行从保留站向运算器输入命令的判断。 此时的指令的输入以不依赖于指令的排列顺序而从能够处理的指令起依次处理的无序方式进行,以便实现运算器的使用效率的提高。 由RSA选择的加载命令和存储命令由地址生成运算器执行。</base:Paragraphs>
+      <base:Paragraphs num="0007">RSA为了在地址计算中使用的数据而将定点寄存器(GPR)的编号发送到运算执行部。 基于该寄存器编号参照的定点寄存器的数据被发送到地址生成运算器,用于运算执行。 地址生成运算器的输出是加载命令或存储命令所访问的存储器的地址（以下,参照专利文献1）。</base:Paragraphs>
+      <base:Paragraphs num="0008">RSA根据执行地址计算的时间向加载/存储单元发出加载或存储请求。 加载存储单元接收该请求,在将加载命令或存储命令存储在存储的LDSTQ（Load&amp;Store Queue：加载与存储队列）中的同时,执行加载或存储。 RSA在向加载存储单元发出请求的时刻释放存储有该命令的条目,并将该通知发送到解码部（以下,参照专利文献1和专利文献2）。</base:Paragraphs>
+      <base:Paragraphs num="0009">当执行的加载指令完成时,加载存储单元将读取存储器的结果存储在定点寄存器中,并释放LDSTQ。 如果加载指令未完成,例如由于高速缓存未命中,则请求中止并从LDSTQ重新发出。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0010">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2002－366538号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開平6－131239号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0011">然而,在这种传统处理器中,在将数据存储在高速缓存行中之后从同一高速缓存行加载数据的指令序列中,由于无序控制,加载可能在存储之前执行。</base:Paragraphs>
+        <base:Paragraphs num="0012">在这种情况下,在执行存储之前从高速缓冲存储器读取数据导致错误数据的返回。 LDSTQ不知道在加载之前存在存储并且它引用与加载相同的地址,除非从RSA发出指令并且在地址计算之后接收到请求。 LDSTQ等待来自RSA的先行指令发出这样的控制与使无序化无效的情况大致相同,从性能的观点来看不进行。</base:Paragraphs>
+        <base:Paragraphs num="0013">因此,加载指令在成功执行时从LDSTQ释放。 需要重做加载的执行,但判明是否需要重做是在存储命令到达LDSTQ时,因此重做以存储命令为契机从其下一个命令开始进行。 因此,由于已经从RSA和LDSTQ释放的命令被重新执行,因此从命令提取开始再次执行命令。 存在该重做的时间对性能降低造成很大影响的课题。</base:Paragraphs>
+        <base:Paragraphs num="0014">在一个方面中,本发明的目的在于抑制存储指令与加载指令的顺序调换的发生。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0015">因此,该运算处理装置具备：对包含存储指令及加载指令的存储器访问指令进行解码的解码部、存储经解码的存储器访问指令的第1队列、存储与存储指令相关的存储数据的第2队列、存储与能够确保所述第1队列但无法确保所述第2队列的存储指令相关的地址信息的存储部、以及在加载指令的处理时在所述存储部中存储有和与所述加载指令相关的地址信息一致的地址信息的情况下抑制所述加载指令的执行的抑制部。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0016">根据一实施例,可抑制存储指令与加载指令的顺序交换的发生。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0017">
+        <base:FigureReference num="0001">图0001是表示信息处理装置的结构的一个例子的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002示出了作为实施例的示例的与处理器核相关联的处理器核的配置。</base:FigureReference>
+        <base:FigureReference num="0003">图0003示出了作为示例性实施例的与处理器核心相关联的处理器核心的LDSTQ的管理方法。</base:FigureReference>
+        <base:FigureReference num="0004">图0004示出了作为实施方案的示例的与处理器核相关联的处理器核的配置。</base:FigureReference>
+        <base:FigureReference num="0005">图0005示出了作为示例性实施例的由处理器核中的SML保持的信息。</base:FigureReference>
+        <base:FigureReference num="0006">图0006示出了作为示例性实施方案的处理器核心的RSA条目配置。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是示出作为实施例的示例的在处理器核心中分配推测性LDSTQ和推测性STDQ的过程的流程图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是用于说明作为实施例的一个例子的处理器核中的来自RSA的指令发出处理的流程图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009示出了作为实施例的示例的对应于处理器核中的存储指令的指令流水线。</base:FigureReference>
+        <base:FigureReference num="0010">图0010示出了作为实施例的示例的对应于处理器核中的加载指令的指令管线。</base:FigureReference>
+        <base:FigureReference num="0011">图0011示出了对应于图9中所示的存储指令的指令流水线和对应于图10中所示的加载指令的指令流水线。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0018">以下,参照附图对本运算处理装置以及运算处理装置的控制方法所涉及的实施方式进行说明。 但是,以下所示的实施方式只不过是例示,没有排除实施方式中未明示的各种变形例、技术的应用的意图。 即,能够在不脱离本实施方式的主旨的范围内对本实施方式进行各种变形（将实施方式以及各变形例组合等）来实施。 另外,各图不是仅具备图中所示的构成要素的意思,可以包含其他功能等。</base:Paragraphs>
+      <base:Paragraphs num="0019">图1是表示信息处理装置的结构的一例的图。</base:Paragraphs>
+      <base:Paragraphs num="0020">信息处理装置100例如具有CPU（Central Processing Unit：中央处理器）1、主存储器2及存储装置3。 CPU1、主存储器2及存储装置3通过总线连接,相互进行通信。 CPU 1具有一个或多个处理器核心10a（10）。 以下,有时将CPU1称为处理器1。 处理器核心10、10a相当于运算处理装置的一例。</base:Paragraphs>
+      <base:Paragraphs num="0021">在主存储器2中,存储通过展开程序而生成的进程中所含的命令列。 在命令列中,包含执行加法或减法等的运算命令及进行数据的读出的加载命令、及进行数据等的写入的存储命令。</base:Paragraphs>
+      <base:Paragraphs num="0022">这些加载及存储指令是引起对主存储器2的存取的存储器存取指令。 以下,有时将加载命令及存储命令称为加载存储命令。</base:Paragraphs>
+      <base:Paragraphs num="0023">图2是例示与作为实施方式的一例的处理器核相关的处理器核10a的结构的图。</base:Paragraphs>
+      <base:Paragraphs num="0024">处理器核10a包括指令高速缓存11、指令缓冲器12、解码单元13、保留站14、计算执行单元15、加载存储单元16和重新排序缓冲器(ROB)17。</base:Paragraphs>
+      <base:Paragraphs num="0025">处理器核10a是进行运算处理的运算处理装置,CPU1具备一个以上的处理器核10a。</base:Paragraphs>
+      <base:Paragraphs num="0026">解码单元13执行指令解释,并将资源分配给用于存储各种指令的队列等。 稍后将描述解码单元13的资源分配方法。</base:Paragraphs>
+      <base:Paragraphs num="0027">保留站14进行向运算执行部15输入命令的判断。 保留站14累积由解码单元13解释的命令,仲裁优先级,并将其发布到加载存储单元16和计算执行单元15。</base:Paragraphs>
+      <base:Paragraphs num="0028">保留站14具备RSA141、RSE142以及实际分配管理部143。 RSA 141存储加载及存储指令,且RSA 142存储操作指令。</base:Paragraphs>
+      <base:Paragraphs num="0029">RSA141将处理对象的加载存储命令的命令码、操作数寄存器地址以及Re-Order Buffer ID（ROB ID）通知给实际分配管理部143。</base:Paragraphs>
+      <base:Paragraphs num="0030">实际分配管理部143预先具有LDSTQ161的条目数的信息。 实际分配管理部143从RSA141接收加载存储命令的命令ID的输入。 此外,实际分配管理单元143从后述的LSCU（Load Store Control Unit）163接受LDSTQ释放信号的输入。</base:Paragraphs>
+      <base:Paragraphs num="0031">实际分配管理部143根据自身向LDSTQ 161输出的加载存储命令的数量和从LSCU163输入的LDSTQ释放信号,求出LDSTQ 161保持的加载存储命令的数量。 然后,实际分配管理部143判定LDSTQ 161保持的加载存储命令的数量是否小于LDSTQ 161的条目数量。</base:Paragraphs>
+      <base:Paragraphs num="0032">如果LDSTQ 161保持的加载存储命令的数量小于LDSTQ 161的条目数量,则实际分配管理部143将从RSA141输入的加载存储命令的命令代码向运算执行部15和LDSTQ 161输出。</base:Paragraphs>
+      <base:Paragraphs num="0033">另外,实际分配管理部143将操作数寄存器地址和ROB ID与加载存储命令的命令码一起通知给运算执行部15和LDSTQ 161。</base:Paragraphs>
+      <base:Paragraphs num="0034">另一方面,在LDSTQ161保持的加载存储命令的数为LDSTQ161的条目数以上的情况下,实际分配管理部143判定为LDSTQ161已满,即从RSA141输入的加载存储命令的存储位置在LDSTQ161中没有（无空闲）。</base:Paragraphs>
+      <base:Paragraphs num="0035">在LDSTQ 161已满（无空闲）的情况下,实际分配管理部143将从RSA141输入的加载存储命令返回到RSA141,并且将联锁信号发送到RSA141。 将从RSA141输入的加载存储命令返回到RSA141相当于实际分配管理部143丢弃该加载存储命令,向RSA141请求该加载存储命令的重新发送。</base:Paragraphs>
+      <base:Paragraphs num="0036">RSE 142将用于保持定点运算中使用的数据的定点寄存器编号发送到运算执行部15。 另外,RSA141也将用于数据的加载存储的定点寄存器编号向运算执行部15发送。</base:Paragraphs>
+      <base:Paragraphs num="0037">运算执行部15具备寄存器151和地址运算器152。</base:Paragraphs>
+      <base:Paragraphs num="0038">寄存器151存储与计算执行有关的数据等。 例如,寄存器151存储从实际分配管理单元143通知的ROB ID、指令码和操作数寄存器地址。 此外,在寄存器151中存储加载数据和存储数据。</base:Paragraphs>
+      <base:Paragraphs num="0039">地址运算器152进行用于执行由RSA141选择的加载存储命令的地址运算。 地址计算器152从寄存器151获取操作数数据。 然后,地址运算器152生成（运算）成为加载存储命令中的访问对象的主存储器2的地址,并输出至LDSTQ 161。 RSA 141根据由地址运算器152进行地址生成的定时,将加载命令或存储命令输出到加载存储单元16。 运算执行部15和加载存储单元16相当于处理存储器访问命令的处理部。</base:Paragraphs>
+      <base:Paragraphs num="0040">ROB 17进行用于使解码部13所解释的命令按照程序的顺序完成的控制。 由解码单元13解码并等待完成的所有命令被登记在ROB 17中。 唯一的ROB ID被分配给登记在ROB 17中的指令。 ROB ID也可以由解码部13设定。</base:Paragraphs>
+      <base:Paragraphs num="0041">此外,ROB 17向加载存储单元16的LSCU163发出存储指示。</base:Paragraphs>
+      <base:Paragraphs num="0042">加载存储单元16执行对主存储器2的存储器访问。 加载存储单元16包括LDSTQ 161、数据高速缓存162、LSCU163以及STDQ（Store Data Queue：存储数据队列）164。</base:Paragraphs>
+      <base:Paragraphs num="0043">数据高速缓存162暂时存储从主存储器2读出的数据、或写入至主存储器2的数据。</base:Paragraphs>
+      <base:Paragraphs num="0044">LDSTQ 161是存储从RSA 141发出的加载和存储指令及其访问地址的队列。 STDQ 164是用于存储存储指令的存储数据的队列。</base:Paragraphs>
+      <base:Paragraphs num="0045">LSCU163控制加载存储单元16对主存储器2的存储器访问。 LSCU163从LDSTQ 161取得ROB ID、命令代码以及地址。 另外,LSCU163针对存储命令而从STDQ164获取存储数据,并存储到数据高速缓存162。 然后,LSCU163使用这些取得的信息发出数据的读出指示、写入指示。</base:Paragraphs>
+      <base:Paragraphs num="0046">LSCU163执行存储在LDSTQ 161中的指令的仲裁。 当存储指令被登记在LDSTQ 161中时,LSCU163将LDSTQ 161与STDQ 164相关联。</base:Paragraphs>
+      <base:Paragraphs num="0047">LSCU163对ROB17发送使用了ROB ID的加载完成报告。 另外,LSCU163根据来自ROB 17的存储指示,对ROB 17通知存储准备完成报告。</base:Paragraphs>
+      <base:Paragraphs num="0048">当由加载存储单元16执行加载存储命令并且LDSTQ 161和STDQ 164随着加载存储命令的执行完成而变得可释放时,LSCU163将释放通知发送到解码单元13和保留站14。 加载存储单元16对应于处理存储器访问指令的处理部分。</base:Paragraphs>
+      <base:Paragraphs num="0049">RSA 141具有针对从该多个条目中选择的加载命令或存储命令,判定是否能够确保LDSTQ 161的实际的资源的功能。 此外,在所选择的指令是存储指令的情况下,RSA 141确定是否可以确保STDQ164的实际资源。 在判定的结果是无法确保某一资源的情况下,RSA141具备在资源被释放之前将RSA141的相应的条目联锁的功能。</base:Paragraphs>
+      <base:Paragraphs num="0050">解码部13具有投机地分配LDSTQ 161和STDQ 164的资源的功能。</base:Paragraphs>
+      <base:Paragraphs num="0051">解码单元13从指令缓冲器12获取指令,并对所获取的指令进行解码。 解码单元13管理要输出到加载/存储单元16的加载/存储命令的数量,并将LDSTQ 161的条目临时分配给加载/存储命令。 在此,临时分配是指将虚拟地增加了LDSTQ 161的条目数的识别信息作为虚拟的条目分配给加载存储命令。 另外,有时也将临时分配称为投机性分配。</base:Paragraphs>
+      <base:Paragraphs num="0052">解码单元13读取存储在指令缓存11中的指令,并将指令存储在指令缓存12中。 然后,解码单元13接收存储在指令缓冲器12中的指令的输入。 然后,解码单元13解释所获取的命令,并确定该命令是计算命令还是加载/存储命令。</base:Paragraphs>
+      <base:Paragraphs num="0053">解码部13具有临时分配管理部131。 然后,解码部13在如后述那样由临时分配管理部131判定为能够输出加载存储命令的情况下,对加载存储命令分配临时LDSTQ编号,进行LDSTQ 161的条目的临时分配。</base:Paragraphs>
+      <base:Paragraphs num="0054">在此,临时LDSTQ编号是用于对加载存储命令向LDSTQ 161的条目进行临时分配的编号。 在本实施方式中,临时LDSTQ编号由组编号与表示实际的LDSTQ161的条目的LDSTQ编号的组合来表示。 通过这样设定临时LDSTQ编号,能够从临时LDSTQ编号容易地生成LDSTQ编号,容易将LDSTQ 161的条目相对于加载存储命令的临时分配变更为实际的分配。 但是,临时LDSTQ编号是能够判定加载存储命令的处理顺序的编号,并且,只要具有变换为LDSTQ编号的机构,则也可以分配其他编号。</base:Paragraphs>
+      <base:Paragraphs num="0055">此后,解码单元13将分配有临时LDSTQ号的加载存储命令输出到保留站14的RSA 141。 另外,在运算命令的情况下,解码部13将取得的运算命令依次输出到保留站14的RSE 142。</base:Paragraphs>
+      <base:Paragraphs num="0056">这里,解码单元13按照指令发出的顺序（按顺序）输出指令发出。 因此,例如,在某个命令的输出处于等待状态的情况下,解码单元13也等待在等待输出的命令之后的命令的输出。</base:Paragraphs>
+      <base:Paragraphs num="0057">临时分配管理部131对从解码部13输出的加载存储命令的数量进行计数。 进而,临时分配管理单元131从LDSTQ 161取得LDSTQ释放信号。 LDSTQ释放信号是在从LDSTQ 161中的作为存储有加载存储命令的区域的条目向数据高速缓存162输出加载存储命令并释放了该条目的情况下从LDSTQ 161输出的信号。</base:Paragraphs>
+      <base:Paragraphs num="0058">这里,LDSTQ 161具有能够存储加载存储命令的上限数量。 以下,将能够存储LDSTQ 161中的加载存储命令的上限数称为LDSTQ 161的条目数。 即,LDSTQ释放信号是表示LDSTQ 161的条目被释放的信号。</base:Paragraphs>
+      <base:Paragraphs num="0059">临时分配管理部131预先具有比LDSTQ 161的条目数大的指令发布上限数。 例如,临时分配管理部131将LDSTQ 161的条目数的4倍的数存储为命令发布上限数。 另外,指令发布上限数只要比LDSTQ 161的条目数大,则可以使用任意的值。 指令发布上限数越大,则能够越提高RSE 141和RSA142的无序性能。 上述解码单元13可以发布的临时LDSTQ号的数量的上限是指令发布的上限。</base:Paragraphs>
+      <base:Paragraphs num="0060">临时分配管理部131求出解码部13输出的加载存储命令中的尚未从LDSTQ 161输出的加载存储命令的数量即加载存储命令的滞留数。 然后,临时分配管理部131判定加载存储命令的滞留数是否小于命令发布上限。</base:Paragraphs>
+      <base:Paragraphs num="0061">在加载存储命令的滞留数为命令发布上限以上的情况下,临时分配管理部131使来自解码部13的加载存储命令的输出待机。 与此相对,在加载存储命令的滞留数小于命令发布上限的情况下,临时分配管理部131判定是否从RSA141取得了表示输出了加载存储命令的RSA141的释放信号。</base:Paragraphs>
+      <base:Paragraphs num="0062">在接收到RSA141的释放信号的情况下,临时分配管理部131判定为在RSA141中存在用于存储加载存储命令的空闲。 并且,在用于存储加载存储命令的空闲存在于RSA141的情况下,临时分配管理部131向解码部13通知能够输出加载存储命令,从解码部13向保留站14的RSA141输出加载存储命令。</base:Paragraphs>
+      <base:Paragraphs num="0063">图3是用于说明作为实施方式的一例的与处理器核相关的处理器核10a的LDSTQ 161的管理方法的图。</base:Paragraphs>
+      <base:Paragraphs num="0064">在图3中用符号A～C表示的LDSTQ161实际上构成为ID为0～9的10个条目,并且通过对这些ID附加X_ID（0～3）来表示而被虚拟地扩展,作为有40个条目的LDSTQ161来管理。</base:Paragraphs>
+      <base:Paragraphs num="0065">符号A表示初始状态下的LDSTQ 161的使用状况。 符号B表示某时间点的LDSTQ 161的使用状态,符号C表示从符号B所示的状态经过规定时间后的时间点的LDSTQ 161的使用状态。</base:Paragraphs>
+      <base:Paragraphs num="0066">TOQ（Top of Queue）表示存储在LDSTQ 161中的加载存储命令中的开头的加载存储命令的位置（LDSTQ编号）。</base:Paragraphs>
+      <base:Paragraphs num="0067">实际的LDSTQ161例如是10个条目,在初始状态下,如符号A所示,ID_X=0且ID=0至10个条目的用粗框包围的部分是实际能够使用的ID_X与ID的组合。</base:Paragraphs>
+      <base:Paragraphs num="0068">实际分配管理部143作为LDSTQ161是否空闲的判定,进行解码部13分配的ID和ID_X是否进入该粗框内的确认。</base:Paragraphs>
+      <base:Paragraphs num="0069">TOQ的更新通过LDSTQ161的释放来进行,因此例如在从符号A所示的状态释放了2条目时,转移到符号B所示的状态。 由于LDSTQ161的条目的释放是有序的,从TOQ释放,所以移动到TOQ前进了2个条目即ID_X=0、ID=2。 由于TOQ移动,因此表示有效的10个条目的框线也偏移2个条目。 即使相同的ID=0,在符号A所示的状态下ID_X=0也是有效的,但在符号B所示的状态下变为无效,ID_X=1变为有效。</base:Paragraphs>
+      <base:Paragraphs num="0070">LDSTQ161的ID和ID_X的分配由临时分配管理部131进行,ID和ID_X按照编号顺序被分配。 ID以及ID_X分别被循环地更新。 即,ID以及ID_X分别成为环绕。 例如,如果ID超过9（因为这里的示例是10个条目）,则下一个是0,并且ID_X递增。</base:Paragraphs>
+      <base:Paragraphs num="0071">在如上所述配置的处理器核10a中,从指令高速缓存11读取的指令被存储在指令缓冲器12中,并且被顺序地发送到解码单元13。 解码部13进行命令解释,进行向保留站14的命令的输入。</base:Paragraphs>
+      <base:Paragraphs num="0072">此时,临时分配管理部131投机地（虚拟地）分配LDSTQ 161和STDQ 164的资源。 推测的LDSTQ 161和STDQ 164的分配使用比实际的LDSTQ 161和STDQ 164的大小足够大的连续的ID。</base:Paragraphs>
+      <base:Paragraphs num="0073">即,进入具有与实际的LDSTQ161和STDQ164的尺寸相同的宽度的范围内的投机性的LDSTQ161和STDQ164成为实际能够确保的LDSTQ161和STDQ164。</base:Paragraphs>
+      <base:Paragraphs num="0074">超出范围的推测性LDSTQ 161和STDQ 164不能确保资源。 当实际资源被释放时,该范围保持不变地移动。</base:Paragraphs>
+      <base:Paragraphs num="0075">RSA141以及RSE142分别进行从保留站14向运算执行部15输入命令的判断。 命令的输入以无序方式进行,从而实现地址运算器152的使用效率的提高。</base:Paragraphs>
+      <base:Paragraphs num="0076">如果由RSA141选择的命令是加载命令,则实际分配管理部143进行LDSTQ161的资源分配。 另一方面,如果由RSA141选择的命令是存储命令,则进行LDSTQ 161和STDQ 164的资源分配。</base:Paragraphs>
+      <base:Paragraphs num="0077">如果资源分配失败,那么加载及存储指令返回到RSA 141且互锁直到资源被释放以用于分配。 如果资源分配成功,则RSA 141将定点寄存器的编号（例如,第一操作数寄存器编号和第二操作数寄存器编号）发送到运算执行单元15,以获得用于地址计算的数据。</base:Paragraphs>
+      <base:Paragraphs num="0078">由这些寄存器编号指示的定点寄存器的操作数数据被发送到地址计算单元152以用于地址计算。 地址运算器152的输出是加载命令或存储命令所访问的主存储器2的地址。</base:Paragraphs>
+      <base:Paragraphs num="0079">RSA 141根据执行地址计算的定时向加载/存储单元16发出加载或存储请求。 在向加载存储单元16发出请求的时刻,RSA 141释放存储有该命令的条目,并将该通知发送到解码部13。</base:Paragraphs>
+      <base:Paragraphs num="0080">当接收到来自RSA 141的请求时,加载/存储单元16将加载/存储命令存储在LDSTQ 161中,并且如果是存储命令,则将加载/存储命令与STDQ 164相关联。 与此同时,加载存储单元16执行存储器访问,并且在LSCU163中仲裁执行顺序的同时执行用于加载或存储准备的流程。</base:Paragraphs>
+      <base:Paragraphs num="0081">在由于高速缓存未命中等而命令未完成的情况下,该请求中止,在LSCU163中仲裁之后从LDSTQ 161再次发出。</base:Paragraphs>
+      <base:Paragraphs num="0082">在所执行的指令为加载指令的情况下,LSCU163在从主存储器2的读出完成时,使寄存器（定点寄存器）151存储读出主存储器2的结果。 另外,LSCU163释放命令所使用的LDSTQ161,将该通知发送到解码部13和RSA141,将命令已准备完成通知给ROB17。</base:Paragraphs>
+      <base:Paragraphs num="0083">另一方面,在所执行的命令为存储命令的情况下,LSCU163执行地址转换等准备的流程,存储数据被存储在STDQ164中,在向主存储器2的写入准备完成的时间点,对ROB 17通知已完成命令完成的准备。</base:Paragraphs>
+      <base:Paragraphs num="0084">存储数据向STDQ164的存储有时在从RSA141与存储命令的地址同时读出操作数寄存器并登记到STDQ164的存储中进行。</base:Paragraphs>
+      <base:Paragraphs num="0085">此外,存储数据在STDQ164中的存储可以通过专用于STDQ164登记的RSE 142的条目来执行,当解码单元13解释存储命令时,该条目与在RSA 141中登记的条目同时登记。 在该情况下,在RSE 142中登记的存储数据用条目中,也进行投机性的STDQ164的分配,因此进行与在RSA141中进行的资源分配同样的资源分配和资源分配失败时的联锁。</base:Paragraphs>
+      <base:Paragraphs num="0086">ROB 17按照程序的顺序完成命令。 在加载指令的情况下,确定写入了从存储器读出的结果的定点寄存器的结果。 在存储指令的情况下,使用对应的LDSTQ 161和STDQ 164将登记在STDQ 164中的数据写入登记在LDSTQ 161中的主存储器2上的地址。 若LDSTQ161以及STDQ164能够释放,则LSCU163对解码部13以及RSA141进行通知。</base:Paragraphs>
+      <base:Paragraphs num="0087">当RSA 141接收到释放信号时,它使推测的LDSTQ 161和STDQ 164的可用范围移位,并释放LDSTQ 161和STDQ 164新变得可用的指令的互锁。</base:Paragraphs>
+      <base:Paragraphs num="0088">一般来说,已知从主存储器2读出数据的加载命令的频度比向主存储器2写入数据的存储命令高。 而且,与保存主存储器2的读出地址的加载命令相比,在存储命令中,除了对主存储器2的写入地址以外,还需要保存用于对主存储器2写入的数据,从而推测性地执行所需的资源较多。</base:Paragraphs>
+      <base:Paragraphs num="0089">因此,在采用无序的处理器1中,为了进行电路量的最佳化,大多分别具有用于加载指令及存储指令所存取的地址的LDSTQ 161与用于存储指令向存储器写入的数据的STDQ164,而设为不同的条目数的构造。</base:Paragraphs>
+      <base:Paragraphs num="0090">而且,根据加载指令与存储指令的频度特性,STDQ164大多采用与LDSTQ161相比仅能够保持相当少的条目的结构。</base:Paragraphs>
+      <base:Paragraphs num="0091">在具有这样的结构的处理器1中,在由解码部13进行推测性的LDSTQ161和STDQ164的分配的情况下,通过处理器1的无序执行功能,即使在STDQ164的资源的使用率上升的情况下,也能够从RSA141发出加载命令并由加载存储单元16进行存储器访问。</base:Paragraphs>
+      <base:Paragraphs num="0092">在解码部13不进行投机性的LDSTQ161和STDQ164的分配的情况下,解码部13被联锁,直到能够确保实际的STDQ164为止,不使用STDQ164的后续的加载命令的发出也被抑制。</base:Paragraphs>
+      <base:Paragraphs num="0093">在进行推测的LDSTQ 161和STDQ 164的分配的结构中,存储指令有时通过等待直到能够确保STDQ 164的实际的资源为止而在RSA141中停留长时间。</base:Paragraphs>
+      <base:Paragraphs num="0094">即,在STDQ 164的资源相对于LDSTQ 161小的情况下,与先前的存储指令相比,后续的加载指令容易通过无序的功能而先发出。</base:Paragraphs>
+      <base:Paragraphs num="0095">在无序的处理器1中,这种动作是期待的,通过对能够先发出的加载命令进行处理,能够隐藏主存储器2的等待时间。</base:Paragraphs>
+      <base:Paragraphs num="0096">另一方面,即使在程序上以不同顺序执行先行的存储命令与后续的加载命令的情况下,在程序内,也必须像是按照程序的顺序执行命令那样进行动作。 即,如所述那样,也可发生在程序上比先存在的存储指令靠后存在的加载指令被执行的情况,但最终必须合乎条理。</base:Paragraphs>
+      <base:Paragraphs num="0097">在存在多个处理器核10a的情况下,该协调特别重要。 在顺序经调换的程序上的在先的存储命令的地址与后续的加载命令的地址一致的情况下,即原本在程序上先存在的存储命令将数据写入至主存储器2,加载命令读出所述数据的情况下,若不是存储命令的写入结束后,则加载命令所读出的数据变得不正确。</base:Paragraphs>
+      <base:Paragraphs num="0098">若发生此种存储命令与加载命令的顺序的调换,则处理器1为了合乎条理,在存储命令已完成的时点,进行至少取消后续的加载命令及该加载命令以后的命令执行的回滚。 并且,之后,再次进行包含该加载命令的以后的命令的重新执行。</base:Paragraphs>
+      <base:Paragraphs num="0099">该回滚对性能的惩罚非常大,并且由于所有推测地执行的指令也被重做,所以功率效率也变差。</base:Paragraphs>
+      <base:Paragraphs num="0100">在由解码部13推测地进行LDSTQ161和STDQ164的分配的情况下,与不由解码部13推测地进行LDSTQ161和STDQ164的分配而进行联锁的情况相比,发生上述回滚的可能性变高。</base:Paragraphs>
+      <base:Paragraphs num="0101">(II)实施方式(A)结构</base:Paragraphs>
+      <base:Paragraphs num="0102">图4是例示与作为实施方式的一例的处理器核心相关的处理器核心10的结构的图。</base:Paragraphs>
+      <base:Paragraphs num="0103">作为实施方式的一例的处理器核10与图2所例示的处理器核10a同样地设置于信息处理装置100的CPU1。 处理器核10除了图2所例示的处理器核10a以外,还具备SML（Store Data Queue Miss List）144。</base:Paragraphs>
+      <base:Paragraphs num="0104">此外,处理器核心10具有将加载指令的第一操作数寄存器号与存储在SML 144中的第一操作数寄存器号进行比较的功能,并且如果加载指令的第一操作数寄存器号匹配,则互锁RSA 141的相应条目,直到STDQ 164的资源被释放。 被解码并等待完成的所有命令被登记在ROB 17中,并被赋予唯一的ROB ID。</base:Paragraphs>
+      <base:Paragraphs num="0105">而且,这些其他部分与图2所示的处理器核10a同样地构成。 此外,在图中,与已叙述的附图标记相同的附图标记表示同样的部分,因此省略其说明。</base:Paragraphs>
+      <base:Paragraphs num="0106">LDSTQ 161对应于存储经解码的存储器访问指令的第一队列,并且STDQ 164对应于存储与存储指令相关联的存储数据的第二队列。</base:Paragraphs>
+      <base:Paragraphs num="0107">在图4所示的处理器核心10中,当存在地址与先前的存储指令匹配的后续加载指令时,阻止了由于加载指令首先执行存储器访问而发生的回滚,并且实现了能够确保实际资源的其他加载指令推测地执行。 而且,在处理器核心10中,以较少的电路量实现这些效果。</base:Paragraphs>
+      <base:Paragraphs num="0108">在本处理器核心10中,为了防止在访问目的地地址相同的先前的存储指令被登记于LDSTQ 161之前,后续的加载指令被登记于LDSTQ 161而由加载存储单元16进行存储器访问,而着眼于程序的特性。</base:Paragraphs>
+      <base:Paragraphs num="0109">利用后续的加载命令将先前的存储命令写入至主存储器2上的数据读出而使用的动作主要在以下的（1）、（2）所示的两种操作中频繁地进行。</base:Paragraphs>
+      <base:Paragraphs num="0110">（1）溢出填充操作,当在程序执行中寄存器不足时,将寄存器的数据保存到主存储器上而用于其他用途,在寄存器的不足消除或实际需要保存的数据的时间点,再次通过程序进行基于加载命令的读出。</base:Paragraphs>
+      <base:Paragraphs num="0111">（2）在执行子例程的调用返回时,为了保护在子例程的调用目的地使用的寄存器或子例程的调用源使用的数据,将寄存器上的数据保存到主存储器上,然后在返回时进行恢复的操作。</base:Paragraphs>
+      <base:Paragraphs num="0112">当执行这些操作时,诸如堆叠指针或帧指针的特定相同寄存器被用作用于计算加载和存储地址的第一操作数寄存器。 即,如果在RSA 141处发出但未能保留STDQ 164的实际资源的先前存储指令与后续加载指令的第一操作数寄存器匹配,那么所述加载指令可读取存储指令所存储的数据。 期望在先前存储指令可保留STDQ 164之后执行此加载指令。</base:Paragraphs>
+      <base:Paragraphs num="0113">SML 144具有队列结构,该队列结构在存储指令能够确保LDSTQ 161的实际资源但无法确保STDQ 164的情况下,存储用于地址运算的第一操作数寄存器编号和在执行中的指令中唯一的识别信息（例如,ROB ID）。 SML144相当于存储与能够确保LDSTQ161（第1队列）但无法确保STDQ164（第2队列）的存储指令相关的地址信息（第1操作数寄存器编号、ROB ID）的存储部。</base:Paragraphs>
+      <base:Paragraphs num="0114">图5是例示作为实施方式的一例的处理器核心10中的SML144所保持的信息的图。</base:Paragraphs>
+      <base:Paragraphs num="0115">在图5所示的示例中,在SML 144中,针对第一操作数寄存器编号（操作数寄存器编号）和ROB ID的每个组合（条目）设置有效无效信息。 SML 144具有一个或多个条目。</base:Paragraphs>
+      <base:Paragraphs num="0116">有效无效信息是表示是否处于能够确保STDQ164的状态的标志。 在图5所示的例子中,“1（有效）”表示无法确保STDQ164的状态,“0（无效）”表示能够确保STDQ164的状态。</base:Paragraphs>
+      <base:Paragraphs num="0117">在加载指令的处理时,判定与该加载指令相关的第一操作数寄存器编号（地址信息）是否登记在SML144（存储部）的条目中。 作为该判定的结果,在与加载指令相关的第一操作数寄存器编号（地址信息）被登记在SML144（存储单元）的条目中的情况下,向实际分配管理单元143发送通知（实际STDQ检查执行有效信号）。</base:Paragraphs>
+      <base:Paragraphs num="0118">另外,在本处理器核心10中,解码部13具备对加载命令赋予分配给最近解码的存储命令的STDQ164的资源信息的功能。</base:Paragraphs>
+      <base:Paragraphs num="0119">另外,在从保留站14发出存储命令而能够确保LDSTQ 161的实际的资源但无法确保STDQ164的情况下,实际分配管理部143取消存储命令的执行,在保留站14中直到资源（STDQ164等）被释放为止的期间进行联锁。</base:Paragraphs>
+      <base:Paragraphs num="0120">同时,用于存储指令的地址计算的第一操作数寄存器号和在无序执行中的指令中唯一的ROB ID被登记在SML 144中,并且指示STDQ164不能被确保的有效和无效信息被相关联地保持。</base:Paragraphs>
+      <base:Paragraphs num="0121">实际分配管理部143在加载命令的处理时,在SML144中存储有与有关该加载命令的地址信息一致的地址信息的情况下,作为抑止该加载命令的执行的抑止部发挥功能。</base:Paragraphs>
+      <base:Paragraphs num="0122">此外,在执行中的命令中唯一的ROB ID一般在采用无序的处理器核10中针对每个命令保持,处理器核10使用该ROB ID来管理命令的执行状况、执行完成。</base:Paragraphs>
+      <base:Paragraphs num="0123">在SML 144中注册的条目用于抑制后续加载指令。 在执行中的指令中成为唯一的ID用于在已登记的条目的存储指令的资源被确保的情况下使该条目无效化。</base:Paragraphs>
+      <base:Paragraphs num="0124">第一操作数寄存器编号用于选择性地抑制后续加载指令。 当资源被释放并且存储指令的互锁被释放时,保留站14再次发出存储指令。</base:Paragraphs>
+      <base:Paragraphs num="0125">如果存储指令能够确保LDSTQ 161和STDQ 164,则执行存储指令,并且同时将存储指令的ROB ID发送到SML 144以匹配由SML 144保持的条目的ROB ID。 作为匹配的结果,如果在SML 144中存在条目,则将“0”标记为无效。 也就是说,ROB ID用于在SML 144中注册的条目的存储指令的资源被保留的情况下使该条目无效。</base:Paragraphs>
+      <base:Paragraphs num="0126">另一方面,当从保留站14发出加载命令时,实际分配管理单元143针对在SML 144中保持的信息中的“1”被保持为有效的所有条目,确认第一操作数寄存器号与由加载命令使用的第一操作数寄存器号之间的匹配。</base:Paragraphs>
+      <base:Paragraphs num="0127">在确认的结果是存在一致的条目的情况下,实际分配管理部143进行是否能够确保解码部13赋予的STDQ164的检查。 在不能确保STDQ164的情况下,取消加载命令的执行,实际分配管理部143在保留站14中直到资源被释放为止的期间进行联锁。</base:Paragraphs>
+      <base:Paragraphs num="0128">如果STDQ 164是可预留的,那么加载指令正常地执行。 在该处理中,加载命令不进行STDQ164的确保。 然而,检查STDQ164是否能够确保是为了调查应在加载命令之前执行的存储命令在保留站14中被联锁的可能性。</base:Paragraphs>
+      <base:Paragraphs num="0129">如果注册SML 144的有效条目的指令是加载指令之后的存储指令,则不发生导致回滚的超过。 为了提高性能,这样的加载指令应该推测性地执行。</base:Paragraphs>
+      <base:Paragraphs num="0130">接着,对本处理器核心10中的LDSTQ161和STDQ164的分配以及RSA141中的联锁控制进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0131">首先,当在解码时对加载命令进行了解码时,解码部13分配推测性的LDSTQ 161,并且在对加载命令进行解码之前对已解码的存储命令赋予所分配的推测性的STDQ164的编号。 解码的加载命令和存储命令被登记在RSA141中。</base:Paragraphs>
+      <base:Paragraphs num="0132">图6是例示作为实施例的一例的处理器核心10的RSA141的条目结构的图。</base:Paragraphs>
+      <base:Paragraphs num="0133">在RSA 141中,如图6所示,诸如有效/无效、可发布、资源释放等待（联锁）、指令、第一操作数寄存器号、LDSTQ、STDQ和ROB ID的信息彼此相关联。</base:Paragraphs>
+      <base:Paragraphs num="0134">另外,在图6中,“Invalid”表示在保留站14中登记但没有意义的值。</base:Paragraphs>
+      <base:Paragraphs num="0135">在以往方法中,在RSA中,STDQ字段仅在存储命令中使用,对于加载命令,在STDQ字段中设定有Invalid。</base:Paragraphs>
+      <base:Paragraphs num="0136">与此相对,在本处理器核心10中,如图6所例示的那样,在本处理器核心10中,对于加载命令,在STDQ字段中设定有表示STDQ164的编号的“7”、“1”的值。 即,将在以往方法中仅在存储命令中使用的STDQ字段在加载命令中也使用。 因此,本处理器核心10的RSA 141在STDQ字段中管理最近解码的存储指令的推测STDQ 164的编号。</base:Paragraphs>
+      <base:Paragraphs num="0137">根据图7所示的流程图（步骤A1～A5）,对作为如上述那样构成的实施方式的一例的处理器核心10中的推测的LDSTQ 161和推测的STDQ 164的分配处理进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0138">解码单元13从指令缓冲器12获取指令,并对所获取的指令进行解码（指令解释）。</base:Paragraphs>
+      <base:Paragraphs num="0139">在步骤A1中,解码单元13检查解码的命令是否是加载命令。 在确认的结果是命令是存储命令的情况下（参照步骤A1的“是”路径）,转移到步骤A4。</base:Paragraphs>
+      <base:Paragraphs num="0140">在步骤A4中,临时分配管理部131赋予推测性的LDSTQ,将推测性的LDSTQ编号递增。 此外,解码单元13将分配给最近解码的存储命令的STDQ164的资源信息分配给加载命令。 之后,进入步骤A5。</base:Paragraphs>
+      <base:Paragraphs num="0141">另外,在步骤A1中的确认的结果是命令不是加载命令的情况下（参照步骤A1的“否”路径）,转移到步骤A2。</base:Paragraphs>
+      <base:Paragraphs num="0142">在步骤A2中,解码单元13检查解码的命令是否是存储命令。 在命令是存储命令的情况下（参照步骤A2的“是”路径）,转移到步骤A3。</base:Paragraphs>
+      <base:Paragraphs num="0143">在步骤A3中,临时分配管理部131赋予投机性的LDSTQ和投机性的STDQ,将投机性的LDSTQ编号和投机性的STDQ编号递增。 之后,处理转移到步骤A5。</base:Paragraphs>
+      <base:Paragraphs num="0144">另外,在步骤A2中的确认的结果为命令不是存储命令的情况下（参照步骤A2的“否”路径）,也转移到步骤A5。</base:Paragraphs>
+      <base:Paragraphs num="0145">在步骤A5中,解码单元13将解码的命令与其他解码结果一起存储在保留站14中。 然后,结束处理。</base:Paragraphs>
+      <base:Paragraphs num="0146">接下来,将根据图8所示的流程图（步骤B1至B10）描述作为示例性实施例的处理器核心10中的来自RSA 141的指令发布处理。</base:Paragraphs>
+      <base:Paragraphs num="0147">在步骤B1中,实际分配管理部143确认从RSA141发出的命令是否是加载命令。 在确认的结果为不是加载命令的情况下（参照步骤B1的“否”路径）,转移到步骤B2。</base:Paragraphs>
+      <base:Paragraphs num="0148">在步骤B2中,实际分配管理部143确认从RSA141发出的命令是否是存储命令。 在确认的结果是存储命令的情况下（参照步骤B2的“是”路径）,转移到步骤B3。</base:Paragraphs>
+      <base:Paragraphs num="0149">在步骤B3中,实际分配管理单元143确认是否确保了LDSTQ161的实际的资源。 在确认的结果是确保了LDSTQ161的实际的资源的情况下（参照步骤B3的“是”路径）,转移到步骤B4。</base:Paragraphs>
+      <base:Paragraphs num="0150">在步骤B4中,实际分配管理单元143接着确认是否确保了STDQ164的实际的资源。 在确认的结果为无法确保STDQ164的实际的资源的情况下（参照步骤B4的“否”路径）,转移到步骤B5。</base:Paragraphs>
+      <base:Paragraphs num="0151">在步骤B5中,实际分配管理单元143将第一操作数和ROB ID登记在SML 144中,并且对于登记了第一操作数和ROB ID的条目,在有效无效信息中设置1作为有效。</base:Paragraphs>
+      <base:Paragraphs num="0152">即,实际分配管理部143在由RSA141选择的指令为存储指令且LDSTQ161和STDQ164的资源分配失败时,将在该指令的地址计算中使用的第一操作数寄存器编号和资源分配失败的ROB ID追加到SML144。 此外,将添加的条目标记为有效。</base:Paragraphs>
+      <base:Paragraphs num="0153">注意,如果存储指令在LDSTQ 161和STDQ 164的资源分配中失败,并且SML 144的所有条目被标记为有效（1）,则有效SML 144的条目可以被重写和注册。</base:Paragraphs>
+      <base:Paragraphs num="0154">然后,在步骤B10中,实际分配管理部143中止RSA141的发行命令,将条目联锁。</base:Paragraphs>
+      <base:Paragraphs num="0155">也就是说,由于不能确保实际STDQ 164,存储指令被互锁,直到STDQ 161被释放。 然后,结束处理。</base:Paragraphs>
+      <base:Paragraphs num="0156">另一方面,在步骤B4中的确认的结果为能够确保STDQ164的实际的资源的情况下（参照步骤B4的“是”路径）,在步骤B6中发布存储指令。</base:Paragraphs>
+      <base:Paragraphs num="0157">即,当成功分配LDSTQ 161和STDQ 164的实际资源时,操作数寄存器编号被发送到定点寄存器151,并且地址计算单元152执行地址计算。 然后,将存储指令登记在LDSTQ 161和STDQ 164中。</base:Paragraphs>
+      <base:Paragraphs num="0158">实际分配管理部143在确定了向LDSTQ 161、STDQ 164的存储命令的分配的时间点,向SML144通知ROB ID。 然后,结束处理。</base:Paragraphs>
+      <base:Paragraphs num="0159">另外,在步骤B3中的确认的结果是无法确保LDSTQ161的实际的资源的情况下（参照步骤B3的“否”路径）,也转移到步骤B10。</base:Paragraphs>
+      <base:Paragraphs num="0160">在步骤B2中的确认的结果为不是存储命令的情况下（参照步骤B2的“否”路径）,也转移到步骤B6。</base:Paragraphs>
+      <base:Paragraphs num="0161">另一方面,在步骤B1中的确认的结果是装载命令的情况下（参照步骤B1的“是”路径）,转移到步骤B7。</base:Paragraphs>
+      <base:Paragraphs num="0162">在步骤B7中,实际分配管理单元143确认是否确保了LDSTQ161的实际的资源。 在确认的结果是无法确保LDSTQ161的实际的资源的情况下（参照步骤B7的“否”路径）,转移到步骤B10。</base:Paragraphs>
+      <base:Paragraphs num="0163">另外,在步骤B7中的确认的结果是能够确保LDSTQ161的实际的资源的情况下（参照步骤B7的“是”路径）,转移到步骤B8。</base:Paragraphs>
+      <base:Paragraphs num="0164">在步骤B8中,实际分配管理单元143将加载命令的第一操作数寄存器编号与在SML 144的所有有效条目中登记的第一操作数寄存器编号进行比较,以检查第一操作数寄存器是否与第一操作数寄存器中的一个匹配。</base:Paragraphs>
+      <base:Paragraphs num="0165">在比较的结果是存在一致的条目的情况下（参照步骤B8的“是”路线）,转移到步骤B9。 在步骤B9中,实际分配管理单元143检查（检查）是否可以确保由解码单元13分配给加载命令的先前存储命令的STDQ161。 该确认与通过步骤B3、B4中的存储命令是否能够确保实际的资源的确认同样地进行。</base:Paragraphs>
+      <base:Paragraphs num="0166">在关于加载命令无法确保实际的STDQ164的情况下（参照步骤B9的否路径）,转移至步骤B10。 在步骤B10中,与无法确保LDSTQ 161时同样地,由于无法确保实际的STDQ164这一原因,直到STDQ164被释放为止进行联锁。</base:Paragraphs>
+      <base:Paragraphs num="0167">另一方面,在关于加载命令能够确保实际的STDQ164的情况下（参照步骤B9的“是”路径）,转移到步骤B6。</base:Paragraphs>
+      <base:Paragraphs num="0168">此外,如果作为步骤B8中的检查的结果,加载指令的第一操作数寄存器编号与在SML 144的有效条目中登记的第一操作数寄存器编号中的任何一个不匹配（参见步骤B8中的“否”路由）,则处理进行到步骤B6。</base:Paragraphs>
+      <base:Paragraphs num="0169">如果LDSTQ 161的实际资源分配成功并且与在SML 144的有效条目中注册的第一操作数寄存器号不匹配,则这些寄存器号被发送到定点寄存器151。 然后,由地址运算器152进行地址运算,向LDSTQ 161登记加载命令。</base:Paragraphs>
+      <base:Paragraphs num="0170">若由加载存储单元16完成主存储器2的读出,则LSCU163将LDSTQ161的释放通知通知至解码部13及RSA141,并将ROB ID与存储器读出完成通知发送至ROB17。</base:Paragraphs>
+      <base:Paragraphs num="0171">在RSA141中等待LDSTQ161的实际的资源分配而被联锁的条目以释放通知为契机解除联锁,成为能够从RSA141发出的状态。</base:Paragraphs>
+      <base:Paragraphs num="0172">当加载存储单元16完成存储准备流程时,ROB ID和存储准备通知被发送到ROB 17和SML 144。</base:Paragraphs>
+      <base:Paragraphs num="0173">当ROB 17被通知存储准备就绪并且确定指令可以按程序顺序完成时,ROB 17将存储指令发送到加载存储单元16。 当接收到存储指令时,LSCU163将保持在STDQ164中的数据写入主存储器2。</base:Paragraphs>
+      <base:Paragraphs num="0174">LSCU163在判断为LDSTQ161以及STDQ164的资源的使用结束时,向解码部13以及RSA141发送释放通知。 在RSA141中等待LDSTQ161或STDQ164的实际的资源分配而被联锁的条目以释放通知为契机解除联锁,成为能够从RSA141发出的状态。</base:Paragraphs>
+      <base:Paragraphs num="0175">使用当确定将存储指令分配给LDSTQ 161和STDQ 164时通知的ROB ID,SML 144使与在SML 144中登记的条目的ROB ID匹配的条目无效。</base:Paragraphs>
+      <base:Paragraphs num="0176">通过这些处理,即使在实际的STDQ164无法确保的存储指令被RSA 141联锁而无法发出的情况下,后续的第一操作数寄存器编号一致的加载指令也被联锁,能够保证顺序。</base:Paragraphs>
+      <base:Paragraphs num="0177">另一方面,第一操作数寄存器编号不匹配的加载指令不被互锁,而是无序地执行。 由此,与将STDQ164无法确保的存储指令以后的加载指令全部联锁的情况相比,能够仅选择性地对有可能超过地址有可能一致的存储指令的加载指令施加联锁。</base:Paragraphs>
+      <base:Paragraphs num="0178">图9示出了作为示例性实施例的处理器核心10中的对应于存储指令的指令流水线,并且图10示出了对应于其加载指令的指令流水线。</base:Paragraphs>
+      <base:Paragraphs num="0179">指令管线具有多个处理级（管线级）。</base:Paragraphs>
+      <base:Paragraphs num="0180">加载/存储指令在称为P（Priority）周期、PT（Priority Transfer）周期、B（Buffer）1周期、B（Buffer）2周期及A（Address Generate）周期的5级的加载/存储流水线500a中执行。 加载/存储流水线500a对应于从图4中的RSA 141到LDSTQ 161的路径。</base:Paragraphs>
+      <base:Paragraphs num="0181">定点操作指令在P个周期、PT个周期、B1个周期、B2个周期和X（执行）个周期的五级操作管线500b中执行。 另外,D（Decode：解码）周期以及DT（Decode Transfer：解码传输）周期是两个流水线共同的周期。</base:Paragraphs>
+      <base:Paragraphs num="0182">在D周期中,将指令解码并发送到保留站14。 另外,进行LDSTQ161、STDQ164的数量的管理和投机性的LDSTQ161、STDQ164的分配。</base:Paragraphs>
+      <base:Paragraphs num="0183">在DT周期中,在D周期中解码的指令被传送并存储在保留站14中。</base:Paragraphs>
+      <base:Paragraphs num="0184">在P周期中,决定从保留站14向地址运算器152、运算器112输入的命令（入口）。</base:Paragraphs>
+      <base:Paragraphs num="0185">在PT周期中,传输P周期的数据。 在B1周期中,确定地址生成操作所需的数据。 另外,进行寄存器151的读出。</base:Paragraphs>
+      <base:Paragraphs num="0186">在B2周期中,确定地址生成操作所需的数据。 即,进行B1循环的后续。 另外,在存储命令的情况下,还进行以D周期推测地进行了分配的LDSTQ 161、STDQ 164是否空闲的检查。 并且,还进行向SML144的注册或在SML144中注册的条目的检查。</base:Paragraphs>
+      <base:Paragraphs num="0187">在A周期中,进行地址生成运算。 另外,将生成的地址向加载存储单元16发送。 此外,释放保留站14。 另外,在存储命令的情况下,向SML144发出条目的无效化信号（SML无效化信号、ROB ID）。 请求被发送到加载/存储单元16,并且被登记在LDSTQ 161和STDQ 164中。 在X周期中,进行定点运算。</base:Paragraphs>
+      <base:Paragraphs num="0188">除了检查实际LDSTQ 161和实际STDQ 164之外,本处理器核10的指令管线还包括SML 144。 在SML 144中注册的是存储指令,并且使用在SML 144中注册的信息的是加载指令。</base:Paragraphs>
+      <base:Paragraphs num="0189">首先,使用图9对作为实施方式的一例的与处理器核心10中的存储指令对应的指令流水线进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0190">当存储指令以D周期从指令缓冲器12输入到解码部13时,解码部13对所取得的指令进行解码,由临时分配管理部131分配投机性的LDSTQ 161、STDQ 164。</base:Paragraphs>
+      <base:Paragraphs num="0191">解码单元13将解码的存储指令输出到触发器101,以将其发送到保留站14的RSA 141。</base:Paragraphs>
+      <base:Paragraphs num="0192">在此,推测性的分配是指,将虚拟地增加了LDSTQ161、STDQ164的条目数的识别信息作为虚拟的条目分配给加载存储命令。</base:Paragraphs>
+      <base:Paragraphs num="0193">在DT周期中,进行向RSA141的登记。 在D周期中解码的指令经由触发器101被传送,并存储在保留站14的RSA 141中。</base:Paragraphs>
+      <base:Paragraphs num="0194">在RSA141中,以P周期选择无序地发出的命令。 这选择指令变得能够发出的最旧的条目。 当在RSA 141处选择存储指令时,存储指令被发送到PT周期,然后依次进行到B1周期和B2周期。</base:Paragraphs>
+      <base:Paragraphs num="0195">在PT周期中,在P周期中确定的指令的指令代码从触发器102传输到触发器103。</base:Paragraphs>
+      <base:Paragraphs num="0196">在B1周期和B2周期中,根据从定点寄存器(GPR)读出数据的定时,由触发器103～105对数据赋予延迟。 与此同时,实际分配管理部143使用从LDSTQ 161输出的LDSTQ释放信号,进行与在D周期中临时分配的条目对应的LDSTQ 161的条目实际上是否空闲的检查。</base:Paragraphs>
+      <base:Paragraphs num="0197">在B2周期中,在能够使用LDSTQ 161但不能使用STDQ164时,实际分配管理部143将实际STDQ错误信号发送到SML144。</base:Paragraphs>
+      <base:Paragraphs num="0198">当通知实际STDQ未命中信号时,SML 144将存储指令的ROB ID和第一操作数寄存器编号重写并记录在无效条目中。 此时,在SML144中没有一个无效的条目的情况下,即全部被有效的条目填满的情况下,可以覆盖任意一个条目,也可以不进行任何操作。 附加有LDSTQ 161、STDQ 164这两者是否可用的信息的存储指令被发送到下一个A周期。</base:Paragraphs>
+      <base:Paragraphs num="0199">在LDSTQ 161的条目空闲的情况下,实际分配管理部143将向地址运算器152输入的命令码向触发器105输出。 另一方面,在LDSTQ161的条目不空闲的情况下,实际分配管理部143将向RSA141返回的命令代码向触发器105输出,并且将联锁信号向触发器105输出。</base:Paragraphs>
+      <base:Paragraphs num="0200">此外,在B1周期中读取的存储数据被登记在加载存储单元16的STDQ164中。 然后,RSA释放信号被发送到RSA 141,指示成功发出命令。</base:Paragraphs>
+      <base:Paragraphs num="0201">此外,ROB ID和SML禁用信号被发送到SML 144。 在接收到SML禁用信号时,SML 144查找与注册的ROB ID匹配的条目,并且如果存在,则将指示条目的启用/禁用的信号标记为禁用。</base:Paragraphs>
+      <base:Paragraphs num="0202">在循环A中,在LDSTQ 161和STDQ 164都可用的情况下,在循环B2中,通过使用在循环B1中读取的寄存器来执行地址生成操作,并且将操作结果登记在加载存储单元16的LDSTQ 161中。</base:Paragraphs>
+      <base:Paragraphs num="0203">在周期A中,如果LDSTQ 161和STDQ 164都不可用,则取消存储指令,并且互锁信号被发送到RSA 141。 当接收到互锁信号时,RSA 141互锁相应的存储命令,并将存储命令排除在用于在P个周期内无序地发出的命令的选择中。</base:Paragraphs>
+      <base:Paragraphs num="0204">另外,在A周期中未取消存储命令的情况下,加载存储单元16在存储命令完成而能够释放LDSTQ161、STDQ164时,向RSA141和实际分配管理部143发送释放信号（LDSTQ、STDQ释放信号）。 RSA141解除被联锁的条目的联锁,能够再次参加P周期中的无序地发出的命令选择。</base:Paragraphs>
+      <base:Paragraphs num="0205">地址运算器152进行地址生成运算,将生成的地址和加载存储请求向LDSTQ 161发送。 LDSTQ 161如果将地址对数据高速缓存162输出,则将LDSTQ、STDQ释放信号向RSA141和实际分配管理部143输出。</base:Paragraphs>
+      <base:Paragraphs num="0206">接着,使用图10对作为实施方式的一例的处理器核心10中的与加载指令对应的指令流水线进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0207">当加载指令以D个周期从指令缓冲器12输入到解码单元13时,解码单元13解码所获取的指令,并且由临时分配管理单元131分配推测LDSTQ 161。</base:Paragraphs>
+      <base:Paragraphs num="0208">在此,推测性的分配是指,将虚拟地增加了LDSTQ 161的条目数的识别信息作为虚拟的条目分配给加载命令。</base:Paragraphs>
+      <base:Paragraphs num="0209">另外,解码部13赋予分配给在该加载命令被解码之前被解码的存储命令的推测性的STDQ164的编号,并发送到DT周期。</base:Paragraphs>
+      <base:Paragraphs num="0210">在DT周期中,进行向RSA141的登记。 在D周期中解码的加载命令经由触发器101被传送,并存储在保留站14的RSA141中。</base:Paragraphs>
+      <base:Paragraphs num="0211">在RSA141中,以P周期选择无序地发出的命令。 这选择指令变得能够发出的最旧的条目。 当在RSA 141处选择加载指令时,加载指令被发送到PT周期,然后依次前进到B1周期和B2周期。</base:Paragraphs>
+      <base:Paragraphs num="0212">在PT周期中,在P周期中确定的指令的指令代码从触发器102传输到触发器103。</base:Paragraphs>
+      <base:Paragraphs num="0213">在B1周期和B2周期中,通过触发器103～105对数据赋予延迟。 与此同时,实际分配管理部143使用从LDSTQ 161输出的LDSTQ释放信号,进行与在D周期中临时分配的条目对应的LDSTQ 161的条目实际上是否空闲的检查。</base:Paragraphs>
+      <base:Paragraphs num="0214">在B2周期中,在匹配电路113中执行加载指令的第一操作数寄存器号与在SML 144中登记的有效条目的第一操作数号的比较。 当在SML 144中存在一个或多个匹配条目时,匹配电路113将实际STDQ检查执行启用信号发送到实际分配管理单元143。</base:Paragraphs>
+      <base:Paragraphs num="0215">在该实际STDQ检查执行有效信号有效的情况下,也进行在D周期中分配的、分配给紧前的存储指令的STDQ164是否可用的检查。 即,在本处理器核心10中,选择性地仅对在存储指令之后发出的加载指令施加互锁。</base:Paragraphs>
+      <base:Paragraphs num="0216">另一方面,在实际STDQ检查执行有效信号无效的情况下,始终判断为STDQ164能够使用。 在下一个A周期中发送加载指令,该加载指令附加有LDSTQ 161和STDQ 164两者是否可用的信息。</base:Paragraphs>
+      <base:Paragraphs num="0217">在循环A中,在LDSTQ 161和STDQ 164都可用的情况下,在循环B2中,使用在循环B1中读取的寄存器151执行地址生成操作,并且将操作结果登记在加载存储单元16的LDSTQ 161中。 然后,RSA释放信号被发送到RSA 141,指示成功发出命令。</base:Paragraphs>
+      <base:Paragraphs num="0218">在周期A中,如果LDSTQ 161和STDQ 164都不可用,则取消加载指令,并且互锁信号被发送到RSA 141。 当接收到互锁信号时,RSA 141互锁相应的加载命令,并将加载命令排除在用于在P个周期内无序地发出的命令的选择中。</base:Paragraphs>
+      <base:Paragraphs num="0219">在A周期中加载命令未被取消的情况下,加载存储单元16在加载命令完成而能够释放LDSTQ 161时,向RSA141和实际分配管理部143发送释放信号。 RSA141解除被联锁的条目的联锁,能够再次参加P周期中的无序地发出的命令选择。</base:Paragraphs>
+      <base:Paragraphs num="0220">图11示出了对应于图9中所示的存储指令的指令流水线和对应于图10中所示的加载指令的指令流水线。</base:Paragraphs>
+      <base:Paragraphs num="0221">在本处理器核心10中,在处理存储指令时,当LDSTQ 161可用但STDQ 164不可用时,SML 144将存储指令的ROB ID和第一操作数寄存器号记录在条目中。</base:Paragraphs>
+      <base:Paragraphs num="0222">然后,在处理加载指令时,将加载指令的第一操作数寄存器号与在SML 144中登记的有效条目的第一操作数号进行比较。 然后,当在SML 144中存在一个或多个匹配条目时,互锁在存储指令之后发出的加载指令。</base:Paragraphs>
+      <base:Paragraphs num="0223">由此,实现了在存储与加载的地址一致的情况下,在存储指令因等待实际的STDQ164的分配而在保留站14等待的期间,抑制后续的加载指令被先发出。</base:Paragraphs>
+      <base:Paragraphs num="0224">因此,根据本发明的实施例的处理器核心10包括SML 144,并且当存储指令能够确保LDSTQ 161的实际资源但不能确保STDQ 164时,在SML 144中注册第一操作数寄存器号和ROB ID。</base:Paragraphs>
+      <base:Paragraphs num="0225">然后,当从保留站14发出加载命令时,实际分配管理单元143确认在SML 144中输入的第一操作数寄存器号与由加载命令使用的第一操作数寄存器号之间的匹配。</base:Paragraphs>
+      <base:Paragraphs num="0226">在确认的结果是存在一致的条目的情况下,实际分配管理部143取消该加载命令的执行,在直到在保留站14中资源被释放为止的期间进行联锁。</base:Paragraphs>
+      <base:Paragraphs num="0227">由此,对于在程序中容易出现的存储与加载的地址一致的模式,能够抑制在存储命令因等待实际的STDQ分配而在保留站14等待的期间先发出后续的加载命令。 因此,能够降低因存储指令与加载指令的调换而引起的重新发出指令的风险。</base:Paragraphs>
+      <base:Paragraphs num="0228">另外,仅通过具备SML144这一电路规模相对较小的队列结构,便可阻止存储命令与加载命令的顺序的调换,从而能够以较少的电路增加来实现。</base:Paragraphs>
+      <base:Paragraphs num="0229">(D)此外,本发明并不限定于上述的实施方式,能够在不脱离本发明的主旨的范围内进行各种变形来实施。</base:Paragraphs>
+      <base:Paragraphs num="0230">例如,在上述实施例中,ROB ID与第一操作数寄存器一起登记在SML 144中,但是本发明不限于此。 即,也可以代替ROB ID而使用其他识别信息,能够适当变更来实施。</base:Paragraphs>
+      <base:Paragraphs num="0231">另外,通过上述公开,本领域技术人员能够实施、制造本实施方式。</base:Paragraphs>
+      <base:Paragraphs num="0232">关于以上的实施方式,进一步公开以下的附记。</base:Paragraphs>
+      <base:Paragraphs num="0233">（附记1） 
+一种运算处理装置,其特征在于,包括解码包含存储指令及加载指令的存储器访问指令的解码部、存储经解码的存储器访问指令的第一队列、存储与存储指令相关的存储数据的第二队列、存储与能够确保所述第一队列但无法确保所述第二队列的存储指令相关的地址信息的存储部、及在处理加载指令时在所述存储部中存储有与所述加载指令相关的地址信息一致的地址信息的情况下抑制所述加载指令的执行的抑制部。 </base:Paragraphs>
+      <base:Paragraphs num="0234">（附记2） 
+登记部,其在处理存储指令时,在能够确保所述第一队列但无法确保所述第二队列的情况下,将与所述存储指令相关的地址信息登记在所述存储部中。 </base:Paragraphs>
+      <base:Paragraphs num="0235">（附记3） 
+根据附记1或2所述的运算处理装置,其特征在于,具备存储处理部,所述存储处理部存储所述解码部解码后的存储器访问命令,将存储的所述存储器访问命令输出到处理所述存储器访问命令的处理部,所述抑制部对所述存储处理部进行联锁,直到所述第二队列的资源被释放为止。 </base:Paragraphs>
+      <base:Paragraphs num="0236">（附记4） 
+一种运算处理装置的控制方法,所述运算处理装置具备解码部、第一队列及第二队列,所述解码部对包含存储指令及加载指令的存储器访问指令进行解码,所述第一队列存储经解码的存储器访问指令,所述第二队列存储与存储指令相关的存储数据,所述运算处理装置的控制方法的特征在于,在加载指令的处理时,将与所述加载指令相关的地址信息与存储部的所述地址信息进行比较的处理,所述存储部存储与能够确保所述第一队列但无法确保所述第二队列的存储指令相关的地址信息,所述控制方法在所述存储部中存储有与与所述加载指令相关的地址信息一致的地址信息的情况下,抑制所述加载指令的执行。 </base:Paragraphs>
+      <base:Paragraphs num="0237">（附记5） 
+根据补充说明4所述的计算处理装置的控制方法,还包括：在处理存储指令时,在能够确保所述第一队列但不能确保所述第二队列的情况下,将与所述存储指令相关的地址信息登记在所述存储单元中的处理。 </base:Paragraphs>
+      <base:Paragraphs num="0238">（附记6） 
+根据附记4或5所述的运算处理装置的控制方法,其特征在于,对于存储所述解码部解码后的存储器访问命令并将存储的所述存储器访问命令输出到所述处理部的存储处理部,对所述存储处理部进行联锁,直到所述第二队列的资源被释放为止。 </base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0239">1 CPU,2主存储器,3存储装置,10、10a-处理器核,11指令缓存,12指令缓存,13解码部,14保留站,141RSA,142RSE,143实际分配管理部,144SML,15运算执行部,151寄存器,152地址运算器,16加载存储单元,161LDSTQ,162数据缓存,163LSCU,164STDQ,17ROB,100信息处理装置,101～105、108～111触发器,112运算器,113匹配电路,500a加载/存储流水线,500b运算流水线。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="91" wi="78" file="2020091709_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="81" file="2020091709_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="117" wi="81" file="2020091709_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="121" wi="81" file="2020091709_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="83" wi="76" file="2020091709_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="108" wi="76" file="2020091709_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="78" wi="84" file="2020091709_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="111" wi="85" file="2020091709_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="85" file="2020091709_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="114" wi="85" file="2020091709_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="122" wi="85" file="2020091709_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种运算处理装置,其特征在于,包括解码包含存储指令及加载指令的存储器访问指令的解码部、存储经解码的存储器访问指令的第一队列、存储与存储指令相关的存储数据的第二队列、存储与能够确保所述第一队列但无法确保所述第二队列的存储指令相关的地址信息的存储部、及在处理加载指令时在所述存储部中存储有与所述加载指令相关的地址信息一致的地址信息的情况下抑制所述加载指令的执行的抑制部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的运算处理装置,其特征在于,具备登记部,所述登记部在处理存储指令时,在能够确保所述第一队列但无法确保所述第二队列的情况下,将与所述存储指令相关的地址信息登记在所述存储部中。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的运算处理装置,其特征在于,具备存储处理部,所述存储处理部存储所述解码部解码后的存储器访问命令,并将存储的所述存储器访问命令输出到处理所述存储器访问命令的处理部,所述抑制部对所述存储处理部进行联锁,直到所述第二队列的资源被释放为止。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>一种运算处理装置的控制方法,所述运算处理装置具备解码部、第一队列及第二队列,所述解码部对包含存储指令及加载指令的存储器访问指令进行解码,所述第一队列存储经解码的存储器访问指令,所述第二队列存储与存储指令相关的存储数据,所述运算处理装置的控制方法的特征在于,在加载指令的处理时,将与所述加载指令相关的地址信息与存储部的所述地址信息进行比较的处理,所述存储部存储与能够确保所述第一队列但无法确保所述第二队列的存储指令相关的地址信息,所述控制方法在所述存储部中存储有与与所述加载指令相关的地址信息一致的地址信息的情况下,抑制所述加载指令的执行。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

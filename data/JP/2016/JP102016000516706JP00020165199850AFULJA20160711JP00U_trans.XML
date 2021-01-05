@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000516706JP00020165199850AFULJA20160711JP00U.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519985" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519985</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519985</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000516706</base:DocNumber>
+        <base:Date>20140523</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016516706</base:DocNumber>
+        <base:Date>20140523</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002013000870661</base:DocNumber>
+        <base:Date>20130827</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002013000829918</base:DocNumber>
+        <base:Date>20130531</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>61/870,661</base:DocNumber>
+        <base:Date>20130827</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>61/829,918</base:DocNumber>
+        <base:Date>20130531</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>05</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61N   1/05        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>36</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61N   1/36        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61N1/05</business:FI>
+      <business:FI type="secondary">A61N1/36</business:FI>
+      <business:FClass>
+        <business:FTerm>4C053CC10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C053JJ02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C053JJ13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C053JJ24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C053JJ27</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C053</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">由具有对准特征的预电极形成的分段电极引线以及制造和使用引线的方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ボストン  サイエンティフィック  ニューロモデュレイション  コーポレイション</base:Name>
+            <base:RegisteredNumber>507213592</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  カリフォルニア州  91355  ヴァレンシア  ライ  キャニオン  ループ  25155</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ハワード  ジョシュア  デール</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  カリフォルニア州  91311  チャッツワース  ジョーダン  アヴェニュー  9900  ＃75</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ピアンカ  アン  マーガレット</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  カリフォルニア州  90403  サンタ  モニカ  モンタナ  アヴェニュー  122</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>西島  孝喜</base:Name>
+            <base:RegisteredNumber>100086771</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>弟子丸  健</base:Name>
+            <base:RegisteredNumber>100088694</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>田中  伸一郎</base:Name>
+            <base:RegisteredNumber>100094569</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>井野  砂里</base:Name>
+            <base:RegisteredNumber>100103609</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>松下  満</base:Name>
+            <base:RegisteredNumber>100095898</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="6" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>渡邊  徹</base:Name>
+            <base:RegisteredNumber>100123607</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2014039428</base:DocNumber>
+        <base:Date>20140523</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2014193759</base:DocNumber>
+        <base:Date>20141204</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>29</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>用于刺激引线的前电极包括具有外表面、内表面、近端和远端的大致圆柱形主体。 所述主体包括沿着所述主体布置的多个分段电极、沿着所述主体的外表面布置并将所述分段电极中的每一个彼此耦合的耦合材料、以及限定在相邻分段电极之间的多个切口。 主体还包括以下中的一个或多个：1）在主体的远侧端部或近侧端部上形成在主体的外表面上的端壁阶梯部分,2）选自从主体的外表面向内延伸的狭槽或凹口的对准特征,或3）形成在主体的外表面上的纵向阶梯部分。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="48" wi="67" file="2016519985_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本申请根据35U.S.C.§119(e)要求2013年5月31日提交的美国临时专利申请序列号61/829,918和2013年8月27日提交的美国临时专利申请序列号61/870,661的权益,其通过引用并入本文。</base:Paragraphs>
+      <base:Paragraphs num="0002">本发明涉及电刺激系统和引线以及制造和使用该系统和引线的方法的领域。 本发明还涉及包括由具有对准特征的预电极形成的分段电极的电刺激引线,以及制造和使用分段电极、引线和电刺激系统的方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0003">电刺激可用于治疗各种医学状况。 深部脑刺激可用于治疗例如帕金森病、肌张力障碍、特发性震颤、慢性疼痛、亨廷顿舞蹈病、左旋多巴诱导的运动障碍和僵硬、运动迟缓、癫痫和癫痫发作、进食障碍和心境障碍。 通常,具有在引线的尖端处或附近的刺激电极的引线向脑中的目标神经元提供刺激。 核磁共振成像（“MRI”）扫描或计算机断层扫描（“CT”）扫描可以提供用于确定将刺激电极放置在何处以向目标神经元提供期望的刺激的线索。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">           <business:ApplicationCitation num="0001">
+            <base:Text>米国特許仮出願第61／829，918号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>米国特許仮出願第61／870，661号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0003">
+            <base:Text>米国特許第6，181，969号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0004">
+            <base:Text>米国特許第6，516，227号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0005">
+            <base:Text>米国特許第6，609，029号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0006">
+            <base:Text>米国特許第6，609，032号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0007">
+            <base:Text>米国特許第6，741，892号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0008">
+            <base:Text>米国特許第7，244，150号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0009">
+            <base:Text>米国特許第7，450，997号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0010">
+            <base:Text>米国特許第7，672，734号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0011">
+            <base:Text>米国特許第7，761，165号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0012">
+            <base:Text>米国特許第7，783，359号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0013">
+            <base:Text>米国特許第7，792，590号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0014">
+            <base:Text>米国特許第7，809，446号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0015">
+            <base:Text>米国特許第7，949，395号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0016">
+            <base:Text>米国特許第7，974，706号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0017">
+            <base:Text>米国特許第8，175，710号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0018">
+            <base:Text>米国特許第8，224，450号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0019">
+            <base:Text>米国特許第8，271，094号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0020">
+            <base:Text>米国特許第8，295，944号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0021">
+            <base:Text>米国特許第8，364，278号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0022">
+            <base:Text>米国特許第8，391，985号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0023">
+            <base:Text>米国特許第8，688，235号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0024">
+            <base:Text>米国特許出願公開第2007／0150036号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0025">
+            <base:Text>米国特許出願公開第2009／0187222号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0026">
+            <base:Text>米国特許出願公開第2009／0276021号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0027">
+            <base:Text>米国特許出願公開第2010／0076535号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0028">
+            <base:Text>米国特許出願公開第2010／0268298号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0029">
+            <base:Text>米国特許出願公開第2011／0005069号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0030">
+            <base:Text>米国特許出願公開第2011／0004267号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0031">
+            <base:Text>米国特許出願公開第2011／0078900号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0032">
+            <base:Text>米国特許出願公開第2011／0130817号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0033">
+            <base:Text>米国特許出願公開第2011／0130818号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0034">
+            <base:Text>米国特許出願公開第2011／0238129号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0035">
+            <base:Text>米国特許出願公開第2011／0313500号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0036">
+            <base:Text>米国特許出願公開第2012／0016378号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0037">
+            <base:Text>米国特許出願公開第2012／0046710号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0038">
+            <base:Text>米国特許出願公開第2012／0071949号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0039">
+            <base:Text>米国特許出願公開第2012／0165911号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0040">
+            <base:Text>米国特許出願公開第2012／0197375号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0041">
+            <base:Text>米国特許出願公開第2012／0203316号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0042">
+            <base:Text>米国特許出願公開第2012／0203320号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0043">
+            <base:Text>米国特許出願公開第2012／0203321号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0044">
+            <base:Text>米国特許出願公開第2012／0316615号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0045">
+            <base:Text>米国特許出願公開第2013／0105071号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0046">
+            <base:Text>米国特許出願公開第2013／0197602号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0047">
+            <base:Text>米国特許出願公開第2011／0130803号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0048">
+            <base:Text>米国特許出願公開第2011／0130816号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0049">
+            <base:Text>米国特許出願公開第2012／197375号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0050">
+            <base:Text>米国特許仮出願第61／356，529号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0051">
+            <base:Text>米国特許仮出願第61／829，908号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0052">
+            <base:Text>米国特許仮出願第61／829，912号</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">在将引线植入患者的脑中之后,可以通过引线上的选择电极递送电刺激电流,以刺激脑中的目标神经元。 通常,电极形成为设置在引线的远侧部分上的环。 刺激电流从环形电极向所有方向均等地射出。 由于这些电极的环形形状,刺激电流不能被引导到环形电极周围的一个或多个特定位置（例如,引线周围的一个或多个侧面或点）。 因此,全向刺激可能导致相邻神经组织的无用刺激,这可能导致不期望的副作用。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">一个实施例是一种用于刺激引线的预电极,其包括具有外表面、与外表面相对的内表面、近端和远端的大致圆柱形主体。 所述主体包括多个分段电极、连接材料、多个切口和至少一个端壁阶梯部分,所述多个分段电极沿着所述主体以间隔开的方式布置并且各自具有在所述主体的近端和远端之间延伸的相对侧壁,所述连接材料沿着所述主体的外表面布置并且将所述分段电极中的每一个连接在一起,所述多个切口限定在所述相邻分段电极之间,所述至少一个端壁阶梯部分在所述主体的远端或近端上形成在所述主体的外表面上。</base:Paragraphs>
+        <base:Paragraphs num="0007">另一个实施例是一种用于刺激引线的预电极,该预电极包括具有外表面、与外表面相对的内表面、近端和远端的大致圆柱形的主体。 所述主体包括多个分段电极、连接材料、限定在相邻分段电极之间的多个切口、以及至少一个对准特征,所述多个分段电极沿着所述主体以间隔开的方式设置并且各自具有在所述主体的近端和远端之间延伸的相对侧壁,所述连接材料沿着所述主体的外表面设置并且将所述分段电极中的每一个连接在一起,所述至少一个对准特征选自从所述主体的外表面向内延伸并且与所述切口中的一个对准的狭槽或凹口。</base:Paragraphs>
+        <base:Paragraphs num="0008">又一个实施例是一种用于刺激引线的预电极,该预电极包括具有外表面、与外表面相对的内表面、近端和远端的大致圆柱形的主体。 所述主体包括多个分段电极、多个切口和至少一个纵向阶梯部分,所述多个分段电极沿着所述主体以间隔开的方式布置并且各自具有在所述主体的近端和远端之间延伸的相对侧壁,所述多个切口沿着所述主体的外表面布置并且将所述分段电极中的每一个彼此联接,所述多个切口限定在相邻分段电极之间,所述至少一个纵向阶梯部分沿着所述主体的纵向侧形成在所述主体的外表面上并且从所述主体的远端延伸到所述近端。</base:Paragraphs>
+        <base:Paragraphs num="0009">又一个实施例是一种创建刺激引线的方法。 该方法包括沿着引线主体的远端部分设置上述预电极中的任一个,围绕预电极形成引线主体,以及从前电极移除耦合材料以释放分段电极。</base:Paragraphs>
+        <base:Paragraphs num="0010">另一个实施例是使用上述预电极中的一个或多个预电极中的任一个形成的引线,以在引线的制造期间产生分段电极。</base:Paragraphs>
+        <base:Paragraphs num="0011">现在将参考以下附图描述本发明的非限制性和非穷尽性实施例,其中： 在这些附图中,除非另有说明,否则贯穿各个视图,相同的附图标记表示相同的部分。</base:Paragraphs>
+        <base:Paragraphs num="0012">为了更清楚地理解本发明,参考结合附图阅读的以下详细描述,在附图中：</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0013">
+        <base:FigureReference num="0001">图0001是根据本发明的用于脑刺激的装置的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是根据本发明的沿着引线长度的各种电极水平的径向电流转向的示意图。</base:FigureReference>
+        <base:FigureReference num="3A">图3A是根据本发明的具有多个分段电极的引线的一部分的实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="3B">图3B是根据本发明的具有多个分段电极的引线的一部分的第二实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="3C">图3C是根据本发明的具有多个分段电极的引线的一部分的第三实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="3D">图3D是根据本发明的具有多个分段电极的引线的一部分的第四实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="3E">图3E是根据本发明的具有多个分段电极的引线的一部分的第五实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="3F">图3F是根据本发明的具有多个分段电极的引线的一部分的第六实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="3G">图3G是根据本发明的具有多个分段电极的引线的一部分的第七实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="3H">图3H是根据本发明的具有多个分段电极的引线的一部分的第八实施例的透视图。</base:FigureReference>
+        <base:FigureReference num="4A">图4A是根据本发明的前电极的一个实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="4B">图4B是根据本发明的图4A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="4C">图4C是根据本发明的图4A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="5A">图5A是根据本发明的预电极的第二实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="5B">图5B是根据本发明的图5A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="5C">图5C是根据本发明的图5A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="6A">图6A是根据本发明的预电极的第三实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="6B">图6B是根据本发明的图6A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="6C">图6C是根据本发明的图6A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="7A">图7A是根据本发明的预电极的第四实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="7B">图7B是根据本发明的图7A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="7C">图7C是根据本发明的图7A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="8A">图8A是根据本发明的预电极的第五实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="8B">图8B是根据本发明的图8A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="8C">图8C是根据本发明的图8A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="8D">图8D是根据本发明的图8A的预电极的一个实施例的示意性仰视图。</base:FigureReference>
+        <base:FigureReference num="9A">图9A是根据本发明的预电极的第六实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="9B">图9B是根据本发明的图9A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="9C">图9C是根据本发明的图9A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="9D">图9D是根据本发明的图9A的预电极的一个实施例的示意性俯视图。</base:FigureReference>
+        <base:FigureReference num="10A">图10A是根据本发明的预电极的第七实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="10B">图10B是根据本发明的图10A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="10C">图10C是根据本发明的图10A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="10D">图10D是根据本发明的图10A的预电极的一个实施例的示意性俯视图。</base:FigureReference>
+        <base:FigureReference num="11A">图11A是根据本发明的预电极的第八实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="11B">图11B是根据本发明的图11A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="11C">图11C是根据本发明的图11A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="12A">图12A是根据本发明的预电极的第九实施例的示意性横截面视图。</base:FigureReference>
+        <base:FigureReference num="12B">图12B是根据本发明的图12A的预电极的示意性透视图。</base:FigureReference>
+        <base:FigureReference num="12C">图12C是根据本发明的图12A的预电极的一个实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="12D">图12D是根据本发明的图12A的前电极的一个实施例的示意性仰视图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0014">本发明涉及电刺激系统和引线以及制造和使用该系统和引线的方法的领域。 本发明还涉及具有由具有对准特征的预电极形成的分段电极的电刺激引线,以及制造和使用分段电极、引线和电刺激系统的方法。</base:Paragraphs>
+      <base:Paragraphs num="0015">用于深部脑刺激的引线可以包括刺激电极、记录电极或两者的组合。 至少一些刺激电极、记录电极或两者以仅部分地围绕引线的圆周延伸的分段电极的形式提供。 这些分段电极以一组电极的形式提供,每组具有在特定纵向位置处围绕引线径向分布的电极。 出于说明的目的,本文描述了用于深部脑刺激的引线,但是应当理解,任何引线可以用于除深部脑刺激之外的应用,包括脊髓刺激、外周神经刺激或其他神经和组织刺激。</base:Paragraphs>
+      <base:Paragraphs num="0016">合适的植入式电刺激系统包括但不限于至少一个引线,其具有设置在引线的远端上的一个或多个电极和设置在引线的一个或多个近端上的一个或多个端子。 引线例如包括经皮引线。 引线例如包括经皮引线。 具有引线的电刺激系统的例子例如在专利文献3～46中发现,将这些专利文献全部引用到本说明书中。</base:Paragraphs>
+      <base:Paragraphs num="0017">在至少一些实施方式中,医师可以使用记录电极来确定靶神经元的位置,然后相应地放置刺激电极。 在一些实施例中,相同的电极可以用于记录和刺激两者。 在一些实施例中,可以使用单独的引线,其中一个具有识别靶神经元的记录电极,而第二个具有在识别靶神经元之后替换第一个的刺激电极。 在一些实施例中,相同的引线可以包括记录电极和刺激电极,或者电极可以用于记录和刺激两者。</base:Paragraphs>
+      <base:Paragraphs num="0018">图1示出了用于脑刺激的装置100的一个实施例。 该装置包括引线110、至少部分地围绕引线110的外周设置的多个电极125、用于将电极连接到控制单元的连接器132、以及用于帮助将引线插入和定位到患者的脑中的管心针140。 管心针140可以由刚性材料制成。 用于管心针的合适材料的示例包括但不限于钨、不锈钢和塑料。 管心针140可以包括手柄150,以帮助插入引线110中并旋转管心针140和引线110。 在移除管心针140之后,连接器132优选地安装在引线110的近端上。</base:Paragraphs>
+      <base:Paragraphs num="0019">控制单元（未示出）通常是可植入脉冲发生器,其可以植入患者体内,例如在患者的锁骨区域下方。 脉冲发生器可以具有八个刺激通道,其可以是独立可编程的,以控制来自每个刺激通道的电流刺激的幅度。 在一些情况下,脉冲发生器可以具有多于或少于八个刺激通道（例如,四个、六个、十六个、三十二个或更多个刺激通道）。 控制单元可以具有一个、两个、三个、四个或更多个连接器端口,用于在引线110的近端处接收多个端子135。</base:Paragraphs>
+      <base:Paragraphs num="0020">在手术的一个示例中,可以通过使用颅骨钻（通常称为毛刺）在患者的颅骨或颅骨中钻出孔并凝固和切割硬脑膜或脑覆盖物来实现进入脑中的期望位置。 引线110可借助于管心针140插入颅骨和脑组织中。 例如,可以使用立体定向框架和微驱动电机系统将引线110引导到大脑中的目标位置。 在一些实施例中,微驱动马达系统可以是完全或部分自动化的。 微驱动马达系统可以（单独地或组合地）被配置为执行插入引线110、缩回引线110或旋转引线110的操作中的一个或多个。</base:Paragraphs>
+      <base:Paragraphs num="0021">在一些实施例中,耦合到由目标神经元刺激的肌肉或其他组织的测量装置或响应于患者或临床医生的单元可以耦合到控制单元或微驱动电机系统。 为了更详细地识别目标神经元并促进刺激电极的定位,测量设备、用户或临床医生可以指示目标肌肉或其他组织对刺激电极或记录电极的响应。 例如,如果靶神经元被引导到受震颤影响的肌肉,则可以使用测量装置来观察肌肉并指示响应于神经元刺激的震颤的频率和幅度的变化。 可替代地,患者或临床医生可以观察肌肉并提供反馈。</base:Paragraphs>
+      <base:Paragraphs num="0022">用于深部脑刺激的引线110可以包括刺激电极、记录电极或两者。 在至少一些实施例中,在使用记录电极定位目标神经元之后,引线110是可旋转的,使得刺激电极可以与这些神经元对准。</base:Paragraphs>
+      <base:Paragraphs num="0023">刺激电极可以设置在引线110的周边上以刺激目标神经元细胞。 刺激电极可以是环形的,使得电流沿着引线110的长度从电极的位置在所有方向上从每个电极均匀地发射。 通常,环形电极不允许仅从引线周围的有限角度范围引导刺激电流。 然而,分段电极可以用于将刺激电流引导到引线周围的选定角度范围。 当分段电极与递送恒定电流刺激的可植入脉冲发生器一起使用时,可以实现电流转向以更准确地将刺激递送到围绕引线轴的位置（即,围绕引线轴的径向定位）。</base:Paragraphs>
+      <base:Paragraphs num="0024">除了环形电极之外或代替环形电极,可以使用分段电极来实现电流转向。 虽然在以下描述中描述了刺激电极,但是应当理解,所描述的刺激电极的所有配置也可以用于放置记录电极。</base:Paragraphs>
+      <base:Paragraphs num="0025">引线100包括引线主体110、一个或多个可选的环形电极120和一组多个分段电极130。 引线主体110可以由生物相容的非导电材料形成,例如聚合物材料。 合适的聚合物材料包括但不限于硅树脂、聚氨酯、聚脲、聚氨酯脲、聚乙烯等。 当植入体内时,引线100可以长时间与身体组织接触。 在至少一些实施例中,引线100的横截面直径不大于1.5 mm,并且可以在0.5至1.5 mm的范围内。 在至少一些实施例中,引线100具有至少10cm的长度,并且引线100的长度可以在10cm至70cm的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0026">电极可以由金属、合金、导电氧化物或任何其他合适的导电生物相容性材料制成。 合适的材料的实例包括但不限于铂、铂铱合金、铱、钛、钨、钯、钯铑等。 优选地,电极由生物相容的材料制成,并且在操作环境中的预期操作条件下在预期使用持续时间内基本上不腐蚀。</base:Paragraphs>
+      <base:Paragraphs num="0027">每个电极可以处于使用状态或未使用状态（关闭）。 当电极处于使用状态时,这些电极可以用作阳极或阴极,并且可以传输阳极电流或阴极电流。 在一些情况下,电极可以在一段时间内是阳极并且在一段时间内是阴极。</base:Paragraphs>
+      <base:Paragraphs num="0028">环形电极120形式的刺激电极可以设置在引线主体110的任何部分附近,通常靠近引线100的远端。 在图1中,引线100包括两个环形电极120。 可以沿着引线主体110的长度布置任何数量的环形电极120,包括例如1、2、3、4、5、6、7、8、9、10、11、12、13、14、15、16或更多个环形电极120。 应当理解,可以沿着引线主体110的长度布置任何数量的环形电极。 在一些实施例中,环形电极120基本上是圆柱形的并且围绕引线主体110的整个外周缠绕。 在一些实施方式中,环形电极120的外径基本上等于引线主体110的外径。 环形电极120的长度可以根据期望的治疗和靶神经元的位置而变化。 在一些实施例中,环形电极120的长度小于或等于环形电极120的直径。 在其他实施例中,环形电极120的长度大于环形电极120的直径。 最远侧环形电极120可以是覆盖引线的大部分或全部远侧尖端的尖端电极（参见例如图3E中的尖端电极320a）。</base:Paragraphs>
+      <base:Paragraphs num="0029">深部脑刺激引线可以包括一个或多个分段电极组。 分段电极可以允许比环形电极更好的电流转向,因为深部脑刺激中的目标结构通常不关于远侧电极阵列的轴对称。 相反,目标可以位于延伸通过引线的轴的平面的一侧上。 通过使用径向分段电极阵列（“RSEA”）,可以不仅沿着引线的长度而且还围绕引线的周边执行电流转向。 这允许将电流刺激精确三维地靶向和递送到神经目标组织,同时具有避免刺激其他组织的可能性。 具有分段电极的引线的例子包括专利文献28～29、47～48、31～34、36～43,将这些专利文献全部引用到本说明书中。</base:Paragraphs>
+      <base:Paragraphs num="0030">示出了具有多个分段电极130的引线100。 可以在引线主体110上布置任何数量的分段电极130,包括例如1、2、3、4、5、6、7、8、9、10、11、12、13、14、15、16或更多个分段电极130。 应当理解,可以沿着引线主体110的长度布置任何数量的分段电极130。 通常,分段电极130围绕引线的周边延伸75%、67%、60%、50%、40%、33%、25%、20%、17%、15%或更少。</base:Paragraphs>
+      <base:Paragraphs num="0031">分段电极130可以被分组为分段电极集合,每个分段电极集合在引线100的特定纵向部分中围绕引线10的周边设置。 引线可以在给定的分段电极组中具有任何数量的分段电极130。 引线100可以在给定组中具有一个、两个、三个、四个、五个、六个、七个、八个或更多个分段电极130。 在至少一些实施例中,引线100的每组分段电极130包括相同数量的分段电极130。 设置在引线100上的分段电极130可以包括与设置在引线100上的至少另一组分段电极130不同数量的电极。</base:Paragraphs>
+      <base:Paragraphs num="0032">分段电极130的尺寸和形状可以变化。 在一些实施例中,分段电极130全部具有相同的尺寸、形状、直径、宽度或面积或其组合。 在一些实施例中,每个周边分段电极组130（或甚至布置在引线100上的所有分段电极）的尺寸和形状可以是相等的。</base:Paragraphs>
+      <base:Paragraphs num="0033">每组分段电极130可以围绕引线主体110的外周设置,以围绕引线主体110形成基本上圆柱形的形状。 给定的分段电极集合的各个电极之间的间隔可以与引线100上的另一分段电极集合的各个电极之间的间隔相同或不同。 在至少一些实施例中,在每个分段电极130之间围绕引线主体110的周边设置相等的间距、间隙或切口。 在其他实施例中,分段电极130之间的间隔、间隙或切口的尺寸或形状可以不同。 在其他实施例中,分段电极130之间的间隔、间隙或切口在分段电极130的特定集合或分段电极130的所有集合中可以是均匀的。 一组分段电极130可以沿着引线主体110的长度以不规则或规则的间隔布置。</base:Paragraphs>
+      <base:Paragraphs num="0034">附接到环形电极120或分段电极130的导线沿着引线主体110延伸。 这些引线可以延伸穿过引线100的材料,或沿着由引线100限定的一个或多个内腔,或两者。 在用于将电极120、130联接到控制单元（未示出）的连接器（通过端子）的位置处提供引线。</base:Paragraphs>
+      <base:Paragraphs num="0035">在引线100包括环形电极120和分段电极130两者的情况下,环形电极120和分段电极130可以以任何合适的配置布置。 例如,在引线100包括两个环形电极120和两组分段电极130的情况下,环形电极120能够与两组分段电极130相邻（例如,参照图1、图3A以及图3E～图3H）。 替代地,两组环形电极120可以位于两组分段电极130的近侧（参见例如图3C）,或者两组环形电极120可以位于两组分段电极130的远侧（参见图3D）。 环形电极中的一个可以是尖端电极（参见图3E和3G中的尖端电极320a）。 应当理解,其他配置（例如,交替的环形电极和分段电极等）也是可能的。</base:Paragraphs>
+      <base:Paragraphs num="0036">通过改变分段电极130的位置,可以选择目标神经细胞的不同覆盖范围。 例如,如果医生预期神经目标将靠近引线主体110的远侧尖端,则图3C的电极布置可能是有用的,而如果医生预期神经目标将靠近引线主体110的近端,则图3D的电极布置是有用的。</base:Paragraphs>
+      <base:Paragraphs num="0037">环形电极120和分段电极130的任何组合可以设置在引线100上。 例如,引线可以包括第一环形电极120、两组分段电极,每个分段电极由四个分段电极130形成,以及在引线的端部处的最终环形电极120。 有时将该结构简单地记作1-4-4-1方式（图3A以及图3E）。 用该简化符号表示电极可能是有用的。 因此,有时将图3C的实施方式记作1-1-4-4方式,另一方面,有时将图3D的实施方式记作4-4-1-1方式。 图3F、图3G以及图3H的实施方式能够记作1-3-3-1方式。 其他电极方式例如包括在引线上配置有四个分段电极组的2-2-2-2方式、以及在引线上配置有分别具有四个分段电极130的两个分段电极组的4-4方式。 图3F、图3G和图3H的1-3-3-1电极配置包括三个电极,每个电极围绕引线的周边设置,并且具有在两侧被两个环形电极夹持（图3F和图3H）的两个分段电极组,或者在两侧被环形电极和尖端电极夹持（图3G）的两个分段电极组。在一些实施例中,引线包括16个电极。16个电极引线的可能配置可以包括但不限于4-4-4-4、8-8、3-3-3-3-3-1（以及该配置的所有重新配置）和2-2-2-2-2-2-2-2-2。</base:Paragraphs>
+      <base:Paragraphs num="0038">图2是示出沿引线200的长度沿各种电极水平的径向电流转向的示意图。 具有环形电极的传统引线配置仅能够沿着引线的长度（z轴）引导电流,而分段电极配置能够在x轴、y轴以及z轴中引导电流。 因此,刺激的质心可以在围绕引线200的三维空间中的任何方向上转向。 在一些实施方式中,径向距离r和围绕引线200的外周的角度θ可以由引入每个电极的阳极电流的百分比来确定（尽管认识到刺激主要发生在阴极附近,但是强阳极也可以引起刺激）。 在至少一些实施例中,沿着分段电极的阳极和阴极的配置允许刺激重心沿着引线200移动到各种不同位置。</base:Paragraphs>
+      <base:Paragraphs num="0039">从图2中可以看出,刺激重心可以沿着引线200的长度移动到每个水平。 在沿着引线长度的不同水平处使用多个分段电极组允许三维电流转向。 在一些实施例中,分段电极集合相对于彼此移位（即,刺激质心在沿着引线的长度的每个水平处是相似的）。 在至少一些其他实施例中,每个分段电极组被独立地控制。 每个分段电极组可以包括两个、三个、四个、五个、六个、七个、八个或更多个分段电极。 应当理解,可以通过改变每个水平处的分段电极的数量来生成不同的刺激分布。 例如,如果每个分段电极集合仅包括两个分段电极,则可以在刺激分布中形成均匀分布的间隙（不能选择性地刺激）。 在一些实施例中,使用组中的至少三个分段电极230来实现真正的360°选择性。</base:Paragraphs>
+      <base:Paragraphs num="0040">如上所述,可以在使用记录电极的同时使用上述配置。 在一些实施例中,耦合到由目标神经元刺激的肌肉或其他组织的测量装置或响应于患者或临床医生的单元可以耦合到控制单元或微驱动电机系统。 为了更详细地识别目标神经元并促进刺激电极的定位,测量设备、用户或临床医生可以指示目标肌肉或其他组织对刺激电极或记录电极的响应。 例如,如果靶神经元被引导到受震颤影响的肌肉,则可以使用测量装置来观察肌肉并指示响应于神经元刺激的震颤的频率和幅度的变化。 可替代地,患者或临床医生可以观察肌肉并提供反馈。</base:Paragraphs>
+      <base:Paragraphs num="0041">引线的可靠性和耐久性将严重取决于设计和制造方法。 下面描述的制造技术提供了一种能够生产可制造且可靠的引线的方法。</base:Paragraphs>
+      <base:Paragraphs num="0042">参考图1,在引线100包括多组分段电极130的情况下,可能期望形成引线100,使得不同组的分段电极130中的对应电极沿着引线100的长度彼此径向对齐（例如,参见图1中所示的分段电极130）。 分段电极130的不同集合中的对应电极之间沿着引线100的长度的径向对准可以减少关于不同分段电极集合中的对应分段电极之间的位置或取向的不确定性。 因此,形成电极阵列可以是有益的,使得沿着引线100的长度的不同分段电极组的对应电极彼此径向对准,并且在制造引线100期间不会相对于彼此径向移位。</base:Paragraphs>
+      <base:Paragraphs num="0043">在其他实施例中,两组分段电极130中的各个电极沿着引线主体110的长度相对于彼此交错（参见图3B）。 在一些情况下,不同分段电极组的对应电极沿着引线100的长度的交错定位可以被设计用于特定应用。</base:Paragraphs>
+      <base:Paragraphs num="0044">分段电极可以用于调整刺激区域,使得刺激区域可以被显式地靶向,而不是刺激引线的周边周围的组织,这将在使用环形电极时实现。 在一些情况下,如图2所示,期望靶向包括引线200的电极的平行六面体（或平板）区域250。 用于将刺激场引导到平行六面体区域中的一种布置使用位于引线的相对侧上的分段电极。</base:Paragraphs>
+      <base:Paragraphs num="0045">图3A～图3H表示分段电极330、任意的环形电极320或顶端电极320a、以及引线主体310。 分段电极330的组分别包含2个（图3B）、3个（图3E～图3H）、或4个（图3A、图3C、及3D）中的任一个、或例如包含3个、5个、6个、或更多的任意其他个数的分段电极。 分段电极330的组可以彼此对齐（图3A至图3G）或交错（图3H）。</base:Paragraphs>
+      <base:Paragraphs num="0046">可以使用分段电极的任何其他合适的布置。 作为一例,存在分段电极相对于彼此呈螺旋状配置的配置。 一个实施方案包括双螺旋。</base:Paragraphs>
+      <base:Paragraphs num="0047">在制造具有分段电极的引线时的一个挑战是在制造过程期间和之后电极的正确放置以及保持期望的电极放置。 分段电极和制造方法可以被设计成解决这些和其他问题。 例如,全部通过引用并入本说明书的专利文献1、50～52以及上述列举的其他专利申请提供了段电极及制造方法的几个例子。</base:Paragraphs>
+      <base:Paragraphs num="0048">在至少一些实施例中,通过提供附接到引线的预电极来制造分段电极组,所述引线包括通过与分段电极成一体的连接材料的外环彼此连接的分段电极中的每一个。 当在预电极周围形成引线主体时,移除外环,并且分离各个分段电极。 预电极在其外侧可以具有与环形电极类似的外观。 然而,这种预电极难以与期望的分段电极布置对准。 因此,预电极可以在其外表面上包括对准特征,以在制造期间促进正确对准,使得分段电极在移除外材料环时处于期望的空间布置。</base:Paragraphs>
+      <base:Paragraphs num="0049">由预电极可以形成径向布置的分段电极组。 图4A至12D示出了预电极和由预电极形成的分段电极组（例如,通过研磨预电极以形成电绝缘分段电极）的实施例。 预电极和由其形成的分段电极可以由导体形成,诸如金属、合金、导电氧化物或任何其他合适的导电材料。 在一些实施方案中,预电极由铂、铂-铱、铱、616L不锈钢（或任何其他合适的不锈钢）、钽、镍钛诺、铱-铑或导电聚合物形成。</base:Paragraphs>
+      <base:Paragraphs num="0050">在一些实施方案中,前电极基本上是圆柱形的,并且具有大于引线的期望最终直径的直径。 具有圆柱形横截面轮廓的引线可以通过研磨（例如,无心研磨）、机加工、蚀刻或烧蚀前电极的外表面来实现。 研磨可以释放各个分段电极。 在图4A～图12D中,示出了由各前置电极形成的三个分段电极。 应当理解,预电极的其他实施例具有两个、四个、五个、六个、七个、八个或更多个分段电极。</base:Paragraphs>
+      <base:Paragraphs num="0051">图4A至图4C示出了包括具有内表面404和外表面406的主体402的前电极400的一个实施例。 图4A是预电极的横截面图,图4B示出预电极的立体图,图4C是预电极的侧视图。 预电极400的主体404基本上是圆柱形的,并且具有大于其上设置有预电极400的引线的期望最终直径的直径。</base:Paragraphs>
+      <base:Paragraphs num="0052">主体404在外表面406中限定狭槽440,狭槽440可以用于在视觉上对准预电极400,或者用于将预电极对准在模具中的对应轨道等上,预电极设置在模具中以形成围绕预电极的引线主体。 在图4A至图4C的实施例中,狭槽440延伸前电极400的整个纵向长度。 然而,应当理解,在其他实施例中,狭缝可以仅在预电极400的纵向方向上延伸一部分（例如,不大于75%、50%、25%、15%或10%）,或者可以是从预电极的相对端延伸的两个狭缝。 在图4A至图4C的实施例中,狭槽440进一步从主体402的外表面406延伸到主体的内表面404。 然而,应当理解,在其他实施例中,狭槽不一定延伸到主体的内表面,而是可以在预电极的主体的外表面中形成凹槽（例如,参见图7A和图7B）。</base:Paragraphs>
+      <base:Paragraphs num="0053">预电极具有近端和远端,所述近端和远端由预电极放置在引线上时的取向限定。 例如,当将前电极放置在引线上时,前电极的近端最靠近引线的近端部分。 应当理解,预电极的这种取向以及当放置在引线上时预电极的取向适用于本文讨论的每个预电极。</base:Paragraphs>
+      <base:Paragraphs num="0054">前电极400包括由连接材料414接合的单独的分段电极412。 可以移除连接材料414（例如,通过研磨、机加工、蚀刻、烧蚀或以其他方式移除连接材料414）,使得当预电极设置在引线上时,分离的分段电极412保持不变。</base:Paragraphs>
+      <base:Paragraphs num="0055">前电极400在各个分段电极之间限定切口416,切口416通常限定特定分段电极组的分段电极之间的间隔。 连接材料414可以仅对应于分段电极412之间的材料,或者可以包括预电极400的其他部分（例如,可以被研磨以释放分段电极的底部部分的外环或边缘）。 切口可以通过允许材料（诸如来自引线主体的材料（例如,包括设置在分段电极组之间或分段电极组与环形电极之间的间隔件））放置或流入切口中而用作引线保持特征。 凹口内的材料可以促进分段电极的位置和间隔的持续。</base:Paragraphs>
+      <base:Paragraphs num="0056">凹口416具有在前电极400的内表面404的相邻部分之间延伸的周向表面。 周向表面可以是连续的或不连续的。 各切口与两个分段电极抵接,周面的各部分形成这些分段电极的侧壁。 在至少一些实施例中,切口中的至少一个的周向表面被成形为使得沿着邻接切口的分段电极中的至少一个的侧壁的至少一部分形成一个或多个开放腔（例如,凹部、凹口、空隙、凹痕、空隙等或其组合）。 凹口416可具有各种不同的形状和布置。 相对于切口416的其他形状以及配置的例子能够在专利文献1、50～52中找到,将这些全部的专利文献引用到本说明书中。</base:Paragraphs>
+      <base:Paragraphs num="0057">预电极400还包括形成在分段电极412中的一个或多个通道428。 可以在每个分段电极中形成一个、两个、三个、四个或更多个通道。 每个分段电极中的通道的数量可以与其他分段电极中的通道的数量相同或不同。 通道428对于将导体附接到分段电极412特别有用。 在至少一些实施方案中,沿着主体402的内表面404限定一个或多个通道。 在图4A中,一个或多个通道428具有弧形横截面形状。 通道428可具有各种不同的形状和布置。 相对于通道428的其他形状及配置的例子能够在专利文献1、50～52中找到,将这些专利文献全部引用到本说明书中。</base:Paragraphs>
+      <base:Paragraphs num="0058">图5A至图5C示出了包括具有内表面504和外表面506的主体502的预电极的另一个实施例500。 预电极500还包括由连接材料514以及切口516和通道528接合的分段电极512。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。</base:Paragraphs>
+      <base:Paragraphs num="0059">作为对齐特征,预电极500在外表面506中限定至少一个凹口542,该凹口542可以用于使其自身在视觉上对齐或使预电极对齐,诸如在模具中的对应突起上对齐,预电极设置在模具中以形成围绕预电极的引线主体。 在图5A～图5C的实施方式中,凹口542沿着前电极500的长度方向延伸比较短的距离。 在至少一些实施方案中,凹口542在前电极500的纵向方向上延伸至少5%、10%、15%、20%或25%。 在一些实施例中,可以存在从前电极500的相对端延伸的两个凹口（例如,参见图12D）。 在图5A至图5C的实施例中,凹口542还从主体502的外表面506延伸到主体的内表面504。 然而,应当理解,在其他实施例中,凹口不一定延伸穿过主体的内表面。 此外,在图5A至图5C的实施例中,凹口542与凹口516中的一个对齐。 应当理解,一个或多个附加凹口可与围绕前电极的周边的一个或多个其他凹口516对准。 在存在多个凹口的情况下,这些凹口可以存在于前电极的同一端部（例如,近端或远端）上,或者可以以任何期望的布置分布在远端和近端两者之间。</base:Paragraphs>
+      <base:Paragraphs num="0060">图6A至图6C示出了包括具有内表面604和外表面606的主体602的预电极的第三实施例600。 预电极600还包括由连接材料614以及切口616和通道628接合的分段电极612。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。</base:Paragraphs>
+      <base:Paragraphs num="0061">作为对齐特征,预电极600在外表面606中具有至少一个端壁阶梯部分644,其可以用于使其自身在视觉上对齐,或者用于使预电极在模具中的相应突起、搁板、肩部、底座等上对齐,预电极设置在模具中以形成围绕预电极的引线主体。 端壁阶梯部分644具有看起来好像圆柱形预电极已经沿着两个相交平面切割以移除圆柱的一部分的形状。 然而,应当理解,不需要实际切割预电极,并且预电极仅需要具有通过沿两个交叉平面切割圆柱体可以实现的形状。 在至少几个实施方式中,例如,如图6A～图6C所示,两个交叉平面相对于彼此正交。</base:Paragraphs>
+      <base:Paragraphs num="0062">端壁阶梯部分644可以设置在前电极的远端或近端（或两端）处。 在至少一些实施方案中,耦接材料614的径向宽度至少与预电极600的主体602的最大外径和端壁阶梯部分644的最小外径之间的差一样大。 这种布置可以根据需要保持分段电极612的均匀外径。 在至少一些实施方式中,图6A至图6C的预电极具有比图4A至图4C或图5A至图5C所示的预电极所使用的连结材料更厚的连结材料614。 如本文所述的半径是从纵向轴线测量的,该纵向轴线沿着前电极延伸并且被定义为相对于前电极中的内腔的中心或相对于从前电极获得的最终分段电极组的中心。 在许多实施例中,当将预电极放置在引线上时,预电极的中心纵轴将与引线的中心纵轴对齐。</base:Paragraphs>
+      <base:Paragraphs num="0063">在图6A至图6C的实施例中,端壁阶梯部分644沿着预电极600的纵向方向延伸一段距离。 在至少一些实施例中,端壁阶梯部分644在预电极600的纵向方向上延伸至少5%、10%、15%、20%、25%、30%、40%或50%。 在一些实施例中,可以存在从预电极600的相对端延伸的两个端壁阶梯部分644。 端壁阶梯部分644从主体602的外表面606向内延伸,并且可以延伸到主体的内表面604,或者可以不延伸（如图6A至图6C所示）。 此外,在图6A至图6C的实施例中,端壁阶梯部分644与凹口616中的一个对齐。</base:Paragraphs>
+      <base:Paragraphs num="0064">图7A至图7C示出了包括具有内表面704和外表面706的主体702的预电极的第四实施例700。 预电极700还包括由连接材料714以及切口716和通道728接合的分段电极712。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。</base:Paragraphs>
+      <base:Paragraphs num="0065">作为对准特征,预电极700在外表面706上具有至少一个凹口742,所述凹口742可用于使其自身在视觉上对准或使预电极对准,诸如在模具中的对应突起上对准,预电极设置在所述模具中以形成围绕预电极的引线主体。 在图7A～图7C的实施方式中,凹口742沿着预电极700的长度方向延伸比较短的距离。 在至少一些实施方案中,凹口742在预电极700的纵向方向上延伸至少5%、10%、15%、20%或25%。 在一些实施例中,可以存在从预电极700的相对端延伸的两个凹口。 此外,凹口742从主体702的外表面706向内延伸。 在图7A至图7C的实施例中,凹口742不完全延伸到主体的内表面704,而是在主体702的外表面706中形成纵向凹槽。 然而,应当理解,在其他实施例中,凹口延伸到主体的内表面。 此外,在图7A至图7C的实施例中,凹口742与凹口716中的一个对齐。 应当理解,一个或多个附加凹口与围绕前电极的周边的一个或多个其他凹口716对准。 在存在多个凹口的情况下,这些凹口可以存在于前电极的同一端部（例如,近端或远端）上,或者可以以任何期望的布置分布在远端和近端两者之间。</base:Paragraphs>
+      <base:Paragraphs num="0066">预电极700还包括设置在两个环形唇缘746之间的环形凹槽748。 环形唇缘746具有比环形凹槽748更大（至少5%、10%、15%、20%或更多）的外径。 通过提供环形凹槽748,可以减少从预电极移除以释放分段电极712的材料的量,并且由于在环形凹槽中加热的材料更少,因此可以促进将导体与环形凹槽对准地焊接在分段电极中的每一个的内表面上。 在至少一些实施方案中,环形凹槽748具有在预电极700的纵向方向上延伸至少20%、25%、30%、50%、60%或75%的宽度。</base:Paragraphs>
+      <base:Paragraphs num="0067">图8A至8D示出了包括具有内表面804和外表面806的主体802的前电极的第五实施例800。 预电极800还包括由连接材料814以及切口816和通道828接合的分段电极812。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。</base:Paragraphs>
+      <base:Paragraphs num="0068">作为对准特征,前电极800限定至少一个端壁阶梯部分844,其具有与图7A至图7C的实施例的端壁阶梯部分744相同的设计特性和要求。</base:Paragraphs>
+      <base:Paragraphs num="0069">前电极800还包含与图7A～图7C的实施方式同样地配置于两个环状唇部846之间的环状槽848。 环形唇缘846具有比环形凹槽848更大（至少5%、10%、15%、20%或更多）的外径。 通过设置环状槽848,能够减少必须从预电极去除的材料的量,此外,由于在环状槽内被加热的材料较少,因此能够容易地将导体与环状槽对齐地焊接在分段电极各自的内表面上。 在至少一些实施例中,环形凹槽848具有在前电极800的纵向方向上延伸至少20%、25%、30%、50%、60%或75%的宽度。 在至少一些实施例中,较宽的环形凹槽是优选的,以提供上述优点中的一个或多个。</base:Paragraphs>
+      <base:Paragraphs num="0070">图9A至图9D示出了预电极的第六实施例900,该预电极包括具有内表面904和外表面906的主体902。 预电极900还包括由连接材料914以及切口916和通道928接合的分段电极912。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。</base:Paragraphs>
+      <base:Paragraphs num="0071">作为对准特征,预电极900限定至少一个端壁阶梯部分944,其具有与图7A至图7C的实施例的端壁阶梯部分744相同的设计特性和要求。</base:Paragraphs>
+      <base:Paragraphs num="0072">预电极900在外表面906内限定至少一个纵向台阶部分950,所述纵向台阶部分950可用于在视觉上对准预电极900,或用于将预电极对准在模具内的相应突起、搁板、肩部、底座等上,预电极设置在所述模具内以形成围绕预电极的引线主体。 在图9A至图9D的实施例中,预电极900具有布置在其相对的纵向侧上的两个纵向台阶部分950。 纵向阶梯部分950具有圆柱形预电极的纵向侧看起来好像已经沿着平面切割以移除圆柱体的一部分的形状。 然而,应当理解,不需要实际切割预电极的纵向侧,并且预电极仅需要具有通过沿某些交叉平面切割圆柱体可以实现的形状。 在至少一些实施方式中,该平面与前电极的纵轴平行,例如如图9A～图9D所示。 在至少一些实施例中,耦接材料914的径向宽度至少与预电极900的主体902的最大外径与纵向台阶部分950的最小外径之间的差一样大。 这种布置可以根据需要保持分段电极912的均匀外径。 在至少一些实施方式中,图9A～图6C的预电极具有比图4A～图4C或图5A～图5C所示的预电极所使用的连结材料更厚的连结材料914。</base:Paragraphs>
+      <base:Paragraphs num="0073">区域952和953在周边上与纵向台阶部分950相邻。 预电极的区域952（不包括端壁阶梯部分944）可以具有与区域953相同的外径,或者区域952（不包括端壁阶梯部分944）的外径可以小于区域953的外径。 区域952（不包括端壁阶梯部分944）的外径可以是均匀的或不均匀的。</base:Paragraphs>
+      <base:Paragraphs num="0074">图10A至图10D示出了包括具有内表面1004和外表面1006的主体1002的预电极的第七实施例1000。 预电极1000还包括由连接材料1014以及切口1016和通道1028接合的分段电极1012。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。</base:Paragraphs>
+      <base:Paragraphs num="0075">作为对准特征,前电极1000具有两个端壁阶梯部分1044a、1044b,其中一个端壁阶梯部分设置在前电极的近侧端部和远侧端部中的每一个上。 两个端壁阶梯部分1044a、1044b具有与图7A至图7C的实施例的端壁阶梯部分744相同的设计特性和要求。</base:Paragraphs>
+      <base:Paragraphs num="0076">前电极1000还包括在其远侧端部或近侧端部上的至少一个凹口1042,或者包括在前电极的远侧端部和近侧端部两者上的凹口。 凹口1042在预电极1000的纵向方向上延伸至少5%、10%、15%、20%或25%。 在图10A至图10D的实施例中,凹口1042还从主体1002的外表面1006延伸到主体的内表面1004。 然而,应当理解,在其他实施例中,凹口不一定延伸到主体的内表面。 此外,在图10A至图10D的实施例中,凹口1042与凹口1016中的一个对齐。 应当理解,一个或多个附加凹口与围绕前电极的周边的一个或多个其他凹口1016对准。 在存在多个凹口的情况下,这些凹口可以存在于前电极的同一端部（例如,近端或远端）上,或者可以以任何期望的布置分布在远端和近端两者之间。</base:Paragraphs>
+      <base:Paragraphs num="0077">图11A至图11C示出了预电极的第八实施例1100,该预电极包括具有内表面1104和外表面1106的主体1102。 预电极1100还包括由连接材料1114以及切口1116和通道1128接合的分段电极1112。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。 前电极1100的连结材料1114的壁厚比图4A～图4C的前电极400的连结材料414的壁厚。</base:Paragraphs>
+      <base:Paragraphs num="0078">作为对齐特征,预电极1100在外表面1106中限定狭槽1140,狭槽1140可以用于使其自身在视觉上对齐,或者用于使预电极对齐,诸如在模具中的对应轨道上,预电极设置在模具中以形成围绕预电极的引线主体。 在图11A～图11C的实施方式中,狭缝1140延伸前电极1100的长边全长。 然而,应当理解,在其他实施例中,狭缝可以仅延伸前电极1100的纵向部分（例如,不大于75%、50%、25%、15%或10%）,或者可以是从前电极的相对端延伸的两个狭缝。 在图11A至图11C的实施例中,狭槽1140还从主体1102的外表面1106延伸到主体的内表面1104。 然而,应当理解,在其他实施例中,狭槽不一定延伸到主体的内表面,而是可以在预电极的主体的外表面中形成凹槽。</base:Paragraphs>
+      <base:Paragraphs num="0079">图12A至12D示出了预电极的第九实施例1200,其包括具有内表面1204和外表面1206的主体1202。 预电极1200还包括由连接材料1214以及切口1216和通道1228接合的分段电极1212。 所有这些元件以及这些元件的设计要求与图4A至图4C中所示的实施例的相应（类似命名的）元件相同。</base:Paragraphs>
+      <base:Paragraphs num="0080">作为对准特征,前电极1200还包括分别在前电极的远侧端部和近侧端部上的两个凹口1242a、1242b。 凹口1242a、1242b在预电极1200的纵向方向上延伸至少5%、12%、15%、20%或25%。 在图12A至图12D的实施例中,凹口1242a、1242b还从主体1202的外表面1206延伸到主体的内表面1204。 然而,应当理解,在其他实施例中,凹口中的任一个或两个不一定延伸到主体的内表面。 在图12A至12D的实施例中,凹口1242a、1242b与凹口1216中的一个对齐。 应当理解,一个或多个附加凹口与围绕前电极的周边的一个或多个其他凹口1216对准。 在存在多个凹口的情况下,这些凹口可以存在于前电极的同一端部（例如,近端或远端）上,或者可以以任何期望的布置分布在远端和近端两者之间。</base:Paragraphs>
+      <base:Paragraphs num="0081">图4A～图12D中图示的实施方式是前电极的例子。 然而,应当理解,狭槽、凹口、端壁阶梯部分、纵向阶梯部分、环形凹槽、环形唇缘和纵向凹槽的任何组合可以用于形成其他预电极。</base:Paragraphs>
+      <base:Paragraphs num="0082">上述说明书、实施例和数据提供了对本发明的组件的制造和使用的描述。 因为在不脱离本发明的精神和范围的情况下可以产生本发明的许多实施例,所以本发明也在所附权利要求的范围内。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="114" wi="85" file="2016519985_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="75" wi="65" file="2016519985_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="31" wi="62" file="2016519985_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="32" wi="63" file="2016519985_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="32" wi="62" file="2016519985_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="31" wi="60" file="2016519985_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="33" wi="60" file="2016519985_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="31" wi="62" file="2016519985_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="33" wi="62" file="2016519985_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="26" wi="60" file="2016519985_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="67" wi="59" file="2016519985_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="60" wi="62" file="2016519985_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="59" wi="46" file="2016519985_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="51" wi="54" file="2016519985_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="47" wi="60" file="2016519985_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="48" wi="47" file="2016519985_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="51" wi="55" file="2016519985_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="40" wi="60" file="2016519985_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="48" wi="47" file="2016519985_000021.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="52" wi="53" file="2016519985_000022.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000023" he="48" wi="56" file="2016519985_000023.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0022">
+      <base:Image id="000024" he="51" wi="39" file="2016519985_000024.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0023">
+      <base:Image id="000025" he="49" wi="48" file="2016519985_000025.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0024">
+      <base:Image id="000026" he="51" wi="52" file="2016519985_000026.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0025">
+      <base:Image id="000027" he="40" wi="42" file="2016519985_000027.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0026">
+      <base:Image id="000028" he="37" wi="45" file="2016519985_000028.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0027">
+      <base:Image id="000029" he="47" wi="56" file="2016519985_000029.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0028">
+      <base:Image id="000030" he="44" wi="54" file="2016519985_000030.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0029">
+      <base:Image id="000031" he="46" wi="38" file="2016519985_000031.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0030">
+      <base:Image id="000032" he="41" wi="41" file="2016519985_000032.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0031">
+      <base:Image id="000033" he="52" wi="56" file="2016519985_000033.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0032">
+      <base:Image id="000034" he="43" wi="54" file="2016519985_000034.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0033">
+      <base:Image id="000035" he="46" wi="44" file="2016519985_000035.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0034">
+      <base:Image id="000036" he="41" wi="41" file="2016519985_000036.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0035">
+      <base:Image id="000037" he="49" wi="57" file="2016519985_000037.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0036">
+      <base:Image id="000038" he="46" wi="60" file="2016519985_000038.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0037">
+      <base:Image id="000039" he="51" wi="36" file="2016519985_000039.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0038">
+      <base:Image id="000040" he="44" wi="62" file="2016519985_000040.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0039">
+      <base:Image id="000041" he="47" wi="54" file="2016519985_000041.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0040">
+      <base:Image id="000042" he="43" wi="37" file="2016519985_000042.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0041">
+      <base:Image id="000043" he="43" wi="46" file="2016519985_000043.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>用于刺激引线的前电极,所述前电极包括： 具有大致圆柱形的主体； 所述主体具有外表面、与所述外表面相对的内表面、近端、远端、多个分段电极、连接材料和多个切口,所述多个分段电极沿所述主体以间隔开的方式设置,所述多个分段电极中的每一个具有在所述主体的近端和远端之间延伸的相对侧壁,所述连接材料沿所述主体的外表面设置,并且将所述多个分段电极中的每一个连接在一起,所述多个切口限定在所述多个分段电极中的相邻分段电极之间,所述主体还包括至少一个端壁台阶部分,所述端壁台阶部分在所述主体的远端或近端处具有所述主体的外表面。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的预电极,其中,所述至少一个端壁阶梯部分由两个相交平面界定,并且具有从大致圆柱形主体移除的部分的外观。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的预电极,还包括选自槽或凹口的至少一个对准特征,所述至少一个对准特征形成为从所述主体的外表面向内延伸并且与所述多个凹口中的一个对准。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的预电极,还包括至少一个纵向台阶部分,所述纵向台阶部分沿着所述主体的纵向侧面形成在所述主体的外表面上并且从所述主体的远端延伸到近端。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求4所述的预电极,其中所述至少一个纵向阶梯部分包括第一纵向阶梯部分和与所述第一纵向阶梯部分相对的第二纵向阶梯部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的预电极,其中,所述至少一个端壁阶梯部分包括在所述远端处形成在所述主体的外表面上的第一端壁阶梯部分和在所述主体的近端处形成在所述主体的外表面上的第二端壁阶梯部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1所述的前电极,其中,所述主体还包含环状槽和与所述环状槽相邻的两个环状唇。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>一种制造刺激引线的方法,所述方法包括：沿着引线主体的远端部分布置如权利要求1所述的前电极,围绕所述前电极形成引线主体,以及从所述前电极移除所述耦合材料以释放所述分段电极。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>用于刺激引线的前电极,所述前电极包括： 具有大致圆柱形的主体； 所述主体具有： 外表面和与所述外表面相对的内表面； 其中,所述多个分段电极中的每一个具有在所述主体的近端和远端之间延伸的相对侧壁,所述多个分段电极中的每一个沿着所述主体的外表面设置并且将所述多个分段电极中的每一个彼此联接,所述多个切口限定在所述多个分段电极中的相邻分段电极之间,所述主体还包括选自狭槽或凹口的至少一个对准特征,所述至少一个对准特征从所述主体的外表面向内延伸并且与所述多个切口中的一个对准。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求9所述的预电极,其中所述至少一个对准特征从所述主体的外表面延伸到内表面。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求9所述的预电极,其中,所述至少一个对齐特征是呈凹槽形式的狭槽,所述凹槽从所述主体的近端延伸到远端并且不延伸到所述主体的内表面中。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求9所述的预电极,其中,所述至少一个对齐特征包括形成在所述主体的远端中的第一凹口和形成在所述主体的近端中的第二凹口。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求9所述的前电极,其中,所述主体还包含环状槽和与所述环状槽相邻的2个环状唇。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>一种制造刺激引线的方法,所述方法包括：沿着引线主体的远端部分布置如权利要求9所述的前电极,围绕所述前电极形成引线主体,以及从所述前电极移除所述耦合材料以释放所述分段电极。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>用于刺激引线的前电极,所述前电极包括： 具有大致圆柱形的主体； 所述主体具有： 外表面和与所述外表面相对的内表面； 近端、远端、多个分段电极、连接材料和多个切口,所述多个分段电极沿着所述主体以间隔开的形式布置,所述多个电极中的每一个具有在所述主体的近端和远端之间延伸的相对侧壁,所述连接材料沿着所述主体的外表面布置并且将所述多个分段电极中的每一个联接在一起,所述多个切口限定在所述多个分段电极中的相邻分段电极之间,所述主体还包括至少一个纵向台阶部分,所述至少一个纵向台阶部分沿着所述主体的纵向侧面形成在所述主体的外表面上并且从所述主体的远端延伸到近端。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>根据权利要求15所述的预电极,其中所述至少一个纵向阶梯部分包括第一纵向阶梯部分和与所述第一纵向阶梯部分相对的第二纵向阶梯部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>根据权利要求15所述的预电极,还包括在所述主体的远端或近端处形成在所述主体的外表面上的至少一个端壁阶梯部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>根据权利要求16所述的预电极,还包括第一纵向区和第二纵向区,其中所述第一纵向区和所述第二纵向区与所述第一纵向台阶部分和所述第二纵向台阶部分两者相邻,并且其中所述第一纵向区的外径小于所述第二纵向区的外径。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>根据权利要求16所述的预电极,还包括第一纵向区和第二纵向区,其中所述第一纵向区和所述第二纵向区与所述第一纵向台阶部分和所述第二纵向台阶部分两者相邻,并且其中所述第一纵向区和所述第二纵向区具有相同的外径。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>一种制造刺激引线的方法,包括沿着引线主体的远端部分布置如权利要求15所述的前电极,围绕所述前电极形成引线主体,以及从所述前电极移除所述耦合材料以释放分段电极。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000044" file="2016519985_000044.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000045" file="2016519985_000045.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000046" file="2016519985_000046.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

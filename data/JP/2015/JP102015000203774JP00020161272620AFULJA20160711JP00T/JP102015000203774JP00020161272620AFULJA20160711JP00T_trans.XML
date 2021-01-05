@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000203774JP00020161272620AFULJA20160711JP00T.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127262" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127262</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127262</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000203774</base:DocNumber>
+        <base:Date>20151015</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015203774</base:DocNumber>
+        <base:Date>20151015</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000265701</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265701</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>232</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/232       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>30</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/30        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>35</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   4/35        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01G4/12 352</business:FI>
+      <business:FI type="secondary">H01G4/30 301D</business:FI>
+      <business:FI type="secondary">H01G4/30 301C</business:FI>
+      <business:FI type="secondary">H01G4/30 301B</business:FI>
+      <business:FI type="secondary">H01G4/42 331</business:FI>
+      <business:FClass>
+        <business:FTerm>5E001AB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E001AC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082AB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082AB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082EE16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082GG10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5E082PP09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E001</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5E082</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">贯通型层叠陶瓷电容器</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>太陽誘電株式会社</base:Name>
+            <base:RegisteredNumber>000204284</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野6丁目16番20号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>財満  知彦</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野6丁目16番20号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中安  伸</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野6丁目16番20号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>笹木  隆</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野6丁目16番20号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>木下  不器男</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区上野6丁目16番20号  太陽誘電株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>宮原  貴洋</base:Name>
+            <base:RegisteredNumber>100145517</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>11</business:ClaimsCount>
+      <base:TotalPageCount>18</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种当安装在电路板上时能够提高强度的贯通型层叠陶瓷电容器。 贯通型层叠陶瓷电容器10-1除了具备设置于电容器主体11的长度方向一端部的第一外部电极12和设置于电容器主体11的长度方向另一端部的第二外部电极13以外,还具备在电容器主体11的长度方向中央部以与第一外部电极12和第二外部电极13非接触的方式连续地覆盖该电容器主体11的高度方向两面的一部分和宽度方向两面的一部分的方式设置的四方筒状的第三外部电极14。 图2</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="27" wi="68" file="2016127262_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及贯通型层叠陶瓷电容器。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">关于上述贯通型层叠陶瓷电容器,在后述专利文献1中公开了如图1所示的贯通型层叠陶瓷电容器100（以下简称为贯通型电容器100）。</base:Paragraphs>
+      <base:Paragraphs num="0003">该贯通型电容器100呈满足长度L11&gt;宽度W11&gt;高度H11的条件的大致长方体状,具有由比这些长度L11、宽度W11以及高度H11稍小的长度、宽度以及高度规定的大致长方体状的电容器主体101、设置于电容器主体101的长度方向一端部的第1外部电极102、设置于电容器主体101的长度方向另一端部的第2外部电极103、设置于电容器主体101的宽度方向一端部的大致中央的第3外部电极104、以及设置于电容器主体101的宽度方向另一端部的大致中央的第4外部电极105。</base:Paragraphs>
+      <base:Paragraphs num="0004">另外,在电容器主体101内设置有多个第一内部电极层（省略图示）和多个第二内部电极层（省略图示）隔着电介质层（省略图示）在高度方向上交替层叠而成的电容部。 多个第1内部电极层的一端部与第1外部电极102连接,且另一端部与第2外部电极103连接,多个第2内部电极层的一端部与第3外部电极104连接,且另一端部与第4外部电极105连接。</base:Paragraphs>
+      <base:Paragraphs num="0005">然而,对于这种贯通型层叠陶瓷电容器,依然要求小型化和薄型化,特别是关于薄型化,担心搭载于电路基板时的强度。 以下,使用图1对这一点进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0006">图1所示的以往的贯通型电容器100一般在部件供给场所通过吸嘴吸附高度方向一个面或另一个面的中心（参照图1(A)的+标记）或其附近后被搬运,在搬运后搭载于电路基板、例如能够进行表面安装的电路基板（部件安装基板）、能够进行表面安装及内部安装的电路基板（部件内置基板）等。</base:Paragraphs>
+      <base:Paragraphs num="0007">然而,图1所示的以往的贯通型电容器100处于在上述搭载时从吸嘴直接对电容器主体101施加载荷的构造,因此有可能因该载荷而在电容器主体101产生龟裂。 该龟裂无论其大小,都允许水分向电容器主体101内浸入,因此第一内部电极层和第二内部电极层因浸入的水分而腐蚀、产生能力降低的可能性变高,并且第一内部电极层和第二内部电极层短路、产生功能障碍的可能性变高。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0008">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2008－294298号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0009">本发明的课题在于提供一种能够实现搭载于电路基板时的强度提高的贯通型层叠陶瓷电容器。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0010">为了解决上述课题, 本发明的贯通型层叠陶瓷电容器的特征在于, 在由长度、宽度及高度规定的大致长方体状的电容器主体内, 一种贯通型层叠陶瓷电容器,设置有多个第一内部电极层和多个第二内部电极层隔着电介质层在高度方向上交替层叠而成的电容部, （1）在所述电容器主体的长度方向一端部以连续地覆盖该电容器主体的长度方向一面、高度方向两面的一部分和宽度方向两面的一部分的方式设置, 第一外部电极,其与所述多个第一内部电极层的长度方向一端部连接； （2）在所述电容器主体的长度方向另一端部以连续地覆盖该电容器主体的长度方向另一面、高度方向两面的一部分以及宽度方向两面的一部分的方式设置, 第二外部电极,其与所述多个第一内部电极层的长度方向另一端部连接； （3）在所述电容器主体的长度方向中央部,以在与所述第1外部电极和所述第2外部电极非接触的状态下连续地覆盖该电容器主体的高度方向两面的一部分和宽度方向两面的一部分的方式设置, （4）在将从高度方向观察所述贯通型层叠陶瓷电容器时的所述第一外部电极的沿着所述电容器主体的长度的尺寸设为E1,将所述第二外部电极的沿着所述电容器主体的长度的尺寸设为E2,将所述第三外部电极的沿着所述电容器主体的长度的尺寸设为E3时,所述尺寸E1和所述尺寸E3满足E1&lt;E3的条件,并且,所述尺寸E2和所述尺寸E3满足E2&lt;E3的条件。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0011">根据本发明,能够提供一种能够实现搭载于电路基板时的强度提高的贯通型层叠陶瓷电容器。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0012">
+        <base:FigureReference num="0001">图0001图1(A)是表示以往的贯通型层叠陶瓷电容器的高度方向一面的图,图1(B)是表示该贯通型层叠陶瓷电容器的宽度方向一面的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002(A)是表示本发明的第1实施方式涉及的贯通型层叠陶瓷电容器的高度方向一面的图,图2(B)是表示本发明的第1实施方式涉及的贯通型层叠陶瓷电容器的宽度方向一面的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003(A)是表示内置于电容器主体的第一内部电极层的形状的图,图3(B)是表示内置于电容器主体的第二内部电极层的形状的图。</base:FigureReference>
+        <base:FigureReference num="0004">图4是沿着图2(A)的S1-S1线的放大剖视图。</base:FigureReference>
+        <base:FigureReference num="0005">图5是沿着图2(B)的S2-S2线的放大剖视图。</base:FigureReference>
+        <base:FigureReference num="0006">图6是沿着图2(B)的S3-S3线的放大剖视图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是图2(A)的放大图。</base:FigureReference>
+        <base:FigureReference num="0008">图8(A)是表示本发明的第2实施方式涉及的贯通型层叠陶瓷电容器的高度方向一面的图,图2(B)是表示本发明的第2实施方式涉及的贯通型层叠陶瓷电容器的宽度方向一面的图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009(A)是表示内置于电容器主体的第一内部电极层的形状的图,图9(B)是表示内置于电容器主体的第二内部电极层的形状的图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是表示电容器主体的高度方向一面的图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是沿着图8(B)的S4-S4线的放大剖视图。</base:FigureReference>
+        <base:FigureReference num="0012">图12的(A)是表示图9的(A)所示的第一内部电极层的形状变形例的图,图12的(B)是表示代替图9的(A)所示的第一内部电极层而使用了图12的(A)所示的第一内部电极层的电容器主体的高度方向一面的与图10对应的图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0013">《第一实施方式》 
+首先,使用图2～图7,对本发明的第1实施方式涉及的贯通型层叠陶瓷电容器10-1（以下简称为贯通型电容器10-1）的构造以及效果等进行说明。 顺便说一下,在图4和图6中描绘了5层后述第1内部电极层15,并且描绘了5层后述第2内部电极层16,但这取决于图示的情况,并不限制后述第1内部电极层15的层数和后述第2内部电极层16的层数。 </base:Paragraphs>
+      <base:Paragraphs num="0014">如图2(A)和图2(B)所示,贯通型电容器10-1呈满足长度L1&gt;宽度W1&gt;高度H1的条件的大致长方体状,由比这些长度L1、宽度W1和高度H1稍小的长度、宽度和高度规定的大致长方体状的电容器主体11、设置于电容器主体11的长度方向一端部（图2(A)和图2(B)的左端部）的第一外部电极12、设置于电容器主体11的长度方向另一端部（图2(A)和图2(B)的右端部）的第二外部电极13、以及以与第一外部电极12和第二外部电极13非接触的方式设置于电容器主体11的长度方向中央部（图2(A)和图2(B)的左右中央部）的四方筒状的第三外部电极14。 另外,电容器主体11的高度方向两面以及宽度方向两面中的第一外部电极12与第三外部电极14之间的部分11a和第二外部电极13与第三外部电极14之间的部分11b分别露出（以下称为露出部分11a以及露出部分11b）。</base:Paragraphs>
+      <base:Paragraphs num="0015">如图4所示,电容器主体11具有电介质制的第1保护部PP1、多个第1内部电极层15和多个第2内部电极层16隔着电介质层17在高度方向上交替层叠而成的电容部CP、以及电介质制的第2保护部PP2,该第1保护部PP1、电容部CP和第2保护部PP2以相同顺序在高度方向上排列成层状。 各第一内部电极层15呈图3(A)所示那样的大致矩形状,在长度方向一端部（图3(A)的左端部）和长度方向另一端部（图3(A)的右端部）分别一体地具有沿长度方向延伸的窄幅的引出部15a。 另一方面,各第二内部电极层16呈图3(B)所示那样的大致矩形状,在宽度方向一端部（图3(B)的下端部）和宽度方向另一端部（图3(B)的上端部）分别一体地具有沿宽度方向延伸的窄幅的引出部16a。</base:Paragraphs>
+      <base:Paragraphs num="0016">根据图4～图6可知,各第1内部电极层15的长度方向一端部、具体而言图3(A)的左侧引出部15a的左端缘与第1外部电极12的后述部分12a电连接,各第1内部电极层的长度方向另一端部、具体而言图3(A)的右侧引出部15a的右端缘与第2外部电极13的后述部分13a电连接。 另一方面,各第二内部电极层16的宽度方向一端部、具体而言图3(B)的下侧引出部16a的下端缘与第三外部电极14的后述部分14c电连接,各第二内部电极层16的宽度方向另一端部、具体而言图3(B)的上侧引出部16a的上端缘与第三外部电极14的后述部分14d电连接。</base:Paragraphs>
+      <base:Paragraphs num="0017">另外,第1保护部PP1、各电介质层17以及第2保护部PP2由组成大致相同且介电常数也大致相同的电介质陶瓷构成,各电介质层17的厚度大致相同。 该电介质陶瓷优选使用以钛酸钡、钛酸锶、钛酸钙、钛酸镁、锆酸钙、钛酸锆酸钙、锆酸钡、氧化钛等为主成分的电介质陶瓷,更优选使用ε&gt;1000或等级2（高介电常数系）的电介质陶瓷。 此处的“组成大致相同且介电常数也大致相同的电介质陶瓷”除了包含组成与介电常数完全相同的情况以外,还包含因烧结程度等的关系而组成与介电常数的至少一方在容许范围内稍微不同的情况作为其含义,“厚度大致相同”除了包含厚度完全相同的情况以外,还包含因层叠时的压缩程度等的关系而厚度在容许范围内或制造公差内稍微不同的情况作为其含义。</base:Paragraphs>
+      <base:Paragraphs num="0018">另外,各第一内部电极层15和各第二内部电极层16由组成大致相同的良导体构成,各第一内部电极层15和各第二内部电极层16的厚度大致相同。 该良导体可以优选使用以镍、铜、钯、铂、银、金、它们的合金等为主成分的良导体。 此处的“组成大致相同的良导体”除了包含组成完全相同的情况以外,还包含因烧结程度等的关系而组成在容许范围内稍有不同的情况作为其含义,“厚度大致相同”除了包含厚度完全相同的情况以外,还包含因层叠时的压缩程度等的关系而厚度在容许范围内或制造公差内稍有不同的情况作为其含义。</base:Paragraphs>
+      <base:Paragraphs num="0019">如图4～图6所示,第一外部电极12连续地具有覆盖电容器主体11的长度方向一面（图4以及图5的左面）的部分12a、覆盖电容器主体11的高度方向一面（图4的上表面）的一部分的部分12b、覆盖电容器主体11的高度方向另一面（图4的下表面）的一部分的部分12c、覆盖电容器主体11的宽度方向一面（图5的下表面）的一部分的部分12d、以及覆盖电容器主体11的宽度方向另一面（图5的上表面）的一部分的部分12e。 另外,第一外部电极12的靠近电容器主体11的长度方向一面（图4以及图5的左面）的棱线（是指4条棱线）的部分12f的厚度比部分12b～12e的厚度厚（以下称为厚壁部分12f）。</base:Paragraphs>
+      <base:Paragraphs num="0020">部分12b～12e的沿着电容器主体11的长度的尺寸在不包含制造公差的设计上的基准尺寸中相同。 另外,部分12b～12e的厚度在不包含制造公差的设计上的基准尺寸中相同。</base:Paragraphs>
+      <base:Paragraphs num="0021">如图4～图6所示,第二外部电极13连续地具有覆盖电容器主体11的长度方向另一面（图4以及图5的右表面）的部分13a、覆盖电容器主体11的高度方向一面（图4的上表面）的一部分的部分13b、覆盖电容器主体11的高度方向另一面（图4的下表面）的一部分的部分13c、覆盖电容器主体11的宽度方向一面（图5的下表面）的一部分的部分13d、以及覆盖电容器主体11的宽度方向另一面（图5的上表面）的一部分的部分13e。 另外,第二外部电极13的靠近电容器主体11的长度方向另一个面（图4和图5的右表面）的棱线（是指4条棱线）的部分13f的厚度比部分13b～13e的厚度厚（以下称为厚壁部分13f）。</base:Paragraphs>
+      <base:Paragraphs num="0022">部分13b～13e的沿着电容器主体11的长度的尺寸在不包含制造公差的设计上的基准尺寸中相同。 另外,部分13b～13e的厚度在不包含制造公差的设计上的基准尺寸中相同。</base:Paragraphs>
+      <base:Paragraphs num="0023">如图4～图6所示,第三外部电极14连续地具有覆盖电容器主体11的高度方向一面（图4和图6的上表面）的一部分的部分14a、覆盖电容器主体11的高度方向另一面（图4和图6的下表面）的一部分的部分14b、覆盖电容器主体11的宽度方向一面（图5的下表面、图6的左表面）的一部分的部分14c、以及覆盖电容器主体11的宽度方向另一面（图5的上表面、图6的右表面）的一部分的部分14d。 另外,第三外部电极14中,电容器主体11的高度方向一面（图4和图6的上表面）的靠近棱线（是指两条棱线）的部分14e的厚度和电容器主体11的高度方向另一面（图4和图6的下表面）的靠近棱线（是指两条棱线）的部分14e的厚度比部分14a～14d的厚度厚（以下称为厚壁部分14e）。</base:Paragraphs>
+      <base:Paragraphs num="0024">部分14a～14d的沿着电容器主体11的长度的尺寸在不包含制造公差的设计上的基准尺寸中相同。 另外,部分14a～14d的厚度在不包含制造公差的设计上的基准尺寸中相同。</base:Paragraphs>
+      <base:Paragraphs num="0025">此外,第一外部电极12、第二外部电极13以及第三外部电极14具有与电容器主体11的外表面密合的基底膜和与该基底膜的外表面密合的表面膜的双层构造、或者在基底膜与表面膜之间具有至少一个中间膜的多层构造。 基底膜例如由烘烤膜构成,该烘烤膜优选能够使用以镍、铜、钯、铂、银、金、它们的合金等为主成分的良导体。 表面膜例如由镀膜构成,该镀膜优选能够使用以铜、锡、钯、金、锌、它们的合金等为主成分的良导体。 中间膜例如由镀膜构成,该镀膜优选能够使用以铂、钯、金、铜、镍、它们的合金等为主成分的良导体。</base:Paragraphs>
+      <base:Paragraphs num="0026">前述的贯通型电容器10-1如图2(A)所示,在将从高度方向观察贯通型电容器10-1时的第1外部电极12的沿着电容器主体11的长度的尺寸设为E1,将第2外部电极13的沿着电容器主体11的长度的尺寸设为E2,将第3外部电极14的沿着电容器主体11的长度的尺寸设为E3时,尺寸E1和尺寸E3满足E1&lt;E3的条件,且尺寸E2和尺寸E3满足E2&lt;E3的条件。 顺便说一下,尺寸E1和尺寸E2在不包含制造公差的设计上的基准尺寸中可以相同,也可以稍微不同。</base:Paragraphs>
+      <base:Paragraphs num="0027">上述的E1&lt;E3的条件和E2&lt;E3的条件对“搭载时的强度提高”有效,因此,以下对其有效性（效果）进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0028">前述的贯通型电容器10-1在部件供给场所通过吸嘴吸附高度方向一个面或者另一个面的中心（参照图2(A)的+标记）或者其附近之后被输送,在输送后被搭载于电路基板,例如能够进行表面安装的电路基板（部件安装基板）、能够进行表面安装以及内部安装的电路基板（部件内置基板）等。</base:Paragraphs>
+      <base:Paragraphs num="0029">图1所示的以往的贯通型电容器100处于在上述搭载时从吸嘴直接对电容器主体101施加载荷的构造,因此有可能因该载荷而在电容器主体101产生龟裂。 与此相对,前述的贯通型电容器10-1在电容器主体11的长度方向中央部存在四方筒状的第三外部电极14,而且,满足前述的E1&lt;E3的条件和E2&lt;E3的条件,所以能够由第三外部电极14承受所述搭载时的来自吸嘴的载荷,而且,能够将该载荷向四方筒状的第三外部电极14分散而缓和,由此,能够防止在所述搭载时在电容器主体11产生龟裂,实现搭载时的强度提高。 第三外部电极14的尺寸E3优选设计得尽可能大,这样一来,能够更可靠地得到所述缓和作用,即使在吸嘴相对于第三外部电极14的接触位置偏移的情况下,也能够得到所述同样的好处。</base:Paragraphs>
+      <base:Paragraphs num="0030">此外,在前述的贯通型电容器10-1中,如图7所示,在将从高度方向观察贯通型电容器10-1时的平面轮廓的总面积设为TAR、将第1外部电极12的平面轮廓的面积设为AR1、将第2外部电极13的平面轮廓的面积设为AR2、将第3外部电极14的平面轮廓的面积设为AR3时,总面积TAR、面积AR1、面积AR2、面积AR3满足0.6≤（AR1+AR2+AR3）/TAR≤0.9的条件。 顺便说一下,面积AR1和面积AR2在不包含制造公差的设计上的基准尺寸中可以相同,也可以稍微不同。</base:Paragraphs>
+      <base:Paragraphs num="0031">上述的0.6≤（AR1+AR2+AR3）/TAR≤0.9的条件对于“连接时的可靠性提高”是有效的,因此以下对其有效性（效果）进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0032">前述的贯通型电容器10-1在搭载于电路基板之后各外部电极12～14与导体焊盘等电连接。 具体而言,在能够进行表面安装的电路基板（部件安装基板）中,各外部电极12～14使用焊料与导体焊盘电连接,另外,在能够进行表面安装以及内部安装的电路基板（部件内置基板）中,各外部电极12～14使用焊料与导体焊盘电连接,除此以外,在各外部电极12～14电连接导体导通孔。</base:Paragraphs>
+      <base:Paragraphs num="0033">图1所示的以往的贯通型电容器100不具有前述的贯通型电容器10-1那样的第3外部电极14,而且,从高度方向观察贯通型电容器100时的第1外部电极102～第4外部电极105的平面轮廓的面积和相对于平面轮廓的面积的占有比例为50%左右,因此仅通过向电路基板的搭载位置稍微偏移,就存在与导体焊盘、导体导通孔的电连接的可靠性降低的担忧。 与此相对,在前述的贯通型电容器10-1中,在电容器主体11的长度方向中央部存在四方筒状的第3外部电极14,而且,第1外部电极12～第3外部电极14的平面轮廓的面积和相对于从高度方向观察贯通型电容器10-1时的平面轮廓的面积的占有比例为60%以上,满足前述的0.6≤（AR1+AR2+AR3）/TAR≤0.9的条件,因此即使向电路基板的搭载位置稍微偏移,也能够可靠地进行所期望的电连接,能够实现连接时的可靠性提高。</base:Paragraphs>
+      <base:Paragraphs num="0034">另外,上述的0.6≤（AR1+AR2+AR3）/TAR≤0.9的条件中的0.6是考虑到满足上述的E1&lt;E3的条件和E2&lt;E3的条件而实现上述“搭载时的强度提高”的下限值。 另外,相同条件中的0.9是考虑了避免将各外部电极12～14与导体焊盘或导体过孔电连接时的、第一外部电极12与第三外部电极14的短路、以及第二外部电极13与第三外部电极14的短路的上限值。</base:Paragraphs>
+      <base:Paragraphs num="0035">进而,在前述的贯通型电容器10-1中,第1外部电极12的表面粗糙度、第2外部电极13的表面粗糙度和第3外部电极14的表面粗糙度比电容器主体11的露出部分11a以及11b的表面粗糙度大。 顺便说一下,第1外部电极12的表面粗糙度和第2外部电极13的表面粗糙度在不包含制造公差的设计上的基准粗糙度中可以相同,也可以稍微不同。</base:Paragraphs>
+      <base:Paragraphs num="0036">上述的粗糙度关系对“防止密封树脂的剥离”有效,因此以下对其有效性（效果）进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0037">前述的贯通型电容器10-1有时在与电路基板的导体焊盘等电连接之后被合成树脂密封。 特别是,在能够进行表面安装以及内部安装的电路基板（部件内置基板）中,内部安装的贯通型电容器10-1的大部分被合成树脂密封而确保气密性。</base:Paragraphs>
+      <base:Paragraphs num="0038">图1所示的以往的贯通型电容器100不具有前述的贯通型电容器10-1那样的粗糙度关系,因此若用合成树脂对连接后的贯通型电容器100进行密封,则与密封树脂对电容器主体101的密合力相比,密封树脂对各外部电极102～105的密合力弱,因此密封树脂有可能从各外部电极102～105剥离而成为腐蚀等的发生原因。 与此相对,在前述的贯通型电容器10-1中,各外部电极12～14的表面粗糙度比电容器主体11的露出部分11a以及11b的表面粗糙度大,因此能够提高密封树脂相对于各外部电极12～14的密合力,实现密封树脂的剥离防止。</base:Paragraphs>
+      <base:Paragraphs num="0039">进而,在上述的贯通型电容器10-1中,第一外部电极12中的与电容器主体11的长度方向一个面的棱线接近的部分（厚壁部分12f）的厚度比部分12b～12d的厚度厚,第二外部电极13中的与电容器主体11的长度方向另一个面的棱线接近的部分的厚度（厚壁部分13f）比部分13b～13d的厚度厚,第三外部电极14中的与电容器主体11的高度方向一个面的棱线接近的部分（厚壁部分14e）的厚度和与电容器主体11的高度方向另一个面的棱线接近的部分（厚壁部分14e）的厚度比部分14a～14d的厚度厚。</base:Paragraphs>
+      <base:Paragraphs num="0040">上述的厚度关系对“防止连接不良”有效,因此以下对其有效性（效果）进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0041">前述的贯通型电容器10-1有时被具有部件收纳凹部的带状包装材包装而供使用。 被带状包装材包装的贯通型电容器10-1在将盖带从带主体剥离后,被吸嘴从元件收纳凹部取出,进行先前叙述那样的向电路基板的搭载。</base:Paragraphs>
+      <base:Paragraphs num="0042">图1所示的以往的贯通型电容器100不具有前述的贯通型电容器10-1那样的厚度关系（厚壁部分12f、13f以及14e）,因此若包装为带状包装材,则各外部电极102～105的表面、特别是用于电连接的高度方向两侧的表面与带状包装材的部件收纳凹部的底面、盖带的凹部封闭面接触而在各个表面产生由摩擦引起的变质、污垢等,这些成为原因,有可能在各外部电极102～105的电连接中产生不良。 与此相对,前述的贯通型电容器10-1在各外部电极12～14中的与电容器主体11的棱线接近的部分设置有厚壁部分12f、13f以及14e,因此即使包装为带状包装材,也能够抑制各外部电极12～14的表面、特别是用于电连接的高度方向两侧的表面（部分12b、12c、13b、13c、14a以及14b的表面）与带状包装材的部件收纳凹部的底面、盖带的凹部闭塞面接触,能够防止在各个表面产生由摩擦引起的变质、污垢等,由此,能够实现防止将各外部电极12～14与导体焊盘或者导体过孔电连接时的连接不良。</base:Paragraphs>
+      <base:Paragraphs num="0043">接下来,适当使用各图中记载的附图标记,对为了确认前述的有效性（效果）而准备的、与图2～图7所示的贯通型电容器10-1对应的评价用样本1、与图1所示的以往的贯通型电容器100对应的评价用样本2的规格进行说明。 顺便说一下,后述尺寸值都是不包含制造公差的设计上的基准尺寸。</base:Paragraphs>
+      <base:Paragraphs num="0044">评价用样品1的规格如下所述。 ·总长度L为1000μm, 宽度W为600μm, 高度H为220μm·电容器主体11的长度为960μm, 宽度为560μm, ·电容器主体11的第1保护部PP1的厚度和第2保护部PP2的厚度为30μm, 电容部CP的厚度为120μm·电容部CP所包含的第一内部电极层15的厚度和第二内部电极层16的厚度为0.7μm, 电介质层17的厚度为0.8μm, 第一内部电极层15的层数为40层, 第2内部电极层16的层数为40层,第1保护部PP1、各电介质层17和第2保护部PP2为以钛酸钡为主成分的电介质陶瓷, 各第一内部电极层15和各第二内部电极层16为以镍为主成分的良导体,第一外部电极12的部分12b～12e的厚度、第二外部电极13的部分13b～13e的厚度以及第三外部电极14的部分14a～14d的厚度为15μm,第一外部电极12的部分12a的厚度和第二外部电极13的部分13a的厚度为20μm,各外部电极12～14的厚壁部分12f、13f以及14e的厚度为20μm,第一外部电极12、第二外部电极13以及第三外部电极14为以镍为主成分的基底膜和以铜为主成分的表面膜的双层构造,第一外部电极12的尺寸E1和第二外部电极13的尺寸E2为200μm,第三外部电极14的尺寸E3</base:Paragraphs>
+      <base:Paragraphs num="0045">在此,简单地介绍评价用样品1的制法。 在制造时,首先,准备含有钛酸钡粉末、乙醇（溶剂）、聚乙烯醇缩丁醛（粘合剂）和分散剂等添加剂等的陶瓷浆料,并且准备含有镍粉末、松油醇（溶剂）、乙基纤维素（粘合剂）和分散剂等添加剂的金属糊剂。</base:Paragraphs>
+      <base:Paragraphs num="0046">接着,使用模涂机、凹版涂布机等涂布装置和干燥装置,在载体膜的表面涂布陶瓷浆料并干燥,制作第1生片。 此外,使用丝网印刷机、凹版印刷机等印刷装置和干燥装置,在第1生片的表面将金属膏以矩阵状或交错状印刷并干燥,制作形成有第1内部电极层15用图案组的第2生片,并且在第1生片的表面将金属膏以矩阵状或交错状印刷并干燥,制作形成有第2内部电极层16用图案组的第3生片。</base:Paragraphs>
+      <base:Paragraphs num="0047">接着,使用具有冲裁刀以及加热器的可动式吸附头等层叠装置,将从第1生片冲裁出的单位片层叠至达到规定张数并进行热压接,制作与第2保护部PP2对应的部位。 接着,使用上述同样的层叠装置,反复进行在从第3生片冲裁出的单位片（包含第2内部电极层16用图案组）之上层叠从第2生片冲裁出的单位片（包含第1内部电极层15用图案组）并进行热压接的作业,制作与电容部CP对应的部位。 接着,使用上述同样的层叠装置,将从第1生片冲裁出的单位片层叠至达到规定张数并进行热压接,制作与第1保护部PP1对应的部位。 接着,使用热等静压机、机械式或油压式压制机等正式压接装置,对将上述各部位层叠而成的片进行正式热压接,制作未烧成层叠片。</base:Paragraphs>
+      <base:Paragraphs num="0048">接着,使用刀片切片机、激光切片机等切断装置,将未烧成层叠片切断成格子状,制作与电容器主体11对应的未烧成芯片。 接着,使用隧道型烧成炉、箱型烧成炉等烧成装置,在还原性气氛下或低氧分压气氛下,以与钛酸钡和镍相应的温度曲线对多个未烧成芯片进行烧成（包括脱粘合剂处理和烧成处理）,制作电容器主体11。</base:Paragraphs>
+      <base:Paragraphs num="0049">接着,使用辊涂机、浸涂机等涂布装置和干燥装置,在电容器主体11的长度方向两端部涂布金属糊料（沿用上述的金属糊料）并干燥,在与上述同样的气氛下进行烧结处理而形成基底膜后,通过电解镀敷等镀敷处理形成覆盖基底膜的表面膜,制作第一外部电极12和第二外部电极13。 另外,使用与上述同样的涂布装置和干燥装置,在电容器主体11的长度方向中央部分涂布金属膏（沿用上述的金属膏）并干燥,在与上述同样的气氛下进行烧结处理而形成基底膜后,通过电镀等镀敷处理形成覆盖基底膜的表面膜,制作第三外部电极14。 接着,对第1外部电极12的表面、第2外部电极13的表面和第3外部电极14的表面实施化学蚀刻处理而使各自的表面粗糙。</base:Paragraphs>
+      <base:Paragraphs num="0050">另一方面,评价用样品2的规格仅在以下方面与评价用样品1的规格不同。 顺便说一下,评价用样品2的制法除了最后的化学蚀刻处理以外,与评价用样品1的制法相同。 ·第1外部电极102的厚度、第2外部电极103的厚度、第3外部电极104的厚度以及第4外部电极105的厚度为20μm·第3外部电极104的尺寸E13和第4外部电极105的尺寸E14为350μm,第3外部电极104的尺寸E15和第4外部电极105的尺寸E16为150μm（尺寸E13～E16参照图1(A)） 
+·第1外部电极102的表面粗糙度Ra、第2外部电极103的表面粗糙度Ra、第3外部电极104的表面粗糙度Ra和第4外部电极105的表面粗糙度Ra为0.06μm以下,电容器主体101的露出部分的表面粗糙度Ra为0.08μm以下 </base:Paragraphs>
+      <base:Paragraphs num="0051">接着,对使用上述评价用样品1和2确认上述有效性（效果）的结果等进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0052">在评价用样品1中,第1外部电极12的尺寸E1和第2外部电极13的尺寸E2均为200μm,第3外部电极14的尺寸E3为350μm,因此满足E1&lt;E3的条件和E2&lt;E3的条件。 另一方面,评价用样品2不具有评价用样品1那样的四方筒状的第三外部电极14,因此不满足上述两个条件。 关于搭载时的强度提高,测定了共计5个评价用样品1的抗弯强度和共计5个评价用样品2的抗弯强度,结果评价用样品1的抗弯强度为180gf以上,评价用样品2的抗弯强度为110gf以下。 由此可以说,与图2～图7所示的贯通型电容器10-1对应的评价用样本1和与图1所示的以往的贯通型电容器100对应的评价用样本2相比,对所述“搭载时的强度提高”有效。</base:Paragraphs>
+      <base:Paragraphs num="0053">另外,从高度方向观察评价用样品1时的（第一外部电极12的平面轮廓的面积AR1+第二外部电极13的平面轮廓的面积AR2+第三外部电极14的平面轮廓的面积AR3）/评价用样品1的平面轮廓的总面积TAR）的计算值（共计5个的平均值）为0.77,因此评价用样品1满足0.6≤（AR1+AR2+AR3）/TAR≤0.9的条件。 另一方面,在评价用样品2中,从高度方向观察评价用样品2时的（第1外部电极102的平面轮廓的面积+第2外部电极103的平面轮廓的面积+第3外部电极104的平面轮廓的面积+第4外部电极105的平面轮廓的面积）/评价用样品2的平面轮廓的总面积）的计算值（共计5个的平均值）为0.50,因此不满足所述条件。由此,可以说与图2～图7所示的贯通型电容器10-1对应的评价用样品1相比于与图1所示的以往的贯通型电容器100对应的评价用样品2,对所述“连接时的可靠性提高”是有效的。</base:Paragraphs>
+      <base:Paragraphs num="0054">进而,评价用样品1中,第一外部电极12的表面粗糙度Ra、第二外部电极13的表面粗糙度Ra和第三外部电极14的表面粗糙度Ra为0.31μm以上,电容器主体11的露出部分11a和11b的表面粗糙度Ra为0.08μm以下,因此满足第一外部电极12、第二外部电极13和第三外部电极14各自的表面粗糙度比电容器主体11的露出部分的表面粗糙度大这样的粗糙度关系。 另一方面,评价用样品2由于第1外部电极102的表面粗糙度Ra、第2外部电极103的表面粗糙度Ra、第3外部电极104的表面粗糙度Ra和第4外部电极105的表面粗糙度Ra为0.06μm以下,电容器主体101的露出部分的表面粗糙度Ra为0.08μm以下,因此不满足上述粗糙度关系。 由此,可以说与图2～图7所示的贯通型电容器10-1对应的评价用样品1和与图1所示的以往的贯通型电容器100对应的评价用样品2相比,对所述“密封树脂的剥离防止”有效。</base:Paragraphs>
+      <base:Paragraphs num="0055">进而,在评价用样品1中,第1外部电极12的部分12b～12e的厚度、第2外部电极13的部分13b～13e的厚度以及第3外部电极14的部分14a～14d的厚度为15μm,各外部电极12～14的厚壁部分12f、13f以及14e的厚度为20μm,两者之间存在5μm的间隙。 即,即使将评价用样品1包装于具有部件收纳凹部的带状包装材,各外部电极102～105的表面、特别是用于电连接的高度方向两侧的表面也难以与带状包装材的部件收纳凹部的底面、盖带的凹部封闭面接触。 另一方面,评价用样品2不存在评价用样品1那样的间隙。 因此,当将评价用样品2包装于具有部件收纳凹部的带状包装材时,各外部电极102～105的表面、特别是用于焊料连接、通孔连接的高度方向两侧面的表面与带状包装材的部件收纳凹部的内表面、盖带的凹部封闭面接触,容易在各个表面产生由摩擦引起的变质、污染等。 由此,可以说与图2～图7所示的贯通型电容器10-1对应的评价用样本1和与图1所示的以往的贯通型电容器100对应的评价用样本2相比,对所述“连接不良的防止”有益。</base:Paragraphs>
+      <base:Paragraphs num="0056">（1）作为前述的贯通型电容器10-1（包含评价用样品1）,示出了第1外部电极12的高度方向两面部分的最大厚度（厚壁部分12f的厚度）、第2外部电极13的高度方向两面部分的最大厚度（厚壁部分13f的厚度）、以及第3外部电极14的高度方向两面部分的最大厚度（厚壁部分14e的厚度）大致相同的例子,但如果使第3外部电极14的高度方向两面部分的最大厚度比第1外部电极12的高度方向两面部分的最大厚度以及第2外部电极13的高度方向两面部分的最大厚度薄,则对于将贯通型电容器10-1搭载于电路基板后的“稳定性的提高”是有效的。</base:Paragraphs>
+      <base:Paragraphs num="0057">即,在前述的贯通型电容器10-1中,若第3外部电极14的高度方向两面部分的最大厚度比第1外部电极12的高度方向两面部分的最大厚度以及第2外部电极13的高度方向两面部分的最大厚度厚,则在搭载于电路基板的贯通型电容器10-1产生倾斜,或者在第1外部电极12或者第2外部电极13产生浮起,有可能对之后的电连接产生障碍。 但是,在将第1外部电极12的高度方向两面部分的最大厚度设为T1max,将第2外部电极13的高度方向两面部分的最大厚度设为T2max,将第3外部电极14的高度方向两面部分的最大厚度设为T3max时,如果最大厚度T1max和最大厚度T3max满足T1max&gt;T3max的条件,并且最大厚度T2max和最大厚度T3max满足T2max&gt;T3max的条件,则能够防止上述的倾斜、浮起,实现上述“稳定性的提高”。</base:Paragraphs>
+      <base:Paragraphs num="0058">（2）作为前述的贯通型电容器10-1（包含评价用样品1）,示出了在电容器主体11的露出部分11a和11b未设置特别的间隔限制的例子,但如果基于第3外部电极14的高度方向两面部分的平均厚度来决定这些露出部分11a和11b的间隔,则对以离子迁移为原因的“防止短路”是有效的。</base:Paragraphs>
+      <base:Paragraphs num="0059">即,在前述的贯通型电容器10-1中,第3外部电极14呈四方筒状,高度方向两面部分的面积较大,因此若该高度方向两面部分的平均厚度变厚,则以浓度梯度为原因,产生金属离子从第3外部电极14经由陶瓷主体11向第1外部电极12以及第2外部电极13移动的现象（离子迁移）,有可能在第3外部电极14与第1外部电极12以及第2外部电极13产生短路。 但是,在将第3外部电极14的高度方向两面部分的平均厚度设为T3ave,将电容器主体11的露出部分11a的间隔设为I1,将电容器主体11的露出部分11b的间隔设为I2时（I1和I2参照图2的(A)）,如果平均厚度T3ave和间隔I1满足T3ave≤I1/2的条件,且平均厚度T3ave和间隔I2满足T3ave≤I2/2的条件,则能够抑制上述的离子迁移,实现上述“防止短路”。</base:Paragraphs>
+      <base:Paragraphs num="0060">为了确认该“防止短路”的有效性（效果）,准备了增加上述评价用样品1的第3外部电极14的尺寸E1而使间隔I1和间隔I2这两者为40μm且使第3外部电极14的高度方向两面部分的平均厚度T3ave与上述评价用样品1相应地为17.5μm的样品A1、使样品A1的第3外部电极14的高度方向两面部分的平均厚度T3ave为20μm的样品A2、以及使样品A1的第3外部电极14的高度方向两面部分的平均厚度T3ave为22.5μm的样品A3。 然后,将各100个样品A1～A3在温度85℃且湿度85%的气氛下放置500小时后,利用高电阻计（安捷伦公司制,4329A）,调查第三外部电极14与第一外部电极12的短路发生率以及第三外部电极14与第二外部电极13的短路发生率,结果样品A1的短路发生率为0%,样品A2的短路发生率为0%,样品A3的短路发生率为5%。 即,能够确认满足上述的T3ave≤I1/2的条件和T3ave≤I2/2的条件的样品A1以及A2与不满足该条件的样品A3相比,对所述“防止短路”有效。</base:Paragraphs>
+      <base:Paragraphs num="0061">（3）作为前述的贯通型电容器10-1（包含评价用样本1）,示出了在电容器主体11的露出部分11a以及11b未设置特别的间隔限制的例子,但如果基于贯通型电容器10-1的长度L1来决定这些露出部分11a以及11b的间隔,则对“ESL（等效串联电感）的降低”是有效的。</base:Paragraphs>
+      <base:Paragraphs num="0062">即,在前述的贯通型电容器10-1中,若第一内部导体层15与第二内部电极层16的实质上的电流距离变长,则ESL增加。 但是,在将贯通型电容器10-1的长度设为L1,将电容器主体11的露出部分11a的间隔设为I1,将露出部分11b的间隔设为I2时（L1、I1以及I2参照图2(A)）,如果间隔I1和长度L1满足I1≤0.15×L1的条件,且间隔I2和长度L1满足I2≤0.15×L1的条件,则能够实现上述“ESL的降低”。 顺便说一下,间隔I1和间隔I2在不包含制造公差的设计上的基准尺寸中可以相同,也可以稍微不同。</base:Paragraphs>
+      <base:Paragraphs num="0063">为了确认该“ESL的降低”的有效性（效果）,准备了与上述评价用样品1（长度L1为1000μm,间隔I1和I2双方为125μm）相同的样品B1、减少样品B1的第3外部电极14的尺寸E1而使间隔I1和间隔I2双方为150μm的样品B2、以及减少样品B1的第3外部电极14的尺寸E1而使间隔I1和间隔I2双方为175μm的样品B3。 然后,利用网络分析仪（安捷伦公司制、8753D）调查各100个样品B1～B3的ESL值,结果样品B1的ESL值（平均值）为15pF,样品B2的ESL值（平均值）为18pF,样品B3的ESL值（平均值）为20pF。 即,能够确认满足上述I1≤0.15×L1的条件和I2≤0.15×L1的条件的样品B1和B2与不满足相同条件的样品B3相比,对上述“ESL的降低”有效。</base:Paragraphs>
+      <base:Paragraphs num="0064">《第二实施方式》 
+首先,使用图8～图11,对本发明的第2实施方式涉及的贯通型层叠陶瓷电容器10-2（以下简称为贯通型电容器10-2）的构造以及效果等进行说明。 </base:Paragraphs>
+      <base:Paragraphs num="0065">该贯通型电容器10-2在构造上与前述的贯通型电容器10-1不同之处在于,代替图3(A)所示的第1内部电极层15而使用了形状与其不同的第1内部电极层18（参照图9(A)）。 该不同点以外的构造与前述的贯通型电容器10-1相同,基于该不同点得到的效果以外的效果与由前述的贯通型电容器10-1得到的效果同等,因此省略各自的说明。</base:Paragraphs>
+      <base:Paragraphs num="0066">各第一内部电极层18呈图9(A)所示那样的I字形状,在长度方向一端部（图9(A)的左端部）的宽度方向两侧（图9(A)的上下侧）和长度方向另一端部（图9(A)的右端部）的宽度方向两侧（图9(A)的上下侧）分别一体地具有沿宽度方向延伸的窄幅的引出部18a。 各第一内部电极层18的引出部18a与第二内部电极层16的引出部16a同样地在宽度方向上延伸,因此从图10可知,若在电容器主体10的高度方向一面平行投影第一内部电极层18和第二内部电极层16,则在图10的左下与引出部18a和中央下的引出部16a之间、以及左上的引出部18a和中央上的引出部16a之间形成间隔I3,在图10的右下的引出部18a和中央下的引出部16a之间、以及右下的引出部18a和中央下的引出部16a之间形成间隔I4。</base:Paragraphs>
+      <base:Paragraphs num="0067">根据图11可知,各第一内部电极层18的长度方向一端部、具体而言图9(A)的左下和左上的引出部18a的下端缘和上端缘分别与第一外部电极12的部分12d和部分12e电连接,各第一内部电极层18的长度方向另一端部、具体而言图9(A)的两个右侧引出部18a的下端缘和上端缘分别与第二外部电极13的部分13d和部分13e电连接。</base:Paragraphs>
+      <base:Paragraphs num="0068">前述的贯通型电容器10-2如图10所示,在将电容器主体11的长度设为L2,将平行投影于电容器主体11的高度方向一面的第一内部电极层18的长度方向一方的引出部18a与第二内部电极层16的引出部16a的间隔设为I3,将第一内部电极层18的长度方向另一方的引出部18a与第二内部电极层16的引出部16a的间隔设为I4时,间隔I3和长度L2满足I3≤0.35×L2的条件,并且,间隔I4和长度L2满足I4≤0.35×L2的条件。 顺便说一下,间隔I3和间隔I4在不包含制造公差的设计上的基准尺寸中可以相同,也可以稍微不同。</base:Paragraphs>
+      <base:Paragraphs num="0069">上述的I3≤0.35×L2的条件和I4≤0.35×L2的条件对于“ESL（等效串联电感）的降低”是有效的。 即,在前述的贯通型电容器10-2中,若第一内部导体层18与第二内部电极层16的实质上的电流距离变长,则ESL增加。 但是,如果满足上述的I3≤0.35×L2的条件和I4≤0.35×L2的条件,则能够实现上述“ESL的降低”。</base:Paragraphs>
+      <base:Paragraphs num="0070">为了确认该“ESL的降低”的有效性（效果）,准备了将上述评价用样品1（长度L2为960μm）的第一内部电极层15变更为图9(A)所示的第一内部电极层18且改变引出部18a的位置而将间隔I3和间隔I4设为306μm的样品C1、改变样品C1的第一内部电极层18的引出部18a的位置而将间隔I3和间隔I4设为336μm的样品C2、以及改变样品C1的第一内部电极层18的引出部18a的位置而将间隔I3和间隔I4设为366μm的样品C3。 顺便说一下,样品C1～C3中的引出部18a和16a的宽度（沿着图10的长度L2的方向的尺寸）统一为90μm。 然后,利用网络分析仪（安捷伦公司制、8753D）调查各100个样品C1～C3的ESL值,结果样品C1的ESL值（平均值）为13pF,样品C2的ESL值（平均值）为15pF,样品C3的ESL值（平均值）为17pF。 即,能够确认满足上述I3≤0.35×L2的条件和I4≤0.35×L2的条件的样品C1和C2与不满足相同条件的样品C3相比,对上述“ESL的降低”有效。</base:Paragraphs>
+      <base:Paragraphs num="0071">（1）作为前述的贯通型电容器10-2（包含样本C1以及C2）,示出了使用图9(A)所示的第1内部电极层18的情况,但也可以代替该第1内部电极层18而使用图12(A)所示的第1内部电极层19。 也如图12(B)所示,该第一内部电极层19在具有从电容器主体11的长度方向一端到达长度方向另一端的长度这一点上,形状与图9(A)所示的第一内部电极层18不同。 根据图12(B)可知,在使用了该第1内部电极层19的情况下,也与使用了第1内部电极层18的情况同样地,若在电容器主体10的高度方向一面平行投影第1内部电极层19和第2内部电极层16,则在图12(B)的左下的引出部19a与中央下的引出部16a之间、以及左上和引出部19a与中央上的引出部16a之间形成间隔I3,在图12(B)的右下的引出部19a与中央下的引出部16a之间、以及右下的引出部19a与中央下的引出部16a之间形成间隔I4。</base:Paragraphs>
+      <base:Paragraphs num="0072">（2）在前述的贯通型电容器10-2（包含样本C1以及C2）中,能够适当采用在上述&lt;第1实施方式的变形例&gt;的（1）～（3）中说明的条件、即“T1max&gt;T3max的条件和T2max&gt;T3max的条件”、“T3ave≤I1/2的条件和T3ave≤I2/2”、“I1≤0.15×L1的条件和I2≤0.15×L1的条件”,通过采用能够得到同样的效果。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0073">10-1：贯通型层叠陶瓷电容器； 11：电容器主体； 11a、11b：电容器主体的露出部分； 12…第一外部电极 12a…第一外部电极中的覆盖电容器主体的长度方向一面的部分； 12b…第一外部电极中的覆盖电容器主体的高度方向一面的一部分的部分； 12c…第一外部电极中的覆盖电容器主体的高度方向另一面的一部分的部分； 12d…第一外部电极中的覆盖电容器主体的宽度方向一面的一部分的部分、 12e…第一外部电极中的覆盖电容器主体的宽度方向另一面的一部分的部分、 12f：第1外部电极的厚壁部分； 13…第二外部电极 13a…第二外部电极中的覆盖电容器主体的长度方向另一面的部分 13b…第二外部电极中的覆盖电容器主体的高度方向一面的一部分的部分、 13c…第二外部电极中的覆盖电容器主体的高度方向另一面的一部分的部分 13d…第二外部电极中的覆盖电容器主体的宽度方向一面的一部分的部分、 13e…第二外部电极中的覆盖电容器主体的宽度方向另一面的一部分的部分、13f…第二外部电极的厚壁部分、14…第三外部电极、14a…第三外部电极中的覆盖电容器主体的高度方向一面的一部分的部分、14bc…第三外部电极中的覆盖电容器主体的高度方向另一面的一部分的部分、14c…第三外部电极中的覆盖电容器主体的宽度方向一面的一部分的部分、14d…第三外部电极中的覆盖电容器主体的宽度方向另一面的一部分的部分、14e…第四外部电极的厚壁部分、15…第一内部电极层、15a…第一内部电极层的引出部、16…第二内部电极层、16a…第二内部电极层的引出部、17…电介质层、CP…电容部、PP1…第一保护部、PP2…第一保护部、</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="34" wi="80" file="2016127262_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="31" wi="80" file="2016127262_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="29" wi="80" file="2016127262_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="27" wi="80" file="2016127262_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="42" wi="80" file="2016127262_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="26" wi="80" file="2016127262_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="43" wi="80" file="2016127262_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="32" wi="80" file="2016127262_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="29" wi="80" file="2016127262_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="28" wi="80" file="2016127262_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="43" wi="80" file="2016127262_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="30" wi="80" file="2016127262_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>在由长度、宽度及高度规定的大致长方体状的电容器主体内, 一种贯通型层叠陶瓷电容器,设置有多个第一内部电极层和多个第二内部电极层隔着电介质层在高度方向上交替层叠而成的电容部, （1）在所述电容器主体的长度方向一端部以连续地覆盖该电容器主体的长度方向一面、高度方向两面的一部分和宽度方向两面的一部分的方式设置, 第一外部电极,其与所述多个第一内部电极层的长度方向一端部连接； （2）在所述电容器主体的长度方向另一端部以连续地覆盖该电容器主体的长度方向另一面、高度方向两面的一部分以及宽度方向两面的一部分的方式设置, 第二外部电极,其与所述多个第一内部电极层的长度方向另一端部连接； （3）在所述电容器主体的长度方向中央部,以在与所述第1外部电极和所述第2外部电极非接触的状态下连续地覆盖该电容器主体的高度方向两面的一部分和宽度方向两面的一部分的方式设置, （4）在将从高度方向观察所述贯通型层叠陶瓷电容器时的所述第1外部电极的沿着所述电容器主体的长度的尺寸设为E1、将所述第2外部电极的沿着所述电容器主体的长度的尺寸设为E2、将所述第3外部电极的沿着所述电容器主体的长度的尺寸设为E3时,所述尺寸E1和所述尺寸E3满足E1&lt;E3的条件,且所述尺寸E2和所述尺寸E3满足E2&lt;E3的条件。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的贯通型层叠陶瓷电容器,其中,在将从高度方向观察所述贯通型层叠陶瓷电容器时的平面轮廓的总面积设为TAR、将所述第1外部电极的平面轮廓的面积设为AR1、将所述第2外部电极的平面轮廓的面积设为AR2、将所述第3外部电极的平面轮廓的面积设为AR3时,所述总面积TAR、所述面积AR1、所述面积AR2和所述面积AR3满足0.6≤（AR1+AR2+AR3）/TAR≤0.9的条件。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的贯通型层叠陶瓷电容器,其中,所述电容器主体的高度方向两面和宽度方向两面中,所述第一外部电极与所述第三外部电极之间的部分和所述第二外部电极与所述第三外部电极之间的部分分别露出,所述第一外部电极的表面粗糙度、所述第二外部电极的表面粗糙度和所述第三外部电极的表面粗糙度比所述电容器主体的露出部分的表面粗糙度大。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1～3中任一项所述的贯通型层叠陶瓷电容器,其中,所述第一外部电极的与所述电容器主体的长度方向一面的棱线接近的部分的厚度比其他部分的厚度厚,所述第二外部电极的与所述电容器主体的长度方向另一面的棱线接近的部分的厚度比其他部分的厚度厚,所述第三外部电极的与所述电容器主体的高度方向一面的棱线接近的部分的厚度和与所述电容器主体的高度方向另一面的棱线接近的部分的厚度比其他部分的厚度厚。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1～4中任一项所述的贯通型层叠陶瓷电容器,其中,所述贯通型层叠陶瓷电容器的高度为250μm以下。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1～5中任一项所述的贯通型层叠陶瓷电容器,其中,将所述第1外部电极的高度方向两面部分的最大厚度设为T1max,将所述第2外部电极的高度方向两面部分的最大厚度设为T2max,将所述第3外部电极的高度方向两面部分的最大厚度设为T3max时,所述最大厚度T1max和所述最大厚度T3max满足T1max&gt;T3max的条件,且所述最大厚度T2max和所述最大厚度T3max满足T2max&gt;T3max的条件。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1～6中任一项所述的电容器主体,其中,所述电容器主体的高度方向两面和宽度方向两面中,所述第1外部电极与所述第3外部电极之间的部分和所述第2外部电极与所述第3外部电极之间的部分分别露出,在将所述第3外部电极的高度方向两面部分的平均厚度设为T3ave、将所述电容器主体中的所述第1外部电极与所述第3外部电极之间的露出部分的间隔设为I1、将所述电容器主体中的所述第2外部电极与所述第3外部电极之间的露出部分的间隔设为I2时,所述平均厚度T3ave和所述间隔I1满足T3ave≤I1/2的条件,并且,所述平均厚度T3ave和所述间隔I2满足</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1～7中任一项所述的贯通型层叠陶瓷电容器,其中,所述电容器主体的高度方向两面和宽度方向两面中,所述第1外部电极与所述第3外部电极之间的部分、以及所述第2外部电极与所述第3外部电极之间的部分分别露出,在将所述贯通型电容器的长度设为L1、将所述电容器主体中的所述第1外部电极与所述第3外部电极之间的露出部分的间隔设为I1、将所述电容器主体中的所述第2外部电极与所述第3外部电极之间的露出部分的间隔设为I2时,所述间隔I1和所述长度L1满足I1≤0.15×L1的条件,且所述间隔I2和所述长度L1满足I2≤0.15×L1的条件。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求1～8中任一项所述的贯通型层叠陶瓷电容器,其中,所述多个第一内部电极层呈在长度方向两端部具有沿长度方向延伸的窄幅的引出部的形状,所述多个第二内部电极层呈在宽度方向两端部具有沿宽度方向延伸的窄幅的引出部的形状。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1～8中任一项所述的贯通型层叠陶瓷电容器,其中,所述多个第一内部电极层呈在长度方向两端部的宽度方向两侧具有沿宽度方向延伸的窄幅的引出部的形状,所述多个第二内部电极层呈在宽度方向两端部具有沿宽度方向延伸的窄幅的引出部的形状。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求10所述的贯通型层叠陶瓷电容器,其中,将所述电容器主体的长度设为L2,将平行投影于所述电容器主体的高度方向一面的所述多个第一内部电极层中的长度方向一方的引出部与所述多个第二内部电极层的引出部的间隔设为I3,将所述多个第一内部电极层中的长度方向另一方的引出部与所述多个第二内部电极层的引出部的间隔设为I4时,所述间隔I3和所述长度L2满足I3≤0.35×L2的条件,且所述间隔I4和所述长度L2满足I4≤0.35×L2的条件。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

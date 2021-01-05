@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000514081JP00020165199650AFULJA20160711JP00C.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519965" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519965</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519965</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000514081</base:DocNumber>
+        <base:Date>20140515</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016514081</base:DocNumber>
+        <base:Date>20140515</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002013000823755</base:DocNumber>
+        <base:Date>20130515</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>61/823,755</base:DocNumber>
+        <base:Date>20130515</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>2</business:MainGroup>
+        <business:Subgroup>82</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F   2/82        20130101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>31</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61L  31/00        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61F2/82</business:FI>
+      <business:FI type="secondary">A61L31/00 B</business:FI>
+      <business:FClass>
+        <business:FTerm>4C081AC06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081AC09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081BA16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA101</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA151</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA161</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA171</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA201</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CF062</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CF162</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081DA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167AA54</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167BB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167CC08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167FF05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167GG16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167GG43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C081</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C167</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">可生物吸收的生物医学植入物</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マイセル・テクノロジーズ，インコーポレイテッド</base:Name>
+            <base:RegisteredNumber>500445402</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国ノースカロライナ州27713，ダーラム，キャピトーラ・ドライヴ  801，スウィート  1</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マクレイン，ジェイムズ・ビー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国ノースカロライナ州27960，オクラコーク，ピー・オー・ボックス  13，ブラズ・リッジ・ロード  45</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>奥山  尚一</base:Name>
+            <base:RegisteredNumber>100099623</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>有原  幸一</base:Name>
+            <base:RegisteredNumber>100096769</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>松島  鉄男</base:Name>
+            <base:RegisteredNumber>100107319</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>河村  英文</base:Name>
+            <base:RegisteredNumber>100114591</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>中村  綾子</base:Name>
+            <base:RegisteredNumber>100125380</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="6" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>森本  聡二</base:Name>
+            <base:RegisteredNumber>100142996</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="7" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>田中  祐</base:Name>
+            <base:RegisteredNumber>100166268</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="8" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>徳本  浩一</base:Name>
+            <base:RegisteredNumber>100170379</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="9" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>児玉  真衣</base:Name>
+            <base:RegisteredNumber>100179154</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="10" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>水島  亜希子</base:Name>
+            <base:RegisteredNumber>100180231</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2014038117</base:DocNumber>
+        <base:Date>20140515</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2014186532</base:DocNumber>
+        <base:Date>20141120</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>55</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>公开了可生物吸收的生物医学植入物。 所述植入物包括管状支架,所述管状支架包括多个互连的聚合物支柱。 互连的聚合物支柱限定多个可变形单元。 所述聚合物支柱具有150μm或更小的平均厚度。 还公开了制备可生物吸收的生物医学植入物的方法,包括制备用于管状支架的纤维增强聚合物复合材料的方法。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本申请要求2013年5月15日提交的美国临时申请号61/823,755的权益,其内容通过引用整体并入本文。</base:Paragraphs>
+      <base:Paragraphs num="0002">本公开涉及由聚合物复合材料构成的生物可吸收支架、以及该生物可吸收支架的制造方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:InventionSummary>
+      <base:Paragraphs num="0003">根据本公开的一个方面,生物医学植入物被公开为包含管状支架,所述管状支架包含多个互连的聚合物支柱。多个互连的聚合物支柱限定多个可变形单元。所述多个聚合物支柱具有150μm或更小的平均厚度。还提供了生物医学植入物,所述生物医学植入物包括管状支架,所述管状支架包括多个聚合物支柱,所述多个聚合物支柱彼此连接并且限定多个可变形单元,其中所述多个聚合物支柱具有150μm或更小的平均厚度,并且其中所述多个聚合物支柱包括纤维增强聚合物复合材料。在一些实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少50%。在另一个实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少80%。在一些实施方案中,当在50mmHg压力负荷下在体外暴露于盐水3个月时,所述管状支架保持其公称内腔横截面积的至少50%。在另一个实施方案中,所述管状支架在50mmHg压力负荷下在体内3个月后保持其放置时的内腔横截面积的至少50%。在一些实施方案中,当在50mmHg压力负荷下在体外暴露于盐水6个月时,所述管状支架保持其公称内腔横截面积的至少50%。在另一个实施方案中,所述管状支架在50mmHg压力负荷下在体内6个月后保持其公称内腔横截面积的至少50%。在一些实施方案中,至少80%的所述聚合物支柱在体内放置后两年内被生物吸收。在另一个实施方案中,至少80%的所述聚合物支柱在体内放置后一年内被生物吸收。在一些实施方案中,所述聚合物支柱具有120μm或更小的平均厚度。在另一实施方案中,所述聚合物支柱具有90μm或更小的平均厚度。在一些实施方案中,所述聚合物支柱具有各向异性弹性模量。在改进的形式中,所述聚合物支柱具有在纵向（即,沿着所述聚合物支柱的轴线的方向）上的平均弹性模量和在横向（横向）上的平均弹性模量,其中所述纵向上的平均弹性模量大于所述横向上的平均弹性模量。在另一改进方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少三倍。在另一进一步的改进中,所述平均纵向弹性模量是所述平均横向弹性模量的至少5倍。在又一进一步的改进中,所述平均纵向弹性模量是所述平均横向弹性模量的至少10倍。在一些实施方案中,所述聚合物支柱包含纵向（即,沿所述聚合物支柱的轴线的方向）排列的增强纤维。在一些实施方案中,所述聚合物支柱中超过50%的增强纤维是纵向排列的。在另一个实施方案中,所述聚合物支柱中超过70%的增强纤维是纵向对齐的。在另一个实施方案中,所述聚合物支柱中超过90%的增强纤维是纵向对齐的。在一些实施方案中,所述聚合物支柱具有至少60度的平均变形角。在另一实施方案中,所述聚合物支柱具有至少45度的平均变形角。在一些实施方案中,所述聚合物支柱包括纤维增强聚合物复合材料。在一些实施方案中,纤维增强聚合物复合材料包括可生物吸收的聚合物材料和增强纤维材料。在一些实施方案中,增强纤维材料是碳纤维材料、碳纳米管材料、生物可吸收的玻璃材料或其组合。在一些实施方案中,碳纳米管材料是多壁碳纳米管材料。在一些实施方案中,增强纤维材料包含促进生物可吸收的聚合物材料和增强纤维材料之间的分子间相互作用的一个或多个表面官能团。在一些实施方案中,一个或多个表面官能团选自-COOH、-OH或其组合。在一些实施方案中,包含一个或多个表面官能团的增强纤维材料是多壁碳纳米管材料。在一些实施方案中,所述增强纤维材料分布在整个所述聚合物支柱中。在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少5倍。在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是可生物吸收的聚合物的拉伸模量的至少三倍。在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少两倍。在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少5倍。在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少三倍。在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少两倍。在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至15重量%的增强纤维材料。在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至10重量%的增强纤维材料。在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至5重量%的增强纤维材料。在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至1.5重量%的增强纤维材料。在一些实施例中,生物可吸收的聚合物材料包括聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共dl-丙交酯）（在一个改进中,生物可吸收的聚合物材料是PLGA。在进一步改进中,PLGA具有72：28至78：22范围内的乳酸单体与乙醇酸单体的比率。在另一进一步改进中,PLGA具有在62：38至68：32范围内的乳酸单体与乙醇酸单体的比率。在另一进一步改进中,PLGA具有在47：53至53：47范围内的乳酸单体与乙醇酸单体的比率。在另一进一步改进中,PLGA具有约8,000道尔顿至约12,000道尔顿的重均分子量。在另一进一步改进中,PLGA具有约12,000道尔顿至约16,000道尔顿的重均分子量。在另一进一步改进中,PLGA具有至多约90,000道尔顿的重均分子量。在另一改进中,生物可吸收的聚合物材料是PLA或LPLA。在另一改进中,生物可吸收的聚合物材料是PGA。在一些实施例中,生物可吸收的聚合物材料（例如,PLGA、LPLA、PLA、PGA）具有至少90,000道尔顿,并且任选地至少100,000道尔顿的重均分子量。在一些实施方案中： 所述聚合物支柱包括： 多元羧酸, 纤维素聚合物； 蛋白质, 多肽、 聚乙烯吡咯烷酮； 无水马来酸聚合物； 聚酰胺, 聚乙烯醇, 聚环氧乙烷, 糖胺聚糖, 多糖、聚酯、 脂肪族聚酯、 聚氨酯, 聚苯乙烯, 共聚物, 硅酮； 含有机硅的聚合物； 聚烷基硅氧烷, 聚原酸酯, 聚酐, 乙烯基单体的共聚物、聚碳酸酯、聚乙烯、聚丙烯、聚乳酸、聚丙交酯、聚乙醇酸、聚乙交酯、聚丙交酯-共-乙交酯、聚己内酯、聚（e-己内酯）、聚羟基丁酸酯戊酸酯、聚丙烯酰胺、聚醚、聚氨酯分散体、聚丙烯酸酯、丙烯酸胶乳分散体、聚丙烯酸、聚甲基丙烯酸烷基酯、聚亚烷基-共-乙酸乙烯酯、聚亚烷基、脂族聚碳酸酯、聚羟基烷酸酯、聚四卤代亚烷基、聚（磷腈）、聚四卤代亚烷基、聚（磷腈）及其混合物、组合物和共聚物。在一些实施方案中,所述管状支架可从未展开直径扩张至标称直径,而不影响所述管状支架的结构完整性。在一个改进中,所述管状支架可以进一步从标称直径扩张到超过展开直径的直径,而不影响所述管状支架的结构完整性。在进一步的改进中,超过展开直径的直径比标称直径大约1.0 mm。在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.5 mm。在一个改进中,所述管状支架可通过设置在所述管状支架内的可膨胀球囊膨胀。在进一步改进中,所述管状支架在标称球囊压力下具有2.25 mm的标称直径。在另一进一步改进中,所述管状支架在标称球囊压力下具有2.5 mm的标称直径。在进一步改进中,所述管状支架在标称球囊压力下具有3.0 mm的标称直径。在另一进一步改进中,所述管状支架在标称球囊压力下具有3.5 mm的标称直径。在另一进一步改进中,所述管状支架在标称球囊压力下具有4.0 mm的标称直径。在另一进一步改进中,所述管状支架在标称球囊压力下具有4.5 mm的标称直径。在一个改进中,所述聚合物支柱包含形状记忆聚合物,其中所述管状支架是自膨胀的。在进一步的改进中,所述管状支架可由于温度变化而自膨胀。在另一个进一步的改进中,所述管状支架可由于所述形状记忆聚合物的结晶度的变化而自膨胀。在一些实施方案中,所述管状支架由单独包含多个支柱的多个正弦聚合物纤维形成。在一个改进中,正弦聚合物纤维在多个连接点处互连。在一些实施方案中,所述管状支架由包含多个支柱的单一聚合物纤维形成。在改进中,单个聚合物纤维包括在多个连接点处互连的多个正弦部分。在一些实施方案中,生物医学植入物还包含掺入管状支架中的药剂。在一种改进中,所述药物是大环内酯免疫抑制剂。在进一步改进中,大环内酯免疫抑制剂是雷帕霉素或其衍生物、前药、水合物、酯、盐、多晶型物、衍生物或类似物。在另一进一步的改进中, 大环内酯免疫抑制剂选自： 雷帕霉素, 40-O-（2-羟乙基）雷帕霉素、 （依维莫司）、 40-O-苄基-雷帕霉素, 40-O-（4’-羟基甲基）苄基-雷帕霉素、 40-O-[4’-（1, 2-二羟乙基）]苄基-雷帕霉素, 40-O-烯丙基-雷帕霉素, 40-O-[3’-（2, 2-二甲基-1, 3-二氧戊环-4(S)-基）-丙-2’-烯-1’-基]-雷帕霉素、 （2’：E, 4’S）-40-O-（4’, 5’-二羟基戊-2’-烯-1’-基）-雷帕霉素、 40-O-（2-羟基）乙氧基羰基甲基雷帕霉素, 40-O-（3-羟基）丙基-雷帕霉素, 40-O-（6-羟基）己基-雷帕霉素、 40-O-[2-（2-羟基）乙氧基]乙基-雷帕霉素, 40-O-[（3S）-2, 2-二甲基二氧戊环-3-基]甲基-雷帕霉素, 40-O-[（2S）-2, 3-二羟基丙-1-基]-雷帕霉素, 40-O-（2-乙酰氧基）乙基-雷帕霉素, 40-O-（2-烟酰氧基）乙基-雷帕霉素, 40-O-[2-（N-吗啉代）乙酰氧基]乙基-雷帕霉素, 40-O-（2-N-咪唑基乙酰氧基）乙基-雷帕霉素, 40-O-[2-（N-甲基-N’-哌嗪基）乙酰氧基]乙基-雷帕霉素、 39-O-去甲基-39, 40-O,O-亚乙基-雷帕霉素、（26R）-26-二氢-40-O-（2-羟基）乙基-雷帕霉素、28-O-甲基-雷帕霉素、40-O-（2-氨基乙基）-雷帕霉素、40-O-（2-乙酰氨基乙基）-雷帕霉素、40-O-（2-（N-甲基-咪唑并-2’-基硼杂环己酰胺）乙基）-雷帕霉素、40-O-（2-乙氧基羰基氨基乙基）-雷帕霉素、40-O-（2-甲苯基磺酰胺乙基）-雷帕霉素、40-O-[2-（4’,5’-二碳乙氧基-1’,2’,3’-三唑-1’-基）-乙基]-雷帕霉素、42-Epi-（四唑基）雷帕霉素（他在一个改进中,药物是雷帕霉素。在一个改进中,所述药物浸渍在所述管状支架的至少一部分中。在进一步的改进中,所述药物浸渍在所述聚合物支柱中。在进一步的改进中,药剂均匀地分布在整个聚合物支柱中。在一个改进中,所述管状支架的至少一部分涂覆有包含药剂的涂层。在进一步的改进中,涂层进一步包含涂层聚合物。在进一步的改进中,所述药物的至少90%的表面积被包封在所述涂层聚合物中。在进一步的改进中,涂层聚合物包括生物可吸收的聚合物。在进一步的改进中,生物可吸收的聚合物选自聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA）、聚（乙交酯-共在进一步的改进中,可生物降解的聚合物选自PLGA、聚精氨酸及其混合物。在一些实施方案中,生物医学植入物是血管支架。在另一个实施方案中,生物医学植入物是冠状动脉支架。在另一个实施方案中,生物医学植入物是外周动脉支架。在另一个实施方案中,生物医学植入物是非血管性支架。在一种改进中,非血管支架选自食道支架、胆道支架、十二指肠支架、结肠支架和胰腺支架。根据本公开的另一方面,公开了一种用于形成生物医学植入物的方法。所述方法包括形成包含生物可吸收聚酯材料和增强纤维材料的一种或多种聚合物纤维,并且将所述聚合物纤维互连以形成管状支架,其中所述管状支架包括用于限定多个可变形孔的多个互连的聚合物支柱,所述聚合物支柱具有150μm或更小的平均厚度。在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少50%。在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少80%。在一些实施方案中,增强纤维材料是碳纤维材料、碳纳米管材料、生物可吸收的玻璃材料或其组合。在一些实施方案中,碳纳米管材料是多壁碳纳米管材料。在一些实施方案中,增强纤维材料包含促进生物可吸收的聚合物材料和增强纤维材料之间的分子间相互作用的一个或多个表面官能团。在一些实施方案中,一个或多个表面官能团选自-COOH、-OH或其组合。在一些实施方案中,包含一个或多个表面官能团的增强纤维材料是多壁碳纳米管材料。在一些实施方案中,聚合物纤维包含0.1重量%至15重量%的增强纤维材料。在一些实施方案中,聚合物纤维包含0.1重量%至10重量%的增强纤维材料。在一些实施方案中,聚合物纤维包含0.1重量%至5重量%的增强纤维材料。在一些实施方案中,聚合物纤维包含0.1重量%至1.5重量%的增强纤维材料。</base:Paragraphs>
+      <base:Paragraphs num="0004">在一些实施方案中,聚酯是聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA）、 在一些实施例中,聚酯是PLGA。 在一些实施例中,聚酯是PLA或LPLA。 根据本公开的另一方面,公开了另一种制备生物可吸收的管状支架的方法。 该方法包括形成包含可生物吸收的聚酯材料和增强纤维材料的组合物,挤出所述组合物以形成聚合物管,其中所述聚合物管具有150μm或更小的平均壁厚,并且移除所述聚合物管的一部分以形成包含互连支柱的支架。 在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少50%。 在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少80%。 在一些实施方案中,增强纤维材料是碳纤维材料、碳纳米管材料、生物可吸收的玻璃材料或其组合。 在一些实施方案中,碳纳米管材料是多壁碳纳米管材料。 在一些实施方案中,增强纤维材料包含促进生物可吸收的聚合物材料和增强纤维材料之间的分子间相互作用的一个或多个表面官能团。 在一些实施方案中,一个或多个表面官能团选自-COOH、-OH或其组合。 在一些实施方案中,包含一个或多个表面官能团的增强纤维材料是多壁碳纳米管材料。 在一些实施方案中,聚合物管包含0.1重量%至15重量%的增强纤维材料。 在一些实施方案中,聚合物管包含0.1重量%至10重量%的增强纤维材料。 在一些实施方案中,聚合物管包含0.1重量%至5重量%的增强纤维材料。 在一些实施方案中,聚合物管包含0.1重量%至1.5重量%的增强纤维材料。 在一些实施方案中,聚酯是聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA）、 在一些实施例中,聚酯是PLGA。 在一些实施例中,聚酯是PLA或LPLA。 在一些实施例中,移除步骤选自激光切割方法、光化学蚀刻方法和水射流处理方法。</base:Paragraphs>
+      <base:Paragraphs num="0005">本说明书中提及的所有出版物和专利申请通过引用并入本文,其程度与每个单独的出版物或专利申请被具体地和单独地呈现为通过引用并入的程度相同。</base:Paragraphs>
+    </business:InventionSummary>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0006">下面更详细地描述本公开。 该描述不旨在作为关于可以实践本公开的每个不同方式或可以添加到本公开中的所有特征的详细目录。 例如,关于一个实施例描述的特征可以并入其他实施例中,并且关于特定实施例描述的特征可以从该实施例中排除。 此外,在不脱离本公开的情况下,根据本公开,对本文提出的各种实施例的许多变化和添加对于本领域技术人员将是显而易见的。 因此,以下说明书旨在描述本公开的一些特定实施例,而不旨在穷举地定义其所有排列、组合和变化。</base:Paragraphs>
+      <base:Paragraphs num="0007">生物可吸收的生物医学植入物,例如由不含金属结构增强的聚合物组成的支架,提供了比基于金属的生物医学植入物更合乎需要的一些特征。 然而,生物可吸收的聚合物支架的开发仍然是当今的挑战。 由于用于制备聚合物支架的生物可吸收的聚合物材料通常比金属（例如,钢）更脆弱,因此具有与金属支架类似的结构强度和完整性的聚合物支架需要由平均厚度大于金属支柱厚度（例如,大于或显著大于150μm）的聚合物支柱组成。</base:Paragraphs>
+      <base:Paragraphs num="0008">本公开认为,增加的支柱厚度改善了支架的结构强度和完整性,但可能不利地影响一个或多个聚合物支架的所需特征。 例如,随着支撑件的厚度增加,整体支架轮廓可能变得更大,并且可能导致较不柔韧的支架,因此在部署之前血管内引导可能变得更困难。 增加的支杆厚度也会降低可变形性,从而限制了放置范围（例如,血管支架内的过扩张率小于标称直径的10%,或小于约0.5 mm）。 进而,如果支柱的厚度增加,则为了完全溶解或分解,有可能需要更长时间、例如3～5年等。</base:Paragraphs>
+      <base:Paragraphs num="0009">根据本公开的一个方面,生物医学植入物被公开为包含管状支架,所述管状支架包含多个互连的聚合物支柱。 多个互连的聚合物支柱限定多个可变形单元。 所述多个聚合物支柱具有150μm或更小的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0010">平均支柱厚度：在一些实施方案中,所述多个聚合物支柱具有不大于150μm的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有140μm或更小的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有130μm或更小的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有120μm或更小的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有不大于110μm的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有不大于100μm的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有不大于90μm的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有80μm或更小的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有70μm或更小的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有不大于60μm的平均厚度。 在另一实施方案中,所述多个聚合物支柱具有不大于50μm的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0011">在一些实施方案中,所述多个聚合物支柱具有从50μm至约150μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从60μm至约150μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从70μm至约150μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从80μm至约150μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从90μm至约150μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从100μm至约150μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从110μm至约150μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从120μm至约150μm的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0012">在一些实施方案中,所述多个聚合物支柱具有从50μm至约120μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从60μm至约120μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从70μm至约120μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从80μm至约120μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从90μm至约120μm的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0013">在一些实施方案中,所述多个聚合物支柱具有从50μm至约100μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从60μm至约100μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从70μm至约100μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从80μm至约100μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从90μm至约100μm的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0014">在一些实施方案中,所述多个聚合物支柱具有从50μm至约90μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从60μm至约90μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从70μm至约90μm的平均厚度。 在一些实施方案中,所述多个聚合物支柱具有从80μm至约90μm的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0015">所公开的生物可吸收的生物医学植入物的结构强度和完整性可以通过以下方法中的一种或组合来表征。</base:Paragraphs>
+      <base:Paragraphs num="0016">进行该测试以确定作为环境压力的函数的支架内径的变化并用图形表示,并且确定对于所公开的支架而言变形不再完全可逆的压力。 将支架放置在标称压力下并从递送系统移除。 将支架放置在比支架直径大约1mm的套管中。 然后施加真空,并且在不同的压力下进行外径测量。 根据本公开的生物可吸收植入物应在50mmHg的压力后最小维持初始支架直径的至少50%。 根据本公开的一些生物可吸收植入物应在50mmHg的压力后保持初始支架直径的至少80%的最小值。</base:Paragraphs>
+      <base:Paragraphs num="0017">进行该测试以量化弹性回缩量。 将支架输送系统充气至标称压力（9ATM）并移除支架以产生回缩。 记录支架每一端的内径。 从回缩前的内径减去回缩后的支架内径来计算回缩。</base:Paragraphs>
+      <base:Paragraphs num="0018">进行该测试以确定当支架从压缩轮廓膨胀到最终展开后的最大直径（即,超过展开直径的直径）时,所经历的塑性变形是否会导致所公开的支架的破裂。 使每个递送系统膨胀,直到球囊失效,并且将样品支架展开并放置到其最大可能直径。 在45x放大倍数下检查每个支架的裂纹可能性。</base:Paragraphs>
+      <base:Paragraphs num="0019">进行该测试以证明在或低于将支架充气至其标记直径所需的压力下,递送系统（其上附接有支架）不会失去球囊、轴、近端顺应性或近端/远端密封性的完整性。 将已经历所有制造和灭菌程序的支架递送系统加压至90psi,保持压力15秒并释放3秒。 然后重复该循环,并且每个循环将膨胀压力增加15psi直至失效。</base:Paragraphs>
+      <base:Paragraphs num="0020">在一些实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少50%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少60%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少70%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少80%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少90%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少95%。</base:Paragraphs>
+      <base:Paragraphs num="0021">在一些实施方案中,当在50mmHg压力负荷下在体外暴露于盐水2个月时,所述管状支架保持其公称内腔横截面积的至少50%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下在体内2个月后保持其公称内腔横截面积的至少50%。</base:Paragraphs>
+      <base:Paragraphs num="0022">在一些实施方案中,当在50mmHg压力负荷下在体外暴露于盐水3个月时,所述管状支架保持其公称内腔横截面积的至少50%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下在体内3个月后保持其公称内腔横截面积的至少50%。</base:Paragraphs>
+      <base:Paragraphs num="0023">在一些实施方案中,当在50mmHg压力负荷下在体外暴露于盐水4个月时,所述管状支架保持其公称内腔横截面积的至少50%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下在体内4个月后保持其公称内腔横截面积的至少50%。</base:Paragraphs>
+      <base:Paragraphs num="0024">在一些实施方案中,当在50mmHg压力负荷下在体外暴露于盐水6个月时,所述管状支架保持其公称内腔横截面积的至少50%。 在另一个实施方案中,所述管状支架在50mmHg压力负荷下在体内6个月后保持其公称内腔横截面积的至少50%。</base:Paragraphs>
+      <base:Paragraphs num="0025">在一些实施方案中,所述多个聚合物支柱包括纤维增强聚合物复合材料。 在一种改进的形式中,纤维增强聚合物复合材料包括生物可吸收的聚合物材料和增强纤维材料。 在进一步的改进中,增强纤维材料是碳纤维材料或碳纳米管材料。</base:Paragraphs>
+      <base:Paragraphs num="0026">在一些实施方案中,碳纳米管材料是多壁碳纳米管材料。</base:Paragraphs>
+      <base:Paragraphs num="0027">在一些实施方案中,增强纤维材料分布在所述多个聚合物支柱上。</base:Paragraphs>
+      <base:Paragraphs num="0028">碳纤维（有时也称为石墨纤维、碳石墨或CF）是由直径约5～10μm的纤维构成的材料,主要由碳原子构成。 碳原子在晶体中键合在一起,所述晶体大致平行于纤维的长轴排列。 晶体的对齐为纤维提供了高的强度与体积比（强度相对于其尺寸增加）。 数千根碳纤维被捆绑在一起以形成绳,该绳可以原样使用或被编织成织物使用。</base:Paragraphs>
+      <base:Paragraphs num="0029">每根碳丝纱线是由数千根碳丝组成的束。 单一的这样的长丝是直径为5～8微米的细管,另外,主要由碳构成。 最初世代的碳纤维（例如,T300、HTA和AS4）的直径为7～8微米。 后续纤维（例如IM6或IM600）的直径约为5微米。</base:Paragraphs>
+      <base:Paragraphs num="0030">碳纤维的原子结构与由以正六边形的图案配置的片状的碳原子构成的石墨（石墨烯片）的结构类似。 不同之处在于这些片材的连接方式。 石墨是片材彼此平行且规则地重叠而成的结晶性的物质。 片材之间的分子间力是相对弱的范德华力,赋予石墨软且脆弱的特征。 取决于用于制造纤维的前体,碳纤维可以是乱层或石墨状的,或者可以具有石墨状和乱层的部分共存的复合结构。 在乱层碳纤维中,片状的碳原子均处于随机折叠或起皱的状态。 衍生自聚丙烯腈(PAN)的碳纤维是乱层,而衍生自中间相沥青的碳纤维在高于2200℃的温度下热处理后是石墨状的。 乱层碳纤维存在具有高拉伸强度的倾向,另一方面,对于加热处理后的源自中间相沥青的碳纤维而言,杨氏模量高（即,相对于加重时的伸长率的刚性或抵抗性高）,另外,热电导率也高。 碳纤维的主要制造商包括Hexcel、SGL Carbon、Toho Tenax、Toray Industries和Zoltek。 制造商通常根据不同的应用生产不同等级的纤维。</base:Paragraphs>
+      <base:Paragraphs num="0031">碳纤维有时与其他材料组合以形成复合材料。 当与塑料树脂组合并卷绕或模制时,形成具有高强度与重量比的碳纤维增强塑料。 然而,碳纤维增强聚合物复合物还具有高硬度和有时脆性的倾向,这限制了其在需要或需要可变形性的装置和设备（例如可变形医疗植入物）中的使用。 本文公开的技术特征被认为能够开发纤维增强聚合物复合材料,该纤维增强聚合物复合材料单独地或以各种组合的方式具有改善的机械强度（例如,拉伸模量和拉伸强度）,并且在诸如可变形医疗植入物（例如,支架）的应用中具有足够的可变形性。 本文公开的技术特征被认为能够开发纤维增强聚合物复合材料,所述纤维增强聚合物复合材料单独地或以各种组合的方式在期望的时间段内至少基本上是生物可吸收的。</base:Paragraphs>
+      <base:Paragraphs num="0032">碳纳米管(CNT)是具有圆柱形纳米结构的碳的同素异形体。 纳米管被构造为具有高达132,000,000：1的长度与直径比,并且显著大于任何其他材料。 圆柱形碳分子具有在纳米技术、电子器件、光学器件和其他材料科学和技术领域中有用的特殊性质。 特别是,由于其极其优异的热导电性和机械特性、电特性,在碳纳米管中发现了作为针对各种结构材料的添加剂的应用。</base:Paragraphs>
+      <base:Paragraphs num="0033">纳米管被分类为单层纳米管(SWNT)和多层纳米管(MWNT)。 各个纳米管自然地排列成通过范德华力保持在一起的“绳”,更具体地,排列成π-堆叠。 多层纳米管(MWNT)由卷状的多个石墨烯层（同心圆状的管）构成。 有两种模型可用于描述多层纳米管的结构。 在俄罗斯娃娃模型中,片状的石墨以同心圆筒状配置,例如作为较大的（0,17）单层纳米管内的（0,8）单层纳米管(SWNT)。 在羊皮纸模型中,单片石墨围绕其自身卷绕成卷,类似于羊皮纸的卷或卷的新闻纸。 多层纳米管中的中间层的距离接近石墨中的石墨烯层之间的距离,约为。 俄罗斯娃娃型结构更常见。 其单独的壳可以被描述为SWNT,其可以是金属的或半导电的。</base:Paragraphs>
+      <base:Paragraphs num="0034">碳纳米管通常具有非常高的强度和刚度。 碳纳米管也可以与其他材料组合以形成复合材料。 因此,碳纳米管增强的聚合物复合物还具有高硬度并且有时易碎的倾向,这限制了其在需要或需要可变形性的装置和设备（例如可变形医疗植入物）中的使用。 本文公开的技术特征被认为能够开发纤维增强聚合物复合材料,该纤维增强聚合物复合材料单独地或以各种组合的方式具有改善的机械强度（例如,拉伸模量和拉伸强度）,并且在诸如可变形医疗植入物（例如,支架）的应用中具有足够的可变形性。 本文公开的技术特征被认为能够开发纤维增强聚合物复合材料,所述纤维增强聚合物复合材料单独地或以各种组合的方式在期望的时间段内至少基本上是生物可吸收的。</base:Paragraphs>
+      <base:Paragraphs num="0035">适用于本公开的另一种增强纤维材料包括可生物吸收的玻璃材料。 在一些实施例中,生物可吸收的玻璃材料是具有所需拉伸强度和再吸收特性的纺丝或拉制玻璃纤维。 因此,作为生物可吸收聚合物和增强玻璃纤维的增强生物可吸收聚合物基质的玻璃纤维的强度和弹性模量逐渐降低,例如通过逐渐的生物吸收。</base:Paragraphs>
+      <base:Paragraphs num="0036">作为非限制性实例,生物可吸收的玻璃材料包括氧化钙（CaO）和五氧化二磷（P<base:Sub>2</base:Sub>O<base:Sub>5</base:Sub>）的二元混合物,但也可以少量掺入其他组分,例如氟化钙（CaF<base:Sub>2</base:Sub>）、水（H<base:Sub>2</base:Sub>O）和含有阳离子的其他氧化物,例如镁、锌、锶、钠、钾、锂和铝。 关于二元混合物,优选的Ca：P摩尔比为0.25～0.33。 优选玻璃以重量计含有5～50%的CaO、50～95%的P<base:Sub>2</base:Sub>O<base:Sub>5</base:Sub>、0～5%的CaF<base:Sub>2</base:Sub>、0～5%的H<base:Sub>2</base:Sub>O和0～10%的XO,在该情况下,X为单一的镁、锌或锶离子、或者2个钠、钾、锂或铝离子,另外,O为单一的氧离子,但在X为铝的情况下不符合,在该情况下为3个氧离子。 更优选氧化钙（CaO）以重量计为15～25%的量存在,五氧化磷（P<base:Sub>2</base:Sub>O<base:Sub>5</base:Sub>）以重量计为65～90%的量存在,氟化钙（CaF<base:Sub>2</base:Sub>）或水（H<base:Sub>2</base:Sub>O）以重量计为0.1～4%的量存在。</base:Paragraphs>
+      <base:Paragraphs num="0037">在一些实施方案中,增强纤维材料包含促进生物可吸收的聚合物材料和增强纤维材料之间的分子间相互作用的一个或多个表面官能团。 在一些实施方案中,增强纤维经化学改性以提供表面官能团。 不希望受任何特定理论的束缚,据信表面官能团有助于增强纤维的期望取向、增强纤维的期望分布或分散和/或本公开的其他技术特征。</base:Paragraphs>
+      <base:Paragraphs num="0038">在一些实施方案中,一个或多个表面官能团选自-COOH、-OH或其组合。 在一些实施方案中,包含一个或多个表面官能团的增强纤维材料是多壁碳纳米管材料。</base:Paragraphs>
+      <base:Paragraphs num="0039">关于对多层碳纳米管进行化学修饰而包含-COOH的步骤的非限定性事例记载于Li Buay Koh、Isabel Rodriguezb、Subbu S.Venkatramana等人、A novel nanostructured poly（lactic-co-glycolic-acid）-multi-walled carbon nanotube composite for blood-contacting applications：Thrombogenicity studies.Acta Biomaterialia、第5卷、9号、2009年11月、3411～3422页。</base:Paragraphs>
+      <base:Paragraphs num="0040">关于对多层碳纳米管进行化学修饰而包含-COOH或-OH的步骤的非限定性事例记载于Wu,C.S.及Liao,H.T.（2007年）、Study on the preparation and characterization of biodegradable polylactide/multi-walled carbon nanotubes nanocomposites.Polymer、第48卷、15号（2007年7月）、4449～4458页。</base:Paragraphs>
+      <base:Paragraphs num="0041">上述文献的记载内容在本说明书中引用其整体。 此外,根据本文公开的技术特征,可以使用将表面官能团添加到增强纤维上的其他方法。</base:Paragraphs>
+      <base:Paragraphs num="0042">在以下文献中描述了制备纤维增强聚合物复合材料、特别是可生物吸收的聚合物复合材料的方法的非限制性实例。</base:Paragraphs>
+      <base:Paragraphs num="0043">Chlopek,J.； Morawska-Chochol,A.； Bajor,G.； Adwent,M.； Cieslik-Bielecka,A.； Cieslik,M.； Sabat,D.等人,The influence of carbon fibres on the resorption time and mechanical properties of the lactide-glycolide co-polymer,J.Biomater.Sci.Polym.编,2007年,第18卷,1355～1368页。</base:Paragraphs>
+      <base:Paragraphs num="0044">Li Buay Koh、Isabel Rodriguezb、Subbu S.Venkatramana等、A novel nanostructured poly（lactic-co-glycolic-acid）-multi-walled carbon nanotube composite for blood-contacting applications：Thrombogenicity studies.Acta Biomaterialia、第5卷、9号、2009年11月、3411～3422页。</base:Paragraphs>
+      <base:Paragraphs num="0045">Wu,C.S.和Liao,H.T.（2007年）、Study on the preparation and characterization of biodegradable polylactide/multi-walled carbon nanotubes nanocomposites.Polymer、第48卷、15号（2007年7月）、4449～4458页。</base:Paragraphs>
+      <base:Paragraphs num="0046">Hualin Zhang.Electrospun poly（lactic-co-glycolic acid）/multiwalled carbon nanotubes composite scaffolds for guided bone tissue regeneration.Journal of Bioactive and Compatible Polymers、第26号（4）、347～362页、2011年。</base:Paragraphs>
+      <base:Paragraphs num="0047">上述文献的记载内容在本说明书中引用其整体。 此外,根据本文公开的技术特征,可获得制备纤维增强聚合物复合材料的其他方法。</base:Paragraphs>
+      <base:Paragraphs num="0048">在一些实施方案中,包含增强纤维材料显著改善了纤维增强聚合物复合材料的拉伸模量。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少10倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少9倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少8倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少7倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少6倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少5倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是可生物吸收的聚合物的拉伸模量的至少四倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是可生物吸收的聚合物的拉伸模量的至少三倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少两倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸模量是生物可吸收聚合物的拉伸模量的至少1.5倍。</base:Paragraphs>
+      <base:Paragraphs num="0049">在一些实施方案中,包含增强纤维材料显著提高了纤维增强聚合物复合材料的拉伸强度。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是生物可吸收聚合物的拉伸强度的至少10倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少9倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少8倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少7倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少6倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少5倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少四倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少三倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少两倍。 在一些实施方案中,纤维增强聚合物复合材料的拉伸强度是可生物吸收的聚合物的拉伸强度的至少1.5倍。</base:Paragraphs>
+      <base:Paragraphs num="0050">在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至15重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至10重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至5重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至4重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至3重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至2重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至1.5重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至1重量%的增强纤维材料。</base:Paragraphs>
+      <base:Paragraphs num="0051">在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至0.9重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至0.9重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至0.8重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至0.7重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.1重量%至0.6重量%的增强纤维材料。</base:Paragraphs>
+      <base:Paragraphs num="0052">在一些实施方案中,纤维增强聚合物复合材料包含0.2重量%至0.9重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.2重量%至0.9重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.2重量%至0.8重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.2重量%至0.7重量%的增强纤维材料。 在一些实施方案中,纤维增强聚合物复合材料包含0.2重量%至0.6重量%的增强纤维材料。</base:Paragraphs>
+      <base:Paragraphs num="0053">在一些实施方案中,每个聚合物支柱包括沿着聚合物支柱的中心轴线纵向排列的增强纤维。 在一些实施方案中,超过50%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过55%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过60%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过65%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过70%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过75%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过80%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过85%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过90%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。 在一些实施方案中,超过95%的增强纤维沿着所述聚合物支柱的中心轴纵向排列。</base:Paragraphs>
+      <base:Paragraphs num="0054">增强纤维在支柱-纵向上的取向导致聚合物支柱具有各向异性弹性模量。 在一些实施方案中,所述聚合物支柱具有沿所述聚合物支柱的中心轴线的平均纵向弹性模量和垂直于所述聚合物支柱的中心轴线的平均横向弹性模量,其中所述平均纵向弹性模量大于所述平均横向弹性模量。</base:Paragraphs>
+      <base:Paragraphs num="0055">在一个实施例中,所述平均纵向弹性模量是所述平均横向弹性模量的至少两倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少三倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少四倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少5倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少6倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少7倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少8倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少9倍。 在另一个实施方案中,所述平均纵向弹性模量是所述平均横向弹性模量的至少10倍。</base:Paragraphs>
+      <base:Paragraphs num="0056">在一个实施方案中,所述管状支架包含沿着所述管状支架的中心轴轴向对齐的增强纤维。 在一些实施方案中,超过50%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过55%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过60%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过65%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过70%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过75%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过80%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过85%的增强纤维沿所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过90%的增强纤维沿着所述管状支架的中心轴轴向对齐。 在一些实施方案中,超过95%的增强纤维沿所述管状支架的中心轴轴向对齐。</base:Paragraphs>
+      <base:Paragraphs num="0057">增强纤维在支架-轴向上的取向导致管状支架具有各向异性弹性模量。 在一些实施方案中,所述管状支架具有沿所述管状支架的中心轴的平均轴向弹性模量和正交于所述管状支架的中心轴并围绕所述中心轴的平均周向弹性模量,其中所述平均轴向弹性模量大于所述平均周向弹性模量。</base:Paragraphs>
+      <base:Paragraphs num="0058">在一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少两倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少三倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少四倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少5倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少6倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少7倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少8倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少9倍。 在另一个实施方案中,所述平均轴向弹性模量是所述平均周向弹性模量的至少10倍。</base:Paragraphs>
+      <base:Paragraphs num="0059">在一个实施方案中,所述管状支架包含周向排列的增强纤维,即,与所述管状支架的中心轴正交并围绕所述中心轴。 在一些实施方案中,超过50%的增强纤维是周向对齐的。 在一些实施方案中,大于55%的增强纤维是周向对齐的。 在一些实施方案中,超过60%的增强纤维是周向对齐的。 在一些实施方案中,超过65%的增强纤维是周向对齐的。 在一些实施方案中,超过70%的增强纤维是周向对齐的。 在一些实施方案中,超过75%的增强纤维是周向对齐的。 在一些实施方案中,超过80%的增强纤维是周向对齐的。 在一些实施方案中,超过85%的增强纤维是周向对齐的。 在一些实施方案中,超过90%的增强纤维是周向对齐的。 在一些实施方案中,超过95%的增强纤维是周向对齐的。</base:Paragraphs>
+      <base:Paragraphs num="0060">增强纤维在支架-周向方向上的取向导致管状支架具有各向异性弹性模量。 例如,所述管状支架具有沿所述管状支架的中心轴的平均轴向弹性模量和垂直于所述管状支架的中心轴的平均径向弹性模量,其中所述平均周向弹性模量大于所述平均轴向弹性模量。</base:Paragraphs>
+      <base:Paragraphs num="0061">在一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少两倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少三倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少四倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少5倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少6倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少7倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少8倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少9倍。 在另一个实施方案中,所述平均周向弹性模量是所述平均轴向弹性模量的至少10倍。</base:Paragraphs>
+      <base:Paragraphs num="0062">在一些实施方案中,所述聚合物支柱包括凝胶纺丝聚合物材料。 在一种改进的形式中,所述聚合物支柱没有用金属材料在结构上加强。 在进一步的改进中,凝胶纺丝聚合物材料包含聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（</base:Paragraphs>
+      <base:Paragraphs num="0063">在一种改进形式中,凝胶纺丝聚合物材料是PLGA。 在进一步改进中,PLGA具有82：18至88：12范围内的乳酸单体与乙醇酸单体的比率。 在进一步改进中,PLGA具有72：28至78：22范围内的乳酸单体与乙醇酸单体的比率。 在另一进一步改进中,PLGA具有在62：38至68：32范围内的乳酸单体与乙醇酸单体的比率。 在另一进一步改进中,PLGA具有在47：53至53：47范围内的乳酸单体与乙醇酸单体的比率。 在另一进一步改进中,PLGA具有50：50的乳酸单体与乙醇酸单体的比率。</base:Paragraphs>
+      <base:Paragraphs num="0064">在另一进一步改进中,PLGA具有约8,000道尔顿至约12,000道尔顿的重均分子量。 在另一进一步改进中,PLGA具有约12,000道尔顿至约16,000道尔顿的重均分子量。 在另一进一步改进中,PLGA具有至多约90,000道尔顿的重均分子量。 在另一改进中,所述凝胶纺丝聚合物材料是PLA或LPLA。 在另一改进中,所述凝胶纺丝聚合物材料是PGA。 在一些实施方案中,凝胶纺丝聚合物材料（例如,PLGA、LPLA、PLA、PGA）的重均分子量为至少90,000道尔顿,任选地至少100,000道尔顿。</base:Paragraphs>
+      <base:Paragraphs num="0065">在一些实施方案中： 所述聚合物支柱包括： 多元羧酸, 纤维素聚合物； 蛋白质, 多肽、 聚乙烯吡咯烷酮； 无水马来酸聚合物； 聚酰胺, 聚乙烯醇, 聚环氧乙烷, 糖胺聚糖, 多糖、聚酯、 脂肪族聚酯、 聚氨酯, 聚苯乙烯, 共聚物, 硅酮； 含有机硅的聚合物； 聚烷基硅氧烷, 聚原酸酯, 聚酐, 乙烯基单体的共聚物、聚碳酸酯、聚乙烯、聚丙烯、聚乳酸、聚丙交酯、聚乙醇酸、聚乙交酯、聚丙交酯-共-乙交酯、聚己内酯、聚（e-己内酯）、聚羟基丁酸酯戊酸酯、聚丙烯酰胺、聚醚、聚氨酯分散体、聚丙烯酸酯、丙烯酸胶乳分散体、聚丙烯酸、聚甲基丙烯酸烷基酯、聚亚烷基-共-乙酸乙烯酯、聚亚烷基、脂族聚碳酸酯、聚羟基烷酸酯、聚四卤代亚烷基、聚（磷腈）、聚四卤代亚烷基、聚（磷腈）及其混合物、组合物和共聚物。</base:Paragraphs>
+      <base:Paragraphs num="0066">此外,聚合物链的取向导致聚合物支柱具有平均变形角,即放置时聚合物支柱之间的平均角度-（负）未放置时聚合物支柱之间的平均角度。 在一些实施方案中,所述聚合物支柱具有至少90度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少85度的平均变形角。 在另一个实施方案中,所述聚合物支柱具有至少80度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少75度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少70度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少65度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少60度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少55度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少50度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少45度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少40度的平均变形角。 在另一实施方案中,所述聚合物支柱具有至少30度的平均变形角。 不希望受任何特定理论的束缚,据信基于预定变形角的聚合物支柱的形状改善了由聚合物链取向聚合物组成的聚合物支架的可变形性。</base:Paragraphs>
+      <base:Paragraphs num="0067">在一些实施方案中,所述管状支架可以从未展开的直径扩张到标称直径,而不影响所述管状支架的结构完整性。 在改进的形式中,所述管状支架可以进一步从标称直径扩张到超过展开直径的直径,而不影响所述管状支架的结构完整性。</base:Paragraphs>
+      <base:Paragraphs num="0068">在进一步的改进中,超过展开直径的直径比标称直径大约1.0 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.9 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.8 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.7 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.6 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.5 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.4 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.3 mm。 在另一个进一步的改进中,超过展开直径的直径比标称直径大约0.2 mm。</base:Paragraphs>
+      <base:Paragraphs num="0069">在一个改进中,所述管状支架可通过设置在所述管状支架内的可膨胀球囊膨胀。 在进一步改进中,所述管状支架在标称球囊压力下具有2.25 mm的展开直径。 在另一进一步改进中,所述管状支架在标称球囊压力下具有2.5 mm的展开直径。 在另一进一步改进中,所述管状支架在标称球囊压力下具有3.0 mm的展开直径。 在另一进一步改进中,所述管状支架在标称球囊压力下具有3.5 mm的展开直径。 在另一进一步改进中,所述管状支架在标称球囊压力下具有4.0 mm的展开直径。 在另一进一步改进中,所述管状支架在标称球囊压力下具有4.5 mm的展开直径。 标称球囊压力可取决于球囊的材料和设计。 作为非限制性实例,标称球囊压力为6个大气压。 在另一个实例中,标称球囊压力为9个大气压。</base:Paragraphs>
+      <base:Paragraphs num="0070">在一个改进中,所述聚合物支柱包含形状记忆聚合物,其中所述管状支架是自膨胀的。 在进一步的改进中,所述管状支架可由于温度变化而自膨胀。 在另一个进一步的改进中,所述管状支架可由于所述形状记忆聚合物的结晶度的变化而自膨胀。</base:Paragraphs>
+      <base:Paragraphs num="0071">在一些实施方案中,所述管状支架由单独包含多个支柱的多个正弦聚合物纤维形成。 在改进的形式中,正弦聚合物纤维在多个连接点处互连。</base:Paragraphs>
+      <base:Paragraphs num="0072">在一些实施方案中,所述管状支架由包含多个支柱的单一聚合物纤维形成。 在一种改进形式中,单个聚合物纤维包括在多个连接点处互连的多个正弦部分。</base:Paragraphs>
+      <base:Paragraphs num="0073">许多形成基于线或细丝的支架的方法可用于制备本文公开的生物可吸收支架。 例如,根据本公开内容,可获得形成Wallstent（Boston Scientific）、S7（Medtronic）、AngioStent（AngioDynamics）、Strecker（Boston Scientific）、Expander（Medicorp）、Horizon Prostatic（Endocare）、Endocoil（InStent）等的方法。</base:Paragraphs>
+      <base:Paragraphs num="0074">在一些实施方案中,生物医学植入物还包含掺入管状支架中的药剂。 在改进的形式中,药物是大环内酯免疫抑制剂。 在进一步改进中,大环内酯免疫抑制剂是雷帕霉素或其衍生物、前药、水合物、酯、盐、多晶型物、衍生物或类似物。 在另一进一步的改进中, 大环内酯免疫抑制剂选自： 雷帕霉素, 40-O-（2-羟乙基）雷帕霉素（依维莫司）、 40-O-苄基-雷帕霉素, 40-O-（4’-羟基甲基）苄基-雷帕霉素、 40-O-[4’-（1, 2-二羟乙基）]苄基-雷帕霉素, 40-O-烯丙基-雷帕霉素, 40-O-[3’-（2, 2-二甲基-1, 3-二氧戊环-4(S)-基）-丙-2’-烯-1’-基]-雷帕霉素、 （2’：E, 4’S）-40-O-（4’, 5’-二羟基戊-2’-烯-1’-基）-雷帕霉素、 40-O-（2-羟基）乙氧基羰基甲基雷帕霉素, 40-O-（3-羟基）丙基-雷帕霉素, 40-O-（6-羟基）己基-雷帕霉素、 40-O-[2-（2-羟基）乙氧基]乙基-雷帕霉素, 40-O-[（3S）-2, 2-二甲基二氧戊环-3-基]甲基-雷帕霉素, 40-O-[（2S）-2, 3-二羟基丙-1-基]-雷帕霉素, 40-O-（2-乙酰氧基）乙基-雷帕霉素, 40-O-（2-烟酰氧基）乙基-雷帕霉素, 40-O-[2-（N-吗啉代）乙酰氧基]乙基-雷帕霉素, 40-O-（2-N-咪唑基乙酰氧基）乙基-雷帕霉素, 40-O-[2-（N-甲基-N’-哌嗪基）乙酰氧基]乙基-雷帕霉素、 39-O-去甲基-39, 40-O,O-亚乙基-雷帕霉素、（26R）-26-二氢-40-O-（2-羟基）乙基-雷帕霉素、28-O-甲基-雷帕霉素、40-O-（2-氨基乙基）-雷帕霉素、40-O-（2-乙酰氨基乙基）-雷帕霉素、40-O-（2-（N-甲基-咪唑并-2’-基硼杂环己酰胺）乙基）-雷帕霉素、40-O-（2-乙氧基羰基氨基乙基）-雷帕霉素、40-O-（2-甲苯基磺酰胺乙基）-雷帕霉素、40-O-[2-（4’,5’-二碳乙氧基-1’,2’,3’-三唑-1’-基）-乙基]-雷帕霉素、42-Epi-（四唑基）雷帕霉素（他 在一个改进中,药物是雷帕霉素。</base:Paragraphs>
+      <base:Paragraphs num="0075">在一个改进中,所述药物浸渍在所述管状支架的至少一部分中。 在进一步的改进中,所述药物浸渍在所述聚合物支柱中。 在进一步的改进中,药剂均匀地分布在整个聚合物支柱中。</base:Paragraphs>
+      <base:Paragraphs num="0076">在一些实施方案中,在复合材料形成聚合物支柱或管状支架之前,将药剂浸渍到纤维增强聚合物复合材料中。 在一些实施方案中,将药剂浸渍到可生物吸收的聚合物中,然后将浸渍的聚合物与增强纤维组合,以形成纤维增强的聚合物复合材料。 在一些实施方案中,在形成纤维增强聚合物复合材料的过程中,将药剂与生物可吸收聚合物和增强纤维组合。</base:Paragraphs>
+      <base:Paragraphs num="0077">在一个改进中,所述管状支架的至少一部分涂覆有包含药剂的涂层。 在进一步的改进中,涂层进一步包含涂层聚合物。 在进一步的改进中,所述药物的至少90%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药物的至少85%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药物的至少80%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药剂的至少75%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药物的至少70%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药物的至少65%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药物的至少60%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药物的至少55%的表面积被包封在所述涂层聚合物中。 在进一步的改进中,所述药物的至少50%的表面积被包封在所述涂层聚合物中。</base:Paragraphs>
+      <base:Paragraphs num="0078">在进一步的实施方案中,所述药剂浸渍在所述管状支架的至少一部分中（例如,均匀地分布在整个所述管状支架上）,并且所述管状支架的至少一部分以如以上段落中所讨论的方式用包含药剂的涂层覆盖。</base:Paragraphs>
+      <base:Paragraphs num="0079">在进一步的改进中,涂层聚合物包括生物可吸收的聚合物。 在进一步的改进中,生物可吸收的聚合物选自聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA）、聚（乙交酯-共 在进一步的改进中,可生物降解的聚合物选自PLGA、聚精氨酸及其混合物。</base:Paragraphs>
+      <base:Paragraphs num="0080">在一些实施方案中,生物医学植入物是血管支架。 在另一个实施方案中,生物医学植入物是冠状动脉支架。 在另一个实施方案中,生物医学植入物是外周动脉支架。 在另一个实施方案中,生物医学植入物是非血管性支架。 在改进的形式中,非血管支架选自食道支架、胆道支架、十二指肠支架、结肠支架和胰腺支架。</base:Paragraphs>
+      <base:Paragraphs num="0081">根据本公开的另一方面,公开了一种用于形成生物医学植入物的方法。 所述方法包括形成包含生物可吸收聚酯材料和增强纤维材料的一种或多种聚合物纤维,并且使所述聚合物纤维互连以形成管状支架,其中所述管状支架包括用于限定多个可变形孔的多个互连的聚合物支柱,并且其中所述聚合物支柱具有150μm或更小的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0082">根据本公开的另一方面,公开了另一种制备生物可吸收的管状支架的方法。 该方法包括形成包含可生物吸收的聚酯材料和增强纤维材料的组合物,挤出所述组合物以形成聚合物管,其中所述聚合物管具有150μm或更小的平均壁厚,并且移除所述聚合物管的一部分以形成包含互连支柱的支架。</base:Paragraphs>
+      <base:Paragraphs num="0083">根据本公开内容的另一方面,公开了一种用于形成生物医学植入物的方法,所述方法由一种或多种聚合物纤维制成。 所述方法包括形成包含生物可吸收聚酯材料和增强纤维材料的一种或多种聚合物纤维,并且使所述聚合物纤维互连以形成管状支架,其中所述管状支架包括用于限定多个可变形孔的多个互连的聚合物支柱,并且其中所述聚合物支柱具有150μm或更小的平均厚度。</base:Paragraphs>
+      <base:Paragraphs num="0084">在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少50%。 在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少80%。</base:Paragraphs>
+      <base:Paragraphs num="0085">在一些实施方案中,增强纤维材料是碳纤维材料或碳纳米管材料。 在一些实施方案中,碳纳米管材料是多壁碳纳米管材料。</base:Paragraphs>
+      <base:Paragraphs num="0086">在一些实施方案中,聚合物纤维包含0.1重量%至15重量%的增强纤维材料。 在一些实施方案中,聚合物纤维包含0.1重量%至10重量%的增强纤维材料。 在一些实施方案中,聚合物纤维包含0.1重量%至5重量%的增强纤维材料。 在一些实施方案中,聚合物纤维包含0.1重量%至1.5重量%的增强纤维材料。</base:Paragraphs>
+      <base:Paragraphs num="0087">在一些实施方案中,聚酯是聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA）、</base:Paragraphs>
+      <base:Paragraphs num="0088">在一些实施例中,聚酯是PLGA。 在一些实施例中,聚酯是PLA或LPLA。</base:Paragraphs>
+      <base:Paragraphs num="0089">根据本公开的另一方面,公开了另一种制备生物可吸收的管状支架的方法。 该方法包括形成包含可生物吸收的聚酯材料和增强纤维材料的组合物,挤出所述组合物以形成聚合物管,其中所述聚合物管具有150μm或更小的平均壁厚,并且移除所述聚合物管的一部分以形成包含互连支柱的支架。</base:Paragraphs>
+      <base:Paragraphs num="0090">在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少50%。 在一些实施方案中,所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少80%。</base:Paragraphs>
+      <base:Paragraphs num="0091">在一些实施方案中,增强纤维材料是碳纤维材料或碳纳米管材料。 在一些实施方案中,碳纳米管材料是多壁碳纳米管材料。</base:Paragraphs>
+      <base:Paragraphs num="0092">在一些实施方案中,聚合物管包含0.1重量%至15重量%的增强纤维材料。 在一些实施方案中,聚合物管包含0.1重量%至10重量%的增强纤维材料。 在一些实施方案中,聚合物管包含0.1重量%至5重量%的增强纤维材料。 在一些实施方案中,聚合物管包含0.1重量%至1.5重量%的增强纤维材料。</base:Paragraphs>
+      <base:Paragraphs num="0093">在一些实施方案中,聚酯是聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA）、</base:Paragraphs>
+      <base:Paragraphs num="0094">在一些实施例中,聚酯是PLGA。 在一些实施例中,聚酯是PLA或LPLA。</base:Paragraphs>
+      <base:Paragraphs num="0095">在一些实施方式中,移除步骤选自激光切割方法、光化学蚀刻方法和水射流处理方法。</base:Paragraphs>
+      <base:Paragraphs num="0096">本文提供了用粉末形式的药物或生物制剂涂覆管状支架（在本节中也称为基质）的方法。 用于喷涂支架的常规方法也是可用的。 例如,在可进行喷涂之前,药物和涂层聚合物可溶于合适的溶剂或互溶剂中。 本文提供了将涂层聚合物和粉末形式的药物或生物剂层压到基材上的方法。 涂覆工艺提供了一种成本有效且有效的方法,用于将一种或多种惰性聚合物和一种或多种药物或生物剂的组合层压到部分或全部基底表面上,以形成具有预定的、期望的厚度、相容性、基本上无缺陷且均匀的涂层,其中涂层的组成是可控的。 特别地,所述涂覆方法解决了现有涂覆方法的问题,所述现有涂覆方法不能在涂覆过程期间在结构和形态上保持层压试剂。</base:Paragraphs>
+      <base:Paragraphs num="0097">在本发明的一个方面,需要将药物或生物制剂层压为干粉。 干粉喷涂是本领域公知的,并且例如在美国专利No.5,470,603、No.6,319,541或No.6,372,246中描述了与静电捕获方法组合的干粉喷涂。 聚合物的层压可以以任何数量的标准程序进行,因为聚合物的形态并不重要,只要其提供具有所需性质（例如,厚度、相容性、无缺陷、均匀性等）的涂层即可。 聚合物的功能主要包括用于涂层的活性成分的惰性载体基质之一。</base:Paragraphs>
+      <base:Paragraphs num="0098">涂覆方法的一个方面包括两种或更多种干粉的组合、RESS和SEDS喷涂技术。</base:Paragraphs>
+      <base:Paragraphs num="0099">涂覆方法的另一个方面涉及将药物以优选的粒度和形式干粉喷涂到与干粉喷涂的聚合物相同的捕获容器中,使得药剂和聚合物的喷涂连续或同时进行。</base:Paragraphs>
+      <base:Paragraphs num="0100">涂覆方法的另一个具体方面涉及将活性生物剂以优选的粒度和具有特定活性的干粉喷涂到与干粉喷涂的聚合物相同的捕获容器中,使得药剂和聚合物的喷涂连续或同时进行。</base:Paragraphs>
+      <base:Paragraphs num="0101">涂覆方法的另一个方面涉及将优选粒度和形式的药剂干粉喷雾到与通过RESS喷雾方法连续或同时喷雾的聚合物相同的捕获容器中。</base:Paragraphs>
+      <base:Paragraphs num="0102">涂覆方法的另一个方面涉及将优选粒度的活性生物剂干粉喷雾到与通过RESS喷雾方法连续或同时喷雾的聚合物相同的捕获容器中,同时具有特定活性。</base:Paragraphs>
+      <base:Paragraphs num="0103">涂覆方法的另一个方面涉及将优选粒度和形式的药剂干粉喷雾到与通过SEDS喷雾方法连续或同时喷雾的聚合物相同的捕获容器中。</base:Paragraphs>
+      <base:Paragraphs num="0104">涂覆方法的另一个方面涉及将优选粒度的活性生物剂干粉喷雾到与通过SEDS喷雾方法连续或同时喷雾的聚合物相同的捕获容器中,同时具有特定活性。</base:Paragraphs>
+      <base:Paragraphs num="0105">在一些实施方案中,在形成涂层中使用的RESS或SEDS方法在基材充电的情况下进行。 在一些实施方案中,用于形成涂层的e-RESS或e-SEDS方法通过在基材和该方法中使用的涂覆设备之间形成电势来进行。 在一些实施方案中,用于形成涂层的RESS或SEDS方法在不对基材充电的情况下进行。</base:Paragraphs>
+      <base:Paragraphs num="0106">在涂覆方法的另一方面,根据上述实施方案的描述,然后在烧结方法中处理涂覆有药物或生物制剂和聚合物的基底。 烧结过程在不影响药物和生物剂的结构和形态完整性的良好条件下进行,并且该过程是指共层压的药物或生物剂和聚合物基质变得连续并与基底粘附的过程。 这通过在这样的条件下用压缩气体、压缩液体或超临界流体处理涂覆的基材来实现,所述条件使得所述涂覆的基材对于聚合物、药物和生物试剂是非溶剂的,除了适合于处理聚合物颗粒以形成连续聚合物涂层的试剂之外。 在不影响药物和生物制剂的结构和形态完整性的条件（例如,温和温度）下,使用良好的液体（例如,超临界二氧化碳）进行烧结过程。 不影响药物和生物制剂的结构和形态完整性的其他烧结过程也可以是本发明的主题。</base:Paragraphs>
+      <base:Paragraphs num="0107">在涂覆方法的另一个方面,期望制备涂层,使得当置于所需的洗脱介质中时,活性成分的释放沿着预定的洗脱曲线发生。 涂层性质可以以各种不同的方式进行修改,以提供所需的洗脱曲线。</base:Paragraphs>
+      <base:Paragraphs num="0108">可以改变涂层聚合物的化学组成以增加或减少允许或限制活性成分洗脱的涂层聚合物的进料量。 例如,在设想的溶出介质包含水的情况下,在水中溶胀的涂层聚合物的含量越多,越能够进行有效成分的更迅速的溶出。 相反,在水性介质中不溶胀的涂层聚合物的含量越高,溶出速率越低。</base:Paragraphs>
+      <base:Paragraphs num="0109">涂层特性也可以通过涂层聚合物层的替换来控制。 将具有不同性质的涂层聚合物的每一层以连续方式层压到基材上。 通过改变层压到每一层的聚合物的性质（例如,层压不同的聚合物）,涂层的洗脱曲线改变。 层数及其在层压中的顺序提供了用于设计具有受控洗脱曲线的涂层的附加手段。</base:Paragraphs>
+      <base:Paragraphs num="0110">涂层性质也可以通过控制聚合物涂层的宏观和/或微观结构（扩散路径）来改变。 这可以通过改变涂覆工艺或通过使用不同的烧结条件来实现。</base:Paragraphs>
+      <base:Paragraphs num="0111">涂覆过程提供了控制一种或几种药物的洗脱的几种方法。 在一些实施方案中,通过分离不同涂层聚合物（例如PEVA/PBMA）来实现受控洗脱。 在另一个实施方案中,通过在烧结过程期间控制条件来实现对洗脱的控制,使得当烧结聚合物基质时,控制该条件以获得不完全烧结,使得涂层在层压时在聚合物颗粒中保留一些颗粒样结构。 不完全烧结可以在涂层中产生孔/间隙,并且提供药物洗脱的附加路径,包括在聚合物周围的药物洗脱,其替代或补充通过聚合物的洗脱。 通过聚合物基质的不完全烧结获得的孔或间隙的尺寸可以通过几种方法获得。 例如,在其中进行烧结过程的容器的减压速率提供了控制孔径的一种手段。 涂层中的空腔或孔的尺寸可以通过利用致孔剂作为添加剂并随后除去至少一部分致孔剂来控制,例如用致孔剂的溶剂处理。 优选地,致孔剂溶剂包含浓缩气体（例如,碳）。 在一些实施方案中,致孔剂是SOA或其他这样的疏水衍生的碳水化合物。 至少一部分致孔剂去除优选在烧结过程期间进行。</base:Paragraphs>
+      <base:Paragraphs num="0112">在本发明的一些方面,活性成分的洗脱曲线可以通过改变涂层聚合物的粒度来控制。 因此改变将聚合物颗粒层压到基底上的方法以提供所需的洗脱速率。 例如,如果通过同一喷嘴同时释放多种聚合物,则从超临界溶液中释放RESS通常导致小的聚合物颗粒。 以RESS样方式从压缩气体中的混合物中释放通常产生较大的聚合物颗粒。 使用SEDS方法可导致不同的聚合物粒度,这取决于所采用的特定SEDS条件。</base:Paragraphs>
+      <base:Paragraphs num="0113">在涂覆方法的另一方面,活性成分的洗脱曲线可通过改变涂覆聚合物颗粒形状来控制。 实现聚合物颗粒的形状变化的一种方法包括改变聚合物的初始浓度。 当初始浓度低时,聚合物作为小颗粒层压。 随着浓度的增加,形成更大的颗粒。 在较高的浓度下,所形成的颗粒变得拉长,并且在较高的浓度下,拉长的特征变得纤维状,最终成为连续的纤维。</base:Paragraphs>
+      <base:Paragraphs num="0114">在涂覆方法的其他方面,活性成分的洗脱曲线可以通过在化学上不同的聚合物中构建其各个域来控制。 如上所述,化学上不同的聚合物允许或限制活性成分在不同洗脱介质中的洗脱。 通过改变此类聚合物在涂层内的各个宏观域中的位置,可以调节洗脱曲线。 例如,在其中通过同一喷嘴连续释放两种不同聚合物的方法中,可以层压任一聚合物的颗粒,使得它们位于例如基底上的涂层的外部、内部或中心附近。 在另一个实施方案中,两种聚合物可以通过两个不同的喷嘴以不同和/或交替的层压速率同时释放,导致类似的效果。 在另一个实施方案中,可洗脱聚合物和不可洗脱聚合物的交替层压导致可变的所得释放。 在其他实施方案中,聚合物被层压以提供活性成分的脉动释放。 为了药物扩散的目的,提供不同区域的一种或多种聚合物的分离可以通过例如通过同一喷嘴连续喷射聚合物或使用多个喷嘴来实现。 另外,如上所述,活性成分的溶出控制可以通过在涂层的深度方向上使不同的聚合物层状化来实现。 在设计具有受控洗脱特性的涂层时,还考虑了区域分离和深度分层的组合。</base:Paragraphs>
+      <base:Paragraphs num="0115">在任何这些方法中进行的活性成分的层压可以是恒定的,以在整个涂层中提供均匀的分布,或者可以改变活性成分的喷涂,以在涂层内的不同聚合物区域中获得不同量的活性成分。</base:Paragraphs>
+      <base:Paragraphs num="0116">在涂覆方法的另一方面,活性成分的洗脱曲线可以通过改变涂层的烧结条件来控制。 例如,如果烧结不完全,则在聚合物颗粒之间的间隙中产生开放空间或孔,这允许活性成分更快地从涂层中洗脱。 利用烧结条件进行溶出控制的另一种方法包括通过在烧结过程期间发泡来计划地产生不规则涂层。 CO<base:Sub>2</base:Sub>-或异丁烯浸渍的聚合物膜的快速减压处理产生具有增加的孔隙率的涂层,并且还诱导对扩散/洗脱高度“开放”的泡沫聚合物形成。 因此,当操作发泡条件时,则控制孔密度和尺寸,由此可以控制洗脱曲线。</base:Paragraphs>
+      <base:Paragraphs num="0117">涂覆工艺的另一个优点包括能够制备具有受控（拨入式）药物洗脱曲线的支架。 通过在层压结构的每个层内具有不同材料的能力以及在这些层内独立地控制药物的位置的能力,该方法允许支架能够以非常有限的洗脱曲线、程序化的连续和/或平行洗脱曲线释放药物。 此外,本发明允许一种药物的受控洗脱,而不影响第二种药物（或不同剂量的相同药物）的洗脱。</base:Paragraphs>
+      <base:Paragraphs num="0118">结合支架形式或框架的实施例提供了在部署期间以射线照相方式监测支架的能力。 在替代实施例中,支架的内径可以被掩蔽（例如,通过不导电的圆棒）。 这种掩蔽防止附加层出现在支架的内径（腔外）表面上。 所得到的形状被认为是期望的,以允许药物优先朝向血管壁（支架的内腔表面）洗脱,其中抗再狭窄的治疗效果是期望的,但不向腔外表面提供相同的一种或多种抗增殖剂,所述抗增殖剂可能延迟愈合,因此被怀疑是目前DES的迟发性安全问题的原因。</base:Paragraphs>
+      <base:Paragraphs num="0119">涂覆工艺允许使用结合了基于压缩流体技术的层形成、静电捕获和烧结方法的平台。 该平台产生具有增强的治疗和机械性质的药物洗脱支架。 涂覆方法是特别有利的,因为它采用了优化的层压聚合物技术。 特别地,所述涂覆方法允许针对特定药物平台形成单独的层。</base:Paragraphs>
+      <base:Paragraphs num="0120">在本文所述的涂覆方法中,药物和聚合物在单独的步骤中涂覆在支架框架上,尽管该步骤可以同时或交替进行。 这允许活性剂（例如,药物）单独地堆叠在聚合物基质内,从而允许在具有或不具有中间聚合物层的情况下将两种或更多种药物放置在单个医疗装置上。 例如,该平台提供了双组分药物洗脱支架。</base:Paragraphs>
+      <base:Paragraphs num="0121">涂覆方法提供的一些优点包括利用压缩流体（例如超临界流体,例如基于RESS的方法）、无溶剂层压方法、允许低温处理以保持活性剂和聚合物基质的质量的平台、在制造和/或药物洗脱支架的储存期间掺入两种、三种或更多种药物同时最小化由各种药物和/或其添加剂之间发生的直接相互作用引起的不利影响的能力、干式层压方法、增强支架框架上的层的粘附和机械性质、精确层压和快速批处理以及形成复杂结构的能力。</base:Paragraphs>
+      <base:Paragraphs num="0122">涂覆过程可以提供多药物递送平台,其产生稳健、弹性和柔性的药物洗脱支架,其包含抗再狭窄药物（例如莫司或紫杉醇）和抗血栓药物（例如肝素或其类似物）以及充分表征的生物可吸收聚合物。 本文所述的药物洗脱支架部分地通过减少或完全去除血栓形成聚合物以及减少或完全去除可能抑制愈合的残余药物来最小化血栓形成的可能性。</base:Paragraphs>
+      <base:Paragraphs num="0123">如本文所用,除非使用它们的上下文另有说明,否则以下短语通常旨在具有下文所述的含义。</base:Paragraphs>
+      <base:Paragraphs num="0124">术语“生物可吸收的”、“生物可降解的”、“生物腐蚀性的”、“生物可吸收的”和“可吸收的”是本领域公认的同义词。 这些术语在本文中可互换使用。 生物可吸收的聚合物和非生物可吸收的聚合物通常不同之处在于前者可以在使用期间被吸收（例如,降解）。 在某些实施方案中,此类用途涉及体内用途,例如体内治疗,而在某些其他实施方案中,此类用途涉及体外用途。 通常,由生物可降解性引起的降解涉及生物可吸收的聚合物降解成其组成亚基或聚合物消化成较小的非聚合物亚基,例如通过生物化学过程。 在某些实施方案中,生物降解可以通过酶介导、在水存在下的降解（水解）和/或在体内其他化学物质存在下的降解或两者来发生。 聚合物的生物可吸收性可以通过如本文所述的方法或通过本领域技术人员已知的方法在体外显示。 聚合物的生物可吸收性的体外测试不需要活细胞或其他生物材料来显示生物可吸收性（例如,降解、消化）。 因此,吸收（resorbtion）、吸收（resorption）、吸收（absorption）、吸收（absorbtion）、腐蚀也可以与术语“生物可吸收的”、“生物可降解的”、“生物腐蚀性的”和“生物可吸收的”互换使用。 生物可吸收的聚合物的降解机制可包括但不限于本体降解、表面腐蚀及其组合。</base:Paragraphs>
+      <base:Paragraphs num="0125">如本文所用,术语“生物降解”包括两种常见类型的生物降解。 可生物降解的聚合物的降解速率通常部分地取决于多种因素,包括导致任何降解的键联的化学性质、分子量、结晶度、体内稳定性、此类聚合物的交联程度、植入物的物理性质（例如,形状和尺寸）以及施用的方式和位置。 例如,分子量越大,结晶度越高,和/或体内稳定性越高,生物可吸收聚合物的生物降解通常越慢。</base:Paragraphs>
+      <base:Paragraphs num="0126">如本文所用,“降解”是指转化或还原成较不复杂的化合物,例如通过分离化合物的一个或多个原子基团。 涂层的降解可以减少涂层与装置的粘性和粘附性结合,从而促进涂层转移到介入部位。</base:Paragraphs>
+      <base:Paragraphs num="0127">如本文所用,“药物”是指可用作活性剂以预防或治疗疾病（意指哺乳动物中疾病的任何治疗,包括预防疾病,即防止疾病的临床症状发展,抑制疾病,即阻止临床症状发展,和/或减轻疾病,即引起临床症状消退）的各种药物或药物化合物中的任一种。另外,本发明的医药品也可以包含2种以上的药物或医药化合物。药物包括但不限于抗再狭窄药、抗糖尿病药、镇痛药、抗炎药、抗风湿药、抗低血压药、抗高血压药、精神药物、精神稳定剂、止吐药、肌肉松弛剂、糖皮质激素、溃疡性结肠炎或克罗恩病的治疗剂、抗过敏剂、抗生素、抗癫痫药、抗凝血剂、抗真菌剂、镇咳剂、动脉硬化治疗剂、利尿剂、蛋白质、肽、酶、酶抑制剂、痛风治疗剂、激素及其抑制剂、强心苷、免疫治疗剂和细胞因子、缓泻药、降脂药、偏头痛治疗剂、矿物质产品、耳科药物、抗帕金森药、甲状腺治疗剂、解痉剂、血小板聚集抑制剂、维生素、细胞生长抑制剂和转移抑制剂、植物药、化学治疗剂和氨基酸。合适的活性成分的实例包括： 阿卡波糖, 抗原、β-受体阻断剂、 非甾体抗炎药(NSAID)； 强心苷, 乙酰水杨酸, 病毒抑制剂, 阿柔比星, 阿昔洛韦, 顺铂、 放线菌素, α-和β-交感神经兴奋剂； 奥美拉唑, 别嘌呤醇, 前列地尔, 前列腺素, 金刚烷胺, 氨溴索, 氨氯地平, 甲氨蝶呤, S-氨基水杨酸, 阿米替林, 阿莫西林, 阿那曲唑, 阿替洛尔, 硫唑嘌呤, 巴萨拉齐德, 倍氯米松, 倍他司汀, 苯扎贝特, 比卡鲁胺, 地西泮和地西泮衍生物； 布地奈德, 布非沙马克, 丁丙诺啡, 美沙酮, 钙盐, 钾盐, 镁盐, 坎地沙坦, 卡马西平, 卡托普利, 头孢菌素, 西替利嗪, 鹅去氧胆酸, 熊去氧胆酸, 茶碱和茶碱衍生物； 胰蛋白酶, 西咪替丁, 克拉霉素, 克拉维酸, 克林霉素, 氯丁醇, 可乐定, 复方氮唑, 可待因, 咖啡因, 维生素D和维生素D衍生物； 消胆胺, 色甘酸, 香豆素和香豆素衍生物； 半胱氨酸, 阿糖胞苷, 环磷酰胺, 环孢菌素, 环丙孕酮, 阿糖胞苷, 达匹哌唑； 去氧孕烯, 地奈德, 二肼苯哒嗪, 地尔硫卓, 麦角生物碱, 苯海明酸盐, 二甲基亚砜、 聚二甲基硅氧烷、 多潘立酮和多潘立酮衍生物； 多巴胺, 多沙唑嗪, 多柔比星, 多西拉明, 达匹哌唑； 苯并二氮杂类, 双氯芬酸, 糖苷类抗生素、 地昔帕明, 益康唑, ACE抑制剂、 依那普利, 麻黄碱, 肾上腺素, 依泊汀和依泊汀衍生物； 吗啡喃, 钙拮抗剂, 伊立替康, 莫达非尼, 奥利司他, 肽类抗生素； 苯妥英, 利鲁唑, 利塞膦酸盐, 西地那非, 托吡酯, 大环内酯类抗生素、 雌激素和雌激素衍生物； 孕激素和孕激素衍生物； 睾酮和睾酮衍生物； 雄激素和雄激素衍生物； 乙二胺, 依托芬那酯, 依托贝特, 非诺贝特, 依托菲林, 依托泊苷； 泛昔洛韦, 法莫替丁, 非洛地平, 非诺贝特, 芬太尼, 芬替康唑, 促旋酶抑制剂、 氟康唑, 氟达拉滨, 氟桂利嗪, 氟尿嘧啶, 氟西汀, 氟比洛芬, 布洛芬, 氟他胺, 氟伐他汀, 促卵泡素, 福莫特罗, 磷霉素, 呋塞米, 夫西地酸, 加洛帕米, 更昔洛韦, 吉非罗齐, 庆大霉素, 银杏, 圣约翰, 格列本脲, 作为口服抗糖尿病药物的尿素衍生物； 胰高血糖素, 葡糖胺和葡糖胺衍生物； 谷胱甘肽, 甘油和甘油衍生物； 下丘脑激素, 戈舍瑞林, 促旋酶抑制剂、 胍乙啶, 卤芬酯, 氟哌啶醇, 肝素和肝素衍生物； 透明质酸, 肼苯哒嗪, 氢氯噻嗪和氢氯噻嗪衍生物, 水杨酸盐, 羟嗪, 伊达比星, 异环磷酰胺, 丙咪嗪, 吲哚美辛, 吲哚胺, 胰岛素, 干扰素, 碘和碘衍生物, 异康唑, 异丙肾上腺素, 葡萄糖醇和葡萄糖醇衍生物； 伊曲康唑, 酮康唑, 酮洛芬, 酮替芬, 拉西地平, 兰索拉唑, 左旋多巴, 左美沙酮, 甲状腺激素, 硫辛酸和硫辛酸衍生物； 赖诺普利, 利斯利德, 罗非帕明, 洛莫司汀, 洛哌丁胺, 氯雷他定, 马普替林, 甲苯达唑, 美贝贝林, 美克洛嗪, 甲芬那酸, 梅氟金, 美洛昔康, 美吲哚洛尔, 甲丙氨酸, 美罗培南, 美沙拉嗪, 美克辛胺, 甲咪唑, 二甲双胍, 甲氨蝶呤, 哌甲酯, 甲泼尼龙, 甲噻烯, 甲氧氯普胺, 美托洛尔, 甲硝唑, 米安丝林, 咪康唑, 米诺环素, 米诺地尔, 米索前列醇, 丝裂霉素, 咪唑斯汀, 莫昔普利, 吗啡和吗啡衍生物； 月见草,纳布芬, 纳洛酮, 智利定, 萘普生, 那可汀, 游霉素, 新斯的明, 尼麦角林, 尼酮酰胺, 硝苯地平, 尼氟酸, 尼莫地平, 尼莫拉唑, 尼莫司汀, 尼索地平, 肾上腺素和肾上腺素衍生物； 诺氟沙星, Novamine砜, 诺斯卡平, 制霉菌素, 氧氟沙星, 奥氮平, 奥沙拉嗪, 奥美拉唑, 奥莫康唑, 昂丹司琼, 奥沙普洛, 苯唑西林, 羟康唑, 羟甲唑啉, 泮托拉唑, 对乙酰氨基酚, 帕罗西汀； 喷昔洛韦, 口服青霉素, 喷他佐辛, 戊茶碱, 己酮可可碱, 奋乃静, 哌啶, 植物提取物； 吩嗪, 苯那敏, 巴比妥酸衍生物、 苯基丁氮酮, 苯妥英, 皮莫齐德, 销钉辊； 哌嗪, 吡拉西坦, 芘西平, 吡贝地尔, 吡罗昔康, 普拉克索, 普伐他汀, 哌唑嗪, 普鲁卡因, 丙嗪, 丙哌维林, 普萘洛尔, 丙啶酮, 前列腺素, 丙硫酰胺, 罗马林, 喹硫平, 喹那普利, 喹那普利； 雷米普利, 雷尼替丁, 瑞普罗特罗, 利血平, 利巴韦林, 利福平, 利培酮, 利托那韦, 罗匹尼罗, 罗沙替丁, 罗红霉素, 卢斯科金宁, 甜菊苷和甜菊苷衍生物； 沙巴藜芦, 沙丁胺醇, 沙美特罗, 东莨菪碱, 司来吉兰, 西他康唑, 赛丁多, 舍曲林, 硅酸盐, 西地那非, 辛伐他汀, 谷甾醇, 索他洛尔, 鞘氨酸, 司帕沙星, 壮观霉素, 螺旋霉素, 螺普利, 螺内酯, 司他夫定, 链霉素, 硫黄, 舒芬太尼, 舒巴坦, 磺酰胺； 柳氮磺胺吡啶, 舒必利, 舒他西林, 斯鲁蒂姆, 舒马曲坦, 琥珀酰氯铵, 他克林, 他克莫司, 他林洛尔, 他莫昔芬, 牛磺尿苷, 他扎罗汀, 替马西泮, 替尼泊苷, 替诺昔康, 特拉唑嗪, 特比萘芬, 特布他林, 特非那定, 特里普新, 特他洛尔, 四环素, 四唑啉, 可可碱, 茶碱, 丁炔, 噻马唑, 吩噻嗪, 塞特派, 奇加宾, 奇普利多, 丙酸衍生物； 噻氯匹定, 噻吗洛尔, 替硝唑, 硫菌唑, 硫鸟嘌呤, 噻吨酮, 替洛普胺, 替扎尼丁, 妥拉唑啉, 甲苯磺丁脲, 托卡朋, 托萘酯, 托哌立松, 拓扑替康, 托拉塞米, 抗雌激素, 曲马多, 曲马唑林, 群多普利, 反苯环丙胺, 曲匹地尔, 曲唑酮, 曲安西龙和曲安西龙衍生物； 氨苯蝶啶, 三氟哌啶、三氟利嗪、甲氧苄啶、三米帕明、三培那明、三普利嗪、曲磷酰胺、曲曼他嗪、氨丁三醇、曲帕平、曲洛司汀、妥洛特罗、酪胺、替洛曲辛、乌拉匹地、熊去氧胆酸、鹅去氧胆酸、伐昔洛韦、丙戊酸、万古霉素、维库溴铵、伟哥拉、文拉法辛、维拉帕米、阿糖拉滨、比加伐林、维洛沙嗪、长春碱、长春花胺、长春新碱、长春地辛、长春瑞滨、长春西汀、比克地尔、华法林、羟基喹啉烟酸盐、希帕胺、扎鲁司特、扎西他滨、齐多夫定、唑米特参见,例如,美国专利号6,897,205。还参见美国专利No.6,838,528和美国专利No.6,497,729。</base:Paragraphs>
+      <base:Paragraphs num="0128">在本发明的上下文中使用的治疗剂的实例包括： 雷帕霉素, 40-O-（2-羟乙基）雷帕霉素（依维莫司）、 40-O-苄基-雷帕霉素, 40-O-（4’-羟基甲基）苄基-雷帕霉素、 40-O-[4’-（1, 2-二羟乙基）]苄基-雷帕霉素, 40-O-烯丙基-雷帕霉素, 40-O-[3’-（2, 2-二甲基-1, 3-二氧戊环-4(S)-基）-丙-2’-烯-1’-基]-雷帕霉素、 （2’：E, 4’S）-40-O-（4’, 5’-二羟基戊-2’-烯-1’-基）-雷帕霉素、 40-O-（2-羟基）乙氧基羰基甲基雷帕霉素, 40-O-（3-羟基）丙基-雷帕霉素, 40-O-（6-羟基）己基-雷帕霉素、 40-O-[2-（2-羟基）乙氧基]乙基-雷帕霉素, 40-O-[（3S）-2, 2-二甲基二氧戊环-3-基]甲基-雷帕霉素, 40-O-[（2S）-2, 3-二羟基丙-1-基]-雷帕霉素, 40-O-（2-乙酰氧基）乙基-雷帕霉素, 40-O-（2-烟酰氧基）乙基-雷帕霉素, 40-O-[2-（N-吗啉代）乙酰氧基]乙基-雷帕霉素, 40-O-（2-N-咪唑基乙酰氧基）乙基-雷帕霉素, 40-O-[2-（N-甲基-N’-哌嗪基）乙酰氧基]乙基-雷帕霉素、 39-O-去甲基-39, 40-O,O-亚乙基-雷帕霉素、（26R）-26-二氢-40-O-（2-羟基）乙基-雷帕霉素、28-O-甲基-雷帕霉素、40-O-（2-氨基乙基）-雷帕霉素、40-O-（2-乙酰氨基乙基）-雷帕霉素、40-O-（2-（N-甲基-咪唑并-2’-基硼杂环己酰胺）乙基）-雷帕霉素、40-O-（2-乙氧基羰基氨基乙基）-雷帕霉素、40-O-（2-甲苯基磺酰胺乙基）-雷帕霉素、40-O-[2-（4’,5’-二碳乙氧基-1’,2’,3’-三唑-1’-基）-乙基]-雷帕霉素、42-Epi-（四唑基）雷帕霉素（他</base:Paragraphs>
+      <base:Paragraphs num="0129">此外,如果需要,活性成分可以以其药学上可接受的盐或衍生物（意指保留本发明化合物的生物有效性和性质并且不是生物学上或其他方面不期望的盐）的形式使用,并且在手性活性成分的情况下,可以使用光学活性异构体和外消旋或非对映异构体的混合物。</base:Paragraphs>
+      <base:Paragraphs num="0130">如本文所用,“稳定性”是指药物在以其最终产物形式沉积在基材上的聚合物涂层中的稳定性（例如,药物在涂覆的支架中的稳定性）。 术语稳定性定义最终产物形式的药物降解不超过5%。</base:Paragraphs>
+      <base:Paragraphs num="0131">如本文所用,“活性生物制剂”是指最初由生物体产生的物质,其可用于预防或治疗疾病（意指哺乳动物中疾病的任何治疗,包括预防疾病,即防止疾病的临床症状发展,抑制疾病,即阻止临床症状发展,和/或减轻疾病,即引起临床症状消退）。 此外,本发明的活性生物制剂可以包括两种或更多种活性生物制剂,或与药物、稳定剂、化学实体或生物实体组合的活性生物制剂。 虽然活性生物制剂可以最初由生物体产生,但本发明的活性生物制剂也可以是合成制备的或通过组合生物分离和合成修饰的方法制备的。 作为非限制性实例,核酸可以是从生物来源分离的形式,或者可以通过核酸合成领域的技术人员已知的常规技术制备。 此外,可以进一步修饰核酸以含有非天然存在的部分。 活性生物制剂的非限制性实例包括肽、蛋白质、酶、糖蛋白、核酸（包括单链或双链形式的脱氧核糖核苷酸或核糖核苷酸聚合物,并且除非另有限制,否则包括天然核苷酸的已知类似物,其以类似于天然存在的核苷酸的方式与核酸杂交）、反义核酸、脂肪酸、抗微生物剂、维生素、激素、类固醇、脂质、多糖、碳水化合物等。 它们还包括抗再狭窄剂、抗糖尿病剂、镇痛剂、抗炎剂、抗风湿剂、抗低血压剂、抗高血压剂、精神药物、镇静剂、止吐剂、肌肉松弛剂、糖皮质激素、用于治疗溃疡性结肠炎或克罗恩病的药物、抗过敏剂、抗生素、抗癫痫剂、抗凝血剂、抗真菌剂、镇咳剂、用于治疗动脉硬化的药物、利尿剂、蛋白质、肽、酶、酶抑制剂、用于治疗痛风的药物、激素及其抑制剂、强心苷、免疫治疗剂和细胞因子、缓泻药、降脂剂、用于治疗偏头痛的药物、矿物质产品、耳科药物、抗帕金森药物、甲状腺治疗剂、解痉剂、血小板聚集抑制剂、维生素、细胞生长抑制剂和转移抑制剂、植物药物和化学治疗剂,包括但不限于： 优选地,活性生物制剂是肽、蛋白质或酶,包括天然存在的肽、蛋白质和酶的衍生物和类似物。</base:Paragraphs>
+      <base:Paragraphs num="0132">如本文所用,“活性”是指药物或活性生物制剂预防或治疗疾病（意指哺乳动物中疾病的任何治疗,包括预防疾病,即防止疾病的临床症状发展,抑制疾病,即阻止临床症状发展,和/或减轻疾病,即引起临床症状消退）的能力。 因此,药物或活性生物制剂的活性具有治疗或预防价值。</base:Paragraphs>
+      <base:Paragraphs num="0133">如本文所用,“二级、三级和四级结构”定义如下。 本发明的活性生物剂通常具有一定程度的二级、三级和/或四级结构,其取决于试剂的活性。 作为说明性的非限制性实例,蛋白质具有二级、三级和四级结构。 二级结构是指在线性序列中彼此靠近的氨基酸残基的空间排列。 α-螺旋和β-链是二级结构的要素。 三级结构是指在线性序列中间隔较远的氨基酸残基的空间排列和二硫键的模式。 含有多于一条多肽链的蛋白质表现出额外水平的结构组装。 此类蛋白质中的每条多肽链称为亚基。 四级结构是指亚基的空间排列及其接触的性质。 例如,血红蛋白由两条α链和两条β链组成。 众所周知,蛋白质的功能归因于其构象,即原子的三维构型（延长的多肽链没有活性）。 因此,本发明的一个方面是对活性生物制剂进行操纵,同时小心地保持其构象,从而不丧失其治疗活性。</base:Paragraphs>
+      <base:Paragraphs num="0134">如本文所用,“聚合物”是指已经交联或聚合的一系列重复单体单元。 任何合适的聚合物可用于实施本发明。 另外,本发明的聚合物也可以包含2、3、4或其以上的不同的聚合物。 在本发明的一些实施方案中,仅使用一种聚合物。 在一些优选的实施方案中,使用两种聚合物的组合。 为了提供具有不同性质的涂层,聚合物的组合可以采用各种比例。 聚合物化学领域的技术人员知道聚合物化合物的不同性质。 可用于本发明的聚合物的实例包括但不限于聚羧酸、纤维素聚合物、蛋白质、多肽、聚乙烯吡咯烷酮、马来酸酐聚合物、聚酰胺、聚乙烯醇、聚环氧乙烷、糖胺聚糖、多糖、聚酯、聚氨酯、聚苯乙烯、共聚物、硅酮、聚原酸酯、聚酸酐、乙烯基单体的共聚物、聚碳酸酯、聚乙烯、聚丙烯、聚乳酸、聚乙醇酸、聚己内酯、聚羟基戊酸、聚丙烯酰胺、聚醚、聚氨酯分散体、聚丙烯酸酯、丙烯酸胶乳分散体、聚丙烯酸、其混合物和共聚物。 本发明的聚合物包含： 明胶, 壳聚糖, 糊精, 环糊精, 聚（氨基甲酸酯）、聚（硅氧烷）或硅酮、聚（丙烯酸酯）如聚（甲基丙烯酸甲酯）、聚（甲基丙烯酸丁酯）和聚（甲基丙烯酸2-羟基乙酯）、聚（乙烯醇）、聚（乙烯）、聚（烯烃）如聚（异戊二烯）、卤化聚合物如聚（四氟乙烯）、衍生物和共聚物如通常作为产品出售的那些、聚（偏二氟乙烯）、聚（乙酸乙烯酯）、聚（乙烯基吡咯烷酮）、聚（丙烯酸）、聚丙烯酰胺、聚（乙烯-共-乙酸乙烯酯）、聚（乙二醇）、聚（丙二醇）、聚（甲基丙烯酸）等。 此外,合适的聚合物还包括可吸收和/或可再吸收的聚合物,包括以下的组合、共聚物和衍生物： 即,聚丙交酯(PLA)、聚乙交酯(PGA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酐、聚原酸酯、聚（N-（2-羟基丙基）甲基丙烯酰胺）、聚（L-天冬酰胺）等。</base:Paragraphs>
+      <base:Paragraphs num="0135">如本文所用,“治疗上期望的形式”是指沉积在基质上以提供离体储存、体内储存和/或体内释放的最佳条件的药剂的总体形式和结构。 此类最佳条件可包括但不限于延长的保质期、增加的体内稳定性、良好的生物相容性、良好的生物利用度或改变的释放速率。 通常,用于本发明的药物的期望形式是结晶的或半结晶的或非结晶的,但是其形式可以根据许多因素广泛变化,包括但不限于药物的性质、待治疗/预防的疾病、使用前基质的预期储存条件或生物医学植入物在体内的位置。 优选地,至少10%、20%、30%、40%、50%、60%、70%、80%、90%或100%的药物是结晶或半结晶形式。</base:Paragraphs>
+      <base:Paragraphs num="0136">如本文所用,“稳定剂”是指维持或增强生物剂的稳定性的任何物质。 理想地,这些稳定剂被美国食品和药物管理局(FDA)归类为通常认为安全(GRAS)的材料。 稳定剂的实例包括但不限于载体蛋白,例如白蛋白、明胶、金属或无机盐。 可以存在的药学上可接受的赋形剂描述于相关文献中,例如Handbook of Pharmaceutical Additives：An International Guide to More Than 6000 Products by Trade Name,Chemical,Function,and Manufacturer； Michael和Irene Ash（编辑）； Gower Publishing Ltd.； Aldershot,Hampshire,England 1995。</base:Paragraphs>
+      <base:Paragraphs num="0137">如本文所用,“压缩流体”是指在标准温度和大气压下为气体的相当密度（例如,&gt;0.2 g/cc）的流体。 如本文所用,“超临界流体”、“近临界流体”、“近超临界流体”、“临界流体”、“致密流体”或“致密气体”是指在温度为流体的临界温度的至少80%并且压力为流体的临界压力的至少50%的条件下的压缩流体。</base:Paragraphs>
+      <base:Paragraphs num="0138">适用于本发明的表现出超临界或近临界行为的物质的实例包括但不限于卤化和部分卤化的物质,例如二氧化碳、异丁烯、氨、水、甲醇、乙醇、乙烷、丙烷、丁烷、戊烷、二甲醚、氙、六氟化硫、氯氟烃、氢氯氟烃、氢氟烃、全氟烃（例如全氟甲烷和全氟丙烷、氯仿、三氯氟甲烷、二氯二氟甲烷、二氯四氟乙烷）及其混合物。</base:Paragraphs>
+      <base:Paragraphs num="0139">如本文所用,“烧结”是指其中基质的一部分或整个聚合物基质是连续的过程（例如,形成连续的聚合物膜）。 如下所述,控制烧结过程以产生完全共形的连续基质（完全烧结）或产生连续涂层的部分或区域,同时在基质中产生空隙（不连续）。 此外,控制烧结过程以在不同聚合物（例如聚合物A和B）之间获得一些相分离和/或在单独的聚合物颗粒之间产生相分离。 涂层的粘附性能在整个烧结过程中得到改善,并且在使用期间的操作期间涂层与基材的分离的剥离减少。 如下所述,在一些实施方案中,控制烧结过程以导致聚合物基质的不完全烧结。 在涉及不完全烧结的实施方案中,聚合物基质由连续区域和空隙、间隙、空腔、孔隙、凹槽或空隙形成,所述空隙、间隙、空腔、孔隙、凹槽或空隙提供用于隔离在受控条件下释放的治疗剂的空间。 取决于聚合物的性质、聚合物颗粒的尺寸和/或其它聚合物性质,可以使用压缩气体、致密气体、近临界流体或超临界流体。 在一个实例中,二氧化碳用于使用干粉和RESS静电涂覆工艺处理聚合物和药物涂覆的基底。 在另一个实例中,在烧结过程中使用异丁烯。 在其他实例中,使用二氧化碳和异丁烯的混合物。</base:Paragraphs>
+      <base:Paragraphs num="0140">当将非结晶材料加热到高于其玻璃化转变温度的温度时,或者当将结晶材料加热到高于其相变温度的温度时,构成材料的分子变得更可移动,这意味着它们变得更有活性,因此更容易发生反应,例如氧化。 然而,当非结晶材料保持在低于其玻璃化转变温度的温度时,其分子基本上是固定的,因此不具有显著的反应倾向。 类似地,当结晶材料保持在低于其相变温度的温度时,其分子基本上是固定的,因此不具有显著的反应倾向。 因此,在温和条件（例如本文所述的沉积和烧结条件）下处理药物组分使药物组分的交叉反应和降解最小化。 通过本发明的方法最小化的一种类型的反应涉及避免常规溶剂的能力,其结果是通过减少其暴露于自由基、残余溶剂、自氧化引发剂（无论是非结晶、半结晶还是结晶形式）来最小化药物的自氧化。</base:Paragraphs>
+      <base:Paragraphs num="0141">如本文所用,“超临界流体快速膨胀方法”或“RESS”涉及聚合物溶解在压缩流体（通常是超临界流体）中,然后在较低压力（通常是接近大气条件）下快速膨胀到室中。 超临界流体溶液通过小孔的快速膨胀以及伴随的密度降低降低了流体的溶解能力,导致聚合物颗粒的成核和生长。 通过保持腔室内的气体的隔离“云”,腔室的气氛保持电中性。 二氧化碳或其他合适的气体用于防止电荷从基板转移到周围环境。</base:Paragraphs>
+      <base:Paragraphs num="0142">可以通过本发明的方法增强的包含药物和生物制剂的涂层的“整体性质”性质包括例如： 即,粘附性、平滑性、保形性、厚度和组成混溶性。</base:Paragraphs>
+      <base:Paragraphs num="0143">本发明提供了克服或减少当前生物可吸收支架技术的局限性的若干优点。 例如,传统的可生物吸收的聚合物材料固有的局限性与难以形成强的、柔性的、可变形的（例如,球囊可部署的）薄型支架有关。 聚合物通常缺乏高性能金属的强度。 本发明通过在基本上聚合物支架中制造层压结构来克服这些限制。 不希望受任何特定理论或类比的束缚,本发明的支架提供的增加的强度可以通过将胶合板的强度与单张木板的强度进行比较来理解。</base:Paragraphs>
+      <base:Paragraphs num="0144">涉及薄金属支架-框架的本发明的实施方案提供了优点,包括克服大多数聚合物固有的弹性的能力。 在聚合物中获得高的塑性变形率（例如100%）通常是困难的（与弹性变形相比,其中材料具有一些“弹性恢复”到其原始形状）。 再次,不希望受任何理论的束缚,中心金属支架框架（太小且太弱而不能用作支架本身）表现得像塑性可变形支架内部的线,基本上克服了聚合物的任何“弹性记忆”。</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0145">提供以下实施例以使本领域技术人员能够更清楚地理解和实施本发明。 它们不应被视为限制本发明的范围,而仅被视为本发明的说明性和典型。 提供以下实施例以说明所选实施方案。 它们不应被视为限制本发明的范围,而仅被视为本发明的说明性和典型。 因此,尽管通过特定医疗装置或活性物质描述了下面提供的实施例,但是它们适用于本文描述的医疗装置和活性物质的范围。</base:Paragraphs>
+        <base:Paragraphs num="0146">聚合物支架</base:Paragraphs>
+        <base:Paragraphs num="0147">实施例1：在由聚合物管形成的生物可吸收支架的非限制性实施例中,通过从聚合物管激光切割支架设计来制备管状支架。 在一些实施例中,根据本公开,使用聚合物匹配的激光（例如二氧化碳激光束或其他合适的激光切割技术）从聚合物管切割支架设计。 在另一个实施方案中,通过水射流切割或研磨水射流切割从聚合物管切割支架设计。 或者,所述管状支架可以通过光化学蚀刻或化学蚀刻制备。 许多具有槽的管支架设计可用于制造本文公开的生物可吸收支架。 例如,合适的支架设计包括但不限于来自Medtronic的bStent2,来自Biocompatibles Ltd.的BiodivYsio,来自Cordis的Velocity,Palmaz-Schatz 153/154,Palmaz-Schatz Crown,来自Boston Scientific的Express,来自JOMED的JOSTENT Flex,来自Guidant的Multi-Link PENTA、Multi-Link Rx和Multi-Link Vision,以及来自Medinol的NIR和NIR Flex。 根据本公开,其他支架设计也是可用的。</base:Paragraphs>
+        <base:Paragraphs num="0148">实施例2：由聚合物纤维形成的生物可吸收支架在该非限制性实施例中,通过形成包括多个支柱和多个顶部的连续波纹来制备本公开的管状支架。 每个顶部是连接相邻支柱以限定连续波纹的波纹内的弯曲部分或折叠点。 在该示例中,支柱是波纹的基本上直的部分。 在其他示例中,支柱略微弯曲或具有其他形状,例如正弦波。 波纹可以由单个聚合物纤维或细丝或互连的多个聚合物纤维或细丝形成。</base:Paragraphs>
+        <base:Paragraphs num="0149">在形成波纹之后,将波纹缠绕在轴上,其中心轴限定管状支架的纵轴。 波纹可以相对于纵向轴线以非正交的角度缠绕,以形成多个螺旋圈,所述多个螺旋圈通常一起形成螺旋形螺旋线圈。</base:Paragraphs>
+        <base:Paragraphs num="0150">所述管状支架还包括多个连接件,所述多个连接件被配置成连接相邻匝的选定冠部。 在一些实施方案中,所述管状支架每个完整的螺旋转角包含三个连接。 在一些实施方案中,所述管状支架每完整螺旋转角包含4个连接。 在一些实施方案中,所述管状支架每完整螺旋转角包含5个连接。 根据本公开,其他数量的连接和形状是可用的。 在非限制性情况下,通过将所选择的冠部熔合在一起来产生连接。 如本文所用,“熔合”定义为在添加或不添加任何附加材料的情况下加热材料的目标部分,使得目标部分中的材料一起流动并彼此混合,并且当材料冷却到例如室温时,材料的目标部分熔合在一起,达到发生熔合的水平。</base:Paragraphs>
+        <base:Paragraphs num="0151">许多形成基于线或细丝的支架的方法可用于制备本文公开的生物可吸收支架。 例如,根据本公开内容,可获得形成Wallstent（Boston Scientific）、S7（Medtronic）、AngioStent（AngioDynamics）、Strecker（Boston Scientific）、Expander（Medicorp）、Horizon Prostatic（Endocare）、Endocoil（InStent）等的方法。</base:Paragraphs>
+        <base:Paragraphs num="0152">实施例3：进行该测试以确定支架内径随环境压力的变化并用图形表示,并且确定对于所公开的支架而言变形不再完全可逆的压力。 将十五（15）个3.0 mm支架和十五（15）个4.0 mm支架进行所有支架制造程序。 将支架放置在标称压力下并从递送系统移除。 将支架放置在比支架直径大约1mm的套管中。 然后施加真空,并且在不同的压力下进行外径测量。 在施加50mmHg的压力之后,所有样品应保持标称支架直径的至少50%的最小值。</base:Paragraphs>
+        <base:Paragraphs num="0153">实施例4：支架回缩测试进行该测试以确定弹性回缩的量。 每个长度和直径的十五（15）个支架输送系统经受所有制造和灭菌程序。 将支架输送系统充气至标称压力（例如,9ATM）,移除支架并允许发生回缩。 记录支架每一端的内径。 通过从回缩前内径中减去回缩支架的内径来计算回缩。 平均回弹可以在0.002至0.004英寸的范围内。</base:Paragraphs>
+        <base:Paragraphs num="0154">进行该测试以确定当支架从压缩轮廓扩张到最终最大展开直径时所经历的塑性变形是否可导致所公开的支架中的开裂。 通过使每个递送系统膨胀直到球囊破裂,将每个长度和直径的十五（15）个样品以其最大可能直径放置。 在45X放大率下检查每个支架是否有潜在的裂纹。</base:Paragraphs>
+        <base:Paragraphs num="0155">实施例6：最大压力（爆裂测试）测试进行该测试以证明在或低于将支架充气至其标记直径所需的压力下,递送系统（其上附接有支架）不会失去球囊、轴、近端顺应性或近端/远端密封性的完整性。 将已经历所有制造和灭菌程序的支架递送系统加压至90psi,保持压力15秒并释放3秒。 然后重复该循环,并且每个循环将膨胀压力增加15psi,直到发生失效。</base:Paragraphs>
+        <base:Paragraphs num="0156">[实施例7]支柱厚度的分析扫描电子显微镜(SEM) 
+获得如本文所述的涂覆有样品的支架。 可以使用该分析技术评估装置的厚度。 测量多个撑条的厚度以确保再现性并表征涂层和支架。 使用Hitachi S-4800在800V的加速电压下通过SEM观察涂层的厚度。 使用各种放大率。 SEM可在各种放大倍数下提供自顶向下和横截面图像。 </base:Paragraphs>
+        <base:Paragraphs num="0157">可用于在3D中查看纳米X射线计算机断层摄影设备的物理结构的另一种技术是纳米X射线计算机断层摄影（例如,来自SkyScan的那些）。</base:Paragraphs>
+        <base:Paragraphs num="0158">如本文所述,关于显示聚合物涂层的生物吸收性（例如,通过GPC体内测试、HPLC体内测试、GPC体内测试、HPLC体内测试、SEM-FIB测试、拉曼光谱法、SEM和XPS）所呈现的技术,以及对本领域技术人员显而易见的变化和调整,可以另外地和/或替代地用于显示装置的生物吸收性。 用于在3D中观察装置的物理结构的另一种技术是纳米X射线计算机断层摄影（例如,来自SkyScan）,其可用于如本文所述的溶出和/或生物吸收性测试,以显示与溶出/生物吸收之前的扫描相比在每个时间点保留在支架上的涂层的物理结构。</base:Paragraphs>
+        <base:Paragraphs num="0159">药物洗脱聚合物支架</base:Paragraphs>
+        <base:Paragraphs num="0160">在一种体外方法中,获得本文所述的支架。 如下确定洗脱曲线。 将支架置于16mL试管中,并将15mL 10mM PBS（pH 7.4）移液到其上。 将管加盖并在37℃下以8rpm翻转孵育。 然后在指定的时间点（例如,1天、7天、14天、21天和28天）（例如,1周、2周和10周）回收溶液,并在每个时间点用1.5 ml新鲜溶液重新填充以防止饱和。 向收集的缓冲液样品中加入1mL DCM,将管加盖并摇动1分钟,然后以200×G离心2分钟。 弃去上清液,并在温和加热（40℃）和氮气下将DCM相蒸发至干。 将干燥的DCM在1mL 60：40乙腈：水（v/v）中重构并通过HPLC分析。 使用Waters HPLC系统（流动相58：37：5乙腈：水：甲醇,1mL/min,20μL进样,C18Novapak Waters柱,在232nm处检测）进行HPLC分析。</base:Paragraphs>
+        <base:Paragraphs num="0161">在另一种方法中,通过包括使装置与包含乙醇（5%）的洗脱介质接触的程序来确定体外药物洗脱曲线,其中介质的pH为约7.4,并且其中使装置与洗脱介质在约37℃的温度下接触。 包含所述装置的洗脱介质任选地在接触步骤期间搅拌洗脱介质。 至少在指定的时间点（例如,1小时、3小时、5小时、7小时、1天和每天直至28天）（例如,1周、2周和10周）移除装置（和/或移除洗脱介质）。 然后使用UV-Vis测定洗脱介质以确定药物含量。 为了避免洗脱介质的饱和,在每个时间点用新鲜洗脱介质替换洗脱介质。 含有已知量的药物的校准标准物也在洗脱介质中保持与样品相同的时间段,并且在每个时间点用于确定在该时间点洗脱的药物的量（以绝对量和作为洗脱的累积量）。</base:Paragraphs>
+        <base:Paragraphs num="0162">在另一种方法中,通过包括使装置与包含乙醇（20%）和磷酸盐缓冲盐水（80%）的洗脱介质接触的程序来确定体外药物洗脱曲线,其中介质的pH为约7.4,并且其中使装置与洗脱介质在约37℃的温度下接触。 含有装置的洗脱介质任选地在接触步骤期间搅拌洗脱介质。 至少在指定的时间点（例如,每天1小时、3小时、5小时、7小时、1天和28天）（例如,1周、2周和10周）移除装置（和/或移除洗脱介质）。 为了防止饱和,定期（至少在每个时间点和/或在稍后的时间点之间每天）更换洗脱介质。 对于每个时间点,收集的介质汇集在一起。 然后使用HPLC测定洗脱介质以确定药物含量。 为了避免洗脱介质饱和,在每个时间点用新鲜洗脱介质替换洗脱介质。 含有已知量的药物的校准标准物也在洗脱介质中保持与样品相同的时间段,并且在每个时间点用于确定在该时间点洗脱的药物的量（以绝对量和作为洗脱的累积量）。 如果洗脱方法随时间改变药物并在测试时产生药物存在的多个峰,则这些校准标准的使用也将显示这种变化,允许将所有峰相加以给出在该时间段内洗脱的药物的量（以绝对量和作为洗脱的累积量）。</base:Paragraphs>
+        <base:Paragraphs num="0163">为了获得加速的体外洗脱曲线,使用在pH 7.4下包含0.067 mol/L KH<base:Sub>2</base:Sub>PO<base:Sub>4</base:Sub>的18%v/v储备溶液和0.067 mol/L Na<base:Sub>2</base:Sub>HPO<base:Sub>4</base:Sub>的82%v/v储备溶液的加速洗脱缓冲液。 将本文所述的支架扩张,然后在70℃的浴中以70rpm的转速置于1.5 ml该加速洗脱溶液中。 然后在以下时间点回收溶液。 即0分钟、15分钟、30分钟、1小时、2小时、4小时、6小时、8小时、12小时、16小时、20小时、24小时、30小时、36小时和48小时。 为了防止饱和,至少在每个时间点,定期添加新鲜的加速洗脱缓冲液以替换回收和储存的温育缓冲液。 对于使用多个洗脱介质的时间点（在时间点之间更新）,将多个收集的溶液汇集在一起以用二氯甲烷进行液体萃取。 如前所述进行二氯甲烷萃取和HPLC分析。</base:Paragraphs>
+        <base:Paragraphs num="0164">体内描述的兔体内模型在多个时间点被安乐死。 将支架与兔子分离。 将分离的支架置于16mL试管中,将15mL的10mM PBS（pH 7.4）移液到16mL试管上。 向缓冲液中加入1mL DCM,将管加盖并摇动1分钟,然后以200xG离心2分钟。 弃去上清液,并在温和加热（40℃）和氮气下将DCM相蒸发至干。 将干燥的DCM在1mL 60：40乙腈：水（v/v）中重构并通过HPLC分析。 使用Waters HPLC系统（流动相58：37：5乙腈：水：甲醇,1mL/min,20μL进样,C18Novapak Waters柱,在232nm处检测）进行HPLC分析。</base:Paragraphs>
+        <base:Paragraphs num="0165">活性剂的结晶度的存在和/或定量可以通过本领域已知的多种评估方法确定,XRPD、振动光谱（FTIR、NIR、拉曼）、偏振光显微镜、量热法、热分析和固相NMR,但不限于此。</base:Paragraphs>
+        <base:Paragraphs num="0166">对于X射线粉末衍射(XRPD)测量以确定活性剂结晶度的存在,使用316L不锈钢试样制备活性剂和聚合物的涂覆的替代物基材以确定活性剂结晶度的存在和/或定量。 该试样上的涂层等同于本文所述的支架上的涂层。 可类似地制备和测试本文所述的其他材料（例如钴铬合金）的试样。 类似地,可以制备和测试基底,例如支架或本文所述的其他医疗装置。 如果要测试涂覆的支架,则可以纵向切割支架,打开支架并将其平放在样品固持器上。</base:Paragraphs>
+        <base:Paragraphs num="0167">例如,使用Cu Kα辐射,使用X射线粉末衍射仪（例如,Bruker D8Advance X射线衍射仪）进行XRPD分析。 衍射图通常在2～40度2θ之间被收集。 如果需要,使用低背景XRPD样品架以最小化背景噪声。</base:Paragraphs>
+        <base:Paragraphs num="0168">将沉积的活化剂的衍射图与已知结晶活化剂（例如粉末形式的微粉化结晶西罗莫司）的衍射图进行比较。 结晶形式的XRPD图显示强衍射峰,而非结晶形式显示扩散的模糊图。 结晶度以任意的强度单位表示。</base:Paragraphs>
+        <base:Paragraphs num="0169">可用于提供结晶度检测的相关分析技术包括例如F.Unger等人,“Poly（ethylene carbonate）：A thermoelastic and biodegradable biomaterial for drug eluting stent coatings？” Journal of Controlled Release,Volume 117,Issue 3,312-321（2007）中描述的辐射的广角散射（例如,广角X射线散射或WAXS）,其中特定样品特有的技术和技术变化对于本领域技术人员而言是显而易见的。</base:Paragraphs>
+        <base:Paragraphs num="0170">拉曼光谱（一种振动光谱技术）可用于例如化学鉴定、分子结构表征、键效应、固体形式、环境和样品应力的鉴定。 可以从非常少量（&lt;1μm<base:Sup>3</base:Sup>）收集拉曼光谱。 这些光谱允许识别该量中存在的物质。 通过映射或成像（通常可互换使用的术语）解析的化学信息可以通过拉曼显微术来实现。</base:Paragraphs>
+        <base:Paragraphs num="0171">使用拉曼显微术和其他分析技术,例如Balss等人,“Quantitative spatial distribution of sirolimus and polymers in drug-eluting stents using confocal Raman microscopy”J.of Biomedical Materials Research Part A,258-270（2007）中描述的那些和/或Belu等人,“Three-Dimensional Compositional Analysis of Drug Eluting Stent Coatings Using Cluster Secondary Ion Mass Spectroscopy”Anal.Chem.80：624-632（2008）中描述的那些,其全部内容通过引用并入本文。</base:Paragraphs>
+        <base:Paragraphs num="0172">应当理解,需要优化足够的收集时间、激光功率、激光波长、样品步长和显微镜物镜,以获得合适的拉曼高分辨率光谱,以使用例如拉曼显微镜,特别是共焦拉曼显微镜来测试样品。 例如,如本文所述制备样品（涂覆的支架）。 或者,可以在该方法中测试涂覆的试样。 使用拉曼显微镜在涂层上绘制图。 在拉曼成像模式下应用在532nm下使用Nd：YAG的WITec CRM200扫描共聚焦拉曼显微镜。 使用100×干物镜（数值孔径0.90）将激光束聚焦在样品上,并将精确聚焦的激光光斑扫描到样品中。 当激光在每个0.33微米间隔上扫描样品时,使用0.3秒的积分时间收集具有高信噪比的拉曼光谱。 涂层的每个共焦横截面图像显示70μm宽×10μm深的区域,并且由总成像时间为32分钟的6300个光谱的集合产生。</base:Paragraphs>
+        <base:Paragraphs num="0173">为了提供分布的化学图谱,使用来自雷帕霉素（非结晶和结晶）和聚合物样品的参考光谱的多变量分析用于分析光谱数据集。</base:Paragraphs>
+        <base:Paragraphs num="0174">红外(IR)光谱,例如FTIR和ATR-IR,是一种常用的技术,其可以应用于显示例如定量药物含量、样品涂层中药物的分布、涂层中定量聚合物含量和涂层中聚合物的分布。 红外(IR)光谱如FTIR和ATR-IR也可用于例如指示药物的结晶度。 下表列出了用于各种应用的典型IR材料。 这些IR材料用于IR窗口、稀释剂或ATR晶体。</base:Paragraphs>
+        <base:Paragraphs num="0175">
+          <base:TableDetails num="0001">
+            <base:Image id="000002" he="95" wi="170" file="2016519965_000002.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0176">在一个测试中,通过本文所述的方法涂覆结晶ZnSe试样以产生约10微米厚的PDPDP（聚合物、药物、聚合物、药物、聚合物）层压涂层。 使用FTIR分析涂覆的试样。 所得光谱显示结晶药物,如通过与参考药物的结晶形式获得的光谱（即参考光谱）进行比较所确定的。</base:Paragraphs>
+        <base:Paragraphs num="0177">差示扫描量热法(DSC) 
+DSC可以使用本领域技术人员显而易见的标准DSC技术来提供药物（例如雷帕霉素）的结晶度的定性证据。 使用该分析方法,可以显示晶体的熔化（例如,雷帕霉素的晶体熔化-在约185℃至200℃下,熔化热为46.8 J/g或约46.8 J/g）。 熔化热随结晶度百分比而降低。 因此,可以相对于纯样品或相对于由掺有已知量的结晶药物并通过DSC测试的非结晶药物样品产生的校准曲线来确定结晶度的程度。 可通过从支架移除（刮除或剥离）一些药物并使用DSC仪器测试涂层以确定样品与已知标准和/或校准曲线相比的熔融温度和熔化热来测量支架上（至少）结晶药物的存在。 </base:Paragraphs>
+        <base:Paragraphs num="0178">共焦拉曼显微镜可以提供非破坏性深度分析,并且允许获得涂层特异性拉曼光谱特征（Bugay等人,“Raman Analysis of Pharmaceuticals”,在“Applications of Vibrational Spectroscopy in Pharmaceutical Research and Development”编辑Pivonka,D.E.,Chalmers,J.M.,Griffiths,P.R.（2007）Wiley and Sons中）。 在共焦拉曼显微镜中,孔径被放置在所收集的光束的焦点位置处。 该限制限定了场的浅深度部分,从而为数据收集提供了z轴空间分辨率的分辨率。 通过调整开口并在样品内移动焦点,样品内的采样位置移动。 将样品焦点从上表面移动到样品的深处促进了非破坏性深度分析。</base:Paragraphs>
+        <base:Paragraphs num="0179">在超临界流体快速充胀(RESS)实验系列中使用静电捕获证明了在扩张前和扩张后以受控的组成和厚度均匀地涂覆装置（例如支架和球囊）的能力。</base:Paragraphs>
+        <base:Paragraphs num="0180">扫描电子显微镜(SEM) 
+使用Hitachi S-4800在800V的加速电压下通过SEM观察装置。 使用不同的放大率来评估完整性,特别是在高张力区域中。 SEM可以在各种放大倍数下提供自顶向下和横截面图像。 此外,使用该分析技术,还可以评估涂层的均匀性和厚度。 </base:Paragraphs>
+        <base:Paragraphs num="0181">膨胀前和膨胀后的球囊可以例如使用Hitachi S-4800在800V的加速电压下通过SEM观察。 可以使用各种放大倍数来评估层和/或涂层的完整性。</base:Paragraphs>
+        <base:Paragraphs num="0182">具有聚焦离子束(FIB)的扫描电子显微镜(SEM) 
+使用SEM-FIB分析使本文所述的装置和/或通过本文所述的方法制备的装置可视化。 或者,可以在该方法中测试涂覆的试样。 聚焦离子束FIB是允许材料的精确位点特异性切割、铣削和沉积的手段。 FIB可以在环境或低温条件下与SEM结合使用,以产生原位切口,然后是高分辨率成像。 例如,可以在7000x和/或20000x的放大率下获取横截面FIB图像。 均匀厚度的平坦涂层是可见的。 </base:Paragraphs>
+        <base:Paragraphs num="0183">光学显微镜可用于制造和检查装置以及凭经验研究基材的涂层（例如,涂层均匀性）。 使用该分析方法,可以在基质的表面上检查药物的纳米颗粒和/或聚合物。 在烧结之后,可以使用该方法检查涂层,以观察涂层的保形性并证明药物的结晶度。</base:Paragraphs>
+        <base:Paragraphs num="0184">实施例14：涂覆支架（用过或未用过）上的总药物含量的涂覆基底中活性剂的总含量的测定可以使用本文所述的技术和对本领域技术人员显而易见的其他技术进行测试,例如GPC和HPLC技术,以从涂覆基底中提取药物并测定样品中药物的总含量。</base:Paragraphs>
+        <base:Paragraphs num="0185">UV-VIS可用于定量测定涂覆在基底上的雷帕霉素（或另一种活性剂）的量。 可以显示雷帕霉素的UV-Vis光谱,并且可以获得雷帕霉素的校准曲线（例如,在277nmλ的乙醇中）。 然后将雷帕霉素从涂覆的底物溶解在乙醇中,并计算药物的浓度和量。</base:Paragraphs>
+        <base:Paragraphs num="0186">在一个测试中,通过具有UV检测的反相高效液相色谱法（RP-HPLC-UV）测定以微克/底物存在的雷帕霉素（或另一种活性剂）的总量。 通过改变雷帕霉素（或另一种活性剂）的基于文献的HPLC方法来进行分析,这对于本领域技术人员来说是显而易见的。 测试包含本文所述支架和涂层的装置和/或来自本文所述方法的样品（n=10）的平均药物含量。</base:Paragraphs>
+        <base:Paragraphs num="0187">通过考虑以下编号的实施例,可以更好地理解本发明。1.一种生物医学植入物,所述生物医学植入物包括管状支架,所述管状支架包括多个聚合物支柱,所述多个聚合物支柱彼此连接并限定多个可变形单元,所述多个聚合物支柱具有150μm或更小的平均厚度,所述多个聚合物支柱包括纤维增强聚合物复合材料。2.实施方案1的生物医学植入物,其中所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少50%。3.实施方案1的生物医学植入物,其中所述管状支架在50mmHg压力负荷下保持其公称内腔横截面积的至少80%。4.实施方案1的生物医学植入物,其中当在50mmHg压力负荷下在体外暴露于盐水3个月时,所述管状支架保持其公称内腔横截面积的至少50%。5.实施方案1的生物医学植入物,其中所述管状支架在50mmHg压力负荷下在体内3个月后保持其公称内腔横截面积的至少50%。6.实施方案1的生物医学植入物,其中当在50mmHg压力负荷下在体外暴露于盐水6个月时,所述管状支架保持其公称内腔横截面积的至少50%。7.实施方案1的生物医学植入物,其中所述管状支架在50mmHg压力负荷下在体内6个月后保持其公称内腔横截面积的至少50%。8.实施方案1所述的生物医学植入物,其中所述多个聚合物支柱中的至少80%在体内放置后2年内被生物吸收。9.实施方案1所述的生物医学植入物,其中所述多个聚合物支柱中的至少80%在体内放置后一年内被生物吸收。10.实施方案1的生物医学植入物,其中所述多个聚合物支柱具有120μm或更小的平均厚度。11.实施方案1的生物医学植入物,其中所述多个聚合物支柱具有90μm或更小的平均厚度。12.实施方案1的生物医学植入物,其中纤维增强聚合物复合材料包含生物可吸收的聚合物材料和增强纤维材料。13.实施方案12的生物医学植入物,其中所述增强纤维材料是碳纤维材料、碳纳米管材料、生物可吸收玻璃材料或其组合。14.实施方案13的生物医学植入物,其中所述碳纳米管材料是多壁碳纳米管材料。15.实施方案12的生物医学植入物,其中所述增强纤维材料分布在所述多个聚合物支柱上。16.实施方案12的生物医学植入物,其中所述纤维增强聚合物复合材料的拉伸模量是所述生物可吸收聚合物的拉伸模量的至少5倍。17.实施方案12的生物医学植入物,其中所述纤维增强聚合物复合材料的拉伸模量是所述生物可吸收聚合物的拉伸模量的至少3倍。18.实施方案12的生物医学植入物,其中所述纤维增强聚合物复合材料的拉伸模量是所述生物可吸收聚合物的拉伸模量的至少两倍。19.实施方案12的生物医学植入物,其中所述纤维增强聚合物复合材料的拉伸强度是所述生物可吸收聚合物的拉伸强度的至少5倍。20.实施方案12的生物医学植入物,其中所述纤维增强聚合物复合材料的拉伸强度是所述生物可吸收聚合物的拉伸强度的至少3倍。21.实施方案12的生物医学植入物,其中所述纤维增强聚合物复合材料的拉伸强度是所述生物可吸收聚合物的拉伸强度的至少两倍。22.实施方案12的生物医学植入物,其中纤维增强聚合物复合材料包含0.1重量%至15重量%的增强纤维材料。23.实施方案12的生物医学植入物,其中纤维增强聚合物复合材料包含0.1重量%至10重量%的增强纤维材料。24.实施方案12的生物医学植入物,其中纤维增强聚合物复合材料包含0.1重量%至5重量%的增强纤维材料。25.实施方案12的生物医学植入物,其中纤维增强聚合物复合材料包含0.1重量%至1.5重量%的增强纤维材料。26.根据前述权利要求中任一项所述的方法,其中所述生物可吸收的聚合物材料包含聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯27.实施方案26的生物医学植入物,其中所述生物可吸收的聚合物材料是PLGA。28.实施方式27的生物医学植入物,其中所述PLGA具有72：28至78：22的乳酸单体与乙醇酸单体的比率。29.实施方式27的生物医学植入物,其中所述PLGA具有62：38至68：32的乳酸单体与乙醇酸单体的比率。30.实施方式27的生物医学植入物,其中所述PLGA具有47：53至53：47的乳酸单体与乙醇酸单体的比率。31.实施方案27的生物医学植入物,其中所述PLGA具有约8,000道尔顿至约12,000道尔顿的重均分子量。32.实施方案27的生物医学植入物,其中所述PLGA具有约12,000道尔顿至约16,000道尔顿的重均分子量。33.实施方式26的生物医学植入物,其中所述生物可吸收的聚合物材料具有至少90,000道尔顿和任选地至少100,000道尔顿的重均分子量。34.实施方案33的生物医学植入物,其中所述凝胶纺丝聚合物材料是重均分子量为至少100,000道尔顿的LPLA。35.实施方案26的生物医学植入物,其中所述生物可吸收的聚合物材料是PLA、LPLA或PGA。36.实施方案12的生物医学植入物,其中所述聚合物支柱具有各向异性弹性模量。37.实施方案36的生物医学植入物,其中所述聚合物支柱具有平均纵向弹性模量和平均横向弹性模量,其中平均纵向弹性模量大于平均横向弹性模量。38.实施方案36的生物医学植入物,其中所述平均纵向弹性模量是所述平均横向弹性模量的至少3倍。39.实施方案36的生物医学植入物,其中所述平均纵向弹性模量是所述平均横向弹性模量的至少5倍。40.实施方案36的生物医学植入物,其中所述平均纵向弹性模量是所述平均横向弹性模量的至少10倍。41.实施方案12的生物医学植入物,其中所述聚合物支柱中超过50%的增强纤维材料是纵向排列的。42.实施方案12的生物医学植入物,其中所述聚合物支柱中超过70%的增强纤维材料是纵向对齐的。43.实施方案12的生物医学植入物,其中所述聚合物支柱中超过90%的增强纤维材料是纵向排列的。44.实施方案1的生物医学植入物,其中所述聚合物支柱具有至少60度的平均变形角。45.实施方案1的生物医学植入物,其中所述聚合物支柱具有至少45度的平均变形角。46.实施方案1的生物医学植入物,其中所述聚合物支柱不是用金属材料在结构上增强的。47.根据权利要求47所述的方法,其中所述聚合物支柱 多元羧酸, 纤维素聚合物； 蛋白质, 多肽、 聚乙烯吡咯烷酮； 无水马来酸聚合物； 聚酰胺, 聚乙烯醇, 聚环氧乙烷, 糖胺聚糖, 多糖、聚酯、 脂肪族聚酯、 聚氨酯, 聚苯乙烯, 共聚物, 硅酮； 含有机硅的聚合物； 聚烷基硅氧烷, 聚原酸酯, 聚酐, 乙烯基单体的共聚物； 聚碳酸酯、 实施方案1的生物医学植入物,其包含聚合物材料,所述聚合物材料选自聚乙烯、聚丙烯、聚乳酸、聚丙交酯、聚乙醇酸、聚乙交酯、聚丙交酯-共-乙交酯、聚己内酯、聚（e-己内酯）、聚羟基丁酸酯戊酸酯、聚丙烯酰胺、聚醚、聚氨酯分散体、聚丙烯酸酯、丙烯酸胶乳分散体、聚丙烯酸、聚甲基丙烯酸烷基酯、聚亚烷基-共-乙酸乙烯酯、聚亚烷基、脂族聚碳酸酯、聚羟基烷酸酯、聚四卤代亚烷基、聚（磷腈）、聚四卤代亚烷基、聚（磷腈）及其混合物、组合物和共聚物。48.实施方案1的生物医学植入物,其中所述管状支架可从未展开直径扩张至标称直径,而不影响所述管状支架的结构完整性。49.实施方案48的生物医学植入物,其中所述管状支架可进一步从标称直径扩张至超过展开直径的直径,而不影响所述管状支架的结构完整性。50.实施方案49的生物医学植入物,其中所述超过展开直径的直径比标称直径大约1.0 mm或比标称直径大约0.5 mm。51.实施方案49的生物医学植入物,其中所述超过放置直径的直径比标称直径大约0.5 mm或比标称直径大约0.5 mm。52.实施方案48的生物医学植入物,其中所述管状支架通过置于所述管状支架内的可膨胀球囊可膨胀。53.实施方案52的生物医学植入物,其中所述管状支架在标称球囊压力下具有2.25 mm的标称直径。54.实施方案52的生物医学植入物,其中所述管状支架在标称球囊压力下具有2.5 mm的标称直径。55.实施方案52的生物医学植入物,其中所述管状支架在标称球囊压力下具有3.0 mm的标称直径。56.实施方案52的生物医学植入物,其中所述管状支架在标称球囊压力下具有3.5 mm的标称直径。57.实施方案52的生物医学植入物,其中所述管状支架在标称球囊压力下具有4.0 mm的展开直径。58.实施方案52的生物医学植入物,其中所述管状支架在标称球囊压力下具有4.5 mm的标称直径。59.实施方案48的生物医学植入物,其中所述聚合物支柱包含形状记忆聚合物,并且所述管状支架是可自膨胀的。60.实施方案59的生物医学植入物,其中所述管状支架在温度变化时是可自膨胀的。61.实施方案59的生物医学植入物,其中当形状记忆聚合物的结晶度改变时,所述管状支架是可自膨胀的。62.实施方案1的生物医学植入物,其中所述管状支架由包含多个聚合物支柱的多个正弦聚合物纤维形成。63.实施方案62的生物医学植入物,其中所述正弦聚合物纤维在多个连接点处互连。64.实施方案1的生物医学植入物,其中所述管状支架由单一聚合物纤维形成。65.实施方案64的生物医学植入物,其中所述单一聚合物纤维包含在多个连接点处互连的多个正弦部分。66.实施方案1的生物医学植入物,其还包含掺入所述管状支架中的药剂。67.实施方案66的生物医学植入物,其中所述药物是大环内酯免疫抑制剂。68.实施方案67的生物医学植入物,其中所述大环内酯免疫抑制剂是雷帕霉素或其衍生物、前药、水合物、酯、盐、多晶型物、衍生物或类似物。69.如权利要求69所述的方法,其中所述大环内酯免疫 雷帕霉素, 40-O-（2-羟乙基）雷帕霉素（依维莫司）、 40-O-苄基-雷帕霉素, 40-O-（4’-羟基甲基）苄基-雷帕霉素、 40-O-[4’-（1, 2-二羟乙基）]苄基-雷帕霉素, 40-O-烯丙基-雷帕霉素, 40-O-[3’-（2, 2-二甲基-1, 3-二氧戊环-4(S)-基）-丙-2’-烯-1’-基]-雷帕霉素、 （2’：E, 4’S）-40-O-（4’, 5’-二羟基戊-2’-烯-1’-基）-雷帕霉素、 40-O-（2-羟基）乙氧基羰基甲基雷帕霉素, 40-O-（3-羟基）丙基-雷帕霉素, 40-O-（6-羟基）己基-雷帕霉素、 40-O-[2-（2-羟基）乙氧基]乙基-雷帕霉素, 40-O-[（3S）-2, 2-二甲基二氧戊环-3-基]甲基-雷帕霉素, 40-O-[（2S）-2, 3-二羟基丙-1-基]-雷帕霉素, 40-O-（2-乙酰氧基）乙基-雷帕霉素, 40-O-（2-烟酰氧基）乙基-雷帕霉素, 40-O-[2-（N-吗啉代）乙酰氧基]乙基-雷帕霉素, 40-O-（2-N-咪唑基乙酰氧基）乙基-雷帕霉素, 40-O-[2-（N-甲基-N’-哌嗪基）乙酰氧基]乙基-雷帕霉素、 39-O-去甲基-39, 40-O, O-乙烯-雷帕霉素, （26R）-26-二氢-40-O-（2-羟基）乙基-雷帕霉素； 28-O-甲基-雷帕霉素、40-O-（2-氨基乙基）-雷帕霉素、40-O-（2-乙酰氨基乙基）-雷帕霉素、40-O-（2-烟酰胺乙基）-雷帕霉素、40-O-（2-（N-甲基-咪唑-2’-基乙酰胺基）乙基）-雷帕霉素、40-O-（2-乙氧基羰基氨基乙基）-雷帕霉素、40-O-（2-甲苯基磺酰胺乙基）-雷帕霉素、40-O-[2-（4’,5’-二乙氧基-1’,2’,3’-三唑-1’-基）-乙基]-雷帕霉素、42-Epi-（四唑基）雷帕霉素（他克莫司）和42-[3-羟基-2-（羟基甲基）-2-甲基丙酸酯]雷70.实施方案67的生物医学植入物,其中所述药物是雷帕霉素。71.实施方案66的生物医学植入物,其中所述药剂浸渍所述管状支架的至少一部分。72.实施方案71的生物医学植入物,其中所述药剂浸渍在所述聚合物支柱中。73.实施方案72的生物医学植入物,其中所述药剂均匀地分布在整个所述聚合物支柱中。74.实施方案66的生物医学植入物,其中所述管状支架的至少一部分覆盖有包含所述药剂的涂层。75.实施方案74的生物医学植入物,其中所述涂层还包含涂层聚合物。76.实施方案75的生物医学植入物,其中所述药剂的至少90%的表面积包封在所述涂层聚合物内。77.实施方案75的生物医学植入物,其中所述涂层聚合物包括生物可吸收的聚合物。78.根据权利要求78所述的生物可吸收聚合物,其中所述生物可吸收聚合物是聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟基丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA79.实施方案77的生物医学植入物,其中所述生物可吸收聚合物选自PLGA、聚精氨酸及其混合物。80.实施方案1的生物医学植入物,其中所述生物医学植入物是血管支架。81.实施方案80的生物医学植入物,其中所述植入物是冠状动脉支架。82.实施方案80的生物医学植入物,其中所述生物医学植入物是外周动脉支架。83.实施方案1的生物医学植入物,其中所述生物医学植入物是非血管支架。84.实施方案83的生物医学植入物,其中所述非血管支架选自食道支架、胆道支架、十二指肠支架、结肠支架和胰腺支架。85.一种用于形成生物医学植入物的方法,所述方法包括形成包含可生物吸收的聚酯材料和增强纤维材料的一种或多种聚合物纤维,并且将所述聚合物纤维互连以形成管状支架,其中所述管状支架包括用于限定多个可变形单元的多个互连的聚合物支柱,并且其中所述聚合物支柱具有150μm或更小的平均厚度。86.实施方案85的方法,其中所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少50%。87.实施方案85的方法,其中所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少80%。88.实施方案85的方法,其中增强纤维材料是碳纤维材料、碳纳米管材料、可生物吸收的玻璃材料或其组合。89.实施方案88的方法,其中所述碳纳米管材料是多壁碳纳米管材料。90.根据实施方案85所述的方法,其中所述聚合物纤维包含0.1重量%至15重量%的增强纤维材料。91.根据实施方案85所述的方法,其中所述聚合物纤维包含0.1重量%至10重量%的增强纤维材料。92.根据实施方案85所述的方法,其中所述聚合物纤维包含0.1重量%至5重量%的增强纤维材料。93.实施方案85的方法,其中聚合物纤维包含0.1重量%至1.5重量%的增强纤维材料。94.根据权利要求94所述的方法,其中所述聚酯是聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟基丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）95.根据实施例85所述的方法,其中所述聚酯是PLGA。96.根据实施方案85所述的方法,其中所述聚酯是PLA或LPLA。97.一种用于制备生物可吸收的管状支架的方法,所述方法包括形成包含生物可吸收的聚酯材料和增强纤维材料的组合物,挤出所述组合物以形成聚合物管,其中所述聚合物管具有150μm或更小的平均壁厚,并且移除所述聚合物管的一部分以形成包含多个互连支柱的支架。98.实施方案97的方法,其中所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少50%。99.实施方案97的方法,其中所述管状支架在至少50mmHg的压力负荷下保持其公称内腔横截面积的至少80%。100.实施方案97的方法,其中增强纤维材料是碳纤维材料、碳纳米管材料、可生物吸收的玻璃材料或其组合。101.实施方案100的方法,其中所述碳纳米管材料是多壁碳纳米管材料。102.实施方案97的方法,其中聚合物管包含0.1重量%至15重量%的增强纤维材料。103.实施方案97的方法,其中聚合物管包含0.1重量%至10重量%的增强纤维材料。104.实施方案97的方法,其中聚合物管包含0.1重量%至5重量%的增强纤维材料。105.实施方案97的方法,其中聚合物管包含0.1重量%至1.5重量%的增强纤维材料。106.根据权利要求106所述的方法,其中所述聚酯是聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟基丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）107.根据实施方案97所述的方法,其中所述聚酯是PLGA。108.根据实施方案97所述的方法,其中所述聚酯是PLA或LPLA。109.根据实施方案97所述的方法,其中所述去除选自激光切割方法、光化学蚀刻方法和水射流处理方法。110.实施方案13的生物医学植入物,其中所述增强纤维材料包含促进生物可吸收的聚合物材料和增强纤维材料之间的分子间相互作用的一个或多个表面官能团。111.实施方案13的生物医学植入物,其中所述一个或更多个表面官能团选自-COOH、-OH或其组合。112.实施方案13的生物医学植入物,其中所述增强纤维材料是多壁碳纳米管材料。113.实施方案88的方法,其中增强纤维材料包含促进生物可吸收的聚合物材料和增强纤维材料之间的分子间相互作用的一个或多个表面官能团。114.实施方案88的方法,其中一个或多个表面官能团选自-COOH、-OH或其组合。115.实施方案88的方法,其中增强纤维材料是多壁碳纳米管材料。116.实施方案100的方法,其中增强纤维材料包含促进生物可吸收的聚合物材料和增强纤维材料之间的分子间相互作用的一个或多个表面官能团。117.实施方案100的方法,其中一个或多个表面官能团选自-COOH、-OH或其组合。118.实施方案100的方法,其中增强纤维材料是多壁碳纳米管材料。</base:Paragraphs>
+        <base:Paragraphs num="0188">虽然本文已经示出和描述了本发明的优选实施方案,但是对于本领域技术人员显而易见的是,这些实施方案仅以示例的方式提供。 在不脱离本发明的情况下,本领域技术人员将理解许多变化、改变和替换。 应当理解,本文所述的本发明的实施方案的各种替代方案可用于实施本发明。 以下权利要求旨在限定本发明的范围,并且由此涵盖这些权利要求范围内的方法和结构及其等同物。</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>管状支架,所述管状支架包括多个聚合物支柱,所述多个聚合物支柱彼此连接并限定多个可变形单元,所述多个聚合物支柱具有150μm或更小的平均厚度,所述多个聚合物支柱包括纤维增强聚合物复合材料,所述纤维增强聚合物复合材料包括生物可吸收的聚合物材料和增强纤维材料。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的生物医学植入物,其中,所述增强纤维材料为碳纤维、碳纳米管、生物吸收性玻璃、或其组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的生物医学植入物,其中,所述增强纤维材料为碳纤维。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1～3中任一项所述的生物医学植入物,其中,所述增强纤维材料遍及所述多个聚合物支柱整体而分布。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1～4中任一项所述的生物医学植入物,其中,所述纤维增强型的聚合物复合材料具有所述生物可吸收性聚合物的拉伸模量的至少5倍、至少3倍、或至少2倍的拉伸模量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1～5中任一项所述的生物医学植入物,其中,所述纤维增强型的聚合物复合材料具有所述生物可吸收性聚合物的拉伸强度的至少5倍、至少3倍、或至少2倍的拉伸强度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1～6中任一项所述的生物医学植入物,其中,所述纤维增强型的聚合物复合材料包含0.1重量%～15重量%的增强纤维材料。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>所述生物可吸收的聚合物材料包含聚丙交酯(PLA)、聚（丙交酯-共-乙交酯）(PLGA)、聚酸酐、聚原酸酯、聚（N-（2-羟基丙基）甲基丙烯酰胺）、聚（dl-丙交酯）(DLPLA)、聚（l-丙交酯）(LPLA)、聚（d-丙交酯）(DPLA)、聚乙交酯(PGA)、聚（二烷酮）(PDO)、聚（乙交酯-共-三亚甲基碳酸酯）（PGA-TMC）、聚（l-丙交酯-共-乙交酯）（PGA-LPLA）、聚（dl-丙交酯-共-乙交酯）（PGA-DLPLA）、聚（l-丙交酯-共-dl-丙交酯）（LPLA-DLPLA）</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求1～8中任一项所述的生物医学植入物,其中,所述生物吸收性聚合物材料为PLGA。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1～9中任一项所述的生物医学植入物,其中,所述多个聚合物支柱具有各向异性的弹性模量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求1～10中任一项所述的生物医学植入物,其中,所述多个聚合物支柱具有纵向的平均弹性模量和横向的平均弹性模量,所述纵向的平均弹性模量大于所述横向的平均弹性模量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求11所述的生物医学植入物,其中所述平均纵向弹性模量是所述平均横向弹性模量的至少3倍、至少5倍或至少10倍。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>如权利要求1～12中任一项所述的生物医学植入物,其中,所述多个聚合物支柱内的超过50%、超过70%或超过90%的增强纤维材料沿纵向排列。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求1～13中任一项所述的生物医学植入物,其中,所述多个聚合物支柱未被金属材料在结构上加强。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>根据权利要求1～14中任一项所述的生物医学植入物,其还包含组装于所述管状支架中的药品。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>根据权利要求15所述的生物医学植入物,其中,所述药品为雷帕霉素。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>根据权利要求15所述的生物医学植入物,其中所述药物浸渍在所述多个聚合物支柱中。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>根据权利要求15所述的生物医学植入物,其中,所述管状支架的至少一部分被包含所述药品的涂层覆盖。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>以及将所述聚合物纤维互连以形成管状支架,所述管状支架包括用于限定多个可变形单元的多个互连的聚合物支柱,所述多个聚合物支柱具有150μm或更小的平均厚度,其中所述增强纤维材料是碳纤维、碳纳米管、生物可吸收玻璃或其组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>一种制备生物可吸收的管状支架的方法,所述方法包括形成包含生物可吸收的聚酯材料和增强纤维材料的组合物,挤出所述组合物以形成聚合物管,其中所述聚合物管具有150μm或更小的平均壁厚,并且移除所述聚合物管的一部分以形成包含多个互连支柱的支架,其中所述增强纤维材料是碳纤维、碳纳米管、生物可吸收的玻璃或其组合。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000003" file="2016519965_000003.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000004" file="2016519965_000004.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

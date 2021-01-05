@@ -1,0 +1,770 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000025748JP00020161238760AFULJA20160711JP00X.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016123876" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123876</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123876</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000025748</base:DocNumber>
+        <base:Date>20160215</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016025748</base:DocNumber>
+        <base:Date>20160215</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>15</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F  13/15        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>49</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F  13/49        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>53</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F  13/53        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A41B13/02 S</business:FI>
+      <business:FI type="secondary">A41B13/02 B</business:FI>
+      <business:FClass>
+        <business:FTerm>3B200AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200AA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200BA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200CA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200CA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200DB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200DB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200DB11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200EA30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>3B200</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">折り畳み装置及び折り畳み方法</business:InventionTitle>
+    <business:RelatedDocuments>
+      <business:Division>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1" lang="ja">
+              <base:DocNumber>2014266234</base:DocNumber>
+              <base:Date>20141226</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Division>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ユニ・チャーム株式会社</base:Name>
+            <base:RegisteredNumber>000115108</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛媛県四国中央市金生町下分１８２番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>藤原  智弘</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>香川県観音寺市豊浜町和田浜１５３１－７  ユニ・チャーム株式会社テクニカルセンター内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>フェリシテ特許業務法人</base:Name>
+            <base:RegisteredNumber>110001564</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>12</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】高目付領域及び低目付領域を含む吸収体の形状を維持しつつ、吸収性物品を折り畳むことができる折り畳み装置及び折り畳み方法を提供する。【解決手段】折り畳み装置は、第１の目付量の吸収材からなる第１の領域42と、第１の目付量よりも小さい第２の目付量の吸収材からなり、少なくとも第１の方向Wに沿って延びる第２の領域44と、を有する吸収体40を含む吸収性物品10を折り畳む装置に関する。この折り畳み装置は、一方向に沿って延びた先端262を有する折り板260を有する。折り板260は、折り板260の先端262が第１の方向Wに沿って配向し、かつ折り板260の先端262の少なくとも一部が第２の領域44上に位置する状態で、吸収性物品10に押し当てられるように構成されている。【選択図】図５</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="84" wi="69" file="2016123876_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、例えば使い捨ておむつのような吸収性物品を折り畳む折り畳み装置及び折り
+畳み方法に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  使い捨ておむつや生理用ナプキンなどの使い捨て着用物品が知られている。特許文献１
+は、使い捨て着用物品の製造方法を開示している。使い捨て着用物品は、個々の使い捨て
+着用物品となるべき多数の領域が繋がった帯状体として製造される。それから、帯状体が
+個々の使い捨て着用物品に切り分けられる。切り分けられた個々の使い捨て着用物品は、
+製品出荷用の包装材に包装される前に、折り畳まれる。特許文献１では、使い捨て着用物
+品は、着用者の背側に配置されるフロント部が着用者の前側に配置されるバック部に重な
+るように二重に折り畳まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  特許文献２は、紙おむつや生理用ナプキン等の吸収性物品に利用される吸収体を開示し
+ている。この吸収体は、縦方向に連続的に形成された低目付領域と、低目付領域の両側に
+低目付領域に沿うように形成された高目付領域と、を有する。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">
+          <business:ApplicationCitation num="0001">
+            <base:Text>国際公開第２００６／０６８０８１号</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0002">
+            <base:Text>特開２００８－２３３１１号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">
+  本願の発明者は、以下のような課題を発見した。吸収体の曲がり易さや強度は、低目付
+領域と高目付領域とで異なる。そのため、低目付領域と高目付領域を含む吸収体を折り畳
+む際、吸収体に関する折り目の位置や角度によっては、吸収体の形状が崩れるおそれがあ
+る。
+</base:Paragraphs>
+        <base:Paragraphs num="0006">
+  本発明は、上述の課題に鑑みてなされたものであり、高目付領域及び低目付領域を含む
+吸収体の形状を維持しつつ、吸収性物品を折り畳むことができる折り畳み装置及び折り畳
+み方法を提供することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0007">
+  本開示に係る折り畳み装置は、第１の目付量の吸収材からなる第１の領域と、第１の目
+付量よりも小さい第２の目付量の吸収材からなり、少なくとも第１の方向に沿って延びる
+第２の領域と、を有する吸収体を含む吸収性物品を折り畳む折り畳み装置に関する。この
+折り畳み装置は、一方向に沿って延びた先端を有する折り板を有する。折り板は、折り板
+の先端が第１の方向に沿って配向し、かつ折り板の先端の少なくとも一部が第２の領域上
+に位置する状態で、吸収性物品に押し当てられるように構成されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  本開示に係る折り畳み方法は、第１の目付量の吸収材からなる第１の領域と、第１の目
+付量よりも小さい第２の目付量の吸収材からなり、少なくとも第１の方向に沿って延びる
+第２の領域と、を有する吸収体を含む吸収性物品を折り畳む折り畳み方法に関する。この
+折り畳み方法は、一方向に沿って延びた折り板の先端を第１の方向に沿って配向させ、か
+つ折り板の先端の少なくとも一部を第２の領域上に位置させた状態で、折り板を吸収性物
+品に押し当てる工程を含む。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0009">
+  本発明によれば、高目付領域及び低目付領域を含む吸収体の形状を維持しつつ、吸収性
+物品を折り畳むことができる折り畳み装置及び折り畳み方法を提供することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0010">
+        <base:FigureReference num="0001">図１は、一実施形態に係る吸収性物品の平面図である。</base:FigureReference>
+        <base:FigureReference num="0002">図２は、吸収性物品に備えられた吸収体の吸収コアの平面図である。</base:FigureReference>
+        <base:FigureReference num="0003">図３は、一実施形態に係る折り畳み装置の模式図である。</base:FigureReference>
+        <base:FigureReference num="0004">図４（ａ）～図４（ｆ）は、吸収性物品を折り畳む様子を説明する模式図である。</base:FigureReference>
+        <base:FigureReference num="0005">図５は、吸収性物品と折り板との位置関係を示す模式図である。</base:FigureReference>
+        <base:FigureReference num="0006">図６は、変形例に係る吸収体の吸収コアを示す平面図である。</base:FigureReference>
+        <base:FigureReference num="0007">図７は、変形例に係る折り畳み装置の模式図である。</base:FigureReference>
+        <base:FigureReference num="0008">図８（ａ）及び図８（ｂ）は、図７の矢印８Ａ方向から見た折り板の模式図であって、吸収性物品を折り畳む様子を説明する模式図である。</base:FigureReference>
+        <base:FigureReference num="0009">図９は、変形例に係る折り畳み装置の折り板と吸収性物品との位置関係を示す模式図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0011">
+  以下、図面を参照して、実施形態に係る吸収性物品について説明する。以下の実施形態
+では、吸収性物品の一例として使い捨ておむつについて説明する。しかしながら、本発明
+の吸収性物品は、生理用ナプキン、パンティライナ、失禁パッド及び使い捨ておむつのよ
+うな様々な物品を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  なお、以下の図面の記載において、同一又は類似の部分には、同一又は類似の符号を付
+している。ただし、図面は模式的なものであり、各寸法の比率等は現実のものとは異なる
+ことに留意すべきである。したがって、具体的な寸法等は、以下の説明を参酌して判断す
+べきである。また、図面相互間においても互いの寸法の関係や比率が異なる部分が含まれ
+得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  （１）吸収性物品の全体概略構成
+  図１は、本実施形態に係る吸収性物品10としての使い捨ておむつの展開平面図である。
+吸収性物品10は、前胴回り域20と、股下域25と、後胴回り域30とを有する。前胴回り域20
+は、着用者の前胴回り部（腹部分）と接する部分である。また、後胴回り域30は、着用者
+の後胴回り部（背部分）と接する部分である。股下域25は、前胴回り域20と後胴回り域30
+との間に位置する。また、吸収性物品10には、一対の脚回り開口部35が形成される。脚回
+り開口部35は、後胴回り域30の両側端部に設けられている。脚回り開口部35は、吸収性物
+品10が着用者に着用された状態で、着用者の脚回りに沿って配置される部分である。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  吸収性物品10は、股下域25を跨ぎ、かつ股下域25から前胴回り域20及び後胴回り域30の
+うち少なくともいずれか一方に向かって延びる吸収体40を備える。本実施形態では、吸収
+体40の長手方向を「吸収体の長手方向L」と呼ぶ。また、吸収体の長手方向Lと直交する方
+向を「吸収体の幅方向W」と呼ぶ（図２も参照）。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  吸収体40の表面側（肌当接面側）には、肌面側シートが配置される。肌面側シートは、
+液透過性のトップシート51と、疎水性のサイドシート52と、を含む。トップシート51は、
+吸収体40の略全体を覆うように配置される。サイドシート52は、吸収体40の幅方向Wの側
+部で、吸収体40及びトップシート51を覆うように配置される。なお、肌面側シートは、ト
+ップシート51とサイドシート52の２層によって構成されていなくてもよく、いずれか一方
+によって構成されていてもよいし、他のシートを備えていてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  吸収体40の裏面側（非肌当接面側）には、液不透過性の非肌面側シートが配置される。
+非肌面側シートは、着用時に吸収性物品10の外面を構成する外装シートと、吸収体40と外
+装シートとの間に配置されたバックシートと、を備えていてもよい。なお、非肌面側シー
+トは、外装シートとバックシートによって構成されていなくてもよく、いずれか一方によ
+って構成されていてもよいし、他のシートを備えていてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  一対のサイドシート52には、ファスニングテープ90がそれぞれ備えられる。ファスニン
+グテープ90は、後胴回り域30に設けられている。ファスニングテープ90は、前胴回り域20
+の非肌当接面に止着されることにより、吸収性物品10を着用者の身体に保持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  サイドシート52の、吸収性物品10の幅方向Ｗの内縁部には、吸収性物品10の長手方向に
+沿って延びる一対のカフ80が備えられていてもよい。カフ80は、起立性の伸縮ギャザーで
+あってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  サイドシート52は、吸収性物品10の幅方向Ｗの内縁部においてトップシート51側に折り
+返されており、２層に積層されていてもよい。この２層のサイドシート52間に、長手方向
+に伸長された状態で弾性部材が設けられていてもよい。なお、図１は、カフ80に備えられ
+た弾性部材が収縮した状態における吸収性物品の展開平面図を示している。カフ80は、弾
+性部材によって吸収性物品の長手方向に収縮した収縮部84を有していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  吸収性物品10は、折り線Fに沿って折り畳まれた状態で包装材内に収容される。折り線F
+は、吸収体の幅方向Wに沿っており、吸収体40が存在する領域を横切っている。これに代
+えて、折り線Fは、吸収体の長手方向Lに沿っていてもよい。図１には、１つの折り線Fの
+みが示されている。しかしながら、吸収性物品10の折り畳み方に応じて、折り線Fは複数
+存在していてもよい。この場合、複数の折り線Fのうちの少なくとも１つは、吸収体40が
+存在する領域を横切っている。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  （２）吸収体の概略構成
+  図２は、吸収性物品10に備えられた吸収体40の吸収コアの一実施例を示している。吸収
+体40は、吸収コア46と、吸収コア46を包むシート状の被覆シート48と、を含む（図１参照
+）。吸収コア46は、粉砕パルプや高吸収ポリマーなど、公知の部材や材料を用いて適宜構
+成することができる。被覆シート48の少なくとも肌面側の一部は、透液性を有する各種の
+繊維不織布又はティッシュによって構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  吸収コア46は、第１の目付量の吸収材からなる第１の領域42と、第１の目付量よりも小
+さい第２の目付量の吸収材からなる第２の領域44と、を有する。第２の領域44は、吸収性
+物品の折り線F上で、少なくとも吸収体の幅方向W（第１の方向）に沿って延びる領域を含
+む。具体的には、第２の領域44は、吸収性物品の折り線F上で、吸収コア46の一部を直線
+的に延びている。この代わりに、第２の領域44は、吸収性物品の折り線F上で、吸収コア4
+6の一端から他端までの全体にわたって直線的に延びていてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  図２に示す実施例では、第２の領域44は、吸収体の長手方向Lと吸収体の幅方向Wの両方
+向に沿って延びており、第１の領域42を複数のブロックに区分する。なお、以下では、第
+１の領域42を「高目付領域」と呼び、第２の領域44を「低目付領域」と呼ぶことがある。
+なお、吸収コア46の周辺部も、第２の領域44の目付量よりも目付量の高い高目付領域とな
+っていてもよい。低目付領域44は、高目付領域42よりも厚みの小さい凹部から形成されて
+いてもよい。なお、低目付領域44は、目付が零の領域、すなわち吸収材が存在しない領域
+をも含むものとする。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  なお、吸収コアの目付及び密度は、例えば、以下の測定方法によって測定することがで
+きる。包装体によって包装された吸収性物品においては包装体を開封し、折り畳まれた吸
+収性物品を展開して、目付及び密度を測定する部分の厚み及び面積を測定する。次いで、
+目付及び密度を測定する部分を吸収性物品から切り出し、切り出した部分の重量を測定す
+る。次いで、切り出した部分から肌面側シート及び非肌面側シート等、吸収コア以外の部
+分を取り除き、吸収コアの重量を測定する。吸収コアの重量と、目付及び密度を測定する
+部分の面積とに基づいて目付を算出する。目付及び厚みに基づいて、密度を算出する。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  （３）吸収性物品の折り畳み装置及び折り畳み方法
+  図３及び図４に基づいて、吸収性物品の折り畳み装置200及び折り畳み方法を説明する
+。なお、図３は、吸収性物品の折り畳み装置200の一部を模式的に示した正面図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  吸収性物品の折り畳み装置200は、搬送機構210と、折り機構250と、を有する。折り畳
+み装置200は、搬送機構210及び折り機構250を制御する制御手段を有していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  搬送機構210は、第１ロール211と、第１ロール211に架けられた第１搬送ベルト221と、
+第１ロール211と離間して配置された第２ロール212と、第２ロール212に架けられた第２
+搬送ベルト222と、を有していてもよい。第１ロール211と第２ロール212は、互いに対向
+して配置されており、反対方向に回転している。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  吸収性物品10は、第１搬送ベルト221によって折り機構250に向かって方向D1に沿って搬
+送される。吸収性物品10は、折り機構250により折り線Fに沿って折り畳まれた後、第１搬
+送ベルト221及び第２搬送ベルト222によって、方向D2に沿って搬送される。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  折り機構250は、回転体251と、回転体251の回転に伴って回転体251の外周に沿って移動
+する折り板260と、を有する。折り板260は、回転体251の外周に沿って移動しつつ回転体2
+51に対して回転するように構成されている。図４は、折り板260の軌跡を模式的に示した
+図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  折り板260の一端は回転体251の外周面に接合されている。折り板260は、折り板260の、
+回転体251に接合された方の一端を軸として回転可能に構成されている。折り板の先端262
+、すなわち回転体251に接合されていない方の端は、折り板260の回転により、回転体251
+の外周面よりも内側に位置する状態となったり、回転体251の外周面よりも外側に突出し
+た状態となったりする。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  吸収性物品10を折り畳む際、まず、搬送機構210により吸収性物品10を折り機構250へ向
+けて搬送する（図４（ａ）参照）。このとき、折り板260の先端262は回転体251の中心付
+近に位置している。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  次に、吸収性物品10は、第１搬送ベルト221と第２搬送ベルト222に跨がった状態となる
+（図４（ｂ）参照）。この状態で、吸収性物品10は、折り機構250の直下に位置する。回
+転体251の回転に伴い、折り板260の先端262は、搬送ベルト221,222上の吸収性物品10に接
+触する。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  次いで、図４（ｂ）に示す状態から、回転体251がさらに反時計回りに回転することで
+、折り板260の先端262が吸収性物品10を押す（図４（ｃ）参照）。次いで、回転体251が
+さらに反時計回りに回転することで、折り板260の先端262がさらに吸収性物品10を押し、
+吸収性物品10を折り畳む（図４（ｄ）参照）。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  次いで、回転体251が反時計回りにさらに回転することで、折り板260の先端262は吸収
+性物品10から退避する（図４（ｅ）参照）。折り畳まれた吸収性物品10は、第１搬送ベル
+ト221と第２搬送ベルト222とによって挟まれた状態で搬送方向D2に沿って搬送される。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  次に、吸収性物品10を折るときの、吸収性物品10に関する折り板260の位置について図
+５を参照して詳細に説明する。図５は、折り板260が吸収性物品10に接触した状態におけ
+る、吸収性物品10と折り板260との位置関係を示している。なお、便宜上、図５では、吸
+収性物品10のカフは図示されていない。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  図５に示すように、折り板260の先端262は、一方向に延びている。折り板260の先端262
+が吸収性物品10に接触するときに、折り板260の先端262は吸収体40の低目付領域44が延び
+ている第１の方向、ここでは吸収体の幅方向Wに沿って配向する。この第１の方向は、吸
+収性物品10の折り線Fに沿った方向に相当する。折り板260は、折り板の先端262の少なく
+とも一部が低目付領域44上に位置する状態で、吸収性物品10に押し当てられる。すなわち
+、折り板260は、吸収体の幅方向Wに沿って配向し、かつ折り板の先端262の少なくとも一
+部が低目付領域44上に位置する状態で、吸収性物品10に押し当てられるように構成されて
+いる。好ましくは、折り板の先端262の厚み幅L1は、吸収体の幅方向Wに直交する方向に沿
+った低目付領域44の幅L2よりも小さい。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  好ましくは、折り板の先端262の長さW1が、吸収性物品10を折る折り線F上における吸収
+体40の幅方向長さW2よりも長い。これにより、吸収性物品10を折るときに、折り板260を
+、吸収体40の両方の外縁部間にわたって押し当てることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  より好ましくは、折り板の先端262の長さW1が、吸収性物品10を折る折り線F上における
+吸収性物品10の幅方向の長さW3よりも長い。これにより、吸収性物品10を折るときに、折
+り板260は、吸収性物品10の両方の外縁部間にわたって全体的に押し当てられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  折り畳み装置200は、折り板260と吸収性物品10との相対位置を合わせる位置決め装置40
+0を有していてもよい（図３参照）。一例として、位置決め装置400は、第１搬送ベルト22
+1上の吸収性物品10を撮像する撮像手段と、撮像手段で得られた画像を解析する解析手段
+と、を含んでいてもよい。撮像手段で得られた画像を解析手段で解析することにより、低
+目付領域44の位置又は吸収性物品10の折り線Fの位置を正確に特定することができる。搬
+送機構210及び折り機構250を制御する制御手段は、画像解析の結果に基づいて、搬送ベル
+ト221,222を制御する。これによって、折り板260の先端262が低目付領域44を押し付ける
+ことができるように、折り板260と吸収性物品10との相対位置を正確に合わせることがで
+きる。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  なお、吸収性物品10は、吸収性物品10の折り線F上に位置に、伸縮ギャザーのような、
+弾性部材を有するカフ80を備えていることが好ましい。弾性部材を有するカフ80は、折り
+板260が吸収性物品10に押し当てられるときに緩衝材とし、折り板260が吸収性物品10に衝
+突するときの衝撃力を緩和する。これにより、吸収体40の形状の崩れを抑制することがで
+きる。したがって、上記実施形態の折り畳み装置及び折り畳み方法は、弾性体を有するカ
+フ80を備えた吸収性物品10を折り畳むために適している。もっとも、上記実施形態の折り
+畳み装置及び折り畳み方法は、弾性体を有するカフ80を備えていない吸収性物品10を折り
+畳むためにも利用できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  （４）吸収体の変形例
+  図６は、吸収性物品10に備えられた吸収体の吸収コアの他の実施例を示している。図６
+に示す吸収コア46は、高目付領域42及び低目付領域44の配置を除き、図２に示す吸収体と
+同様の構成を有していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  吸収コア46は、第１の目付量の吸収材からなる第１の領域42と、第１の目付量よりも小
+さい第２の目付量の吸収材からなる第２の領域44と、を有する。第２の領域44は、少なく
+とも吸収体の幅方向W（第１の方向）に沿って延びる領域を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  図６に示す実施例では、低目付領域44は、吸収体の長手方向Lと吸収体の幅方向Wの両方
+向に沿って延びており、高目付領域42を複数のブロックに区分する。より具体的には、低
+目付領域44は、吸収性物品10の折り線F上で吸収コア46の少なくとも一部を破線状に延び
+ている。この場合であっても、吸収性物品の折り線Fは、低目付領域44が延びている方向
+（幅方向W）に延びているといえる。図２及び図６に示す実施例に限らず、低目付領域44
+は、吸収性物品10の折り線Fに沿って延びる任意の領域を含んでいればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  （５）変形例に係る折り畳み装置及び折り畳み方法
+  図７は、変形例に係る折り畳み装置の模式図である。折り畳み装置300は、搬送機構310
+と、折り機構350と、を有する。搬送機構310は、複数のロールに架設された第１搬送ベル
+ト321と、複数のロールに架設された第２搬送ベルト322と、複数のロールに架設された第
+３搬送ベルト323と、複数のロールに架設された第４搬送ベルト324と、を有していてもよ
+い。第１搬送ベルト321と、第１搬送ベルト321と対向する第２搬送ベルト322の部分とは
+、折り機構350よりも搬送方向上流側の第１搬送経路4Mを規定している。第２搬送ベルト3
+22と、第２搬送ベルト322と対向する第４搬送ベルト324の部分とは、折り機構350よりも
+搬送方向下流側の第２搬送経路4Bを規定している。第３搬送ベルト323は、折り機構350の
+ところに搬送された吸収性物品10の一端部を第４搬送ベルト324とともに把持するように
+構成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  吸収性物品10は、第１搬送ベルト321と第２搬送ベルト322によって折り機構350へ向け
+て第１搬送経路4Mの搬送方向D1に沿って搬送される。吸収性物品10は、第１搬送ベルト32
+1と第３搬送ベルト323に跨った位置まで搬送される。折り機構350は吸収性物品10を折り
+線Fに沿って折り畳む。以下、折り機構350の構成と、吸収性物品10を折り畳む工程につい
+て図８を用いて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  図８（ａ）及び図８（ｂ）は、図７の矢印８Ａ方向から見た折り機構350の模式図であ
+る。折り機構350は、一対の折り板360、折り板360を回転軸361まわりに回転させるモータ
+364と、を有する。なお、図８には、便宜上、モータは図示していない。一対の折り板360
+は、互いに隣接して配置されており、互いに逆方向に回転するように構成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  折り機構350の一対の折り板360は、回転軸361まわりに回転する。一対の折り板360は、
+回転軸361から一方向に延びた先端362を有する。折り板360の回転により、一対の折り板
+の先端362が、折り機構350の直下、すなわち図７に示す位置に配置された吸収性物品10に
+当たる（図８（ｂ）参照）。この状態からさらに折り板360が回転することによって、折
+り板360は、折り板360が当たった位置を折り線Fとして吸収性物品10を折り畳む。吸収性
+物品10は、一対の折り板360によって、折り線Fに沿って２つ折りにされつつ、第２の搬送
+ベルト322と第４搬送ベルト324との間の搬送経路4Bへ押し込まれる（図７も参照）。折り
+畳まれた吸収性物品10は、第２搬送経路4Bの搬送方向D2に沿ってさらに搬送される。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  図９は、折り畳み装置300の折り板と吸収性物品と折り板との位置関係を示す模式図で
+ある。吸収性物品を折り畳む際に、一対の折り板360は、吸収性物品10の幅方向Wの両外側
+に配置される。本変形例においても、折り板360は、吸収体の幅方向Wに沿って配向し、か
+つ折り板の先端362の少なくとも一部が低目付領域44上に位置する状態で、吸収性物品10
+に押し当てられる。好ましくは、一対の折り板の先端362の厚みが、第１の方向に直交す
+る第２の方向（吸収体の長手方向L）に沿った低目付領域44の幅よりも小さい。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  本変形例では、一対の折り板360は、吸収性物品10を折る折り線F上における吸収体40の
+少なくとも幅方向の両外縁部を押すように構成されている。好ましくは、折り板360は、
+少なくとも、吸収体の幅方向Wの両外縁部と、両外縁部よりも幅方向W外側の吸収性物品10
+と、を押すように構成されている。言い換えると、一対の折り板360は、吸収体40の幅方
+向Wの中央を除いて、吸収性物品10を直線状に押す。もっとも、一対の折り板360は、吸収
+性物品10の折り線Fに沿って、吸収性物品10の一端から他端まで吸収性物品10を全体的に
+押してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  （６）作用・効果
+  低目付領域44は高目付領域42よりも曲がりやすい。上記実施形態に係る折り畳み装置20
+0,300の折り板260,360は、折り板の先端262,362が第１の方向（低目付領域44が延びる方
+向）に沿って配向し、かつ折り板の先端262,362の少なくとも一部が低目付領域44上に位
+置する状態で、吸収性物品10に押し当てられるように構成されている。同様に、上記実施
+形態に係る折り畳み方法は、一方向に沿って延びた折り板の先端262,362を第１の方向に
+沿って配向させ、かつ折り板の先端262,362の少なくとも一部を低目付領域44上に位置さ
+せた状態で、折り板260,360を吸収性物品10に押し当てる工程を含む。これにより、吸収
+体40は、比較的曲がりやすい低目付領域44が延びている第１の方向を軸として折り曲げら
+れる。その結果、吸収体40の形状を維持しつつ吸収性物品を折り畳むことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  一実施形態によれば、折り板の先端262,362の厚みL1が、第１の方向に直交する第２の
+方向に沿った第２の領域（低目付領域）44の幅L2よりも小さい。これにより、折り板の先
+端262,362が延びている方向に直交する方向において、折り板の先端262,362を低目付領域
+44のみに押し当てることができる。これにより、吸収体40は、低目付領域44のところで曲
+げられるため、曲げに伴う吸収体40の形状の崩れを防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  一実施形態によれば、折り板260,360が、吸収性物品10を折る折り線F上における吸収体
+40の少なくとも幅方向Wの両外縁部を押すように構成されている。これにより、吸収性物
+品10を折るときに、折り板260,360は、少なくとも吸収体40の幅方向Wの両外縁部に押し当
+てられる。もし折り板260,360が吸収体40の中央部のみ、又は吸収体40の片方の外縁部の
+みを押す場合、吸収体40の中央部又は片方の外縁部のみに負荷が集中する。その結果、吸
+収体40の形状が崩れるおそれがある。本実施形態では、折り板260,360は、吸収性物品10
+を折る折り線F上で少なくとも吸収体40の幅方向Wの両外縁部を押すため、折り線Fを軸と
+して吸収体40をきれいに折ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  一実施形態によれば、折り板260,360が、少なくとも、吸収体40の幅方向Wの両外縁部と
+、当該両外縁部よりも幅方向W外側の吸収性物品10と、を押すように構成されている。こ
+れにより、吸収性物品10を折るときに、折り板260,360は、吸収性物品10の両外縁部だけ
+でなく、吸収体40の両外縁部よりも外側の吸収性物品10にも押し当てられる。このとき、
+吸収体40の両外縁部よりも外側の吸収性物品10は、折り板260,360の接触によって吸収体4
+0に加えられる衝撃力を緩和する。これにより、吸収体40の形状の崩れを防止することが
+できる。また、折り板260,360の角が吸収性物品10に接触することが防止されるため、吸
+収性物品10を傷つけることを防止することができる。特に、吸収性物品10は、その表面が
+不織布から形成されていることが多い。この場合、折り板260,360の角部を不織布に当て
+ないようにすることで、不織布の破れを防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  一実施形態によれば、折り板260は、吸収性物品10を折る折り線F上における吸収体40の
+少なくとも幅方向Wの長さよりも長い先端262を有する板から形成されている。これにより
+、吸収性物品10を折るときに、折り板260は、吸収体40の両方の外縁部間にわたって押し
+当てられる。もし折り板260の先端が吸収体40の両端まで延びていない場合、吸収体40の
+幅方向Wにわたる一部の領域のみが下方に押しつけられる。その結果、吸収体40の幅方向W
+の一部の領域のみに負荷が集中し、吸収体40の形状が崩れるおそれがある。本実施形態で
+は、折り板260は吸収体40の両方の外縁部間にわたって延びているため、折り板の先端262
+が延びている直線を軸として吸収体40をきれいに折ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  一実施形態によれば、折り畳み装置300は、折り板260,360と吸収性物品10との相対位置
+を合わせる位置決め装置をさらに有する。これにより、折り板の先端262,362が延びてい
+る方向に直交する方向において、折り板の先端262,362を低目付領域44、より詳細には折
+り線Fに、正確に位置決めすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  上述の実施形態を用いて本発明について詳細に説明したが、当業者にとっては、本発明
+が本明細書中に説明した実施形態に限定されるものではないということは明らかである。
+本発明は、特許請求の範囲の記載により定まる本発明の趣旨及び範囲を逸脱することなく
+修正及び変更態様として実施することができる。従って、本明細書の記載は、例示説明を
+目的とするものであり、本発明に対して何ら制限的な意味を有するものではない。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0057">
+１０      ：吸収性物品
+２０      ：前胴回り域
+２５      ：股下域
+３０      ：後胴回り域
+３５      ：脚回り開口部
+４０      ：吸収体
+４２      ：第１の領域（高目付領域）
+４４      ：第２の領域（低目付領域）
+２００    ：折り畳み装置
+２６０    ：折り板
+２６２    ：折り板の先端
+３００    ：折り畳み装置
+３６０    ：折り板
+３６１    ：回転軸
+３６２    ：折り板の先端
+Ｆ        ：折り線
+Ｗ        ：吸収体の幅方向（第１の方向）
+Ｗ１      ：折り板の先端の長さ
+Ｗ２      ：折り線上での吸収体の幅方向の長さ
+Ｗ３      ：折り線上での吸収性物品の幅方向の長さ
+Ｌ        ：吸収体の長手方向（第２の方向）
+Ｌ１      ：折り板の先端の厚み幅
+Ｌ２      ：低目付領域の幅
+ 
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="101" wi="85" file="2016123876_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="107" wi="85" file="2016123876_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="103" wi="85" file="2016123876_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="105" wi="85" file="2016123876_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="103" wi="85" file="2016123876_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="103" wi="85" file="2016123876_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="103" wi="85" file="2016123876_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="102" wi="85" file="2016123876_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="99" wi="85" file="2016123876_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  第１の目付量の吸収材からなる第１の領域と、前記第１の目付量よりも小さい第２の目
+付量の吸収材からなり、少なくとも第１の方向に沿って延びる第２の領域と、を有する吸
+収体を含む吸収性物品を折り畳む折り畳み装置であって、  一方向に沿って延びた先端を
+有する折り板を有し、
+  前記折り板は、前記折り板の前記先端が前記第１の方向に沿って配向し、かつ前記折り
+板の前記先端の少なくとも一部が前記第２の領域上に位置する状態で、前記吸収性物品に
+押し当てられるように構成されている、折り畳み装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記折り板の前記先端の厚みが、前記第１の方向に直交する第２の方向に沿った前記第
+２の領域の幅よりも小さい、請求項１に記載の折り畳み装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記折り板が、前記吸収性物品を折る折り線上における前記吸収体の少なくとも幅方向
+の両外縁部を押すように構成されている、請求項１又は２に記載の折り畳み装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記折り板が、少なくとも、前記吸収体の幅方向の前記両外縁部と、前記両外縁部より
+も幅方向外側の前記吸収性物品と、を押すように構成されている、請求項３に記載の折り
+畳み装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記折り板は、前記吸収性物品を折る折り線上における前記吸収体の少なくとも幅方向
+長さよりも長い先端を有する板から形成されている、請求項１から４のいずれか１項に記
+載の折り畳み装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記折り板と前記吸収性物品との相対位置を合わせる位置決め装置をさらに有する、請
+求項１から５のいずれか１項に記載の折り畳み装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  第１の目付量の吸収材からなる第１の領域と、前記第１の目付量よりも小さい第２の目
+付量の吸収材からなり、少なくとも第１の方向に沿って延びる第２の領域と、を有する吸
+収体を含む吸収性物品を折り畳む折り畳み方法であって、  一方向に沿って延びた折り板
+の先端を前記第１の方向に沿って配向させ、かつ前記折り板の前記先端の少なくとも一部
+を前記第２の領域上に位置させた状態で、前記折り板を前記吸収性物品に押し当てる工程
+を含む、折り畳み方法。
+ 
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="US101995000474518US00000057051120AFULEN19980106US00Z.XML" dateProduced="20160817" status="C" lang="en" country="US" docNumber="5705112" kind="A" datePublication="19980106">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>05705112</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19980106</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>5705112</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19980106</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant>
+        <base:DocumentID>
+          <base:Date>19980106</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>08/474518</base:DocNumber>
+        <base:Date>19950607</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>101995000474518</base:DocNumber>
+        <base:Date>19950607</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>DK</base:WIPOST3Code>
+        <base:DocNumber>101989000003490</base:DocNumber>
+        <base:Date>19890714</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="US" sequence="1">
+        <base:WIPOST3Code>DK</base:WIPOST3Code>
+        <base:DocNumber>3490/89</base:DocNumber>
+        <base:Date>19890714</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPC>
+      <base:EditionStatement>6</base:EditionStatement>
+      <business:MainClassification dataFormat="original">B29C04513</business:MainClassification>
+      <business:MainClassification dataFormat="standard">B29C0045130000</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">B29C04514</business:FurtherClassification>
+      <business:FurtherClassification sequence="1" dataFormat="standard">B29C0045140000</business:FurtherClassification>
+    </business:ClassificationIPC>
+    <business:ClassificationNational>
+      <business:MainClassification dataFormat="original">264242</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">264255</business:FurtherClassification>
+      <business:FurtherClassification sequence="2" dataFormat="original">264268</business:FurtherClassification>
+      <business:FurtherClassification sequence="3" dataFormat="original">425130</business:FurtherClassification>
+      <business:FurtherClassification sequence="4" dataFormat="original">425576</business:FurtherClassification>
+      <business:FurtherClassification sequence="5" dataFormat="original">425577</business:FurtherClassification>
+    </business:ClassificationNational>
+    <business:InventionTitle lang="en" sourceDB="US">用于生产组装物体的程序</business:InventionTitle>
+    <business:ReferencesCited sourceDB="US">
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:ApplicationCitation id="pcit000001" num="0001">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>2713369</base:DocNumber>
+              <base:Date>19550700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>02713369</base:DocNumber>
+              <base:Date>19550700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Strahm</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264268</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="2">
+        <business:ApplicationCitation id="pcit000002" num="0002">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3281295</base:DocNumber>
+              <base:Date>19661000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03281295</base:DocNumber>
+              <base:Date>19661000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Capucio</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264255</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="3">
+        <business:ApplicationCitation id="pcit000003" num="0003">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3286010</base:DocNumber>
+              <base:Date>19661100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03286010</base:DocNumber>
+              <base:Date>19661100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Van Groningen</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264242</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="4">
+        <business:ApplicationCitation id="pcit000004" num="0004">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4021524</base:DocNumber>
+              <base:Date>19770500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04021524</base:DocNumber>
+              <base:Date>19770500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Grimsley</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264DIG41</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="5">
+        <business:ApplicationCitation id="pcit000005" num="0005">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4040233</base:DocNumber>
+              <base:Date>19770800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04040233</base:DocNumber>
+              <base:Date>19770800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Valyi</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264513</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="6">
+        <business:ApplicationCitation id="pcit000006" num="0006">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4485064</base:DocNumber>
+              <base:Date>19841100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04485064</base:DocNumber>
+              <base:Date>19841100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Laurin</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264264</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="7">
+        <business:ApplicationCitation id="pcit000007" num="0007">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4485065</base:DocNumber>
+              <base:Date>19841100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04485065</base:DocNumber>
+              <base:Date>19841100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hatakeyama et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264255</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="8">
+        <business:ApplicationCitation id="pcit000008" num="0008">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4518554</base:DocNumber>
+              <base:Date>19850500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04518554</base:DocNumber>
+              <base:Date>19850500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hatakeyama et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264268</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="9">
+        <business:ApplicationCitation id="pcit000009" num="0009">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4549337</base:DocNumber>
+              <base:Date>19851000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04549337</base:DocNumber>
+              <base:Date>19851000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Newell et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264268</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="10">
+        <business:ApplicationCitation id="pcit000010" num="0010">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4790117</base:DocNumber>
+              <base:Date>19881200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04790117</base:DocNumber>
+              <base:Date>19881200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hansen</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264524</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="11">
+        <business:ApplicationCitation id="pcit000011" num="0011">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4803031</base:DocNumber>
+              <base:Date>19890200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04803031</base:DocNumber>
+              <base:Date>19890200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Ochs et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264255</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="12">
+        <business:ApplicationCitation id="pcit000012" num="0012">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4988472</base:DocNumber>
+              <base:Date>19910100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04988472</base:DocNumber>
+              <base:Date>19910100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Orimoto et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264273</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="13">
+        <business:ApplicationCitation id="pcit000013" num="0013">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5219373</base:DocNumber>
+              <base:Date>19930600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05219373</base:DocNumber>
+              <base:Date>19930600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hatakeyama et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264250</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="14">
+        <business:ApplicationCitation id="pcit000014" num="0014">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5447674</base:DocNumber>
+              <base:Date>19950900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05447674</base:DocNumber>
+              <base:Date>19950900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Schellenbach</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>264268</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="15">
+        <business:ApplicationCitation id="pcit000015" num="0015">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DK</base:WIPOST3Code>
+              <base:DocNumber>83058</base:DocNumber>
+              <base:Date>19570200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DK</base:WIPOST3Code>
+              <base:DocNumber>83058</base:DocNumber>
+              <base:Date>19570200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="16">
+        <business:ApplicationCitation id="pcit000016" num="0016">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>EP</base:WIPOST3Code>
+              <base:DocNumber>0073356</base:DocNumber>
+              <base:Date>19830300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>EP</base:WIPOST3Code>
+              <base:DocNumber>0073356</base:DocNumber>
+              <base:Date>19830300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="17">
+        <business:ApplicationCitation id="pcit000017" num="0017">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:DocNumber>1162068</base:DocNumber>
+              <base:Date>19640100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:DocNumber>1162068</base:DocNumber>
+              <base:Date>19640100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="18">
+        <business:ApplicationCitation id="pcit000018" num="0018">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:DocNumber>1163527</base:DocNumber>
+              <base:Date>19640200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:DocNumber>1163527</base:DocNumber>
+              <base:Date>19640200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:SearchField>
+      <business:ClassificationNational>
+        <business:MainClassification>425/129.1</business:MainClassification>
+        <business:FurtherClassification sequence="1">425/130</business:FurtherClassification>
+        <business:FurtherClassification sequence="2">425/573</business:FurtherClassification>
+        <business:FurtherClassification sequence="3">425/576</business:FurtherClassification>
+        <business:FurtherClassification sequence="4">425/577</business:FurtherClassification>
+        <business:FurtherClassification sequence="5">264/238</business:FurtherClassification>
+        <business:FurtherClassification sequence="6">264/295</business:FurtherClassification>
+        <business:FurtherClassification sequence="7">264/296</business:FurtherClassification>
+        <business:FurtherClassification sequence="8">264/268</business:FurtherClassification>
+        <business:FurtherClassification sequence="9">264/328.1</business:FurtherClassification>
+        <business:FurtherClassification sequence="10">264/328.7</business:FurtherClassification>
+        <business:FurtherClassification sequence="11">264/250</business:FurtherClassification>
+        <business:FurtherClassification sequence="12">264/255</business:FurtherClassification>
+        <business:FurtherClassification sequence="13">264/264</business:FurtherClassification>
+        <business:FurtherClassification sequence="14">264/DIG. 41</business:FurtherClassification>
+        <business:FurtherClassification sequence="15">264/510</business:FurtherClassification>
+        <business:FurtherClassification sequence="16">264/512</business:FurtherClassification>
+        <business:FurtherClassification sequence="17">264/513</business:FurtherClassification>
+        <business:FurtherClassification sequence="18">264/524</business:FurtherClassification>
+        <business:FurtherClassification sequence="19">264/539</business:FurtherClassification>
+        <business:FurtherClassification sequence="20">264/537</business:FurtherClassification>
+        <business:FurtherClassification sequence="21">264/242</business:FurtherClassification>
+      </business:ClassificationNational>
+    </business:SearchField>
+    <business:RelatedDocuments>
+      <business:Continuation>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1">
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID sequence="1">
+              <base:DocNumber>08/793402</base:DocNumber>
+              <base:Date>19930619</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Continuation>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="US">
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Gram</base:LastName>
+            <base:FirstName>Jes Tougaard</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>Pilegardsparken 15</base:Street>
+              <base:AddressCity>DK-3460 Birkerod</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DK</base:WIPOST3Code>
+              <base:Text>Pilegardsparken 15 DK-3460 Birkerod   DK</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" role="chief" sourceDB="US">
+        <base:LastName>Ortiz, Angela</base:LastName>
+      </business:Examiner>
+    </business:ExaminerDetails>
+    <business:StatisticalInformation>
+      <business:DrawingSheetsCount>1</business:DrawingSheetsCount>
+      <business:FiguresCount>4</business:FiguresCount>
+      <business:ClaimsCount>13</business:ClaimsCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract lang="en" dataFormat="original" sourceDB="US">
+    <base:Paragraphs>本发明涉及一种用于重复组装和拆卸的组装物体的制造方法，例如具有匹配盖（4）的管（1），以及用于执行该方法的机器。 根据本发明，管（1）和盖（4）在同一模具（7）中铸造，端部同时弹出并组装在使用时它们将具有的精确位置。 这可以通过首先铸造部件（4）来适当地完成，该部件（4）在边界表面处被放置在最外侧。 当它已经呈现其最终形状时，它在生产另一部件（1）时用作独立的模具。 因此，第一铸件（4）有助于固定用于另一部分（1）的芯系统(9，10，11)，由此可以使该部分的壁厚特别均匀和薄。 因此，用于执行该过程的机器可以铸造例如组装的盖（4）和管(1)，并且因此它还可以适于执行管的自动填充、密封和可能的冲压。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="US">
+    <business:TechnicalField>
+      <base:Paragraphs>技术领域</base:Paragraphs>
+      <base:Paragraphs>本发明涉及一种铸造物体的方法，该物体包括至少两个可分离的部分，其中每个分离的部分特别用于仅用手重复分离和组装，例如具有其匹配盖的塑料管。 本发明还涉及一种用于执行该过程的机器。</base:Paragraphs>
+      <base:Paragraphs>现有技术的讨论</base:Paragraphs>
+      <base:Paragraphs>存在许多已知的生产组装物体的方法，这些方法旨在像管及其盖一样重复分离和组装。 但是在这些情况下，每个部件在其自己的单独的模具中铸造，或者在相同的模具中铸造，但是彼此相邻地单独放置，使得直到铸造和从模具中顶出为止，部件不会组装到其最终位置。 在管及其盖的情况下，两个部件将在单独的模具中铸造，每个模具用其自身的材料，并且通常在两个不同的铸造机中铸造。 然后，在管填充其内容物并密封之前，必须将盖和塑料管放在一起，通常在自动机器中，就像管的贴标签或冲压必须配合到该过程中一样。</base:Paragraphs>
+      <base:Paragraphs>发明内容和发明目的</base:Paragraphs>
+      <base:Paragraphs>根据本发明的方法旨在简化和自动化上述过程。</base:Paragraphs>
+      <base:Paragraphs>本发明涉及一种用于生产包括至少两个可分离部分的组装物体的改进的方法和设备。</base:Paragraphs>
+      <base:Paragraphs>通过在同一机器中、在同一模具中并且实际上同时铸造要组装的物体的部件，并且通过同时将它们从模具中弹出并组装在它们使用时所具有的精确位置，获得了许多优点，在这种情况下，通过塑料管及其匹配的盖来举例说明：</base:Paragraphs>
+      <base:Paragraphs>由于盖在从模具顶出之前被铸造在管上的适当位置，并且因此在铸造之后不需要放置在管上，因此在时间、存储容量以及当将盖正确地放置在管上时可能的复杂性方面获得了相当大的经济性。 由于管是在安装有盖的模具中制成的，因此也有可能在管从正确安装有盖的模具中弹出之前，管可以填充内容物并密封。 这意味着从管的铸造直到填充的、密封的和有目的地也冲压的管的顶出的整个过程可以在一台机器中作为一个整体进行。 这将导致在管中生产材料的更便宜、更简单和改进以及无菌的方式。 并且达到可以为这种类型的产品创建新的和更好的出口的程度。</base:Paragraphs>
+      <base:Paragraphs>根据本发明的用于组装物体的特别合适的生产过程是，首先铸造物体的在相互边界表面中相对于物体的另一部分放置在外侧的部分。 当第一铸件呈现其最终形状时，它可以在生产物体的其他部件时用作独立的模制部件。</base:Paragraphs>
+      <base:Paragraphs>按此顺序进行生产的优点在于，当外部部件（在这种情况下为盖）在铸造之后冷却时，它将在外部和内部收缩到更小的尺寸，因为热膨胀系数“a”在以下项中为正:Lt=Lt(1+a(T-t))。 物体的另一部分，在这种情况下是管本身，在此之后立即在同一模具中铸造，其顶部在盖内，可能仅在注射脱模剂（例如硅喷雾）之后。 当管的顶部现在冷却时，它将在盖内部收缩，因此在任何地方都与盖形成非常小但明显的距离，这将便于在使用时拧松盖以及随后重复的拧松和拧紧。</base:Paragraphs>
+      <base:Paragraphs>如果帽的材料与管的材料不同，使得它们不焊接在一起，而是相反地彼此排斥，则可以完全避免硅喷雾或其他分型剂的注入。 因此，用于盖的材料可以适当地具有明显高于用于管本身的材料铸造的温度的软化温度范围，从而避免粘在一起。</base:Paragraphs>
+      <base:Paragraphs>应当注意的是，由于盖首先被铸造，因此它可以有助于将管的芯部固定在其在模具中的正确位置，因为否则当管材料被注入模具时，芯部将容易地移位到侧面中的一个。 这确保了管壁的均匀厚度，因此可以使管壁更薄，从而节省材料和冷却时间。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs>附图说明</base:Paragraphs>
+      <base:Paragraphs>本发明的更详细的优点和呈现将从附图和描述中显现。</base:Paragraphs>
+      <base:Paragraphs>图1给出了具有安装的盖的管的截面图</base:Paragraphs>
+      <base:Paragraphs>图2示出了用于生产盖和管的模具</base:Paragraphs>
+      <base:Paragraphs>图3示出了处于不同位置的相同部件，以及</base:Paragraphs>
+      <base:Paragraphs>图4示出了处于第三位置的相同装置。</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:Disclosure>
+      <base:Paragraphs>具体实施方式</base:Paragraphs>
+      <base:Paragraphs>图1示出了管1的上部，管1的顶部2具有厚的壁，使得管1可以保持螺纹3，通过螺纹3可以固定匹配的帽4。 帽4具有其自身的螺纹5和向下突出的突起6，其可用于在铸造期间固定芯。</base:Paragraphs>
+      <base:Paragraphs>图2示出了用于生产管1及其匹配的盖4的模具7。 在形成盖4的外部界限的模具7中，存在用于盖4的塑料材料的入口8。 帽4的内部界限由适当同心的芯部分的系统限定，该芯部分由中心处的棒9组成，棒9适当地放置在管1和帽4的中间。 在杆9周围存在管状芯部10，管状芯部10在顶部处被设计成形成帽的螺纹5和帽的突起6。 在该管状芯部10的外侧，存在最外侧的管状芯部11，其在图2中处于最上部位置，并且由此形成盖4的最低表面的极限。 在所示的位置，用于盖的材料的注射可以通过入口8进行，并且几乎同时，用于管的材料的注射可以适当地通过另一个入口12以调节的速度开始进入管13。 当盖4中的材料已经令人满意地硬化时，管10被向下拉出，或者盖4在该过程中通过最外面的管状芯部分11保持在模具7中的适当位置。 同时，可以在帽4的内部注射脱模剂（硅喷雾）。 g. 通过中心杆9中的喷嘴（图中未示出）。 现在，最外面的芯部分11被向下拉动并且稍微远离盖4，从而允许管材料流入顶部2。 由此获得的模具部件的放置在图3中示出。</base:Paragraphs>
+      <base:Paragraphs>图3示出了在完成管13和顶部2的铸造期间芯的三个部分9、10和11的放置，完成的帽4现在用作模具，同时突起6固定棒9，使得芯不移动到一侧，以确保管的均匀和小的壁厚。 当管材料已经令人满意地硬化时，将所有芯部件9、10和11从管中拉出，但可能直到模具已经打开为止，例如。 g. 在图中所示的横截面中，随后可以通过相当简单的自动程序对管进行冲压或粘贴标签，这在图中未示出。</base:Paragraphs>
+      <base:Paragraphs>图4示出了仍然放置在模具7中的空管1的最上部，但是所有的芯部9、10和11已经被移除。 现在可以例如通过安装在底部但未在图中示出的连接件来填充管的内容物，并且还可以在底部存在合适的焊接机构（未在图中示出），其可以在填充之后密封管。 现在，具有压印和内容物的完全完成的管准备好从模具中排出。</base:Paragraphs>
+      <base:Paragraphs>除了附图中所示的示例之外，还可以存在进行根据本发明的过程和用于生产组装物体的机器的其他方式。 作为这种情况的一个示例，可以提及使用夹层模具以及特殊的旋转原理。</base:Paragraphs>
+      <base:Paragraphs>对于生产方法的最后一种变型，可以使用注射成型机，其中固定部分和可移动部分可以围绕位于可移动部分的行进方向中心的轴线彼此成比例地转动。 只有一个部件需要能够转动，就像转动能力可能并且更合适地内置在模制部件之一中一样。 始终在相同方向上适当地进行的逐渐转向可以具有以下阶段：</base:Paragraphs>
+      <base:Paragraphs>首先，盖被铸造在例如静止部分中，而可移动部分具有形成盖的内部的突出芯。 可移动部分现在被拉离固定部分，使得芯体离开，而帽保持在固定部分中。</base:Paragraphs>
+      <base:Paragraphs>现在转动可移动部件，直到具有其芯的管模具位于盖的外部，当两个模制部件可能在已经施加分型剂之后被放在一起时，盖用作管的模具。</base:Paragraphs>
+      <base:Paragraphs>然后铸造管，拉出芯，并将管移动到下一个位置，在该位置例如可以压印文本。 然而，打印可以在芯被拉出之前进行。 在下一个位置处，可以填充管，在下一个位置处，可以例如通过焊接密封管，并且在最后一个位置处，将现在完成、填充和密封的管从模具中弹出，模具现在向前移动并重复该过程。</base:Paragraphs>
+      <base:Paragraphs>上述旋转原理也可以以不同的方式发生，例如，可以以不同的方式发生。 g. 通过在同一阶段具有若干程序。</base:Paragraphs>
+    </business:Disclosure>
+  </business:Description>
+  <business:Claims dataFormat="original" sourceDB="US" lang="en">
+    <base:Paragraphs>我要求：</base:Paragraphs>
+    <base:Paragraphs>1. 一种模制组装物体的方法，所述组装物体包括至少两个可分离部件，所述至少两个可分离部件在接合在一起的同时从它们的共同模具中弹出，其中所述可分离部件能够被手动分离和重新组装，所述部件包括第一部件和一个或多个第二部件，所述一个或多个第二部件具有至少一个配合部分，所述配合部分适于在所述第一部件的内相对表面内可释放地配合接合，所述第一部件包括盖并且在所述内相对表面上具有内部部分，所述第二部件包括管， 所述管的颈部，所述颈部具有用于与所述盖的所述内部部分配合的外部部分，所述方法包括以下步骤：</base:Paragraphs>
+    <base:Paragraphs>模制所述第一部分；</base:Paragraphs>
+    <base:Paragraphs>允许所述第一部件硬化以用作用于模制至少一个第二部件的模具部件；</base:Paragraphs>
+    <base:Paragraphs>将所述一个或多个第二部件模制在所述第一部件的所述内相对表面上以形成所述组装物体；</base:Paragraphs>
+    <base:Paragraphs>在所述部件接合在一起的情况下从所述模具移除所述组装的物体。</base:Paragraphs>
+    <base:Paragraphs>2. 根据权利要求1所述的方法，其中，模制所述第一部件的步骤包括抵靠所述模具固定和定位芯。</base:Paragraphs>
+    <base:Paragraphs>3. 根据权利要求2所述的方法，其中，在所述模制期间能够移动芯部分，使得所述一个或多个第二部分的模制在最薄壁的区域中以至少两个阶段进行。</base:Paragraphs>
+    <base:Paragraphs>4. 根据权利要求3所述的方法，其中，模制所述第一部件的步骤包括将具有至少三个芯部件的芯定位在所述模具内，其中所述芯部件处于第一相对位置，以形成用于形成所述第一部件的第一模腔，将熔融材料引入所述第一模腔中以形成所述第一部件，以及允许所述材料至少部分地硬化。 并且模制一个或多个第二部件的步骤包括调节至少两个型芯部件的相对位置以形成第二模腔，该第二模腔包括在第一部件的相对内表面和至少一个其它型芯部件之间的区域，并且将材料注入第二模腔中以形成一个或多个第二部件。</base:Paragraphs>
+    <base:Paragraphs>5. 根据权利要求4所述的方法，其中，所述芯部中的至少一个芯部保留在所述盖中，而其他芯部中的至少一个芯部具有比其余芯部更大的直径，使得当一个芯部被拉出时，所述芯部将所述第二部分的壁中的材料拉伸得更薄和更长。</base:Paragraphs>
+    <base:Paragraphs>6. 一种模制组装的盖和管容器的方法，所述组装的盖和管容器包括至少两个可分离部件，所述至少两个可分离部件在接合在一起的同时从它们的公共模具中弹出，其中所述可分离部件能够被手动分离和重新组装，所述部件包括用于管的内螺纹盖和具有外螺纹颈部的管，所述管具有至少一个配合部分，所述配合部分适于在所述内螺纹盖内可释放地配合接合，所述盖和所述外螺纹管的配合部分分别表示相对的表面， 所述方法适于可释放地配合接合，以将所述盖可释放地固定到所述管，所述方法包括以下步骤：</base:Paragraphs>
+    <base:Paragraphs>模制所述第一部分；</base:Paragraphs>
+    <base:Paragraphs>允许所述第一部件硬化以用作用于模制至少一个第二部件的模具部件；</base:Paragraphs>
+    <base:Paragraphs>模制所述第二部分；</base:Paragraphs>
+    <base:Paragraphs>从模具中移除组装的物体，其中部件接合在一起，具有盖的管安装在管的顶部上，使得在铸造之后不需要将盖放置在管上。</base:Paragraphs>
+    <base:Paragraphs>7. 一种用于模制组装物体的设备，所述物体包括至少两个可分离的部件，所述部件包括第一部件和一个或多个第二部件，所述第一部件具有内表面，所述内表面具有可释放的配合结构，所述一个或多个第二部件具有配合外表面部分，所述配合外表面部分具有对应的配合结构，用于与所述第一部件的内表面可释放地配合接合，以将所述部件可释放地固定在一起，所述设备包括：</base:Paragraphs>
+    <base:Paragraphs>外模具部分，所述外模具部分具有内腔和形成腔的内表面，所述腔成形为用于形成组装物体的外表面；</base:Paragraphs>
+    <base:Paragraphs>内芯，其位于所述内腔内并且具有在至少一些区域中与所述外模具部件的内表面间隔开的外表面，所述内芯的外表面成形为用于形成所述第一部件的内表面； 以及</base:Paragraphs>
+    <base:Paragraphs>所述内芯包括至少一个芯部分，所述芯部分具有外表面部分，所述外表面部分成形为在所述第一部分上形成配合的内表面结构，并且所述内芯可在第一位置和第二位置之间移动，在所述第一位置，所述外表面部分面向所述外模具部分的相对部分以形成用于模制所述第一部分的模具腔，在所述第二位置，所述模具腔增加以模制所述一个或多个第二部分，由此所述第一部分的内表面形成用于模制所述一个或多个第二部分的模具腔的一部分。</base:Paragraphs>
+    <base:Paragraphs>8. 根据权利要求7所述的装置，其中，所述内芯包括至少两个同心放置且可相互移动的芯部分。</base:Paragraphs>
+    <base:Paragraphs>9. 根据权利要求8所述的装置，其中，所述第二型芯部分能够在第一位置和第二位置之间移动，所述第一位置在模制所述第一部分时形成两个单独的模腔，所述第二位置在完成所述一个或多个第二部分的模制时形成单个模腔。</base:Paragraphs>
+    <base:Paragraphs>10. 根据权利要求7所述的装置，其中，所述外模具部分具有至少两个入口，用于将材料供应到所述模具腔的不同区域。</base:Paragraphs>
+    <base:Paragraphs>11. 根据权利要求9所述的装置，其中，用于模制所述组装物体的所述装置配备有用于在所述内腔中供应不同材料的机构，在所述模制期间所述芯部已经放置在所述内腔中。</base:Paragraphs>
+    <base:Paragraphs>12. 根据权利要求9所述的设备，其中，所述外模具部分的所述内表面成形为形成包括所述组装物体的所述第一可分离部分的盖的外表面和包括所述组装物体的所述第二部分的管的外表面，所述第一芯部分的暴露的外表面部分具有螺纹以在所述盖上形成内螺纹， 并且所述内芯包括附加芯部分，所述附加芯部分具有模具表面，所述模具表面在所述第一芯部分缩回时暴露以形成用于模制所述管的颈部的模具腔。</base:Paragraphs>
+    <base:Paragraphs>13. 根据权利要求7所述的设备，其中，所述设备是可旋转的并且具有多个站，所述站包括用于模制所述第一部件的第一站、用于模制所述第二部件的第二站以及用于填充、密封和添加识别标记的附加站。</base:Paragraphs>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

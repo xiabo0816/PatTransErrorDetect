@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000226496JP00020200911100AFULJA20200611JP008.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020091110" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091110</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091110</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000226496</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018226496</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>23</business:MainGroup>
+        <business:Subgroup>296</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01F  23/296       20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>47</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>36</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A47J  36/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G01F23/296 B</business:FI>
+      <business:FI type="secondary">A47J36/00 Z</business:FI>
+      <business:FClass>
+        <business:FTerm>2F014AA17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F014AB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F014AC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F014FB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B055AA50</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B055BA09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B055CD15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2F014</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B055</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">水位検知装置とそれを備えた調理器具</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>パナソニックＩＰマネジメント株式会社</base:Name>
+            <base:RegisteredNumber>314012076</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市中央区城見２丁目１番６１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>片岡  章</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>大阪府門真市大字門真１００６番地  パナソニック株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>佐々木  晋介</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>大阪府門真市大字門真１００６番地  パナソニック株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>鎌田  健司</base:Name>
+            <base:RegisteredNumber>100106116</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>野村  幸一</base:Name>
+            <base:RegisteredNumber>100115554</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>10</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】液体が沸騰しても、安定して液体の水位検知ができる水位検知装置とそれを備えた調理器具を提供すること。
+【解決手段】内部に液体が侵入可能な空間５が設けられた管状の本体４と、本体の上部に設けられた超音波センサ６と、本体の上部に設けられ空間と本体の外部とを連通する空気孔１１と、本体の下部に設けられた開口孔１０と、開口孔と対向する位置に隙間１３を介して設けられた遮蔽板１２と、を備え、超音波センサは、超音波を発信するとともに、本体内部の液体表面で反射する超音波を受信することにより、液体の水位を検知するものである。
+【選択図】図１</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="69" file="2020091110_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、水位検知を超音波センサを使って行う水位検知装置とそれを備えた調理器具に関するものである。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  従来の水位検知としては、筒状部材の上端に非接触式の距離センサである超音波センサを具備し、筒状部材の下部に液体の出入穴を設けて、液位を検出する装置が提案されている（例えば、特許文献１参照）。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２０１１－１２３０１２号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">
+  しかしながら、従来の特許文献１における水位検知装置の構成は、液体を加熱することは考慮されておらず、液体が加熱中に沸騰が発生すると、沸騰中の泡が筒状部材内に入込み、距離センサである超音波センサの周囲に結露し、液位の検出ができなくなる課題を有していた。
+</base:Paragraphs>
+        <base:Paragraphs num="0005">
+  本発明は、前記従来の課題を解決するもので、液体が沸騰状態になっても正常に超音波センサが動作し、水位検知ができる水位検知装置とそれを備えた調理器具を提供することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">
+  上記従来の課題を解決するために、本発明の水位検知装置は、
+
+内部に液体が侵入可能な空間が設けられた管状の本体と、
+
+前記本体の上部に設けられた超音波センサと、
+
+前記本体の上部に設けられ前記空間と前記本体の外部とを連通する空気孔と、
+
+前記本体の下部に設けられた開口孔と、
+
+前記開口孔と対向する位置に隙間を介して設けられた遮蔽板と、
+
+を備え、
+
+前記超音波センサは、超音波を発信するとともに、前記本体内部の液体表面で反射する超音波を受信することにより、前記液体の水位を検知するものである。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  これによって、水等の液体を加熱すると温度が上昇し、やがて沸騰し、沸騰泡が開口孔から侵入しようとするが、開口孔に対向する位置の遮蔽板にて沸騰泡の開口孔からの侵入を防止し、沸騰泡の侵入で超音波センサ等が結露し、水位検知できなくなることを防止することができる。更に、沸騰中、沸騰泡が発生することで、液面が揺れることになるが、この揺れは、開口孔と遮蔽板との間の隙間を介して、空間内の液面に伝わり、液面が揺れる状態を水位検知の揺れ情報として伝わり、沸騰検知することもできる。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0008">
+  本発明の水位検知装置は、液体を加熱する際の沸騰泡を本体の空間に侵入することを防止し、超音波センサ等に結露し、正常に超音波センサが動作しなくなることを防止できる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0009">
+        <base:FigureReference num="0001">本発明の実施の形態１における水位検知装置とそれを備えた調理器具の正面断面図</base:FigureReference>
+        <base:FigureReference num="0002">本発明の実施の形態１における水位検知装置とそれを備えた調理器具の平面図</base:FigureReference>
+        <base:FigureReference num="0003">本発明の実施の形態１における水位検知装置とそれを備えた調理器具の動作説明のための正面断面図</base:FigureReference>
+        <base:FigureReference num="0004">本発明の実施の形態１における水位検知装置とそれを備えた調理器具を示すブロック図</base:FigureReference>
+        <base:FigureReference num="0005">本発明の実施の形態２における水位検知装置とそれを備えた調理器具の正面断面図</base:FigureReference>
+        <base:FigureReference num="0006">本発明の実施の形態２における水位検知装置とそれを備えた調理器具の平面図</base:FigureReference>
+        <base:FigureReference num="0007">本発明の実施の形態２における水位検知装置とそれを備えた調理器具の動作説明のための要部正面断面図</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0010">
+  第１の発明は、
+
+内部に液体が侵入可能な空間が設けられた管状の本体と、
+
+前記本体の上部に設けられた超音波センサと、
+
+前記本体の上部に設けられ前記空間と前記本体の外部とを連通する空気孔と、
+
+前記本体の下部に設けられた開口孔と、
+
+前記開口孔と対向する位置に隙間を介して設けられた遮蔽板と、
+
+を備え、
+
+前記超音波センサは、超音波を発信するとともに、前記本体内部の液体表面で反射する超音波を受信することにより、前記液体の水位を検知するものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  これによって、水等の液体を加熱すると温度が上昇し、やがて沸騰し、沸騰泡が開口孔から侵入しようとするが、開口孔に対向する位置の遮蔽板にて沸騰泡の開口孔からの侵入を防止し、沸騰泡の侵入で超音波センサ等が結露し、水位検知できなくなることを防止することができる。更に、沸騰中、沸騰泡が発生することで、液面が揺れることになるが、この揺れは、開口孔と遮蔽板との間の隙間を介して、空間内の液面に伝わり、液面が揺れる状態を水位検知の揺れ情報として伝わり、沸騰検知することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  第２の発明は、特に、第１の発明において、前記空気孔は、前記超音波センサと前記開口孔との間に設けられたものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  これによって、本体の空間内の液体から発生する蒸気は、超音波センサに到達する前に空気孔から抜けることとなり、超音波センサを結露させること防止することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  第３の発明は、特に、第１または第２の発明において、前記本体の上部に傾斜面をさらに備え、前記超音波センサは、前記傾斜面に対向した位置に設けられ、前記超音波センサにて発信及び受信する超音波経路に前記傾斜面を介在させたものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  これによって、本体の空間内の液体から発生する蒸気は、超音波センサに到達する前に傾斜面にて結露させることとなり、超音波センサを結露させること防止することができる。さらに、傾斜面の結露水は、傾斜面を伝って液面方向に落とすことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  第４の発明は、特に、第１～第３のいずれか１つの発明の水位検知装置を備えた調理器具である。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  以下、本発明の実施の形態について、図面を参照しながら説明する。なお、この実施の形態によって本発明が限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  （実施の形態１）
+
+  図１は、本発明の実施の形態１における水位検知装置とそれを備えた調理器具の正面断面図、図２は、同水位検知装置とそれを備えた調理器具の平面図を示すものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  図１、図２において、加熱容器である鍋１の内部に食材や水等からなる液体２を収納し、鍋１の底面をコンロ等の加熱部（図示せず）を用いて、ガス火や電熱ヒータや電磁誘導等で加熱する。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  水位検知装置３は、内部に鍋１に収納された液体２が侵入可能な空間５が設けられた管状の本体４を備えている。本体４の上部には超音波センサ６を設けている。管状の本体４の材料としては、例えば熱伝導性の良いアルミニウムや銅等の金属管を用いている。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  超音波センサ６の表面には、超音波を送信または受信する送受信面７を具備している。超音波センサ６の送受信面７には、撥水性に効果のある例えばフッ素樹脂系の表面処理を設けている。超音波センサ６には、信号を入出力する超音波センサ用基板８を取付けている。超音波センサ用基板８は、電池等（図示せず）からなる電源と電気的に接続している。超音波センサ用基板８の周囲は、基板カバー９ａ、９ｂにて取囲んで防水している。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  管状の本体４における短手方向の断面形状は、円形もしくは矩形であり、形状を問うものではない。また、管状の本体４における長手方向の形状は、超音波センサ６から送受信される超音波を妨げる事がない構成であればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  本体４の上部に設けられ本体４内部に形成された空間５と本体４の外部空間とを連通する空気孔１１が設けられている。本体４の下部に開口孔１０が設けられている。開口孔１０と対向する位置に隙間１３を介して遮蔽板１２が設けられている。遮蔽板１２は、本体４の長手側に対して主平面が傾斜した矩形状の平板で構成され、遮蔽板１２は本体４の下部に固定されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  空気孔１１は、本体４の上部において、超音波センサ６と開口孔１０との間に位置に設けられている。この空気孔１１から空間５内の空気が排出可能となり、開口孔１０から液体２が容易に空間５に侵入し易く形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  本体４の外側には、取付け部材１４が設けられている。取付け部材１４は、鍋１の側壁上部１５に取付け可能に形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  本体４の下部に固定されている遮蔽板１２の最下端は、図１に示すように鍋１の底部の内面に当設しても良い。また、遮蔽板１２の最下端は、鍋１の底部の内面から離間しても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  また、本実施の形態における調理器具は、この水位検知装置を備えるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  以上のように構成された水位検知装置とそれを備えた調理器具について、以下その動作、作用を説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  図３は、本発明の実施の形態１における水位検知装置とそれを備えた調理器具の動作説明のための正面断面図、図４は、本発明の実施の形態１における水位検知装置とそれを備
+
+えた調理器具を示すブロック図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  鍋１内に収納した食材や水等からなる液体２の水位検知は、隙間１３を介して開口孔１０から水位検知装置３の空間５内に入った液体２の水位を測定することで代用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  水位検知装置３を、食材や水等からなる液体２を収納した鍋１内に、水位検知装置３の遮蔽板１２側から挿入する。開口孔１０から液体２が空間５に侵入し、空間５内の空気は空気孔１１から排出される。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  空間５内の液体２の水位を検知するのは、超音波センサ６の送受信面７から矢印Ａ１のように発信した超音波が、液体２の上面で矢印Ａ２のように反射し、超音波センサ６の送受信面７で受信し、送信から受信までの時間差と音速との関係で水位が検知できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  さらに、鍋１の中で液体２を加熱すると、液体２の温度が上昇し、最終的には沸騰することになる。沸騰すると図３のように鍋１の底面から蒸気を含んだ泡１６が大量に発生する。この蒸気を含んだ泡１６が、本体４の空間５に侵入すると、空間５内が結露し、超音波センサ６が結露することとなり、超音波の送受信の感度が低下し、液体２の水位検知が困難になる。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  しかしながら、本実施の形態の構成によれば、鍋１の底面から発生して開口孔１０に向かう泡１６が遮蔽板１２によって邪魔され、進行方向がずらされることとなり、泡１６が開口孔１０から本体４の空間５に侵入することを防止することができ、沸騰中も安定して水位検知ができるようになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  また、開口孔１０と超音波センサ６との間には、空気孔１１が設けられている。この構成により、たとえば、本体４の空間５に蒸気が一時的に溜まったとしても、超音波センサ６に蒸気が到達する前に開口孔１０から抜けることとなり、超音波センサ６への結露を減らすことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  さらに、液体２が沸騰すると対流等が発生し、液体２の上面が、図３の矢印Ｂのように揺れる。この揺れは、遮蔽板１２が導入ガイド的な役割で、矢印Ｃのように、開口孔１０を介して空間５内の液体２に伝えられ、矢印Ｄのように揺れる。この揺れ（矢印Ｄ）を水位検知装置３にて検出すると結果的に沸騰検知をすることができる。このように、遮蔽板１２は、泡１６が空間５に侵入することを防ぐと共に、空間５の外側の液体２の揺れを空間５の内部の液体２の揺れに伝えることにも貢献している。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  また、図４（ａ）のブロック図に示すように、超音波センサ６は超音波センサ用基板８からなる制御部１７と電気的に接続しており、超音波センサ６への電源供給や検出信号のやり取りを行っている。具体的な水位の検知としては、矢印Ａ１のように液体２の上面に超音波を送信した時刻ｔ１と矢印Ａ２のように液体２の上面から受信した時刻ｔ２との時間差ｔを基に下記の（数１）のように超音波センサ６と液体２の上面との距離ｘ１を求める。なお、ｃは音速を表す。
+
+ｘ１＝（ｃ×ｔ）／２  ・・・（数１）
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  したがって、距離ｘ１を基に水位変化（液体２の上面の高さ変化）に変換する時は、初期状態の液体２の上面と超音波センサ６との距離を測定し、その値をｘ０として制御部１７に記憶しておき、下記（数２）のように水位変化Δｈを求めることができる。
+
+Δｈ＝ｘ０－ｘ１・・・（数２）
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  この鍋１内の液体２の水位変化Δｈがわかれば、鍋１の加熱中に水位が急に高くなれば
+
+（Δｈが急に大きくなれば）、液体２のふきこぼれが起きるのではないかとか、水位が低くなれば（Δｈが小さくなれば）、液体２の煮詰まり・空焼きの恐れがあるのではないか等を制御部１７で判断し、表示部１８（図１には図示せず）にて使用者に注意を喚起することができる。ここで、制御部１７と表示部１８は水位検知装置３に設けられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  また、上記にて説明したように水位の揺れをΔｈの変動値として制御部１７で検知して判断し、水位の揺れ変動の大きさを基に液体２が沸騰してきたことを表示部１８に示すこともできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  また、図４（ｂ）のブロック図に示すように、超音波センサ６側の制御部１９とコンロ側の制御部２０とに分け、両者の制御部１９と制御部２０を通信で接続することにより、上述のように鍋１内の液体２の水位の変化を制御部１９で検知し、制御部２０に送ることで、液体２の沸騰状態、ふきこぼれ、煮詰まりや空焼きの恐れがある時等に、制御部２０から表示部２１に表示するとともにガス火や電熱ヒータや電磁誘導等の加熱部２２の出力を下げたり、停止させることができ、使用者の利便性を向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  さらに、本実施の形態による構成によって、比較的簡単な構成で、コスト低減も図れることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  水位検知装置３を備えた調理器具として使用するとき、取付け部材１４を鍋１の側壁上部１５から取り外すことにより可能である。使用者は水位検知装置３を調理器具として鍋１から取り外し、水位検知装置３によって鍋１内をかき混ぜることができる。具体的には、遮蔽板１２は、平板で構成されているため、食材や水等からなる液体２を混ぜることができる。また、遮蔽板１２で食材を裏返すなどの調理も可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  （実施の形態２）
+
+  図５は、本発明の実施の形態２における水位検知装置とそれを備えた調理器具の正面断面図、図６は、同水位検知装置とそれを備えた調理器具の平面図を示すものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  図５、図６において、１は鍋、２は液体、６は超音波センサ、７は送受信面、８は超音波センサ用基板、１４は取付け部材である。以上の構成は実施の形態１で説明した構成要素と同じであるため、同一符号、同一名称を付与して説明を省略する。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  水位検知装置２３は、内部に鍋１に収納された液体２が侵入可能な空間２５が設けられた管状の本体２４を備えている。本体２４の上部には、傾斜面２６を具備し、傾斜面２６に対向した位置に超音波センサ６を設けている。管状の本体２４の材料としては、例えば熱伝導性の良いアルミニウムや銅等の金属管を用いている。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  超音波センサ用基板８は、電池等（図示せず）からなる電源と電気的に接続している。超音波センサ用基板８の周囲は、基板カバー２７ａ、基板カバー２７ｂにて取囲んで防水している。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  本体２４の上部に設けられ本体２４内部に形成された空間２５と本体２４の外部空間とを連通する空気孔２９が設けられている。本体２４の下部に開口孔２８が設けられている。開口孔２８と対向する位置に隙間３１を介して遮蔽板３０が設けられている。遮蔽板３０は、本体２４の長手側に対して主平面が湾曲したおわん形状で構成され、遮蔽板３０は本体２４の下部に固定されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  空気孔２９は、本体２４の上部において、開口孔２８と傾斜面２６との間の位置に設けられている。この空気孔２９から空間２５内の空気が排出可能となり、開口孔２８から液
+
+体２が容易に空間２５に侵入し易く形成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  本体２４の外側には、取付け部材１４が設けられている。取付け部材１４は、鍋１の側壁上部１５に取付け可能に形成されている。３２は持ち手で、本体２４の傾斜面２６を囲うように取付けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  本体２４の下部に固定されている遮蔽板３０のおわん形状の最下端は、図５に示すように鍋１の底部の内面に当設しても良い。また、遮蔽板３０のおわん形状の最下端は、鍋１の底部の内面から離間しても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  また、本実施の形態における調理器具は、この水位検知装置を備えるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  以上のように構成された水位検知装置を備えた調理器具について、以下その動作、作用を説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  鍋１内に収納した食材や水等からなる液体２の水位検知は、隙間３１を介して開口孔２８から水位検知装置２３の空間２５内に入った液体２の水位を測定することで代用される。また、水位検知装置２３の先端には、おわん形状の遮蔽板３０を固定しているので、調理器具のお玉杓子としても使用することができる。従って、使用者は良く使う調理器具として、鍋１に違和感無く投入し、取付けできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  空間２５内の液体２の水位を検知するには、超音波センサ６の送受信面７から矢印Ｅ１のように発信した超音波が、傾斜面２６で屈折し、液体２の上面に向かい、液体２の上面で矢印Ｅ２のように反射し、傾斜面２６に向かい、傾斜面２６で屈折し、超音波センサ６に向かい、超音波センサ６の送受信面７で受信し、送信から受信までの時間差と音速との関係で水位が検知できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  さらに、鍋１の中で液体２を加熱すると、液体２の温度が上昇し、最終的には沸騰することになる。沸騰すると実施の形態１で説明したように鍋１の底面から蒸気を含んだ泡が大量に発生する。この蒸気を含んだ泡が、本体２４の空間２５に侵入すると、空間２５内が結露し、超音波センサ６が結露することとなり、超音波の送受信の感度が低下し、液体２の水位検知が困難になる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  しかしながら、本実施の形態の構成によれば、鍋１の底面から発生して開口孔２８に向かう泡が遮蔽板３０によって邪魔され、進行方向がずらされることとなり、泡が開口孔２８から本体２４の空間２５に侵入することを防止することができ、沸騰中も安定して水位検知ができるようになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  また、本実施の形態では、図７に示すように、角度Ｆ（本実施の形態ではＦ＝４５度）で傾斜面２６を形成しており、例え本体２４の空間２５に蒸気が発生し、傾斜面２６に結露３３が発生した場合は、矢印Ｇのように流れ落ち、超音波センサ６の送受信面７に結露３４が発生した場合は、矢印Ｈのように流れ落ち、結果として結露によって水位の検知が低下することを大幅に改善できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  さらに、実施の形態１の図４（ａ）、図４（ｂ）で説明したように、超音波センサ６と超音波センサ基板８にて水位検知ができると、ふきこぼれや、煮詰まりや、沸騰を検出でき、水位検知装置２３自体で、注意喚起したり、コンロ側に検出情報を送り、コンロを最適な状態に制御をすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  なお、本実施の形態では、角度Ｆ＝４５度としたが、他の角度Ｆでも良い。つまり、超
+
+音波の送受信が正確にできるように角度Ｆに対向した方向に超音波センサ６の向きを設定変更すれば良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  また、実施の形態１および実施の形態２において、本体４、本体２４の材料としては、熱伝導性の良いアルミニウムや銅等の金属管を用いることで、液体２が高温になると、その熱が本体４、本体２４に簡単に伝わり、沸騰時には本体４、本体２４が高温になることで、本体４、本体２４内部の結露防止をすることができる。もちろん、この効果を同様に発揮できるように、本体４、本体２４の材料として、カーボンファイバー入りの樹脂等を用いても良い。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0062">
+  以上のように、本発明の水位検知装置は、沸騰中においても安定して水位が測ることができ、構成が簡単でコストが安いので、工場内の湯沸し器等の水位を測定する装置等にも適用できる。
+</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0063">
+  ２  液体
+
+  ３、２３  水位検知装置
+
+  ４、２４  本体
+
+  ５、２５  空間
+
+  ６  超音波センサ
+
+  １０、２８  開口孔
+
+  １１、２９  空気孔
+
+  １２、３０  遮蔽板
+
+  １３、３１  隙間
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="110" wi="78" file="2020091110_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="101" wi="79" file="2020091110_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="111" wi="82" file="2020091110_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="113" wi="80" file="2020091110_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="118" wi="81" file="2020091110_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="95" wi="79" file="2020091110_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="117" wi="83" file="2020091110_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+内部に液体が侵入可能な空間が設けられた管状の本体と、
+
+前記本体の上部に設けられた超音波センサと、
+
+前記本体の上部に設けられ前記空間と前記本体の外部とを連通する空気孔と、
+
+前記本体の下部に設けられた開口孔と、
+
+前記開口孔と対向する位置に隙間を介して設けられた遮蔽板と、
+
+を備え、
+
+前記超音波センサは、超音波を発信するとともに、前記本体内部の液体表面で反射する超音波を受信することにより、前記液体の水位を検知する水位検知装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+前記空気孔は、前記超音波センサと前記開口孔との間に設けられた請求項１に記載の水位検知装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+前記本体の上部に傾斜面をさらに備え、
+
+前記超音波センサは、前記傾斜面に対向した位置に設けられ、
+
+前記超音波センサにて発信及び受信する超音波経路に前記傾斜面を介在させた請求項１または２に記載の水位検知装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+請求項１～３のいずれか１項に記載の水位検知装置を備えた調理器具。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

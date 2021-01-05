@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000226756JP00020200924850AFULJA20200611JP00E.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020092485" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092485</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092485</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000226756</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018226756</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>02</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>7</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H02J   7/00        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>10</business:MainGroup>
+        <business:Subgroup>48</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01M  10/48        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>10</business:MainGroup>
+        <business:Subgroup>44</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01M  10/44        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H02J7/00 S</business:FI>
+      <business:FI type="secondary">H01M10/48 301</business:FI>
+      <business:FI type="secondary">H01M10/44 Q</business:FI>
+      <business:FClass>
+        <business:FTerm>5G503AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503AA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503BA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503CA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503CB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503CC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503FA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503FA18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503GA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503GA20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5G503GB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030AS08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030AS11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030FF26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030FF43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H030FF44</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5G503</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5H030</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">充电装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社ヴァレオジャパン</base:Name>
+            <base:RegisteredNumber>500309126</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>埼玉県熊谷市千代字東原39番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>田本  安充</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区大森西5丁目28番6号  株式会社ヴァレオジャパン内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>竹原  尚彦</base:Name>
+            <base:RegisteredNumber>100148301</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>中島  由布子</base:Name>
+            <base:RegisteredNumber>100176991</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>15</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>检测电路部件的温度升高以防止损坏。 充电装置1具备向电子设备7的电池71（充电体）供给充电电流的充电电路10A、10B、配置在基板16上并构成充电电路10A、10B的多个电路部件IC、配置在基板16的从发热源HIC向其他电路部件IC的导热路径上的热敏电阻15、以及当热敏电阻15检测的温度超过阈值时限制向电子设备7供给充电电流的USB控制器14。 图3</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="51" wi="69" file="2020092485_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及一种充电装置。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">提出了从汽车等的电池的电源向智能手机等电子设备的电池供给电流来进行充电的充电装置。 充电装置由配置在基板上的多个电路部件构成,但由于充电时的电力损耗,有时DCDC转换器等电路部件会发热。 如果各电路部件因发热而超过最大结温,则电路部件有可能损伤。 为了防止这种情况,在基板上配置热敏电阻,在热敏电阻检测的温度超过阈值的情况下,控制充电电流（例如,参照专利文献1）。 。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2012－5288号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">然而,发热源的热在基板上传递,因此各电路部件的温度的上升根据距发热源的距离等条件而变化。 因此,通过将热敏电阻设置在基板上,能够检测基板的气氛温度,但各电路部件的结温有可能比基板的气氛温度高。 根据电路部件的不同,也有最大结温比较低的电路部件,因此有可能无法通过热敏电阻的温度检测来防止电路部件的损伤。</base:Paragraphs>
+        <base:Paragraphs num="0005">本发明的目的在于检测电路部件的温度上升来防止损伤,提高充电装置的可靠性。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">本发明的充电装置具备：向充电体供给充电电流的充电电路、配置在基板上并构成所述充电电路的多个电路部件、配置在所述基板的从发热源的所述电路部件向其他所述电路部件的导热路径上的温度检测元件、以及当所述温度检测元件检测的温度超过阈值时限制向所述充电体供给所述充电电流的控制部。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0007">根据本发明,通过在从基板上的成为发热源的电路部件向其他电路部件的导热路径上配置温度检测元件,能够检测由于从发热源向基板上的热传递而产生的电路部件的温度上升。 通过根据温度检测元件的检测结果来限制充电电流的供给,能够防止电路部件的损伤,提高充电装置的可靠性。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0008">
+        <base:FigureReference num="0001">图0001是表示第1实施方式所涉及的充电装置的概略结构的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示充电电路的结构的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示第1实施方式的基板的区域划分的图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示比较例中的热敏电阻的温度检测的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是表示第1实施方式中的热敏电阻的温度检测的图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是表示变形例2的基板的区域划分的图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是表示变形例3所涉及的充电装置的结构的图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是表示第3实施方式所涉及的充电电路的结构的图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009(A)是表示平滑电容器的通常时的纹波电压的一个例子的图,(B)是表示平滑电容器的劣化时的纹波电压的一个例子和比较器输出的脉冲信号的图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0009">&lt;第一实施方式&gt; 
+以下,参照附图对本发明的第一实施方式所涉及的充电装置1进行说明。 图1是表示实施方式1所涉及的充电装置1的结构的框图。 充电装置1例如设置于汽车等,将汽车的电池5的电力供给至移动电话、智能手机、笔记本电脑等电子设备7的电池71来进行充电。 </base:Paragraphs>
+      <base:Paragraphs num="0010">如图1所示,充电装置1具备对汽车的电池5的电压进行变换并向电子设备7供给的充电电路10A、10B。 充电电路10A、10B配置在未图示的基板上,收容在未图示的壳体的内部。 在壳体安装有作为与汽车的电池5的连接端子的连接器21和作为与电子设备7的连接端子的连接器22A、22B。 连接器21经由电力线与汽车的电池5连接。 连接器22A、22B例如能够设为USB（Universal Serial Bus：通用串行总线）端子。</base:Paragraphs>
+      <base:Paragraphs num="0011">电子设备7包括电池71、充电电路72和连接器73,并且充电装置1的连接器22A或连接器22B经由USB电缆9连接到电子设备7的连接器73,从而将汽车的电池5的电流提供给电子设备7的电池71。 关于电子设备7的结构,省略详细的说明。 USB电缆9包括电源线VBUS、配置信道线CC1/CC2、数据通信线DP/DM、接地线GND等。</base:Paragraphs>
+      <base:Paragraphs num="0012">在充电装置1设置有与2个充电电路10A、10B分别对应的2个连接器22A、22B。 尽管未示出,但是连接器22A和22B各自包括连接到USB电缆9的电源线VBUS的VBUS引脚、连接到配置通道线CC1/CC2的CC引脚、连接到接地线GND的GND引脚等。 电子设备7的连接器73也是同样的结构。 两个连接器22A、22B也可以分别设为与不同的USB标准对应的连接器,例如也可以将连接器22A设为与USB Type-C对应的连接器,将连接器22B设为与USB Type-A对应的连接器。 此外,USB PD（Power Delivery）可以用作与USB Type-C兼容的供电标准。 USB PD根据连接到USB PD的电子装置7的请求选择并提供5V、9V、15V和20V的电源电压中的一个。 充电电压电流对于5V、9V、15V能够设定至3A,对于20V能够设定至5A,具有最大100W（20V/5A）的供电能力。 此外,充电装置1的连接器的数量不限于两个,也可以仅设置一个,或者也可以设置三个以上。</base:Paragraphs>
+      <base:Paragraphs num="0013">在作为与汽车的电池5的连接端子的连接器21与充电电路10A、10B之间,配置有防止充电电流的逆流的逆流防止电路30和去除电力线的噪声的EMC（Electromagnetic Compatibility：电磁兼容性）滤波器40。 EMC滤波器40与充电电路10A、10B分别对应地设置有2个。 从连接器21输入的汽车的电池5的电流通过防逆流电路30以及EMC滤波器40,被输入到充电电路10A、10B。 逆流防止电路30虽然省略图示,但由功率MOSFET等开关元件、电阻以及电容器等构成。</base:Paragraphs>
+      <base:Paragraphs num="0014">2个充电电路10A、10B能够设为基本上相同的结构,因此,在此对一方的充电电路10A的结构进行说明。 图2是表示充电电路10A的结构的框图。 如图2所示,充电电路10A由通过电源线或通信线连接的多个电路部件构成。 电路部件例如是DCDC转换器11、功率MOSFET（Metal-Oxide-Semiconductor Field-Effect Transistor：金属氧化物半导体场效应晶体管）12、平滑电容器13、USB控制器14等。 此外,图示的电路部件是主要的例子,充电电路10A也可以具备其他电路部件。 例如,USB控制器14可以包括与DCDC转换器11集成的电路部件。</base:Paragraphs>
+      <base:Paragraphs num="0015">DCDC转换器11将汽车的电池5的电压转换为USB充电用的规定的电压。 规定的电压由连接的电子设备7的种类、所采用的USB的供电标准决定,例如转换为5V或USB PD的标准中使用的5V、9V、15V、20V等。</base:Paragraphs>
+      <base:Paragraphs num="0016">功率MOSFET12经由电源线VBUS与DCDC转换器11的输出侧连接。 功率MOSFET12作为开关元件,对从DCDC转换器11向连接器22A的电流的供给和切断进行切换。 此外,也可以使用功率MOSFET12内置于DCDC转换器11的类型的功率MOSFET。</base:Paragraphs>
+      <base:Paragraphs num="0017">在功率MOSFET12的输出侧连接有平滑电容器13。 平滑电容器13通过进行充放电而对DCDC转换器11输出的纹波电压进行平滑。 由平滑电容器13平滑后的电压经由电源线VBUS输出到连接器22A。</base:Paragraphs>
+      <base:Paragraphs num="0018">USB控制器14通过控制构成充电电路10A的电路部件的动作,进行充电电流的供给、切断的切换和供给量的控制。 此外,虽然省略图示,但USB控制器14也进行防逆流电路30（参照图1）的控制。</base:Paragraphs>
+      <base:Paragraphs num="0019">USB控制器14经由配置信道线CC1/CC2、数据通信线DP/DM、接地线GND等与连接器22A连接。 配置信道线CC1/CC2是用于进行充电装置1与电子设备7之间的协商的通信线。</base:Paragraphs>
+      <base:Paragraphs num="0020">虽然省略图示,但充电装置1侧的配置沟道线CC1/CC2与连接于电源的上拉电阻连接,电子设备7侧的配置沟道线CC1/CC2与接地的下拉电阻连接。 USB控制器14可以通过监视CC引脚上的电压并检测电子装置7侧上的下拉电阻器是否终止来检测电子装置7的连接。</base:Paragraphs>
+      <base:Paragraphs num="0021">当连接到电子装置7的USB电缆9（参见图1）连接到连接器22A时,USB控制器14经由配置信道线CC1/CC2将可充电简档发送到电子装置7。 电子设备7在确认配置文件后,向充电装置1发送充电电压以及充电电流的请求。 当建立协商时,USB控制器14控制DCDC转换器11以开始根据请求供应充电电流。 USB控制器14可以在协商时创建定义向电子设备7的供应量的表。</base:Paragraphs>
+      <base:Paragraphs num="0022">在充电时,有时在各电路部件产生发热。 特别是,DCDC转换器11、功率MOSFET12由于电流通过时的电力损耗而容易成为发热源。 这些电路部件的发热经由基板也传递到其他电路部件,因此其他电路部件的结温（电路部件内部的芯片的温度）也上升。</base:Paragraphs>
+      <base:Paragraphs num="0023">对于各电路部件,将作为电路部件进行动作的最大温度的最大结温确定为标准。 当电路部件因温度上升而超过最大结温时,电路部件有可能无法正常动作,或者导致损伤。 特别地,在采用USB PD的上述馈电标准的情况下,执行最大100W的馈电,并且因此倾向于产生热量生成。 USB控制器14需要通过检测电路部件的温度升高来控制充电电流的供应量,使得每个电路部件不超过最大结温。</base:Paragraphs>
+      <base:Paragraphs num="0024">在充电装置1中,为了检测电路部件的温度上升,设置有多个作为温度检测元件的热敏电阻15。 热敏电阻15例如能够使用电阻相对于温度的上升而减少的NTC（Negative Temperature Coefficient：负温度系数）热敏电阻。 热敏电阻15的检测信号被输入到USB控制器14。</base:Paragraphs>
+      <base:Paragraphs num="0025">在第一实施方式中,多个热敏电阻15配置在被分割成多个区域的基板上。 图3是表示第1实施方式的基板的区域划分的图。 如上所述,构成充电电路10A的电路部件有各种种类,但在图3的说明中,将这些电路部件总称为“电路部件IC”。</base:Paragraphs>
+      <base:Paragraphs num="0026">如图3所示,基板16收容于壳体17的内部,在壳体17的长度方向的一端侧配置有作为与汽车的电池5连接的连接端子的连接器21,在另一端侧配置有作为与电子设备7连接的连接端子的连接器22A、22B。</base:Paragraphs>
+      <base:Paragraphs num="0027">基板16被分割为多个区域,但基板中央部SC是配置容易成为发热源的电路部件IC的区域。 在基板中央部SC配置例如DCDC转换器11。 在基板中央部SC能够配置充电电路10A、10B双方的DCDC转换器11,但在图3中,为了方便而图示了配置有一个电路部件IC的状态。 以后,将配置于基板中央部SC的成为发热源的电路部件IC称为“发热源HIC”。</base:Paragraphs>
+      <base:Paragraphs num="0028">基板中央部SC的周围隔着基板16的长边方向中心线L1而被分割为一侧的区域A和另一侧的区域B。 在区域A配置充电电路10A的电路部件IC,在区域B配置充电电路10B的电路部件IC。</base:Paragraphs>
+      <base:Paragraphs num="0029">区域A隔着基板16的短边方向中心线L2进一步被分割为两个区域A1和A2,在区域A1、A2分别配置有电路部件IC和热敏电阻15。</base:Paragraphs>
+      <base:Paragraphs num="0030">在第一实施方式中,电路部件IC根据各自的最大结温进行分类,配置于区域A1或区域A2。 如上所述,电路部件IC的最大结温被确定为标准,但最大结温根据电路部件IC的种类、功能而不同。 例如,电力线通过的DCDC转换器11、功率MOSFET 12等具有相对高的最大结温,而控制充电装置1的USB控制器14等具有相对低的最大结温。</base:Paragraphs>
+      <base:Paragraphs num="0031">在实施方式中,在多个电路部件IC中分类为最大结温比较高的电路部件IC和比较低的电路部件IC,将比较高的电路部件IC配置于区域A1,将比较低的电路部件IC配置于区域A2。 配置于区域A1的电路部件IC的最大结温例如能够设为125℃,配置于区域A2的电路部件IC的最大结温例如能够设为105℃。</base:Paragraphs>
+      <base:Paragraphs num="0032">热敏电阻15分别配置在基板中央部SC的发热源HIC与区域A1、A2的各电路部件IC之间。 此外,虽然省略了图示,但热敏电阻也配置在作为发热源HIC的DCDC转换器11的电路内。</base:Paragraphs>
+      <base:Paragraphs num="0033">图4是表示比较例中的热敏电阻15的温度检测的图。 在图4中,将区域A1的电路部件称为IC1,将区域A2的电路部件称为IC2。 如图4所示,在比较例中,将热敏电阻15仅配置在区域A2,而且,不是配置在发热源HIC与电路部件IC2之间,而是配置在相对于发热源HIC比电路部件IC2靠外侧的位置。 基板中央部SC的发热源HIC的发热经由设置有发热源HIC的基板16向周围传递。 来自发热源HIC的热的传递方式根据基板16上的位置而不同,因此在配置于区域A2的热敏电阻15中,难以检测配置于区域A1的电路部件IC1的温度上升。</base:Paragraphs>
+      <base:Paragraphs num="0034">并且,相对于区域A2的电路部件IC2,热敏电阻15也相对于发热源HIC配置在比电路部件IC2靠外侧的位置。 在图中,用波浪线的箭头表示从发热源HIC向各电路部件IC1、IC2的传热路径,但热敏电阻15不位于从发热源HIC向电路部件IC2的传热路径上。 因此,热敏电阻15检测从发热源HIC传递的热的定时有可能比向电路部件IC2的热的传递晚,有可能无法迅速地检测电路部件IC2的温度上升。</base:Paragraphs>
+      <base:Paragraphs num="0035">图5是表示第1实施方式中的热敏电阻15的温度检测的图。 如图5所示,在第一实施方式中,在发热源HIC与区域A1、A2的各电路部件IC1、IC2之间分别配置有热敏电阻15。 即,热敏电阻15位于从发热源HIC向区域A1、A2的电路部件IC1、IC2的各自的传热路径上。 因此,热敏电阻15能够在向电路部件IC1、IC2传递之前检测发热源HIC的热,因此能够迅速地检测在电路部件IC1、IC2产生的温度上升。 另外,通过在各区域A1、A2配置热敏电阻15,容易检测区域A1、A2各自的电路部件IC1、IC2的温度上升。</base:Paragraphs>
+      <base:Paragraphs num="0036">USB控制器14获取每个热敏电阻15的检测信号,并且当检测到的温度超过阈值时,USB控制器14控制DCDC转换器11和功率MOSFET 12的操作以限制充电电流的供应。 可替代地,基于USB PD的标准,USB控制器14可以再次与电子装置7协商,以限制电子装置7侧的充电电流的供应。 作为限制方法,例如,USB控制器14可以基于USB PD标准执行硬件复位。 或者,能够根据与电子设备7的协商,对定义供给量的表进行变更,以使供给量暂时减少的方式使电子设备7的充电电压或充电电流减少。 另外,也可以通过变更与配置沟道线CC1/CC2连接的CC引脚的上拉电阻来变更能够供给的充电电流。 通过限制向电子设备7侧的充电电流的供给,抑制发热源HIC的发热,抑制各电路部件IC1、2超过最大结温而温度上升。 如果热敏电阻15检测的温度为阈值以下,则USB控制器14也可以解除充电电流的供给限制。</base:Paragraphs>
+      <base:Paragraphs num="0037">基于配置于各区域A1、A2的电路部件IC1、IC2的最大结温,针对区域A1、A2的热敏电阻15分别决定阈值。 配置有最大结温高的电路部件IC1的区域A1的热敏电阻15的阈值TA1设定为比配置有最大结温低的电路部件IC2的区域A2的热敏电阻15的阈值TA2高。 阈值也可以具有余量地设定为比最大结温低一定程度的温度,例如,区域A1的阈值TA1能够设定为110℃,区域A2的阈值TA2能够设定为90℃。</base:Paragraphs>
+      <base:Paragraphs num="0038">在图3的例子中,为了便于说明,示出了在各区域A1、A2中各配置一个电路部件IC的状态,但也可以在各区域A1、A2中分别配置多个电路部件IC。 在该情况下,也可以将整体的电路部件IC分为最大结温较高的组和较低的组,将分为相同的组的电路部件IC配置于相同的区域。 另外,在配置于相同区域的多个电路部件IC的最大结温不同的情况下,也可以基于最低的最大结温来设定阈值。 由此,在一个区域配置一个热敏电阻15即可,不需要按每个电路部件IC单独地配置热敏电阻15。</base:Paragraphs>
+      <base:Paragraphs num="0039">另外,示出了热敏电阻15的数量也在各区域A1、A2各配置一个的例子,但并不限定于此,能够根据电路部件IC的数量、配置,以在从发热源HIC向电路部件IC的导热路径上配置热敏电阻15的方式适当地决定设置数量。</base:Paragraphs>
+      <base:Paragraphs num="0040">关于充电电路10B的配置电路部件IC的区域B,也与区域A同样地分割为配置最大结温高的电路部件IC的区域B1和配置最大结温低的电路部件IC的区域B2,在从发热源HIC向各个区域B1、B2的电路部件IC的导热路径上配置热敏电阻15。 对于区域B1、B2的热敏电阻15,与区域A1、A2的热敏电阻15同样地,能够决定与各个电路部件IC的最大结温相应的阈值。</base:Paragraphs>
+      <base:Paragraphs num="0041">此外,虽然省略了图示,但逆流防止电路30以及EMC滤波器40的电路部件IC也能够根据各自的最大结温而配置于基板16上的区域A1、A2、B1、B2中的任意区域。</base:Paragraphs>
+      <base:Paragraphs num="0042">此外,尽管省略了详细描述,但是在发热源HIC本身中也可以安装热敏电阻,并且在发热源HIC的结温超过根据最大结温确定的阈值的情况下,USB控制器14可以限制充电电流的供应。</base:Paragraphs>
+      <base:Paragraphs num="0043">如上所述,实施方式所涉及的充电装置1具备：（1）向电子设备7的电池71（充电体）供给充电电流的充电电路10A、10B、配置在基板16上并构成充电电路10A、10B的多个电路部件IC、配置在基板16的从发热源HIC（发热源的电路部件IC）向其他电路部件IC的导热路径上的热敏电阻15（温度检测元件）、以及当热敏电阻15（温度检测元件）检测的温度超过阈值时限制向电子设备7供给充电电流的USB控制器14（控制部）。</base:Paragraphs>
+      <base:Paragraphs num="0044">充电装置1在充电时,例如DCDC转换器11等电路部件IC有时会发热。 当发热源HIC的热经由基板16传递到各电路部件IC时,各电路部件IC的温度也上升。 各电路部件IC的温度上升根据距发热源HIC的距离等而变化。 通过将热敏电阻15设置在基板16上,能够检测基板16的环境温度,但各电路部件IC的实际的温度即结温有可能比热敏电阻15的检测温度上升。 由于电路部件IC根据种类而存在最大结温比较低的电路部件IC,因此有可能因温度的上升而导致电路部件IC损伤等。</base:Paragraphs>
+      <base:Paragraphs num="0045">在第一实施方式中,通过在从发热源HIC到电路部件IC的导热路径上配置热敏电阻15,能够在发热源HIC的热传递到电路部件IC之前进行检测,因此能够适当地检测在电路部件IC产生的温度上升。 USB控制器14根据热敏电阻15的检测结果来限制充电电流的供给,由此能够防止电路部件IC的损伤。</base:Paragraphs>
+      <base:Paragraphs num="0046">（2）在基板16上形成分别配置有电路部件IC的多个区域A1、A2、B1、B2,热敏电阻15配置在从发热源HIC向各区域A1、A2、B1、B2的电路部件IC的导热路径上,当热敏电阻15检测的温度超过根据各区域A1、A2、B1、B2的电路部件IC决定的阈值时,USB控制器14限制充电电流向电子设备7的供给。 作为限制的方法,例如设为基于USB PD标准的方法。</base:Paragraphs>
+      <base:Paragraphs num="0047">通过在基板16上进行区域划分来配置电路部件IC,并根据各区域A1、A2、B1、B2的电路部件IC来决定热敏电阻15的阈值,从而不需要对全部的电路部件IC单独地配置热敏电阻15,因此能够减少热敏电阻15的个数,并且适当地检测各区域A1、A2、B1、B2的电路部件IC的温度上升而防止损伤。</base:Paragraphs>
+      <base:Paragraphs num="0048">（3）多个区域A1、A2、B1、B2根据电路部件IC的最大结温而形成。 例如,即使温度上升,根据电路部件IC的最大结温,是否需要限制充电电流的供给也不同。 通过根据最大结温划分区域并布置电路组件IC,USB控制器14可以根据电路组件IC适当地限制充电电流。</base:Paragraphs>
+      <base:Paragraphs num="0049">（4）将发热源HIC配置于基板中央部SC（基板16的中央）。 由此,容易使发热源HIC的发热向周围分散,能够降低设置有发热源HIC的部位的温度上升。</base:Paragraphs>
+      <base:Paragraphs num="0050">&lt;变形例1&gt; 
+在第一实施方式中,根据电路部件IC的最大结温来形成多个区域A1、A2、B1、B2,但不限于此,例如,也可以根据电路部件IC的用途来形成多个区域。 例如,诸如USB控制器14的控制系统的电路组件IC的最大结温倾向于低于诸如MOSFET的电源系统的电路组件IC的最大结温。 因此,例如也可以在图3所示的区域A1中配置功率MOSFET12等电源系统的电路部件IC,在区域A2中配置USB控制器14等控制系统的电路部件IC。 这样,通过将相同用途的电路部件IC配置于相同区域,电力线、通信线等的配线设定也变得容易。 </base:Paragraphs>
+      <base:Paragraphs num="0051">如上所述,在变形例1的充电装置1中,（5）根据电路部件IC的用途形成多个区域A1、A2、B1、B2。 由于最大结温根据电路部件IC的用途而不同,因此温度上升时是否需要限制充电电流的供给是不同的。 通过进行与电路部件IC的用途对应的区域划分来配置电路部件IC,USB控制器14能够进行与电路部件IC对应的适当的充电电流的限制。</base:Paragraphs>
+      <base:Paragraphs num="0052">&lt;变形例2&gt; 
+在第1实施方式中,说明了将多个区域A1、A2、B1、B2分别以与发热源HIC所在的基板中央部SC相邻的形式形成,在各个区域A1、A2、B1、B2配置电路部件IC和热敏电阻15的例子,但不限于此。 只要能够在从发热源HIC向电路部件IC的导热路径上配置热敏电阻15即可,基板16中的区域能够根据基板16的面积、电路部件IC的数量等而适当形成。 </base:Paragraphs>
+      <base:Paragraphs num="0053">图6是示出变形例2的基板16的区域划分的图。 图6示出了连接到电子设备7的USB线缆9（参见图1）连接到连接器22A的状态。</base:Paragraphs>
+      <base:Paragraphs num="0054">如图6所示,基板中央部SC与第1实施方式同样,设为配置发热源HIC的区域。 另外,与第1实施方式同样地,隔着基板16的长边方向中心线L1,将一侧的区域C设为充电电路10A的配置电路部件IC的区域,将另一侧的区域D设为充电电路10B的配置电路部件IC的区域。</base:Paragraphs>
+      <base:Paragraphs num="0055">区域C进一步被分割为两个,形成包围基板中央部SC而相邻的区域C1、和配置于区域C1的径向外侧且与基板中央部SC隔离的区域C2。 在区域C1中,配置多个电路部件IC中最大结温比较高的电路部件IC。 在区域C2中,配置多个电路部件IC中最大结温比较低的电路部件IC。 热敏电阻15与实施方式同样地配置在发热源HIC与各区域的电路部件IC之间、即图中箭头所示的从发热源HIC向各区域的电路部件IC的导热路径上。</base:Paragraphs>
+      <base:Paragraphs num="0056">区域C2位于比区域C1远离发热源HIC的位置,因此与区域C1相比发热源HIC的热难以传递。 因此,能够抑制配置于区域C2的最大结温比较低的电路部件IC的温度上升。</base:Paragraphs>
+      <base:Paragraphs num="0057">此外,关于配置充电电路10B的电路部件IC的区域D,也与区域C同样地分割为区域D1、D2,在包围基板中央部SC而相邻的区域D1配置最大结温比较高的电路部件IC,在区域D1的径向外侧的区域D2配置最大结温比较低的电路部件IC。 热敏电阻15布置在从发热源HIC到相应区域D1和D2中的电路部件IC的热传递路径上。</base:Paragraphs>
+      <base:Paragraphs num="0058">如上所述,在变形例2所涉及的充电装置1中,（6）在基板上形成区域C1、D2（第一区域）和位于比区域C1、D1远离发热源HIC的位置的区域C2、D2（第二区域）,配置于区域C2、D2的电路部件IC的最大结温比配置于区域C1、D1的电路部件IC的最大结温低。 通过将配置有最大结温比较低的电路部件IC的区域C2、D2配置为远离发热源HIC,能够抑制最大结温比较低的电路部件IC的温度上升。</base:Paragraphs>
+      <base:Paragraphs num="0059">&lt;变形例3&gt; 
+图7是表示变形例3所涉及的充电装置1的结构的图。 在第一实施方式中,对逆流防止电路30具备功率MOSFET等开关元件31的情况进行了说明,但在变形例3中,如图7所示,在逆流防止电路30设置有热敏电阻32。 </base:Paragraphs>
+      <base:Paragraphs num="0060">在第1实施方式中,说明了根据构成充电电路10A、10B的电路部件IC的温度上升,USB控制器14进行充电电流的供给的限制的方式,但例如由于汽车的电池5的异常电压的输入等原因,有时在作为与汽车的电池5的连接端子的连接器21、防逆流电路30中产生温度上升。</base:Paragraphs>
+      <base:Paragraphs num="0061">在变形例3中,设计为在防逆流电路30设置热敏电阻32,在热敏电阻32检测的温度成为规定值以上的情况下,开关元件31进行动作而切断向充电电路10A、10B的电力的供给。</base:Paragraphs>
+      <base:Paragraphs num="0062">防逆流电路30由充电电路10A、10B的USB控制器14控制,但在异常电压被输入到充电装置1时,不等待USB控制器14的控制就能够在防逆流电路30中切断电流,因此能够防止充电电路10A、10B的电路部件IC的损伤。</base:Paragraphs>
+      <base:Paragraphs num="0063">如上所述,变形例3所涉及的充电装置1具备（7）防逆流电路30（保护电路）,该防逆流电路30设置在汽车的电池5（外部的电源）与充电电路10A、10B之间,包括开关元件31和热敏电阻32（温度检测元件）,防逆流电路30在热敏电阻32检测到规定值以上的温度时,利用开关元件31切断从汽车的电池5向充电电路10A、10B的充电电流的供给。</base:Paragraphs>
+      <base:Paragraphs num="0064">通过在逆流防止电路30设置热敏电阻32,在因异常电压的输入等而产生发热的情况下,能够迅速地切断充电电流的供给,能够防止充电电路10A、10B的电路部件IC的损伤。</base:Paragraphs>
+      <base:Paragraphs num="0065">&lt;第二实施方式&gt; 
+以下,对本发明的第二实施方式所涉及的充电装置1进行说明。 在第1实施方式中,对与构成充电电路10A、10B的电路部件IC的发热相应的充电电流的供给的控制进行了说明,但在第2实施方式中,根据汽车的电池5的电压来控制充电电流的供给。 </base:Paragraphs>
+      <base:Paragraphs num="0066">第2实施方式的充电电路10A、10B的结构与第1实施方式相同,因此参照图1及图2进行说明。 如上所述,充电装置1使用汽车的电池5的电力对电子设备7的电池71进行充电。 如果是汽车的驾驶中,则通过交流发电机对汽车的电池5进行充电,但如果在拥堵中或停车中等不进行对汽车的电池5的充电的状态下继续对电子设备7进行充电,则汽车的电池5的电压降低,有可能对汽车的驾驶造成障碍。</base:Paragraphs>
+      <base:Paragraphs num="0067">在第二实施例中,USB控制器14监视车辆的电池5的输入到DCDC转换器11的电压。 当汽车的电池5的电压低于预定阈值时,USB控制器14控制功率MOSFET 12以停止向电子设备7供应充电电流。 当汽车的电池5的电压恢复到阈值或更高时,USB控制器14控制功率MOSFET 12以重新开始向电子设备7供应充电电流。 可替代地,如在第一实施例中所描述的,USB控制器14可以与电子装置7进行协商,并且在建立协商之后恢复充电电流的供应。 这样,在第二实施方式中,能够防止汽车的电池5的电压的降低对汽车的驾驶造成的影响。</base:Paragraphs>
+      <base:Paragraphs num="0068">&lt;第三实施方式&gt; 
+以下,对本发明的第三实施方式所涉及的充电装置1进行说明。 图8是表示第3实施方式所涉及的充电电路10A的结构的图。 如图8所示,在第3实施方式中,充电电路10A具备设置于平滑电容器13的输出侧的比较器18。 比较器18例如由运算放大器等构成。 比较器18连接到USB控制器14,并且比较器18的输出信号被输入到USB控制器14。 </base:Paragraphs>
+      <base:Paragraphs num="0069">如上所述,平滑电容器13对DCDC转换器11输出的纹波电压进行平滑。 若平滑电容器13劣化,则纹波电压变大,根据情况,有可能导致与充电装置1连接的电子设备7的电路部件IC的损伤等。</base:Paragraphs>
+      <base:Paragraphs num="0070">比较器18将平滑电容器13的输出电压与预先设定的阈值进行比较。 阈值以电子设备7的充电电压为基准,是比充电电压高规定值的阈值VH和比充电电压低规定值的阈值VL。 阈值VH、VL是表示由平滑电容器13的劣化引起的纹波电压的增加的可能性的值。</base:Paragraphs>
+      <base:Paragraphs num="0071">图9的(A)是表示平滑电容器13的通常时的纹波电压的一例的图,图9的(B)是表示平滑电容器13的劣化时的纹波电压的一例和比较器18输出的脉冲信号的图。</base:Paragraphs>
+      <base:Paragraphs num="0072">如图9的(A)所示,纹波电压成为从充电电压上升的期间和从充电电压下降的期间周期性地到来的波形,但平滑电容器13在通常时输出的纹波电压的上升和下降未达到阈值VH和阈值VL。</base:Paragraphs>
+      <base:Paragraphs num="0073">另一方面,如图9的(B)所示,在平滑电容器13劣化等而不再正常动作的情况下,从平滑电容器13输出的纹波电压变大,达到阈值VH以及阈值VL。 当纹波电压达到阈值VH和阈值VL时,从比较器18输出脉冲信号。</base:Paragraphs>
+      <base:Paragraphs num="0074">在第三实施例中,如图8所示,USB控制器14包括对从比较器18输入的脉冲信号进行计数的脉冲计数器141。 当由脉冲计数器141计数的脉冲信号超过预定次数时,USB控制器14控制功率MOSFET 12以停止向电子设备7供应充电电流。</base:Paragraphs>
+      <base:Paragraphs num="0075">规定次数可以设为能够判定平滑电容器13的劣化的次数。 也存在因噪声等而输入脉冲信号的情况。 USB控制器14参考脉冲信号的输入间隔,并且仅在脉冲信号被连续输入预定次数的情况下中断充电电流的供应。</base:Paragraphs>
+      <base:Paragraphs num="0076">例如,在脉冲信号连续输入了两次的情况下,脉冲计数器141计数为“2”,但在脉冲信号的输入以下一个间隔中断了一次的情况下,进行倒计时而设为“1”。 如果在下一个间隔也没有脉冲信号的输入,则脉冲计数器141进一步进行倒计时而设为“0”,但在再次有脉冲信号的输入的情况下进行递增计时而设为“2”。 这样,在输入脉冲信号而开始计数之后脉冲信号的输入不连续的情况下进行倒计时,由此防止由于噪声等原因而错误地切断充电电流向电子设备7的供给。</base:Paragraphs>
+      <base:Paragraphs num="0077">&lt;其他实施方式&gt; 
+在上述的实施方式中,DCDC转换器11和USB控制器14设置为不同的电路部件IC,但也可以使用DCDC转换器11和USB控制器14成为一体的电路部件IC。 或者,也可以将充电装置1的控制电路与电源电路构成为一体。 </base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0078">1-充电装置,5-电池,7-电子设备,71-电池,72-充电电路,73-连接器,9-USB电缆,10A、10B-充电电路,11-DCDC转换器,12-功率MOSFET,13-平滑电容器,14-USB控制器,141-脉冲计数器,15-热敏电阻,16-基板,17-壳体,18-比较器,21-连接器,22A、22B-连接器,30-防逆流电路,31-开关元件,32-热敏电阻,40-EMC滤波器,IC,IC1,IC2-电路部件,HIC发热源,SC-基板中央部,A,A1,A2,区域,B,B1,B2,区域,C,C1,C2,区域,D,D1,D2,区域,L1-长边方向中心线,L2-短边方向中心线。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="122" wi="85" file="2020092485_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="81" file="2020092485_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="62" wi="85" file="2020092485_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="35" wi="85" file="2020092485_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="40" wi="85" file="2020092485_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="122" wi="81" file="2020092485_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="122" wi="81" file="2020092485_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="81" file="2020092485_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="81" file="2020092485_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种充电装置,包括：向充电体供给充电电流的充电电路、配置在基板上并构成所述充电电路的多个电路部件、配置在所述基板的从发热源的所述电路部件到其他所述电路部件的导热路径上的温度检测元件、以及当所述温度检测元件检测到的温度超过阈值时限制向所述充电体供给所述充电电流的控制部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的充电装置,其特征在于,在所述基板上形成分别配置有所述电路部件的多个区域,所述温度检测元件配置在从所述发热源的电路部件向各区域的所述电路部件的所述传热路径上,当所述温度检测元件检测的温度超过根据各区域的电路部件决定的所述阈值时,所述控制部限制向所述充电体供给所述充电电流。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求2所述的充电装置,其特征在于,所述多个区域根据所述电路部件的最大结温而形成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求2所述的充电装置,其特征在于,所述多个区域根据所述电路部件的用途而形成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求2～4中任一项所述的充电装置,其特征在于,在所述基板上形成第1区域和位于比所述第1区域远离所述发热源的位置的第2区域,配置于所述第2区域的电路部件的最大结温比配置于所述第1区域的电路部件的最大结温低。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1～5中任一项所述的充电装置,其特征在于,将成为所述发热源的电路部件配置在所述基板的中央。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1～6中任一项所述的充电装置,其特征在于,具备保护电路,所述保护电路设置在外部的电源与所述充电电路之间,包含开关元件和温度检测元件,所述保护电路在所述温度检测元件检测到规定值以上的温度时,通过所述开关元件切断从所述外部的电源向所述充电电路的充电电流的供给。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

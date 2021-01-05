@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000265847JP00020161255720AFULJA20160711JP00H.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016125572" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016125572</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016125572</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000265847</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265847</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>F</business:Section>
+        <business:MainClass>16</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>55</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>F16D  55/02        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>02</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>7</business:MainGroup>
+        <business:Subgroup>102</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H02K   7/102       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">F16D55/02</business:FI>
+      <business:FI type="secondary">H02K7/102</business:FI>
+      <business:FClass>
+        <business:FTerm>3J058AA43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058AA47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058AA53</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058AA79</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058BA21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058BA41</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058BA64</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058CA45</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058CA65</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058DB15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058EA13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3J058FA42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H607AA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H607BB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H607BB14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H607CC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5H607EE07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>3J058</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5H607</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">摩擦ブレーキ構造</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>オリエンタルモーター株式会社</base:Name>
+            <base:RegisteredNumber>000103792</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都台東区小島２丁目２１番１１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>小野寺  敦司</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>茨城県つくば市東光台５－８－３  オリエンタルモーター株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>奥山  尚一</base:Name>
+            <base:RegisteredNumber>100099623</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>有原  幸一</base:Name>
+            <base:RegisteredNumber>100096769</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>松島  鉄男</base:Name>
+            <base:RegisteredNumber>100107319</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>河村  英文</base:Name>
+            <base:RegisteredNumber>100114591</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>中村  綾子</base:Name>
+            <base:RegisteredNumber>100125380</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="6" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>森本  聡二</base:Name>
+            <base:RegisteredNumber>100142996</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="7" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>角田  恭子</base:Name>
+            <base:RegisteredNumber>100154298</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="8" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>田中  祐</base:Name>
+            <base:RegisteredNumber>100166268</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="9" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>徳本  浩一</base:Name>
+            <base:RegisteredNumber>100170379</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="10" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>渡辺  篤司</base:Name>
+            <base:RegisteredNumber>100161001</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>13</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】摩擦ブレーキ構造における異常音の発生を低減する。【解決手段】摩擦ブレーキ構造は、回転電機１の回転軸１５に固定されたブレーキ板２０と、該ブレーキ板に対向して配置されている環状のブレーキシュー３０と、軸方向に移動可能なように前記回転電機の固定部に係合し、前記ブレーキシューを支持するとともに付勢作用を受けて前記ブレーキシューを前記ブレーキ板に摺接させるブレーキシュー支持板４０とを備えたことを特徴とする。【選択図】図３</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="49" wi="69" file="2016125572_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、モータなどの回転電機のための摩擦ブレーキ構造に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  従来のモータの摩擦ブレーキ構造を図６に示している。モータのモータケース１００内には、固定子１０１と回転子１０２が設けられている。回転子１０２は回転軸１０３に支持されている。回転軸１０３は、出力側軸受１０６ａ及び反出力側軸受１０６ｂに支持されている。回転軸１０３にはブレーキ板１０４が固定されている。このブレーキ板１０４に対向するように複数のブレーキシュー１０５が配設されている。ブレーキシュー１０５は、反出力側軸受１０６ｂを装着したベアリングハウジング部１０７の軸方向に穿設された穴１０８に挿入されている。ブレーキシュー１０５は、コイルスプリング１０９によってブレーキ板１０４の方向に付勢されていることにより、ブレーキ板１０４に摺接している。コイルスプリング１０９は、スプリング押え板１１０に支持されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  このような摩擦ブレーキ構造によれば、ブレーキシュー１０５がブレーキ板１０４に摺接していることにより、制動作用と停止時の保持トルクが得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  そして、複数個の前記ブレーキシューを環状の支持体に固定した点が特許文献１に記載されている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開平１１－８９１７３号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">
+  従来の摩擦ブレーキ構造においては、ブレーキ板の回転に伴ってブレーキシューも回転することにより、ブレーキの鳴きと呼ばれる異常音が発生する場合がある。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  本発明は、かかる問題点に鑑み、摩擦ブレーキ構造における異常音の発生を低減することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">
+  上記の目的を達成するために、本発明の一実施形態によれば、回転電機の回転軸に固定されたブレーキ板と、該ブレーキ板に対向して配置されている環状のブレーキシューと、軸方向に移動可能なように前記回転電機の固定部に係合し、前記ブレーキシューを支持するとともに付勢作用を受けて前記ブレーキシューを前記ブレーキ板に摺接させるブレーキシュー支持板とを備えたことを特徴とする摩擦ブレーキ構造が提供される。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  前記ブレーキシューにおける前記ブレーキ板との摺接面と反対側の面と、前記ブレーキシュー支持板の支持面との一方に凸部を設け、他方に前記凸部に係合する係合部を設けることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  前記ブレーキ板を、前記回転軸を支持する反出力側軸受よりも外側の位置において前記回転軸に固定することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  前記ブレーキ板の外径を、前記反出力側軸受の外径より小さくすることができるとともに、前記ブレーキ板が前記反出力側軸受の内輪部に支持されているものとすることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  前記ブレーキシューの外径を、前記反出力側軸受の外径より小さくすることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  前記摩擦ブレーキ構造は、前記付勢作用を前記ブレーキシュー支持板に付与する機構として円錐コイルばねを更に備えていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  前記摩擦ブレーキ構造は、前記ブレーキシューの軸方向の厚さが一定値以下になった場合に、前記ブレーキシュー支持板の、軸方向前記ブレーキ板側への移動を規制する当て止め部を更に備えていてもよい。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0015">
+  本発明の一実施形態による摩擦ブレーキ構造は、上述の如く、回転電機の回転軸に固定されたブレーキ板と、該ブレーキ板に対向して配置されている環状のブレーキシューと、軸方向に移動可能なように前記回転電機の固定部に係合し、前記ブレーキシューを支持するとともに付勢作用を受けて前記ブレーキシューを前記ブレーキ板に摺接させるブレーキシュー支持板とを備えたことを特徴とする。
+  このように、環状のブレーキシューをブレーキ板に摺接させ、かつブレーキシューがブレーキ板とともに回転しないようにしたことにより、ブレーキシューの摩擦力による回転モーメントを抑制し、ブレーキシューとブレーキ板の連成部のばね定数を変化させないようにすることができる。その結果、ブレーキシューの自励振動を抑制し、ブレーキの鳴きと呼ばれる異常音の発生を低減することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0016">
+        <base:FigureReference num="0001">反出力側から見たブレーキ板及びブレーキシューの配置を示す説明図である。</base:FigureReference>
+        <base:FigureReference num="0002">摩擦ブレーキ構造における連成系を示す説明図である。（Ａ）はブレーキシューが回転していない状態を示している。（Ｂ）はブレーキシューが回転した状態を示している。</base:FigureReference>
+        <base:FigureReference num="0003">本発明の一実施形態によるモータの摩擦ブレーキ構造の断面図である。</base:FigureReference>
+        <base:FigureReference num="0004">図２の部分拡大図である。</base:FigureReference>
+        <base:FigureReference num="0005">摩擦ブレーキ構造の分解斜視図である。</base:FigureReference>
+        <base:FigureReference num="0006">従来のモータの摩擦ブレーキ構造を示す断面図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0017">
+  ［異常音の発生原理］
+  発明者はまず、異常音の発生原理に関して検討を行った。以下に詳細を説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  図６に示したモータにおけるブレーキ板１０４及び複数のブレーキシュー１０５を該モータの反出力側から見た様子を図１に示している。同図において、周方向等間隔に設けられた４個のブレーキシュー１０５を示しており、それらを互いに区別するために符号１０５<base:Sub>１</base:Sub>～１０５<base:Sub>４</base:Sub>を付している。また、ブレーキ板１０４の回転方向を矢印Ａ１により示している。
+  摩擦ブレーキ構造における異常音は、連成系の自励振動に分類される現象である。ブレーキ板１０４の一部分とブレーキシュー１０５<base:Sub>２</base:Sub>とコイルスプリング１０９とを含む連成系を、図１の矢印Ｙの方向から見た様子を図２に示している。同図におけるブレーキ板１０４の弾性をｋ<base:Sub>Ｂ</base:Sub>とし、ブレーキ板１０４の質量をｍ<base:Sub>Ｂ</base:Sub>とし、ブレーキ板１０４の位置をｘ<base:Sub>Ｂ</base:Sub>とする。また、ブレーキシュー１０５<base:Sub>２</base:Sub>の弾性をｋとし、ブレーキシュー１０５<base:Sub>２</base:Sub>の質量をｍ<base:Sub>Ｓ</base:Sub>とし、ブレーキシュー１０５<base:Sub>２</base:Sub>の位置をｘ<base:Sub>Ｓ</base:Sub>とする。さらに、コイルスプリング１０９の弾性をｋ<base:Sub>Ｓ</base:Sub>とする。同図におけるφは、ブレーキ板１０４が回転し、ブレーキ板１０４の一部分が矢印Ａ２の方向に移動したことによるブレーキシュー１０５<base:Sub>２</base:Sub>の倒れ角を示している。加えて、ブレーキシュー１０５<base:Sub>２</base:Sub>の慣性モーメントをＪ<base:Sub>Ｓ</base:Sub>とし、ブレーキ板１０４とブレーキシュー１０５<base:Sub>２</base:Sub>の摩擦係数をμとし、ブレーキシュー１０５<base:Sub>２</base:Sub>の重心Ｇから摺接面１０５ａまでの距離をｌ<base:Sub>０</base:Sub>とし、時間をｔとする。また、ブレーキ板１０４とブレーキシュー１０５<base:Sub>２</base:Sub>の接触面積をＡとし、ブレーキシュー１０５<base:Sub>２</base:Sub>の重心Ｇ周りの回転に関するばね定数をｋ<base:Sub>φ</base:Sub>とする。平衡点近傍でのこれらの量の間には次の関係が成り立つ。
+<base:MathDetails num="0001"><base:Image id="000003" he="40" wi="154" file="2016125572_000003.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails>
+  式（１）はブレーキ板位置についての運動方程式であり、式（２）はブレーキシュー位置についての運動方程式であり、式（３）はブレーキシュー回転についての運動方程式である。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  ここで、被積分関数ｆ（ｌ）はブレーキ板１０４とブレーキシュー１０５<base:Sub>２</base:Sub>との間の圧力を表現する関数である。ｌは、ブレーキシュー１０５<base:Sub>２</base:Sub>の軸線と摺接面１０５ａとの交点Ｑを基準とした摺接面１０５ａにおける座標である。ｆ（ｌ）は、近似的に次のように表すことができる。
+<base:MathDetails num="0002"><base:Image id="000004" he="12" wi="154" file="2016125572_000004.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails></base:Paragraphs>
+      <base:Paragraphs num="0020">
+  これらをまとめると、次の連立方程式となる。
+<base:MathDetails num="0003"><base:Image id="000005" he="42" wi="153" file="2016125572_000005.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails></base:Paragraphs>
+      <base:Paragraphs num="0021">
+  この連立方程式のラプラス変換による特性方程式は次式となる。
+<base:MathDetails num="0004"><base:Image id="000006" he="36" wi="164" file="2016125572_000006.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails>
+  ただし、Ｓはラプラス演算子である。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  一般に、上記特性方程式における行列が対称行列である場合は自励振動系とはならないが、行番号と列番号を入れ替えた要素同士が異符号となる場合には自励振動系となることが知られている。ここに示した場合では、ブレーキシューの回転に関する成分は対称ではなく、異符号となる可能性がある。すなわち、ブレーキシューの回転方向の自励振動が起こり、異常音の原因となりうる。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  上述したように、特許文献１には、各ブレーキシューが環状の支持体に固定されている点が記載されている。この場合、ブレーキシューは、ブレーキ板の回転に伴って環状の支持体との間で微小回転し、自励振動が発生する可能性がある。その結果、異常音が発生しうる。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  ［実施形態］
+  これまでに述べた異常音の発生原理を踏まえて、本発明の一実施形態を以下に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  図３～図５に示しているように、モータ１は筐体としてのモータケース１０を有している。モータケース１０内には固定子１１と回転子１２が設けられている。回転子１２は、出力側軸受１３及び反出力側軸受１４に支持された回転軸１５によって支持されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  反出力側軸受１４は、モータケース１０に一体に設けられたベアリングハウジング部１０ａに装着されている。ベアリングハウジング部１０ａには、モータケース１０の外部に連通するように軸方向の穴部１０ｂが穿設されている。穴部１０ｂは略長円形であり、外周部には、互いに向かい合うように２つの平面部１０ｂ<base:Sub>１</base:Sub>及び１０ｂ<base:Sub>２</base:Sub>が形成されている。このように、穴部１０ｂはいわゆるＤカット形状とされている。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  回転軸１５には、反出力側軸受１４よりも外側の位置において環状のブレーキ板２０が固定されている。ブレーキ板２０の穴部２０ａを回転軸１５が貫通している。ブレーキ板２０はまた、反出力側軸受１４の内輪部１４ａによって支持されている。ブレーキ板２０の外径は、反出力側軸受１４の外径よりも小さい。このブレーキ板２０は、回転軸１５とともに回転する。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  このブレーキ板２０に対向するようにして環状のブレーキシュー３０が設けられている。ブレーキシュー３０の穴部３０ａを回転軸１５が貫通している。ブレーキシュー３０の外径は、反出力側軸受１４の外径よりも小さい。ブレーキシュー３０において、ブレーキ板２０に摺接する軸方向端面と反対の軸方向端面３０ｂには、４個の凸部３０ｃが周方向等間隔に設けられている。ブレーキシュー３０の材質は、ＰＰＳ（ポリフェニレンサルファイド）樹脂やＰＴＦＥ（ポリテトラフルオロエチレン）樹脂などが利用できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  ブレーキシュー３０は、軸方向に移動可能な環状のブレーキシュー支持板４０に支持されている。ブレーキシュー支持板４０の中心に設けられた第１穴部４０ａを回転軸１５が貫通している。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  ブレーキシュー支持板４０の外周部４０ｂには、第１穴部４０ａを挟んで互いに向かい合うように２つの平面部４０ｂ<base:Sub>１</base:Sub>及び４０ｂ<base:Sub>２</base:Sub>が形成されている。この２つの平面部４０ｂ<base:Sub>１</base:Sub>及び４０ｂ<base:Sub>２</base:Sub>はそれぞれ、前記２つの平面部１０ｂ<base:Sub>１</base:Sub>及び１０ｂ<base:Sub>２</base:Sub>と係合するように設けられている。このように、ブレーキシュー支持板４０は、略長円形のいわゆるＤカット形状とされている。ブレーキシュー支持板４０の２つの平面部４０ｂ<base:Sub>１</base:Sub>及び４０ｂ<base:Sub>２</base:Sub>と前記２つの平面部１０ｂ<base:Sub>１</base:Sub>及び１０ｂ<base:Sub>２</base:Sub>とがそれぞれ係合していることにより、ブレーキシュー支持板４０は軸方向に移動可能かつ軸周りに回転不可能とされている。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  さらに、ブレーキシュー支持板４０には、４個の前記凸部３０ｃにそれぞれ係合する４個の第２穴部４０ｃが周方向等間隔に設けられている。４個の凸部３０ｃの各々に４個の第２穴部４０ｃの各々が係合していることにより、ブレーキシュー３０はブレーキシュー支持板４０に固定されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  ブレーキシュー支持板４０の外側の軸方向端面、すなわちブレーキシュー３０の支持面と反対側の面には、円錐コイルばね５０が配設されている。この円錐コイルばね５０は、ねじ６１によりモータケース１０に取り付けられた円錐コイルばね支持板６０に支持されている。ブレーキシュー支持板４０は、円錐コイルばね５０の付勢作用を受けて、ブレーキシュー３０をブレーキ板２０に摺接させている。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  さらに、ブレーキシュー支持板４０において第２穴部４０ｃの径方向外側の外周縁部４０ｄと反出力側軸受１４との間には、ベアリングハウジング部１０ａの穴部１０ｂの内壁から径方向内側に突出するように当て止め部１０ｃが設けられている。当て止め部１０ｃは、ブレーキ板２０との摺接に起因した磨耗によりブレーキシュー３０の軸方向の厚さが一定値以下になった場合に、軸方向ブレーキ板２０側へのブレーキシュー支持板４０の移動を規制するために設けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  ［作用及び効果］
+  上述したように、ブレーキシュー３０はブレーキシュー支持板４０に固定されており、該ブレーキシュー支持板４０は軸方向に移動可能かつ軸周りに回転不可能とされている。そのため、モータ１の駆動時は、回転軸１５及びブレーキ板２０の回転に伴ってブレーキシュー３０が回転してしまうことなく、回転軸１５の回転を制動することができる。モータ１の駆動を停止させると、ブレーキシュー３０による制動力により、迅速に回転軸１５の回転を止めることができる。この停止時においては回転軸１５に関し一定の保持力が得られる。このように、駆動時における制動作用及び停止時における保持トルクが得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  摺接面積の確保が可能な環状のブレーキシュー３０をブレーキ板２０に摺接させることにより、ブレーキシュー３０がブレーキ板２０とともに回転しないようにしている。そのため、ブレーキシュー３０の摩擦力による回転モーメントを抑制し、ブレーキシュー３０とブレーキ板２０の連成部のばね定数を変化させないようにすることができる。
+  ここで、連成振動を表す式（４）～（６）の各々において、右辺第１項は単振動を発生させる復元力を表現しており、この係数が一般に言われるばね定数である。第２項より後の項に倒れ角φが含まれていることにより、図６に示した従来技術によれば、ばね定数が変化したことと同じ効果が発生する。
+  上記実施形態によれば、ブレーキシュー３０とブレーキ板２０の連成部のばね定数を変化させないようにすることで、ブレーキシュー３０の自励振動を抑制し、ブレーキの鳴きと呼ばれる異常音の発生を低減することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  この異常音発生の低減効果を式（７）との関係で説明する。３変数の式（７）をこのまま扱うのは困難なため、要素を減らした２変数で安定性の判別を考える。方程式が以下のように表現できるとする。
+<base:MathDetails num="0005"><base:Image id="000007" he="21" wi="145" file="2016125572_000007.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails>
+  この方程式において非対角要素の積が負となると自励振動系となることが知られている。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  上記実施形態によれば、ブレーキシュー３０が環状であることにより、摺接面積の確保が可能なため、ブレーキシュー３０がブレーキ板２０とともに回転してしまうことを抑えることができる。つまり、図６に示した従来技術とは異なり、倒れ角φがゼロであるか又は限りなくゼロに近い。式（７）において、ブレーキシュー回転についての運動方程式を除いた部分で考えると、以下のようになる
+<base:MathDetails num="0006"><base:Image id="000008" he="21" wi="140" file="2016125572_000008.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails>
+  式（９）において、２つの非対角要素の積は正となり、自励振動系とはならない。そのため、上記実施形態によればブレーキの異常音の発生を低減することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  これに対し、図６に示したような従来技術によれば、式（７）においてＸ<base:Sub>Ｂ</base:Sub>を除いた部分で考えると、以下のようになる。
+<base:MathDetails num="0007"><base:Image id="000009" he="25" wi="142" file="2016125572_000009.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails>
+  従来技術によれば倒れ角φが生じるため、非対角要素に含まれる
+<base:MathDetails num="0008"><base:Image id="000010" he="15" wi="142" file="2016125572_000010.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails>
+は、正負両方の値をとり得る。そのため、２つの非対角要素の積が負となる場合がある。すなわち、従来技術によれば自励振動が生じ、ブレーキの異常音が発生する可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  ブレーキ板２０との摩擦により、ブレーキシュー３０は徐々に摩耗し、ブレーキシュー３０の軸方向の厚さが減少する。この減少に伴い、円錐コイルばね５０の付勢力を受けているブレーキシュー支持板４０は、ブレーキ板２０側に移動する。ブレーキシュー支持板４０はいずれ当て止め部１０ｃに当たり、それ以上のブレーキ板２０側への移動は当て止め部１０ｃにより規制される。ブレーキシュー３０の摩耗がさらに進むと、ブレーキシュー３０はブレーキ板２０に摺接しなくなる。そのため、摩耗がある程度進んだ状態での摺接に起因した火花の発生を抑えることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  これに対し、上記当て止め部１０ｃを設けない図６においては、ブレーキシュー１０５が摩耗した状態でもコイルスプリング１０９が圧縮されないよう、コイルスプリング１０９の自由高さに制約を設けることで、火花の発生を抑えることができる。しかし、この場合、ブレーキシュー１０５が摩耗するに従い、コイルスプリング１０９の圧縮高さが高くなることでコイルスプリング１０９の付勢力が低下し、制動力も低下する恐れがある。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  当て止め部１０ｃを設ける上記実施形態によれば、上記制約は不要であり、ブレーキシュー支持板４０が当て止め部１０ｃに当たるまでは付勢力が十分に得られるような自由高さを有する円錐コイルばね５０を選定することができる。そのため、ブレーキシュー支持板４０が当て止め部１０ｃに当たるまでは安定した制動力を得ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  また、図６においては、ブレーキ板１０４は、反出力側軸受１０６ｂから見て軸方向内側に設けられている。そして、ブレーキシュー１０５は、反出力側軸受１０６ｂと干渉しないようにするために、反出力側軸受１０６ｂの径方向外側に配置されている。それに伴って、ブレーキ板１０４の外径は比較的大きくなる。つまり、回転軸１０３の軸心から比較的離れた位置において、ブレーキシュー１０５がブレーキ板１０４に摺接することになる。必然的に、摺接部分の周速は比較的速いものとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  ブレーキシューの摩耗量は、ばねの付勢力Ｆによって発生する接触圧Ｐ［ＭＰａ］とブレーキシューの摺接面における周速Ｖ［ｍ／ｓ］との積ＰＶの値に比例するが、これとは別に周速Ｖがある値以上の場合にはＰによらずに大きな摩耗量となる。結果として、図６において制動力の長寿命化は困難なものとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  上記実施形態によれば、ブレーキ板２０の外径及びブレーキシュー３０の外径はいずれも反出力側軸受１４の外径よりも小さい。そのため、摺接部分が回転軸１５の軸心に比較的近くなり、摺接部分における周速Ｖの増加を抑えることができる。摺接部分が軸心に近い場合に所望の制動力を得るためにはばねの付勢力Ｆを大きくする必要があるものの、上記実施形態ではブレーキシュー３０を環状として摺接面積を確保したことにより、Ｐの値も抑えることができる。結果として、積ＰＶの値を低下させ制動力の寿命を長くすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  ブレーキシューを複数設けるのではなく一体化させ、これに対応して付勢機構としての円錐コイルばねを１個のみとすることで、組み立ての作業性を向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  円錐コイルばねを使用することで、反出力側軸受の軸方向外側にブレーキ構造を設けたことによるモータの軸方向の大きさの増加を抑えることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  ［他の形態］
+  円錐コイルばね５０に代えて、通常のコイルばねなどの任意の付勢機構あるいは弾撥機構を設けてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  凸部３０ｃが４個の例を示したが、その個数は任意に設定することができる。そして、凸部３０ｃの個数と同じ個数だけ第２穴部４０ｃを設ければよい。第２穴部４０ｃは、凸部３０ｃと係合する係合部であればよく、ブレーキシュー支持板４０の支持面から反対側の面にまで突き抜けた形状及び突き抜けずに窪んだ形状のいずれでもよい。さらに、凸部３０ｃをブレーキシュー支持板４０に設け、第２穴部４０ｃをブレーキシュー３０に設けてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  ブレーキシュー支持板４０は、モータ１を駆動させても動くことのないモータ１内の固定部であるベアリングハウジング部１０ａに限らず、別の固定部に係合していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  上記摩擦ブレーキ構造は、モータ１以外の回転電機に設けることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  上記において、摩擦ブレーキ構造の特定の実施形態について具体的に説明した。しかし、本発明は、このような実施形態に限定されず、当業者にとって明らかな変更、修正は、全て本発明の技術的範囲に含まれる。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0052">
+１      モータ
+１０    モータケース
+１０ａ  ベアリングハウジング部
+１０ｂ  穴部
+１０ｂ<base:Sub>１</base:Sub>  平面部
+１０ｂ<base:Sub>２</base:Sub>  平面部
+１０ｃ    当て止め部
+１１    固定子
+１２    回転子
+１３    出力側軸受
+１４    反出力側軸受
+１４ａ  内輪部
+１５    回転軸
+２０    ブレーキ板
+２０ａ  穴部
+３０    ブレーキシュー
+３０ａ  穴部
+３０ｂ  軸方向端面
+３０ｃ  凸部
+４０    ブレーキシュー支持板
+４０ａ  第１穴部
+４０ｂ  外周部
+４０ｂ<base:Sub>１</base:Sub>  平面部
+４０ｂ<base:Sub>２</base:Sub>  平面部
+４０ｃ    第２穴部
+４０ｄ    外周縁部
+５０      円錐コイルばね
+６０      円錐コイルばね支持板
+６１      ねじ
+１００      モータケース
+１０１      固定子
+１０２      回転子
+１０３      回転軸
+１０４      ブレーキ板
+１０５      ブレーキシュー
+１０５<base:Sub>１</base:Sub>～１０５<base:Sub>４</base:Sub>  ブレーキシュー
+１０５ａ    摺接面
+１０６ａ    出力側軸受
+１０６ｂ    反出力側軸受
+１０７      ベアリングハウジング部
+１０８      穴
+１０９      コイルスプリング
+１１０      スプリング押え板
+Ｇ        重心
+φ        倒れ角
+ｌ<base:Sub>０</base:Sub>      長さ
+ｌ        座標
+Ｑ        交点
+Ａ１、Ａ２、Ｙ  矢印
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000011" he="57" wi="83" file="2016125572_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000012" he="54" wi="85" file="2016125572_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000013" he="60" wi="85" file="2016125572_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000014" he="62" wi="85" file="2016125572_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000015" he="62" wi="85" file="2016125572_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000016" he="62" wi="85" file="2016125572_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  回転電機の回転軸に固定されたブレーキ板と、
+  該ブレーキ板に対向して配置されている環状のブレーキシューと、
+  軸方向に移動可能なように前記回転電機の固定部に係合し、前記ブレーキシューを支持するとともに付勢作用を受けて前記ブレーキシューを前記ブレーキ板に摺接させるブレーキシュー支持板と
+  を備えたことを特徴とする摩擦ブレーキ構造。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記ブレーキシューにおける前記ブレーキ板との摺接面と反対側の面と、前記ブレーキシュー支持板の支持面との一方に凸部を設け、他方に前記凸部に係合する係合部を設けている、請求項１に記載の摩擦ブレーキ構造。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記ブレーキ板が、前記回転軸を支持する反出力側軸受よりも外側の位置において前記回転軸に固定されている、請求項１又は２に記載の摩擦ブレーキ構造。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記ブレーキ板の外径が、前記反出力側軸受の外径より小さく、
+  前記ブレーキ板が前記反出力側軸受の内輪部に支持されている、請求項３に記載の摩擦ブレーキ構造。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記ブレーキシューの外径が、前記反出力側軸受の外径より小さい、請求項３又は４に記載の摩擦ブレーキ構造。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記付勢作用を前記ブレーキシュー支持板に付与する機構として円錐コイルばねを更に備えた請求項１～５のいずれか一項に記載の摩擦ブレーキ構造。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記ブレーキシューの軸方向の厚さが一定値以下になった場合に、前記ブレーキシュー支持板の、軸方向前記ブレーキ板側への移動を規制する当て止め部を更に備えた請求項１～６のいずれか一項に記載の摩擦ブレーキ構造。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

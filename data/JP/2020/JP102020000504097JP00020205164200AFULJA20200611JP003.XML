@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102020000504097JP00020205164200AFULJA20200611JP003.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020516420" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516420</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516420</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102020000504097</base:DocNumber>
+        <base:Date>20180404</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020504097</base:DocNumber>
+        <base:Date>20180404</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>62/483,629</base:DocNumber>
+        <base:Date>20170410</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102017000483629</base:DocNumber>
+        <base:Date>20170410</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>50</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M   5/50        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>32</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M   5/32        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61M5/50 530</business:FI>
+      <business:FI type="secondary">A61M5/32 510H</business:FI>
+      <business:FClass>
+        <business:FTerm>4C066BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066EE06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066FF05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066LL26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066NN08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C066</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">安全ペン注射針可変表示器</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ベクトン・ディキンソン・アンド・カンパニー</base:Name>
+            <base:RegisteredNumber>595117091</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ニュー・ジャージー  ０７４１７－１８８０  フランクリン・レイクス  ベクトン・ドライブ  １</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ジョン  マノッキオ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ０７６６１  ニュージャージー州  リバー  エッジ  サミット  アベニュー  ８２４</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マーク  ボウエン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ０１７７５  マサチューセッツ州  ストー  レッド  エイカー  ロード  １３</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>クンジャル  オザ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ０８９０２  ニュージャージー州  ノース  ブランスウィック  ビレッジ  ドライブ  サウス  ７１０ビー</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ルイス  ヴィエイラ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ０６４６１  コネチカット州  ミルフォード  エイコーン  レーン  ２１</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人  谷・阿部特許事務所</base:Name>
+            <base:RegisteredNumber>110001243</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2018026078</base:DocNumber>
+        <base:Date>20180404</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018191076</base:DocNumber>
+        <base:Date>20181018</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>14</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>ハブ（３０）と、ハブ（３０）に係合された針カニューレ（２０）であって、患者への挿入のための遠位端部およびハブ（３０）内に延在する近位端部を有する針カニューレ（２０）と、ハブ（３０）および針カニューレ（２０）を取り囲むスリーブ（１４）と、窓（１８）を含むシールド（１６）であって、スリーブ（１４）を取り囲み、針カニューレ（２０）の遠位端部を露出させまたカバーするようにスリーブ（１４）に対して第１の位置から第２の位置へまた第３の位置へ移動可能であるシールド（１６）と、シールド（１６）を付勢してスリーブ（１４）に対して第２の位置から第３の位置へ移動させるばね（１４４）とを備え、窓（１８）が、針カニューレ（２０）が第２の位置において伸長されているときにそのことを表示する安全ペン注射針組立体（１２）が開示される。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="80" wi="36" file="2020516420_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、安全ペン注射針組立体に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  本出願は、２０１７年４月１０日に出願した米国特許仮出願第６２／４８３，６２９号明細書の利益を米国特許法第１１９条（ｅ）の下に主張するものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  医療用注射器、特に薬物送達ペン注射器ともに使用するための安全ペン注射針組立体は、当技術分野においてよく知られている。注射前後の使用済み針の遮蔽が、そのようなデバイスによって提供される。しかし、医療専門家にとって、針露出または針貫入（needle injection）を確証すると同時に安全起動（safety activation）を提供することは、困難であり得る。したがって、ユーザは、不注意に早まって注射をするか、または、誤った注射を経験する可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  生物学的物質または病気の伝染は、針が清潔な状態にあれば問題ではない。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">
+  しかし、安全起動機構は、医療専門家または患者が偶発的な針刺しに見舞われるのを防ぐことができる。針は引き続いて患者に使用され得ないので、安全ペン注射針は、適切に処分されなければならない。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">
+  本発明の態様は、安全ペン注射針上に可変表示器を設けて、針カニューレ露出および安全起動を表示することである。そのような安全ペン注射針は、針カニューレが伸長されて患者の皮膚内に貫入されたことを医療専門家に知らせることにおける利点を提供する。また、安全ペン注射針は、安全起動ロック（safety activation lock）を提供して、針カニューレがさらに露出することまたは使用後の汚染を防ぐ。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  本発明の上記および／またはその他の態様は、ハブと、ハブに係合された針カニューレであって、患者への挿入のための遠位端部およびハブ内に延在する近位端部を有する針カニューレと、ハブおよび針カニューレを取り囲むスリーブと、窓を含むシールドであって、スリーブを取り囲み、針カニューレの遠位端部を露出させまたカバーするようにスリーブに対して第１の位置から第２の位置へまた第３の位置へ移動可能であるシールドと、シールドを付勢してスリーブに対して第２の位置から第３の位置へ移動させるばねとを備え、窓が、針カニューレが第２の位置において伸長されているときにそのことを表示する安全ペン注射針組立体を提供することによって達成される。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  本発明の追加のおよび／またはその他の態様および利点は、以下の説明に記述されるか、または、説明から明らかになるか、または、本発明の実践によって学習され得る。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0009">
+  本発明の上記の態様および特徴は、添付の図面を参照しながら行われる本発明の例示的実施形態に対する説明からより明らかになるであろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+        <base:FigureReference num="0001">第１の位置における安全ペン注射針の第１の例示的実施形態の正面図である。</base:FigureReference>
+        <base:FigureReference num="0002">第２の位置における図１の安全ペン注射針の正面図である。</base:FigureReference>
+        <base:FigureReference num="0003">第３の位置における図１および２の安全ペン注射針の正面図である。</base:FigureReference>
+        <base:FigureReference num="0004">薬物送達ペンに接続されたスマートリング（smart ring）を含む安全ペン注射針の第２の例示的実施形態の斜視図である。</base:FigureReference>
+        <base:FigureReference num="0005">窓およびスマートリングを有すると同時に薬物送達ペンに接続されている安全ペン注射針の第３の例示的実施形態の斜視図である。</base:FigureReference>
+        <base:FigureReference num="0006">安全ペン注射針の第４の例示的実施形態の分解組立斜視図である。</base:FigureReference>
+        <base:FigureReference num="0007">針ハブ上のロック機構の一部分を含む、安全ペン注射針の第５の例示的実施形態の右側斜視図である。</base:FigureReference>
+        <base:FigureReference num="0008">内側シールド上のロック機構の一部分を含む、図７の安全ペン注射針の左側斜視図である。</base:FigureReference>
+        <base:FigureReference num="0009">図７および８の安全ペン注射針の分解組立斜視図である。</base:FigureReference>
+        <base:FigureReference num="0010">組み立てられている図７～９の安全ペン注射針の左側斜視図である。</base:FigureReference>
+        <base:FigureReference num="0011">伸長された位置にある図７～１０の安全ペン注射針の左側斜視図である。</base:FigureReference>
+        <base:FigureReference num="0012">伸長された位置において位置合わせされている図７～１１の安全ペン注射針の左側斜視図である。</base:FigureReference>
+        <base:FigureReference num="0013">伸長された位置において回転されかつロックされている図７～１２の安全ペン注射針の左側斜視図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0011">
+  図１は、安全ペン注射針１２の第１の実施形態に接続された典型的な薬物送達ペン１０を示す。安全ペン注射針１２は、ハブ３０に係合された中空の針カニューレ２０を含む。針カニューレ２０は、患者に薬剤を注入しかつ分配する先のとがった遠位端部と、薬物送達ペン１０内のバイアル、カートリッジ、またはリザーバと流体連通している近位端部とを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  針カニューレ２０は、ハブ３０に係合され、かつ、操作の全ての段階においてハブ３０の近位端部を越えて延在し、１つの実施形態では、ハブ３０は、色、数字、模様（縞もしくは点など）、テクスチャ、および／または記号などのしるしを含んで、針カニューレ露出を表示する。針カニューレ露出の表示のさらなる解説は、以下で説明される。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  ハブ３０は、移動可能なスリーブ１４によって取り囲まれる。スリーブ１４の遠位端部が、針カニューレ２０が患者の皮膚に接触するときに停止表面を提供する。針カニューレ２０は、スリーブ１４の遠位端部から伸長されて、患者に貫入される。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  図１に示されるように、安全ペン注射針１２が動作する準備が整っている第１の位置では、スリーブ１４は、針カニューレ２０およびハブ３０を封入しかつ取り囲む。ハブ３０は、この第１の位置では、針カニューレ２０を部分的に封入する。図３に示されるように、安全ペン注射針１２が使用後の安全モードにある第３の位置では、スリーブ１４は、針カニューレ２０およびハブ３０を部分的に封入しかつ取り囲む。ハブ３０は、この第３の位置では、針カニューレ２０を完全に封入する。しかし、図２に示されるように、安全ペン注射針１２が薬物送達のために展開される第２の位置では、針カニューレ２０は、ハブ３０およびスリーブ１４を越えて延在する。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  上記のことを考慮すると、安全ペン注射針１２は、使用していないとき（第１および第３の位置）に針カニューレ２０を有利に隠す、単一の針カニューレ２０デバイスである。言い換えれば、針カニューレ２０は、薬物送達中に第２の位置においてのみ露出される。単一の針カニューレ２０を有する安全ペン注射針１２はまた、薬物送達ペン１０による使用のために複数のペン注射針が用意される典型的なペン注射針マガジンとは異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  スリーブ１４は、多色とされ、かつ、シールド１６と協働して、第１、第２、および第３の位置における安全ペン注射針１２の状態を視覚的に表示する。別の実施形態では、ハブ３０およびシールド１６は協働して、同じような方法で安全ペン注射針１２の状態を提示することもできる。スリーブ１４は、以下で説明されるようにシールド１６内の窓１８と協働して、安全ペン注射針１２の状態を表す。窓１８は、透明なカバーを伴うまたは伴わないシールド１６内の開口部（切抜き）を含み得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  スリーブ１４は、第１および第３の位置では、シールド１６によって部分的に取り囲まれる。シールド１６は、ハブ３０、針カニューレ２０、およびスリーブ１４に移動可能に接続される。シールド１６はまた、シールド１６の移動を促すばね（図６参照）によって圧力をかけられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  具体的には、図１に示されるような第１の位置では、シールド１６は、準備の整ったまたは引っ込められた位置（以下、引込位置）にあり、ばねは、シールド１６を引込位置に向かって付勢する。しかし、シールド１６は、ロックされていない状態にあって、自由に移動することができる。ばねは、シールド１６が移動するのを妨げない。むしろ、医療専門家は、ばね力を克服してシールド１６を移動させることができる。シールド１６はまた、スリーブ１４を部分的に取り囲む。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  図２に示されるような第２の位置では、医療専門家は、安全ペン注射針１２に接続された薬物送達ペン１０を押し下げることにより、デバイスを操作する。この圧力は、針カニューレ２０を薬物送達のために患者の皮膚内に配置させる。この位置では、シールド１６は、伸長され、第２の位置へ移動して、圧縮されたばねによる加圧された力を克服する。シールド１６の移動は、ハブ３０および針カニューレ２０を引込位置（第１の位置）から伸長した位置（以下、伸長位置）（第２の位置）へ移動させる。第２の位置では、シールド１６は、スリーブ１４を完全に取り囲み、針カニューレ２０は、シールド１６およびスリーブ１４を越えて延在する。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  図３に示されるような第３の位置では、医療専門家は、安全ペン注射針１２に接続された薬物送達ペン１０を患者から外す。外すと、ばねは、シールド１６を付勢して、第３の位置に後退させる。スリーブ１４も後退して、ハブ３０および針カニューレ２０を露出させる。しかし、第３の位置では、針カニューレ２０は、ハブ３０内に完全に封入される。したがって、ばねは、安全ペン注射針１２が第３の位置へ移動するときに、第２の位置における使用後のシールド１６および針カニューレ２０の自動的な引込みを有利に提供する。第１の位置と同様に、シールド１６は、スリーブ１４を部分的に取り囲む。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  第３の位置では、安全ペン注射針１２のロック機構（図７参照）が、シールド１６をロックして、安全ペン注射針１２がさらに使用されないようにする。具体的には、針カニューレ２０は、ハブ３０によって完全に封入され、第２の位置において露出されることまたは第１の位置での使用のために戻ることができない。ロック機構は、例えば、シールド１６の内側表面上のタブ、およびハブ３０の外側表面上のスロットを含み得るが、本明細書では様々な他の構成が意図されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  第１の実施形態によれば、図１および３に示されるような第１の位置および第３の位置は、互いに異なる。具体的には、第３の位置では、シールド１６およびスリーブ１４は、第１の位置と比べてさらに引っ込められた位置にある。別の実施形態によれば、第１の位置および第３の位置は、同じ位置である。この代替の実施形態では、ロック機構は、第３の位置で使用されるが第１の位置では使用されないように構成される。別の実施形態では、スリーブ１４は回転されて、第３の位置を第１および第２の位置から角度的に変位させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  シールド１６は、針カニューレ露出および安全起動を視覚的に表示する窓１８を含む。具体的には、図１に示されるように、窓１８は、スリーブ１４の白色部分３６を視覚的に露出させて、準備完了位置を表す。この第１の位置では、安全ペン注射針１２は、動作する準備が整っており、かつ、ロックされていない状態にあって、種々の構成要素が動くことを可能にする。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  図２に示されるように、窓１８は、スリーブ１４の緑色部分３２を視覚的に露出させて、完全に展開した位置を表す。この第２の位置では、安全ペン注射針１２の針カニューレ２０は露出され、患者に挿入されて、薬物を分注している。この視覚的な表示は、医療専門家に針カニューレが患者の皮膚内にあるという確認を有利に提供する。この視覚的な表示は、これまで医療専門家が針カニューレ挿入を確証するのに当てにしてきた単なる触覚の通知または針カニューレ感覚（needle cannula sensation）に優る、著しい改善である。この視覚的な表示が提供する別の利点は、医療専門家に対する訓練がより少なくすむこと、および、注射誤りの危険性が低減されることである。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  図３に示されるように、窓１８は、スリーブ１４の赤色部分３４を視覚的に露出させて、第３の位置における安全モードを示す。この第３の位置では、針カニューレ２０は、ハブ３０内へ引っ込められて、さらなる露出および使用に対してロックされる。この視覚的な表示は、医療専門家に安全ペン注射針１２が安全起動モードにあるという通知を有利に提供する。そのような表示は、患者および医療専門家を使用済みの針カニューレによって汚染されることから守る。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  他の実施形態では、数字、（縞もしくは点などの）模様、テクスチャ、および／または記号などの、しるしの代替的タイプが、上述されたようなスリーブ１４の緑色部分３２、赤色部分３４、または白色部分３６に取って代わるかまたはそれらを補完し得る。様々な模様またはテクスチャは、盲目の人々を、色覚異常の人々を、または例えば他の国において赤色／緑色が異なって認識される場合に、有利に補助し得る。さらに、１つの実施形態では、窓１８は着色されて、視覚的に表示されるものを調節し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  図４は、スマートリング５０を有するが窓を含まない、上述された安全ペン注射針１２の第２の実施形態を示す。スマートリング５０は、安全ペン注射針１２の近位端部に配置された円形のリングである。安全ペン注射針１２が薬物送達ペン１０に係合されると、スマートリング５０は、安全ペン注射針１２と薬物送達ペン１０との間に配置される。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  スマートリング５０は、安全ペン注射針１２の残りの構成要素と協働し位置的なおよび／または空間的な構成を検知してシールド１６の位置および投与量データを判定する、電気接点またはセンサ５２などの電子装置を含む。例えば、スマートリング５０は、針挿入および針露出時間、針挿入速度および針露出速度、行われた注射の回数、注射と注射との間の時間間隔、ならびに使用されたまたは注射に利用可能な針の数を判定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  スマートリング５０はまた、シールド１６の位置を判定して、安全ペン注射針１２が上述のように動作しているのが３つの位置のうちのどの位置なのかを特定する。スマートリング５０は、監視、および安全ペン注射針１２が第１の位置、第２の位置、または第３の位置にあるかどうかなどの状態通知のために、位置データまたは投与量データを外部のスマートデバイス（smart device）に伝える。外部のスマートデバイスは、例えば、携帯電話、ラップトップ、ｉＰａｄ、スマート薬物送達ペン（smart medication delivery pen）、または他の処理デバイスであり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  スマートリング５０は、データを無線でまたは有線接続を介して外部のスマートデバイスに伝える。様々な無線接続方法（例えば、Ｂｌｕｅｔｏｏｔｈ（商標）、またはＷｉ－Ｆｉ、または近距離無線通信（ＮＦＣ）技術）が使用されてもよく、これは、ひいては必要に応じてデバイスペアリングに影響を及ぼし、また、外部のスマートデバイスの近接性の必要性に影響を及ぼし得る。例えば、Ｂｌｕｅｔｏｏｔｈ（商標）は、特定のデバイスペアリングプロセスを用いる。通信する２つのプラットフォームの互いに対する近接性は、使用される接続方法に依存する。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  図５は、スマートリング５０および窓１８を有する、上述の安全ペン注射針１２の第３の実施形態を示す。この実施形態は、第２の実施形態において説明されたスマートリング５０技術、および、第１の実施形態において説明された窓１８の視覚表示機能を組み込む。この構成は、有利には、データ通信と窓１８を通じた状態表示とを同時に提供する。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  この実施形態では、スリーブ１４は、動作中に回転されて、第２の位置を第１および第３の位置から角度的に変位させる。したがって、スリーブ１４は、第１の位置（白色部分３６）から第２の位置（緑色部分３２）へ回転しかつ軸方向に移動して、窓１８を通じて状態を表示する。使用後、スリーブ１４は、第２の位置（緑色部分３２）から第３の位置（赤色部分３４）へ回転しかつ軸方向に移動する。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  第１の実施形態において上述された利点に加えて、第２および第３の実施形態の安全ペン注射針１２におけるスマートリング５０の使用は、針カニューレが完全に露出されるまでまたは完全に伸長されるまで、注射を禁止することができる。そのような機能は、失敗した注射の危険性をさらに軽減することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  図６は、上述の実施形態と同じように機能する、安全ペン注射針１１０の第４の実施形態を示す。具体的には、安全ペン注射針１１０は、窓１１８を有するスリーブ１４６と協働する着色された３つのドット１３２、１３４、１３６が付いた外側シールド１４８を含む。安全ペン注射針１１０は、内側シールド１１６、および、伸長位置と引込位置との間での針１１４の移動を可能にするために、ばね１４４と協働する針ハブ１２６に固定された針１１４をさらに含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  外側シールド１４８は、安全ペン注射針１１０の状態に依存して、内外に摺動し、かつ回転する。白色１３６、赤色１３４、および緑色１３２の３つのドットは、安全ペン注射針１１０の状態に応じて３つのドット１３２、１３４、１３６のうちの１つがスリーブ１４６内の窓１１８と整列するように、外側シールド１４８上に配置される。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  （届けられたときの）準備完了位置では、白色ドット１３６が窓１１８内に見える。注射中、外側シールド１４８は、スリーブ１４６内へ引っ込み、かつ、回転して、緑色ドット１３２を窓１１８内に見せる。ロックされた状態では、シールド１４８は、前進して、窓１１８を通じて赤色ドット１３４を見せる。ばね１４４は、ばね力を提供して、安全ペン注射針１１０の外側シールド１４８を引込位置に戻す。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  他の実施形態では、数字、（縞もしくは点などの）模様、テクスチャ、および／または記号などの、しるしの代替的タイプが、上述されたような外側シールド１４８の緑色、赤色、または白色に着色されたドット１３２、１３４、１３６に取って代わるかまたはそれらを補完し得る。様々な模様またはテクスチャは、盲目の人々を、色覚異常の人々を、または例えば他の国において赤色／緑色が異なって認識される場合に、有利に補助し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  図７～１３は、以下で説明されるようなロックレール２６２およびスロット２６４を備えるロック機構を有する、安全ペン注射針の第５の実施形態を示す。図７は、ロックレール２６２を有する針ハブ２２６を示す。ロックレール２６２は、針ハブ２２６の長手方向表面に沿った、押し出された矩形の部材である。ロックレール２６２は、実質的に中央の軸方向位置において、針ハブ２２６の外側表面上に配置される。２つのロックレール２６２が針ハブ２２６の外側表面に沿って等距離にあると開示されているが、より多いまたはより少ないロックレールが企図されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  図８は、スロット２６４を有する内側シールド２１６を示す。スロット２６４は、内側シールド２１６の近位端部表面に配置された、内部の矩形の空洞である。スロット２６４は、内側シールド２１６の近位端部において近位端部表面を越えて延在するので、スロット２６４は、内側シールド２１６の長さに沿って開口しかつ露出されている。スロット２６４は、針ハブ２２６のロックレール２６２に係合するサイズとされる。より多いまたはより少ないスロット２６４が、針ハブ２２６にある対応するロックレール２６２の数に基づいて企図される。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  図９は、組立に先立って針ハブ２２６のロックレール２６２に位置合わせされている内側シールド２１６のスロット２６４を示す。続いて、図１０に示されるように、内側シールド２１６は、針ハブ２２６上を摺動して、ロックレール２６２をスロット２６４内に係合させる。この位置では、ロックレール２６２は、スロット２６４の開口部に位置合わせされている。したがって、安全ペン注射針は、引っ込められてロックされていない位置にある。スロット２６４は、スロット２６４の長さの大部分に沿ってロックレール２６２を封入しないので、ロックレール２６２は、露出されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  図１１は、安全ペン注射針の伸長位置を示す。具体的には、内側シールド２１６は、ばね（図示せず）からのばね力を介して前進する。ばねは、ねじりばねであることが好ましいが、他のばねも企図される。図１２は、針ハブ２２６のレール２６２から係脱した内側シールド２１６のスロット２６４を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  この時点において、図１３に示されるように、ばねによるねじれが、内側シールド２１６を針ハブ２２６に対して回転させる。したがって、レール２６２は、スロット２６４に位置合わせされず、内側シールド２１６は、もはや針ハブ２２６上で後退することができない。つまり、内側シールド２１６は、引っ込められてロックされていない位置に戻ることができない。このようにして、安全ペン注射針は、内側シールド２１６と針ハブ２２６との係合を防止する、伸長されてロックされた位置に位置する。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  特定の例示的な実施形態に関する上述の詳細な説明は、本発明の原理およびその実際的応用を説明し、それにより当業者が本発明を様々な実施形態に対して、また企図されている特定の用途に適するように様々な修正を伴って理解することができるように、提供されてきた。この説明は、必ずしも包括的であるようにまたは本発明を開示された明確な実施形態に限定するように意図されてはいない。本明細書において開示された実施形態および／または要素のいずれも、それらが互いに矛盾しない限り、互いに組み合わせられて、具体的に開示されていない様々な追加の実施形態を形成することができる。したがって、追加の実施形態が予想され、かつ、本明細書および本発明の範囲に含まれることが意図されている。本明細書は、別の方法で達成され得るより一般的な目的を達成するための特定の例を説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  本出願において使用される場合、「前方」、「後方」、「上方」、「下方」、「上方に」、「下方に」という用語および他の配向に関する記述語は、本発明の例示的な実施形態の説明を容易にするように意図されており、本発明の例示的な実施形態の構造をいかなる特定の位置または配向に限定するようには意図されていない。「実質的に」または「おおよそ」などの程度に関する用語は、所与の値から外れた妥当な範囲、例えば説明された実施形態の製造、組立、および使用に関連する一般的な公差を指すことが、当業者によって理解される。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="99" wi="39" file="2020516420_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="114" wi="78" file="2020516420_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="108" wi="58" file="2020516420_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="106" wi="50" file="2020516420_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="107" wi="50" file="2020516420_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="109" wi="81" file="2020516420_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="54" wi="69" file="2020516420_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="61" wi="62" file="2020516420_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="103" wi="73" file="2020516420_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="54" wi="76" file="2020516420_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="59" wi="81" file="2020516420_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="48" wi="54" file="2020516420_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="68" wi="70" file="2020516420_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  安全ペン注射針組立体であって、
+
+  ハブと、
+
+  前記ハブに係合された針カニューレであって、患者への挿入のための遠位端部および前記ハブ内に延在する近位端部を有する針カニューレと、
+
+  前記ハブおよび針カニューレを取り囲むスリーブと、
+
+  窓を含むシールドであって、前記スリーブを取り囲み、前記針カニューレの前記遠位端部を露出させまたカバーするように前記スリーブに対して第１の位置から第２の位置へまた第３の位置へ移動可能であるシールドと、
+
+  前記シールドを付勢して前記スリーブに対して前記第２の位置から前記第３の位置へ移動させるばねと
+
+を備え、
+
+  前記窓は、前記針カニューレが前記第２の位置において伸長されているときにそのことを表示する安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記窓は、前記スリーブ上のしるしを露出させる請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記窓は、前記ハブ上のしるしを露出させる請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記スリーブまたはハブは、前記第１の位置において前記窓を通して白色である請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記スリーブまたはハブは、前記第２の位置において前記窓を通して緑色である請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記スリーブまたはハブは、前記第３の位置において前記窓を通して赤色である請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記スリーブまたはハブは、前記窓を通して数字、模様、テクスチャ、および／または記号を提示して、前記第１の位置、前記第２の位置、および前記第３の位置を表示する請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記第１の位置は、前記シールドが自由に移動して前記針カニューレを露出させるまたはカバーすることができる、ロックされていない位置である請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記第３の位置は、前記シールドが所定の位置にロックされて前記針カニューレをしっかりとカバーする、ロックされた位置である請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記針カニューレは、前記第１の位置および前記第３の位置において引っ込められかつ前記ハブによってカバーされる請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記シールドの位置を判定する電気接点またはセンサを有するスマートリングをさらに備える請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記スマートリングは、スマートデバイスと通信する請求項１１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記スマートリングは、準備完了モード、完全に展開されたモード、またはセーフモードを伝える請求項１２に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記スマートリングは、前記安全ペン注射針組立体の近位端部に配置される請求項１１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  薬物送達安全ペン注射針組立体であって、
+
+  薬物送達ペンと、
+
+  請求項１１に記載の安全ペン注射針組立体と
+
+を備え、
+
+  前記スマートリングは、前記薬物送達ペンの遠位端部に、また、前記安全ペン注射針組立体の近位端部に配置される薬物送達安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  前記シールドの前記ハブへの係合を防止するロック機構をさらに備える請求項１に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  前記シールドは、引っ込められてロックされていない位置において前記ハブ上のレールに係合するスロットを含む請求項１６に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  前記スロットは、伸長されてロックされた位置では前記レールに位置合わせされない請求項１７に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>
+  前記シールドを前記ハブに対して回転させて前記スロットを前記レールに位置合わせさせないばねをさらに備える請求項１７に記載の安全ペン注射針組立体。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000016" file="2020516420_000016.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

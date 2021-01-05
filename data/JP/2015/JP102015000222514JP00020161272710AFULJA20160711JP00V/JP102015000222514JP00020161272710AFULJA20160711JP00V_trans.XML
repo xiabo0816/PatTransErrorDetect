@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000222514JP00020161272710AFULJA20160711JP00V.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127271" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127271</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127271</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000222514</base:DocNumber>
+        <base:Date>20151112</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015222514</base:DocNumber>
+        <base:Date>20151112</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000265572</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265572</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>S</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>183</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01S   5/183       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>306</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  21/306       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01S5/183</business:FI>
+      <business:FI type="secondary">H01L21/306 B</business:FI>
+      <business:FI type="secondary">H01L21/306 S</business:FI>
+      <business:FClass>
+        <business:FTerm>5F043AA15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F043BB08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F043DD15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AC14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AH03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AP32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AP33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F173AR06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5F043</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5F173</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">表面发射激光器,信息获取装置,成像装置,激光器阵列和制造表面发射激光器的方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>キヤノン株式会社</base:Name>
+            <base:RegisteredNumber>000001007</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都大田区下丸子3丁目30番2号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中西  宏一郎</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都大田区下丸子3丁目30番2号キヤノン株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>長友  靖浩</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都大田区下丸子3丁目30番2号キヤノン株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>阿部  琢磨</base:Name>
+            <base:RegisteredNumber>100126240</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>黒岩  創吾</base:Name>
+            <base:RegisteredNumber>100124442</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>18</business:ClaimsCount>
+      <base:TotalPageCount>13</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种具有宽波长可变带的表面发射激光器。 一种面发光激光器,其具有第1反射镜102、第2反射镜116以及配置于第1反射镜102与第2反射镜116之间的活性层104,在第2反射镜116与活性层104之间形成有间隙,振荡波长可变,第2反射镜116具有由单晶的半导体构成的梁108和由梁108支承的电介质多层膜110,电介质多层膜110配置于在梁108形成的开口部118。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="63" file="2016127271_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及面发射激光器、信息取得装置、摄像装置、激光器阵列以及面发射激光器的制造方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">能够改变振荡波长的波长可变激光器能够期待向通信、传感、成像等各种领域的应用,因此近年来积极地进行研究开发。 作为波长可变激光器,开发了使垂直谐振器型面发光激光器（Vertical Cavity Surface Emission Laser：以下,称为VCSEL）的一对反射镜中的一方移动的结构。 具体而言,通过利用微机电系统（Micro Electro Mechanical Systems,以下称为MEMS）技术使一对反射镜中的一方（可动镜）机械地移动,从而使谐振器长度变动,使VCSEL的振荡波长变化。</base:Paragraphs>
+      <base:Paragraphs num="0003">另外,作为可动镜,能够使用电介质的分布布拉格反射镜（Distributed Bragg Reflector：以下称为DBR）。 在非专利文献1中,公开了在可动镜中具备电介质DBR的波长可变型的VCSEL。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">           <business:ApplicationCitation num="0001">
+            <base:Text>米国特許第8059690号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>米国特許第8189643号明細書</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+      <business:NPL>
+        <base:Paragraphs num="0005">           <business:NPLCitation num="0001">
+            <base:Text>Garrett  D.  Cole  et  他3名、「Short－Wavelength  MEMS－tunable  VCSELs」、OPTICS  EXPRESS  29th  September  2008  Vol.16  No.20  p.16093－16103</base:Text>
+          </business:NPLCitation> </base:Paragraphs>
+      </business:NPL>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">如非专利文献1的图4所示,电介质DBR在宽波长带中具有高反射率,但是在电介质DBR的反射率光谱中,存在被称为凹陷的区域,在该区域中,反射率比其他区域显著降低。 在波长可变型的VCSEL中,在与该下降对应的波长下振荡阈值上升,因此难以振荡,无法扩大波长可变频带。</base:Paragraphs>
+        <base:Paragraphs num="0007">本发明的目的在于提供一种波长可变频带宽的面发光激光器。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">本发明的一个方式的面发射激光器的特征在于,具有第1反射镜、第2反射镜、以及配置于所述第1反射镜与所述第2反射镜之间的活性层,在所述第2反射镜与所述活性层之间形成有间隙,所述第2反射镜具有由单晶的半导体构成的梁、以及由所述梁支承的电介质多层膜,所述电介质多层膜配置于形成于所述梁的开口部。</base:Paragraphs>
+        <base:Paragraphs num="0009">本发明的另一方式的面发射激光器的特征在于,具有第1反射镜、第2反射镜、以及配置于所述第1反射镜与所述第2反射镜之间的活性层,所述第2反射镜具有梁、以及由所述梁支承的多层膜,在所述第2反射镜与所述活性层之间形成有间隙,所述多层膜配置于形成于所述梁的开口部,所述多层膜从所述开口部连接至所述开口部的周边的所述梁的与和所述活性层对置的面相反侧的面而配置。</base:Paragraphs>
+        <base:Paragraphs num="0010">另外,本发明的面发射激光器的制造方法具有第1反射镜、第2反射镜、以及配置于所述第1反射镜与所述第2反射镜之间的活性层,在所述第2反射镜与所述活性层之间形成有间隙,所述振荡波长可变,所述面发射激光器的制造方法的特征在于,包括如下工序：依次形成第1反射镜、活性层、以及牺牲层的工序,在所述牺牲层之上形成由单晶的半导体构成的梁前体的工序,在所述梁前体形成贯通所述梁前体的开口部的工序,在所述开口部形成电介质多层膜的工序,除去所述牺牲层,在所述第2反射镜与所述活性层之间形成间隙而形成梁的工序；</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0011">根据本发明,能够得到波长可变频带宽的面发光激光器。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0012">
+        <base:FigureReference num="0001">图0001是示出根据第一实施例的表面发射激光器的示例的示意性横截面图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002表示实施方式1的面发射激光器的上部反射镜的反射特性的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是示出根据第一实施例的表面发射激光器的另一示例的示意性横截面图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是示出根据第一实施例的表面发射激光器的梁的示例的示意图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是示出根据第二实施例的成像设备的示例的示意图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是示出根据实施方式1的表面发射激光器的制造方法的实施例的示意性横截面图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是示出根据实施方式2的表面发射激光器的制造方法的实施例的示意性横截面图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008示出比较例的面发射激光器的截面示意图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0013">首先,对上述课题进行详细叙述。 图8是示出比较例的面发射激光器的截面示意图。 表面发射激光器在衬底500上包括第一反射镜502、有源层504、支撑层506和第二反射镜516。 第二反射镜516具有梁508和形成在梁508上的电介质多层膜（电介质DBR）510。 在第2反射镜516与活性层504之间形成有间隙AG。 另外,第2反射镜516的梁508被支承层506支承。 在活性层504内具有发光部512,发光部512与电介质多层膜510对应。</base:Paragraphs>
+      <base:Paragraphs num="0014">梁508由单晶的半导体构成,具有导电性。 而且,通过在设置于基板500的下部的第1电极524与设置于梁508的上部的第2电极522之间施加交流电压,梁508在活性层504的厚度方向上振动。 其结果,电介质多层膜510也在活性层504的厚度方向上振动,由第1反射镜502和第2反射镜516构成的一对反射镜的共振器长度变动,由发光部512发出的光中的与共振器长度对应的特定波长的光向外部射出。 这样,面发射激光器的振荡波长可变。</base:Paragraphs>
+      <base:Paragraphs num="0015">比较例的第二反射镜516的反射光谱由图2的虚线表示。 这样,在比较例的第2反射镜516中,存在反射率比其他反射镜大幅降低0.5%以上的区域即凹陷。 具体而言,在1060nm至1095nm的波段,反射率大幅降低。 在这样的区域中,难以引起激光振荡,波长可变频带变小。</base:Paragraphs>
+      <base:Paragraphs num="0016">本发明人等反复进行了深入研究,结果判明：由于在电介质多层膜510的下部存在梁508,因此会引起该现象。 具体地,认为在图8的比较示例中,在特定波长处发生由梁508的电介质多层膜510侧的表面反射的反射光R1和由梁508的与电介质多层膜510侧的表面相反侧的表面反射的反射光R2的相消干涉。</base:Paragraphs>
+      <base:Paragraphs num="0017">因此,作为本发明的第2反射镜,采用在梁设置开口部并在该开口部配置电介质多层膜的结构。 根据该结构,在与发光部对应的位置没有梁,因此不会产生梁中的相互削弱的干涉。 其结果,如图2的实线所示,不会在第2反射镜的反射光谱中产生下降,能够扩大波长可变频带。</base:Paragraphs>
+      <base:Paragraphs num="0018">以下,对本发明的波长可变型的面发光激光器、具备该面发光激光器的信息取得装置、摄像装置以及激光器阵列进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0019">（实施方式1） 
+图1是表示本实施方式的面发射激光器的一个例子的截面示意图。 表面发射激光器在基板100上包括第一反射镜102,有源层104,支撑层106和第二反射镜116。 第二反射镜116包括梁108和由梁108支撑的电介质多层膜（电介质DBR）110。 在第2反射镜116与活性层104之间形成有间隙AG。 另外,第2反射镜116的梁108被支承层106支承。 在活性层104内存在发光部112,发光部112与电介质多层膜110对应。 此外,以下有时将基板100、第1反射镜102、活性层104和支撑层106称为半导体构造体114。 </base:Paragraphs>
+      <base:Paragraphs num="0020">梁108由单晶的半导体构成,具有导电性。 并且,通过在设置于基板100的下部的第1电极124与设置于梁108的上部的第2电极122之间施加交流电压,梁108在活性层104的厚度方向上振动。 其结果,电介质多层膜110也在活性层104的厚度方向上振动,由第1反射镜102和第2反射镜116构成的一对反射镜的共振器长度变动,由发光部112发出的光中的与共振器长度对应的特定波长的光向外部射出。 这样,面发射激光器的振荡波长可变。</base:Paragraphs>
+      <base:Paragraphs num="0021">而且,在本实施方式的面发射激光器中,在梁108设置有开口部118,在该开口部配置有电介质多层膜110。 开口部118设置在与发光部112对应的位置。 因此,如上所述,电介质多层膜110也配置在与发光部112对应的位置。 其结果是,与发光部112对应的位置的梁108消失,因此不会产生比较例那样的课题。</base:Paragraphs>
+      <base:Paragraphs num="0022">图2用实线表示本实施方式的第2反射镜116的反射光谱。 另外,虚线表示图8的比较例的第二反射镜516的反射光谱。 这样,可知在比比较例宽的波段维持了高反射率。 因此,能够扩大波长可变型的面发光激光器的振荡波长的可变波段。</base:Paragraphs>
+      <base:Paragraphs num="0023">另外,根据本实施方式的第2反射镜116的结构,相对于比较例,能够缩短谐振器长度（一对反射镜之间的光学距离）。 具体而言,若将由单晶的半导体构成的梁的折射率设为n,将其厚度设为d,则本实施方式的谐振器长度能够比比较例的谐振器长度短至少（n-1）×d以上。 在谐振器长度短的情况下,能够增大式1所示的纵模间隔Δλ。 由此,不易发生跳模,能够进行稳定的波长扫描动作。 Δλ=λ<base:Sup>2</base:Sup>在此,λ是振荡波段的中心波长,L是谐振器长度。</base:Paragraphs>
+      <base:Paragraphs num="0024">另外,通过采用电介质多层膜110的与活性层104相对的面S1比梁108的与活性层104相对的面S2向活性层104侧从开口部118突出的结构,能够进一步缩短谐振器长度。 根据该结构,能够进一步抑制跳模。</base:Paragraphs>
+      <base:Paragraphs num="0025">此外,电介质多层膜110的与面向活性层104的表面S1相对的表面S3可以从开口部118向与活性层104相对的一侧突出,而不是梁108的与面向活性层104的表面S2相对的表面S4向与活性层104相对的一侧突出。 另外,面S3和面S4可以是相同的位置,面S3也可以位于比面S4靠活性层104侧的位置。</base:Paragraphs>
+      <base:Paragraphs num="0026">另外,支撑层106也可以是层叠有多个支撑层的结构。 在该情况下,各支承层优选由不同的单晶的半导体构成。</base:Paragraphs>
+      <base:Paragraphs num="0027">作为第2反射镜116的电介质多层膜110,使用电介质DBR,但其高折射率和低折射率的电介质的组合只要根据使用的波段来选择即可。 例如,如果面发光激光器的振荡波段为1μm波段,则电介质多层膜110能够使用氧化钽和氧化硅的多层膜、氧化钛和氧化硅的多层膜。 作为电介质多层膜110的反射带由两个电介质的折射率差决定,因此尽量增大两个电介质的折射率差是重要的。 另一方面,若增加层叠数,则电介质多层膜110的反射率增大,但随着层叠数的增加,成本、制作的难度增大。 另外,通常作为可动镜的第2反射镜116的共振频率f用以下的式子表示。 f=α×（k/m）<base:Sup>1／2</base:Sup>在此,α是由第2反射镜116的构造决定的常数,k是第2反射镜116的弹簧常数,m是第2反射镜116的有效质量。 因此,若增加电介质多层膜110的层叠数,则质量增加,因此由式2可知,谐振频率降低。 因此,电介质多层膜110的层叠数优选设定为所需最小限度。 例如,在期望的波长频带中,以反射率99.5%左右为基准来决定层叠数。</base:Paragraphs>
+      <base:Paragraphs num="0028">此外,从减轻第2反射镜116的质量的观点出发,优选仅在与发光部112对应的梁108上的开口部118设置电介质多层膜110。 另一方面,从电介质多层膜210的耐久性的观点出发,如图3所示,优选在梁108上电介质多层膜210从开口部118连接至开口部118的周边的梁108的与面向活性层104的面相反侧的面S4而配置。 根据该结构,能够增大电介质多层膜210与梁108的粘接面积,因此电介质多层膜210与梁108的密合性变大,能够抑制电介质多层膜210从梁108剥离。</base:Paragraphs>
+      <base:Paragraphs num="0029">此外,在图3所示的配置中,优选的是,开口部118周围的梁108的厚度小于开口部118周围的梁108的厚度,因为可以抑制介电多层膜210由于开口部118而断开。 例如,如图4的(a)所示,梁108的厚度可以朝向开口部118连续地变薄,如图4的(b)所示,梁108的厚度可以朝向开口部118阶段性地变薄。</base:Paragraphs>
+      <base:Paragraphs num="0030">另外,如图4(c)所示,开口部118也可以由将梁108挖通那样的贯通孔形成。 另外,其平面形状可以是圆形,也可以是椭圆、矩形。 另外,如图4(d)所示,开口部118也可以是将梁108切断的狭缝。 即,梁108不通过开口部118连接。 在这种情况下,如图3所示,电介质多层膜210优选地设置在梁108上,使得电介质多层膜210从开口部118连接到开口部118周围的梁108。</base:Paragraphs>
+      <base:Paragraphs num="0031">半导体结构体114根据所使用的波长选择各层的材料即可。 例如,作为半导体结构体114的各层,能够使用GaAs系、InP系、GaN系等。</base:Paragraphs>
+      <base:Paragraphs num="0032">另外,第1反射镜102也可以使用电介质DBR、半导体DBR。 另外,第1反射镜102也可以是衍射光栅,例如高折射率差亚波长衍射光栅（High indexContrast Grating,以下称为HCG）镜。 HCG反射镜是高折射率的材料和低折射率的材料在面内方向上交替地周期性排列的结构。 例如,高折射率的材料（例如,Al；<base:Sub>0.7</base:Sub>Ga<base:Sub>0.3</base:Sub>As）的一部分去除而周期性地形成狭缝（开口部）,由此形成高折射区域（Al）的一部分。<base:Sub>0.7</base:Sub>Ga<base:Sub>0.3</base:Sub>As）和低折射区域（空气）在面内方向交替周期性地排列的结构。另外,作为HCG,可以使用专利文献1和2中记载的HCG。</base:Paragraphs>
+      <base:Paragraphs num="0033">另外,在图1中,示出了光激发型的面发射激光器。 因此,作为使该面发射激光器发光的单元,具备外部光源（未图示）。 但是,本实施方式的面发射激光器也能够应用于电流注入型的面发射激光器。 在电流注入型的面发光激光器中,另外具有载流子注入用的一对电极即可。 另外,也可以是将第一电极124、第二电极122的一方兼用作载流子注入用的一对电极的一方的结构。 例如,也可以是如下结构：在活性层104上形成第三电极（未图示）,通过在第二电极122与第三电极之间施加交流电压来驱动梁108,使用第一电极124和第三电极使电流流过发光部112而使发光部112发光。 此外,本实施例的表面发射激光器可以具有限定发光区域的限定结构（诸如氧化狭窄结构）和限定电流注入区域的电流狭窄结构。</base:Paragraphs>
+      <base:Paragraphs num="0034">在本实施方式中,对一个面发射激光器进行了说明,但即使是阵列状地具备多个面发射激光器的激光器阵列的方式,也同样能够应用。</base:Paragraphs>
+      <base:Paragraphs num="0035">（实施方式2） 
+在本实施方式中,对将实施方式1的面发射激光器用作光源装置的信息取得装置的例子进行说明。 波长可变型的光源装置能够用作光通信用光源或光测量用光源。 并且,波长可变型的光源装置能够用作非侵入、非破坏地取得测定对象物的内部的信息的信息取得装置的光源装置。 以下,作为使用了本实施方式的光源装置的信息取得装置的一例,使用图5对光学相干断层摄像装置（以下,称为OCT装置）进行说明。 </base:Paragraphs>
+      <base:Paragraphs num="0036">图5是表示本实施方式的OCT装置8的示意图。 OCT装置8至少具有光源装置801、干涉光学系统802、光检测部803、取得测定对象物的内部信息的信息取得部804。 作为光源装置801,能够使用实施方式1或2的面发光激光器。 另外,虽未图示,但信息获取部804具有傅里叶变换器。 在此,信息取得部804具有傅里叶变换器是指,只要信息取得部804具有对所输入的数据进行傅里叶变换的功能,则方式没有特别限定。 一个例子是信息取得部804具有运算部,该运算部具有进行傅里叶变换的功能的情况。 具体而言,是运算部是具有CPU的计算机,该计算机执行具有傅里叶变换功能的应用的情况。 另一示例是信息获取单元804包括具有傅里叶变换功能的傅里叶变换电路的情况。</base:Paragraphs>
+      <base:Paragraphs num="0037">从光源装置801射出的光经由干涉光学系统802成为具有测定对象的物体812的信息的干涉光而被输出。 干涉光在光检测部803中被接收。 另外,光检测部803可以是差动检测型,也可以是单纯的强度监视器型。 接收到的干涉光的强度的时间波形的信息从光检测部803被发送到信息取得部804。 在信息取得部804中,取得接收到的干涉光的强度的时间波形的峰值并进行傅里叶变换,取得物体812的信息（例如断层图像的信息）。 另外,能够任意地设置在此列举的光源装置801、干涉光学系统802、光检测部803、信息获取部804。</base:Paragraphs>
+      <base:Paragraphs num="0038">以下,对从光源装置801照射光起到得到测定对象的物体的内部的信息为止进行详细说明。 从光源装置801射出的光通过光纤805进入耦合器806,被分支为通过照射光用的光纤807的照射光和通过参照光用的光纤808的参照光。 耦合器806由在光源的波段中进行单模动作的耦合器构成,各种光纤耦合器能够由3dB耦合器构成。 照射光通过准直器809而成为平行光,被反射镜810反射。 由反射镜810反射的光通过透镜811照射到物体812,从物体812的进深方向的各层反射。</base:Paragraphs>
+      <base:Paragraphs num="0039">另一方面,参照光通过准直器813被反射镜814反射。 在耦合器806中,产生基于来自物体812的反射光和来自反射镜814的反射光的干涉光。 干涉的光通过光纤815,通过准直器816而被聚光,由光检测部803接收。 由光检测部803接收到的干涉光的强度的信息被变换为电压等电信息,并被发送到信息取得部804。 在信息取得部804中,对干涉光的强度的数据进行处理,具体而言进行傅里叶变换,得到断层图像的信息。 该进行傅里叶变换的干涉光的强度的数据通常是以等波数间隔进行采样而得到的数据,但也能够使用以等波长间隔进行采样而得到的数据。</base:Paragraphs>
+      <base:Paragraphs num="0040">所得到的断层图像的信息也可以从信息取得部804发送到图像显示部817而作为图像显示。 另外,通过在与照射光的入射方向垂直的平面内扫描反射镜810,能够得到测定对象的物体812的三维断层图像。 并且,光源装置801的控制也可以由信息取得部804经由电路818进行。 另外,虽未图示,但也可以依次监视从光源装置801发出的光的强度,将该数据用于干涉光的强度的信号的振幅修正。</base:Paragraphs>
+      <base:Paragraphs num="0041">OCT装置在眼科、牙科、皮肤科等领域中,在获取动物、人那样的生物体内的断层图像时是有用的。 与生物体的断层图像相关的信息不仅包括生物体的断层图像,还包括为了得到断层图像所需的数值数据。 特别是,优选将测定对象设为人体的眼底、牙齿、血管,用于取得与它们的断层图像相关的信息。</base:Paragraphs>
+      <base:Paragraphs num="0042">（实施例1） 
+本实施例涉及图1中所示的表面发射激光器。 即,是与实施方式1对应的面发射激光器。 图6是说明本实施例的面发射激光器的制造方法的图。 </base:Paragraphs>
+      <base:Paragraphs num="0043">首先,如图6(a)所示,在GaAs衬底100上形成第一反射镜102,该第一反射镜102包括通过堆叠30对AlAs/GaAs而形成的半导体DBR。 然后,在第一反射镜102上形成包括InGaAs量子阱层的有源层104。 并且,在活性层104之上形成GaAs牺牲层206,该GaAs牺牲层206包含由单晶的半导体构成的（Al）。<base:Sub>0.7</base:Sub>Ga<base:Sub>0.3</base:Sub>）<base:Sub>0.5</base:Sub>形成As梁前体层208。 牺牲层206、梁前驱体层208分别以2120nm、909nm的厚度形成。 此外,牺牲层206的一部分成为图1的支承层106,梁前驱体层208成为图1的梁108。 梁前驱体层208以覆盖成为活性层104的发光部的区域且仅覆盖牺牲层206的一部分而非全部的图案形成。 在本实施例中,从第1反射镜102到梁前体层208连续地进行外延生长。 另外,在梁前驱体层208中,为了提高导电性而使用3×10的Si。<base:Sup>18</base:Sup>/cm<base:Sup>3</base:Sup>有一定程度的兴奋剂。</base:Paragraphs>
+      <base:Paragraphs num="0044">接着,如图6的(b)所示,形成贯通梁前驱体层208的开口部118。 在本实施例中,使用利用了SiCl<base:Sub>4</base:Sub>和Ar的RIE（Reactive Ion Etching：反应离子蚀刻）,对梁前驱体层208进行100nm的过蚀刻,形成到达牺牲层206的一部分的开口部118。</base:Paragraphs>
+      <base:Paragraphs num="0045">接着,如图6(c)所示,在梁前体层208上形成电介质DBR层120,并经由设置于梁前体层208的开口部118在牺牲层206上形成电介质DBR层120。 在本实施例中,电介质DBR层通过溅射法层叠8对各自具有λ/4的光学长度的氧化钛/氧化硅。</base:Paragraphs>
+      <base:Paragraphs num="0046">接着,如图6(d)所示,通过使用了CF<base:Sub>4</base:Sub>的RIE去除梁前体层208上的电介质DBR层120,仅在开口部118形成电介质多层膜110。</base:Paragraphs>
+      <base:Paragraphs num="0047">接着,如图6(e)所示,形成AuGe/Ni/Au作为第1电极124,形成Au/Ti作为第2电极122。 进而,使用由柠檬酸和过氧化氢构成的蚀刻剂从未被梁前体层208覆盖的部分选择性地去除牺牲层206的一部分,形成间隙AG、梁108。 牺牲层206中的未被去除的部分成为支撑层106。 这样,制作图1所示的面发射激光器。</base:Paragraphs>
+      <base:Paragraphs num="0048">这样制作的面发射激光器的第2反射镜116的反射光谱如图2的实线所示。 另外,虚线是图8所示的比较例、即未设置开口部118的面发射激光器的第二反射镜516的反射光谱。 如图2所示,在比较例中,在1082nm附近产生反射率的大的下陷,反射率不足99.5%的波长区域产生50nm左右。 另一方面,在本实施例中,能够确认从大约970nm至1150nm在180nm内维持了反射率99.5%。 即,根据本实施例,能够确保宽的波长可变频带。</base:Paragraphs>
+      <base:Paragraphs num="0049">另外,同样地测定了比较例和本实施例的纵模间隔,相对于比较例的纵模间隔为85nm,本实施例的纵模间隔为160nm,能够进行稳定的波长扫描动作。</base:Paragraphs>
+      <base:Paragraphs num="0050">（实施例2） 
+本实施例是与实施方式1对应的面发射激光器。 图7是说明本实施例的面发射激光器的制造方法的图。 本实施例与实施例1的不同点在于,设置有多个牺牲层（多个支承层）。 除此以外的结构与实施例1相同。 以下,主要对与实施例1的差异点进行叙述。 </base:Paragraphs>
+      <base:Paragraphs num="0051">首先,如图7所示,以与实施例1相同的方式,在GaAs衬底100上形成第一反射镜102和有源层104。 并且,在活性层104之上,形成GaAs第1牺牲层306、AlInP第2牺牲层307、由单晶的半导体构成的（Al）；<base:Sub>0.7</base:Sub>Ga<base:Sub>0.3</base:Sub>）<base:Sub>0.5</base:Sub>形成As梁前体层208。 第1牺牲层306、第2牺牲层307、梁前驱体层208分别以2120nm、100nm、909nm的厚度形成。 另外,第1牺牲层306、第2牺牲层307的一部分成为支承层,梁前驱体层208成为梁。 梁前驱体层208以覆盖成为活性层104的发光部的区域且仅覆盖第1牺牲层306、第2牺牲层307的一部分而非全部的图案形成。 在本实施例中,也与实施例1同样地,从第1反射镜102到梁前体层208连续地进行外延生长。 另外,在梁前驱体层208中,将Si设为3×10。<base:Sup>18</base:Sup>/cm<base:Sup>3</base:Sup>有一定程度的兴奋剂。</base:Paragraphs>
+      <base:Paragraphs num="0052">接着,如图7的(b)所示,形成贯通梁前驱体层208的开口部318。 在本实施例中,使用利用了SiCl<base:Sub>4</base:Sub>和Ar的RIE（Reactive Ion Etching：反应离子蚀刻）,对梁前驱体层208进行了50nm的过蚀刻。 其后,使用盐酸系蚀刻剂对第2牺牲层307进行湿式蚀刻,形成开口部118。 将第1牺牲层306用作利用盐酸系蚀刻剂的湿式蚀刻的停止层。 在实施例1中,在形成开口部318时,根据RIE装置的蚀刻速度的面内分布,开口部318的深度偏差为80nm左右。 在本实施例中,通过将第1牺牲层306用作蚀刻停止层,能够将开口部318的深度的偏差抑制为10nm左右。</base:Paragraphs>
+      <base:Paragraphs num="0053">之后与实施例1相同。 即,如图7(c)所示,形成电介质DBR层120。 然后,如图7的(d)所示,去除梁前体层208上的电介质DBR层120,仅在开口部318形成电介质多层膜110。 然后,如图7(e)所示,形成第1电极124、第2电极122。 进而,从未被梁前驱体层308覆盖的部分选择性地去除第1牺牲层306的一部分、第2牺牲层307的一部分。 这样,形成间隙AG、梁108。 第1牺牲层306、第2牺牲层307中的未被去除的部分成为第1支撑层406、第2支撑层407。 这样,制作面发射激光器。</base:Paragraphs>
+      <base:Paragraphs num="0054">本实施例的面发射激光器的第2反射镜116的反射光谱、纵模间隔均能够得到与实施例1的面发射激光器同等的特性。 另外,在实施例1中制作的面发射激光器的初始的振荡波长的偏差为12nm左右,但在本实施例中,偏差控制在小于2nm。 这是因为通过使用多个牺牲层中的一个作为停止蚀刻层,可以减小开口318的深度变化,并且可以减小初始谐振器长度的变化。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0055">102第1反射镜108梁110电介质多层膜116第2反射镜104活性层</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="114" wi="75" file="2016127271_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="118" wi="75" file="2016127271_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="118" wi="75" file="2016127271_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="118" wi="75" file="2016127271_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="118" wi="75" file="2016127271_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="118" wi="75" file="2016127271_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="118" wi="75" file="2016127271_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="118" wi="75" file="2016127271_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种面发射激光器,其特征在于,具有第1反射镜、第2反射镜、以及配置在所述第1反射镜与所述第2反射镜之间的活性层,在所述第2反射镜与所述活性层之间形成有间隙,所述第2反射镜具有由单晶的半导体构成的梁、以及由所述梁支承的电介质多层膜,所述电介质多层膜配置在形成于所述梁的开口部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的面发射激光器,其特征在于,所述电介质多层膜的与所述活性层相对的面比所述梁的与所述活性层相对的面更向所述活性层侧从所述开口部突出。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的面发光激光器,其特征在于,所述电介质多层膜的与面向所述活性层的面相反的一侧的面比所述梁的与面向所述活性层的面相反的一侧的面更向与所述活性层相反的一侧从所述开口部突出。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1至3中任一项所述的面发射激光器,其特征在于,具有包含所述活性层的半导体构造体,所述半导体构造体具有用于支承所述梁的由单晶的半导体构成的支承层。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求4所述的面发射激光器,其特征在于,所述支承层由多个支承层构成,所述多个支承层由不同的单晶的半导体构成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1至5中任一项所述的面发射激光器,其特征在于,所述电介质多层膜从所述开口部连接至所述开口部的周边的所述梁的与面向所述活性层的面相反侧的面而配置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>一种面发射激光器,其特征在于,具有第1反射镜、第2反射镜、以及配置于所述第1反射镜与所述第2反射镜之间的活性层,所述第2反射镜具有梁、以及由所述梁支承的多层膜,在所述第2反射镜与所述活性层之间形成有间隙,所述多层膜配置于形成于所述梁的开口部,所述多层膜从所述开口部连接至所述开口部的周边的所述梁的与面向所述活性层的面相反侧的面而配置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1至7中任一项所述的表面发射激光器,其中,所述梁的厚度朝向开口部减小。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>一种信息取得装置,其特征在于,具有权利要求1至8中任一项所述的面发射激光器和取得测定对象物的内部信息的信息取得部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>一种成像设备,包括根据权利要求1至8中任一项所述的面发射激光器、干涉光学系统、光检测部和信息获取部,所述干涉光学系统将来自所述面发射激光器的光分支成照射到测量对象上的照射光和参考光,并且基于照射到所述测量对象上的光的反射光和所述参考光产生干涉光,所述光检测部接收所述干涉光,所述信息获取部基于来自所述光检测部的信号获取关于所述测量对象的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>一种包括多个表面发射激光器的激光器阵列,其中,所述多个表面发射激光器中的至少一个是根据权利要求1至8中任一项所述的表面发射激光器。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>一种面发光激光器的制造方法,该面发光激光器具有第1反射镜、第2反射镜以及配置于所述第1反射镜与所述第2反射镜之间的活性层,在所述第2反射镜与所述活性层之间形成有间隙,振荡波长可变,其特征在于,具有依次形成第1反射镜、活性层以及牺牲层的工序、在所述牺牲层之上形成由单晶的半导体构成的梁前体层的工序、在所述梁前体层形成贯通所述梁前体层的开口部的工序、在所述开口部形成电介质多层膜的工序、以及除去所述牺牲层而在所述第2反射镜与所述活性层之间形成间隙来形成梁的工序。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求12所述的面发射激光器的制造方法,其特征在于,在形成所述电介质多层膜的工序中,以所述电介质多层膜的与所述活性层相对的面比所述梁前体层的与所述活性层相对的面更向所述活性层侧突出的方式形成电介质多层膜。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求12或13所述的面发射激光器的制造方法,其特征在于,在形成所述电介质多层膜的工序中,以所述电介质多层膜的与所述活性层相对的面的相反侧的面比所述梁前驱体的与所述活性层相对的面的相反侧的面向所述活性层的相反侧突出的方式形成电介质多层膜。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>根据权利要求12至14中任一项所述的面发射激光器的制造方法,其特征在于,在形成所述梁前体层的工序中,通过外延生长在所述牺牲层上形成所述梁前体层。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>根据权利要求12至15中任一项所述的面发射激光器的制造方法,其特征在于,所述牺牲层由多个牺牲层构成,所述多个牺牲层由不同的单晶的半导体构成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>根据权利要求16所述的面发射激光器的制造方法,其特征在于,在形成所述开口部的工序中,将所述多个牺牲层中的靠近所述活性层的至少一个牺牲层作为蚀刻阻挡层,在所述梁前体层形成开口部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>根据权利要求12至17中任一项所述的面发光激光器的制造方法,其特征在于,在形成所述电介质多层膜的工序中,经由所述开口部在所述牺牲层之上形成所述电介质多层膜。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

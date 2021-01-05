@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="US101992000996506US00000000107440PFULEN19990105US00G.XML" dateProduced="20160817" status="C" lang="en" country="US" docNumber="10744" kind="P" datePublication="19990105">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>PP010744</base:DocNumber>
+        <base:Kind>P</base:Kind>
+        <base:Date>19990105</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>10744</base:DocNumber>
+        <base:Kind>P</base:Kind>
+        <base:Date>19990105</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant>
+        <base:DocumentID>
+          <base:Date>19990105</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>07/996506</base:DocNumber>
+        <base:Date>19921223</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>101992000996506</base:DocNumber>
+        <base:Date>19921223</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPC>
+      <base:EditionStatement>6</base:EditionStatement>
+      <business:MainClassification dataFormat="original">A01H00500</business:MainClassification>
+      <business:MainClassification dataFormat="standard">A01H0005000000</business:MainClassification>
+    </business:ClassificationIPC>
+    <business:ClassificationNational>
+      <business:MainClassification dataFormat="original">PLT161</business:MainClassification>
+    </business:ClassificationNational>
+    <business:InventionTitle lang="en" sourceDB="US">名为`M9-RN19`的苹果树</business:InventionTitle>
+    <business:ReferencesCited>
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:NPLCitation id="ncit000001" num="0001">
+          <base:Text>Anon., Stark Bro's Fruit Tree Catalog &amp; Guide for the Professional Grower 1989 Stark Bro's Nursery and Orchards Co., Louisana, Mo. pp. 18 and 19. </base:Text>
+        </business:NPLCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="2">
+        <business:NPLCitation id="ncit000002" num="0002">
+          <base:Text>Anon, Oregon Rootstock Inc. Catalog, 1985, Oregon Rootstock, Inc., Woodburn, Oregon. pp. 8-15. </base:Text>
+        </business:NPLCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="3">
+        <business:NPLCitation id="ncit000003" num="0003">
+          <base:Text>Tukey, H &amp;quot;7 Dwarfing Rootstocks for Apple Trees&amp;quot;0 Dwarfed Fruit Trees. The Macmillan Co., N 1964 pp. 123-154. </base:Text>
+        </business:NPLCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="4">
+        <business:NPLCitation id="ncit000004" num="0004">
+          <base:Text>van Oosten, H, et al., &amp;quot;Differences between Subvarieties of `M.9`&amp;quot; De- Fruitteelt (all 1984) No. 32, pp. 924-926; No. 33, pp. 950-951 No. 34, pp.  968-969; and No. 35 pp. 988-989 *(English Translations provided only). </base:Text>
+        </business:NPLCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="5">
+        <business:NPLCitation id="ncit000005" num="0005">
+          <base:Text>Masseron, A., &amp;quot;Study and Selection of Paradise Jaine De Metz Rootstock of the Apple Tree&amp;quot; Interprofessional Technical Center for the Fruits and Vegetables, CTIFL, Service for Improving Production, Domaine de Lanxade, Prigonrieux 24130 La Force, pp. 35-57 (with pages missing in between) *(English Translations provided only). </base:Text>
+        </business:NPLCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="6">
+        <business:NPLCitation id="ncit000006" num="0006">
+          <base:Text>Ziebig, R., et al., Autonomous Province Bozen-South Tyrol, Division I Agriculture and Forestry. 1992 Activity Program for the Agriculture and Forestry Experimental Center. *(English Translations provided only). </base:Text>
+        </business:NPLCitation>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:SearchField>
+      <business:ClassificationNational>
+        <business:MainClassification>Plt/ 34.1</business:MainClassification>
+        <business:FurtherClassification sequence="1">Plt/35</business:FurtherClassification>
+        <business:FurtherClassification sequence="2">Plt/35.1</business:FurtherClassification>
+        <business:FurtherClassification sequence="3">Plt/35.2</business:FurtherClassification>
+      </business:ClassificationNational>
+    </business:SearchField>
+    <business:RelatedDocuments>
+      <business:Continuation>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID sequence="1">
+              <base:DocNumber>07/642993</base:DocNumber>
+              <base:Date>19910118</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Continuation>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="US">
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Nicolai</base:LastName>
+            <base:FirstName>Rene</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>Alken</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>BE</base:WIPOST3Code>
+              <base:Text>Alken   BE</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:OrganizationName>Chernoff, Vilhauer, McClung &amp; Stenzel, LLP</base:OrganizationName>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:AssigneeDetails>
+      <business:Assignee sequence="1" dataFormat="original" sourceDB="US">
+        <base:AddressBook lang="en">
+          <base:OrganizationName>Rene Nicolai N Fruitboomwekerij</base:OrganizationName>
+          <base:Address>
+            <base:AddressLine>0</base:AddressLine>
+            <base:AddressMailCode>0</base:AddressMailCode>
+            <base:PostBox>0</base:PostBox>
+            <base:AddressRoom>0</base:AddressRoom>
+            <base:AddressFloor>0</base:AddressFloor>
+            <base:AddressBuilding>0</base:AddressBuilding>
+            <base:Street>0</base:Street>
+            <base:AddressCity>0</base:AddressCity>
+            <base:County>0</base:County>
+            <base:City>0</base:City>
+            <base:Province>0</base:Province>
+            <base:PostCode>0</base:PostCode>
+            <base:WIPOST3Code>BE</base:WIPOST3Code>
+            <base:Text>BE</base:Text>
+          </base:Address>
+        </base:AddressBook>
+        <business:AssigneeCode>0000000000</business:AssigneeCode>
+      </business:Assignee>
+    </business:AssigneeDetails>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" role="chief">
+        <base:LastName>Locker, Howard J.</base:LastName>
+      </business:Examiner>
+    </business:ExaminerDetails>
+    <business:StatisticalInformation>
+      <business:DrawingSheetsCount>7</business:DrawingSheetsCount>
+      <business:ClaimsCount>1</business:ClaimsCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract lang="en" dataFormat="original" sourceDB="US">
+    <base:Paragraphs>本发明涉及新的和独特的苹果树砧木克隆，其源自Malling 9(M9)的突变。 在这种新的砧木上繁殖的标准生长的苹果栽培种是在苹果幼苗砧木上生长的类似苹果树的大小的约65%。 与其M9亲本相比，该新克隆产生更多和更大的侧枝，具有带尖锐尖端的叶并且具有更多的波状锯齿。 该克隆也更有活力，并且在给定的凳子区域中产生更多数量的生根植物。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="US">
+    <business:TechnicalField>
+      <base:Paragraphs>背景技术和发明内容</base:Paragraphs>
+      <base:Paragraphs>主题品种Rene Nicolai的发明人是Rene Nicolai Nursery的所有者，Rene Nicolai Nursery繁殖并销售Malling Nine(M9)苹果树根砧木。 通过将植物放置在促进根生长的粪便床中，然后将得到的根分成单个植物来繁殖根茎。 多年来，Nicolai先生在M9粪便床中搜索M9突变体，其在苹果树根砧木所需的那些特征方面优于亲本品种。</base:Paragraphs>
+      <base:Paragraphs>主题克隆在1967年从M9植物的大粪便床中选择，所述M9植物在1960年在比利时Linderstoot，22-B-3820 Alken的Rene Nicolai苗圃种植。 床中植物的原始来源是英国的东马林研究站。 在其选择后，克隆被指定数字(RN19)并繁殖用于进一步测试和评估。</base:Paragraphs>
+      <base:Paragraphs>由于已经发现所有原始M9根茎都被病毒感染，因此随后通过施加干热对RN19植物进行热处理，以便获得无病毒测试，将新的根茎锥再次暴露于增殖技术（粪便），然后继续测试和评估。</base:Paragraphs>
+      <base:Paragraphs>将无病毒的RN19子代植物扩展到在几个地点的小粪便床种植中，所述小粪便床种植分别种植，以便在小的半商业粪便床地点检查新品种的个体特征。 自1974年以来，已经在以下六个地点种植了近40,000株主题品种的植物，并且在该过程中，已经产生了五代树。</base:Paragraphs>
+      <base:Paragraphs>1. 1974年春季在比利时Deveaux的一个地点种植了1500株本发明克隆的植物。</base:Paragraphs>
+      <base:Paragraphs>2. 1977年在法国波尔多的一个地点种植了200株主题克隆植物。</base:Paragraphs>
+      <base:Paragraphs>3. 1980年春季在比利时Wissenhoeve的一个地点种植了2058株本发明克隆的植物。</base:Paragraphs>
+      <base:Paragraphs>4. 在1982年春季，比利时圣特鲁登附近的一个地点种植了100株主题克隆植物。 5. 1986年春季在比利时Henkaenrts的一个地点种植了3,250株本发明克隆的植物。</base:Paragraphs>
+      <base:Paragraphs>6. 一个位于华盛顿州Ephrata的网站。 在1990年春季种植了2000株受试克隆植物。</base:Paragraphs>
+      <base:Paragraphs>随后最终选择克隆RN19作为继续具有与其M9亲本明显不同的生长和生根特征的砧木克隆。</base:Paragraphs>
+      <base:Paragraphs>它在这些床中以以下方式将自身与其M9亲本区分开：</base:Paragraphs>
+      <base:Paragraphs>1. 主题克隆比其M9亲本产生更多的侧肢（羽毛或刺），并且在凳子中生长得更强壮（图1和2，图表1和2）。 在粪便中生长的子植株高度的平均增加约为20%（图6，M9和图7，RN19)，并且产生的羽毛数量的平均增加在法国波尔多约为3倍，在华盛顿州伊弗拉塔（Ephrata,Wash）几乎为6倍。 （图表1和2）。 还注意到所产生的单个羽毛的平均长度的显著差异（图表2）。 由于RN19更强壮的生长及其产生更多和更大羽毛的特征习性，每个子株产生的平均叶数的差异也增加（图2）。 还注意到每个枝条的平均节数和平均茎周长的轻微增加差异（图表2）。 RN19表现出比其M19亲本小得多的早期开花特征（图3）。 叶片大小（将长度和宽度加在一起）和叶片颗粒的长度始终小于无病毒M9（图4）。</base:Paragraphs>
+      <base:Paragraphs>图表一</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>有侧枝（羽毛）的蛋鸡植物的百分比</base:Paragraphs>
+      <base:Paragraphs>（法国波尔多的测试凳床）</base:Paragraphs>
+      <base:Paragraphs>砧木年</base:Paragraphs>
+      <base:Paragraphs>克隆79/80 80/81 81/82 82/83</base:Paragraphs>
+      <base:Paragraphs>平均</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>M9 13 8 25 0 11.4</base:Paragraphs>
+      <base:Paragraphs>（无病毒）</base:Paragraphs>
+      <base:Paragraphs>RN8 8 6 13 0 6.8</base:Paragraphs>
+      <base:Paragraphs>RN19 41 32 44 19 34.0</base:Paragraphs>
+      <base:Paragraphs>RN29 39 22 35 15 27.8</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>图表二</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>生长特性</base:Paragraphs>
+      <base:Paragraphs>（华盛顿Ephrata的测试凳子床）</base:Paragraphs>
+      <base:Paragraphs>长度编号编号</base:Paragraphs>
+      <base:Paragraphs>长度</base:Paragraphs>
+      <base:Paragraphs>数字环绕-</base:Paragraphs>
+      <base:Paragraphs>的或的或的或的</base:Paragraphs>
+      <base:Paragraphs>砧木</base:Paragraphs>
+      <base:Paragraphs>射出节/支线/</base:Paragraphs>
+      <base:Paragraphs>短枝叶/</base:Paragraphs>
+      <base:Paragraphs>茎的</base:Paragraphs>
+      <base:Paragraphs>无性系(cm)枝条(cm)枝条(cm)</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>M9 66.80*39.20 3.00 1.50 53.00 3.24</base:Paragraphs>
+      <base:Paragraphs>RN8 62.10 42.10 1.80 1.20 57.20 3.80</base:Paragraphs>
+      <base:Paragraphs>RN19 78.20 41.00 18.60 8.60 88.30 3.51</base:Paragraphs>
+      <base:Paragraphs>RN29 86.20 45.60 21.40 10.30 100.00 3.54</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>*显示的所有数字是随机选择的100株植物的平均值。</base:Paragraphs>
+      <base:Paragraphs>图表三</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>大方坯特征</base:Paragraphs>
+      <base:Paragraphs>（1985年比利时戈尔森研究站）</base:Paragraphs>
+      <base:Paragraphs>有开花的砧木的%</base:Paragraphs>
+      <base:Paragraphs>克隆（从凳子起1年）</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>RN8 29</base:Paragraphs>
+      <base:Paragraphs>RN19 4</base:Paragraphs>
+      <base:Paragraphs>RN29_0</base:Paragraphs>
+      <base:Paragraphs>M9 15</base:Paragraphs>
+      <base:Paragraphs>（无病毒）</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>图表四</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>叶大小和相对叶柄</base:Paragraphs>
+      <base:Paragraphs>各砧木长度</base:Paragraphs>
+      <base:Paragraphs>（法国波尔多的测试凳床）</base:Paragraphs>
+      <base:Paragraphs>砧木长度L</base:Paragraphs>
+      <base:Paragraphs>宽度，W L+W的长度</base:Paragraphs>
+      <base:Paragraphs>无性系叶柄</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>M9 101.7 63.8 165.5 32.5</base:Paragraphs>
+      <base:Paragraphs>（无病毒）</base:Paragraphs>
+      <base:Paragraphs>RN8 98.8 73.6 172.4 34.0</base:Paragraphs>
+      <base:Paragraphs>RN19 91.4 60.0 151.4 30.8</base:Paragraphs>
+      <base:Paragraphs>RN29 85.5 57.1 142.6 28.5</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>2. 与M9亲本相比，本发明克隆具有在每个母本植物和每米卧行中产生更多生根的子代植物的能力（图4和5；图表5、6和7）。 在法国波尔多试验场收集的数据显示，在四年内生产的子株数量增加了大约三倍，而在比利时Deveaux试验场收集的数据显示，在六年和九年内增加了大约两倍。</base:Paragraphs>
+      <base:Paragraphs>图表五</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>RN19粪便生产(Deveaux，比利时）</base:Paragraphs>
+      <base:Paragraphs>母株编号-555</base:Paragraphs>
+      <base:Paragraphs>床长(m)-185</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>82/83年83/84 84/85 85/86 86/87</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>等级(mm)</base:Paragraphs>
+      <base:Paragraphs>10/12 1,000 825 575 2,250 4,000</base:Paragraphs>
+      <base:Paragraphs>8/10 0 0 1,500 0 0</base:Paragraphs>
+      <base:Paragraphs>6/10 17,200 12,800 0 0 0 0</base:Paragraphs>
+      <base:Paragraphs>6/8 0 0 12,490</base:Paragraphs>
+      <base:Paragraphs>11,300 9,650</base:Paragraphs>
+      <base:Paragraphs>5/7 0 0 0 0 0 0</base:Paragraphs>
+      <base:Paragraphs>4/6 8,800 8,100 10,080</base:Paragraphs>
+      <base:Paragraphs>10,300 12,700</base:Paragraphs>
+      <base:Paragraphs>04 0 1,600 0 0 150</base:Paragraphs>
+      <base:Paragraphs>#2s 4,000 2,940 0 2,700 2,000 5,300</base:Paragraphs>
+      <base:Paragraphs>共计31 000 26 225 27 345</base:Paragraphs>
+      <base:Paragraphs>25,850 31,800</base:Paragraphs>
+      <base:Paragraphs>每个母株</base:Paragraphs>
+      <base:Paragraphs>20.67 17.48 18.23 17.23 21.20</base:Paragraphs>
+      <base:Paragraphs>每米62.00 52.45 54.69 51.70 63.60</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>平均</base:Paragraphs>
+      <base:Paragraphs>年份87/88 88/89 89/90 90/91 82/91</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>等级(mm)</base:Paragraphs>
+      <base:Paragraphs>10/12 1,250 525 0 1,075</base:Paragraphs>
+      <base:Paragraphs>8/10 4,225 4,500 3,900 5,150</base:Paragraphs>
+      <base:Paragraphs>6/10 0 0 0 0 0</base:Paragraphs>
+      <base:Paragraphs>6/8 9,950 8,000 9,050 3.100</base:Paragraphs>
+      <base:Paragraphs>5/7 0 0 0 10,100</base:Paragraphs>
+      <base:Paragraphs>4/6 9,500 6,700 10,500</base:Paragraphs>
+      <base:Paragraphs>2,600</base:Paragraphs>
+      <base:Paragraphs>04 0 0 0 0 0</base:Paragraphs>
+      <base:Paragraphs>#2s 5,700 3,000 10,500</base:Paragraphs>
+      <base:Paragraphs>2,600</base:Paragraphs>
+      <base:Paragraphs>共计30 625 22 725 33 850</base:Paragraphs>
+      <base:Paragraphs>27,825</base:Paragraphs>
+      <base:Paragraphs>每个母株</base:Paragraphs>
+      <base:Paragraphs>20.42 15.15 22.57 18.55 19.06</base:Paragraphs>
+      <base:Paragraphs>每米61.25 45.45 67.70 55.65 57.17</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>图表六</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>M9（无病毒）粪便生产(Deveaux，比利时）</base:Paragraphs>
+      <base:Paragraphs>母株数量-561</base:Paragraphs>
+      <base:Paragraphs>床长(m)-187</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>82/83年83/84 84/85 85/86 86/87</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>等级(mm)</base:Paragraphs>
+      <base:Paragraphs>10/12 225 100 250 750 464</base:Paragraphs>
+      <base:Paragraphs>8/10 0 0 450 0 0</base:Paragraphs>
+      <base:Paragraphs>6/10 4,150 2,950 0 2,350 2,200</base:Paragraphs>
+      <base:Paragraphs>6/8 0 0 3,400 0 0</base:Paragraphs>
+      <base:Paragraphs>5/7 0 0 0 0 0 0</base:Paragraphs>
+      <base:Paragraphs>4/6 1,800 1,600 2,200 1,600 3,000</base:Paragraphs>
+      <base:Paragraphs>04 0 300 0 0 0 0</base:Paragraphs>
+      <base:Paragraphs>#2s 700 800 500 500 1,400</base:Paragraphs>
+      <base:Paragraphs>总计6,875 5,750 6,800 5,200 7,064</base:Paragraphs>
+      <base:Paragraphs>每个母株</base:Paragraphs>
+      <base:Paragraphs>12.25 10.25 12.12 9.27 12.59</base:Paragraphs>
+      <base:Paragraphs>每米36.76 30.75 36.36 27.81 37.78</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>平均</base:Paragraphs>
+      <base:Paragraphs>年份87/88 88/89 89/90 90/91 82/91</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>等级(mm)</base:Paragraphs>
+      <base:Paragraphs>10/12 75</base:Paragraphs>
+      <base:Paragraphs>8/10 450</base:Paragraphs>
+      <base:Paragraphs>6/10 0-----</base:Paragraphs>
+      <base:Paragraphs>6/8 2,700</base:Paragraphs>
+      <base:Paragraphs>5/7 0----</base:Paragraphs>
+      <base:Paragraphs>4/6 2,200</base:Paragraphs>
+      <base:Paragraphs>04 0----</base:Paragraphs>
+      <base:Paragraphs>#2s 400-----</base:Paragraphs>
+      <base:Paragraphs>共计5,825人</base:Paragraphs>
+      <base:Paragraphs>每个母株</base:Paragraphs>
+      <base:Paragraphs>10.38----11.14</base:Paragraphs>
+      <base:Paragraphs>每米31.15------33.43</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>图表7</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>单株单株的平均单株数</base:Paragraphs>
+      <base:Paragraphs>（法国波尔多的测试凳床）</base:Paragraphs>
+      <base:Paragraphs>种植年限和年龄</base:Paragraphs>
+      <base:Paragraphs>砧木79/80 80/81 81/82 82/83</base:Paragraphs>
+      <base:Paragraphs>克隆2年3年4年5年平均</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>M9 1.2 2.6.5 4.0 8.3</base:Paragraphs>
+      <base:Paragraphs>（无病毒）</base:Paragraphs>
+      <base:Paragraphs>RN8 2.1 3.9 3.8 6.4 16.2</base:Paragraphs>
+      <base:Paragraphs>RN19 2.6 4.4 6.5 9.1 22.6</base:Paragraphs>
+      <base:Paragraphs>RN29 4.4 5.6 5.7 11.3 27.0</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>3. 与在其M9亲本上产生的叶相比，主题克隆的叶更尖锐地尖端并且沿其侧面具有波状锯齿（图3）。 每厘米长度的平均叶片锯齿数始终小于在其M9亲本的叶片上记录的平均叶片锯齿数（图表8）。</base:Paragraphs>
+      <base:Paragraphs>图表8</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>叶部性状</base:Paragraphs>
+      <base:Paragraphs>（华盛顿Ephrata的测试凳子床）</base:Paragraphs>
+      <base:Paragraphs>叶数</base:Paragraphs>
+      <base:Paragraphs>砧木锯齿</base:Paragraphs>
+      <base:Paragraphs>每厘米克隆数</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>M9 3.5**</base:Paragraphs>
+      <base:Paragraphs>RN19 2.7</base:Paragraphs>
+      <base:Paragraphs>________________________________</base:Paragraphs>
+      <base:Paragraphs>*显示的所有数字均为取自100株植物的200片叶子的平均值</base:Paragraphs>
+      <base:Paragraphs>随机挑选的</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs>附图说明</base:Paragraphs>
+      <base:Paragraphs>由于主题克隆旨在仅用作苹果栽培种的砧木，因此图以营养部分而不是花和果实为中心。</base:Paragraphs>
+      <base:Paragraphs>图1和图2示出了匍匐植物上的少量侧枝。</base:Paragraphs>
+      <base:Paragraphs>图3示出了尖锐的尖端叶和波状叶侧锯齿。</base:Paragraphs>
+      <base:Paragraphs>图4显示了在凳子中5个月后的典型根生长。</base:Paragraphs>
+      <base:Paragraphs>图5显示了凳子中砧木的根质量和数量。</base:Paragraphs>
+      <base:Paragraphs>图6示出了在Ephrata,Wash中的凳排中M9砧木子株植物的平均高度（以厘米计）。</base:Paragraphs>
+      <base:Paragraphs>图7示出了在Ephrata,Wash中的凳排中RN19砧木子株植物的平均高度（以厘米计）。</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:Disclosure>
+      <base:Paragraphs>营养特征的描述</base:Paragraphs>
+      <base:Paragraphs>以下是基于在上述六个测试地点生长的砧木植物的新苹果砧木生长特征的详细描述。 叶和芽的颜色基于它们在生长地点的外观。 在可以进行精确颜色评估的那些情况下，参考Munsell极限颜色级联表。 在其他情况下，根据普通字典重要性使用通用颜色术语。</base:Paragraphs>
+      <base:Paragraphs>一般习惯：</base:Paragraphs>
+      <base:Paragraphs>成长的力量。</base:Paragraphs>
+      <base:Paragraphs>习惯-直立</base:Paragraphs>
+      <base:Paragraphs>分枝.-很少，有弹性。</base:Paragraphs>
+      <base:Paragraphs>营养芽：</base:Paragraphs>
+      <base:Paragraphs>树皮颜色：绿棕色（21-14）。</base:Paragraphs>
+      <base:Paragraphs>短柔毛。绒毛细腻。</base:Paragraphs>
+      <base:Paragraphs>皮孔很少，不明显，宽间隔，小，白色。</base:Paragraphs>
+      <base:Paragraphs>叶：</base:Paragraphs>
+      <base:Paragraphs>尺寸。宽约6厘米，长9.1厘米。</base:Paragraphs>
+      <base:Paragraphs>形状。--宽椭圆形，稍微不对称。</base:Paragraphs>
+      <base:Paragraphs>底部--钝的，衰减的。</base:Paragraphs>
+      <base:Paragraphs>Apex Macronate尖尖的</base:Paragraphs>
+      <base:Paragraphs>锯齿边弯曲，基部钝。</base:Paragraphs>
+      <base:Paragraphs>间距-苹果属的正常叶序排列。</base:Paragraphs>
+      <base:Paragraphs>颜色：黄绿色（22-13）带粉红色的尖。</base:Paragraphs>
+      <base:Paragraphs>叶痕：</base:Paragraphs>
+      <base:Paragraphs>形状--宽V形，稍微凸起。</base:Paragraphs>
+      <base:Paragraphs>颜色深棕色。</base:Paragraphs>
+      <base:Paragraphs>叶柄：</base:Paragraphs>
+      <base:Paragraphs>形状。-混合器，有点有槽。</base:Paragraphs>
+      <base:Paragraphs>长度：中等，3.1厘米。</base:Paragraphs>
+      <base:Paragraphs>颜色：红棕色（32-12）。</base:Paragraphs>
+      <base:Paragraphs>姿势--尖部附近的锐角，大部分是沿侧面水平的。</base:Paragraphs>
+      <base:Paragraphs>腺体--没有</base:Paragraphs>
+      <base:Paragraphs>规定：</base:Paragraphs>
+      <base:Paragraphs>小型，4毫米，不明显，微小的锯齿状。</base:Paragraphs>
+      <base:Paragraphs>颜色。绿黄色。</base:Paragraphs>
+      <base:Paragraphs>大多数都是沿着叶柄放置的。</base:Paragraphs>
+      <base:Paragraphs>侧芽：</base:Paragraphs>
+      <base:Paragraphs>尺寸小。</base:Paragraphs>
+      <base:Paragraphs>形状--平坦的，有角的。</base:Paragraphs>
+      <base:Paragraphs>颜色深棕色。</base:Paragraphs>
+      <base:Paragraphs>短柔毛。绒毛细腻。</base:Paragraphs>
+      <base:Paragraphs>顶芽；</base:Paragraphs>
+      <base:Paragraphs>尺寸小。</base:Paragraphs>
+      <base:Paragraphs>形状--平坦的，有角的。</base:Paragraphs>
+      <base:Paragraphs>颜色深棕色。</base:Paragraphs>
+      <base:Paragraphs>短柔毛。绒毛细腻。</base:Paragraphs>
+      <base:Paragraphs>休眠植物</base:Paragraphs>
+      <base:Paragraphs>芽：</base:Paragraphs>
+      <base:Paragraphs>粗厚，基部厚度6-11毫米，坚硬，脆。</base:Paragraphs>
+      <base:Paragraphs>树皮颜色：深棕色（25-15）。</base:Paragraphs>
+      <base:Paragraphs>明显的短柔毛。</base:Paragraphs>
+      <base:Paragraphs>节直径比节间大在叶疤痕的每一侧有轻微的肩。</base:Paragraphs>
+      <base:Paragraphs>节间--平滑，间隔规则。</base:Paragraphs>
+      <base:Paragraphs>排便和根特征</base:Paragraphs>
+      <base:Paragraphs>生根和粪便：在粪便床中繁殖良好，沿着胫的全长形成坚固的根。 根由节点产生。</base:Paragraphs>
+      <base:Paragraphs>在凳上生长的习惯：芽由节产生，主要以微小的角度向外生长。</base:Paragraphs>
+      <base:Paragraphs>花卉性状</base:Paragraphs>
+      <base:Paragraphs>花：</base:Paragraphs>
+      <base:Paragraphs>尺寸-直径3.6厘米。</base:Paragraphs>
+      <base:Paragraphs>颜色：底边有粉红色条纹的白色。</base:Paragraphs>
+      <base:Paragraphs>水果：（无商业价值，但可用于鉴定）。</base:Paragraphs>
+      <base:Paragraphs>形状：从圆形到略呈长方形。</base:Paragraphs>
+      <base:Paragraphs>颜色-红色条纹。</base:Paragraphs>
+      <base:Paragraphs>尺寸：直径约4.5厘米，长度约5.5厘米。</base:Paragraphs>
+      <base:Paragraphs>味道--温和无味</base:Paragraphs>
+      <base:Paragraphs>一般特性</base:Paragraphs>
+      <base:Paragraphs>生根：很少的生根。</base:Paragraphs>
+      <base:Paragraphs>尺寸控制潜力：在主题砧木上出芽的树的尺寸将根据栽培种的活力和/或土壤类型和果园管理而变化。 标准 当与苹果幼苗砧木上的树相比时，生长的栽培种如红色和金色美味的尺寸减小约65%。 不太旺盛的品种尺寸减小得更多，而更旺盛的品种尺寸减小得更少。</base:Paragraphs>
+      <base:Paragraphs>矮小：完全矮小。</base:Paragraphs>
+      <base:Paragraphs>早熟性：根据品种而变化，大多数栽培种通常在果园的第一年开花并结实，此后每年结实。</base:Paragraphs>
+      <base:Paragraphs>相容性：嫁接物与所有主要商业结果品种相容。</base:Paragraphs>
+      <base:Paragraphs>牙根锚固：需要支撑。</base:Paragraphs>
+      <base:Paragraphs>抗寒性：在大多数商业苹果种植区都是耐寒的。</base:Paragraphs>
+      <base:Paragraphs>病虫害抗性：苹果对常见病虫害的平均抗性。 测试并发现没有苹果的所有已知病毒和病毒样疾病。</base:Paragraphs>
+    </business:Disclosure>
+  </business:Description>
+  <business:Claims dataFormat="original" sourceDB="US" lang="en">
+    <base:Paragraphs>权利要求是：</base:Paragraphs>
+    <base:Paragraphs>1. 一种新的和独特的苹果树克隆，Malling 9的运动，由栽培品种名称‘M9-RN19’表示，基本上如本文所示和所述，其特征特别在于其作为砧木用于嫁接苹果树栽培品种以产生矮化苹果树的稳定性，以及其能够非常容易地在砧木中生根，具有非常少的侧向分枝并产生用于苗圃使用的高质量砧木植物。</base:Paragraphs>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

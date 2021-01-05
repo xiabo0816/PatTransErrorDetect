@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000225394JP00020161268160AFULJA20160711JP00E.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126816" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126816</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126816</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000225394</base:DocNumber>
+        <base:Date>20151118</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015225394</base:DocNumber>
+        <base:Date>20151118</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000263762</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014263762</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>11</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>20</business:MainGroup>
+        <business:Subgroup>14</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G11B  20/14        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>11</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>7</business:MainGroup>
+        <business:Subgroup>005</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G11B   7/005       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G11B20/14 351A</business:FI>
+      <business:FI type="secondary">G11B7/005 Z</business:FI>
+      <business:FClass>
+        <business:FTerm>5D044BC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D044CC06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D044DE34</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D044DE38</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D044GM02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D044GM12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D044GM15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D090AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D090BB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D090BB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D090FF07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D090GG03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D090GG09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D090GG23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5D044</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5D090</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">相位误差检测器和光盘装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>パナソニックIPマネジメント株式会社</base:Name>
+            <base:RegisteredNumber>314012076</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市中央区城見2丁目1番61号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>南野  順一</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府門真市大字門真1006番地  パナソニック株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中田  浩平</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府門真市大字門真1006番地  パナソニック株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>鎌田  健司</base:Name>
+            <base:RegisteredNumber>100106116</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>前田  浩夫</base:Name>
+            <base:RegisteredNumber>100170494</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>6</business:ClaimsCount>
+      <base:TotalPageCount>17</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种相位误差检测器和光盘装置,其在不增加模拟电路的情况下减少PLL的残差。 本公开的相位误差检测器具备：根据第1周期的第1输入信号生成正弦波信号的正弦波生成电路、根据第1输入信号生成余弦波信号的余弦波生成电路、算出正弦波信号与第2周期的第2输入信号的相位差的第1算出部、算出余弦波信号与第2输入信号的相位差的第2算出部、以及在第2算出部算出的相位差在规定范围以内的情况下将第1算出部算出的相位差作为相位误差输出、在第2算出部算出的相位差在规定范围之外的情况下将与第1算出部算出的相位差相同符号的规定值作为相位误差输出的第1选择部。 图5</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="97" wi="59" file="2016126816_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本公开涉及在锁相环(PLL)电路中使用的相位误差检测器,以及使用所生成的时钟执行地址检测和记录的光盘装置。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">近年来,光盘的记录密度不断上升。 在影像领域中,DVD（Digital Versatile Disc）、BD（Blu-ray（注册商标）Disc）等光盘是众所周知的。 这些光盘不仅用于影像的记录,还用作个人计算机的外部记录介质。 另一方面,作为个人计算机的外部记录介质,也使用硬盘、闪存等。 光盘与这些外部记录介质相比,具有长寿命、高可靠性、不需要保存电力的优点。</base:Paragraphs>
+      <base:Paragraphs num="0003">由于这些优点,作为数据中心等重要数据的存档介质也受到关注。 但是,在当前容量最大的BD-XL中,1张光盘的容量为128GB。 因此,光盘与其他外部记录介质相比,需要更大的保存空间,要求容量的进一步高密度化。</base:Paragraphs>
+      <base:Paragraphs num="0004">作为光盘的高密度化技术,有岸槽记录技术。 在光盘中设置有被称为凹槽的引导槽,用于以高精度控制记录轨道中的光斑。 在岸台和凹槽记录技术中,用户数据不仅记录在凹槽中,而且记录在凹槽和凹槽之间的被称为岸台的引导凹槽中。 作为使用岸台和凹槽记录技术的光盘,DVD-RAM是众所周知的。</base:Paragraphs>
+      <base:Paragraphs num="0005">另外,在光盘中为了确定记录再现用户数据的光盘上的位置而设置有物理地址。 作为形成物理地址的方法,有在DVD-RAM中使用的预坑点。 但是,在预坑点中无法记录用户数据,因此记录容量减少。</base:Paragraphs>
+      <base:Paragraphs num="0006">作为形成物理地址的另一种方法,存在基于轨道的蛇行（以下称为摆动）的摆动地址。 由于通过摆动检测物理地址是通过与检测用户数据的记录和再现不同的方法来检测的,因此记录容量不会减少。</base:Paragraphs>
+      <base:Paragraphs num="0007">在使用摆动地址的方法中,PLL用于摆动再现信号,以在光盘上记录数据时生成时钟。 PLL包括相位误差检测器,该相位误差检测器检测作为摆动再现信号的相位与要生成的记录时钟的相位之间的差的相位误差。 PLL控制记录时钟的相位,使相位误差接近零。</base:Paragraphs>
+      <base:Paragraphs num="0008">专利文献1公开了一种用于从摆动信号生成记录时钟的方法。 在从摆动信号生成记录时钟的情况下,由于偏心、马达变动等而产生线速度变动,因此在PLL中产生残差,有时无法使相位误差充分接近零。 在该情况下,会妨碍向光盘上的准确的位置的记录。 通过提高PLL的环路增益,能够降低残差,但伴随着在PLL内使用的电荷泵的电流的增加等模拟电路的增大。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0009">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2008－176832号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0010">本公开提供了一种相位误差检测器和光盘装置,其在不添加具有大电路面积的模拟电路的情况下减少PLL的残差。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0011">本公开中的相位误差检测器具备：根据第1周期的第1输入信号生成正弦波信号的正弦波生成电路、根据第1输入信号生成余弦波信号的余弦波生成电路、算出正弦波信号与第2周期的第2输入信号的相位差的第1算出部、算出余弦波信号与第2输入信号的相位差的第2算出部、以及在第2算出部算出的相位差在规定范围以内的情况下将第1算出部算出的相位差作为相位误差输出、在第2算出部算出的相位差在规定范围之外的情况下将与第1算出部算出的相位差相同符号的规定值作为相位误差输出的第1选择部。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0012">根据本公开中的相位误差检测器以及光盘装置,通过提高相位误差检测器的增益,能够降低使用了该相位误差检测器的PLL的残差。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0013">
+        <base:FigureReference num="0001">图0001图1是实施方式中的光盘的示意图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是实施方式中的光盘的地址信息的结构图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是实施方式中的光盘装置的框图。</base:FigureReference>
+        <base:FigureReference num="0004">图4是实施方式中的光盘装置的摆动处理电路的框图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是实施方式的光盘装置的相位误差检测器的框图。</base:FigureReference>
+        <base:FigureReference num="0006">图6是表示实施方式的相位误差检测器的相对于相位差的相位误差输出的曲线图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是实施方式中的光盘装置的保持电路的框图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是实施方式中的光盘装置的合成器的框图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0014">以下,适当参照附图对实施方式进行详细说明。 但是,有时省略必要以上的详细的说明。 例如,有时省略已经公知的事项的详细说明、针对实质上相同的结构的重复说明。 这是为了避免以下的说明不必要地变得冗长,使本领域技术人员容易理解。</base:Paragraphs>
+      <base:Paragraphs num="0015">另外,附图及以下的说明是为了使本领域技术人员充分理解本公开而提供的,并不意图通过这些来限定权利要求书所记载的主题。</base:Paragraphs>
+      <base:Paragraphs num="0016">（实施方式1） 
+[1-1.光盘的结构]首先,对本实施方式的光盘装置进行记录/再现的光盘进行说明。 </base:Paragraphs>
+      <base:Paragraphs num="0017">图1是由本实施方式的光盘装置进行记录/再现的光盘的示意图。 如图1所示,在光盘101中,凹槽轨道（以下称为凹槽）102形成为螺旋状。 槽脊轨道（以下称为槽脊）103形成在凹槽102与夹在凹槽102之间的部分中。 光盘101使用凹槽102和岸台103作为记录轨道。</base:Paragraphs>
+      <base:Paragraphs num="0018">凹槽102和槽脊103将轨道以放射线状7等分而形成ADIP（ADress In Pre-Gloove）104。 ADIP 104具有表示光盘101中的位置的地址信息。 ADIP 104是光盘101中的地址信息单位。 由于ADIP 104被放射状地分割,因此ADIP 104的长度根据位置而不同。 若将配置ADIP 104的位置的半径设为r,则ADIP 104的长度为2×π×r/7。</base:Paragraphs>
+      <base:Paragraphs num="0019">图2是本实施方式中的作为地址信息的ADIP 104的结构图。 ADIP 104由同步部201和地址信息部202构成。 同步部201用于检测进行光盘装置的记录/再现的定时。 地址信息部202记录有地址信息。 地址信息单元202包括多个ADIP单元203。</base:Paragraphs>
+      <base:Paragraphs num="0020">ADIP单元203包括单色摆动单元204和地址调制单元205。 单色摆动单元204在凹槽102中具有余弦波的相位。 地址调制部205基于地址调制部205的1比特的信息进行规定的调制,相对于单调摆动部204的余弦波的相位具有不同的相位。 因此,光盘装置可以通过检测具有与单色摆动单元204的相位不同的相位的地址调制单元205来检测地址信息。</base:Paragraphs>
+      <base:Paragraphs num="0021">在此,在制造光盘时,通过光束的照射而形成凹槽102。 槽脊103被定义为夹在相邻的凹槽102之间的区域。 为了稳定地再现岸台103的单色摆动部分204的信号,在光盘的径向方向上相邻的凹槽102的摆动相位必须是对齐的。 因此,以一定的角度形成摆动。 光盘101的ADIP 104以一定的角度分割是为了使凹槽102的摆动的相位一致。</base:Paragraphs>
+      <base:Paragraphs num="0022">为了使相邻凹槽102的相位对齐,单色摆动部204的长度根据每个半径而不同。 光盘装置生成与单色摆动单元204的频率相乘的时钟。 对于所生成的时钟,合成器进行时钟的频率的有理数倍（M/N倍：M、N为自然数）,生成成为与大致固定的物理长度相当的频率的时钟。 光盘装置通过使用该时钟进行记录,以大致恒定的记录密度进行记录。</base:Paragraphs>
+      <base:Paragraphs num="0023">[1-2.光盘装置的结构]接下来,对本实施方式中的光盘装置的结构进行说明。 图3是本实施方式中的光盘装置的框图。</base:Paragraphs>
+      <base:Paragraphs num="0024">光盘装置100包括光学头301、伺服控制电路302、信号生成电路303、摆动处理电路304、访问定时生成电路305、合成器306、控制器307、编码器308、记录处理电路309、激光器驱动电路310、再现处理电路311和解码器312。</base:Paragraphs>
+      <base:Paragraphs num="0025">若向光盘装置100插入光盘101,则从光头301向光盘101照射光束。 由光盘101反射的光束通过包括在光头301中的在轨道方向（切向方向）和径向方向（径向方向）上被分成四个部分的光电检测器（未示出）进行光电转换,并且反射的光束的信息被转换为电信号。</base:Paragraphs>
+      <base:Paragraphs num="0026">信号生成电路303根据从包括在光学头301中的四分光电检测器输出的电信号生成聚焦误差信号、跟踪误差信号、摆动信号和全和信号。</base:Paragraphs>
+      <base:Paragraphs num="0027">聚焦误差信号例如是通过像散法检测到的信号。 聚焦误差信号是通过将四分割光检测器的两组对角线布置的两个信号相加而获得的信号。</base:Paragraphs>
+      <base:Paragraphs num="0028">跟踪误差信号和摆动信号是通过推挽法检测到的信号。 将四分割光检测器的两组沿切向方向布置的两个信号中的每一个相加,并且生成推挽信号,该推挽信号是通过计算它们的差而获得的信号。 通过从推挽信号中提取0Hz至几十kHz的频率分量来生成跟踪误差信号。 摆动信号是通过从推挽信号中提取几十kHz至几MHz的信号分量而生成的。</base:Paragraphs>
+      <base:Paragraphs num="0029">全加法信号是将从四分割光检测器输出的信号全部相加而得到的信号,是表示光盘的反射光量本身的信号。</base:Paragraphs>
+      <base:Paragraphs num="0030">伺服控制电路302上下驱动光学头301的物镜,使得由信号生成电路303生成的聚焦误差信号变为0,以将光斑聚集在记录表面上。 此外,伺服控制电路302在径向方向上驱动物镜,使得由信号生成电路303生成的跟踪误差信号变为0,从而将光斑跟踪到岸台或凹槽。 根据跟踪误差信号,通过将物镜向外周侧驱动还是向内周侧驱动,来决定将跟踪设为岸台或凹槽中的哪一个。 该驱动的方向根据来自控制器307的跟踪槽脊或凹槽中的哪一个的指示来确定。</base:Paragraphs>
+      <base:Paragraphs num="0031">摆动处理电路304使用由信号生成电路303生成的摆动信号,生成并输出通过将光盘101的单色摆动部分204的再现信号相乘而获得的摆动时钟,再现并输出地址信息,并且生成并输出地址定时信号。 稍后将描述摆动处理电路304的细节。 摆动时钟以具有与对单色摆动部204进行规定分割而得到的时间相等的周期的方式生成。 因此,在以相同的线速度扫描光盘101的情况下,越靠内周,频率越高,越靠外周,频率越低,在以相同的转速扫描光盘101的情况下,从内周至外周成为相同的频率。</base:Paragraphs>
+      <base:Paragraphs num="0032">合成器306将由摆动处理电路304生成的摆动时钟乘以有理数倍,并将摆动时钟转换为记录时钟,使得在光盘101的扫描中从内周到外周具有大致恒定的物理长度,即,在以相同的线速度进行扫描的情况下具有大致相同的频率。 具体而言,合成器306使用从控制器307提供的系数M和系数N,以频率成为摆动时钟的频率的N/M倍的方式生成记录时钟。</base:Paragraphs>
+      <base:Paragraphs num="0033">访问定时生成电路305使用由摆动处理电路304生成的地址信息、地址定时信号和摆动时钟来生成指示执行记录和再现的定时的记录目标地址的定时信号和再现目标地址的定时信号。</base:Paragraphs>
+      <base:Paragraphs num="0034">再现处理电路311根据访问定时生成电路305生成的再现目标地址的定时信号,从信号生成电路303生成的全加法信号中提取作为用户数据的二进制数据。</base:Paragraphs>
+      <base:Paragraphs num="0035">解码器312对由再现处理电路311提取出的二进制数据进行解调而进行错误校正,并作为再现数据输出。</base:Paragraphs>
+      <base:Paragraphs num="0036">编码器308接收作为用户数据的记录数据,添加错误校正码并将错误校正码调制为二进制数据。</base:Paragraphs>
+      <base:Paragraphs num="0037">记录处理电路309基于由合成器306生成的记录时钟和由访问定时生成电路305生成的记录目标地址的定时信号,向激光器驱动电路310发出与二进制数据对应的记录功率的发光指令。</base:Paragraphs>
+      <base:Paragraphs num="0038">激光器驱动电路310根据记录处理电路309的记录功率的发光指令来驱动光头301。 由此,光头301以比再现时强度的记录功率向光盘101照射光束,在光盘101上进行与二进制数据对应的记录。</base:Paragraphs>
+      <base:Paragraphs num="0039">[1-3.摆动处理电路的配置]接下来,将描述摆动处理电路304的详细配置。 图4是摆动处理电路304的框图。 摆动处理电路304包括ADIP检测电路413和PLL414。</base:Paragraphs>
+      <base:Paragraphs num="0040">PLL414根据摆动信号生成将摆动信号的频率倍频而得到的摆动时钟。 PLL414具有A/D转换器401、相位误差检测器407、保持电路408、时钟生成器415以及分频器412。</base:Paragraphs>
+      <base:Paragraphs num="0041">时钟发生器415包括第一电荷泵409、第一滤波器410和第一电压控制振荡器(VCO)411。</base:Paragraphs>
+      <base:Paragraphs num="0042">ADIP检测电路413包括同步检测电路402、ADIP定时生成电路406、保持定时生成电路405和地址检测电路403。 ADIP检测电路413从数字摆动信号生成地址信息和地址定时信号,并输出地址信息和地址定时信号。</base:Paragraphs>
+      <base:Paragraphs num="0043">A/D转换器401以基于摆动时钟的采样周期对摆动信号进行数字化,作为数字摆动信号,输出到相位误差检测器407和ADIP检测电路413的同步检测电路402和地址检测电路403。</base:Paragraphs>
+      <base:Paragraphs num="0044">分频器412对摆动时钟进行24分频,将表示24分频后的1个周期中的相位的信号即倍频分频相位输出到相位误差检测器407。 倍频分频相位是在每个摆动时钟从-12到11每次增加1,在11之后返回到-12的信号。 倍频分频相位的周期与摆动时钟的周期的24倍相同。</base:Paragraphs>
+      <base:Paragraphs num="0045">相位误差检测器407检测并输出A/D转换器401的输出的数字摆动信号中包含的摆动载波成分与倍频分频相位之间的相位误差。</base:Paragraphs>
+      <base:Paragraphs num="0046">同步检测电路402从数字摆动信号中检测光盘101的同步部分201。</base:Paragraphs>
+      <base:Paragraphs num="0047">ADIP定时生成电路406基于检测到同步部201的定时,生成确定ADIP 104中的同步部201的位置的地址定时信号。</base:Paragraphs>
+      <base:Paragraphs num="0048">地址检测电路403根据ADIP定时生成电路406生成的地址定时信号,确定地址调制部205进行检测的定时,判别地址信息是“0”还是“1”,合计判别结果,进行错误校正,作为地址信息输出。</base:Paragraphs>
+      <base:Paragraphs num="0049">保持定时生成电路405根据由ADIP定时生成电路406生成的地址定时信号,输出用于指定调制摆动的地址调制单元205的定时的信号作为保持定时信号。 保持定时信号是在地址调制部205的定时为“1”、除此以外为“0”的信号。</base:Paragraphs>
+      <base:Paragraphs num="0050">保持电路408在保持定时信号表示地址调制部205的定时时,将在内部保持的值作为相位误差输出,在除此以外的定时时,输出相位误差检测器407输出的相位误差。</base:Paragraphs>
+      <base:Paragraphs num="0051">第一电荷泵409根据保持电路408的输出进行电流的注入或吸引。</base:Paragraphs>
+      <base:Paragraphs num="0052">第一滤波器410使第一电荷泵409的电流的注入或抽吸的动作平滑化,并作为电压输出。</base:Paragraphs>
+      <base:Paragraphs num="0053">第一VCO411输出与第一滤波器410输出的电压对应的频率的摆动时钟。</base:Paragraphs>
+      <base:Paragraphs num="0054">另外,PLL414也可以是不包含保持电路408的结构。</base:Paragraphs>
+      <base:Paragraphs num="0055">[1-4.相位误差检测器的结构]接着,对相位误差检测器407的详细结构进行说明。 图5是相位误差检测器407的框图。 相位误差检测器407具有正弦波生成电路501、第1计算部502、余弦波生成电路503、第2计算部504和第1选择部505。</base:Paragraphs>
+      <base:Paragraphs num="0056">第1计算部502由第1乘法器506和第1积分器507构成。 第2计算部504由第2乘法器508和第2积分器509构成。 第一选择部505由第一比较器510、第二比较器511、第一选择器512、第二选择器513以及放大器514构成。</base:Paragraphs>
+      <base:Paragraphs num="0057">正弦波生成电路501基于输入的倍频分频相位生成正弦波信号。 乘法分频相位从-12变化到11,因此,作为正弦波信号,设为sin（2×π×乘法分频相位/24） 
+进行动态观察时的轴心点。 </base:Paragraphs>
+      <base:Paragraphs num="0058">第一乘法器506将数字摆动信号的摆动载波分量乘以正弦信号并输出。</base:Paragraphs>
+      <base:Paragraphs num="0059">第1积分器507针对倍频分频相位1个周期、即相当于摆动1个周期（摆动时钟24个周期）的倍频分频相位为0的定时至-1的区间,对第1乘法器506的输出进行积分。</base:Paragraphs>
+      <base:Paragraphs num="0060">这些结构进行基于所谓外差检波的相位差检测。 设摆动信号中包含的单调摆动部204的余弦波成分与倍频分频相位的相位差为α。 此时,余弦波成分cos(x)与正弦波生成电路501生成的正弦波信号sin（x+α）的乘法运算为cos(x)×sin（x+α）=（sin（2x+α）+sin（α））/2。 通过第1积分器507的1周期量的积分,sin（2x+α）项的积分结果成为0,因此仅残留sin（α）/2项。 作为外差检波的结果的sin（α）/2是相位差α的正弦函数,因此在相位差α为-90度至90度的范围内,相对于相位差α单调增加,在-180度至-90度和+90度至+180度的范围内,相位误差的检测结果单调减少。</base:Paragraphs>
+      <base:Paragraphs num="0061">第一比较器510在第一积分器507的输出为正的情况下输出“1”,在第一积分器507的输出为负的情况下输出“0”。</base:Paragraphs>
+      <base:Paragraphs num="0062">第一选择器512在第一比较器510的输出为“1”的情况下输出0.5,在为“0”的情况下输出-0.5。 即,第一选择器512在第一积分器507的输出为正的情况下输出0.5,在第一积分器507的输出为负的情况下输出-0.5。</base:Paragraphs>
+      <base:Paragraphs num="0063">余弦波生成电路503基于输入的倍频分频相位,作为余弦波信号,使用cos（2×π×倍频分频相位/24） 
+进行动态观察时的轴心点。 </base:Paragraphs>
+      <base:Paragraphs num="0064">第2乘法器508将数字摆动信号和余弦波信号相乘并输出。</base:Paragraphs>
+      <base:Paragraphs num="0065">第2积分器509针对倍频分频相位1个周期、即相当于摆动1个周期（摆动时钟24个周期）的倍频分频相位为0的定时至-1的区间,对第2乘法器508的输出进行积分。</base:Paragraphs>
+      <base:Paragraphs num="0066">第二比较器511在第二积分器509的输出为正的情况下输出“1”,在第二积分器509的输出为负的情况下输出“0”。</base:Paragraphs>
+      <base:Paragraphs num="0067">第二选择器513在第二比较器511的输出为“1”的情况下,输出第一积分器507的输出,在第二比较器511的输出为“0”的情况下,输出第一选择器512的输出。 放大器514将输入信号加倍并输出。</base:Paragraphs>
+      <base:Paragraphs num="0068">这里,当设摆动信号中包含的单调摆动部204的余弦波成分与倍频分频相位的相位差为α时,余弦波成分cos(x)与余弦波生成电路503生成的余弦波信号cos（x+α）的乘法运算为cos(x)×cos（x+α）=cos（α）/2。 因此,第二比较器511的输出在相位差为-90度至+90度时为“1”,在-180度至-90度以及+90度至+180度时为“0”。</base:Paragraphs>
+      <base:Paragraphs num="0069">第二选择器513在第二比较器511的输出为“1”的情况下,即,在相位差α为-90度至90度的范围的情况下,输出第一积分器507的输出。 另外,第二选择器513在第二比较器511的输出为“0”且第一比较器510的输出为“0”的情况下,即在相位差α为-180度至-90度的情况下,输出-0.5。 另外,在第二比较器511的输出为“0”且第一比较器的输出为“1”的情况下,即在相位差α为+90度至+180度的情况下,第二选择器513输出+0.5。 图6是示出相对于相位误差检测器407的相位差的相位误差输出的曲线图。 在图6中,用实线表示相位误差检测器407中的相对于相位差的相位误差,为了比较,用虚线表示相对于外差检波的相位差的相位误差、即第1积分器507的输出。</base:Paragraphs>
+      <base:Paragraphs num="0070">即,第1选择部505在第2计算部504计算出的相位差在规定范围内的情况下,将第1计算部502计算出的相位差作为相位误差输出,在第2计算部504计算出的相位差在规定范围外的情况下,将与第1计算部502计算出的相位差相同符号且规定绝对值的值作为相位误差输出。</base:Paragraphs>
+      <base:Paragraphs num="0071">[1-5.保持电路的结构]接着,对保持电路408的详细结构进行说明。 图7是保持电路408的框图。 保持电路408具备LPF（Low-Pass Filter：低通滤波器）701和第3选择器702。</base:Paragraphs>
+      <base:Paragraphs num="0072">保持定时信号是在地址调制部205的定时为“1”、除此以外为“0”的信号。 在保持定时信号为“0”的情况下,第三选择器702选择作为输入信号的相位误差,并将其作为相位误差输出。 在保持定时信号为“1”的情况下,第三选择器702选择LPF701的输出,作为相位误差输出。 即,在保持定时信号为“1”的情况下的地址调制部205的定时,相位误差检测器407的相位误差大致为0,增益降低,因此不使用相位误差检测器407的输出,为了抑制增益的降低,使用LPF701的输出。</base:Paragraphs>
+      <base:Paragraphs num="0073">LPF701在保持定时信号为“0”的期间,对相位误差进行平滑化并输出。 当保持定时信号变为“1”时,LPF 701保持并输出刚刚平滑化并输出的值。 即,第三选择器702在保持定时信号为“1”的情况下,持续输出将保持定时信号即将从“0”变化为“1”之前的相位误差平滑化后的值。 由LPF 701平滑化后的相位误差通过LPF 701的截止频率以下的残差。 因此,即使将通过了LPF701的相位误差保持并输出,也能够抑制残差而使PLL414进行动作。 因此,即使地址调制部205的比例大且保持PLL414的频度高,也能够抑制PLL414的低频的增益降低。</base:Paragraphs>
+      <base:Paragraphs num="0074">[1-6.合成器的结构]接着,对合成器306的详细结构进行说明。 图8是合成器306的框图。 合成器306包括相位误差检测器900和时钟发生器814。</base:Paragraphs>
+      <base:Paragraphs num="0075">相位误差检测器900由N计数器801、M计数器802、比较器800以及合成电路810构成。</base:Paragraphs>
+      <base:Paragraphs num="0076">比较器800由第一相位比较器803、第二相位比较器804、第三相位比较器805、第四相位比较器806、第五相位比较器807、第六相位比较器808和第七相位比较器809构成。</base:Paragraphs>
+      <base:Paragraphs num="0077">时钟发生器814包括第二电荷泵811、第二滤波器812和第二VCO 813。</base:Paragraphs>
+      <base:Paragraphs num="0078">N计数器801从控制器307接收系数N,并且通过将摆动时钟从0计数到N-1来对摆动时钟进行N分频。 此时,在计数值为0、N/8、2N/8、3N/8、N-3N/8、N-2N/8、N-NN/8时,分别输出定时信号。</base:Paragraphs>
+      <base:Paragraphs num="0079">由于计数器值为整数,因此进行比较的各个值也需要为整数,但各个值通过基于位移位和加减运算的单纯的运算来求出,因此将小数点以下舍去。 另外,这里设为先运算N/8后进行整数倍的运算。 因此,例如,在N=99的情况下,N/8为12,2N/8为24,3N/8为36,N-3N/8为63,N-2N/8为75,N-N/8为87。</base:Paragraphs>
+      <base:Paragraphs num="0080">类似地,M计数器801从控制器307接收系数M,并且通过将作为第二VCO 813的输出的记录时钟从0计数到M-1来执行M分频。 此时,在计数器值为0、M/8、2M/8、3M/8、M-3M/8、M-2M/8、M-M/8时,分别输出定时信号。</base:Paragraphs>
+      <base:Paragraphs num="0081">与N计数器同样地,计数器值为整数,因此进行比较的各个值也需要为整数,但各个值通过基于位移位和加减运算的单纯的运算来求出,因此小数点以下舍去。 另外,在此设为在先运算出M/8之后进行整数倍的运算。</base:Paragraphs>
+      <base:Paragraphs num="0082">第一相位比较器803至第七相位比较器809的输入不同,但全部进行共同的动作。 第一相位比较器803～第七相位比较器809对来自N计数器801的定时信号和来自M计数器802的定时信号进行相位比较,根据比较结果输出向上脉冲或向下脉冲。 即,在来自N计数器801的定时信号的上升沿比来自M计数器802的定时信号的上升沿先到来的情况下,第一相位比较器803～第七相位比较器809在从来自N计数器801的信号的上升沿到来自M计数器802的信号的上升沿为止的期间内输出up脉冲。 相反,在来自M计数器802的定时信号的上升沿比来自N计数器801的定时信号的上升沿先到达的情况下,第一相位比较器803～第七相位比较器809在从来自M计数器802的信号的上升沿到来自N计数器801的信号的上升沿为止的期间内输出down脉冲。</base:Paragraphs>
+      <base:Paragraphs num="0083">具体而言,第一相位比较器803进行表示N计数器=0的定时信号与表示M计数器=0的定时信号的相位比较。 第二相位比较器804进行表示N计数器=N/8的定时信号与表示M计数器=M/8的定时信号的相位比较。 第三相位比较器805进行表示N计数器=2N/8的定时信号与表示M计数器=2M/8的定时信号的相位比较。 第四相位比较器806执行指示N个计数器=3N/8的定时信号与指示M个计数器=3M/8的定时信号的相位比较。 第五相位比较器807进行表示N计数器=N-3N/8的定时信号与表示M计数器=M-3M/8的定时信号的相位比较。 第六相位比较器808进行表示N计数器=N-2N/8的定时信号与表示M计数器=M-2M/8的定时信号的相位比较。 第七相位比较器809进行表示N计数器=N-N/8的定时信号与表示M计数器=M-M/8的定时信号的相位比较。</base:Paragraphs>
+      <base:Paragraphs num="0084">第一相位比较器803～第七相位比较器809进行N计数器的值为0时的相位与M计数器的值为0时的相位的相位比较,并且进行N计数器的值与对N进行大致规定分割而得到的值相等时的相位与M计数器的值与对M进行大致规定分割而得到的值相等时的相位的相位比较。</base:Paragraphs>
+      <base:Paragraphs num="0085">合成电路810根据第一相位比较器803～第七相位比较器809的比较结果,生成表示相位误差的信号。 即,合成电路810在第一相位比较器803输出了up脉冲的情况下,将输出的down脉冲固定为“0”,在未输出up脉冲的情况下,输出从第一相位比较器803到第七相位比较器809的down脉冲的逻辑或作为down脉冲。 同样,在第一相位比较器803输出down脉冲的情况下,将输出的up脉冲固定为“0”,在未输出down脉冲的情况下,将从第一相位比较器803到第七相位比较器809的up脉冲的逻辑或作为up脉冲输出。 通过这些相位比较,在N计数器801和M计数器802的相位以规定以上较大地偏移的情况下,PLL414使用第一相位比较器803的相位比较结果进行锁定。 另一方面,在相位误差在规定以内较小的情况下,使用第一相位比较器803至第七相位比较器809。</base:Paragraphs>
+      <base:Paragraphs num="0086">只要N和M不是8的倍数,N/8、M/8就会在整数化后的相位比较中产生因小数点以下的差引起的相位误差的残差。 例如,在N=99、M=98的情况下,99/8=12.375、98/8=12.25。 因此,进行N=12和M=12时的相位比较。 因此,进行12/99=约0.1212周期和12/98=约0.1224周期的相位比较,产生0.1224-0.1212=0.0012周期量的残差。 该残差在PLL414的循环中成为偏移而出现,但在N-N/8、M-M/8的相位比较中,相反地产生-0.0012周期量的偏移。 因此,通过同时进行N/8、M/8的相位比较和N-N/8、M-M/8的相位比较,残差抵消,抑制PLL414的循环整体中的总的偏移的产生。</base:Paragraphs>
+      <base:Paragraphs num="0087">第二电荷泵811根据合成电路810的up脉冲注入电流,根据down脉冲吸引电流。</base:Paragraphs>
+      <base:Paragraphs num="0088">第二滤波器812使第二电荷泵811的电流的注入或吸引的工作平滑化并作为电压输出。</base:Paragraphs>
+      <base:Paragraphs num="0089">第二VCO 813输出与第二滤波器812的输出电压对应的频率的记录时钟。</base:Paragraphs>
+      <base:Paragraphs num="0090">如上所述,合成器306针对以往的仅以相位0进行的相位比较,以共计7个相位进行相位比较,并分别进行电流的注入或吸引,由此能够不进行伴随电路规模的增大那样的电荷泵电流的增加而将相位比较增益设为7倍。</base:Paragraphs>
+      <base:Paragraphs num="0091">如以上那样,本公开的相位误差检测器具备：根据第1周期的第1输入信号生成正弦波信号的正弦波生成电路、根据第1输入信号生成余弦波信号的余弦波生成电路、算出正弦波信号与第2周期的第2输入信号的相位差的第1算出部、算出余弦波信号与第2输入信号的相位差的第2算出部,在第2算出部算出的相位差在规定范围以内的情况下,将第1算出部算出的相位差作为相位误差输出,在第2算出部算出的相位差在规定范围之外的情况下,将与第1算出部算出的相位差相同符号的规定值作为相位误差输出。</base:Paragraphs>
+      <base:Paragraphs num="0092">由此,能够提供即使在相位差较大的情况下也能够适当地检测相位误差的相位误差检测器。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0093">本公开可以应用于从在轨道的槽中记录有物理地址的介质中提取时钟的记录/再现设备。 具体而言,能够应用于光盘或光学带的记录再现装置。</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0094">100光盘装置101光盘102凹槽103岸台104 ADIP 201同步部202地址信息部203 ADIP单元204单调摆动部205地址调制部301光学头302伺服控制电路303信号生成电路304摆动处理电路305访问定时生成电路306合成器307控制器308编码器309记录处理电路310激光器驱动电路311再现处理电路312解码器401A/D转换器402同步检测电路403地址检测电路405保持定时生成电路406定时生成电路407, 900相位误差检测器408保持电路409电荷泵410第一滤波器411第一VCO 412分频器413 ADIP检测电路414 PLL 415、814时钟生成器501正弦波生成电路502第一计算部503余弦波生成电路504第二计算部505第一选择部506第一乘法器507第一积分器508第二乘法器509第二积分器510第一比较器511第二比较器512第一选择器513第二选择器514放大器701 LPF 702选择器800比较器801计数器802计数器803第一相位比较器804第二相位比较器805第三相位比较器806第四相位比较器807第六相位比较器809第七相位比较器810合成电路811电荷泵812第二滤波器813第二VCO</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="79" wi="83" file="2016126816_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="56" wi="84" file="2016126816_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="122" wi="73" file="2016126816_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="123" wi="81" file="2016126816_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="122" wi="74" file="2016126816_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="96" wi="70" file="2016126816_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="53" wi="85" file="2016126816_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="82" file="2016126816_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>所述相位误差检测器具备：根据第1周期的第1输入信号生成正弦波信号的正弦波生成电路、根据所述第1输入信号生成余弦波信号的余弦波生成电路、算出所述正弦波信号与第2周期的第2输入信号的相位差的第1算出部、算出所述余弦波信号与所述第2输入信号的相位差的第2算出部、以及在所述第2算出部算出的相位差在规定范围以内的情况下,将所述第1算出部算出的相位差作为相位误差输出,在所述第2算出部算出的相位差在所述规定范围之外的情况下,将与所述第1算出部算出的相位差相同符号的规定值作为相位误差输出的第1选择部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的相位误差检测器,其中,所述规定值是所述第1计算部计算的相位差的最大值或最小值的绝对值。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的相位误差检测器,其特征在于,所述规定范围为-90度至+90度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的相位误差检测器,其特征在于,具备定时生成部、低通滤波器以及第二选择部,所述定时生成部在所述第一选择部的输出即所述相位误差大致为0的情况下输出定时信号“1”,在所述第一选择部的输出即所述相位误差不大致为0的情况下输出定时信号“0”,所述低通滤波器在所述定时信号为“0”的情况下输出将所述第一选择部输出的所述相位误差平滑化后的值,在所述定时信号为“1”的情况下保持并输出所述平滑化后的值,所述第二选择部在所述定时信号为“1”的情况下输出来自所述低通滤波器的输入,在所述定时信号为“0”的情况下输出所述第一选择部输出的所述相位误差。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>第1选择部,其根据第1周期的第1输入信号生成正弦波信号,根据所述第1输入信号生成余弦波信号,算出所述正弦波信号与第2周期的第2输入信号的相位差的第1算出部,算出所述余弦波信号与所述第2输入信号的相位差的第2算出部,在所述第2算出部算出的相位差在规定范围以内的情况下,将所述第1算出部算出的相位差作为相位误差输出,在所述第2算出部算出的相位差在所述规定范围之外的情况下,将与所述第1算出部算出的相位差相同符号的规定值作为相位误差输出；</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>以及第2选择部,其在所述定时信号为“0”的情况下,输出定时信号“1”,在所述第1选择部的输出即所述相位误差大致为0的情况下,输出定时信号“0”,在所述定时信号为“0”的情况下,输出将所述第1选择部输出的所述相位误差平滑化后的值,在所述定时信号为“1”的情况下,保持并输出所述平滑化后的值,在所述定时信号为“0”的情况下,输出来自所述低通滤波器的输入,在所述定时信号为“0”的情况下,输出所述第1选择部输出的所述相位误差,所述时钟生成器使用所述第2选择部的输出来生成时钟。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

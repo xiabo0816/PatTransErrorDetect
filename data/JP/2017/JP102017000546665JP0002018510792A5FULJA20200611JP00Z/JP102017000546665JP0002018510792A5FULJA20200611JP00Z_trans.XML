@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000546665JP0002018510792A5FULJA20200611JP00Z.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2018510792" kind="A5" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018510792</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018510792</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">特許法第17条の2の規定による補正の掲載</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>2018015</business:GazetteNumber>
+        <base:Date>00000000</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000546665</base:DocNumber>
+        <base:Date>00000000</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017546665</base:DocNumber>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>32</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>27</business:MainGroup>
+        <business:Subgroup>30</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B32B  27/30        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>65</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>30</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B65D  30/02        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">B32B27/30 102</business:FI>
+      <business:FI type="secondary">B65D30/02</business:FI>
+    </business:JPClassification>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T5</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+  </business:BibliographicData>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <base:Paragraphs num="0008">术语“化学改性的”是指具有与具有羟基或氨基的单官能化合物反应的酸性官能团（例如,马来酸或（甲基）丙烯酸单元）的聚合物。 优选的具有羟基的单官能化合物包括亚乙基和丙二醇及其低聚物、聚合物和一端被C<base:Sub>1</base:Sub>-C<base:Sub>4</base:Sub>烷基封端的聚合物,优选聚合物和共聚物具有20,000或更小、优选10,000或更小的Mn。 具有氨基的优选的单官能化合物是具有末端氨基的乙烯和丙二醇共聚物,包括末端羟基被甲基封端的JEFFAMINE M系列胺。</base:Paragraphs>
+      </business:Description>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

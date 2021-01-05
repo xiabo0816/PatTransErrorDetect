@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000266353JP00020161261350AFULJA20160711JP009.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126135" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126135</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126135</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000266353</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014266353</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>10</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>15</business:MainGroup>
+        <business:Subgroup>04</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G10K  15/04        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>10</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>25</business:MainGroup>
+        <business:Subgroup>51</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G10L  25/51        20130101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G10K15/04 302D</business:FI>
+      <business:FI type="secondary">G10L25/51 100</business:FI>
+      <business:FClass>
+        <business:FTerm>5D108BD02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D108BD03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D108BF05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D108BF20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5D108</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">卡拉OK设备</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社第一興商</base:Name>
+            <base:RegisteredNumber>390004710</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都品川区北品川5丁目5番26号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>矢吹  豪</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都品川区北品川5－5－26  株式会社第一興商内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>野村  直孝</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都品川区北品川5－5－26  株式会社第一興商内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>▲高▼橋  寛</base:Name>
+            <base:RegisteredNumber>100097560</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>14</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明提供一种卡拉OK装置,其支持唱歌,通过在唱歌时意识到下巴的运动来促进良好的发声。 在构成参考信息处理装置的音节识别装置33和参考识别装置34中,从单音节表54和双音节表55中识别参考数据,在单音节表54和双音节表55中预先设定音节和下巴的开闭动作状态,在比较判定处理装置35中,在与各歌词字符相关联的歌唱定时,将由检测动作识别装置32识别的下巴的开闭动作状态与由参考信息处理装置识别的参考数据进行比较,并显示比较结果的评价,其中,所述参考数据用于根据要歌唱的乐曲的歌词数据的音节来估计与歌唱者的下巴的动作相对应的开闭动作状态,所述参考数据用于根据要歌唱的乐曲的歌词数据的音节来估计与歌唱者的下巴的动作相对应的开闭动作状态。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="95" wi="67" file="2016126135_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及具备卡拉OK歌唱中的发声辅助功能的卡拉OK装置。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">近年来,在利用者配合设置于卡拉OK室的卡拉OK装置的演奏而歌唱时,为了良好的发声,另外为了美容、健康,推荐将嘴张开而歌唱。 在卡拉OK歌唱中,有可能由于嘴张开得过大而增加对颞下颌关节的负担,从而产生弊端,因此认为需要意识到使下颌的关节放松而顺畅地活动,而不是意识到嘴张开得过大。 另一方面,在与知之甚少的成员进行歌唱时,与在指导者的身边进行歌唱的情况不同,不会特别留意下颚的动作等,而且由于麦克风信号的放大功能,不怎么移动下颌骨而进行歌唱的倾向较强,针对这样的歌唱者的倾向,期望提供使下颚的关节放松而使其顺畅地移动的卡拉OK内容。</base:Paragraphs>
+      <base:Paragraphs num="0003">以往,作为对颚的动作进行检测的技术,例如,如专利文献1那样,已知有如下技术：利用插入到外耳道内的压力传感器来感测并测量因咀嚼而产生的肌肉的动作所导致的耳道内的压力变化,并将该压力变化的次数显示为咀嚼次数。 另外,如专利文献2所述,还已知如下技术：使基部与人体紧密接触,使检测单元连续地位于该基部,检测由咀嚼引起的动作,接收该检测信号,作为咀嚼次数进行记录并显示。</base:Paragraphs>
+      <base:Paragraphs num="0004">另一方面,在卡拉OK中,已知有将歌唱者的嘴的形状的适当度反映到评分结果中的技术,例如,如专利文献3那样,已知有如下技术：预先存储表示嘴的理想纵横比的形状数据作为针对每个元音具有的理想形状数据,对于基于演奏中的乐曲数据内的歌词数据而确定的歌唱者实际应发声的音节,从理想形状数据中提取与构成该音节的元音对应的形状数据,计算根据照相机的摄像图像测量出的歌唱者的嘴的纵横比相对于该提取出的形状数据的纵横比的形状适合度,生成基于该形状适合度的图像点数数据。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">           <business:ApplicationCitation num="0001">
+            <base:Text>特開平07－213510号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開平07－171136号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0003">
+            <base:Text>特開2005－242230号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">然而,按照歌词歌唱卡拉OK乐曲与咀嚼同样地使颚活动,因此,通过使歌唱者佩戴专利文献1、专利文献2所记载的能够检测咀嚼次数的装置,能够检测歌唱时的颚的活动,但这是仅对颚活动的次数进行计数的技术,仅将颚实际活动的次数作为结果进行显示,无法进行按照歌词歌唱各卡拉OK乐曲时的理想的颚的活动的比较,存在无法实现促进良好发声的歌唱辅助的问题。</base:Paragraphs>
+        <base:Paragraphs num="0007">另外,专利文献3所记载的技术只不过是单纯地进行歌唱评分的方法,仅通过确定歌唱时的嘴的形状,无法判定在歌唱时是否能够沿着歌词顺畅地进行下巴的动作,存在无法进行促进良好的发声的歌唱辅助的问题。</base:Paragraphs>
+        <base:Paragraphs num="0008">因此,本发明是鉴于上述课题而完成的,其目的在于提供一种卡拉OK装置,其在歌唱时使下巴的动作意识到,从而对促进良好的发声的歌唱进行辅助。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0009">为了解决上述课题, 在技术方案1的发明中, 与检测装置自由通信,所述检测装置对歌唱所引起的歌唱者的下巴的动作进行检测, 一种卡拉OK装置,能够接收该检测信号, 检测动作识别单元,其基于在乐曲的演奏中从所述检测装置接收到的信号,识别与歌唱者的下巴的动作对应的开闭动作状态； 以及比较评估处理单元,所述比较评估处理单元被配置为基于预定数量的音节表来确定参考数据,所述参考数据根据包括在要歌唱的音乐的歌词数据中的歌词字符的音节来估计与歌唱者的下巴的运动相对应的开闭动作状态,在所述预定数量的音节表中预先设置了音节和下巴的开闭动作状态,在所述比较评估处理单元中,将歌唱定时数据与包括在要歌唱的音乐的歌词数据中的每个歌词字符相关联,并且将由参考信息处理单元确定的参考数据与由检测动作识别单元识别的、基于所述歌唱定时数据已经到达要歌唱的时段的音节的下巴的开闭动作状态进行比较,并且显示比较结果的评估。</base:Paragraphs>
+        <base:Paragraphs num="0010">在权利要求2～4的发明中, “所述预定数量的音节表包括： 将发出一个音节时的下巴的开闭动作状态对应起来的单音节表； 一种双音节表,所述双音节表将从发出第一音节的状态到发出第二音节时的下巴的开闭动作状态与两个音节的顺序组相关联； 所述参考信息处理单元包括： 音节确定单元,其从所述歌词数据的首字符起依次确定音节； 将所述歌词数据划分为多个词组区间, 由所述音节指定装置指定的音节包括： 在短语区间的开头的情况下,从所述单音节表中指定与所述音节对应的下巴的打开和关闭操作状态； 参考识别装置,所述参考识别装置被配置为从所述双音节表中识别下巴的打开和关闭操作状态,所述下巴的打开和关闭操作状态对应于在所述短语区间的开头以外的音节的情况下由所述音节之前的音节和所述音节的顺序组成的组； “与所述乐曲的歌词数据中包含的各歌词字符相对应的歌唱定时数据为： 该歌词数据中包含的每个歌词字符的颜色改变定时数据,所述参考确定单元将所述乐句区间中连续进行歌词的颜色改变的歌词字符串一并进行区分,并针对每个区分确定各音节的下巴的开闭动作状态”,“与所述乐曲的歌词数据中包含的各歌词字符相关联的歌唱定时数据是将歌词字符与乐曲的演奏数据中包含的旋律部分的乐谱数据的各音符相关联的数据,所述参考确定单元将所述乐句区间中连续进行音符的发音的歌词字符串一并进行区分,并针对每个区分确定各音节的下巴的开闭动作状态”。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0011">根据权利要求1的发明, 根据在乐曲的演奏中从检测装置接收到的信号,识别与歌唱者的下巴的动作对应的开闭动作状态； 根据被歌唱的乐曲的歌词数据中包含的歌词字符的音节,推测与歌唱者的下巴的动作相应的开闭动作状态的参考数据, 基于预先设定的预定数量的音节表来指定音节和下巴的打开/关闭操作状态； 通过构成为基于与乐曲的歌词数据中包含的各歌词字符相对应的歌唱定时数据对应该歌唱的期间到来的音节的参考数据和由检测动作识别单元识别出的下巴的开闭动作状态进行比较,并显示比较结果的评价,与在卡拉OK乐曲的演奏时显示于画面的歌词相匹配地,针对每个音节对歌唱者歌唱时的下巴的动作和基于该乐曲的歌词的理想的下巴的动作进行比较,因此,歌唱者能够针对每个音节确认歌唱时是否实现了顺畅的下巴的动作,能够辅助在歌唱时意识到下巴的动作而促使良好的发声的歌唱。</base:Paragraphs>
+        <base:Paragraphs num="0012">根据权利要求2的发明, 将发出一个音节时的下巴的开闭动作状态对应起来的单音节表； 双音节表,所述双音节表将从发出第一音节的状态到发出第二音节时的下巴的开闭动作状态与两个音节的顺序组相关联, 从歌词数据的首字符起依次确定音节,将歌词数据划分为多个词组区间,在所确定的音节为词组区间的开头的情况下,根据单音节表来确定与该音节对应的下巴的开闭动作状态,在词组区间的开头以外的音节的情况下,根据双音节表来确定与该音节之前的音节和该音节的顺序所构成的组对应的下巴的开闭动作状态,由此,根据歌词数据,利用参考数据来推测、确定乐曲歌唱时的下巴的开闭动作状态,因此,无需针对多达数万首的卡拉OK乐曲预先制作数据,能够以简单结构来实现。</base:Paragraphs>
+        <base:Paragraphs num="0013">根据技术方案3、4的发明,与乐曲的歌词数据中包含的各歌词字符相关联的歌唱定时数据是将歌词字符与该歌词数据中包含的每个歌词字符的颜色改变定时数据或乐曲的演奏数据中包含的旋律片段的乐谱数据的各音符相关联的数据,将乐句区间构成为,将连续地进行歌词的颜色改变的歌词字符串或连续地进行音符的发音的歌词字符串作为一个整体进行区分,并按照每个区分来确定各音节的下巴的开闭动作状态,由此,能够使基于歌词数据、演奏数据的乐曲歌唱时的下巴的开闭动作状态的参考数据中的推测、确定更高精度。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">图0001是根据本发明的卡拉OK设备的框图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是图1的单音节表和双音节表的说明图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是参考确定对象的歌词数据的说明图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是图1的检测装置的结构框图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是图1的参考确定单元中的基于歌词数据的颚动作确定处理的说明图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是图5的个别音节的颚动作确定处理的说明图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是图1的比较评价单元中的比较评价的说明图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是图1的参考确定单元中的基于其他歌词数据的词组区间确定、参考确定的说明图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">以下,通过附图对本发明的实施方式进行说明。 图1示出了本发明所涉及的卡拉OK装置的块结构图,图2示出了图1的单音节表和双音节表的说明图,图3示出了参考确定对象的歌词数据的说明图,图4示出了图1的检测装置的块结构图。</base:Paragraphs>
+      <base:Paragraphs num="0016">在图1中,卡拉OK装置11以有线或无线的方式外部连接于作为主要装置的卡拉OK主体12,通过连接显示部13、混合放大器14、麦克风15、扬声器16、远程输入输出装置17而构成,该卡拉OK主体12与规定数量的检测装置18（18A～18N）自由通信（在图4中对检测装置18进行说明）。</base:Paragraphs>
+      <base:Paragraphs num="0017">上述显示部13显示通常的乐曲选曲显示、卡拉OK演奏时的背景影像等,例如能够采用液晶显示器(LCD)、等离子显示器(PDP)、其他各种显示器。 上述混合放大器14将从卡拉OK主体12发送来的音乐演奏信号与来自麦克风15的声音信号混合,放大后从扬声器16输出。</base:Paragraphs>
+      <base:Paragraphs num="0018">上述远程输入输出装置17用于通过未图示的终端收发部,利用有线方式或无线方式（IR方式或蓝牙（注册商标）机构的微微网连接方式等）对卡拉OK主体12进行数据收发,至少适当具备登录/注销处理单元17A、作为乐曲检索单元的选曲乐曲登记单元17B、检测装置选择单元17C以及遥控器显示部17D。</base:Paragraphs>
+      <base:Paragraphs num="0019">上述登录/登出处理单元17A是根据利用者的登录操作而从该利用者取得利用者名、利用者ID,作为利用者信息42而存储于RAM23,进行允许登录的处理,并且根据登出操作而进行利用结束的处理的程序。 另外,远程输入输出装置17能够通过后述的GUI功能来检索并预约利用者想要歌唱的乐曲,但优选利用者先登录到卡拉OK装置11。</base:Paragraphs>
+      <base:Paragraphs num="0020">上述选曲乐曲登记单元17B是基于由乐曲ID、曲名、艺术家名等数据构成的表格,检索利用者所希望的乐曲,并将所选曲的乐曲的乐曲ID发送至卡拉OK本体12的程序。 被发送的乐曲ID被登记在卡拉OK本体12中的RAM23预约队列41中。</base:Paragraphs>
+      <base:Paragraphs num="0021">上述检测装置选择单元17C是将检测装置18与登录的利用者对应起来的程序。 具体而言,使遥控器显示部17D显示已经与卡拉OK装置11进行了配对的检测装置18A～18N的列表,通过从该列表中选择自己使用的检测装置18而将利用者与检测装置18建立对应,将该信息作为利用者信息42之一存储在RAM23中。 而且,若利用者在乐曲预约时选择自己作为歌唱者并进行预约操作,则在演奏该乐曲时,卡拉OK装置11仅接收来自与该利用者相关联的检测装置18的检测信号。</base:Paragraphs>
+      <base:Paragraphs num="0022">上述遥控器显示部17D将液晶显示器(LCD)和触摸传感器层叠而用于输入输出,具有能够与所显示的图标等对应地通过该触摸传感器输入乐曲的选择等数据的GUI的用户界面功能。</base:Paragraphs>
+      <base:Paragraphs num="0023">上述卡拉OK主体12具备总线20、中央控制部21、ROM22、RAM23、影像显示控制单元24、音乐演奏控制部25、声源（合成器）25A、评分单元26、A/D转换部26A、收发部27、存储部28、检测信号接收部31、检测动作识别单元32、音节确定单元33、参考确定单元34以及比较评价处理单元35。 参考信息处理装置由音节指定装置33和参考指定装置34构成。</base:Paragraphs>
+      <base:Paragraphs num="0024">在上述RAM23中形成有预约等待矩阵41、用户信息42、对象歌词数据43、参考数据44以及比较结果数据45的存储区域。 此外,存储单元28存储音乐数据库（音乐DB）51、视频数据库（视频DB）52、参考数据库（参考DB）53、单音节表54和双音节表55。 另外,关于上述各结构,为了表示即使是与本发明的主旨不直接关联的要素部分,在以往的卡拉OK系统中也能够应用大部分,对结构要素的整体进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0025">上述中央控制部21是对该系统进行统一处理控制的物理CPU,进行基于存储在ROM22中的程序的算法处理。 上述RAM23除了形成有预约等待队列41、用户信息42、对象歌词数据43、参考数据44以及比较结果数据45的存储区域之外,还起到作为用于展开并执行上述各种程序的作业区域的作用,上述RAM23例如由半导体存储器构成,是还包括虚拟地构建在硬盘上的情况的概念。</base:Paragraphs>
+      <base:Paragraphs num="0026">存储在RAM23中的上述对象歌词数据43是从基于选曲预约登记在预约队列41中的乐曲ID的乐曲DB51中读出的歌词数据。 如图3所示,该乐曲的歌词数据包括：将全部歌词字符按照每个适当的小节进行划分而成的页、用显示于显示部13等的一横列的字符串进行划分而成的行、各字符的字符编号和字符代码、歌词正文或拼音的类别代码、表示显示部13等的画面的显示位置的显示布局、以及在演奏时间序列上对各字符进行颜色改变处理的颜色改变定时。 该颜色改变定时由颜色改变开始时间和结束时间构成,例如以ms单位表示从演奏开始起的经过时间。</base:Paragraphs>
+      <base:Paragraphs num="0027">即,该歌词数据被页和行划分,页是显示部13的一个画面中的最大显示单位,行是显示在显示部13等上时的横一行的字符串,该页或行在后述的参考确定单元34中被划分为多个短语区间（参照图5）,进行后述的与下巴的动作相应的开闭动作状态的确定处理。 另外,读出处理被预约登记在预约等待矩阵41中并在演奏开始时由中央控制部21进行,但也可以另外具备专用于该处理的程序。</base:Paragraphs>
+      <base:Paragraphs num="0028">存储于RAM23的比较结果数据45是比较评价处理单元35的比较结果,针对每个音节实时地存储,在歌唱结束的时刻成为歌唱整体的全部比较结果的数据。</base:Paragraphs>
+      <base:Paragraphs num="0029">上述影像显示控制单元24是在演奏时将从影像DB52提取的背景影像和从乐曲DB51提取的乐曲的歌词数据输出到显示部13的程序或电子电路。 另外,也可以显示比较评价处理单元35中的评价。 例如,音乐演奏控制单元25包括序列程序,并且根据从音乐DB 51提取的音符数据根据音乐ID来驱动声源（合成器）25A,并且声源25A的输出作为演奏信号被输出到混合放大器14。</base:Paragraphs>
+      <base:Paragraphs num="0030">评分装置26通过检测用户的歌唱语音的音高并将音高与稍后描述的每个乐曲的主旋律的参考数据的相应音高进行比较来进行评分,并且是基于用于对从麦克风15输入并由A/D转换单元26A进行数字转换的语音信号进行歌唱评分的参考数据来执行评分处理的程序。 具体而言,例如能够使用日本专利第4222915号公报所记载的方法。</base:Paragraphs>
+      <base:Paragraphs num="0031">上述收发部27用于在与远程输入输出装置17之间利用有线方式或无线方式（IR方式、蓝牙（注册商标）机构的微微网连接方式等）进行数据收发,是用于此的电子电路及程序。</base:Paragraphs>
+      <base:Paragraphs num="0032">存储在上述存储部28中的乐曲DB51针对每个乐曲存储音符数据、歌词数据等。 关于演奏,具体而言,是具有将乐曲ID、曲名以及艺术家ID（艺术家名）相关联的乐曲表的数据库,对于每个乐曲,对于由乐曲ID管理的规定数据形式的卡拉OK乐曲的演奏数据（例如,MIDI（注册商标）形式的旋律部分的每个音符的乐谱数据）等构成的乐曲数据（文件）,将该乐曲ID作为文件名分别进行了存储。 存储在上述存储部28中的影像DB52是针对与每个乐曲对应的背景影像数据而将乐曲ID作为文件名分别存储的数据库。</base:Paragraphs>
+      <base:Paragraphs num="0033">存储在上述存储单元28中的参考DB 53是将存储在上述音乐DB 51中的卡拉OK音乐与评分参考数据相关联地存储的数据库,所述评分参考数据是每个音乐的主旋律的评分参考数据,所述评分参考数据用作用于根据卡拉OK音乐的歌唱区段来评价和分析歌手的歌唱的评价标准。</base:Paragraphs>
+      <base:Paragraphs num="0034">存储在上述存储部28中的单音节表54是在以歌词数据中的对象音节是由后述的参考确定单元34进行区分处理的乐句区间的开头的情况为对象而发出该对象音节时,确定了向打开下巴的方向或关闭下巴的方向移动的下巴的开闭动作状态的表,如图2(A)所示,针对作为对象音节的“元音”或“辅音+元音”中的一个音节,预先设定了下巴的动作（开闭动作状态）。 此外,对于短语区间的开头的音节,设定从关闭下巴的状态发出短语区间的开头的音节时的下巴的动作。 此外,在图2的(A)、(B)中,“↑”表示打开颚的动作,“↓”表示关闭颚的动作,“-”表示没有颚的动作的状态。</base:Paragraphs>
+      <base:Paragraphs num="0035">存储在上述存储单元28中的双音节表55是在歌词数据中的目标音节是除短语区间的开头以外的音节的情况下,当顺序地发出目标音节之前的音节和目标音节这两个音节时,指定下巴在打开方向或关闭方向上的运动的表,并且如图2B所示,双音节表55包括作为目标音节之前的音节的“元音”或“辅音+元音”、作为目标音节的“元音”和“辅音+元音”以及特殊发声音节（例如,“元音a”和“辅音+元音a”、“元音e”和“辅音+元音e”、“元音o”和“辅音+元音o”）。 此外,在短语区间的开头以外的音节中,针对两个连续的音节,设定从发出第一个音节的状态到发出第二个音节时的下巴的动作。</base:Paragraphs>
+      <base:Paragraphs num="0036">上述检测信号接收部31是接收从后述的检测装置18发送来的检测信号的程序或电子电路。 上述检测动作识别单元32是根据在乐曲的演奏中从检测装置18接收到的信号来识别下巴的开闭状态的程序或电子电路。 例如,作为检测信号,从检测装置18接收电压电平信号（也可以是专用于该电平值的数据信号）,基于该信号确定电平值,根据预先设定的电平值,通过颚的打开、关闭、不动的开闭状态的对应来进行识别。</base:Paragraphs>
+      <base:Paragraphs num="0037">由上述音节确定单元33和参考确定单元34构成的参考信息处理单元根据预先设定了音节和下巴的开闭动作状态的上述单音节表54和双音节表55,计算根据要歌唱的乐曲的歌词数据的音节来推测歌唱者的下巴的动作的开闭动作状态的参考数据,音节确定单元33是根据存储在RAM23中的图3所示的对象歌词数据43,从该歌词数据的首字符起依次确定音节的程序（参照图5进行说明）。</base:Paragraphs>
+      <base:Paragraphs num="0038">参考确定单元34是如下程序：将对象歌词数据43划分为多个乐句区间（在图5和图8中对划分进行说明）,在由音节确定单元33确定的音节位于歌唱区间的开头的情况下,从上述单音节表54中确定与该音节对应的下巴的开闭动作状态,在由音节确定单元33确定的音节是歌唱区间的开头以外的音节的情况下,从上述双音节表55中确定与该音节之前的音节和该音节的顺序所构成的组对应的下巴的开闭动作状态,并作为参考数据44存储在RAM23中（在图5和图6中进行说明）。</base:Paragraphs>
+      <base:Paragraphs num="0039">上述比较评价处理单元35是如下程序：基于后述的歌唱定时数据,针对到了应该歌唱的期间的音节,将作为由参考信息处理单元（音节识别单元33和参考识别单元34）识别出的下巴的开闭动作状态的RAM23中存储的参考数据44与由上述检测动作识别单元32识别出的下巴的开闭动作状态的数据进行比较,将比较结果的评价显示于远程输入输出装置17的遥控器显示部17D或显示部13（也可以与遥控器显示部17D一起）,并且将比较结果作为比较结果数据45存储于RAM23。 另外,利用图7对比较处理、评价处理进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0040">在此,图1所示的检测装置18是可穿戴终端,常备于卡拉OK室等,由利用者选择性地持有该检测装置18,预先通过近距离无线通信与卡拉OK装置11（检测信号接收部31）进行配对。 如图4所示,检测装置18在装置主体61具备检测处理单元62及检测发送单元63,并具备与外部延长连接的检测传感器64。 该检测处理单元62具备保持装置ID并控制装置整体的程序,在该利用者登录时通过选择指定该检测装置18（装置ID）而建立关联并作为利用者信息42的一部分存储于RAM23。</base:Paragraphs>
+      <base:Paragraphs num="0041">上述检测发送单元63是将由检测传感器64检测到的检测信号作为例如电压电平的信号或专用于电平值的数据信号发送到配对的卡拉OK装置11的检测信号接收部31的程序或电子电路。 上述检测传感器64具备对基于歌唱的下巴的动作进行检测的压力传感器等检测元件,能够使用能够插入到利用者的耳孔内的形态的检测传感器、能够佩戴于耳孔周边的形态等的检测传感器。</base:Paragraphs>
+      <base:Paragraphs num="0042">因此,图5中示出了图1的参考确定单元中的基于歌词数据的颚动作确定处理的说明图,并且图6中示出了图5的个别音节的颚动作确定处理的说明图,图7中示出了图1的比较评价单元中的比较评价的说明图。 这里,以在乐曲被选曲预约到预约等待队列41中时,对象歌词数据43被存储在图3所示的RAM23中为前提。</base:Paragraphs>
+      <base:Paragraphs num="0043">当进行了乐曲的选曲预约时,音节确定单元33根据该乐曲的乐曲ID,针对从RAM23读出的图3所示的对象歌词数据43,如图5所示,从歌词数据的最初的字符起依次将字符代码为平假名的字符确定为音节（不确定汉字）。</base:Paragraphs>
+      <base:Paragraphs num="0044">如图5所示,参考确定单元34将对象歌词数据43划分为多个词组区间。 例如,在图3的对象歌词数据43中,将连续地进行歌词的颜色改变的歌词字符串作为一个集合来划分的区间,根据与各歌词相对应的颜色改变定时数据,在对象音节的开始定时和对象音节之前的音节的结束定时连续的情况下,这两个音节连续地进行颜色改变,并包含在一个短语区间中。</base:Paragraphs>
+      <base:Paragraphs num="0045">若列举图3的具体例,则歌词数据中的字符编号1的“あ”的结束定时和接下来的字符编号2的“ta”的开始定时均以从演奏开始起的经过时间即9750ms连续,之后直至字符编号7的“あ”和字符编号8的“の”为止持续连续状态,将其包含在一个乐句区间中。</base:Paragraphs>
+      <base:Paragraphs num="0046">另一方面,在目标音节的开始定时和目标音节之前的音节的结束定时不连续的情况下,这两个音节没有连续地改变颜色,并且这是短语之间的分界,因此目标音节是短语的头部。 如果举出图3的具体例,则歌词数据中的字符编号8的“的”的结束定时是从演奏开始起的经过时间即12700ms,接下来的字符编号10的“嗯”的开始定时是从演奏开始起的经过时间即13000ms,在其间存在300ms的不连续的区间,这里是乐句的分隔符。</base:Paragraphs>
+      <base:Paragraphs num="0047">对于由音节识别装置33识别的音节,参考识别装置34随后通过参考单音节表54针对短语区间的第一音节识别对应下巴的打开和关闭操作状态,并且通过参考双音节表55针对除短语区间的第一音节之外的音节识别对应于目标音节之前的音节和目标音节的顺序组的下巴的打开和关闭操作状态。</base:Paragraphs>
+      <base:Paragraphs num="0048">作为具体示例,在图6的(A)的示例中,由于与演奏一致的图5中的字符编号为1的音节“あ”[（辅音+）a]位于乐句区间的开头,因此参考单音节表54来识别与目标音节[（辅音+）a]对应的下巴的运动“↑”。 此外,在图6的(B)的示例中,由于与演奏一致的图5中的字符编号为2的音节“ta”[（辅音+）a]位于乐句区间的中间,因此前一音节被识别为“a”[（辅音+）a],并且参考双音节表55来识别与目标音节[（辅音+）a]→[（辅音+）a]对应的下巴的运动“↓↑”。</base:Paragraphs>
+      <base:Paragraphs num="0049">在图6的(C)的示例中,由于与演奏一致的图5中的字符编号为6的音节“Ki”[（辅音+）u]位于乐句区间的中间,因此前一个音节被识别为“Ki”[（辅音+）o],并且参考双音节表55来识别与目标音节[（辅音+）o]→[（辅音+）u]对应的下巴的运动“↓”。 此外,在图6的(D)的示例中,由于与演奏一致的图5中的字符编号为7的音节“Moi”[（辅音+）o]位于乐句区间的中间,因此前一个音节被识别为“Ki”[（辅音+）u],并且参考双音节表55来识别与目标音节[（辅音+）u]→[（辅音+）o]对应的下巴的运动“↑”。</base:Paragraphs>
+      <base:Paragraphs num="0050">然后,在参考确定单元34中,针对上述歌词数据所确定的每个音节,确定如上述那样确定下巴的开闭动作状态的参考数据,将在歌词数据全部的音节中确定的参考数据作为参考数据44存储在RAM23中。</base:Paragraphs>
+      <base:Paragraphs num="0051">因此,比较评价处理单元35在进行选曲预约的卡拉OK乐曲的演奏时从RAM23读出参考数据44,开始选曲预约的卡拉OK乐曲的演奏,基于歌唱定时数据,将应歌唱的期间到来的音节的参考数据、与在该音节的应歌唱的期间中从歌唱者佩戴的检测装置接收并识别出的检测动作（下巴的开闭动作状态）进行比较,由此给出该比较结果的评价。</base:Paragraphs>
+      <base:Paragraphs num="0052">具体而言,如图7所示,在演奏时间轴上,在要歌唱音节“あ”的期间中接收到的检测动作为“↑（打开下巴）”的情况下,与该音节“あ”对应的下巴的运动的参考数据为“↑”,因此,对于该音节能够进行理想的下巴的运动,例如,比较结果为“○”,在要歌唱后续音节“ta”的期间中接收到的检测信号为“↓（关闭下巴）”的情况下,与该音节“ta”对应的下巴的运动参考数据为“↓↑”,因此,对于该音节不能进行理想的下巴的运动,因此,例如,比较结果为“×”。</base:Paragraphs>
+      <base:Paragraphs num="0053">比较评价处理单元35使远程输入输出装置17的遥控器显示部17D和显示部13中的一方或双方显示比较结果的评价。 例如,在歌唱时实时显示评价内容的情况下,将任意音节的应该歌唱的期间结束的时刻的比较结果即“○”的次数和“×”的次数作为评价内容,实时地显示于显示部13、遥控器显示部17D的画面上的规定的位置。 由此,使人意识到使“○”的次数比“×”增加,即一边注意下巴的动作一边进行歌唱。</base:Paragraphs>
+      <base:Paragraphs num="0054">作为从其他的比较评价到评价显示的处理,在比较评价处理单元35中,基于根据上述参考数据44和接收到的检测信号识别出的检测动作所引起的下巴的动作,对各个下巴的开闭次数进行计数。 具体而言,应歌唱音节“あ”的期间中的下巴的动作为“↑”并将其设为1次,接着应歌唱音节“ta”的期间中的下巴的动作为“↓↑”并将其设为2次,若演奏进行至“の”,则参考数据44的下巴的动作次数为9次。 每当各音节的应该歌唱的期间结束时,对基于参考数据44的计数值和检测动作的计数值进行比较,根据该比较结果的差进行评价。</base:Paragraphs>
+      <base:Paragraphs num="0055">即, 基于根据参考数据44和检测动作确定出的下巴的动作所对应的开闭动作状态,从确定出的“↑”、“↓”、“↓↑”开始对各个下巴的开闭次数进行计数,每当应歌唱任意音节的期间结束时,相对于基于参考数据44的计数值,在检测信号的检测动作的计数值为少规定值以上的比较结果时,将有意识地使下巴移动的意思下的“↑”作为评价,在检测信号的检测动作的计数值为多规定值以上的比较结果时,将使下巴过度移动的意思下的“↓”作为评价,在检测信号的检测动作的计数值为与应使下巴移动的次数之差为规定值以内的比较结果时,将下巴顺畅地移动的意思下的“GOOD”作为评价,实时地显示。 由此,能够对如何继续进行“GOOD”显示、即一边注意下巴的动作一边进行歌唱这样的歌唱进行辅助。</base:Paragraphs>
+      <base:Paragraphs num="0056">另一方面,在歌唱后显示评价内容的情况下,在比较评价处理单元35中,从RAM23读出比较结果数据45,在歌唱后显示每个歌唱音节的比较结果。 例如,如果在歌唱之后比较评价处理单元35将比较结果数据45与乐曲ID以及利用者ID相关联地向远程输入输出装置17转发,则进行歌唱的利用者与比较结果数据45建立对应,该歌唱者将所歌唱的乐曲的音节（平假名）显示于遥控器显示部17D,将该比较结果数据45的各音节的比较结果作为评价内容,“○”以蓝色显示文字,“×”以红色显示文字。 因此,歌唱者可以平滑地检查下巴移动的音节和下巴不移动的音节。</base:Paragraphs>
+      <base:Paragraphs num="0057">接着,图8示出图1的参考确定单元中的基于其他歌词数据的词组区间确定、参考确定的说明图。 在此,示出了短语区间确定以及参考确定的处理。 此外,在RAM23中,如图8(A)所示,形成对象演奏数据71的存储区域,在预约等待矩阵41中存储基于选曲预约的乐曲ID而从乐曲DB51读出的演奏数据。</base:Paragraphs>
+      <base:Paragraphs num="0058">因此,在图8的(B)中,参考确定单元34首先根据RAM23中存储的对象歌词数据43和对象演奏数据71,生成歌词字符-旋律对应数据（图8的(B)的音符-休止符、音高、歌词的对应数据）,该歌词字符-旋律对应数据是将应歌唱的歌词字符数据与乐曲的演奏数据中包含的歌唱旋律片段的乐谱数据的各音符对应起来而得到的。 具体而言,根据歌唱旋律片段的乐谱数据的各音符的发音定时与对象歌词数据43的各音节的颜色改变定时的一致度,分别确定与音符对应的音节。 在这种情况下,由于音节的颜色改变被设置为在每个音符的声音生成的开始之前开始,以便于歌唱者歌唱,因此可以考虑这种定时差。 此外,即使在一个音节由多个音符产生的情况下,也可以通过音节的颜色改变时间与两个音符的声音产生持续时间之间的一致性来建立对应关系。</base:Paragraphs>
+      <base:Paragraphs num="0059">接着,将基于上述歌词字符/旋律对应数据确定下巴的动作时的词组区间作为一个统一的集合来区分歌词字符串,在该歌词字符串中,连续地进行旋律部分的音符的发音。 即,在连续的音符期间,与两个音符相关联的音节被连续地生成,并且因此被包括在一个短语区间中。 例如,在一个短语区间中包括与图8(B)所示的音节“头在云上”对应的连续音符。</base:Paragraphs>
+      <base:Paragraphs num="0060">另外,由于休止符的前后两个音符不会被休止符连续地发音,因此,将休止符作为词组的分隔符,将与休止符的下一个音符对应的音节作为词组开头。 例如,由于在与图8(B)所示的音节“～上出”的“si”对应的二分音符之后有四分休止符,因此将与下一个附点四分音符对应的音节“si”的“si”作为词组开头。</base:Paragraphs>
+      <base:Paragraphs num="0061">然后,如图8(B)所示,通过将参照单音节表54和双音节表55而确定的下巴的动作（“↑”、“↓”、“↓↑”）与对象音节相关联,来确定基于歌词数据和演奏数据的每个音节的参考数据44。 此外,这样确定并存储的参考数据44在比较评价处理单元35的处理中,基于歌唱旋律部分的乐谱数据的各音符的发音定时,确定应歌唱的期间到来的音节的参考数据。</base:Paragraphs>
+      <base:Paragraphs num="0062">通过这样的基于歌词数据以及演奏数据的乐句的区分处理,也能够更高精度地进行乐曲歌唱时的下巴的开闭动作状态的基于参考数据的推测、确定,不需要针对多达数万曲的卡拉OK乐曲预先制作数据,能够以简易结构实现。</base:Paragraphs>
+      <base:Paragraphs num="0063">如上所述,与在卡拉OK乐曲的演奏时显示于画面的歌词相匹配地,针对应该歌唱的每个音节,对歌唱者歌唱时的下巴的动作和基于该乐曲的歌词的理想的下巴的动作进行比较,因此,歌唱者能够针对每个音节确认是否能够进行歌唱时的顺畅的下巴的动作,能够辅助在歌唱时意识到下巴的动作而促使良好的发声的歌唱。</base:Paragraphs>
+      <base:Paragraphs num="0064">此外,由于根据歌词数据、演奏数据来推测、确定在乐曲歌唱时可能会开闭的下巴的开闭动作（参考数据）,因此不需要针对多达数万曲的卡拉OK乐曲预先制作数据,能够以简易结构来实现。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0065">本发明的卡拉OK装置能够利用于具备卡拉OK的基本功能的卡拉OK终端以及卡拉OK用的服务器的制造、使用、销售等产业。</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0066">11卡拉OK装置12卡拉OK主体17远程输入输出装置18检测装置28存储部31检测信号接收部32检测动作识别装置33音节指定装置34参考指定装置35比较评价处理装置43对象歌词数据44参考数据45比较结果数据53参考数据库54单音节表55双连音节表63检测发送装置64检测传感器。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="119" wi="84" file="2016126135_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="119" wi="84" file="2016126135_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="86" wi="84" file="2016126135_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="27" wi="84" file="2016126135_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="108" wi="84" file="2016126135_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="121" wi="84" file="2016126135_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="15" wi="84" file="2016126135_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="101" wi="84" file="2016126135_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>与检测装置自由通信,所述检测装置对歌唱所引起的歌唱者的下巴的动作进行检测, 一种卡拉OK装置,能够接收该检测信号, 检测动作识别单元,其基于在乐曲的演奏中从所述检测装置接收到的信号,识别与歌唱者的下巴的动作对应的开闭动作状态； 参考信息处理装置,用于基于预定数量的音节表来确定参考数据,所述预定数量的音节表中预先设置有音节和下巴的开闭动作状态,所述参考数据用于根据要歌唱的所述乐曲的歌词数据中包括的歌词字符的音节来估计与歌唱者的下巴的运动相对应的开闭动作状态,所述比较评价处理装置将歌唱定时数据与要歌唱的所述乐曲的歌词数据中包括的各歌词字符相关联,并且将由所述参考信息处理装置确定的参考数据与由所述检测动作识别装置识别的、基于所述歌唱定时数据而到达要歌唱的期间的音节的下巴的开闭动作状态进行比较,并显示比较结果的评价。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的卡拉OK装置,其特征在于, 所述预定数量的音节表包括： 将发出一个音节时的下巴的开闭动作状态对应起来的单音节表； 其中,所述参考信息处理装置包括音节指定装置和参考指定装置,所述音节指定装置被配置为从所述歌词数据的第一字符开始顺序地指定音节,当由所述音节指定装置指定的音节位于所述乐句区间的开头时,从所述单音节表中指定与所述音节对应的下巴的开闭动作状态,并且当由所述音节指定装置指定的音节位于所述乐句区间的开头以外的音节时,从所述双音节表中指定与所述音节之前的音节和所述音节的顺序的组对应的下巴的开闭动作状态。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求2所述的卡拉OK装置,其特征在于,与所述乐曲的歌词数据中包含的各歌词字符相关联的歌唱定时数据是该歌词数据中包含的每个歌词字符的颜色改变定时数据,所述参考确定单元将所述词组区间中连续进行歌词的颜色改变的歌词字符串作为一个整体进行区分,并针对每个区分确定各音节的下巴的开闭动作状态。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求2所述的卡拉OK装置,其特征在于,与所述乐曲的歌词数据中所包含的各歌词字符相关联的歌唱定时数据是将歌词字符与乐曲的演奏数据中所包含的旋律部分的乐谱数据的各音符相关联的数据,所述参考确定装置将连续发音音符的歌词字符串作为一个整体来划分所述乐句区间,并针对每个划分确定各音节的下巴的开闭动作状态。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

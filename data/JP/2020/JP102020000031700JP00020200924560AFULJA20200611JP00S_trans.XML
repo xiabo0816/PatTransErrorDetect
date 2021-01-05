@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102020000031700JP00020200924560AFULJA20200611JP00S.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020092456" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092456</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092456</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102020000031700</base:DocNumber>
+        <base:Date>20200227</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020031700</base:DocNumber>
+        <base:Date>20200227</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20140101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>19</business:MainGroup>
+        <business:Subgroup>11</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N  19/11        20140101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20140101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>19</business:MainGroup>
+        <business:Subgroup>186</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N  19/186       20140101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20140101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>19</business:MainGroup>
+        <business:Subgroup>176</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N  19/176       20140101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20140101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>19</business:MainGroup>
+        <business:Subgroup>157</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N  19/157       20140101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H04N19/11</business:FI>
+      <business:FI type="secondary">H04N19/186</business:FI>
+      <business:FI type="secondary">H04N19/176</business:FI>
+      <business:FI type="secondary">H04N19/157</business:FI>
+      <business:FClass>
+        <business:FTerm>5C159KK13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159LB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159LC09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159MA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159MA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159MA21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159MC11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159PP16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159RC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TA21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TA31</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TA33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TA69</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TA79</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TB08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TC26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TC27</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TD11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159TD12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159UA16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C159UA33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5C159</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">图像编码设备,图像编码方法和图像编码程序,图像解码设备,图像解码方法和图像解码程序</business:InventionTitle>
+    <business:RelatedDocuments>
+      <business:Division>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1" lang="ja">
+              <base:DocNumber>2017089252</base:DocNumber>
+              <base:Date>20170428</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Division>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社JVCケンウッド</base:Name>
+            <base:RegisteredNumber>308036402</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県横浜市神奈川区守屋町3丁目12番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>福島  茂</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県横浜市神奈川区守屋町3丁目12番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中村  博哉</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県横浜市神奈川区守屋町3丁目12番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>熊倉  徹</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県横浜市神奈川区守屋町3丁目12番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>6</business:ClaimsCount>
+      <base:TotalPageCount>23</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种通过执行适合于图像编码和解码的块划分来提高编码效率的图像编码装置。 在图像编码装置中,将图像分割为块,以分割后的块单位进行编码的主信号块分割部将图像的主信号分割为规定尺寸的矩形而生成主信号块。 副信号块分割部将图像的副信号分割为规定尺寸的矩形而生成副信号块。 主信号预测部预测主信号,副信号预测部预测副信号。 副信号预测部能够进行根据编码后的主信号预测副信号的分量间预测,基于主信号块的尺寸和副信号块的尺寸中的至少一方,限制分量间预测。 无</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及将图像分割为块并以分割后的块为单位进行编码及解码的技术。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">在图像编码以及解码中,将图像分割为规定数量的像素的集合即块,以块单位进行编码以及解码。 通过进行适当的块的分割,画面内预测（帧内预测）以及画面间预测（帧间预测）的编码效率提高。 另外,在帧内预测中,通过根据主信号的解码图像预测副信号,编码效率提高。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2013－90015号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">但是,若根据主信号的解码图像预测副信号,则处理量增大,并且产生对主信号的处理与对副信号的处理的依赖关系,难以进行并行处理。</base:Paragraphs>
+        <base:Paragraphs num="0005">本发明是鉴于这样的状况而完成的,其目的在于提供一种通过进行适合于图像编码及解码的块分割来提高编码效率的技术。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">为了解决上述课题, 本发明的某形态的图像编码装置包括： 将图像分成块； 一种图像编码装置,以分割后的块单位进行编码,所述图像编码装置的特征在于,具备： 主信号块分割部,其将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 包括将所述图像的副信号分割为规定尺寸的矩形而生成副信号块的副信号块分割部、预测主信号的主信号预测部、以及预测副信号的副信号预测部,所述主信号块和所述副信号块分别独立地被分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测部能够进行根据编码后的主信号来预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止所述分量间预测的使用。</base:Paragraphs>
+        <base:Paragraphs num="0007">本发明的另一方面是一种图像编码方法。 该方法包括： 将图像分成块； 一种图像编码方法,以分割后的块单位进行编码,所述图像编码方法的特征在于,包括： 主信号块分割步骤,将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 包括将所述图像的副信号分割为规定尺寸的矩形而生成副信号块的副信号块分割步骤、预测主信号的主信号预测步骤、以及预测副信号的副信号预测步骤,所述主信号块和所述副信号块分别独立地分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测步骤能够进行根据编码后的主信号来预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止使用所述分量间预测。</base:Paragraphs>
+        <base:Paragraphs num="0008">本发明的又一方式是图像解码装置。 该装置包括： 一种图像解码装置,以对图像进行分割而得到的块单位进行解码,所述图像解码装置的特征在于,具备： 主信号块分割部,其将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 包括将所述图像的副信号分割为规定尺寸的矩形而生成副信号块的副信号块分割部、预测主信号的主信号预测部、以及预测副信号的副信号预测部,所述主信号块和所述副信号块分别独立地被分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测部能够进行根据解码后的主信号来预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止所述分量间预测的使用。</base:Paragraphs>
+        <base:Paragraphs num="0009">本发明的又一方式是图像解码方法。 该方法包括： 一种图像解码方法,以对图像进行分割而得到的块单位进行解码,所述图像解码方法的特征在于,包括： 主信号块分割步骤,将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 包括将所述图像的副信号分割为规定尺寸的矩形而生成副信号块的副信号块分割步骤、预测主信号的主信号预测步骤、以及预测副信号的副信号预测步骤,所述主信号块和所述副信号块分别独立地分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测步骤能够进行根据解码后的主信号来预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止使用所述分量间预测。</base:Paragraphs>
+        <base:Paragraphs num="0010">另外,将以上的构成要素的任意组合、本发明的表现在方法、装置、系统、记录介质、计算机程序等之间变换而得到的方式作为本发明的方式也是有效的。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0011">根据本发明,能够提供能够进行适合于图像编码及解码的块分割、使编码效率提高、处理量少的图像编码及解码。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0012">
+        <base:FigureReference num="0001">图0001是第1实施方式涉及的图像编码装置的结构图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是第1实施方式的图像解码装置的结构图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是说明向树块的分割及树块内部的分割的流程图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示将输入的图像分割为树块的情况的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005z是说明扫描的图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是将树块在水平且垂直方向上进行四分割的图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是将树块在水平方向上进行两分割的图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是将树块在垂直方向上两分割的图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是说明将树块在水平方向及垂直方向上四分割时的分割后的各块的处理的流程图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是说明将树块在水平方向上两分割时的分割后的各块的处理的流程图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是表示树块的分割在水平方向上被两分割时的分割后的块的再次分割的情况的图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012是说明将树块在垂直方向上两分割时的分割后的各块的处理的流程图。</base:FigureReference>
+        <base:FigureReference num="0013">图0013是表示树块的分割在垂直方向上被两分割时的分割后的块的再次分割的情况的图。</base:FigureReference>
+        <base:FigureReference num="0014">图0014是表示与第1实施方式的块分割有关的句法的例子的图。</base:FigureReference>
+        <base:FigureReference num="0015">图0015是说明帧内预测的图。</base:FigureReference>
+        <base:FigureReference num="0016">图0016是图示帧间预测的图。</base:FigureReference>
+        <base:FigureReference num="0017">图0017是图示色度格式的图。</base:FigureReference>
+        <base:FigureReference num="0018">图0018是说明亮度色差帧内预测的图。</base:FigureReference>
+        <base:FigureReference num="0019">图0019是说明亮度色差帧内预测的流程图。</base:FigureReference>
+        <base:FigureReference num="0020">图0020是图示色差块的尺寸大于亮度块的尺寸的情况的图。</base:FigureReference>
+        <base:FigureReference num="0021">图0021是图示色差块的尺寸小于亮度块的尺寸的情况的图。</base:FigureReference>
+        <base:FigureReference num="0022">图0022是图示帧内色度预测模式的语法的示例的图。</base:FigureReference>
+        <base:FigureReference num="0023">图0023是说明置换周边像素来限制帧内色差预测的例子的图。</base:FigureReference>
+        <base:FigureReference num="0024">图0024是说明基于亮度块的尺寸的差异的亮度色差帧内预测的图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0013">本发明的实施方式提供将图像分割为矩形块并对分割后的块进行编码/解码的图像编码技术。</base:Paragraphs>
+      <base:Paragraphs num="0014">（第一实施方式） 
+对有关本发明的实施方式1的图像编码装置100及图像解码装置200进行说明。 </base:Paragraphs>
+      <base:Paragraphs num="0015">图1是第1实施方式的图像编码装置100的结构图。 在此,在图1中仅表示与图像信号有关的数据流,关于运动矢量、预测模式等图像信号以外的附加信息,各构成要素提供给编码比特串生成部105而生成对应的编码数据,但未图示与附加信息有关的数据流。</base:Paragraphs>
+      <base:Paragraphs num="0016">块分割部101将图像分割为作为编码的处理单位的编码对象块,将编码对象块内的图像信号提供给残差信号生成部103。 此外,块分割部101为了评价预测图像的一致度而将编码对象块的图像信号提供给预测图像生成部102。</base:Paragraphs>
+      <base:Paragraphs num="0017">块分割部101将图像递归地分割为规定尺寸的矩形而生成编码对象块。 块分割部101包括将递归分割中的对象块在水平方向且垂直方向上进行四分割而生成四个块的四分割部、以及将递归分割中的对象块在水平方向或垂直方向上进行两分割而生成两个块的两分割部。 关于块分割部101的详细的动作在后面叙述。</base:Paragraphs>
+      <base:Paragraphs num="0018">预测图像生成部102根据从解码图像存储器108提供的解码图像信号,基于预测模式进行图片内预测（帧内预测）或图片间预测（帧间预测）。 
+生成预测图像信号。 从块分割部101提供的编码对象块内的图像信号用于帧内预测以及帧间预测的评价。 在帧内预测中,使用从块分割部101提供的编码对象块的图像信号、和从解码图像存储器108提供的与存在于与编码对象的块相同的图片内的编码对象的块接近的周围的已编码块的图像信号,生成预测图像信号。 在帧间预测中,对于从块分割部101提供的编码对象块的图像信号,将在包含编码对象块的图片（编码图片）的时间序列上位于前或后的解码图像存储器108中保存的已编码图片作为参照图片,在编码图片与参照图片之间进行块匹配等块一致度评价,求出表示运动量的运动矢量,基于该运动量根据参照图片进行运动补偿,生成预测图像信号。 预测图像生成部102将这样生成的预测图像信号提供给残差信号生成部103。 </base:Paragraphs>
+      <base:Paragraphs num="0019">残差信号生成部103进行编码的图像信号与由预测图像生成部102生成的预测信号的减法运算,生成残差信号,并提供给正交变换/量化部104。</base:Paragraphs>
+      <base:Paragraphs num="0020">正交变换/量化部104对从残差信号生成部103提供的残差信号进行正交变换/量化,将正交变换/量化后的残差信号提供给编码比特串生成部105和逆量化/逆正交变换部106。</base:Paragraphs>
+      <base:Paragraphs num="0021">编码比特串生成部105生成针对从正交变换/量化部104提供的正交变换/量化后的残差信号的编码比特串。 此外,编码比特串生成部105针对运动矢量、预测模式、块分割信息等附加信息,生成对应的编码比特串。</base:Paragraphs>
+      <base:Paragraphs num="0022">逆量化/逆正交变换部106对从正交变换/量化部104提供的正交变换/量化后的残差信号进行逆量化/逆正交变换,将逆量化/逆正交变换后的残差信号提供给解码图像信号重叠部107。</base:Paragraphs>
+      <base:Paragraphs num="0023">解码图像信号重叠部107将由预测图像生成部102生成的预测图像信号与由逆量化/逆正交变换部106进行了逆量化和逆正交变换的残差信号重叠而生成解码图像,并存储在解码图像存储器108中。 另外,有时也对解码图像实施使由编码引起的块失真等减少的滤波处理,并保存到解码图像存储器108中。</base:Paragraphs>
+      <base:Paragraphs num="0024">图2是实施方式1涉及的图像解码装置200的结构图。 在此,在图2中仅表示与图像信号有关的数据流,比特串解码部201将运动矢量、预测模式等图像信号以外的附加信息提供给各构成要素而用于对应的处理,但未图示与附加信息有关的数据流。</base:Paragraphs>
+      <base:Paragraphs num="0025">比特串解码部201对所提供的编码比特串进行解码,将正交变换/量化后的残差信号提供给块分割部202。</base:Paragraphs>
+      <base:Paragraphs num="0026">块分割部202基于解码后的块分割信息来决定解码对象块的形状,将所决定的解码对象块的正交变换/量化后的残差信号提供给逆量化/逆正交变换部203。</base:Paragraphs>
+      <base:Paragraphs num="0027">块分割部202基于解码后的块分割信息将图像递归地分割为规定尺寸的矩形,生成解码对象块。 块分割部202包括将递归分割中的对象块在水平方向且垂直方向上进行四分割而生成四个块的四分割部、以及将递归分割中的对象块在水平方向或垂直方向上进行两分割而生成两个块的两分割部。 关于块分割部202的详细的动作在后面叙述。</base:Paragraphs>
+      <base:Paragraphs num="0028">逆量化/逆正交变换部203对所提供的正交变换/量化后的残差信号进行逆正交变换以及逆量化,得到逆正交变换/逆量化后的残差信号。</base:Paragraphs>
+      <base:Paragraphs num="0029">预测图像生成部204根据从解码图像存储器206提供的解码图像信号生成预测图像信号,并提供给解码图像信号重叠部205。</base:Paragraphs>
+      <base:Paragraphs num="0030">解码图像信号重叠部205通过将由预测图像生成部204生成的预测图像信号和由逆量化/逆正交变换部203进行逆正交变换/逆量化后的残差信号重叠,生成解码图像信号,输出并存储在解码图像存储器206中。 另外,有时也对解码图像实施减少由编码引起的块失真等的滤波处理,并存储在解码图像存储器206中。</base:Paragraphs>
+      <base:Paragraphs num="0031">对图像编码装置100的块分割部101的动作进行详细说明。 图3是说明向树块的分割及树块内部的分割的流程图。</base:Paragraphs>
+      <base:Paragraphs num="0032">首先,将输入的图像分割为规定尺寸的树块（S1000）。 例如,将树块设为128像素×128像素。 但是,树块并不限定于128像素×128像素,只要是矩形,则可以使用任意的大小以及形状。 此外,树块的大小以及形状可以在编码装置与解码装置之间预先确定固定的值,但也可以构成为编码装置决定并记录在编码比特流内,解码装置使用所记录的块尺寸。 将输入的图像分割为树块的情况如图4所示。 树块按照光栅扫描顺序（即,从左到右、从上到下）被编码和解码。</base:Paragraphs>
+      <base:Paragraphs num="0033">将树块的内部进一步分割为矩形的块。 树块内部按照z-扫描顺序进行编码、解码。 图5示出z-扫描的顺序。 在z-扫描中,按照左上、右上、左下、右下的顺序进行编码及解码。 树块内部的分割能够进行四分割和两分割,四分割在水平方向且垂直方向上进行分割。 两分割在水平方向或垂直方向上进行分割。 图6是将树块在水平且垂直方向上四分割的图。 图7是将树块在水平方向上两分割的图。 图8是将树块在垂直方向上两分割的图。</base:Paragraphs>
+      <base:Paragraphs num="0034">再次参照图3。 判断是否对树块内部在水平及垂直方向上进行四分割（S1001）。</base:Paragraphs>
+      <base:Paragraphs num="0035">在判断为对树块内部进行四分割的情况下（S1001：是）,对树块内部进行四分割（S1002）,进行在水平且垂直方向上进行了四分割的块的各处理（S1003）。 关于四分割后的块的再次分割处理在后面叙述（图9）。</base:Paragraphs>
+      <base:Paragraphs num="0036">在判断为不对树块内部进行四分割的情况下（S1001：否）,判断是否对树块内部进行两分割（S1004）。</base:Paragraphs>
+      <base:Paragraphs num="0037">在判断为对树块内部进行两分割的情况下（S1004：是）,判断是否将两分割的方向设为水平方向（S1005）。</base:Paragraphs>
+      <base:Paragraphs num="0038">在将两分割的方向判断为水平方向的情况下（S1005：是）,对树块内部在水平方向上进行两分割（S1006）,进行在水平方向上进行了两分割的块的各处理（S1007）。 关于在水平方向上被两分割的块的再次分割处理在后面叙述（图10）。</base:Paragraphs>
+      <base:Paragraphs num="0039">在将两分割的方向判断为垂直方向而不是水平方向的情况下（S1005：否）,对树块内部在垂直方向上进行两分割（S1008）,进行在垂直方向上进行了两分割的块的各处理（S1009）。 关于在水平方向上被两分割的块的再次分割处理在后面叙述（图11）。</base:Paragraphs>
+      <base:Paragraphs num="0040">在判断为不对树块内部进行两分割的情况下（S1004：否）,不对树块的内部进行块分割而结束块分割处理（S1010）。</base:Paragraphs>
+      <base:Paragraphs num="0041">接着,使用图9的流程图对将树块在水平方向且垂直方向上四分割时的分割后的各块的处理进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0042">判断是否将块内部在水平且垂直方向上再次四分割（S1101）。 
+。 </base:Paragraphs>
+      <base:Paragraphs num="0043">在判断为再次对块内部进行四分割的情况下（S1101：是）,再次对块内部进行四分割（S1102）,进行在水平且垂直方向上进行了四分割的块的各处理（S1103）。</base:Paragraphs>
+      <base:Paragraphs num="0044">在判断为不对块内部再次进行四分割的情况下（S1101：否）,判断是否对块内部进行两分割（S1104）。</base:Paragraphs>
+      <base:Paragraphs num="0045">在判断为对块内部进行两分割的情况下（S1104：是）,判断是否将两分割的方向设为水平方向（S1105）。</base:Paragraphs>
+      <base:Paragraphs num="0046">在将两分割的方向判断为水平方向的情况下（S1105：是）,将块内部在水平方向上两分割（S1106）,进行在水平方向上两分割的块的各处理（S1107）。</base:Paragraphs>
+      <base:Paragraphs num="0047">在将两分割的方向判断为垂直方向而不是水平方向的情况下（S1105：否）,将块内部在垂直方向上两分割（S1108）,进行在垂直方向上两分割的块的各处理（S1109）。</base:Paragraphs>
+      <base:Paragraphs num="0048">在判断为不对块内部进行两分割的情况下（S1104：否）,不对块的内部进行块分割而结束块分割处理（S1110）。</base:Paragraphs>
+      <base:Paragraphs num="0049">对四分割后的各块执行图9的流程图所示的处理。 四分割后的块的内部也按照z-扫描顺序进行编码及解码。</base:Paragraphs>
+      <base:Paragraphs num="0050">接着,使用图10的流程图对将树块在水平方向上两分割时的分割后的各块的处理进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0051">在将树块在水平方向上进行了两分割的情况下,对于两分割后的各块,首先判断是否将块内部在水平及垂直方向上进行四分割（S1201）。</base:Paragraphs>
+      <base:Paragraphs num="0052">在判断为对块内部进行四分割的情况下（S1201：是）,对块内部进行四分割（S1202）,进行在水平且垂直方向上进行了四分割的块的各处理（S1203）。</base:Paragraphs>
+      <base:Paragraphs num="0053">在判断为不对块内部进行四分割的情况下（S1201：否）,判断是否再次对块内部进行两分割（S1204）。</base:Paragraphs>
+      <base:Paragraphs num="0054">在判断为再次进行两分割的情况下（S1204：是）,将块内部在垂直方向上分割（S1205）,进行在垂直方向上进行了两分割的块的各处理（S1206）。</base:Paragraphs>
+      <base:Paragraphs num="0055">在判断为不再次进行两分割的情况下（S1204：否）,不对块的内部进行再次分割而结束块分割处理（S1207）。</base:Paragraphs>
+      <base:Paragraphs num="0056">图11中示出树块的分割在水平方向上被两分割时的分割后的块的再次分割的情况。 在此,在作为母块的树块在水平方向上被两分割的情况下,在被分割的块的再次两分割中,仅允许垂直方向的两分割,自动地在垂直方向上两分割。 另外,在作为母块的树块被两分割的情况下,在子块中也能够完全禁止四分割。 由此,能够禁止在与母块相同的方向上分割块,因此能够防止成为在横向上更细长的长方形的块分割,编码、解码的处理变得容易。</base:Paragraphs>
+      <base:Paragraphs num="0057">对在水平方向上被两分割的各块执行图10的流程图所示的处理。 两分割后的块的内部也按照上、下的顺序进行编码及解码。</base:Paragraphs>
+      <base:Paragraphs num="0058">接着,使用图12的流程图对将树块在垂直方向上两分割时的分割后的各块的处理进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0059">在将树块在垂直方向上进行了两分割的情况下,对于两分割后的各块,首先判断是否将块内部在水平及垂直方向上进行四分割（S1301）。</base:Paragraphs>
+      <base:Paragraphs num="0060">在判断为对块内部进行四分割的情况下（S1301：是）,对块内部进行四分割（S1302）,进行在水平且垂直方向上进行了四分割的块的各处理（S1303）。</base:Paragraphs>
+      <base:Paragraphs num="0061">在判断为不对块内部进行四分割的情况下（S1301：否）,判断是否再次对块内部进行两分割（S1304）。</base:Paragraphs>
+      <base:Paragraphs num="0062">在判断为再次进行两分割的情况下（S1304：是）,将块内部在水平方向上分割（S1305）,进行在水平方向上进行了两分割的块的各处理（S1306）。</base:Paragraphs>
+      <base:Paragraphs num="0063">在判断为不再次进行两分割的情况下（S1304：否）,不对块的内部进行再次分割而结束块分割处理（S1307）。</base:Paragraphs>
+      <base:Paragraphs num="0064">图13中示出树块的分割在垂直方向上被两分割时的分割后的块的再次分割的情况。 在此,在作为母块的树块在垂直方向上被两分割的情况下,在被分割的块的再次两分割中,仅允许水平方向的两分割,自动地在水平方向上进行两分割。 另外,在作为母块的树块被两分割的情况下,在子块中也能够完全禁止四分割。 由此,能够禁止在与母块相同的方向上分割块,因此能够防止成为在纵向上更细长的长方形的块分割,编码、解码的处理变得容易。</base:Paragraphs>
+      <base:Paragraphs num="0065">对在垂直方向上被两分割的各块执行图12的流程图所示的处理。 两分割后的块的内部也按照左、右的顺序进行编码及解码。</base:Paragraphs>
+      <base:Paragraphs num="0066">另外,对树块被分割时的被分割的块的再分割进行了说明,但母块也可以不是树块。 例如,在对树块（128×128）进行四分割,并对四分割后的块（64×64）进一步进行四分割或两分割的情况下,在再次分割后的块的分割中也应用上述处理。</base:Paragraphs>
+      <base:Paragraphs num="0067">接着,对图像解码装置200的块分割部202的动作进行说明。 以与图像编码装置100的块分割部101相同的处理步骤将块分割,但在图像编码装置100的块分割部101中,选择块分割的图案,输出所选择的块分割信息,与此相对,图像解码装置的块分割部202使用从编码比特流解码的块分割信息将块分割,此外,在从编码比特流将块分割信息解码时,在禁止向同一方向的再次分割的状况下,成为没有选择项的信息在比特流内不传送的句法构造,这点不同。</base:Paragraphs>
+      <base:Paragraphs num="0068">在图14中示出与第1实施方式的块分割有关的句法（编码比特流的句法规则）的例子。 关于树块的内部的分割,首先收发是否进行四分割的标志（4_division_flag）。 在进行4分割的情况下（4_division_flag为1） 
+将树块内四分割并结束处理。 然后,关于四分割后的块,再次以图14所示的句法对内部进行再分割。 在不进行四分割的情况下（4_division_flag为0）,收发是否进行两分割的标志（2_division_flag）。 在进行2分割的情况下（2_division_flag为1）,进一步收发表示进行2分割的方向的标志（2_division_direction）。 在2_division_direction为1的情况下表示向垂直方向的分割,在2_division_direction为0的情况下表示向水平方向的分割。 然后,关于两分割后的块,再次以图14所示的句法对块内部进行再次分割。 在不进行两分割的情况下（2_division_flag为0）,不分割树块而结束处理。 </base:Paragraphs>
+      <base:Paragraphs num="0069">这里,说明将四分割或两分割后的块的内部再次分割的处理。 对块内部进行再分割的处理也使用图14所示的句法,但与对树块进行分割的情况相比,在进行两分割的情况下的分割方向上存在限制这一点不同。 即,在对树块进行两分割的情况下,在对两分割后的块的内部进行再次分割的情况下,禁止在与对树块进行两分割的分割方向相同的方向上进行分割。 由此,能够防止分割后的块成为更细长的长方形,防止帧内预测、帧间预测所需的存储器频带的增加。 关于存储器带宽的增加的防止的详细情况将在后面叙述。</base:Paragraphs>
+      <base:Paragraphs num="0070">另外,当然也可以对在同一方向上两分割的数量进行计数,在超过规定次数的情况下限制在同一方向上分割。 例如,允许向同一方向的两分割至两次为止,但禁止从第三次起向同一方向的两分割。</base:Paragraphs>
+      <base:Paragraphs num="0071">在图14中,设为优先选择4分割,与是否进行2分割的信息相比先收发是否进行4分割的信息的语法。 另一方面,在优先选择2分割的情况下,也能够设为与是否进行4分割的信息相比先收发是否进行2分割的信息的语法。 这是因为,先收发概率上更容易发生的现象的情况下,作为比特流传输的码量变少。 即,也可以设为预先估计容易发生4分割和2分割中的哪一个,先收发更容易发生的分割信息的语法。 例如,也能够通过在图像的头信息中收发使4分割优先还是使2分割优先,编码装置自适应地决定编码效率高的优先分割数,在解码装置中以基于所选择的优先分割数的句法对树块内部进行分割。</base:Paragraphs>
+      <base:Paragraphs num="0072">在图像编码装置100以及图像解码装置200中,使用分割后的块来进行帧内预测、帧间预测。 帧内预测、帧间预测都伴随着来自存储器的像素的复制。</base:Paragraphs>
+      <base:Paragraphs num="0073">图15(a)～图15(d)表示帧内预测的一例。 图15(a)以及图15(b)表示帧内预测的预测方向和模式编号。 帧内预测如图15(c)以及图15(d)所示,通过从与编码/解码对象块接近的已编码/解码的像素中复制像素,生成编码/解码对象块的预测图像。 在帧内预测中,以块单位从预测图像生成开始反复进行编码/解码像素生成,因此处理顺序以块单位成为序列,越将块内部分割得小,则整体的处理的负荷越大。 另外,块的形状越为细长的长方形,则来自存储器的像素复制的处理越大。 另外,在编码、解码中进行残差信号的正交变换,因此长方形的尺寸的种类越多,所需的正交变换的种类越多,其结果导致电路规模的增大。 因此,在对块内部进行两分割的情况下,通过限制在与母块的分割方法相同的方向上进行两分割,能够防止在帧内预测中需要的存储器频带的增加。</base:Paragraphs>
+      <base:Paragraphs num="0074">图16示出了帧间预测的示例。 帧间预测通过从已编码/解码的图像中包含的像素以块单位复制像素,生成编码/解码对象块的预测图像。 在帧间预测中,在从参照图像以块单位复制像素时,成为需要以包含需要的像素的存储器的管理单位进行取得的装置的结构的情况较多。 因此,将块分割得越小,另外,块的形状越为细长的长方形,则整体的处理的负荷越大。 此外,在对参照图像进行使用插值滤波器的小数精度的运动补偿的情况下,需要对块内包含的像素加上几个像素而得到的像素的复制,块的大小越小,追加的几个像素的相对比率越大,整体的处理的负荷越大。 因此,在对块内部进行两分割的情况下,通过限制在与母块的分割方向相同的方向上进行两分割,能够防止在帧间预测中需要的存储器频带的增加。</base:Paragraphs>
+      <base:Paragraphs num="0075">接着,对帧内预测中的亮度信号与色差信号的关系进行说明。 作为亮度信号与色差信号之间的格式,以往已知有4：2：0、4：2：2、4：4：4等。 图17的(a)所示的4：2：0格式对亮度信号在水平/垂直方向上均采样2个像素,与此相对,对色差信号在水平/垂直方向上均采样1个像素。 与色差信号相比,人眼能够更敏感地感知亮度信号,因此与亮度信号相比,减少了色差信号的信息量。 图17(b)所示的4：2：2格式在水平方向上对亮度信号采样2个像素,与此相对,在水平方向上对色差信号采样1个像素。 关于垂直方向,相对于在垂直方向上对亮度信号进行2个像素采样,在垂直方向上对色差信号进行2个像素采样。 图17(c) 
+所示的4：4：4格式中,对亮度信号在水平/垂直方向上采样2个像素,与此相对,对色差信号在水平/垂直方向上均采样2个像素。 </base:Paragraphs>
+      <base:Paragraphs num="0076">以在图像编码中最广泛使用的4：2：0格式为例对本实施方式进行说明。 块分割部101、202包含对图像的亮度信号进行分割而生成亮度块的亮度块分割部、以及对图像的色差信号进行分割而生成色差块的色差块分割部,在帧内预测中,分别独立地对亮度信号和色差信号进行块分割。 即,在帧内预测中,亮度块的大小和色差块的大小被独立地决定。 在帧内预测中,亮度信号和色差信号分别从周边像素复制像素值,因此如果将亮度信号和色差信号独立地进行块分割,则预测效率提高。 与此相对,关于帧间预测,一起处理亮度信号和色差信号来进行块分割。 即,在帧间预测中,亮度块的大小与色差块的大小相同。 这是因为,在帧间预测中,在运动补偿中不需要区分亮度和色差。</base:Paragraphs>
+      <base:Paragraphs num="0077">预测图像生成部102、204包含预测亮度信号的亮度信号预测部和预测色差信号的色差信号预测部,色差信号预测部为了提高帧内预测中的色差信号的预测效率,进行根据亮度信号的已编码/解码像素预测色差信号的亮度色差帧内预测。 在亮度色差帧内预测中,与副信号相比先对主信号进行编码、解码,使用已编码、解码的主信号来预测副信号。 在此,在4：2：0格式、4：2：2格式中,亮度信号的信息量比色差信号多,因此,将亮度信号作为主信号,将色差信号作为副信号。 在4：4：4格式中,亮度信号和色差信号的信息量相同,但通常根据其他格式,将亮度信号作为主信号,将色差信号作为副信号。</base:Paragraphs>
+      <base:Paragraphs num="0078">图18是说明亮度色差帧内预测的图,图19是说明亮度色差帧内预测的流程图。</base:Paragraphs>
+      <base:Paragraphs num="0079">如图18所示,亮度色差帧内预测基于亮度块10的已编码/解码的周边像素12a、12b与色差块14的已编码/解码的周边像素16a、16b之间的相关程度来进行。 亮度色差帧内预测用于预测色差信号,因此,以编码/解码对象的色差块的周边像素为基准来规定成为计算相关程度的对象的周边像素。 即,与针对色差块决定的周边像素位于同一位置的亮度块的周边像素成为相关程度的计算对象。</base:Paragraphs>
+      <base:Paragraphs num="0080">首先,计算已编码/解码的亮度信号的周边像素与色差信号的周边像素之间的相关程度（S1901）。 接着,对编码/解码对象块的已编码/解码亮度信号进行下采样（S1902）。 在此,也可以准备多个进行下采样的滤波器类型而能够选择滤波器类型。 例如,也可以准备强度不同的滤波器来选择多个滤波器类型,或者准备滤波器的抽头数不同的滤波器来选择多个滤波器类型。 滤波器类型可以使用周边像素间的相关程度来自动选择,也可以在比特流内对滤波器类型进行编码、解码并传送。 此外,如果不是使用周边像素间的相关程度来决定编码/解码对象块的亮度信号的下采样滤波器,则步骤S1901和步骤S1902的处理顺序不同,步骤S1901和步骤S1902能够并行处理。</base:Paragraphs>
+      <base:Paragraphs num="0081">最后,根据周边像素间的相关程度,根据下采样后的亮度信号来预测色差信号（S1903）。 在4：2：0格式的情况下,下采样在水平/垂直方向上为1/2。 在4：2：2格式的情况下,在水平方向上成为1/2,在垂直方向上不进行下采样。 在4：4：4格式的情况下,水平/垂直方向都不进行下采样。</base:Paragraphs>
+      <base:Paragraphs num="0082">在亮度色差帧内预测中,在编码/解码对象块的亮度信号的编码/解码完成后,能够开始色差信号的预测处理。 因此,能够开始色差块的预测处理的定时依赖于亮度块的尺寸和色差块的尺寸。</base:Paragraphs>
+      <base:Paragraphs num="0083">图20的(a)以及图20的(b)是说明色差块的尺寸比亮度块的尺寸大的情况下的亮度色差帧内预测的图。 图20的(a)所示的四分割后的第一～第四亮度块20a、20b、20c、20d的像素数为16×16,图20的(b)所示的色差块20e的像素数为16×16。</base:Paragraphs>
+      <base:Paragraphs num="0084">这里,亮度块与色差块的尺寸的比较不是块内的像素数的比较,而是考虑了色差格式的面积的比较。 即,在4：2：0格式中,亮度块所占的面积是色差块所占的面积的1/2,因此在亮度块的像素数为16×16、色差块的像素数为16×16的情况下,亮度块的尺寸较小。 在4：2：0格式中,在亮度块的像素数为16×16、色差块的像素数为8×8的情况下,两者的块所占的面积相同,亮度块和色差块为相同的尺寸。</base:Paragraphs>
+      <base:Paragraphs num="0085">为了通过块内的像素数的比较而不是块的面积的比较来进行亮度块与色差块的尺寸的比较,按照色差格式中的亮度信号与色差信号的比率将色差块的像素数换算为亮度块的像素数即可。 在4：2：0格式的情况下,亮度信号的像素数是色差信号的像素数的2倍,因此将色差块的纵横的像素数设为2倍而换算为亮度块的纵横的像素数。 例如,在4：2：0格式中,在亮度块的尺寸为16×16、色差块的尺寸为16×16的情况下,换算为亮度块的像素数的色差块的换算尺寸为32×32,可知色差块的尺寸更大。</base:Paragraphs>
+      <base:Paragraphs num="0086">帧内预测在以块为单位完成解码处理之后,能够进行接下来的块的预测处理。 即,在第一亮度块20a的解码完成后,能够进行第二亮度块20b的解码,在第二亮度块20b的解码完成后,能够进行第三亮度块20c的解码,在第三亮度块20c的解码完成后,能够进行第四亮度块20d的解码。</base:Paragraphs>
+      <base:Paragraphs num="0087">在色差块的尺寸大于亮度块的尺寸的情况下,关于色差块20e的预测处理所需的周边像素,亮度像素、色差像素均在4个亮度块20a、20b、20c、20d的解码前存在,不等待4个亮度块20a、20b、20c、20d的解码,就能够计算图19的步骤S1901的亮度信号的周边像素与色差信号的周边像素之间的相关程度。</base:Paragraphs>
+      <base:Paragraphs num="0088">接着,在第1亮度块20a的解码完成后,执行图19的步骤S1902的亮度信号的下采样。 不等待第二亮度块20b的解码完成,就能够预测与第一亮度块20a的位置对应的色差块20e的像素。 同样,在第二亮度块20b的解码完成后,执行亮度信号的下采样,不等待第三亮度块20c的解码完成,预测与第二亮度块20b的位置对应的色差块20e的像素。 进而,在第三亮度块20c的解码完成后,执行亮度信号的下采样,不等待第四亮度块20d的解码完成,预测与第三亮度块20c的位置对应的色差块20e的像素。 最后,在第四亮度块20d的解码完成后,执行亮度信号的下采样,预测与第四亮度块20d的位置对应的色差块20e的像素。</base:Paragraphs>
+      <base:Paragraphs num="0089">图21的(a)以及图21的(b)是说明色差块的尺寸比亮度块的尺寸小的情况下的亮度色差帧内预测的图。 图21的(a)所示的亮度块21a的像素数为16×16,图21的(b)所示的四分割后的第一～第四色差块21b、21c、21d、21e的像素数为4×4。</base:Paragraphs>
+      <base:Paragraphs num="0090">在4：2：0格式中,亮度块所占的面积是色差块所占的面积的1/2,因此在亮度块的像素数为16×16、色差块的像素数为4×4的情况下,色差块的尺寸较小。 为了通过块内的像素数的比较而不是块的面积的比较来进行亮度块与色差块的尺寸的比较,在4：2：0格式的情况下,将色差块的纵横的像素数乘以2来换算为亮度块的纵横的像素数。 在4：2：0格式中,在亮度块的尺寸为16×16、色差块的尺寸为4×4的情况下,换算成亮度块的像素数的色差块的换算尺寸为8×8,可知色差块的尺寸较小。</base:Paragraphs>
+      <base:Paragraphs num="0091">在色差块的尺寸比亮度块的尺寸小的情况下,第一色差块21b的周边像素的亮度像素、色差像素均能够从亮度块21a的解码前利用,但第二～第四色差块21c、21d、21e的周边像素若亮度块21a的解码未完成则无法利用。 即,若亮度块21a的解码完成、第一色差块21b的解码未完成,则对于第二色差块21c,无法计算图19的步骤S1901的亮度信号的周边像素与色差信号的周边像素之间的相关程度。 同样地,对于第三色差块21d,若亮度块21a的解码完成,第一、第二色差块21b、21c的解码未完成,则对于第三色差块21d,无法计算亮度信号的周边像素与色差信号的周边像素间的相关程度。 同样地,对于第四色差块21e,若亮度块21a的解码完成,第一～第三色差块21b、21c、21d的解码未完成,则对于第四色差块21e,无法计算亮度信号的周边像素与色差信号的周边像素间的相关程度。</base:Paragraphs>
+      <base:Paragraphs num="0092">这样,在色差块的尺寸比亮度块的尺寸小的情况下,若进行亮度色差帧内预测,则在色差块的预测处理中,在亮度块与色差块之间以及色差块之间存在处理的依赖关系,不适合并行处理。 因此,在色差块的尺寸比亮度块的尺寸小的情况下,限制亮度色差帧内预测。 作为限制亮度色差帧内预测的方法,有（1）以语法进行限制、（2）置换帧内色差模式、（3）置换周边像素等。</base:Paragraphs>
+      <base:Paragraphs num="0093">图22表示帧内色差预测模式的语法的例子。 在色差预测模式的编号为0的情况下,将与亮度预测模式相同的帧内预测模式用于色差预测模式。 例如,在亮度预测模式为水平预测模式的情况下,色差预测模式也成为水平预测模式。 在色差预测模式的编号为1的情况下,使用平均值模式（DC模式）。 DC模式以周边像素的平均值进行帧内预测。 在色差预测模式的编号为2的情况下,使用亮度色差帧内预测模式。</base:Paragraphs>
+      <base:Paragraphs num="0094">作为限制亮度色差帧内预测的方法,在以（1）句法进行限制的情况下,模式2表示亮度色差帧内预测,因此禁止使用。 即,模式2不被传输,帧内色差模式从模式0和模式1中选择。</base:Paragraphs>
+      <base:Paragraphs num="0095">作为限制亮度色差帧内预测的方法,（2）在置换帧内色差模式的情况下,在色差预测模式的编号被指定为模式2的情况下,使用垂直预测模式代替亮度色差帧内预测模式。 但是,置换的预测模式不限于垂直预测模式,也可以是其他预测模式。 并且,更优选模式0的亮度预测模式与模式2中置换的模式相同,所使用的模式不会重复。</base:Paragraphs>
+      <base:Paragraphs num="0096">作为限制亮度色差帧内预测的方法,在（3）置换周边像素的情况下,置换用于计算图19的步骤S1901的亮度信号的周边像素与色差信号的周边像素间的相关程度的周边像素。 在图21的第二～第四色差块21c、21d、21e中,也能够不等待亮度块21a的解码而计算周边像素的相关程度。</base:Paragraphs>
+      <base:Paragraphs num="0097">在图23中示出周边像素的置换的例子。 作为第二色差块21c的左边的周边像素,通常使用第一色差块21b内的像素,但为了使用第一色差块21b内的像素,需要等待亮度块21a和第一色差块21b的解码完成。 因此,不等待亮度块21a的解码完成而将能够使用的区域21f用作第二色差块21c的周边像素。 同样地,关于第三色差块21d,也不等待亮度块21a的解码完成而将能够使用的区域21f用作第三色差块21d的周边像素。 同样地,关于第四色差块21e,也不等待亮度块21a的解码完成而将能够使用的区域21f用作第四色差块21e的周边像素。</base:Paragraphs>
+      <base:Paragraphs num="0098">这样,在第一实施方式中,在进行亮度色差帧内预测时,在色差块的尺寸比亮度块的尺寸小的情况下,通过限制亮度色差帧内预测,能够在亮度块与色差块之间缓和处理的依赖关系。 由此,能够进行亮度块和色差块的并行处理,能够削减编码/解码的处理量。</base:Paragraphs>
+      <base:Paragraphs num="0099">（第二实施方式） 
+对本发明的第2实施方式进行说明。 在第二实施方式中,不是亮度块与色差块的尺寸的大小关系,而是分别独立地评价亮度块的尺寸和色差块的尺寸来限制亮度色差帧内预测的情况与第一实施方式不同,除此以外的结构和动作与第一实施方式相同。 </base:Paragraphs>
+      <base:Paragraphs num="0100">首先,对基于亮度块的尺寸的限制进行说明。 图24的(a)～图24的(c)表示基于亮度块的尺寸的不同的亮度色差帧内预测。 如图24的(a)、图24的(b)所示,第一亮度块24a与第一色差块24e的位置对应,第二亮度块24b与第二色差块24f的位置对应,第三亮度块24c与第三色差块24g的位置对应,第四亮度块24d与第四色差块24h的位置对应。 另外,图24的(c)的亮度块24i与图24的(b)的第一～第四色差块24e、24f、24g、24h的位置对应。</base:Paragraphs>
+      <base:Paragraphs num="0101">对亮度块与色差块的依赖关系进行说明。 在如图24的(a)那样亮度块的尺寸小的情况下,若第一亮度块24a的解码完成,则能够进行第一色差块24e的解码。 若第二亮度块24b的解码完成,则能够进行第二色差块24f的解码。 若第三亮度块24c的解码完成,则能够进行第三色差块24g的解码。 若第四亮度块24d的解码完成,则能够进行第四色差块24h的解码。</base:Paragraphs>
+      <base:Paragraphs num="0102">另一方面,在如图24的(c)那样亮度块的尺寸较大的情况下,若亮度块24i的解码未完成,则第一～第四色差块24e、24f、24g、24h的解码全部无法进行。</base:Paragraphs>
+      <base:Paragraphs num="0103">在独立地决定亮度块的分割和色差块的分割的情况下,若亮度块的绝对尺寸大,则色差块的尺寸变得比亮度块的尺寸小的可能性高。 因此,在亮度块的绝对尺寸为规定尺寸以上的情况下,限制对应的色差块的亮度色差帧内预测。</base:Paragraphs>
+      <base:Paragraphs num="0104">同样地,若色差块的绝对尺寸小,则色差块的尺寸变得比亮度块的尺寸小的可能性高。 因此,在色差块的绝对尺寸为规定尺寸以下的情况下,限制色差块的亮度色差帧内预测。</base:Paragraphs>
+      <base:Paragraphs num="0105">亮度色差帧内预测的限制方法与第1实施方式相同。</base:Paragraphs>
+      <base:Paragraphs num="0106">这样,在第二实施方式中,在亮度块的绝对尺寸比阈值大的情况下,或者在色差块的绝对尺寸比阈值小的情况下,限制亮度色差帧内预测。 由此,能够预想色差块的尺寸比亮度块的尺寸小的情况,限制亮度色差帧内预测,在亮度块与色差块之间概率性地缓和处理的依赖关系。</base:Paragraphs>
+      <base:Paragraphs num="0107">（第三实施方式） 
+对本发明的第3实施方式进行说明。 在第三实施方式中,在块分割部101中以色差块的尺寸不比亮度块的尺寸小的方式分割色差块的情况与第一实施方式不同,除此以外的结构和动作与第一实施方式相同。 块分割部101在对色差块进行分割时,禁止色差块的尺寸小于亮度块的尺寸那样的分割。 由此,在亮度色差帧内预测中,避免色差块的尺寸比亮度块的尺寸小,始终能够进行亮度块和色差块的并行处理。 </base:Paragraphs>
+      <base:Paragraphs num="0108">以上所述的实施方式的图像编码装置输出的图像的编码比特流具有特定的数据格式,以便能够根据在实施方式中使用的编码方法进行解码,与图像编码装置对应的图像解码装置能够对该特定的数据格式的编码比特流进行解码。</base:Paragraphs>
+      <base:Paragraphs num="0109">在为了在图像编码装置与图像解码装置之间交换编码比特流而使用有线或无线的网络的情况下,也可以将编码比特流变换为适合于通信路径的传输方式的数据形式来传输。 在这种情况下,提供了发送设备和接收设备,发送设备将从图像编码设备输出的编码比特流转换成适合于通信路径的传输形式的数据格式的编码数据,并将编码数据发送到网络,接收设备从网络接收编码数据,将编码数据恢复成编码比特流,并将编码数据提供给图像解码设备。</base:Paragraphs>
+      <base:Paragraphs num="0110">发送装置包括对图像编码装置输出的编码比特流进行缓冲的存储器、对编码比特流进行打包的打包处理部、以及经由网络发送打包后的编码数据的发送部。 接收装置包括经由网络接收被打包的编码数据的接收部、对接收到的编码数据进行缓冲的存储器、以及对编码数据进行打包处理而生成编码比特流并提供给图像解码装置的打包处理部。</base:Paragraphs>
+      <base:Paragraphs num="0111">另外,通过在结构中追加显示由图像解码装置解码后的图像的显示部,也能够设为显示装置。 在这种情况下,显示单元读取由解码图像信号叠加单元205生成并存储在解码图像存储器206中的解码图像信号,并在画面上显示解码图像信号。</base:Paragraphs>
+      <base:Paragraphs num="0112">另外,通过将摄像部追加到结构中,将拍摄到的图像输入到图像编码装置,也能够设为摄像装置。 在该情况下,摄像部将拍摄到的图像信号输入到块分割部101。</base:Paragraphs>
+      <base:Paragraphs num="0113">以上的与编码以及解码有关的处理当然能够作为使用硬件的传输、存储、接收装置来实现,也能够通过存储于ROM（只读存储器）、闪存等的固件、计算机等软件来实现。 可以将该固件程序、软件程序记录在计算机等可读取的记录介质中来提供,也可以通过有线或无线的网络从服务器提供,还可以作为地面波或卫星数字广播的数据广播来提供。</base:Paragraphs>
+      <base:Paragraphs num="0114">以上,基于实施方式对本发明进行了说明。 本领域技术人员应当理解,实施方式是例示,能够对这些各构成要素、各处理过程的组合进行各种变形例,并且这样的变形例也在本发明的范围内。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0115">100图像编码装置,101块分割部,102预测图像生成部,103残差信号生成部,104正交变换/量化部,105编码比特串生成部,106逆量化/逆正交变换部,107解码图像信号重叠部,108解码图像存储器,200图像解码装置,201比特串解码部,202块分割部,203逆量化/逆正交变换部,204预测图像生成部,205解码图像信号重叠部,206解码图像存储器。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000002" he="120" wi="84" file="2020092456_000002.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000003" he="113" wi="84" file="2020092456_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000004" he="122" wi="83" file="2020092456_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000005" he="92" wi="84" file="2020092456_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000006" he="37" wi="84" file="2020092456_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000007" he="29" wi="84" file="2020092456_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000008" he="28" wi="84" file="2020092456_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000009" he="29" wi="84" file="2020092456_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000010" he="110" wi="84" file="2020092456_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000011" he="95" wi="84" file="2020092456_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000012" he="71" wi="84" file="2020092456_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000013" he="95" wi="84" file="2020092456_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000014" he="73" wi="84" file="2020092456_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000015" he="20" wi="84" file="2020092456_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000016" he="108" wi="84" file="2020092456_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000017" he="100" wi="84" file="2020092456_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000018" he="123" wi="81" file="2020092456_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000019" he="40" wi="84" file="2020092456_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000020" he="70" wi="84" file="2020092456_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000021" he="35" wi="84" file="2020092456_000021.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000022" he="35" wi="84" file="2020092456_000022.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0022">
+      <base:Image id="000023" he="24" wi="84" file="2020092456_000023.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0023">
+      <base:Image id="000024" he="27" wi="84" file="2020092456_000024.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0024">
+      <base:Image id="000025" he="71" wi="84" file="2020092456_000025.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>将图像分成块； 一种图像编码装置,以分割后的块单位进行编码,所述图像编码装置的特征在于,具备： 主信号块分割部,其将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 所述图像编码装置包含将所述图像的副信号分割为规定尺寸的矩形而生成副信号块的副信号块分割部、预测主信号的主信号预测部、以及预测副信号的副信号预测部,所述主信号块和所述副信号块分别独立地被分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测部能够进行根据编码后的主信号来预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止所述分量间预测的使用。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>将图像分成块； 一种图像编码方法,以分割后的块单位进行编码,所述图像编码方法的特征在于,包括： 主信号块分割步骤,将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 副信号块分割步骤,将所述图像的副信号分割为规定尺寸的矩形而生成副信号块； 所述图像编码方法包括预测主信号的主信号预测步骤和预测副信号的副信号预测步骤,所述主信号块和所述副信号块分别被独立地分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测步骤能够进行根据编码后的主信号预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止所述分量间预测的使用。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>将图像分成块； 一种图像编码程序,以分割后的块单位进行编码,所述图像编码程序的特征在于, 主信号块分割步骤,将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 副信号块分割步骤,将所述图像的副信号分割为规定尺寸的矩形而生成副信号块； 一种图像编码程序,其特征在于,使计算机执行预测主信号的主信号预测步骤和预测副信号的副信号预测步骤,所述主信号块和所述副信号块被分别独立地分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测步骤能够进行根据编码后的主信号预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止所述分量间预测的使用。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>一种图像解码装置,以对图像进行分割而得到的块单位进行解码,所述图像解码装置的特征在于,具备： 主信号块分割部,其将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 所述图像解码装置包含将所述图像的副信号分割为规定尺寸的矩形而生成副信号块的副信号块分割部、预测主信号的主信号预测部、以及预测副信号的副信号预测部,所述主信号块和所述副信号块分别独立地被分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测部能够进行根据解码后的主信号来预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止所述分量间预测的使用。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>一种图像解码方法,以对图像进行分割而得到的块单位进行解码,所述图像解码方法的特征在于,包括： 主信号块分割步骤,将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 副信号块分割步骤,将所述图像的副信号分割为规定尺寸的矩形而生成副信号块； 所述图像解码方法包括预测主信号的主信号预测步骤和预测副信号的副信号预测步骤,所述主信号块和所述副信号块分别被独立地分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测步骤能够进行根据解码后的主信号预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止所述分量间预测的使用。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>一种图像解码程序,以将图像分割后的块为单位进行解码, 主信号块分割步骤,将所述图像的主信号分割为规定尺寸的矩形而生成主信号块； 副信号块分割步骤,将所述图像的副信号分割为规定尺寸的矩形而生成副信号块； 一种图像解码程序,其特征在于,使计算机执行预测主信号的主信号预测步骤和预测副信号的副信号预测步骤,所述主信号块和所述副信号块被分别独立地分割,所述主信号是亮度信号,所述副信号是色差信号,所述副信号预测步骤能够进行根据解码后的主信号预测副信号的分量间预测,在所述主信号块的尺寸为规定尺寸以上的情况下,禁止使用所述分量间预测。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

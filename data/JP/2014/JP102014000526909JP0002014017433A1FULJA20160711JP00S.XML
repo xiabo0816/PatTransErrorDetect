@@ -1,0 +1,928 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000526909JP0002014017433A1FULJA20160711JP00S.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2014017433" kind="A1" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014017433</base:DocNumber>
+        <base:Kind>A1</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>WO2014017433</base:DocNumber>
+        <base:Kind>A1</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">再公表特許(A1)</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazettePublicationAnnouncement>
+        <base:Date>20160711</base:Date>
+      </business:GazettePublicationAnnouncement>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000526909</base:DocNumber>
+        <base:Date>20130722</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014526909</base:DocNumber>
+        <base:Date>20130722</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002012000162955</base:DocNumber>
+        <base:Date>20120723</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2012162955</base:DocNumber>
+        <base:Date>20120723</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>64</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01N  21/64        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G01N21/64 G</business:FI>
+      <business:FClass>
+        <business:FTerm>2G043AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043BA16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043CA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043DA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043EA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043HA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043HA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043HA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043JA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043JA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043KA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043KA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043KA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043KA09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043LA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2G043LA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2G043</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">光学式検体検出装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>コニカミノルタ株式会社</base:Name>
+            <base:RegisteredNumber>000001270</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目７番２号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中村  幸登</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目７番２号  コニカミノルタ株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人ＳＳＩＮＰＡＴ</base:Name>
+            <base:RegisteredNumber>110001070</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+          <base:WIPOST3Code>UZ</base:WIPOST3Code>
+          <base:WIPOST3Code>VC</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>JP2013069784</base:DocNumber>
+        <base:Date>20130722</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>WO2014017433</base:DocNumber>
+        <base:Date>20140130</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>S</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>25</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>[課題]  投光ユニットを回転移動させることなく、ＳＰＲ装置やＳＰＦＳ装置のＡＴＲ条件を測定することができ、振動ノイズなどの機械的ノイズの影響がなく高精度の測定ができるとともに、迅速に測定を行うことができる光学式検体検出装置を提供する。[解決手段]  金属薄膜に誘電体部材を介して励起光を照射することで検体の検出を行う光学式検体検出装置であって、誘電体部材に入射させる励起光を集光する集光レンズと、集光レンズの前側焦点位置に配置された液晶基板と、液晶基板、集光レンズ、誘電体部材を介して金属薄膜に励起光を照射する投光ユニットとを備え、液晶基板は、液晶配向を変化させることによって、励起光の一部だけを透過させるアパーチャーを備えるように構成するとともに、液晶基板のアパーチャーの位置を移動することにより、金属薄膜に対する励起光の入射角を変更可能なように構成する。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="44" wi="69" file="2014017433_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、表面プラズモン共鳴（ＳＰＲ；Surface Plasmon Resonance）測定装置、及び、表面プラズモン共鳴現象を応用した表面プラズモン励起増強蛍光分光法（ＳＰＦＳ；Surface Plasmon-field enhanced Fluorescence Spectroscopy）の原理に基づいた、表面プラズモン励起増強蛍光測定装置などの光学式検体検出装置に関する。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  従来、極微少な物質の検出を行う場合において、物質の物理的現象を応用することでこのような物質の検出を可能とした様々な検体検出装置が用いられている。
+  このような検体検出装置の一つとして、ナノメートルレベルなどの微細領域中で電子と光とが共鳴することにより、高い光出力を得る現象（表面プラズモン共鳴（ＳＰＲ；Surface Plasmon Resonance）現象）を応用し、例えば、生体内の極微少なアナライトの検出を行うようにした表面プラズモン共鳴装置（以下、「ＳＰＲ装置」と言う）が挙げられる。</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  また、表面プラズモン共鳴（ＳＰＲ）現象を応用した、表面プラズモン励起増強蛍光分光法（ＳＰＦＳ；Surface Plasmon-field enhanced Fluorescence Spectroscopy）の原理に基づき、ＳＰＲ装置よりもさらに高精度にアナライト検出を行えるようにした表面プラズモン励起増強蛍光分光測定装置（以下、「ＳＰＦＳ装置」と言う）も、このような検体検出装置の一つである。</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  この表面プラズモン励起増強蛍光分光法（ＳＰＦＳ）は、光源より照射したレーザー光などの励起光が、金属薄膜表面で全反射減衰（ＡＴＲ；Attenuated Total Reflectance）する条件において、金属薄膜表面に表面プラズモン光（疎密波）を発生させることによって、光源より照射した励起光が有するフォトン量を数十倍～数百倍に増やして、表面プラズモン光の電場増強効果を得るようになっている。</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  ところで、全反射減衰（ＡＴＲ）する条件は、金属薄膜表面に向かって光源より照射された励起光の金属薄膜表面に対する入射角を変えながら、金属薄膜表面で反射した反射光を受光部によって受光し、その反射光の光強度を測定したり、金属薄膜表面に発生した表面プラズモン光の光強度を測定したりすることによって求められる。</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  従来、金属薄膜表面に対する励起光の入射角を変えるためには、例えば、特許文献１（特開２００４－６１２８６号公報）や特許文献２（特開２００７－５０１３９３号公報）などに開示されているように、ステッピングモーターや歯車列などを用いて、光源を含む投光ユニットを回動させる方法が用いられている。</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  また、投光ユニットを回動させないで所定範囲の入射角度における反射光の光強度を測定する方法としては、例えば、図１２に示すように、光源１０２から照射される光として集光ビーム１０４を用いることで、同時に所定範囲の入射角度における反射光１０６の光強度を受光手段１０８で測定する方法も用いられている。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0008">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２００４－６１２８６号公報</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0002">
+            <base:Text>特開２００７－５０１３９３号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0009">
+  しかしながら、ステッピングモーターや歯車列などを用いて、投光ユニットを回動させる方法では、投光ユニット部の重量が大きくなるため、回動させること、特に鉛直方向に回動させることによって、重量負荷がかかり、振動ノイズなどが信号に混入してしまい、測定精度が低下する原因となる。</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  このため、投光ユニットを回動させる方法では、回転速度を遅くすることによって、振動ノイズの発生を抑制しているため、測定速度を速くすることが困難であった。</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  一方で、集光ビームを用いる方法では、同時に所定範囲の入射角度における反射光の光強度を測定することができるため、測定速度は速いが、受光部における１画素の受光素子が出力する受光信号は、所望の入射角度における反射光だけに起因する受光信号ではなく、所望の入射角度の前後の角度範囲における反射光までを含んだ平均的な受光信号であるため、測定精度が低かった。</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  また、金属薄膜表面に表面プラズモン光（疎密波）を発生させるためには、ｐ偏光の励起光を金属薄膜に照射する必要があるため、投光ユニットから照射される光をｐ偏光化するために、投光ユニットと金属薄膜との間に偏光板を設ける必要があった。</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  本発明では、このような現状に鑑み、投光ユニットを回転移動させることなく、ＳＰＲ装置やＳＰＦＳ装置のＡＴＲ条件を測定することができ、振動ノイズなどの機械的ノイズの影響がなく高精度の測定ができるとともに、迅速に測定を行うことができる光学式検体検出装置を提供する。</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  さらに本発明では、少なくとも投光ユニット側に機械的駆動部品を使用せず、また、偏光板を用いる必要もなくなるため、光学式検体検出装置として、小型化、低コスト化が図れるとともに、機械的ノイズの影響を抑制でき、金属薄膜に照射する励起光の出力を安定させることができる光学式検体検出装置を提供する。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0015">
+  本発明は、前述したような従来技術における課題を解決するために発明されたものであって、上述した目的のうち少なくとも一つを実現するために、本発明の一側面を反映した光学式検体検出装置は、
+  金属薄膜に誘電体部材を介して励起光を照射することで検体の検出を行う光学式検体検出装置であって、
+  前記誘電体部材に入射させる励起光を集光する集光レンズと、
+  前記集光レンズの前側焦点位置に配置された液晶基板と、
+  前記液晶基板、前記集光レンズ、前記誘電体部材を介して前記金属薄膜に励起光を照射する投光ユニットと、を備え、
+  前記液晶基板は、液晶配向を変化させることによって、励起光の一部だけを透過させるアパーチャーを備えるように構成するとともに、
+  前記液晶基板のアパーチャーの位置移動することにより、前記金属薄膜に対する励起光の入射角を変更可能なように構成される。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0016">
+  本発明によれば、投光ユニットを回転移動させる必要がなく、回転移動にともなう振動ノイズなどの機械的ノイズの影響を受けないため、高精度の測定を行うことができる。
+  また、少なくとも投光ユニット側に機械的駆動部品を使用せず、また、偏光板を用いる必要もなくなるため、光学式検体検出装置として、小型化、低コスト化が図れるとともに、機械的ノイズの影響を抑制でき、金属薄膜に照射する励起光の出力を安定させることができる。</base:Paragraphs>
+        <base:Paragraphs num="0017">
+  さらには、少なくとも投光ユニット側を機械的駆動させる必要がなく、液晶基板を電気的に制御すればよいだけなので、振動ノイズなどの機械的ノイズの影響がなく、高精度、かつ、迅速にＡＴＲ条件の測定や検体検出を行うことができる。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0018">
+        <base:FigureReference num="0001">図１は、本発明の光学式検体検出装置の一態様であるＳＰＲ装置の概略を模式的に示す概略図である。</base:FigureReference>
+        <base:FigureReference num="0002">図２は、図１のＳＰＲ装置において、金属薄膜表面で全反射減衰する条件（ＡＴＲ条件）を探索する際の光の進行方向を模式的に表した模式図である。</base:FigureReference>
+        <base:FigureReference num="0003">図３は、液晶基板の構成を模式的に示す概略図である。</base:FigureReference>
+        <base:FigureReference num="0004">図４は、本発明の光学式検体検出装置の一態様であるＳＰＲ装置の別の実施例における概略を模式的に示す概略図である。</base:FigureReference>
+        <base:FigureReference num="0005">図５は、本発明の光学式検体検出装置の一態様であるＳＰＲ装置のさらに別の実施例における概略を模式的に示す概略図である。</base:FigureReference>
+        <base:FigureReference num="0006">図６は、本発明の光学式検体検出装置の別の態様であるＳＰＦＳ装置の概略を模式的に示す概略図である。</base:FigureReference>
+        <base:FigureReference num="0007">図７は、図６のＳＰＦＳ装置において、金属薄膜表面で全反射減衰する条件（ＡＴＲ条件）を探索する際の光の進行方向を模式的に表した模式図である。</base:FigureReference>
+        <base:FigureReference num="0008">図８は、本発明の光学式検体検出装置の一態様であるＳＰＦＳ装置を用いて検体検出を行う場合の装置構成を模式的に表した概略図である。</base:FigureReference>
+        <base:FigureReference num="0009">図９は、反応空間形成部材の一例を説明するための概略構成図であって、図９（ａ）は、ウェル部材の例を示す概略構成図、図９（ｂ）は、流路部材の例を示す概略構成図である。</base:FigureReference>
+        <base:FigureReference num="0010">図１０は、本発明の光学式検体検出装置の一態様であるＳＰＦＳ装置の別の実施例の概略を模式的に示す概略図である。</base:FigureReference>
+        <base:FigureReference num="0011">図１１は、本発明の光学式検体検出装置の一態様であるＳＰＦＳ装置のさらに別の実施例の概略を模式的に示す概略図である。</base:FigureReference>
+        <base:FigureReference num="0012">図１２は、従来の光学式検体検出装置において所定範囲の入射角度における反射光の光強度を測定する方法を説明するための概略図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0019">
+  以下、本発明の実施の形態（実施例）を図面に基づいて、より詳細に説明する。
+[実施例１]
+１．ＳＰＲ装置の実施例
+  図１は、本発明の光学式検体検出装置の一態様であるＳＰＲ装置の概略を模式的に示す概略図、図２は、図１のＳＰＲ装置において、金属薄膜表面で全反射減衰する条件（ＡＴＲ条件）を探索する際の光の進行方向を模式的に表した模式図である。</base:Paragraphs>
+      <base:Paragraphs num="0020">
+１－１．ＳＰＲ装置の構成
+  この実施例のＳＰＲ装置１０は、鉛直断面形状が略台形であるプリズム形状の誘電体部材１２と、この誘電体部材１２の水平な上面１２ａに形成された金属薄膜１４とからなるセンサーチップ１６を備えており、このセンサーチップ１６は、ＳＰＲ装置１０のセンサーチップ装填部１８に装填されている。</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  また、誘電体部材１２の下方の一方の側面１２ｂの側には、図１に示すように、投光ユニット２０と、投光ユニット２０から照射される光を一部だけ透過させる液晶基板２２と、液晶基板２２を透過した光を平行光束とする集光レンズ２４が設けられている。</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  また、誘電体部材１２の下方の他方の側面１２ｃの側には、励起光２６が金属薄膜１４によって反射された金属薄膜反射光２９を受光するための受光手段３０が備えられている。</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  投光ユニット２０は、例えば、ＬＤ（Laser Diode；レーザーダイオード）やＬＥＤ（Light Emitting Diode；発光ダイオード）、ＨＩＤ（High Intensity Discharge）ランプ（高輝度放電ランプ）などからなる光源２７と、光源２７から照射された光を平行光束とするコリメートレンズ２８とから構成されている。</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  また、液晶基板２２は、図３に示すように、液晶層２２ｃを挟むように、２枚の偏光フィルタ２２ａ，２２ｅ及び透明電極２２ｂ，２２ｄを備えている。そして、投光ユニット２０から照射された光を一部だけ透過させるように、液晶層２２ｃの液晶配向を変化させるため、透明電極２２ｂ，２２ｄに対して外部から電圧を印加するように構成されている。</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  なお、液晶基板２２は、所定の大きさの単位素子ごとに液晶層２２ｃの液晶配向を変化させる、すなわち、励起光２６を透過させるか否かを変化させることができるように、透明電極２２ｂ，２２ｄが構成されていることが好ましい。</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  このように構成された液晶基板２２は、投光ユニット２０から照射された光を透過させるように、液晶層２２ｃの液晶配向を変化させた箇所がアパーチャーの役割を有している。本明細書においては、液晶基板２２の励起光２６を透過させる箇所を、液晶基板２２のアパーチャー２１と呼ぶ。アパーチャー２１の大きさ（直径）は、特に限定されるものではないが、励起光２６の波長に基づいて適宜決定することができる。</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  具体的には、アパーチャー２１の大きさ（直径）ωは、下記式１によって求められる大きさとすることが好ましい。
+<base:MathDetails num="0001"><base:Image id="000003" he="48" wi="148" file="2014017433_000003.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails></base:Paragraphs>
+      <base:Paragraphs num="0028">
+  このようにアパーチャーの大きさ（直径）ωを調整することによって、所望の光束径で励起光２６を金属薄膜１４に照射することができ、外乱光が生じるのを抑制できるため、測定精度を向上させることができる。</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  なお、液晶基板２２を透過した光がｐ偏光となるように、液晶基板２２を構成することが好ましい。このように構成することによって、投光ユニット２０と金属薄膜１４との間に、個別に偏光板を設ける必要がなくなる。</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  また、液晶基板２２は、アパーチャー２１が集光レンズ２４の光軸に垂直な平面内で移動可能となるように構成されており、投光ユニット２０から照射された光を透過させる位置（以下、「透過位置２３」という）が変更可能となっている。</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  なお、アパーチャー２１は、少なくとも金属薄膜１４に対して照射される励起光２６の照射角度が変更される方向、すなわち、図２においてＸ方向に直線移動可能に構成されていればよい。</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  なお、本実施例においては、アパーチャー２１をＸ方向へ連続的に直線移動させるように構成しているが、これに限らず、例えば、Ｘ方向へ断続的に直線移動させるように、液晶基板２２の所定の位置のみをアパーチャー２１とするように構成することもできる。</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  また、アパーチャー２１の移動は直線移動に限らず、曲線移動させたり、液晶基板２２のランダムな箇所にアパーチャー２１を位置するように構成することもでき、後述するように、金属薄膜１４に対して照射される励起光２６の入射角を適宜変更可能であれば特に限定されるものではない。</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  液晶基板２２のアパーチャー２１の位置（透過位置２３）の調整は、例えば、液晶基板２２の透明電極２２ｂ，２２ｄに接続された液晶コントローラ（図示せず）によって、透明電極２２ｂ，２２ｄに電圧を印加する位置（すなわち、電圧を印加する単位素子）を制御することによって行われる。</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  液晶基板２２を透過した励起光２６は、集光レンズ２４によって平行光束とされ、誘電体部材１２の外側下方から、誘電体部材１２の側面１２ｂに入射して、誘電体部材１２を介して、誘電体部材１２の上面１２ａに形成された金属薄膜１４に向かって照射されるようになっている。</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  なお、液晶基板２２が配置される位置は、集光レンズ２４の焦点距離ｆ（前側焦点位置）と一致しており、また、投光ユニット２０から照射された励起光２６の主光軸（すなわち、集光レンズ２４の光軸に対して平行に照射される励起光の光軸）が、誘電体部材１２の上面１２ａの集光位置に照射されるように、誘電体部材１２と集光レンズ２４との距離が調整されている。</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  このように構成することによって、投光ユニット２０を回転移動させることなく、後述するように、ＳＰＲ装置１０のＡＴＲ条件を測定することができ、液晶基板２２を電気的に制御すればよいだけなので、振動ノイズなどの機械的ノイズの影響がなく高精度の測定ができるとともに、迅速に測定を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  さらには、少なくとも投光ユニット２０側に機械的駆動部品を使用する必要がなくなり、また、液晶基板２２によって励起光をｐ偏光化することができるため、偏光板を個別に備える必要がなくなる。</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  このため、ＳＰＲ装置１０として、小型化、低コストが図れるとともに、振動ノイズなど機械的ノイズの影響を抑制でき、金属薄膜に照射する励起光の出力を安定させることができる。</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  このように構成されたＳＰＲ装置１０では、透過位置２３が集光レンズ２４の光軸に垂直な平面内で移動するとともに、受光手段３０が、金属薄膜反射光２９を受光するように、透過位置２３の移動に合わせて直線移動もしくは回転移動するようになっている。</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  なお、受光手段３０を直線移動もしくは回転移動させる手段（図示せず）としては、例えば、ステッピングモーターやサーボモーターを使って制御したり、歯車列を使うこともできる。</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  本実施例において、投光ユニット２０から照射される励起光２６としては、特に限定されるものではないが、波長２００～９００ｎｍ、０．００１～１，０００ｍＷの励起光が好ましく、更には、波長２３０～８００ｎｍ、０．０１～１００ｍＷの励起光が好ましい。</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  また、光束径が拡がるのを抑制し、光束の平行性を向上させることができることから、励起光２６は、例えば、レーザー光などのコヒーレンスの高いコヒーレント光であることが好ましい。</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  このように、励起光２６としてコヒーレント光を用いることによって、励起光２６の光束径が拡がるのを抑制し、光束の平行性を向上させることができ、測定精度を向上させることができる。</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  また、誘電体部材１２としては、特に限定されるものではないが、光学的に透明な、例えば、ガラス、セラミックスなどの各種の無機物、天然ポリマー、合成ポリマーを用いることができ、化学的安定性、製造安定性、光学的透明性の観点から、二酸化ケイ素（ＳｉＯ<base:Sub>2</base:Sub>）または二酸化チタン（ＴｉＯ<base:Sub>2</base:Sub>）を含むものが好ましい。</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  また、この実施例では、鉛直断面形状が略台形であるプリズム形状の誘電体部材１２を用いたが、鉛直断面形状を三角形（いわゆる三角プリズム）、半円形状、半楕円形状にするなど誘電体部材１２の形状は、適宜変更可能である。</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  また、この実施例では、集光レンズ２４を１枚のレンズとして構成しているが、複数のレンズを組み合わせて集光レンズ２４を構成してもよい。</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  また、金属薄膜１４の材質としては、特に限定されるものではないが、好ましくは、金、銀、アルミニウム、銅、および白金からなる群から選ばれる少なくとも１種の金属からなり、より好ましくは、金からなり、さらに、これら金属の合金から構成してもよい。</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  すなわち、このような金属は、酸化に対して安定であり、かつ、後述するように、表面プラズモン光（疎密波）による電場増強が大きくなるので、金属薄膜１４として好適である。</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  また、金属薄膜１４の形成方法としては、特に限定されるものではなく、例えば、スパッタリング法、蒸着法（抵抗加熱蒸着法、電子線蒸着法など）、電解メッキ、無電解メッキ法などが挙げられる。好ましくは、スパッタリング法、蒸着法を使用するのが、薄膜形成条件の調整が容易であるので望ましい。</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  さらに、金属薄膜１４の厚さとしては、特に限定されるものではないが、好ましくは、金：５～５００ｎｍ、銀：５～５００ｎｍ、アルミニウム：５～５００ｎｍ、銅：５～５００ｎｍ、白金：５～５００ｎｍ、および、それらの合金：５～５００ｎｍの範囲内であるのが望ましい。</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  なお、後述する電場増強効果の観点からは、より好ましい金属薄膜１４の厚さとしては、金：２０～７０ｎｍ、銀：２０～７０ｎｍ、アルミニウム：１０～５０ｎｍ、銅：２０～７０ｎｍ、白金：２０～７０ｎｍ、および、それらの合金：１０～７０ｎｍの範囲内であるのが望ましい。</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  金属薄膜１４の厚さが上記範囲内であれば、後述する表面プラズモン光（疎密波）が発生し易く好適である。また、このような厚さを有する金属薄膜１４であれば、大きさ（縦×横）の寸法、形状は、特に限定されない。</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  また、金属薄膜１４の上面形状は平面状である場合に限らず、例えば格子状に形成された凹凸面状に形成されている場合にも適用できることは勿論である。</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  なお、本実施例では、誘電体部材１２と金属薄膜１４とからなるセンサーチップ１６を、ＳＰＲ装置１０のセンサーチップ装填部１８に装填するようにしているが、これに限らず、ＳＰＲ装置１０のセンサーチップ装填部１８に固定された誘電体部材１２上に、金属薄膜１４が形成された誘電体薄膜を載置することで、本実施例のような構成とすることもできる。</base:Paragraphs>
+      <base:Paragraphs num="0056">
+１－２．ＡＴＲ条件の測定方法について
+  このように構成される本実施例のＳＰＲ装置１０を用いた、ＡＴＲ条件の測定方法について、以下に説明する。</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  先ず、投光ユニット２０から励起光２６を照射して、透過位置２３ａにおいて液晶基板２２を透過させる。液晶基板２２を透過した励起光２６は、集光レンズ２４を介し、平行光束とされ、誘電体部材１２の外側下方から、誘電体部材１２の側面１２ｂに入射させる。このとき、励起光２６は、誘電体部材１２を介して、誘電体部材１２の上面１２ａに形成された金属薄膜１４に向かって、入射角α１で照射されることになる。</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  一方、金属薄膜１４表面で反射された金属薄膜反射光２９は、反射角α１で誘電体部材１２を介して、誘電体部材１２の他方の側面１２ｃから出射されて、受光手段３０によって受光し金属薄膜反射光２９の光強度が測定される。</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  液晶基板２２の透過位置２３を、透過位置２３ａから透過位置２３ｂまで、集光レンズ２４の光軸に垂直な平面内で移動させることによって、金属薄膜１４に対する励起光２６の入射角を入射角α１から入射角α２まで変化させながら、金属薄膜反射光２９を受光手段３０によって受光し、金属薄膜反射光２９の光強度を測定する。</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  すなわち、入射角α１から入射角α２までの範囲において、励起光２６の入射角と金属薄膜反射光２９の光強度の関係を測定することができ、ＡＴＲ条件の測定を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  ＡＴＲ条件において、励起光２６を金属薄膜１４に照射すると、金属薄膜１４上に表面プラズモン光（疎密波）が生じる。このとき、励起光２６と金属薄膜１４中の電子振動とがカップリングし、金属薄膜反射光２９の光強度が変化（光量が減少）することとなるため、受光手段３０で受光される金属薄膜反射光２９の光強度が変化（例えば、光量が最も減少）する入射角を見つけることによってＡＴＲ条件の測定が可能となる。
+[実施例２]</base:Paragraphs>
+      <base:Paragraphs num="0062">
+２．ＳＰＲ装置の別の実施例
+  図４は、本発明の光学式検体検出装置の一態様であるＳＰＲ装置の別の実施例における概略を模式的に示す概略図である。</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  この実施例のＳＰＲ装置１０は、図１～３に示したＳＰＲ装置１０と基本的には同様な構成であり、また、原理も同様であるので、同一の構成部材には、同一の符号を付して、その詳細な説明を省略する。</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  この実施例では、集光レンズ２４の直前に第２の液晶基板３２が設けられている。
+  第２の液晶基板３２は、液晶基板２２と同様な構成となっており、液晶基板２２を透過した励起光２６の光束径（励起光２６の直径）を調整する役割を有している。</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  このように励起光２６の光束径を調整することによって、測定精度に悪い影響を与える回折光を遮断し、測定精度を向上させることができる。
+  なお、本実施例において、液晶基板２２のアパーチャー２１の大きさ（直径）は特に限定されず、ピンホール程度の小さなアパーチャー２１であっても構わない。</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  また、第２の液晶基板３２のアパーチャー３３の大きさ（直径）も、特に限定されるものではないが、励起光２６の波長に基づいて実施例１と同様に適宜決定することができる。
+  さらに、この実施例では、誘電体部材１２の下方の他方の側面側で、誘電体部材１２と受光手段３０との間に、金属薄膜反射光２９を集光して、受光手段３０に照射するための反射光集光レンズ３１が設けられている。</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  このように構成することで、反射光集光レンズ３１によって金属薄膜反射光２９が受光手段３０に集められるため、受光手段３０を動かす必要がなくなり、受光手段３０の移動にともなう振動ノイズなどの機械的ノイズを抑制することができ、高精度、かつ、迅速にＡＴＲ条件の測定や検体検出を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  さらに、液晶基板２２を透過した励起光２６の光束径を調整することができ、測定精度に悪い影響を与える回折光を遮断し、測定精度を向上させることができる。</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  このように構成したＳＰＲ装置１０でも、液晶基板２２のアパーチャー２１の位置（透過位置２３）を、透過位置２３ａから透過位置２３ｂまで、集光レンズ２４の光軸に垂直な平面内で移動させることによって、金属薄膜１４に対する励起光２６の入射角を入射角α１から入射角α２まで変化させて、ＡＴＲ条件の測定を高い精度で、かつ、迅速に行うことができる。
+[実施例３]</base:Paragraphs>
+      <base:Paragraphs num="0070">
+３．ＳＰＲ装置の別の実施例
+  図５は、本発明の光学式検体検出装置の一態様であるＳＰＲ装置のさらに別の実施例における概略を模式的に示す概略図である。</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  この実施例のＳＰＲ装置１０は、図１～４に示したＳＰＲ装置１０と基本的には同様な構成であり、また、原理も同様であるので、同一の構成部材には、同一の符号を付して、その詳細な説明を省略する。</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  図１～４に示したＳＰＲ装置１０では、集光レンズ２４と誘電体部材１２とが離間して配置されていたが、この実施例では、集光レンズ２４が誘電体部材１２の下方の一方の側面１２ｂに接着され、一体化構造となっている。</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  このように構成することによって、投光ユニット２０を誘電体部材１２に近づけることができ、ＳＰＲ装置１０の小型化を図ることができる。
+  なお、集光レンズ２４と誘電体部材１２とを一体化する手段としては、特に限定されるものではないが、例えば、光学的に透明な接着剤などを用いて集光レンズ２４と誘電体部材１２を接着すればよい。</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  この実施例の場合、集光レンズ２４と誘電体部材１２とは、屈折率が異なる素材によって形成されていてもよいが、屈折率差が小さい方が両者の界面での反射ロスを低減できるため好ましい。</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  このように構成したＳＰＲ装置１０においても、液晶基板２２のアパーチャー２１の位置（透過位置２３）を、透過位置２３ａから透過位置２３ｂまで、集光レンズ２４の光軸に垂直な平面内で移動させることによって、金属薄膜１４に対する励起光２６の入射角を入射角α１から入射角α２まで変化させて、ＡＴＲ条件の測定を高い精度で、かつ、迅速に行うことができる。
+[実施例４]</base:Paragraphs>
+      <base:Paragraphs num="0076">
+４．ＳＰＦＳ装置の実施例
+  図６は、本発明の光学式検体検出装置の一態様であるＳＰＦＳ装置の概略を模式的に示す概略図、図７は、図６のＳＰＦＳ装置において、金属薄膜表面で全反射減衰する条件（ＡＴＲ条件）を探索する際の光の進行方向を模式的に表した模式図である。</base:Paragraphs>
+      <base:Paragraphs num="0077">
+４－１．ＳＰＦＳ装置の構成
+  この実施例のＳＰＦＳ装置１１は、図１～５に示したＳＰＲ装置１０と基本的には同様な構成であり、また、原理も同様であるので、同一の構成部材には、同一の符号を付して、その詳細な説明を省略する。</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  ＳＰＦＳ装置１１では、金属薄膜１４上に発生した表面プラズモン光（疎密波）により励起された蛍光の強度を測定するため、金属薄膜１４の上面に、電場増強度測定用部材として、蛍光物質層３４が形成されている。</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  そして、誘電体部材１２と、金属薄膜１４と、蛍光物質層３４とで、測定部材３６が構成されている。
+  なお、蛍光物質層３４を構成する蛍光物質としては、所定の励起光を照射するか、または電界効果を利用することで励起し、蛍光を発する物質であれば、特に限定されない。なお、本明細書において、「蛍光」とは、燐光など各種の発光も含まれる。</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  また、測定部材３６の上方には、金属薄膜１４上に発生した表面プラズモン光（疎密波）によって励起された蛍光物質層３４から発生する蛍光３８を受光する光検出手段４０が設けられている。</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  光検出手段４０としては、特に限定されるものではないが、例えば、超高感度の光電子増倍管や、多点計測が可能なＣＣＤ（Charge Coupled Device）イメージセンサ、ＣＭＯＳ（Complementary Metal Oxide Semiconductor）イメージセンサなどを用いることができる。</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  このように構成することによって、投光ユニット２０を回転移動させることなく、後述するように、ＳＰＦＳ装置１１のＡＴＲ条件を測定することができ、液晶基板２２を電気的に制御すればよいだけなので、振動ノイズなどの機械的ノイズの影響がなく高精度の測定ができるとともに、迅速に測定を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0083">
+  さらには、少なくとも投光ユニット２０側に機械的駆動部品を使用する必要がなくなり、また、液晶基板２２によって励起光をｐ偏光化することができるため、偏光板を個別に備える必要がなくなる。</base:Paragraphs>
+      <base:Paragraphs num="0084">
+  このため、ＳＰＦＳ装置１１として、小型化、低コストが図れるとともに、振動ノイズなど機械的ノイズの影響を抑制でき、金属薄膜に照射する励起光の出力を安定させることができる。</base:Paragraphs>
+      <base:Paragraphs num="0085">
+４－２．ＡＴＲ条件の測定方法について
+  このように構成される本実施例のＳＰＦＳ装置１１を用いた、ＡＴＲ条件の測定方法について、以下に説明する。</base:Paragraphs>
+      <base:Paragraphs num="0086">
+  先ず、投光ユニット２０から励起光２６を照射して、透過位置２３ａにおいて液晶基板２２を透過させる。液晶基板２２を透過した励起光２６は、集光レンズ２４を介し、平行光束とされ、誘電体部材１２の外側下方から、誘電体部材１２の側面１２ｂに入射させる。このとき、励起光２６は、誘電体部材１２を介して、誘電体部材１２の上面１２ａに形成された金属薄膜１４に向かって、入射角α１で照射されることになる。</base:Paragraphs>
+      <base:Paragraphs num="0087">
+  一方、光検出手段４０によって、蛍光物質層３４から発生する蛍光３８の光強度、すなわち、金属薄膜１４上に発生した表面プラズモン光（疎密波）の強度が測定される。
+  液晶基板２２の透過位置２３を、透過位置２３ａから透過位置２３ｂまで、集光レンズ２４の光軸に垂直な平面内で移動させることによって、金属薄膜１４に対する励起光２６の入射角を入射角α１から入射角α２まで変化させながら、蛍光３８を光検出手段４０によって受光し、蛍光３８の光強度（表面プラズモン光（疎密波）の強度）を測定する。</base:Paragraphs>
+      <base:Paragraphs num="0088">
+  すなわち、入射角α１から入射角α２までの範囲において、励起光２６の入射角と蛍光３８の光強度の関係を測定することができ、ＡＴＲ条件の測定を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0089">
+  ＡＴＲ条件において、励起光２６を金属薄膜１４に照射すると、金属薄膜１４上に表面プラズモン光（疎密波）が発生して、この表面プラズモン光（疎密波）の強度に比例して、蛍光３８の光強度が変化（光量が増加）することとなるため、光検出手段４０で受光する蛍光３８の光強度が変化（例えば、光量が最も増加）する入射角を見つけることによってＡＴＲ条件の測定が可能となる。</base:Paragraphs>
+      <base:Paragraphs num="0090">
+  また、本実施例においては、蛍光物質層３４の蛍光物質が表面プラズモン光（疎密波）によって励起されて発生した蛍光３８を光検出手段４０によって測定しているが、蛍光物質層３４の代わりに、電場増強度測定用部材として光散乱物質層を設けることによって、散乱光を光検出手段４０によって測定するように構成してもよい。</base:Paragraphs>
+      <base:Paragraphs num="0091">
+  この場合、光散乱物質層を構成する光散乱物質としては、例えば、金コロイド、酸化チタン、シリコン、ＳｉＯ<base:Sub>2</base:Sub>（ガラス）などの微粒子を用いることができる。
+  蛍光物質層３４の代わりに光散乱物質層を設ける場合であっても、同様に、透過位置２３を透過位置２３ａから透過位置２３ｂまで移動させることによって、入射角α１から入射角α２までの範囲において、励起光２６の入射角と散乱光の光強度の関係を測定することができ、ＡＴＲ条件の測定を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0092">
+４－３．検体検出時の装置構成について
+  上述するように構成された本実施例のＳＰＦＳ装置１１を用いて、検体の検出を行う場合には、図８に示すように、電場増強度測定用部材の代わりに反応層４２が形成され、この反応層４２で生じた蛍光３８を光検出手段４０によって受光し、その蛍光強度を測定することになる。</base:Paragraphs>
+      <base:Paragraphs num="0093">
+  なお、反応層４２と光検出手段４０との間には、光を効率よく集光するための集光部材４４と、蛍光３８のみを選択的に透過するように形成された波長選択機能部材４６が設けられている。</base:Paragraphs>
+      <base:Paragraphs num="0094">
+  集光部材４４としては、光検出手段４０に蛍光シグナルを効率よく集光することを目的とするものであれば、任意の集光系でよい。簡易な集光系としては、例えば、顕微鏡などで使用されている市販の対物レンズを転用してもよい。対物レンズの倍率としては、１０～１００倍が好ましい。</base:Paragraphs>
+      <base:Paragraphs num="0095">
+  また、波長選択機能部材４６としては、光学フィルタ、カットフィルタなどを用いることができる。
+  光学フィルタとしては、減光（ＮＤ）フィルタ、ダイアフラムレンズなどが挙げられる。さらに、カットフィルタとしては、外光（装置外の照明光）、励起光（励起光の透過成分）、迷光（各所での励起光の散乱成分）、プラズモンの散乱光（励起光を起源とし、センサーチップ表面上の構造体または付着物などの影響で発生する散乱光）、酸素蛍光基質の自家蛍光などの各種ノイズ光を除去するフィルタであって、例えば、干渉フィルタ、色フィルタなどが挙げられる。</base:Paragraphs>
+      <base:Paragraphs num="0096">
+  そして、このようなＳＰＦＳ装置１１の使用時において、金属薄膜１４上に形成された反応層４２に、例えば、あらかじめ蛍光物質で標識されたアナライトを捕捉させ、この状態で、投光ユニット２０より誘電体部材１２内に照射された励起光２６が、上述するようにして求められたＡＴＲ条件を満たす入射角（共鳴角）で、金属薄膜１４に入射することで、金属薄膜１４上に表面プラズモン光（疎密波）が発生することになる。</base:Paragraphs>
+      <base:Paragraphs num="0097">
+  この表面プラズモン光（疎密波）により、金属薄膜１４上の反応層４２内のアナライトを標識する蛍光物質が効率よく励起され、これにより蛍光物質が発する蛍光３８の光量が増大し、この蛍光３８を集光部材４４および波長選択機能部材４６を介して光検出手段４０で受光することで、微細量および／または極低濃度のアナライトを検出することができる。</base:Paragraphs>
+      <base:Paragraphs num="0098">
+  なお、反応層４２としては、蛍光物質で標識されたアナライトを捕捉するための固相膜４８と、この固相膜４８上に蛍光物質で標識されたアナライトを含有する検体液を導入するための反応空間形成部材５０とから構成することができる。</base:Paragraphs>
+      <base:Paragraphs num="0099">
+  固相膜４８は、アナライトを捕捉するためのリガンドが固定化されるものであって、例えば、ＳＡＭ（Self-Assembled Monolayer；自己組織化単分子膜）及びＳＡＭ上に形成された固相化層によって構成することができる。</base:Paragraphs>
+      <base:Paragraphs num="0100">
+  なお、固相化層としては、例えば、グルコース，カルボキシメチル化グルコース，ならびにビニルエステル類，アクリル酸エステル類，メタクリル酸エステル類，オレフィン類，スチレン類，クロトン酸エステル類，イタコン酸ジエステル類，マレイン酸ジエステル類，フマル酸ジエステル類，アリル化合物類，ビニルエーテル類およびビニルケトン類それぞれに包含される単量体からなる群より選択される少なくとも１種の単量体から構成される高分子を含むことが好ましく、デキストランおよびデキストラン誘導体などの親水性高分子ならびにビニルエステル類，アクリル酸エステル類，メタクリル酸エステル類，オレフィン類，スチレン類，クロトン酸エステル類，イタコン酸ジエステル類，マレイン酸ジエステル類，フマル酸ジエステル類，アリル化合物類，ビニルエーテル類およびビニルケトン類それぞれに包含される疎水性単量体から構成される疎水性高分子を含むことがより好ましく、カルボキシメチルデキストラン（ＣＭＤ）などのデキストランが生体親和性、非特異的な吸着反応の抑制性、高い親水性の観点から特に好適である。</base:Paragraphs>
+      <base:Paragraphs num="0101">
+  また、反応空間形成部材５０としては、検体液を一時的に貯留するためのウェル部材５１や、検体液を金属薄膜１４上の反応エリア４８ａに対して循環させることができる流路部材５２などを用いることができる。</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  ウェル部材５１は、図９（ａ）に示すように、金属薄膜１４上の反応エリア４８ａを囲繞するように反応エリア４８ａの壁を構成し、反応空間５４を形成するための部材である。
+  この反応空間５４に、例えば、ピペットなどを用いて検体液を注入することによって、検体液中のアナライトと反応層４２の固相膜４８とが反応して、固相膜４８にアナライトが捕捉されることになる。</base:Paragraphs>
+      <base:Paragraphs num="0103">
+  また、流路部材５２は、図９（ｂ）に示すように、誘電体部材１２と流路部材５２とによって流路５６を形成し、検体液が反応エリア４８ａに対して循環するように構成するための部材である。</base:Paragraphs>
+      <base:Paragraphs num="0104">
+  すなわち、流路５６内の反応エリア４８ａ上が反応空間５４となっており、この反応空間５４に検体液を流通させることによって、検体液中のアナライトと反応層４２の固相膜４８とが反応して、固相膜４８にアナライトが捕捉されることになる。</base:Paragraphs>
+      <base:Paragraphs num="0105">
+  なお、流路５６に検体液を流通させる方法としては、特に限定されるものではないが、流路５６の両端部５６ａ，５６ｂにポンプ（図示せず）を接続して、検体液を一方向に循環させてもよいし、流路５６の端部５６ａからピペットを用いて検体液を注入するとともに、ピペットによって検体液を吸排することによって、反応エリア４８ａに対して検体液を往復移動させてもよい。</base:Paragraphs>
+      <base:Paragraphs num="0106">
+  特に、反応エリア４８ａに対して検体液を往復移動させることによって、少量の検体液であっても、アナライトと固相膜との反応効率が高くなり、アナライトの検出精度を向上させることができる。</base:Paragraphs>
+      <base:Paragraphs num="0107">
+  また、このような反応空間形成部材５０（ウェル部材５１、流路部材５２）の材料としては、特に限定されるものではなく、例えば、ガラス、セラミックスなどの各種の無機物、天然ポリマー、合成ポリマーなどを用いることができる。</base:Paragraphs>
+      <base:Paragraphs num="0108">
+  なお、流路部材５２のように反応エリア４８ａを反応空間形成部材５０によって覆う場合には、光検出手段４０によって蛍光３８を観測可能なように、光学的に透明な材料を用いる必要がある。</base:Paragraphs>
+      <base:Paragraphs num="0109">
+  なお、このような検体液としては、血液、血清、血漿、尿、鼻孔液、唾液、便、体腔液（髄液、腹水、胸水等）などが挙げられる。</base:Paragraphs>
+      <base:Paragraphs num="0110">
+  また、検体液中に含有されるアナライトは、例えば、核酸（一本鎖であっても二本鎖であってもよいＤＮＡ、ＲＮＡ、ポリヌクレオチド、オリゴヌクレオチド、ＰＮＡ（ペプチド核酸）等、またはヌクレオシド、ヌクレオチドおよびそれらの修飾分子）、タンパク質（ポリペプチド、オリゴペプチド等）、アミノ酸（修飾アミノ酸も含む）、糖質（オリゴ糖、多糖類、糖鎖等）、脂質、またはこれらの修飾分子、複合体などが挙げられ、具体的には、ＡＦＰ（αフェトプロテイン）等のがん胎児性抗原や腫瘍マーカー、シグナル伝達物質、ホルモンなどであってもよく、特に限定されない。
+[実施例５]
+５．ＳＰＦＳ装置の別の実施例
+  図１０は、本発明の光学式検体検出装置の一態様であるＳＰＦＳ装置の別の実施例における概略を模式的に示す概略図である。</base:Paragraphs>
+      <base:Paragraphs num="0111">
+  この実施例のＳＰＦＳ装置１１は、図１～５に示したＳＰＲ装置１０及び図６～９に示したＳＰＦＳ装置１１と基本的には同様な構成であり、また、原理も同様であるので、同一の構成部材には、同一の符号を付して、その詳細な説明を省略する。</base:Paragraphs>
+      <base:Paragraphs num="0112">
+  実施例１～４では、投光ユニット２０を誘電体部材１２の下方の一方の側面１２ｂの側に配置していたが、この実施例では、誘電体部材１２の下方の一方の側面１２ｂの側に反射鏡３７を配置し、投光ユニット２０、液晶基板２２、集光レンズ２４は誘電体部材１２の上方の一方の側方に配置されている。</base:Paragraphs>
+      <base:Paragraphs num="0113">
+  このように構成することによって、投光ユニット２０と光検出手段４０を同じ側に配置することができるため、ＳＰＦＳ装置１１全体として、さらに小型化を図ることができる。</base:Paragraphs>
+      <base:Paragraphs num="0114">
+  このように構成されたＳＰＦＳ装置１１においても、液晶基板２２のアパーチャー２１の位置（透過位置２３）を透過位置２３ａから透過位置２３ｂまで移動させることによって、入射角α１から入射角α２までの範囲において、励起光２６の入射角と蛍光や散乱光の光強度の関係を測定することができ、ＡＴＲ条件の測定を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0115">
+  また、検体検出に用いる場合であっても、上述するように、金属薄膜１４上の反応層４２内の蛍光物質が効率よく励起され、これにより蛍光物質が発する蛍光３８の光量が増大し、この蛍光３８を集光部材４４および波長選択機能部材４６を介して光検出手段４０で受光することで、微細量および／または極低濃度のアナライトを検出することができる。
+[実施例６]</base:Paragraphs>
+      <base:Paragraphs num="0116">
+６．ＳＰＦＳ装置の別の実施例
+  図１１は、本発明の光学式検体検出装置の一態様であるＳＰＦＳ装置のさらに別の実施例における概略を模式的に示す概略図である。</base:Paragraphs>
+      <base:Paragraphs num="0117">
+  この実施例のＳＰＦＳ装置１１は、図１～５に示したＳＰＲ装置１０及び図６～１０に示したＳＰＦＳ装置１１と基本的には同様な構成であり、また、原理も同様であるので、同一の構成部材には、同一の符号を付して、その詳細な説明を省略する。</base:Paragraphs>
+      <base:Paragraphs num="0118">
+  この実施例のＳＰＦＳ装置１１では、投光ユニット２０と液晶基板２２との間にマイクロレンズアレイ基板３５を備えている。
+  マイクロレンズアレイ基板３５は、投光ユニット２０から照射された励起光２６の密度を高めて液晶基板２２に照射されることになる。</base:Paragraphs>
+      <base:Paragraphs num="0119">
+  このようにマイクロレンズアレイ基板３５によって励起光２６の密度を高めることによって、誘電体部材１２の上面１２ａに形成された金属薄膜１４に照射される励起光２６の光量を高めることができ、金属薄膜１４上に発生する表面プラズモン光（疎密波）の強度を高め、ひいては、表面プラズモン光（疎密波）によって励起された蛍光の強度も高めることができる。</base:Paragraphs>
+      <base:Paragraphs num="0120">
+  このように構成されたＳＰＦＳ装置１１においても、液晶基板２２のアパーチャー２１の位置（透過位置２３）を透過位置２３ａから透過位置２３ｂまで移動させることによって、入射角α１から入射角α２までの範囲において、励起光２６の入射角と蛍光や散乱光の光強度の関係を測定することができ、ＡＴＲ条件の測定を行うことができる。</base:Paragraphs>
+      <base:Paragraphs num="0121">
+  また、検体検出に用いる場合であっても、上述するように、金属薄膜１４上の反応層４２内の蛍光物質が効率よく励起され、これにより蛍光物質が発する蛍光３８の光量が増大し、この蛍光３８を集光部材４４および波長選択機能部材４６を介して光検出手段４０で受光することで、微細量および／または極低濃度のアナライトを検出することができる。</base:Paragraphs>
+      <base:Paragraphs num="0122">
+  以上、本発明の好ましい実施の態様を説明してきたが、本発明はこれに限定されることはなく、例えば、上記実施例では、全反射減衰する条件（ＡＴＲ条件）を測定するために用いているが、光学式検体検出装置として、励起光の入射角を変える場合に用いることができ、さらには、ＳＰＲ装置やＳＰＦＳ装置に限らず、例えば、光学検査のような工業分野などにおいても使用可能であり、何ら分野を限定されず適用可能であり、本発明の目的を逸脱しない範囲で種々の変更が可能である。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0123">
+  本発明は、例えば、表面プラズモン励起増強蛍光分光法（ＳＰＦＳ）を用いた、血液検査などの臨床試験のような、高精度の検出が要求される分野において、全反射減衰する条件（ＡＴＲ条件）を満たした最適な励起光の入射角（共鳴角）を高精度かつ迅速に測定することができる。</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0124">
+１０      ＳＰＲ装置
+１１      ＳＰＦＳ装置
+１２      誘電体部材
+１２ａ    上面
+１２ｂ    側面
+１２ｃ    側面
+１３      界面
+１４      金属薄膜
+１６      センサーチップ
+１８      センサーチップ装填部
+２０      投光ユニット
+２１      アパーチャー
+２２      液晶基板
+２２ａ，２２ｅ    偏光フィルタ
+２２ｂ，２２ｄ    透明電極
+２２ｃ    液晶層
+２３      透過位置
+２３ａ    透過位置
+２３ｂ    透過位置
+２４      集光レンズ
+２６      励起光
+２７      光源
+２８      コリメートレンズ
+２９      金属薄膜反射光
+３０      受光手段
+３１      反射光集光レンズ
+３２      第２の液晶基板
+３３      アパーチャー
+３４      蛍光物質層
+３５      マイクロレンズアレイ基板
+３６      測定部材
+３７      反射鏡
+３８      蛍光
+４０      光検出手段
+４２      反応層
+４４      集光部材
+４６      波長選択機能部材
+４８      固相膜
+４８ａ    反応エリア
+５０      反応空間形成部材
+５１      ウェル部材
+５２      流路部材
+５４      反応空間
+５６      流路
+５６ａ，５６ｂ    端部
+１０２    光源
+１０４    集光ビーム
+１０６    反射光
+１０８    受光手段</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000005" he="52" wi="84" file="2014017433_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000006" he="52" wi="84" file="2014017433_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000007" he="68" wi="84" file="2014017433_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000008" he="48" wi="84" file="2014017433_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000009" he="61" wi="84" file="2014017433_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000010" he="62" wi="84" file="2014017433_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000011" he="59" wi="84" file="2014017433_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000012" he="66" wi="84" file="2014017433_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000013" he="106" wi="76" file="2014017433_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000014" he="96" wi="84" file="2014017433_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000015" he="96" wi="84" file="2014017433_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000016" he="47" wi="84" file="2014017433_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  金属薄膜に誘電体部材を介して励起光を照射することで検体の検出を行う光学式検体検出装置であって、
+  前記誘電体部材に入射させる励起光を集光する集光レンズと、
+  前記集光レンズの前側焦点位置に配置された液晶基板と、
+  前記液晶基板、前記集光レンズ、前記誘電体部材を介して前記金属薄膜に励起光を照射する投光ユニットと、を備え、
+  前記液晶基板は、液晶配向を変化させることによって、励起光の一部だけを透過させるアパーチャーを備えるように構成するとともに、
+  前記液晶基板のアパーチャーの位置を移動することにより、前記金属薄膜に対する励起光の入射角を変更可能なように構成されている光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記液晶基板と前記集光レンズとの間に、第２の液晶基板を備える請求項１に記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記誘電体部材の下方の一方の側面側に、前記投光ユニットから照射された励起光を、前記金属薄膜に照射するための反射鏡をさらに備え、
+  前記投光ユニットと前記液晶基板と前記集光レンズとが、前記誘電体部材の上方の一方の側方に配置される請求項１または２に記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記投光ユニットと前記液晶基板との間に、マイクロレンズアレイ基板を備える請求項１から３のいずれかに記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記投光ユニットから照射される励起光が、コヒーレント光であることを特徴とする請求項１から４のいずれかに記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記アパーチャーの大きさが、下記式１によって求められる大きさである請求項１から５のいずれかに記載の光学式検体検出装置。
+<base:MathDetails num="0001"><base:Image id="000004" he="47" wi="126" file="2014017433_000004.TIF" imgFormat="TIFF" imgContent="drawing" /></base:MathDetails></business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記金属薄膜の励起光が入射される面側とは反対の面側から出射された光を検出する光検出手段が設けられるとともに、
+  前記金属薄膜上に、電場増強度測定用部材が配置され、
+  前記励起光を前記金属薄膜に照射した際に発生する表面プラズモン光によって、前記電場増強度測定用部材が励起され発生した光を、前記光検出手段によって測定するように構成されている請求項１から６のいずれかに記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記電場増強度測定用部材が、蛍光物質である請求項７に記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記電場増強度測定用部材が、光散乱物質である請求項７に記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記金属薄膜の励起光が入射される面側とは反対の面側から出射された光を検出する光検出手段が設けられるとともに、
+  前記金属薄膜上に、蛍光物質で標識されたアナライトが捕捉される反応層が配置され、
+  前記反応層に、前記蛍光物質で標識されたアナライトが捕捉された状態で、前記励起光を前記金属薄膜に照射した際に発生する表面プラズモン光によって、前記蛍光物質が励起され発生した蛍光を、前記光検出手段によって測定するように構成されている請求項１から６のいずれかに記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記金属薄膜によって反射された励起光を受光する受光手段が設けられている請求項１から１０のいずれかに記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記誘電体部材と前記受光手段との間に、前記金属薄膜によって反射された励起光を集光して前記受光手段に照射するための反射光集光レンズを備える請求項１１に記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記誘電体部材と、前記集光レンズとを一体化した構造とする請求項１から１２のいずれかに記載の光学式検体検出装置。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000017" file="2014017433_000017.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000018" file="2014017433_000018.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000019" file="2014017433_000019.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000004">
+    <business:ExternalSearchReport id="externalsearchreport000020" file="2014017433_000020.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

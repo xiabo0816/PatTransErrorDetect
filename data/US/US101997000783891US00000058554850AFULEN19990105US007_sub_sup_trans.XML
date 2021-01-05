@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="US101997000783891US00000058554850AFULEN19990105US007.XML" dateProduced="20160817" status="C" lang="en" country="US" docNumber="5855485" kind="A" datePublication="19990105">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>05855485</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19990105</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>5855485</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19990105</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant>
+        <base:DocumentID>
+          <base:Date>19990105</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>08/783891</base:DocNumber>
+        <base:Date>19970116</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>101997000783891</base:DocNumber>
+        <base:Date>19970116</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPC>
+      <base:EditionStatement>6</base:EditionStatement>
+      <business:MainClassification dataFormat="original">H01R02514</business:MainClassification>
+      <business:MainClassification dataFormat="standard">H01R0025140000</business:MainClassification>
+    </business:ClassificationIPC>
+    <business:ClassificationNational>
+      <business:MainClassification dataFormat="original">439121</business:MainClassification>
+    </business:ClassificationNational>
+    <business:InventionTitle lang="en" sourceDB="US">用于轨道照明系统的多轨道适配器</business:InventionTitle>
+    <business:ReferencesCited>
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:ApplicationCitation id="pcit000001" num="0001">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3120985</base:DocNumber>
+              <base:Date>19640200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03120985</base:DocNumber>
+              <base:Date>19640200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hubbell</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="2">
+        <business:ApplicationCitation id="pcit000002" num="0002">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3273103</base:DocNumber>
+              <base:Date>19660900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03273103</base:DocNumber>
+              <base:Date>19660900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Ericson</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="3">
+        <business:ApplicationCitation id="pcit000003" num="0003">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3391377</base:DocNumber>
+              <base:Date>19680700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03391377</base:DocNumber>
+              <base:Date>19680700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Corl et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="4">
+        <business:ApplicationCitation id="pcit000004" num="0004">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3559146</base:DocNumber>
+              <base:Date>19710100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03559146</base:DocNumber>
+              <base:Date>19710100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Valtonen</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439094</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="5">
+        <business:ApplicationCitation id="pcit000005" num="0005">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3646501</base:DocNumber>
+              <base:Date>19720200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03646501</base:DocNumber>
+              <base:Date>19720200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Valtonen</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="6">
+        <business:ApplicationCitation id="pcit000006" num="0006">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3686614</base:DocNumber>
+              <base:Date>19720800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03686614</base:DocNumber>
+              <base:Date>19720800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hyrylainen</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="7">
+        <business:ApplicationCitation id="pcit000007" num="0007">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3718886</base:DocNumber>
+              <base:Date>19730200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03718886</base:DocNumber>
+              <base:Date>19730200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hoffmeister</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="8">
+        <business:ApplicationCitation id="pcit000008" num="0008">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3832503</base:DocNumber>
+              <base:Date>19740800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03832503</base:DocNumber>
+              <base:Date>19740800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Crane</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="9">
+        <business:ApplicationCitation id="pcit000009" num="0009">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3848715</base:DocNumber>
+              <base:Date>19741100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03848715</base:DocNumber>
+              <base:Date>19741100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Hesse</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="10">
+        <business:ApplicationCitation id="pcit000010" num="0010">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3884541</base:DocNumber>
+              <base:Date>19750500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03884541</base:DocNumber>
+              <base:Date>19750500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>O'Nan et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="11">
+        <business:ApplicationCitation id="pcit000011" num="0011">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3894781</base:DocNumber>
+              <base:Date>19750700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03894781</base:DocNumber>
+              <base:Date>19750700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Donato</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="12">
+        <business:ApplicationCitation id="pcit000012" num="0012">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3933403</base:DocNumber>
+              <base:Date>19760100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03933403</base:DocNumber>
+              <base:Date>19760100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Rubesamen et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="13">
+        <business:ApplicationCitation id="pcit000013" num="0013">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3980368</base:DocNumber>
+              <base:Date>19760900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03980368</base:DocNumber>
+              <base:Date>19760900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Fremont</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="14">
+        <business:ApplicationCitation id="pcit000014" num="0014">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3993385</base:DocNumber>
+              <base:Date>19761100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03993385</base:DocNumber>
+              <base:Date>19761100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Seger</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="15">
+        <business:ApplicationCitation id="pcit000015" num="0015">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4029378</base:DocNumber>
+              <base:Date>19770600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04029378</base:DocNumber>
+              <base:Date>19770600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Bolis</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439094</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="16">
+        <business:ApplicationCitation id="pcit000016" num="0016">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4032208</base:DocNumber>
+              <base:Date>19770600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04032208</base:DocNumber>
+              <base:Date>19770600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Berkenhoff</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="17">
+        <business:ApplicationCitation id="pcit000017" num="0017">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4108523</base:DocNumber>
+              <base:Date>19780800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04108523</base:DocNumber>
+              <base:Date>19780800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Bolis</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="18">
+        <business:ApplicationCitation id="pcit000018" num="0018">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4139252</base:DocNumber>
+              <base:Date>19790200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04139252</base:DocNumber>
+              <base:Date>19790200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Gorny</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439094</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="19">
+        <business:ApplicationCitation id="pcit000019" num="0019">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4181388</base:DocNumber>
+              <base:Date>19800100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04181388</base:DocNumber>
+              <base:Date>19800100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Donato</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="20">
+        <business:ApplicationCitation id="pcit000020" num="0020">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4218108</base:DocNumber>
+              <base:Date>19800800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04218108</base:DocNumber>
+              <base:Date>19800800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>El Mouchi</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="21">
+        <business:ApplicationCitation id="pcit000021" num="0021">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4289365</base:DocNumber>
+              <base:Date>19810900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04289365</base:DocNumber>
+              <base:Date>19810900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Rutgers</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="22">
+        <business:ApplicationCitation id="pcit000022" num="0022">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4533190</base:DocNumber>
+              <base:Date>19850800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04533190</base:DocNumber>
+              <base:Date>19850800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Booty</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="23">
+        <business:ApplicationCitation id="pcit000023" num="0023">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4655520</base:DocNumber>
+              <base:Date>19870400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04655520</base:DocNumber>
+              <base:Date>19870400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Cummings</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="24">
+        <business:ApplicationCitation id="pcit000024" num="0024">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4676567</base:DocNumber>
+              <base:Date>19870600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04676567</base:DocNumber>
+              <base:Date>19870600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Mouchi</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439116</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="25">
+        <business:ApplicationCitation id="pcit000025" num="0025">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4699439</base:DocNumber>
+              <base:Date>19871000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04699439</base:DocNumber>
+              <base:Date>19871000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Cohen</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439119</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="26">
+        <business:ApplicationCitation id="pcit000026" num="0026">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4790766</base:DocNumber>
+              <base:Date>19881200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04790766</base:DocNumber>
+              <base:Date>19881200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Booty, Sr. et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439122</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="27">
+        <business:ApplicationCitation id="pcit000027" num="0027">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4822292</base:DocNumber>
+              <base:Date>19890400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04822292</base:DocNumber>
+              <base:Date>19890400</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Thayer et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439115</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="28">
+        <business:ApplicationCitation id="pcit000028" num="0028">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4887196</base:DocNumber>
+              <base:Date>19891200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04887196</base:DocNumber>
+              <base:Date>19891200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Brown et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>362148</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="29">
+        <business:ApplicationCitation id="pcit000029" num="0029">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4968262</base:DocNumber>
+              <base:Date>19901100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04968262</base:DocNumber>
+              <base:Date>19901100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Widell et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439121</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="30">
+        <business:ApplicationCitation id="pcit000030" num="0030">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5013251</base:DocNumber>
+              <base:Date>19910500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05013251</base:DocNumber>
+              <base:Date>19910500</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Stringer et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439094</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="31">
+        <business:ApplicationCitation id="pcit000031" num="0031">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5151038</base:DocNumber>
+              <base:Date>19920900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05151038</base:DocNumber>
+              <base:Date>19920900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Range et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439122</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="32">
+        <business:ApplicationCitation id="pcit000032" num="0032">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5336097</base:DocNumber>
+              <base:Date>19940800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05336097</base:DocNumber>
+              <base:Date>19940800</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Williamson, Jr. et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439094</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="33">
+        <business:ApplicationCitation id="pcit000033" num="0033">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:DocNumber>3811128</base:DocNumber>
+              <base:Date>19900300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:DocNumber>3811128</base:DocNumber>
+              <base:Date>19900300</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>439122</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:SearchField>
+      <business:ClassificationNational>
+        <business:MainClassification>439/121</business:MainClassification>
+        <business:FurtherClassification sequence="1">439/122</business:FurtherClassification>
+        <business:FurtherClassification sequence="2">439/94</business:FurtherClassification>
+        <business:FurtherClassification sequence="3">439/116-119</business:FurtherClassification>
+      </business:ClassificationNational>
+    </business:SearchField>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="US">
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Patti</base:LastName>
+            <base:FirstName>Anthony G.</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>270 S. Burton</base:Street>
+              <base:AddressCity>San Gabriel</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:State>CA</base:State>
+              <base:PostCode>91776</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>270 S. Burton San Gabriel  CA 91776 US</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:OrganizationName>Hill &amp; Simpson</base:OrganizationName>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" role="chief">
+        <base:LastName>Paumen, Gary F.</base:LastName>
+      </business:Examiner>
+    </business:ExaminerDetails>
+    <business:StatisticalInformation>
+      <business:DrawingSheetsCount>4</business:DrawingSheetsCount>
+      <business:ClaimsCount>27</business:ClaimsCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract lang="en" dataFormat="original" sourceDB="US">
+    <base:Paragraphs>提供了一种适配器，用于在灯具和不同轨道照明系统的多个不同配置的轨道之间进行机械和电连接。 通过利用本发明的适配器，灯具可以机械地和电气地连接到由不同制造商制造的不同配置的轨道。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="US">
+    <business:TechnicalField>
+      <base:Paragraphs>技术领域</base:Paragraphs>
+      <base:Paragraphs>本发明总体上涉及轨道照明系统，并且更具体地，涉及一种用于在沿着轨道照明系统的轨道的任何点处连接灯具的适配器。 更具体地，本发明涉及一种用于将灯具连接到不同轨道照明系统的不同配置的轨道中的任何一个的适配器。</base:Paragraphs>
+      <base:Paragraphs>背景技术</base:Paragraphs>
+      <base:Paragraphs>轨道照明系统是已知的。 典型的轨道照明系统包括两个主要部件。 首先，将具有大致倒C形横截面的轨道安装到天花板或墙壁上。 轨道通常具有设置在两个向下延伸的臂之间的顶壁，所述两个向下延伸的臂终止于两个向内延伸的壁架以形成中心通道。 为了容纳一个或多个导体，插入件通常设置在每个壁架和顶壁之间。 插入件通常由塑料材料制成，如果轨道由金属制成，则塑料材料使导体彼此绝缘并且与轨道绝缘。</base:Paragraphs>
+      <base:Paragraphs>通过将安装到固定装置的适配器插入穿过轨道的中心通道，将轨道照明固定装置或灯具附接到轨道。 典型的适配器包括两个或更多个向外延伸的柄脚，当扭转时，所述柄脚摩擦地固定在轨道的凸缘上方。 导体接合突片也从适配器的顶端向外延伸，当适配器在轨道的凸缘上方锁定就位时，导体接合突片接合导体。</base:Paragraphs>
+      <base:Paragraphs>此外，通常为轨道照明系统提供三种类型的接地机构。 对于也用作接地导体的金属轨道，可以提供从适配器向外延伸的金属突片，以在接地突片和导体的凸缘之间提供刮擦接合。 另一种构造是提供向上延伸的接地突片，该接地突片接合轨道的顶壁，假设轨道的顶壁没有衬有绝缘插入材料。 其他轨道照明系统采用容纳在插入件中用于接地目的的单独导体。 对于这些系统，必须在适配器头部的顶端设置单独的导体接合突片。</base:Paragraphs>
+      <base:Paragraphs>图3-8中示出了具有三种不同结构配置并且与三种不同轨道照明系统一起使用的三种不同轨道。 这三种不同的照明系统以CAPRI、HALO和JUNO商标出售。 从示出CAPRI轨道的图3-5、示出晕圈轨道的图6-8和示出JUNO轨道的图9-11可以看出，CAPRI、晕圈和JUNO轨道的尺寸不同，并且在本发明之前，每个轨道需要专门设计的适配器。</base:Paragraphs>
+      <base:Paragraphs>先前，附接到被设计成配合CAPRI轨道的CAPRI灯具的适配器将不配合到光环或JUNO轨道中。 类似地，附接到被设计成配合光环轨道的光环灯具的适配器将不配合到CAPRI轨道或JUNO轨道中。 最后，附接到为JUNO轨道设计的JUNO灯具的适配器将不适合HALO轨道或CAPRI轨道。</base:Paragraphs>
+      <base:Paragraphs>因此，在消费者已经将当前可用的轨道照明系统之一安装到天花板上并且消费者稍后决定通过改变灯具来改变房间的装饰之后，消费者被迫选择由他或她的原始轨道照明系统的制造商制造的灯具或专门设计成适合该系统的灯具。 本质上，一旦消费者选择CAPRI系统、光环系统或JUNO系统，并且消费者稍后决定更换灯具，消费者就限于选择配备有专门设计成适合原始系统的适配器的灯具。 如果消费者选择不适合消费者的原始轨道的灯具，则留给消费者的唯一替代方案是选择不同的灯具或替换预先存在的轨道。</base:Paragraphs>
+      <base:Paragraphs>因此，通过在其轨道中结合不同的设计特征，竞争制造商已经防止消费者将其竞争对手的灯具安装到其轨道上，并且已经有效地将消费者对替换灯具的选择限制为由消费者的现有轨道照明系统的制造商制造的灯具。 如果消费者对由特定制造商提供的各种类型的替换灯具不满意，并且消费者已经安装的轨道是由该特定制造商制造的，则消费者的唯一替代方案是安装新的轨道。 这是昂贵且劳动密集型的前景。</base:Paragraphs>
+      <base:Paragraphs>因此，消费者方面需要一种适配器，其能够将灯具附接到由不同制造商制造的多个不同配置的轨道。 当这种适配器附接到灯具时，由三个或更多个主要制造商中的任何一个制造的轨道照明系统的所有者将能够将灯具安装在其预先存在的轨道上作为替换灯具。 消费者将不再必须被迫或限于从他们当前安装的轨道的制造商选择替换灯具。 这种适配器将极大地扩展消费者当前可用的替换灯具的选择。 这种适配器还将使制造商能够扩展其当前替换灯具的市场，因为灯具将能够附接到所有主要轨道照明系统，而不是由单个制造商制造的特定轨道照明系统。</base:Paragraphs>
+      <base:Paragraphs>发明内容</base:Paragraphs>
+      <base:Paragraphs>本发明满足了上述需求，本发明提供了一种轨道照明适配器，用于将轨道灯具机械地和电气地连接到多个不同尺寸或配置的轨道。 实质上，本发明的轨道照明适配器在附接到灯具时，使得灯具能够附接到由轨道照明系统的三个主要制造商制造的三个不同配置的轨道中的至少任何一个。</base:Paragraphs>
+      <base:Paragraphs>根据本发明制造的轨道照明适配器将灯具机械地和电气地连接到多个不同构造的轨道中的任何一个，该类型的轨道具有以大致倒U形构造设置在第一和第二向下延伸臂之间的顶壁。 每个臂连接到向内延伸的凸缘。 两个凸缘限定容纳适配器的中心通道或中心槽。 轨道的每一侧还包括通常由塑料制成的插入件，该插入件容纳至少一个导体。 凸耳与顶壁之间的导体的间距随制造商以及凸耳的厚度而变化。 每个轨道还包括接地导体，该接地导体可以是单独的导线或金属轨道本身。</base:Paragraphs>
+      <base:Paragraphs>本发明的适配器包括接触头，该接触头具有用于通过轨道的中心通道插入的顶端和连接到主壳体的底端，该主壳体又连接到灯具。 接触头的顶端包括两个单独的接地接触片，第一片被弹簧向上偏压，用于接合至少一个当前可用轨道的顶壁，至少一个当前可用轨道的接地导体，以及第二刮擦型接地接触片，其接合其他当前可用轨道的凸缘之一。 接触头的顶端还包括用于接合迹线的线路（或正极）导体的两个线路（或正极）导体接触片和用于接合迹线的中性导体的至少一个中性导体接触片。 线路导体接触片设置在接触头的同一侧上，并且彼此垂直移位，以适应各个制造商的迹线之间的线路导体的间隔的差异。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，线路导体接触片设置在接触头的顶端的与中性导体接触片相对的一侧上。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，接触头的顶端还包括用于接合至少一个当前可用迹线的第一和第二凸缘的第一对下部相对槽和用于接合至少一个当前可用迹线的第一和第二凸缘的第二对上部相对槽。 所述第一对下部相对狭槽和所述第二对上部相对狭槽彼此竖直移位。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，上部相对狭槽中的一个比另一个上部相对狭槽更宽或更厚。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，所述第一对下部相对狭槽容纳所述卡普里轨道的所述第一凸耳和所述第二凸耳。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，第二对上部相对的狭槽接合晕圈轨道和晕圈轨道的第一突出部和第二突出部。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的适配器包括安装在接触头的顶端上方的锁定环。 锁定环包括用于容纳接触头的顶部头部的环形基部和两个向上延伸且相对的凸片。 凸片容纳在轨道的中心通道中。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的锁定环的突片各自包括窄的顶部部分和较宽的底部部分。 窄的顶部足够窄以插入穿过当前可用轨道的中心通道。 相反，较宽的底部容纳在至少一个当前可用轨道的中心通道中，并且比至少两个当前可用轨道的中心通道宽。 因此，锁定环的凸片的较宽底部控制锁定环以及因此接触头可以插入比锁定环的凸片的底部更窄的轨道的中心通道中的深度。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的适配器通过设置在接触头上的至少一个止挡屏障提供自动极性匹配机构，该自动极性匹配机构防止接触头旋转，使得一个或多个线路导体接触片与当前可用迹线之一的中性导体对准。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明包括一种自动极性匹配系统，该自动极性匹配系统包括设置在接触头的顶端上的至少一个止挡屏障，该止挡屏障防止接触头旋转，以便使中性导体接触片与当前可用迹线之一的线路导体对准或接触。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的适配器包括具有两个接地接触片、两个线路导体接触片和一个中性导体接触片的接触头。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的适配器的接地接触片中的一个被向上弹簧偏压，并且另一个接地接触片从接触头的一侧向外延伸。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的线路导体接触片中的至少一个垂直地设置在另一个线路导体接触片上方。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，除了彼此垂直移位之外，线路导体接触片相对于彼此以大致直角向外或从接触头本体指向。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的接触头包括两对竖直移位的槽。 较低的一对相对的槽用于容纳至少一个当前可用轨道的第一和第二凸缘。 上部一对相对的槽旨在容纳至少两个当前可用轨道的第一和第二凸缘。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，第二上部对相对的槽具有不同的厚度，用于接合具有不同厚度的轨道的第一和第二凸缘。 更具体地，在一个实施例中，第二上部对相对槽包括一个较宽槽和一个较窄槽，因为当前可用轨道中的至少两个具有一个厚凸缘和一个薄凸缘。 所述厚壁架容纳在所述厚上部狭槽中，并且所述薄壁架容纳在所述薄上部狭槽中。 此外，采用两个不同厚度的上槽提供了自动极性匹配机构，因为接触头不能以错误的方式旋转，因为厚的凸缘不能容纳在薄的上槽中。</base:Paragraphs>
+      <base:Paragraphs>本发明还提供了一种用于轨道灯具适配器的改进的接地机构。 本发明的地面接触机构包括弹簧杆，该弹簧杆具有在向上方向上偏压的上端和连接到用于将该机构附接到适配器的夹子的下端，该夹子还连接到接地柱，该接地柱包括向上延伸的刮削器端。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的地面接触机构的弹簧杆用于将地面接触凸片向上偏置抵靠当前可用轨道的顶壁。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，接地接触片接合至少一个当前可用轨道的单独中性导体。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，本发明的地面接触机构的接地柱的刮刀端部提供具有至少一个当前可用轨道的凸台的地面接触。</base:Paragraphs>
+      <base:Paragraphs>本发明还提供了一种用于轨道灯具适配器的改进的密码锁环和防震器。 锁定环包括环形基环，该环形基环包括两个向上延伸且相对的突片。 锁定环的突片容纳在至少三个当前可用的轨道的中心通道中，并且当导体突片就位并与轨道的导线接合时，防止指状物接合适配器的导体突片。</base:Paragraphs>
+      <base:Paragraphs>在一个实施例中，锁定环的向上延伸的突片包括窄的顶部部分和宽的底部部分。 窄的顶部足够窄，以便容纳在至少三个当前可用的轨道配置的开口中，宽的底部选择性地比至少两个当前可用的轨道配置的中心开口宽。</base:Paragraphs>
+      <base:Paragraphs>本发明还提供了一种用于适配器的改进的壳体，该适配器用于将轨道灯具连接到不同的轨道构造。 壳体包括具有底部的外壳，该底部具有开口，将灯具电连接到适配器的接触头的两根电线穿过该开口。 所述壳体还包括竖直壁，所述竖直壁具有两个向上延伸的柱，所述两个向上延伸的柱彼此间隔开并且与所述壁间隔开。 导线中的一根在连接到接触头之前向上延伸并围绕所述柱中的一个，另一根导线在连接到接触头之前向上延伸并围绕所述柱中的另一个。 在导线连接到接触头之后，在应力施加到导线的情况下，导线和柱之间的接合提供了绳锁定和应变消除。</base:Paragraphs>
+      <base:Paragraphs>本发明的优点在于，它提供了一种用于轨道灯具的适配器，该适配器使得灯具能够连接到三种当前可用的轨道配置中的任何一种。</base:Paragraphs>
+      <base:Paragraphs>本发明的另一个优点是提供了一种用于轨道灯具的适配器，其具有改进的防冲击性。</base:Paragraphs>
+      <base:Paragraphs>本发明的另一个优点是提供了一种用于轨道灯具的适配器，其在灯具和轨道之间具有自动极性匹配。</base:Paragraphs>
+      <base:Paragraphs>本发明的又一个优点在于，它提供了一种用于轨道照明器材的适配器，该适配器使得该器材能够用于多种不同的轨道构造中。</base:Paragraphs>
+      <base:Paragraphs>本发明的又一个优点是，它使配备有根据本发明制造的适配器的轨道灯具在至少三种当前可用的轨道配置之间可互换。</base:Paragraphs>
+      <base:Paragraphs>本发明的另一个优点是它为不同的轨道结构提供了一种改进的接地机构。</base:Paragraphs>
+      <base:Paragraphs>本发明的另一个优点是提供了一种用于轨道灯具的适配器的改进的壳体，其为将轨道灯具连接到适配器的接触头的导线提供了改进的应变消除。</base:Paragraphs>
+      <base:Paragraphs>通过阅读以下详细描述和所附权利要求并参考附图，本发明的其他目的和优点将变得显而易见。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs>附图说明</base:Paragraphs>
+      <base:Paragraphs>为了更完整地理解本发明，现在应该参考在附图中更详细地示出并通过本发明的示例在下面描述的实施例。</base:Paragraphs>
+      <base:Paragraphs>图1是根据本发明制造的适配器的透视图。</base:Paragraphs>
+      <base:Paragraphs>图1A是图1的适配器的另一局部透视图。</base:Paragraphs>
+      <base:Paragraphs>图2是图1中所示的适配器的分解透视图。</base:Paragraphs>
+      <base:Paragraphs>图3是当前可用的轨道的端视图，其中本发明的图1的适配器插入轨道的中心通道中。</base:Paragraphs>
+      <base:Paragraphs>图4是图3中所示的轨道和适配器的另一端视图。</base:Paragraphs>
+      <base:Paragraphs>图5是图3中所示的轨道和适配器的另一端视图。</base:Paragraphs>
+      <base:Paragraphs>图6是第二当前可用轨道的端视图，其中图1的适配器插入轨道的中心通道中。</base:Paragraphs>
+      <base:Paragraphs>图7是图6的轨道和适配器的另一端视图。</base:Paragraphs>
+      <base:Paragraphs>图8是图6的轨道和适配器的另一端视图。</base:Paragraphs>
+      <base:Paragraphs>图9是第三当前可用轨道的端视图，其中图1的适配器插入轨道的中心通道中。</base:Paragraphs>
+      <base:Paragraphs>图10是图9的轨道和适配器的另一端视图。</base:Paragraphs>
+      <base:Paragraphs>图11是图9的轨道和适配器的另一端视图。</base:Paragraphs>
+      <base:Paragraphs>图12是本发明的适配器的接触头的平面图。</base:Paragraphs>
+      <base:Paragraphs>图13是图9的接触头的正视图。</base:Paragraphs>
+      <base:Paragraphs>图14是沿图12的线14-14截取的截面图。</base:Paragraphs>
+      <base:Paragraphs>图15是沿图12的线15-15截取的截面图。</base:Paragraphs>
+      <base:Paragraphs>图16是图12的接触头的仰视平面图。</base:Paragraphs>
+      <base:Paragraphs>图17是沿图13的线17-17截取的截面图。</base:Paragraphs>
+      <base:Paragraphs>图18是沿图13的线18-18截取的截面图。</base:Paragraphs>
+      <base:Paragraphs>图19是本发明的适配器的滑动锁定轴环的俯视图。</base:Paragraphs>
+      <base:Paragraphs>图20是图19的滑动锁定套环的前剖视图。</base:Paragraphs>
+      <base:Paragraphs>图21是本发明的适配器的锁定环的俯视平面图。</base:Paragraphs>
+      <base:Paragraphs>图22是图21的锁定环的前视图。</base:Paragraphs>
+      <base:Paragraphs>图23是图21的锁定环的侧视图。</base:Paragraphs>
+      <base:Paragraphs>图24是本发明的适配器的主壳体的俯视平面图。</base:Paragraphs>
+      <base:Paragraphs>图25是沿图24的线25-25截取的截面图。</base:Paragraphs>
+      <base:Paragraphs>图26是图24的主壳体的仰视平面图。</base:Paragraphs>
+      <base:Paragraphs>应当理解，附图不一定按比例绘制，并且实施例有时通过图形符号、虚线、图解表示和局部视图来示出。 在某些情况下，可能已经省略了对于理解本发明不是必需的或使得其他细节难以理解的细节。 当然，应当理解，本发明不一定限于本文所示的特定实施例。</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:Disclosure>
+      <base:Paragraphs>具体实施方式</base:Paragraphs>
+      <base:Paragraphs>首先转到图1，示出了根据本发明制造的适配器10的透视图。 适配器10包括穿过滑动锁定套环12的主壳体11。 主壳体还容纳并连接到接触头13，接触头13的顶端容纳在锁定环14内。 这些主要部分在图2所示的分解图中进一步更详细地示出。 图1A提供了从与图1的角度相反的角度观察的适配器10的局部透视图，并且特别地示出了地面刮削器触点27，这将在下面详细讨论。</base:Paragraphs>
+      <base:Paragraphs>转到图2，锁定环14包括两个向上突出的突片15、16。 突片15、16各自分别包括较窄的上部17、18，较窄的上部17、18分别从较宽的底部18、19向上延伸。 具有较窄部分17、18和较宽部分19、20的突片15、16允许滑动锁定套环选择性地装配在下面在图3-11中示出的三种当前可用的轨道构造中的任何一种内。</base:Paragraphs>
+      <base:Paragraphs>返回图2，适配器10还包括三个接触片22、23、24。 接触片22、23是用于接合迹线的线路导体的片，如图3-11中进一步所示，而接触片24接合图3-11中所示的所有三个迹线的中性导体。 返回到图2，如图所示的适配器10还包括第一接地触点突片25，如图3-5所示，该第一接地触点突片接合轨道的顶壁以使灯具接地，或者如图6-8所示，该第一接地触点突片接合单独的接地导体。 适配器10还包括呈单独的向上延伸的接地柱26形式的第二接地触点，其具有用于接合轨道的壁架或侧轨的上刮擦端27，如图7-8和10-11所示。 接地柱26连接到U形夹28，该U形夹28也连接到以29示出的弹簧臂。 弹簧臂29包括上远端30，该上远端30在组装时容纳在设置在接地接触片25的下端处的槽32中。 弹簧臂29向上偏压接地接触片25，使得它可以接合轨道的顶壁，如图3-5所示。</base:Paragraphs>
+      <base:Paragraphs>中性导体接触片24包括设置在其下端的孔33，并且线路导体接触片22还包括设置在其下端的孔34，用于附接到来自灯具（未示出）的中性端线路引线（未示出）。 如图1所示，线路导体接触片22、23以堆叠关系布置在接触头本体13内。 在替代实施例中，接触片22、23可以由单件金属制成或者彼此预先附接。</base:Paragraphs>
+      <base:Paragraphs>仍然参考图2，接触头13包括向下延伸的舌片35，舌片35容纳在设置在壳体11中的槽36中，以便于组装。 除了用于容纳线路导体接触片22、23、中性导体接触片24、接地接触片25和接地刮削器元件27的必要槽之外，接触头本体13还包括多个槽和止挡屏障，这些槽和止挡屏障在下面结合图12-15描述。</base:Paragraphs>
+      <base:Paragraphs>仍然主要参考图2，主壳体11提供接触头13和灯具（未示出）之间的连接。 具体地，衬套37设置有两个孔38、39，这两个孔38、39容纳将衬套附接到固定装置的螺钉41、42。 螺钉41、42穿过垫圈45的孔43、44，垫圈45还包括用于容纳灯具（未示出）的引线的中心孔46。 该垫圈设置在波浪形或波状垫圈47的顶部上，该波浪形或波状垫圈47对垫圈45和衬套37之间的枢转连接提供一定的阻力，使得固定装置保持其位置并且不会由于正常的家庭或环境振动而旋转或移位。 具有接地连接片49的附加垫圈48设置在波形垫圈47和偏心环51之间。 偏心环51骑在衬套37的凸缘52的顶部上，并且由于偏心环51上的凸片53与设置在衬套37上的台阶54的接合而提供小于360°的旋转。 然而，提供了超过360°的旋转，因为偏心环51相对于壳体11的底部55自由旋转，直到图2中的56、57处所示的偏心环51上的台阶中的一个与图26中的58处所示的台阶接合。 弹簧125、126设置在具有底部（参见图24和26）的竖直通道59、60中，并且与设置在肋62、63的下端处的键121、122接合，肋62、63设置在滑动套环12的角部中。 因此，套环12在向上方向上偏置，并且适配器10的移除和/或安装需要套环12的初始下拉。 肋62、63可滑动地接合设置在接触头本体13的对角相对的角部中的凹口64、65。</base:Paragraphs>
+      <base:Paragraphs>如上所述，本发明解决的问题是当前可用的轨道灯具不能装配或附接到除了灯具制造商制造的轨道之外的轨道，因为制造商有意地修改了其轨道的设计，使得由其他制造商制造的灯具和不是为其轨道专门设计的灯具不能用作替换灯具。 具体地，图3-9示出了三个不同的轨道。 图3-5提供了以CAPRI商标销售的轨道的端视图。 图6-8提供了以HALO商标销售的轨道的端视图。 图9-11提供了以JUNO商标销售的轨道的端视图。 如下所述，每个轨道被不同地构造并且对适配器10施加单独的要求。</base:Paragraphs>
+      <base:Paragraphs>具体地参照图3至图5，卡普里轨道66包括具有向下延伸的第一臂68和第二臂69的中心壁或顶壁67。 每个臂68、69包括向内延伸的凸缘72、73，凸缘72、73限定了一个中心通道，本发明的适配器10通过该中心通道插入。 轨道66还包括容纳线路导体元件76、77和中性导体元件78、79的W形插入件74、75。 插入件74、75通过向上突出的延伸部81、82支撑在凸缘72、73上方。 因此，如图3-5所示的轨道66包括两个线路导体76、77和两个负导体78、79。 轨道66也接地，并且如图3-5所示，当向上突出的接地突片25与顶壁67接触时，轨道66用作灯具的接地。</base:Paragraphs>
+      <base:Paragraphs>为了将适配器10插入图3-6所示的轨道66中，向下拉动滑动锁定轴环12，如图3-4所示。 接触头13和锁定环14的两个凸片15、16已经插入穿过轨道66的中心通道。 图3中仅示出了突片15； 为清楚起见，突片15已从图4和图5中移除。 在正确对准的接触头13已经插入穿过中心通道之后，如图3和图4所示，适配器10从向上朝向天花板的消费者的角度向右或顺时针方向扭转以安装灯具。 该旋转运动使线路导体接触片22接合导体76，并进一步使中性导体接触片24接合中性导体79。</base:Paragraphs>
+      <base:Paragraphs>因此，如图5所示，在下部设置的线路导体接触片22接合线路导体76并且中性导体接触片24接合中性导体79并且进一步地接地接触片25接合顶壁67的情况下，在固定装置（未示出）和轨道66之间形成适当的电连接。 仍然参考图5，可以看出，接触头13还包括在图5和图15中以83和84示出的两个下部相对槽。 这些下部相对的槽被设计成容纳结合到轨道66的设计中的相对薄的凸缘72、73。 从图5还将注意到，附接到夹子28（参见图2）的地面刮削器元件27不用于轨道66。 相反，弹簧臂29（参见图2）向上偏压接地接触片25，使得其接合轨道66的顶壁67。 此外，一旦如图5所示进行连接，滑动锁定轴环12就被向上偏置到图5所示的位置。</base:Paragraphs>
+      <base:Paragraphs>相反，如图6至图8所示，晕圈轨道86包括与图3至图5所示的轨道66不同的配置。 虽然轨道86还包括顶壁87和终止于向内延伸的凸缘91、92中的向下延伸的第一臂88和第二臂89，但是类似物终止于那里。 具体地，轨道86包括两个不同构造的插入件93、94。 插入件93容纳线路导体95和单独的接地导体96。 相反，插入件94容纳线路导体97。 此外，凸耳91、92的厚度不像轨道66的凸耳72、73那样均匀。 相比之下，如图6至图8所示，凸缘92比凸缘91厚，并且因此，插入件94的覆盖凸缘92的部分的厚度大于插入件93的覆盖凸缘91的部分的厚度。</base:Paragraphs>
+      <base:Paragraphs>为了适应这种设计特征，如图8所示，接触头13包括一对相对的上槽98、99，如图8和14所示。 狭槽99容纳在凸缘92上，并且狭槽98容纳在较薄的凸缘91上。 这些狭槽98、99的取向还防止适配器10以错误的方式或以错误的极性安装。 具体地，因为凸耳92和插入件94的覆盖凸耳92的部分太厚而不能容纳在狭槽98中，所以以错误的方式插入适配器10或相对于适当的对准旋转180°的任何尝试将导致较薄的狭槽98与较厚的凸耳92对准。 因为较厚的凸缘92不能容纳在较薄的槽98中，所以接触头主体13的以101示出的部分用作止挡屏障，并且当适配器10以错误的方式或相对于正确对准的180°异相地插入穿过轨道86的中心通道时，防止适配器10的旋转。</base:Paragraphs>
+      <base:Paragraphs>如图7和图8所示，在为了清楚起见移除了向上突出的凸片16和接触环14的情况下，接触头13（以及接触环14的凸片15、16)插入穿过轨道86的中心通道。 然后，适配器10或灯具从仰视图或站在通常安装在天花板（未示出）上的轨道86下方的地板上的消费者的视图逆时针旋转。 该旋转使得接地导体突片25接合接地导体96并且使得中性导体接触突片24接合中性导体95。 此外，尽管在图8中仅部分地示出，但是线路导体接触片23已经摆动以接合线路导体97。 应当注意，与槽83结合使用以将适配器10连接到轨道66的槽84不用于将适配器10连接到轨道86，因为下槽83、84设置在轨道86的凸缘91、92下方。</base:Paragraphs>
+      <base:Paragraphs>图6-8中所示的附加特征是使用突片16的上部较窄部分18和突片16的下部较宽部分20。 应当注意，轨道86的中心通道比轨道66的中心通道窄。 因此，突片16的下部较宽部分20不能配合穿过中心通道，而是被凸缘91、92和插入件93、94的分别覆盖凸缘91、92的部分阻挡。 然而，突片16的下部较宽部分20（以及突片15的下部较宽部分19--图6中未示出）用作对准引导件，并确保接地导体接触突片25与接地导体96适当地对准，并且确保中性导体接触突片24和线路导体接触突片23分别与中性导体95和线路导体97适当地对准。 因此，突片15、16的构造确保适配器10插入轨道86中的适当深度，并且通道98、99的构造确保适配器10只能以正确的极性连接。</base:Paragraphs>
+      <base:Paragraphs>转到图9-11，示出了以JUNO商标销售的轨道103的横截面。 虽然轨道103具有大致H形的横截面，但是轨道103的下半部还包括中心壁104和向下延伸的第一壁105和第二壁106，第一壁105和第二壁106终止于分别类似于图3-5和6-8中所示的轨道66和86的向内延伸的凸缘107、108。 然而，同样，相似性在那里结束。 具体地，每个凸缘107、108分别终止于向上突出的唇缘109、110。 唇缘109比唇缘110更短或更薄。 没有绝缘材料覆盖凸缘107、108或唇缘109、110。 采用容纳中性导体113和线路导体114的单个插入件112。 虽然轨道103的中心通道的宽度通常与轨道86的中心通道相同，但是轨道103的通道的深度基本上比轨道86和66的通道的深度浅。 然而，尽管存在这些差异，但是适配器10在灯具与轨道103之间提供机械和电连接，就像它在灯具与轨道86和66之间那样。</base:Paragraphs>
+      <base:Paragraphs>具体地，参考图9，接触头本体13连同锁定环14的突片15、16一起向上插入穿过轨道103的中心通道。 一旦插入，如果获得正确的构造，则固定装置或适配器10从站立在地板上的用户的视点沿逆时针方向旋转到图11所示的位置。 在图11所示的位置中，设置在柱26的端部处的地面刮擦元件27（参见图2）已经刮擦地接合突出部107的唇缘109以提供地面接触。 中性导体接触片24与中性导体113对准并且接合中性导体113。 虽然在图11中仅部分地示出，但是线路导体接触片23已经围绕线路导体114摆动并且与线路导体114对准并且接合线路导体114。 因此，在接地刮板27接合突出部107的唇缘109并且中性导体接触片24接合中性导体113并且最后线路导体接触片23接合线路导体114的情况下，适配器10已经提供了灯具（未示出）和轨道103之间的电连接。</base:Paragraphs>
+      <base:Paragraphs>因为下凹口或通道99必须容纳较宽的唇缘110，所以只有一种方式将适配器10连接到轨道103。 连接适配器10的任何尝试偏离180度的取向。 学位 将导致较窄的通道98与唇缘110对准，这将导致止挡屏障101接合唇缘110并防止适配器10的旋转，如上面关于图8和轨道86所讨论的。</base:Paragraphs>
+      <base:Paragraphs>图12-18进一步示出了接触头13。 具体地，以64、65示出的凹口容纳滑动锁定轴环12的肋62、63。 以116示出的槽容纳线路导体接触片23以及线路导体接触片22。 较窄的槽117可滑动地容纳接地导体接触片25，并且槽118容纳中性导体接触片24。 参考图13，舌状物119容纳在设置在主壳体11中的狭槽120中（参见图2）。 接触头13的附加设计细节在图14-18中示出。</base:Paragraphs>
+      <base:Paragraphs>在图19和图20中进一步示出了滑动锁定套环12。 以121、122示出的键容纳在主壳体11的通道59、60内（也参见图2和图24）。 以62、63示出的肋容纳在设置在主壳体11中的开口123、124中（也参见图2和图24）。 键121、122支撑在图2中以125、126示出的弹簧的下端，其向套环12提供弹簧偏置。 锁定环14在图21-23中进一步示出。 狭槽127-130分别容纳锁定轴环12的肋66、63、67、62。</base:Paragraphs>
+      <base:Paragraphs>主壳体11的细节在图24-25中进一步示出。 壳体11包括底部开口133，底部开口133容纳衬套37的顶部（参见图2）和将灯具连接到接触头13的电线。 壳体11的内部还包括两个向上延伸的柱134、135，来自灯具的引线136、137在连接到接触头处的导体接触片24、22的孔33、34之前环绕在柱134、135周围。 导线136、137围绕柱134、135的这种成环为导线134、135提供了优异的拉出保护和应变消除，并确保灯具和接触头13之间的连接将是持久且耐用的。</base:Paragraphs>
+      <base:Paragraphs>因此，已经提供了单个适配器10，其将在灯具和三个不同构造的轨道66、86和103之间提供电气和机械连接。 虽然仅示出和描述了三个轨道66、86和103，但是可以预期，适配器10还将提供与当前可用或将来将变得可用的其他轨道和轨道系统的电连接和机械连接。 因此，预期适配器10的使用不限于如图3-11所示的轨道66、86和103。</base:Paragraphs>
+      <base:Paragraphs>根据以上描述，显而易见的是，已经实现了本发明的目的。 虽然仅阐述了单个实施例，但是对于本领域技术人员来说，替代实施例和各种修改将从上述描述中显而易见。 这些和其他替代方案被认为是等同物并且在本发明的精神和范围内。</base:Paragraphs>
+    </business:Disclosure>
+  </business:Description>
+  <business:Claims dataFormat="original" sourceDB="US" lang="en">
+    <base:Paragraphs>权利要求是：</base:Paragraphs>
+    <base:Paragraphs>1. 轨道照明适配器，其用于将轨道灯具机械地和电气地连接到多个不同配置的轨道，所述轨道中的每一个具有至少两个导体和一个接地，</base:Paragraphs>
+    <base:Paragraphs>所述适配器包括三个导体接触片和两个接地接触片，当所述适配器机械和电连接到所述轨道中的一个时，所述三个导体接触片中的仅两个接合导体，并且所述三个导体接触片中的另一个不接合任何导体，并且当所述适配器机械和电连接到所述轨道中的一个时，所述两个接地接触片中的仅一个接合接地，并且所述两个接地接触片中的另一个不接合任何接地。</base:Paragraphs>
+    <base:Paragraphs>2. 轨道照明适配器，其用于将轨道灯具机械地和电气地连接到多个不同配置的轨道中的任何一个，所述轨道具有：</base:Paragraphs>
+    <base:Paragraphs>顶壁，所述顶壁设置在第一和第二向下延伸的臂之间，所述第一臂连接向内延伸的第一突出部，所述第二臂连接向内延伸的第二突出部，所述第一和第二向内延伸的突出部限定中心通道，线路导体容纳在所述第一突出部和所述顶壁之间在所述第一突出部上方第一预定距离处，中性导体容纳在所述第二突出部和所述顶壁之间在所述第二突出部上方第二预定距离处，所述第一突出部具有第一厚度，所述第二突出部具有第二厚度， 以及接地导体，</base:Paragraphs>
+    <base:Paragraphs>其中所述多个不同配置的轨道中的每一个的所述第一预定距离、所述第二预定距离、所述第一厚度和所述第二厚度中的至少一个彼此不同，</base:Paragraphs>
+    <base:Paragraphs>所述适配器包括：</base:Paragraphs>
+    <base:Paragraphs>接触头，所述接触头包括顶端和底端，所述顶端用于通过所述中心通道插入所述轨道，所述底端用于连接到主壳体，</base:Paragraphs>
+    <base:Paragraphs>所述接触头的顶端包括第一接地触点突片，所述第一接地触点突片被向上弹簧偏压以用于接合所述轨道中的至少一个轨道的顶壁，所述顶端还包括第二接地触点突片，所述第二接地触点突片用于接合所述轨道中的至少一个轨道的凸缘中的一个凸缘，</base:Paragraphs>
+    <base:Paragraphs>接触头的顶端还包括用于接合所述迹线的线路导体的两个线路导体接触片和用于接合所述迹线的中性导体的至少一个中性导体接触片，所述线路导体接触片中的一个从所述线路导体接触片中的另一个竖直移位。</base:Paragraphs>
+    <base:Paragraphs>3. 根据权利要求2所述的适配器，其中，所述线路导体接触片设置在所述接触头的顶端的与所述中性导体接触片相对的一侧上。</base:Paragraphs>
+    <base:Paragraphs>4. 根据权利要求2所述的适配器，其中，所述接触头的顶端还包括用于接合所述轨道中的至少一个轨道的第一凸耳和第二凸耳的第一对下部相对狭槽和用于接合所述轨道中的至少一个轨道的第一凸耳和第二凸耳的第二对上部相对狭槽，所述第二对上部相对狭槽中的一个相对狭槽比所述第二对上部相对狭槽中的另一个相对狭槽宽，用于容纳至少两种不同的轨道构造。</base:Paragraphs>
+    <base:Paragraphs>5. 根据权利要求2所述的适配器，其中，所述接触头的顶端还包括用于接合所述轨道中的至少一个轨道的第一凸耳和第二凸耳的第一对下部相对狭槽和用于接合所述轨道中的至少两个轨道的第一凸耳和第二凸耳的第二对上部相对狭槽，所述第二对上部相对狭槽设置在所述第一对下部相对狭槽上方， 所述第二上部对相对的槽中的一个比所述第二上部对相对的槽中的另一个宽，用于容纳至少两种不同的轨道构造。</base:Paragraphs>
+    <base:Paragraphs>6. 根据权利要求2所述的适配器，还包括安装在所述接触头的顶端上方的锁定环，所述锁定环包括用于容纳所述接触头的顶端的环形基部和两个向上延伸且相对的凸片，所述凸片容纳在所述轨道的中心通道中。</base:Paragraphs>
+    <base:Paragraphs>7. 根据权利要求6所述的适配器，其中，所述锁定环的每个所述凸片还包括窄顶部和宽底部，所述窄顶部容纳在所有所述轨道的中心通道中，所述宽底部容纳在所述轨道的至少一个中心通道中，并且选择性地比至少两个所述轨道的中心通道宽。</base:Paragraphs>
+    <base:Paragraphs>8. 根据权利要求2所述的适配器，其中，所述接触头还包括至少一个止挡屏障，用于阻止所述线路导体接触片接合轨道的中性导体。</base:Paragraphs>
+    <base:Paragraphs>9. 根据权利要求2所述的适配器，其中，所述接触头还包括至少一个止挡屏障，用于阻止所述中性导体接触片接合轨道的所述线路导体。</base:Paragraphs>
+    <base:Paragraphs>10. 轨道照明适配器，其用于将轨道灯具机械地和电气地连接到多个不同配置的轨道中的任何一个，所述轨道具有：</base:Paragraphs>
+    <base:Paragraphs>顶壁，所述顶壁设置在第一和第二向下延伸的臂之间，所述第一臂连接向内延伸的第一突出部，所述第二臂连接向内延伸的第二突出部，所述第一和第二向内延伸的突出部限定中心通道，线路导体容纳在所述第一突出部和所述顶壁之间在所述第一突出部上方第一预定距离处，中性导体容纳在所述第二突出部和所述顶壁之间在所述第二突出部上方第二预定距离处，所述第一突出部具有第一厚度，所述第二突出部具有第二厚度， 以及接地导体，</base:Paragraphs>
+    <base:Paragraphs>其中所述多个不同配置的轨道中的每一个的所述第一预定距离、所述第二预定距离、所述第一厚度和所述第二厚度中的至少一个彼此不同，</base:Paragraphs>
+    <base:Paragraphs>所述适配器包括：</base:Paragraphs>
+    <base:Paragraphs>接触头，所述接触头包括顶端和底端，所述顶端用于通过所述中心通道插入所述轨道，所述底端用于连接到主壳体，</base:Paragraphs>
+    <base:Paragraphs>所述接触头的顶端包括用于接合所述迹线的一个线路导体的两个线路导体接触片和用于接合所述迹线的一个中性导体的至少一个中性导体接触片，所述线路导体接触片中的一个从所述线路导体接触片中的另一个竖直移位，所述接触头的顶端还包括第一接地接触片，所述第一接地接触片被向上弹簧偏压以接合所述迹线中的至少一个的顶壁， 所述顶端还包括用于接合所述轨道中的至少一个轨道的突出部中的一个突出部的第二接地接触突片。</base:Paragraphs>
+    <base:Paragraphs>11. 根据权利要求10所述的适配器，其中，所述线路导体接触片设置在所述接触头的顶端的与所述中性导体接触片相对的一侧上。</base:Paragraphs>
+    <base:Paragraphs>12. 根据权利要求10所述的适配器，其中，所述接触头的顶端还包括用于接合所述轨道中的至少一个轨道的所述第一凸耳和所述第二凸耳的第一对下部相对狭槽和用于接合所述轨道中的至少一个轨道的所述第一凸耳和所述第二凸耳的第二对上部相对狭槽。</base:Paragraphs>
+    <base:Paragraphs>13. 根据权利要求10所述的适配器，其中，所述接触头的顶端还包括用于接合所述轨道中的至少一个轨道的第一凸耳和第二凸耳的第一对下部相对狭槽和用于接合所述轨道中的至少两个轨道的第一凸耳和第二凸耳的第二对上部相对狭槽，所述第二对上部相对狭槽设置在所述第一对下部相对狭槽上方。</base:Paragraphs>
+    <base:Paragraphs>14. 根据权利要求10所述的适配器，还包括安装在所述接触头的顶端上方的锁定环，所述锁定环包括用于容纳所述接触头的顶端的环形基部和两个向上延伸且相对的凸片，所述凸片容纳在所述轨道的中心通道中。</base:Paragraphs>
+    <base:Paragraphs>15. 根据权利要求14所述的适配器，其中，所述锁定环的每个所述凸片还包括窄顶部和宽底部，所述窄顶部容纳在所有所述轨道的中心通道中，所述宽底部容纳在所述轨道的至少一个中心通道中，并且选择性地比至少两个所述轨道的中心通道宽。</base:Paragraphs>
+    <base:Paragraphs>16. 根据权利要求10所述的适配器，其中，所述接触头还包括至少一个止挡屏障，用于阻止所述线路导体接触片接合轨道的中性导体。</base:Paragraphs>
+    <base:Paragraphs>17. 根据权利要求10所述的适配器，其中，所述接触头还包括至少一个止挡屏障，用于阻止所述中性导体接触片接合轨道的所述线路导体。</base:Paragraphs>
+    <base:Paragraphs>18. 一种轨道照明适配器，用于在沿着轨道的任何给定点处向轨道照明器材提供电力，所述轨道具有三种配置中的一种，每个轨道具有线路导体、中性导体和接地，所述连接装置包括：</base:Paragraphs>
+    <base:Paragraphs>触头，所述触头包括两个接地触头突片、两个线路导体触头突片和一个中性导体触头突片，</base:Paragraphs>
+    <base:Paragraphs>所述接地接触片中的一个被向上弹簧偏压，并且所述接地接触片中的另一个从所述接触头的一侧向外延伸，</base:Paragraphs>
+    <base:Paragraphs>所述线路导体接触片中的至少一个从所述线路导体接触片中的另一个竖直移位，当所述适配器机械地和电气地连接到所述轨道时，所述接地接触片中的仅一个接合所述轨道的接地，并且所述接地接触片中的另一个不接合所述轨道， 以及当所述适配器机械地和电气地连接到所述轨道时，所述线路导体接触片中的仅一个接合所述轨道的所述线路导体，并且所述线路导体接触片中的另一个不接合所述轨道的任何线路导体。</base:Paragraphs>
+    <base:Paragraphs>19. 根据权利要求18所述的适配器，其中，所述接触头还包括顶端和底端，所述接触头的顶端还包括用于接合所述迹线中的至少一个迹线的第一凸耳和第二凸耳的第一对下部相对狭槽和用于接合所述迹线中的至少一个迹线的第一凸耳和第二凸耳的第二对上部相对狭槽。</base:Paragraphs>
+    <base:Paragraphs>20. 根据权利要求19所述的适配器，其中，所述第二上部对相对的狭槽具有不同的厚度，用于接合不同厚度的凸缘。</base:Paragraphs>
+    <base:Paragraphs>21. 根据权利要求18所述的适配器，其中，所述接触头还包括至少一个止挡屏障，用于阻止所述线路导体接触片接合轨道的中性导体。</base:Paragraphs>
+    <base:Paragraphs>22. 根据权利要求18所述的适配器，其中，所述接触头还包括至少一个止挡屏障，用于阻止所述中性导体接触片接合轨道的所述线路导体。</base:Paragraphs>
+    <base:Paragraphs>23. 根据权利要求18所述的适配器，还包括安装在所述接触头上方的锁定环，所述锁定环包括用于容纳所述接触头的顶端的环形基部和两个向上延伸且相对的凸片，所述凸片容纳在所述轨道的中心通道中。</base:Paragraphs>
+    <base:Paragraphs>24. 根据权利要求23所述的适配器，其中，所述锁定环的每个所述凸片还包括窄顶部和宽底部，所述窄顶部容纳在所有所述轨道的中心通道中，所述宽底部容纳在所述轨道的至少一个中心通道中，并且选择性地比至少两个所述轨道的中心通道宽。</base:Paragraphs>
+    <base:Paragraphs>25. 一种用于适配器的地面接触机构，所述适配器用于将轨道照明灯具连接到多个不同轨道构造中的任何一个，所述地面接触机构包括：</base:Paragraphs>
+    <base:Paragraphs>弹簧杆，所述弹簧杆包括在向上方向上偏置的上端和连接到用于将所述机构附接到所述适配器的夹子的下端，</base:Paragraphs>
+    <base:Paragraphs>所述夹具还连接到接地柱，所述接地柱包括向上延伸的刮刀端部。</base:Paragraphs>
+    <base:Paragraphs>26. 一种用于适配器的密码锁环和防震器，所述适配器用于将轨道照明灯具连接到多个不同轨道构造中的任何一个，所述轨道构造具有中心通道，导体设置在所述中心通道内，所述适配器包括至少两个接触突片，用于与所述导体进行电接触，所述密码锁环和防震器包括：</base:Paragraphs>
+    <base:Paragraphs>弹簧偏置的环形基环，所述弹簧偏置的环形基环包括两个向上延伸且相对的凸片，每个凸片包括连接到所述基环的宽底部部分和与所述基环相对地连接到所述宽底部部分的窄顶部部分，所述窄顶部部分容纳在所有所述轨道的中心通道中， 宽底部容纳在所述轨道的至少一个中心通道中，并且选择性地比至少两个所述轨道的中心通道宽，并且防止适配器的至少两个接触凸片被使用者的手指接合。</base:Paragraphs>
+    <base:Paragraphs>27. 轨道照明适配器，其用于将轨道灯具机械地和电气地连接到第一、第二和第三不同配置的轨道中的任何一个，所述第一、第二和第三不同配置的轨道具有：</base:Paragraphs>
+    <base:Paragraphs>顶壁，所述顶壁设置在第一和第二向下延伸的臂之间，所述第一臂连接向内延伸的第一突出部，所述第二臂连接向内延伸的第二突出部，所述第一和第二向内延伸的突出部限定中心通道，线路导体容纳在所述第一突出部和所述顶壁之间在所述第一突出部上方第一预定距离处，中性导体容纳在所述第二突出部和所述顶壁之间在所述第二突出部上方第二预定距离处，所述第一突出部具有第一厚度，所述第二突出部具有第二厚度， 以及接地导体，</base:Paragraphs>
+    <base:Paragraphs>其中所述第一轨道的所述第一预定距离与所述第二轨道和所述第三轨道的第一预定距离不同，所述第二轨道和所述第三轨道的所述第一预定距离大致相同，所述第一轨道、所述第二轨道和所述第三轨道的所述第二预定距离大致相同，所述第一轨道的所述第一厚度和所述第二厚度与所述第二轨道和所述第三轨道的所述第一厚度和所述第二厚度不同，所述第二轨道和所述第三轨道的所述第一厚度大致相同， 并且所述第二轨道和所述第三轨道的所述第二厚度大致相同，</base:Paragraphs>
+    <base:Paragraphs>所述适配器包括：</base:Paragraphs>
+    <base:Paragraphs>接触头，所述接触头包括顶端和底端，所述顶端用于通过所述中心通道插入所述轨道，所述底端用于连接到主壳体，</base:Paragraphs>
+    <base:Paragraphs>所述接触头的顶端包括第一接地接触凸片，所述第一接地接触凸片被向上弹簧偏置以用于接合所述轨道中的至少一个的顶壁，所述顶端还包括第二接地接触凸片，所述第二接地接触凸片用于接合所述轨道中的至少一个的凸耳中的一个，当所述适配器机械地和电气地连接到所述轨道时，所述接地接触凸片中的仅一个接合所述轨道，</base:Paragraphs>
+    <base:Paragraphs>所述接触头的顶端还包括用于接合所述迹线的线路导体的两个线路导体接触片和用于接合所述迹线的中性导体的至少一个中性导体接触片，所述线路导体接触片中的一个从所述线路导体接触片中的另一个竖直移位，使得当所述适配器机械和电连接到所述迹线时，所述线路导体接触片中的仅一个接合所述迹线的线路导体， 所述线路导体接触片设置在所述接触头的顶端的与所述中性导体接触片相对的一侧上，</base:Paragraphs>
+    <base:Paragraphs>接触头的顶端还包括用于接合所述轨道中的至少一个的第一和第二凸缘的第一对下部相对狭槽和用于接合所述轨道中的至少一个的第一和第二凸缘的第二对上部相对狭槽，第二对上部相对狭槽中的一个比第二对上部相对狭槽中的另一个宽，用于容纳至少两种不同的轨道配置。</base:Paragraphs>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

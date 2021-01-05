@@ -1,0 +1,1057 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000215581JP00020161272670AFULJA20160711JP00J.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127267" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127267</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127267</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000215581</base:DocNumber>
+        <base:Date>20151102</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015215581</base:DocNumber>
+        <base:Date>20151102</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>102014000194323</base:DocNumber>
+        <base:Date>20141230</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>KR</base:WIPOST3Code>
+        <base:DocNumber>10-2014-0194323</base:DocNumber>
+        <base:Date>20141230</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>786</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  29/786       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>336</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  21/336       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>329</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  21/329       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>872</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  29/872       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>868</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  29/868       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="6">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>861</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  29/861       20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="7">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>51</business:MainGroup>
+        <business:Subgroup>05</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  51/05        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="8">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>51</business:MainGroup>
+        <business:Subgroup>30</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  51/30        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="9">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>51</business:MainGroup>
+        <business:Subgroup>40</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  51/40        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="10">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>47</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  29/47        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="11">
+        <business:IPCVersionDate>20110101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>82</business:MainClass>
+        <business:Subclass>Y</business:Subclass>
+        <business:MainGroup>30</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B82Y  30/00        20110101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="12">
+        <business:IPCVersionDate>20110101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>82</business:MainClass>
+        <business:Subclass>Y</business:Subclass>
+        <business:MainGroup>40</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B82Y  40/00        20110101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01L29/78 618B</business:FI>
+      <business:FI type="secondary">H01L29/78 616K</business:FI>
+      <business:FI type="secondary">H01L29/78 617V</business:FI>
+      <business:FI type="secondary">H01L29/78 617J</business:FI>
+      <business:FI type="secondary">H01L29/78 618A</business:FI>
+      <business:FI type="secondary">H01L29/86 301P</business:FI>
+      <business:FI type="secondary">H01L29/86 301D</business:FI>
+      <business:FI type="secondary">H01L29/91 A</business:FI>
+      <business:FI type="secondary">H01L29/91 F</business:FI>
+      <business:FI type="secondary">H01L29/28 100A</business:FI>
+      <business:FI type="secondary">H01L29/28 250E</business:FI>
+      <business:FI type="secondary">H01L29/28 310E</business:FI>
+      <business:FI type="secondary">H01L29/48 D</business:FI>
+      <business:FI type="secondary">H01L29/48 F</business:FI>
+      <business:FI type="secondary">B82Y30/00</business:FI>
+      <business:FI type="secondary">B82Y40/00</business:FI>
+      <business:FClass>
+        <business:FTerm>4M104AA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M104AA09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M104BB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M104BB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M104BB08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M104BB36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M104DD51</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M104GG03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110AA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110AA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110AA16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110AA28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110CC07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110DD01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110DD05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110DD13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110DD14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110EE01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110EE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110EE42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110EE43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110FF01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110FF02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110FF03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110FF04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110FF27</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG19</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110GG42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110HK01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110HK02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F110HK32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4M104</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5F110</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">二次元物質層を含む電子素子、及びインクジェットプリンティングを利用した電子素子の製造方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>三星電子株式会社</base:Name>
+            <base:RegisteredNumber>390019839</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国京畿道水原市霊通区三星路１２９</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <base:AddressBook lang="en">
+            <base:Name>Ｓａｍｓｕｎｇ  Ｅｌｅｃｔｒｏｎｉｃｓ  Ｃｏ．，Ｌｔｄ．</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>１２９，Ｓａｍｓｕｎｇ－ｒｏ，Ｙｅｏｎｇｔｏｎｇ－ｇｕ，Ｓｕｗｏｎ－ｓｉ，Ｇｙｅｏｎｇｇｉ－ｄｏ，Ｒｅｐｕｂｌｉｃ  ｏｆ  Ｋｏｒｅａ</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>李  ▲民▼賢</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国京畿道水原市靈通區三星路１３０  三星綜合技術院内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>申  鉉振</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国京畿道水原市靈通區三星路１３０  三星綜合技術院内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>李  載昊</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国京畿道水原市靈通區三星路１３０  三星綜合技術院内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>金  ▲海▼龍</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大韓民国京畿道水原市靈通區三星路１３０  三星綜合技術院内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>阿部  達彦</base:Name>
+            <base:RegisteredNumber>100133400</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>実広  信哉</base:Name>
+            <base:RegisteredNumber>100110364</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>崔  允辰</base:Name>
+            <base:RegisteredNumber>100154922</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>木内  敬二</base:Name>
+            <base:RegisteredNumber>100140534</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>20</business:ClaimsCount>
+      <base:TotalPageCount>19</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】二次元物質層を含む電子素子、及びインクジェットプリンティングを利用した電子素子の製造方法を提供する。【解決手段】二次元物質層を含む電子素子、及びインクジェットプリンティングを利用した電子素子の製造方法に係り、該電子素子は、互いに離隔されるように設けられる第１電極及び第２電極と、該第１電極及び第２電極を連結するように設けられる二次元物質層と、を含み、該二次元物質層は、そのそれぞれが少なくとも一部が互いに重畳された複数の二次元ナノ物質を含む。【選択図】図１</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="59" wi="69" file="2016127267_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、二次元物質層を含む電子素子、及びインクジェットプリンティングを利用した電子素子の製造方法に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  グラフェンは、炭素原子が二次元的に連結された構造を有する物質であり、原子サイズレベルの非常に薄い厚みを有している。かようなグラフェンは、シリコン（Ｓｉ）に比べ、高い電子移動度及び優秀な熱特性を有し、化学的に安定しており、表面積が広いという長所を有している。しかし、グラフェンは、バンドギャップ（ｂａｎｄｇａｐ）が０ｅＶであるために、グラフェンを利用して製作されたトランジスタは、低いオン／オフ電流比を有する。そのために、高い待機電流（ｓｔａｎｄｂｙ  ｃｕｒｒｅｎｔ）が生じることにより、トランジスタ素子の動作効率が低下する。それを解決するための方案として、グラフェンを改質する方法が提案されたが、かようなグラフェン改質方法は、オン／オフ電流比を高めるが、オン電流密度や移動度を低下させ、工程費用も増加させるという問題がある。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0003">
+  本発明が解決しようとする課題は、二次元物質層を含む電子素子、及びインクジェットプリンティングを利用した電子素子の製造方法を提供することである。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0004">
+  前記課題を解決するために、本発明の一側面において、互いに離隔されるように設けられる第１電極及び第２電極；前記第１電極及び第２電極を連結するように設けられるものであり、そのそれぞれが少なくとも一部が互いに重畳された複数の二次元ナノ物質（２Ｄ  ｎａｎｏ  ｍａｔｅｒｉａｌ）を含む二次元物質層（２Ｄ  ｍａｔｅｒｉａｌ  ｌａｙｅｒ）；を含む電子素子が提供される。
+  前記二次元ナノ物質は、半導体特性を有することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0005">
+  前記二次元物質層は、導電性物質をさらに含んでもよい。前記導電性物質は、例えば、グラフェン（ｇｒａｐｈｅｎｅ）、導電性粒子、導電性ナノチューブ及び導電性ナノワイヤのうち少なくとも一つを含んでもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0006">
+  前記二次元物質層は、ドーピング物質（ｄｏｐａｎｔ）をさらに含んでもよい。前記二次元物質層は、チャネル層を含んでもよい。その場合、前記電子素子は、前記二次元物質層に設けられるゲート絶縁層、及び前記ゲート絶縁層に設けられるゲート電極をさらに含んでもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  前記第１電極及び第２電極と前記二次元物質層との間に、ショットキー接合（Ｓｃｈｏｔｔｋｙ  ｊｕｎｃｔｉｏｎ）が形成されてもよい。前記二次元ナノ物質間に、ｐ－ｎ接合（ｐ－ｎ  ｊｕｎｃｔｉｏｎ）が形成されてもよい。
+  前記二次元ナノ物質それぞれは、単層または複層の構造を有することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  前記二次元ナノ物質は、ＴＭＤ（ｔｒａｎｓｉｔｉｏｎ  ｍｅｔａｌ  ｄｉｃｈａｌｃｏｇｅｎｉｄｅ）、ホスホレン（ｂｌａｃｋ  ｐｈｏｓｐｈｏｒｕｓ）、ｇｅｒｍａｎａｎｅ及びシリセンからなるグループで選択された少なくとも一つを含んでもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  前記課題を解決するために、本発明の他の側面において、半導体特性を有し、そのそれぞれが少なくとも一部が互いに重畳された複数の二次元ナノ物質を含む二次元物質層を、インクジェットプリンティングを利用して、基板に形成する段階と、前記二次元物質層に連結される第１電極及び第２電極を形成する段階と、を含む電子素子の製造方法が提供される。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  前記二次元物質層を形成する段階は、前記基板に溶媒及び前記二次元ナノ物質を含むインクを吐出させてインクパターンを形成する段階と、前記インクパターンを乾燥させ、前記二次元物質層を形成する段階と、を含んでもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  前記溶媒に対する前記二次元ナノ物質の混合比率は、１μｇ／ｍＬ～１００ｍｇ／ｍＬにもなる。
+  前記インクは、導電性物質をさらに含んでもよい。前記インクは、ドーピング物質をさらに含んでもよい。一方、前記二次元ナノ物質は、不純物でドーピングされてもいる。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  前記第１電極及び第２電極は、インクジェットプリンティングによって形成されてもよい。
+  前記二次元物質層にゲート絶縁層を形成する段階と、前記ゲート絶縁層にゲート電極を形成する段階と、がさらに含まれてもよい。ここで、前記ゲート絶縁層及び前記ゲート電極は、インクジェットプリンティングによって形成されてもよい。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0013">
+  本発明によれば、半導体特性を有する二次元ナノ物質を含む二次元物質層を、チャネル層として使用することにより、トランジスタ素子のような電子素子の動作効率を向上させることができる。そして、かような二次元物質層は、ダイオード素子、センサ素子のような多様な電子素子にも応用される。二次元物質層をインクジェットプリンティング方式で形成すれば、電子素子を大面積に具現することができる。その上、電子素子を構成する要素をいずれもインクジェットプリンティング方式で形成することにより、さらに簡単な工程によって電子素子を製作することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">例示的な実施形態による電子素子を図示した平面図である。</base:FigureReference>
+        <base:FigureReference num="0002">図１のＩ－Ｉ’線に沿って切り取った断面図である。</base:FigureReference>
+        <base:FigureReference num="0003">図２に図示された二次元物質層を拡大して図示した図面である。</base:FigureReference>
+        <base:FigureReference num="0004">図２に図示された二次元物質層の変形例を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="5A">他の例示的な実施形態による二次元物質層の形成方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="5B">他の例示的な実施形態による二次元物質層の形成方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="5C">他の例示的な実施形態による二次元物質層の形成方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="5D">他の例示的な実施形態による二次元物質層の形成方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="6A">他の例示的な実施形態による電子素子の製造方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="6B">他の例示的な実施形態による電子素子の製造方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="6C">他の例示的な実施形態による電子素子の製造方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="6D">他の例示的な実施形態による電子素子の製造方法を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="0007">他の例示的な実施形態による電子素子を図示した平面図である。</base:FigureReference>
+        <base:FigureReference num="0008">図７のＩＩ－ＩＩ’線に沿って切り取った断面図である。</base:FigureReference>
+        <base:FigureReference num="0009">図９は他の例示的な実施形態による電子素子を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="0010">他の例示的な実施形態による電子素子を図示した図面である。</base:FigureReference>
+        <base:FigureReference num="0011">他の例示的な実施形態による電子素子を図示した図面である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">
+  以下、添付された図面を参照し、実施形態について詳細に説明する。図面において、同一参照符号は、同一構成要素を指し、各構成要素の大きさや厚みは、説明の明瞭性のために誇張されてもいる。また、所定の物質層が、基板や他の層に存在すると説明されるとき、該物質層は、基板や他の層に直接接して存在することもあり、その間に他の第３の層が存在することもある。そして、以下の実施形態において、各層をなす物質は、例示的なものであり、それ以外にも他の物質が使用されることもある。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  図１は、例示的な実施形態による電子素子を図示した平面図である。図２は、図１のＩ－Ｉ’線に沿って切り取った断面図である。図１及び図２には、電子素子の一例として、アンダーゲート（ｕｎｄｅｒ－ｇａｔｅ）構造のトランジスタ素子が図示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  図１及び図２を参照すれば、電子素子１００は、ゲート電極１２０、ゲート絶縁層１３０、二次元物質層１４０、並びに第１電極１５１及び第２電極１５２を含む。ゲート電極１２０は、基板１１０に設けられ得る。ここで、基板１１０としては、例えば、シリコン基板などが使用されるが、それに限定されるものではなく、多様な材質の基板が使用される。また、基板１１０としては、プラスチック基板のような柔軟な材質の基板が使用され得る。かような基板１１０の上面には、基板１１０とゲート電極１２０との絶縁のために、絶縁層（図示せず）がさらに設けられ得る。該絶縁層は、例えば、シリコン酸化物、シリコン窒化物などを含んでもよいが、それらに限定されるのではない。一方、基板１１０が絶縁性物質を含む場合には、基板１１０の上面に絶縁層が設けられない。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  ゲート電極１２０は、導電性物質を含んでもよい。例えば、ゲート電極１２０は、グラフェン（ｇｒａｐｈｅｎｅ）、ＣＮＴ（カーボンナノチューブ：ｃａｒｂｏｎ  ｎａｎｏｔｕｂｅｓ）、またはＡｇ、Ａｕ、Ｐｔ、Ｃｕのような金属を含んでもよい。しかし、それらは単に例示的なものであり、それら以外にも、ゲート電極１２０は、他の多様な導電性物質を含んでもよい。ゲート絶縁層１３０は、ゲート電極１２０を覆うように、基板１１０に設けられている。かようなゲート絶縁層１３０は、多様な絶縁物質を含んでもよい。例えば、ゲート絶縁層１３０は、シリコン酸化物、シリコン窒化物、シリコン窒酸化物、アルミニウム酸化物、ハフニウム酸化物、絶縁性ポリマーなどを含んでもよい。しかし、それらに限定されるものではない。一方、ゲート絶縁層１３０は、後述するように、インクジェットプリンティング方式によって形成され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  ゲート絶縁層１３０には、二次元物質層１４０が設けられている。ここで、二次元物質層１４０は、チャネル層の役割を行うことができる。かような二次元物質層１４０は、ゲート電極１２０に対応する位置に設けられている。図３には、図２に図示された二次元物質層１４０が拡大されて図示されている。図３に図示されているように、二次元物質層１４０は、複数の二次元ナノ物質１４１（２Ｄ  ｎａｎｏ  ｍａｔｅｒｉａｌ）それぞれが、その少なくとも一部が互いに重畳されて形成される。ここで、二次元ナノ物質１４１とは、二次元形態の結晶構造を有することにより、半導体特性を有するナノサイズの物質を意味する。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  二次元ナノ物質１４１それぞれは、１層または複層で構成されてもよい。例えば、二次元ナノ物質１４１それぞれは、数十層で構成され得る。ここで、二次元ナノ物質１４１を構成する層それぞれは、およそ数ｎｍ以下の厚みを有することができる。例えば、二次元ナノ物質１４１を構成する層それぞれは、２ｎｍ以下の厚みを有することができるが、それに限定されるものではない。そして、二次元ナノ物質１４１を構成する層それぞれは、数十ｎｍ～数百ｎｍのサイズを有することができる。かような二次元ナノ物質１４１は、四角形、五角形のような多様な平面形状を有することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  そのように、二次元ナノ物質１４１それぞれが互いにその一部が重畳されて、二次元物質層１４０が形成される。かような二次元物質層１４０は、後述するように、インクジェットプリンティング方式によって形成される。インクジェットプリンティング方式によって形成された二次元物質層１４０は、その厚みがおよそ数ｎｍ～数百ｎｍほどになり、そのサイズがおよそ数百ｎｍ～数百μｍほどになる。そのように、インクジェットプリンティング方式を利用して、二次元物質層１４０を形成すれば、大面積の二次元物質層も具現することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  前述のように、二次元物質層１４０は、半導体特性を有する二次元ナノ物質１４１を含む。例えば、二次元ナノ物質１４１は、ＴＭＤ（遷移金属二カルコゲン化物：ｔｒａｎｓｉｔｉｏｎ  ｍｅｔａｌ  ｄｉｃｈａｌｃｏｇｅｎｉｄｅ）、ホスホレン（黒リン：ｂｌａｃｋ  ｐｈｏｓｐｈｏｒｕｓ）、ゲルマナン（ｇｅｒｍａｎａｎｅ）及びシリセンからなるグループのうちから選択された少なくとも一つを含んでもよい。そして、ＴＭＤは、例えば、ＭｏＳ<base:Sub>２</base:Sub>、ＭｏＳｅ<base:Sub>２</base:Sub>、ＭｏＴｅ<base:Sub>２</base:Sub>、ＷＳ<base:Sub>２</base:Sub>、ＷＳｅ<base:Sub>２</base:Sub>、ＷＴｅ<base:Sub>２</base:Sub>、ＴａＳ<base:Sub>２</base:Sub>、ＴａＳｅ<base:Sub>２</base:Sub>、ＴｉＳ<base:Sub>２</base:Sub>、ＴｉＳｅ<base:Sub>２</base:Sub>、ＨｆＳ<base:Sub>２</base:Sub>、ＨｆＳｅ<base:Sub>２</base:Sub>、ＳｎＳ<base:Sub>２</base:Sub>、ＳｎＳｅ<base:Sub>２</base:Sub>、ＧｅＳ<base:Sub>２</base:Sub>、ＧｅＳｅ<base:Sub>２</base:Sub>、ＧａＳ<base:Sub>２</base:Sub>、ＧａＳｅ<base:Sub>２</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓ<base:Sub>３</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓｅ<base:Sub>３</base:Sub>及びＢｉ<base:Sub>２</base:Sub>Ｔｅ<base:Sub>３</base:Sub>からなるグループのうちから選択された少なくとも一つを含んでもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  半導体特性を有する二次元ナノ物質１４１から構成された二次元物質層１４０は、グラフェンに比べて移動度は低いが、バンドギャップが０ｅＶより大きいという特性を有している。従って、かような二次元物質層１４０をトランジスタ素子１００のチャネル層として使用すれば、オン／オフ電流比を１００以上に増加させることができるので、電子素子１００の動作効率が向上する。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  二次元物質層１４０の両側には、第１電極１５１及び第２電極１５２が設けられている。第１電極１５１及び第２電極１５２は、二次元物質層１４０と電気的に連結されるように、ゲート絶縁層１３０に設けられている。かような第１電極１５１及び第２電極１５２は、それぞれソース電極及びドレイン電極になる。代案として、第１電極１５１及び第２電極１５２は、それぞれドレイン電極及びソース電極にもなる。第１電極１５１及び第２電極１５２は、ゲート電極１２０と同様に、導電性物質を含んでもよい。例えば、第１電極１５１及び第２電極１５２は、グラフェン、ＣＮＴ、またはＡｇ、Ａｕ、Ｐｔ、Ｃｕのような金属を含んでもよい。後述するように、第１電極１５１及び第２電極１５２とゲート電極１２０は、インクジェットプリンティング方式によって形成され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  以上では、二次元物質層１４０が二次元ナノ物質１４１のみによって構成された場合について説明したが、二次元物質層１４０は、二次元ナノ物質１４１以外に、他の物質がさらに含まれてもよい。図４には、図２に図示された二次元物質層１４０の変形例が図示されている。図４を参照すれば、二次元物質層１４０’は、複数の二次元ナノ物質１４１と導電性物質１４２とを含む。ここで、二次元ナノ物質１４１それぞれは、少なくとも一部が互いに重畳するように設けられている。そして、導電性物質１４２は、二次元ナノ物質１４１に付着し、二次元ナノ物質１４１間の電気伝導度を向上させる役割が可能である。従って、二次元物質層１４０に含まれた導電性物質１４２によって、電子素子１００のオン電流が増加される。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  二次元物質層１４０内に含まれる導電性物質１４２は、例えば、グラフェン、導電性粒子、導電性ナノチューブ及び導電性ナノワイヤのうち少なくとも一つを含んでもよい。ここで、導電性粒子は、例えば、Ａｇ、Ａｕ、Ｐｔ、Ｃｕ及びフラーレン（ｆｕｌｌｅｒｅｎｅ）からなるグループのうちから選択された少なくとも一つを含んでもよい。導電性ナノチューブは、例えば、ＣＮＴを含んでもよい。そして、導電性ナノワイヤは、例えば、Ａｇナノワイヤを含んでもよい。しかし、それらに限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  二次元ナノ物質１４１を含む二次元物質層１４０や、二次元ナノ物質１４１と導電性物質１４２とを含む二次元物質層１４０’には、ドーピング物質（ｄｏｐａｎｔ）がさらに含まれてもよい。かようなドーピング物質は、特定電荷だけ通過させる役割が可能である。従って、二次元物質層１４０に含まれたドーピング物質によって、電子素子１００のオフ電流が低下する。かようなドーピング物質は、後述するように、二次元物質層１４０がインクジェットプリンティング方式によって形成される場合、インク内に含まれてもよい。一方、二次元物質層１４０を構成する二次元ナノ物質１４１自体が、あらかじめ不純物でドーピングされていることもある。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  以上のように、トランジスタ素子１００のチャネル層として、半導体特性を有する二次元ナノ物質１４１を含む二次元物質層１４０を使用することにより、トランジスタ素子１００の動作効率を向上させることができる。また、かような二次元物質層１４０を、後述するインクジェットプリンティング方式で形成すれば、トランジスタ素子１００を大面積に具現することも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  以下では、インクジェットプリンティング方式によって、二次元物質層を形成する方法について説明する。図５Ａないし図５Ｄは、他の例示的な実施形態による二次元物質層の形成方法を図示したものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  図５Ａを参照すれば、基板２５０上に、インクジェットプリンティング装置２００を設ける。ここで、インクジェットプリンティング装置２００は、二次元物質層２４０（図５Ｄ）形成のためのインク２３０が充填されたインクチャンバ２２０と、このインク２３０を基板２５０に吐出（ｅｊｅｃｔ）させるインクジェットヘッド２１０を含んでもよい。ここで、インクジェットプリンティング装置２００は、例えば、熱駆動（ｔｈｅｒｍａｌ）インクジェット方式や、圧電駆動（ｐｉｅｚｏｅｌｅｃｔｒｉｃ）インクジェット方式によって、インク２３０を吐出させることができるが、必ずしもそれらに限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  二次元物質層２４０形成のためのインク２３０は、複数の二次元ナノ物質２４１を所定溶媒２４３に混合することによって製造される。ここで、溶媒２４３は、例えば、水、アセトン、メタノール、エタノール、イソプロパノール、シクロヘキサノン、シクロヘキサン、クロロベンゼン、クロロホルム、ホルムアミド、Ｎ－メチルホルムアミド、Ｎ－メチルピロリジノン、Ｎ－ビニルピロリジノン、ジメチルスルホキシド、ベンゾニトリル、シクロへキシル－ピロリジノン、Ｎ－デドシルピロリドン、安息香酸ベンジル、ベンジルエーテルブロモベンゼン、ジメチルアセトアミド及びジメチルホルムアミドからなるグループのうちから選択された少なくとも一つを含んでもよい。しかし、それらに限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  かような溶媒２４３に、二次元ナノ物質２４１が混合されることにより、二次元物質層２４０形成のためのインク２３０が製造される。ここで、溶媒２４３に対する二次元ナノ物質２４１の混合比率は、およそ１μｇ／ｍＬ～１００ｍｇ／ｍＬになる。しかし、それは、単に例示的なものであり、それに限定されるものではない。二次元ナノ物質２４１は、前述のように、二次元形態の結晶構造を有することにより、半導体特性を有するナノサイズの物質をいう。二次元ナノ物質２４１は、１層または複層で構成されてもよい。かような二次元ナノ物質２４１を構成する層それぞれは、およそ数ｎｍ以下の厚みを有することができ、数十ｎｍ～数百ｎｍのサイズを有することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  二次元ナノ物質２４１は、半導体物質を含んでもよい。例えば、二次元ナノ物質２４１は、ＴＭＤ、ホスホレン、ゲルマナン及びシリセンからなるグループのうちから選択された少なくとも一つを含んでもよい。ここで、ＴＭＤは、例えば、ＭｏＳ<base:Sub>２</base:Sub>、ＭｏＳｅ<base:Sub>２</base:Sub>、ＭｏＴｅ<base:Sub>２</base:Sub>、ＷＳ<base:Sub>２</base:Sub>、ＷＳｅ<base:Sub>２</base:Sub>、ＷＴｅ<base:Sub>２</base:Sub>、ＴａＳ<base:Sub>２</base:Sub>、ＴａＳｅ<base:Sub>２</base:Sub>、ＴｉＳ<base:Sub>２</base:Sub>、ＴｉＳｅ<base:Sub>２</base:Sub>、ＨｆＳ<base:Sub>２</base:Sub>、ＨｆＳｅ<base:Sub>２</base:Sub>、ＳｎＳ<base:Sub>２</base:Sub>、ＳｎＳｅ<base:Sub>２</base:Sub>、ＧｅＳ<base:Sub>２</base:Sub>、ＧｅＳｅ<base:Sub>２</base:Sub>、ＧａＳ<base:Sub>２</base:Sub>、ＧａＳｅ<base:Sub>２</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓ<base:Sub>３</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓｅ<base:Sub>３</base:Sub>及びＢｉ<base:Sub>２</base:Sub>Ｔ<base:Sub>ｅ３</base:Sub>からなるグループのうちから選択された少なくとも一つを含んでもよい。二次元ナノ物質２４１は、ドーピングされていない半導体物質を含んでもよい。一方、二次元ナノ物質２４１は、所定の不純物でドーピングされていることもある。その場合、あらかじめ不純物でドーピングされた二次元ナノ物質２４１が溶媒２４３内に混合されることにより、インク２３０が製造される。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  二次元物質層２４０形成のためのインク２３０には、導電性物質（図示せず）がさらに含まれてもよい。導電性物質は、例えば、グラフェン、導電性粒子、導電性ナノチューブ及び導電性ナノワイヤのうち少なくとも一つを含んでもよい。ここで、導電性粒子は、例えば、Ａｇ、Ａｕ、Ｐｔ、Ｃｕ及びフラーレンからなるグループのうちから選択された少なくとも一つを含んでもよい。導電性ナノチューブは例えば、ＣＮＴを含んでもよい。そして、導電性ナノワイヤは、例えば、Ａｇナノワイヤを含んでもよい。しかし、それらに限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  二次元物質層２４０形成のためのインク２３０には、ドーピング物質がさらに含まれてもよい。すなわち、二次元ナノ物質２４１がドーピングされていない（ｕｎｄｏｐｅｄ）半導体物質を含む場合には、溶媒２４３内にドーピング物質がさらに混合される。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  図５Ｂを参照すれば、インクジェットプリンティング装置２００を利用して、インク２３０を基板２５０の所定位置に吐出させる。この過程において、インクジェットヘッド２１０は、所定方向に移動することができ、インク２３０は、インクジェットヘッド２１０から液滴（ｄｒｏｐｌｅｔ）２１１形態で吐出され、基板２５０にインクパターン２３０’を形成する。そして、図５Ｃを参照すれば、インクジェットプリンティング工程が完了すれば、基板２５０には、二次元ナノ物質２４１及び溶媒２４３を含むインクパターン２３０’が所定パターンに形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  図５Ｄを参照すれば、インクパターン２３０’を乾燥させ、溶媒２４３を除去すれば、基板２５０には、二次元ナノ物質２４１を含む二次元物質層２４０が形成される。ここで、インクパターン２３０’は、自然乾燥または所定の加熱を介して乾燥される。そのように、インクジェットプリンティング方式によって、二次元ナノ物質２４１それぞれがその少なくとも一部が重畳され、二次元物質層２４０が形成される。かような二次元物質層２４０は、その厚みがおよそ数ｎｍ～数百ｎｍほどになり、そのサイズがおよそ数百ｎｍ～数百μｍほどになる。しかし、それに限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  前述のように、二次元物質層２４０形成のためのインク２３０内に、ドーピング物質がさらに含まれたり、あるいはインク２３０内に、あらかじめ所定の不純物でドーピングされた二次元ナノ物質２４１が含まれたりしてもよい。その場合には、インクジェットプリンティング方式によって形成された二次元物質層２４０は、所定の導電型（ｃｏｎｄｕｃｔｉｖｅ  ｔｙｐｅ）を有する半導体物質を含んでもよい。例えば、二次元物質層２４０は、ｐ型半導体物質またはｎ型半導体物質を含んでもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  また、前述のように、二次元物質層２４０形成のためのインク２３０内には、導電性物質がさらに含まれてもよい。導電性物質は、例えば、グラフェン、導電性粒子、導電性ナノチューブ及び導電性ナノワイヤのうち少なくとも一つを含んでもよい。その場合、インクジェットプリンティング方式によって、二次元物質層２４０において、導電性物質は、二次元ナノ物質２４１間の電気伝導度を向上させる役割が可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  以下では、二次元物質層を含む電子素子を製造する方法について説明する。
+  図６Ａないし図６Ｄは、他の例示的な実施形態による電子素子の製造方法を図示したものである。図６Ａないし図６Ｄには、図１及び図２に図示された電子素子（すなわち、トランジスタ素子）を製造する方法が図示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  図６Ａを参照すれば、まず基板３１０を準備した後、この基板３１０に、ゲート電極３２０を形成する。ここで、基板３１０としては、例えば、シリコン基板などが使用されるが、それに限定されるものではなく、多様な材質の基板が使用される。また、基板３１０としては、プラスチック基板のような柔軟な材質の基板が使用されもする。この基板３１０の上面には、基板３１０とゲート電極３２０との絶縁のために絶縁層（図示せず）がさらに設けられ得る。該絶縁層は、例えば、シリコン酸化物、シリコン窒化物などを含んでもよいが、それらに限定されるものではない。一方、基板３１０が絶縁性物質を含む場合には、基板３１０の上面に絶縁層が設けられない。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  ゲート電極３２０は、基板３１０の上面に形成される。かようなゲート電極３２０の形成は、インクジェットプリンティング方式によって行われる。その場合、ゲート電極３２０は、導電性物質が含まれたインクを、インクジェットプリンティング装置によって、基板３１０の上面に印刷した後、それを乾燥させることによって形成される。ここで、インクに含まれる導電性物質は、例えば、グラフェン、Ａｇ粒子、Ａｕ粒子、Ｐｔ粒子、Ｃｕ粒子、ＣＮＴ及びＡｇナノワイヤからなるグループのうちから選択された少なくとも一つを含んでもよい。しかし、それらに限定されるものではない。一方、ゲート電極３２０は、インクジェットプリンティング方式以外に、他の蒸着方法によって形成することも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  図６Ｂを参照すれば、基板３１０に、ゲート電極３２０を覆うようにゲート絶縁層３３０を形成する。ここで、ゲート絶縁層３３０は、高ｋ誘電体（ｈｉｇｈ－ｋ  ｄｉｅｌｅｃｔｒｉｃ  ｍａｔｅｒｉａｌ）を含んでもよい。例えば、ゲート絶縁層３３０は、シリコン酸化物、シリコン窒化物、シリコン窒酸化物、アルミニウム酸化物、ハフニウム酸化物、絶縁性ポリマーなどを含んでもよい。しかし、それらに限定されるものではない。かようなゲート絶縁層３３０の形成は、インクジェットプリンティング方式によって行われる。その場合、所定の絶縁物が含まれたインクを、インクジェットプリンティング装置によって、ゲート電極３２０を覆うように基板３１０に印刷した後、それを乾燥させることによって形成される。一方、ゲート絶縁層３３０は、インクジェットプリンティング方式以外に、他の蒸着方法によって形成することもいくらでも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  図６Ｃを参照すれば、ゲート絶縁層３３０に、二次元物質層３４０を形成する。二次元物質層３４０は、ゲート電極３２０に対応する位置に形成される。かような二次元物質層３４０は、チャネル層の役割を行うものであり、半導体特性を有する二次元ナノ物質３４１が互いに重畳されて形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  かような二次元物質層３４０は、前述のように、インクジェットプリンティング方式によって形成される。その場合、二次元物質層３４０は、所定溶媒に、二次元ナノ物質３４１が混合されたインクを、インクジェットプリンティング装置によって、ゲート絶縁層３３０の上面に印刷した後、それを乾燥させることによって形成される。ここで、該溶媒は、例えば、水、アセトン、メタノール、エタノール、イソプロパノール、シクロヘキサノン、シクロヘキサン、クロロベンゼン、クロロホルム、ホルムアミド、Ｎ－メチルホルムアミド、Ｎ－メチルピロリジノン、Ｎ－ビニルピロリジノン、ジメチルスルホキシド、ベンゾニトリル、シクロへキシル－ピロリジノン、Ｎ－デドシルピロリドン、安息香酸ベンジル、ベンジルエーテルブロモベンゼン、ジメチルアセトアミド及びジメチルホルムアミドからなるグループのうちから選択された少なくとも一つを含んでもよい。しかし、それらに限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  二次元ナノ物質３４１は、半導体物質を含んでもよい。例えば、二次元ナノ物質３４１は、ＴＭＤ、ホスホレン、ゲルマナン及びシリセンからなるグループのうちから選択された少なくとも一つを含んでもよい。ここで、ＴＭＤは、例えば、ＭｏＳ<base:Sub>２</base:Sub>、ＭｏＳｅ<base:Sub>２</base:Sub>、ＭｏＴｅ<base:Sub>２</base:Sub>、ＷＳ<base:Sub>２</base:Sub>、ＷＳｅ<base:Sub>２</base:Sub>、ＷＴｅ<base:Sub>２</base:Sub>、ＴａＳ<base:Sub>２</base:Sub>、ＴａＳｅ<base:Sub>２</base:Sub>、ＴｉＳ<base:Sub>２</base:Sub>、ＴｉＳｅ<base:Sub>２</base:Sub>、ＨｆＳ<base:Sub>２</base:Sub>、ＨｆＳｅ<base:Sub>２</base:Sub>、ＳｎＳ<base:Sub>２</base:Sub>、ＳｎＳｅ<base:Sub>２</base:Sub>、ＧｅＳ<base:Sub>２</base:Sub>、ＧｅＳｅ<base:Sub>２</base:Sub>、ＧａＳ<base:Sub>２</base:Sub>、ＧａＳｅ<base:Sub>２</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓ<base:Sub>３</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓｅ<base:Sub>３</base:Sub>及びＢｉ<base:Sub>２</base:Sub>Ｔｅ<base:Sub>３</base:Sub>からなるグループのうちから選択された少なくとも一つを含んでもよい。しかし、それらに限定されるものではない。二次元ナノ物質３４１は、ドーピングされていない半導体物質を含んでもよい。一方、二次元ナノ物質３４１は、所定のドーピング物質でドーピングされていることもある。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  二次元ナノ物質３４１それぞれは、１層または複層で構成されてもよい。例えば、二次元ナノ物質３４１それぞれは、数十層で構成され得る。ここで、二次元ナノ物質３４１を構成する層それぞれは、およそ数ｎｍ以下の厚みを有することができる。例えば、二次元ナノ物質３４１を構成する層それぞれは、２ｎｍ以下の厚みを有することができるが、それに限定されるものではない。そして、二次元ナノ物質３４１を構成する層それぞれは、数十ｎｍ～数百ｎｍのサイズを有することができる。かような二次元ナノ物質３４１は、多様な平面形状を有することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  インクの溶媒に対する二次元ナノ物質３４１の混合比率は、およそ１μｇ／ｍＬ～１００ｍｇ／ｍＬになる。しかし、それは、単に例示的なものであり、それに限定されるものではない。かようなインクをインクジェットプリンティング装置によって、ゲート絶縁層３３０の上面に所定形態で印刷した後、それを乾燥させることにより、二次元物質層３４０が形成される。ここで、二次元物質層３４０は、二次元ナノ物質３４１それぞれが、少なくとも一部が互いに重畳されて形成される。そのように、インクジェットプリンティング方式によって形成された二次元物質層３４０は、その厚みがおよそ数ｎｍ～数百ｎｍほどになり、そのサイズがおよそ数百ｎｍ～数百μｍほどになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  インクの溶媒に、導電性物質（図示せず）がさらに混合されてもよい。ここで、該導電性物質は、例えば、グラフェン、導電性粒子、導電性ナノチューブ及び導電性ナノワイヤのうち少なくとも一つを含んでもよい。そして、導電性粒子は、例えば、Ａｇ、Ａｕ、Ｐｔ、Ｃｕ及びフラーレンからなるグループのうちから選択された少なくとも一つを含んでもよく、導電性ナノチューブは、例えば、ＣＮＴを含んでもよく、導電性ナノワイヤは、例えば、Ａｇナノワイヤを含んでもよい。しかし、それらに限定されるものではない。そのように、二次元ナノ物質３４１と導電性物質（図示せず）とが含まれたインクを利用して、二次元物質層３４０を形成する場合には、二次元ナノ物質３４１間を導電性物質が連結することにより、二次元物質層３４０の導電性が向上し、それによって電子素子１００のオン電流が増加される。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  また、インクの溶媒に、ドーピング物質（図示せず）がさらに混合される。そのように、溶媒にドーピング物質がさらに含まれたり、あるいは二次元ナノ物質３４１があらかじめドーピングされたりする場合には、二次元物質層３４０は、所定の導電型を有することができる。例えば、二次元物質層３４０は、ｐ型半導体物質またはｎ型半導体物質を含んでもよい。そのように、二次元物質層３４０が所定の不純物でドーピングされることにより、電子素子のオフ電流が低下する。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  図６Ｄを参照すれば、二次元物質層３４０の両側に、第１電極３５１及び第２電極３５２を形成することにより、電子素子を完成する。ここで、第１電極３５１及び第２電極３５２は、ソース電極及びドレイン電極になる。一方、第１電極３５１及び第２電極３５２は、ドレイン電極及びソース電極にもなる。かような第１電極３５１及び第２電極３５２の形成は、インクジェットプリンティング方式によって行われる。その場合、第１電極３５１及び第２電極３５２は、導電性物質が含まれたインクを、インクジェットプリンティング装置によって、二次元物質層３４０及びゲート絶縁層３３０の上面に所定形態で印刷した後、それを乾燥させることによって形成される。ここで、インクに含まれる導電性物質は、例えば、グラフェン、Ａｇ粒子、Ａｕ粒子、Ｐｔ粒子、Ｃｕ粒子、ＣＮＴ及びＡｇナノワイヤからなるグループのうちから選択された少なくとも一つを含んでもよい。一方、第１電極３５１及び第２電極３５２は、インクジェットプリンティング方式以外に、他の蒸着方法によって形成することも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  以上で説明した電子素子は、複数個に製作され得る。その場合、電子素子間には、例えば、フッ素化グラフェン（ｆｌｕｏｒｉｎａｔｅｄ  ｇｒａｐｈｅｎｅ）または酸化グラフェンのような低ｋ誘電体（ｌｏｗ－ｋ  ｄｉｅｌｅｃｔｒｉｃ  ｍａｔｅｒｉａｌ）を含む絶縁層が形成される。そして、かような絶縁層は、インクジェットプリンティング方式によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  以上のように、電子素子を構成するゲート電極３２０、ゲート絶縁層３３０、二次元物質層３４０、並びに第１電極３５１及び第２電極３５２をインクジェットプリンティング方式で形成することにより、さらに簡単な工程によって、電子素子を製作することができる。また、インクジェットプリンティング方式を利用すれば、二次元物質層３４０を大きいサイズに形成することができるので、電子素子を大面積に具現することも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  図７は、他の例示的な実施形態による電子素子を図示した平面図である。そして、図８は、図７のＩＩ－ＩＩ’線に沿って切り取った断面図である。図７及び図８には、電子素子の一例として、トップゲート（ｔｏｐ－ｇａｔｅ）構造のトランジスタ素子が図示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  図７及び図８を参照すれば、電子素子４００は、基板４１０に設けられる二次元物質層４４０、ゲート絶縁層４３０、ゲート電極４２０、並びに第１電極４５１及び第２電極４５２を含む。基板４１０としては、半導体基板のような多様な材質の基板が使用され、プラスチック基板のような柔軟な材質の基板が使用され得る。かような基板４１０の上面には、基板４１０と二次元物質層４４０との絶縁のために、絶縁層（図示せず）がさらに設けられ得る。絶縁層は、例えば、シリコン酸化物、シリコン窒化物などを含んでもよいが、それらに限定されるものではない。一方、基板４１０が絶縁性物質を含む場合には、基板４１０の上面に絶縁層が設けられない。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  基板４１０には、チャネル層の役割を行う二次元物質層４４０が設けられている。前述のように、二次元物質層４４０は、複数の二次元ナノ物質４４１それぞれが、その少なくとも一部が互いに重畳されて形成される。ここで、二次元ナノ物質４４１は、二次元形態の結晶構造を有することにより、半導体特性を有するナノサイズの物質を意味する。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  二次元ナノ物質４４１それぞれは、１層または複層で構成されてもよい。例えば、二次元ナノ物質４４１それぞれは、数十層で構成され得る。ここで、二次元ナノ物質４４１を構成する層それぞれは、およそ数ｎｍ以下の厚みを有することができ、数十ｎｍ～数百ｎｍのサイズを有することができる。かような二次元ナノ物質４４１は、多様な平面形状を有することができる。かような二次元物質層４４０は、前述のように、インクジェットプリンティング方式によって形成される。インクジェットプリンティング方式によって形成された二次元物質層４４０は、その厚みがおよそ数ｎｍ～数百ｎｍほどになり、そのサイズがおよそ数百ｎｍ～数百μｍほどになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  二次元物質層４４０は、半導体特性を有する二次元ナノ物質４４１を含む。例えば、二次元ナノ物質４４１は、ＴＭＤ、ホスホレン、ゲルマナン及びシリセンからなるグループのうちから選択された少なくとも一つを含んでもよい。そして、ＴＭＤは、例えば、ＭｏＳ<base:Sub>２</base:Sub>、ＭｏＳｅ<base:Sub>２</base:Sub>、ＭｏＴｅ<base:Sub>２</base:Sub>、ＷＳ<base:Sub>２</base:Sub>、ＷＳｅ<base:Sub>２</base:Sub>、ＷＴｅ<base:Sub>２</base:Sub>、ＴａＳ<base:Sub>２</base:Sub>、ＴａＳｅ<base:Sub>２</base:Sub>、ＴｉＳ<base:Sub>２</base:Sub>、ＴｉＳｅ<base:Sub>２</base:Sub>、ＨｆＳ<base:Sub>２</base:Sub>、ＨｆＳｅ<base:Sub>２</base:Sub>、ＳｎＳ<base:Sub>２</base:Sub>、ＳｎＳｅ<base:Sub>２</base:Sub>、ＧｅＳ<base:Sub>２</base:Sub>、ＧｅＳｅ<base:Sub>２</base:Sub>、ＧａＳ<base:Sub>２</base:Sub>、ＧａＳｅ<base:Sub>２</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓ<base:Sub>３</base:Sub>、Ｂｉ<base:Sub>２</base:Sub>Ｓｅ<base:Sub>３</base:Sub>及びＢｉ<base:Sub>２</base:Sub>Ｔｅ<base:Sub>３</base:Sub>からなるグループのうちから選択された少なくとも一つを含んでもよい。前述のように、かような二次元物質層４４０をトランジスタ素子４００のチャネル層として使用すれば、オン／オフ電流比を１００以上に増加させることができるので、電子素子４００の動作効率が向上する。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  一方、二次元物質層４４０は、二次元ナノ物質４４１以外に、他の物質がさらに含まれてもよい。例えば、二次元物質層４４０は、複数の二次元ナノ物質４４１と導電性物質（図示せず）とを含んでもよい。ここで、二次元ナノ物質４４１それぞれは、少なくとも一部が互いに重畳するように設けられており、該導電性物質は、二次元ナノ物質４４１に付着し、二次元ナノ物質４４１間の電気伝導度を向上させる役割が可能である。二次元物質層４４０内に含まれる導電性物質は、例えば、グラフェン、導電性粒子、導電性ナノチューブ及び導電性ナノワイヤのうち少なくとも一つを含んでもよい。ここで、該導電性粒子は、例えば、Ａｇ、Ａｕ、Ｐｔ、Ｃｕ及びフラーレンからなるグループのうちから選択された少なくとも一つを含んでもよい。導電性ナノチューブは、例えば、ＣＮＴを含んでもよい。そして、導電性ナノワイヤは、例えば、Ａｇナノワイヤを含んでもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  二次元ナノ物質４４１を含んだり、あるいは二次元ナノ物質４４１及び導電性物質を含んだりする二次元物質層４４０には、ドーピング物質（図示せず）がさらに含まれてもよい。かようなドーピング物質は、二次元物質層４４０がインクジェットプリンティング方式によって形成される場合、インク内に含まれてもよい。一方、二次元物質層４４０を構成する二次元ナノ物質４４１が、不純物にあらかじめドーピングされていることもある。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  ゲート絶縁層４３０は、二次元物質層４４０を覆うように基板に設けられている。かようなゲート絶縁層４３０は、多様な絶縁物質を含んでもよい。例えば、ゲート絶縁層４３０は、シリコン酸化物、シリコン窒化物、シリコン窒酸化物、アルミニウム酸化物、ハフニウム酸化物、絶縁性ポリマーなどを含んでもよい。しかし、それらに限定されるものではない。ゲート絶縁層４３０は、インクジェットプリンティング方式や他の蒸着方法によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  ゲート絶縁層４３０には、ゲート電極４２０が設けられている。ここで、ゲート電極４２０は、二次元物質層４４０に対応する位置に設けられ得る。かようなゲート電極４２０は、導電性物質を含んでもよい。例えば、ゲート電極４２０は、グラフェン、ＣＮＴ、またはＡｇ、Ａｕ、Ｐｔ、Ｃｕのような金属を含んでもよい。ゲート絶縁層４３０は、インクジェットプリンティング方式や他の蒸着方法によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  ゲート電極４２０の両側には、第１電極４５１及び第２電極４５２が設けられている。ここで、第１電極４５１及び第２電極４５２は、二次元物質層４４０の両側と電気的に連結されるように、ゲート絶縁層４３０に設けられている。かような第１電極４５１及び第２電極４５２は、それぞれソース電極及びドレイン電極になる。代案として、第１電極４５１及び第２電極４５２は、それぞれドレイン電極及びソース電極にもなる。かような第１電極４５１及び第２電極４５２は、ゲート電極４２０と同様に、導電性物質を含んでもよい。後述するように、第１電極４５１及び第２電極４５２は、インクジェットプリンティング方式や他の蒸着方法によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  図９は、他の例示的な実施形態による電子素子を図示したものである。図９には、ショットキー接合（Ｓｃｈｏｔｔｋｙ  ｊｕｎｃｔｉｏｎ）を形成するダイオード素子が図示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  図９を参照すれば、電子素子５００は、互いに離隔されるように設けられる第１電極５５１及び第２電極５５２と、第１電極５５１及び第２電極５５２を連結する二次元物質層５４０と、を含む。ここで、第１電極５５１及び第２電極５５２は、金属を含んでもよい。かような第１電極５５１及び第２電極５５２は、インクジェットプリンティング方式や他の蒸着方法によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  二次元物質層５４０は、半導体特性を有する二次元ナノ物質（図示せず）が、それぞれ少なくとも一部が重畳されて形成される。ここで、二次元物質層５４０は、前述のようにインクジェットプリンティング方式によって形成される。かような二次元物質層５４０については、詳細に説明したので、それについての具体的な説明は省略する。一方、二次元物質層５４０は、例えば、グラフェン、導電性粒子、導電性ナノチューブ、導電性ナノワイヤのような導電性物質（図示せず）をさらに含んでもよい。そして、二次元物質層５４０は、所定のドーピング物質（図示せず）をさらに含んでもよい。かようなドーピング物質は、二次元物質層５４０がインクジェットプリンティング方式によって形成される場合、インク内に含まれてもよい。一方、二次元物質層５４０を構成する二次元ナノ物質自体が、不純物にあらかじめドーピングされていることもある。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  そのように、二次元物質層５４０は、半導体特性を有するので、金属を含む第１電極５５１及び第２電極５５２とショットキー接合を形成することができる。すなわち、第１電極５５１と二次元物質層５４０とが接する境界５４０ａ及び第２電極５５２と二次元物質層５４０が接する境界５４０ｂには、ショットキー接合が形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  図１０は、他の例示的な実施形態による電子素子を図示したものである。図１０には、ｐ－ｎ接合を形成するダイオード素子が図示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  図１０を参照すれば、電子素子６００は、互いに離隔されるように設けられる第１電極６５１及び第２電極６５２と、第１電極６５１及び第２電極６５２を連結する二次元物質層６４０と、を含む。ここで、第１電極６５１及び第２電極６５２は、導電性物質を含んでもよい。かような第１電極６５１及び第２電極６５２は、インクジェットプリンティング方式や他の蒸着方法によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  二次元物質層６４０は、第１伝導型物質層６４１と、第２伝導型物質層６４２と、を含んでもよい。ここで、第１伝導型物質層６４１は、第１電極６５１と第２伝導型物質層６４２とを電気的に連結し、第２伝導型物質層６４２は、第２電極６５２と第１伝導型物質層６４１とを電気的に連結するように設けられている。そのために、第１伝導型物質層６４１及び第２伝導型物質層６４２は、その一部が互いに重畳されるように設けられ得る。かような第１伝導型物質層６４１及び第２伝導型物質層６４２は、例えば、インクジェットプリンティング方式によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  第１伝導型物質層６４１は、二次元ナノ物質（図示せず）と、第１伝導型ドーピング物質（図示せず）と、を含んでもよい。ここで、該二次元ナノ物質は、前述のように、それぞれ少なくとも一部が互いに重畳されるように設けられ得る。そして、該第１伝導型ドーピング物質は、ｐ型不純物またはｎ型不純物になる。第１伝導型物質層６４１がインクジェットプリンティング方式によって形成される場合には、第１伝導型ドーピング物質は、二次元ナノ物質と共にインクに含まれてもよい。一方、二次元ナノ物質があらかじめ第１伝導型ドーピング物質でドーピングされた後、インクに混合されることも可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  第２伝導型物質層６４１は、二次元ナノ物質（図示せず）と、第２伝導型ドーピング物質（図示せず）と、を含んでもよい。二次元ナノ物質は、それぞれ少なくとも一部が互いに重畳されるように設けられ得る。そして、第２伝導型ドーピング物質は、ｎ型不純物またはｐ型不純物になる。具体的には、第１伝導型ドーピング物質がｐ型不純物である場合には、第２伝導型ドーピング物質は、ｎ型不純物になる。そして、第１伝導型ドーピング物質がｎ型不純物である場合には、第２伝導型ドーピング物質は、ｐ型不純物になる。第２伝導型物質層６４２がインクジェットプリンティング方式によって形成される場合には、第２伝導型ドーピング物質は、二次元ナノ物質と共にインクに含まれてもよい。一方、二次元ナノ物質があらかじめ第２伝導型ドーピング物質でドーピングされた後、インクに混合されることも可能である。以上のように、二次元物質層６４０を構成する第１伝導型物質層６４１と第２伝導型物質層６４２との境界には、ｐ－ｎ接合が形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  図１１は、他の例示的な実施形態による電子素子を図示したものである。図１１には、特定ガスを検出するセンサ素子が図示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  図１１を参照すれば、電子素子７００は、互いに離隔されるように設けられる第１電極７５１及び第２電極７５２と、第１電極７５１及び第２電極７５２を連結する二次元物質層７４０と、を含む。ここで、第１電極７５１及び第２電極７５２は、導電性物質を含んでもよい。かような第１電極７５１及び第２電極７５２は、インクジェットプリンティング方式や他の蒸着方法によって形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  二次元物質層７４０は、半導体特性を有する二次元ナノ物質（図示せず）がそれぞれ少なくとも一部が重畳されて形成される。ここで、二次元物質層７４０は、前述のように、インクジェットプリンティング方式によって形成される。かような二次元物質層７４０については、詳細に説明したので、それについての具体的な説明は省略する。そのように、半導体特性を有する二次元ナノ物質で構成された二次元物質層７４０は、例えば、水素や酸素のような特定ガスを、選択的に吸着させるガス吸着板としての役割が可能である。従って、図１１に図示されたセンサ素子において、特定ガスが二次元物質層７４０に吸着されれば、第１電極７５１及び第２電極７５２を介して、特定ガスの存在の有無を検出することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  以上の実施形態によれば、半導体特性を有する二次元ナノ物質を含む二次元物質層をチャネル層として使用することにより、トランジスタ素子のような電子素子の動作効率を向上させることができる。そして、かような二次元物質層は、ダイオード素子、センサ素子のような多様な電子素子にも応用される。二次元物質層をインクジェットプリンティング方式で形成すれば、電子素子を大面積に具現することができる。その上、電子素子を構成する要素を、いずれもインクジェットプリンティング方式で形成することにより、さらに簡単な工程によって電子素子を製作することができる。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0077">
+  本発明の二次元物質層を含む電子素子、及びインクジェットプリンティングを利用した電子素子の製造方法は、例えば、電子機器関連の技術分野に効果的に適用可能である。
+</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0078">
+  １００，３００，４００，５００，６００，７００    電子素子
+  １１０，２５０，３１０，４１０    基板
+  １２０，３２０，４２０    ゲート電極
+  １３０，３３０，４３０    ゲート絶縁層
+  １４０，１４０’，２４０，３４０，４４０，５４０，６４０，７４０    二次元物質層
+  １４１，２４１，３４１，４４１    二次元ナノ物質
+  １４２    導電性物質
+  １５１，３５１，４５１，５５１，６５１，７５１    第１電極
+  １５２，３５２，４５２，５５２，６５２，７５２    第２電極
+  ２００    インクジェットプリンティング装置
+  ２１０    インクジェットヘッド
+  ２２０    インクチャンバ
+  ２３０    二次元物質層形成のためのインク
+  ２３０’    インクパターン
+  ２４３    溶媒
+  ６４１    第１導電型物質層
+  ６４２    第２導電型物質層
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="72" wi="84" file="2016127267_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="48" wi="84" file="2016127267_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="52" wi="85" file="2016127267_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="54" wi="84" file="2016127267_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="54" wi="84" file="2016127267_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="50" wi="84" file="2016127267_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="43" wi="84" file="2016127267_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="44" wi="85" file="2016127267_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="44" wi="85" file="2016127267_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="44" wi="85" file="2016127267_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="42" wi="83" file="2016127267_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="44" wi="83" file="2016127267_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="68" wi="83" file="2016127267_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="53" wi="83" file="2016127267_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="50" wi="83" file="2016127267_000017.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="50" wi="83" file="2016127267_000018.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="50" wi="83" file="2016127267_000019.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  互いに離隔されるように設けられる第１電極及び第２電極と、
+  前記第１電極及び第２電極を連結するように設けられるものであり、そのそれぞれが少なくとも一部が互いに重畳された複数の二次元ナノ物質を含む二次元物質層と、を含む電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記二次元ナノ物質は、半導体特性を有することを特徴とする請求項１に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記二次元物質層は、導電性物質をさらに含むことを特徴とする請求項１または２に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記導電性物質は、グラフェン、導電性粒子、導電性ナノチューブ及び導電性ナノワイヤのうち少なくとも一つを含むことを特徴とする請求項３に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記二次元物質層は、ドーピング物質をさらに含むことを特徴とする請求項１から４のいずれか一項に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記二次元物質層は、チャネル層を含むことを特徴とする請求項１から５のいずれか一項に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記二次元物質層に設けられるゲート絶縁層、及び前記ゲート絶縁層に設けられるゲート電極をさらに含むことを特徴とする請求項１から６のいずれか一項に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記第１電極及び第２電極と、前記二次元物質層との間に、ショットキー接合が形成されることを特徴とする請求項１から７のいずれか一項に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記二次元ナノ物質間に、ｐ－ｎ接合が形成されることを特徴とする請求項１から７のいずれか一項に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記二次元ナノ物質それぞれは、単層または複層の構造を有することを特徴とする請求項１から９のいずれか一項に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記二次元ナノ物質は、ＴＭＤ（遷移金属二カルコゲン化物）、ホスホレン、ゲルマナン及びシリセンからなるグループのうちから選択された少なくとも一つを含むことを特徴とする請求項１から１０のいずれか一項に記載の電子素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  半導体特性を有し、そのそれぞれが少なくとも一部が互いに重畳された複数の二次元ナノ物質を含む二次元物質層を、インクジェットプリンティングを利用して、基板に形成する段階と、
+  前記二次元物質層に連結される第１電極及び第２電極を形成する段階と、を含む電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記二次元物質層を形成する段階は、
+  前記基板に、溶媒及び前記二次元ナノ物質を含むインクを吐出させてインクパターンを形成する段階と、
+  前記インクパターンを乾燥させ、前記二次元物質層を形成する段階と、を含むことを特徴とする請求項１２に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記溶媒に対する前記二次元ナノ物質の混合比率は、１μｇ／ｍＬ～１００ｍｇ／ｍＬであることを特徴とする請求項１３に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  前記インクは、導電性物質をさらに含むことを特徴とする請求項１３または１４に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  前記インクは、ドーピング物質をさらに含むことを特徴とする請求項１３から１５のいずれか一項に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  前記二次元ナノ物質は、不純物でドーピングされていることを特徴とする請求項１３から１６のいずれか一項に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  前記第１電極及び第２電極は、インクジェットプリンティングによって形成されることを特徴とする請求項１２から１７のいずれか一項に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>
+  前記二次元物質層にゲート絶縁層を形成する段階と、
+  前記ゲート絶縁層にゲート電極を形成する段階と、をさらに含むことを特徴とする請求項１２から１８のいずれか一項に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>
+  前記ゲート絶縁層及び前記ゲート電極は、インクジェットプリンティングによって形成されることを特徴とする請求項１９に記載の電子素子の製造方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

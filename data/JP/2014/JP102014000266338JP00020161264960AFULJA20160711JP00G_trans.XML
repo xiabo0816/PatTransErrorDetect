@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000266338JP00020161264960AFULJA20160711JP00G.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126496" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126496</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126496</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000266338</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014266338</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>3</business:MainGroup>
+        <business:Subgroup>12</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F   3/12        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N   1/00        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>41</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>38</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B41J  29/38        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>41</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>42</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B41J  29/42        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G06F3/12 A</business:FI>
+      <business:FI type="secondary">H04N1/00 C</business:FI>
+      <business:FI type="secondary">H04N1/00 107Z</business:FI>
+      <business:FI type="secondary">B41J29/38 Z</business:FI>
+      <business:FI type="secondary">B41J29/42 F</business:FI>
+      <business:FI type="secondary">G06F3/12 L</business:FI>
+      <business:FI type="secondary">G06F3/12 U</business:FI>
+      <business:FClass>
+        <business:FTerm>2C061CQ04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C061CQ24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C061CQ34</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C061HJ07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C061HK19</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C061HN15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AA12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AA37</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AB20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AB22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AB23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AB38</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AB42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AC05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AC22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AC24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AC34</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C062AC58</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2C061</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5C062</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">图像处理设备,程序,记录介质</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>シャープ株式会社</base:Name>
+            <base:RegisteredNumber>000005049</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市阿倍野区長池町22番22号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>高島  真彦</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市阿倍野区長池町22番22号  シャープ株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>石田  祐司</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市阿倍野区長池町22番22号  シャープ株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>今泉  大作</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市阿倍野区長池町22番22号  シャープ株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>安達  靖</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市阿倍野区長池町22番22号  シャープ株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人HARAKENZO  WORLD  PATENT  ＆  TRADEMARK</base:Name>
+            <base:RegisteredNumber>110000338</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>10</business:ClaimsCount>
+      <base:TotalPageCount>33</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>抑制用户操作的舒适性受损。 便携终端（10）具备显示控制部（101）和图像处理部（102）,显示控制部（101）从运动图像文件的多个静止图像中选择关注图像,图像处理部（102）在进行成为开始画质提高处理的触发的用户操作时,对所述关注图像实施画质提高处理。 图像处理部（102）在关注图像被显示控制部（101）选择后,未进行所述用户操作的状态持续了规定时间的情况下,即使未进行该用户操作,也对关注图像实施所述画质提高处理。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="59" wi="69" file="2016126496_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及对被指定为印刷对象的图像实施图像处理的图像处理装置、程序、记录介质。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">作为印刷（打印）用数码相机等拍摄而得到的照片图像的一般的方法,可举出使用个人所拥有的打印机等进行印刷的方法、和向拥有照片服务店专用的打印机的照片服务店带入数据并用该打印机进行印刷的方法（订购服务）。</base:Paragraphs>
+      <base:Paragraphs num="0003">在前者的情况下,即使不前往照片服务店也能够进行印刷,因此容易根据个人的情况进行印刷,但产生需要购买能够应对照片图像的印刷的打印机这样的工夫、以及由于在每次印刷时消耗墨水、专用的纸张等而需要由个人补充这些消耗品这样的工夫。 另外,在出差或旅行的过程中等打印机不在附近时,有时也会产生无法进行印刷的不良情况。</base:Paragraphs>
+      <base:Paragraphs num="0004">与此相对,在后者的情况下,需要前往照片服务店,虽然有时利用订购服务的费用较高,但如果选择并订购想要印刷的照片图像,则利用照片服务店侧的打印机执行印刷作业这样的简便性、以及按量收费制这样的容易理解性,因此利用后者那样的服务的人也较多。</base:Paragraphs>
+      <base:Paragraphs num="0005">进而,（1）最近,不仅利用数码相机,还利用搭载于智能手机、平板电脑等便携终端的相机拍摄照片图像的情况增加,（2）拥有这些便携终端的人的年龄层逐年变低,（3）对于学生等而言,仅支付必要的量的按量计费制更容易简单地利用,因此认为今后所述订购服务的需求进一步提高。</base:Paragraphs>
+      <base:Paragraphs num="0006">另外,在这样的便携式终端中,随着存储容量的增加,能够进行动态图像拍摄,进行利用便携式终端的动态图像拍摄的用户增加。</base:Paragraphs>
+      <base:Paragraphs num="0007">此外,在照片拍摄（静止图像拍摄）中,由于拍摄的最佳定时是一瞬间,因此难以捕捉该最佳定时,因此出现了不利用照片拍摄而利用动态图像拍摄来印刷照片图像的用户。 具体而言,进行动态图像拍摄,从通过动态图像拍摄而得到的动态图像文件中,将中意的帧打印为照片图像。 并且,如专利文献1所示,还存在设置从动态图像文件提取静止图像并进行打印的打印订单受理装置的照片印刷店。</base:Paragraphs>
+      <base:Paragraphs num="0008">然而,由于运动图像倾向于具有比静止图像更低的图像质量（特别是倾向于具有更低的分辨率）,因此当试图将从运动图像文件中提取的帧打印为照片图像时,会发生输出为拉伸的低图像质量的照片图像的问题。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0009">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2010－153978号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開2014－085892号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0003">
+            <base:Text>特開2014－138329号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0004">
+            <base:Text>特開2013－219462号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0005">
+            <base:Text>特開2013－041565号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0010">为了抑制以上的不良情况,优选便携终端或打印机等图像处理装置构成为,根据用户操作对为了打印而从动态图像文件提取出的帧执行用于提高画质的图像处理。</base:Paragraphs>
+        <base:Paragraphs num="0011">然而,使构成运动图像的帧接近适合于照片图像的图像质量的图像处理通常涉及复杂的处理,并且从触发图像处理开始的用户操作到处理结束所需的时间趋于变长。</base:Paragraphs>
+        <base:Paragraphs num="0012">因此,在进行从动态图像文件中提取作为打印对象的帧的操作时,有可能损害操作的舒适性。 例如,在对特定帧执行作为开始图像处理的触发的用户操作之后,在用户想要检查图像处理之后的帧的预览的情况下,如果图像处理很难结束,则用户的操作舒适性会受损。</base:Paragraphs>
+        <base:Paragraphs num="0013">本发明的目的在于提供一种能够抑制用户的操作舒适性受损的图像处理装置、程序、记录介质。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0014">以及图像处理部,当进行成为开始规定图像处理的触发的用户操作时,对所述关注图像实施所述规定图像处理,在从所述显示控制部选择所述关注图像起未进行所述用户操作的状态持续了规定时间的情况下,即使未进行所述用户操作,所述图像处理部也对所述关注图像实施所述规定图像处理。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0015">根据本发明的方式1的图像处理装置,在从选择所述关注图像起未进行所述用户操作的状态持续了规定时间的情况下,即使未进行所述用户操作,规定图像处理也在后台开始。 因此,能够缩短之后进行所述用户操作后的用户感受到的处理时间（规定图像处理的处理时间）。 由此,起到如下效果：即使规定图像处理是处理时间长的图像处理,也能够抑制用户的操作的舒适性受损。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0016">
+        <base:FigureReference num="0001">图0001是表示本发明的一个实施方式的便携式终端所具备的各硬件的功能框图。</base:FigureReference>
+        <base:FigureReference num="2A">图2A是表示图1的便携终端的外观的示意图,是表示显示有尚未被用户指定为印刷候补的帧的状况的图。</base:FigureReference>
+        <base:FigureReference num="2B">图2B是表示图1的便携终端的外观的示意图,是表示被用户指定为印刷候补的帧被显示的状况的图。</base:FigureReference>
+        <base:FigureReference num="2C">图2C是表示图1的便携终端的外观的示意图,是表示在被指定为印刷候补之后被取消的帧被显示的状况的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示在进行画质提高处理的情况下使触摸面板显示期待度的便携终端的一例的示意图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是示出坐标（i,j）处的关注像素的动态范围与系数f（i,j）之间的关系的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是示出坐标（i,j）处的关注像素的像素值与系数g（i,j）之间的关系的图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是表示使触摸面板显示进行画质提高处理的情况下的期待度的便携终端、且与图3的便携终端不同的例子的示意图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是表示双指外扩操作的说明图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是示出轻弹操作的说明图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是表示在整个帧中显示的区域的说明图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是示出对图9的矩形A的范围进行放大显示的便携式终端的说明图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是示出对图9的矩形C的范围进行放大显示的便携终端的说明图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012是示出对图9的矩形B的范围进行放大显示的便携式终端的说明图。</base:FigureReference>
+        <base:FigureReference num="0013">图0013是表示使实施画质提高处理之前的帧FR<base:Sub>i</base:Sub>和对帧FR<base:Sub>i</base:Sub>实施画质提高处理而得到的帧RS<base:Sub>i</base:Sub>一起显示的便携终端的示意图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0017">（实施方式1）&lt;便携终端的概要&gt; 
+首先,对作为本发明的图像处理装置的一个实施方式的便携终端10的概要进行说明。 作为便携终端10,可举出智能手机、平板电脑、便携电话、可携带的个人计算机（笔记本型等）等,本实施方式的便携终端10如图2A所示设为智能手机。 </base:Paragraphs>
+      <base:Paragraphs num="0018">本实施方式的便携终端10安装有用于进行动态图像拍摄的相机以及应用程序,存储通过动作拍摄得到的动态图像文件。</base:Paragraphs>
+      <base:Paragraphs num="0019">便携终端10具有使用户从动态图像文件中指定（选择）打印候选的帧并将打印候选的帧发送到打印装置（打印机、复合机、照片用打印机）的功能。 打印装置将从便携终端10发送来的打印候选的帧（有时也称为“打印候选图像”）打印为照片。</base:Paragraphs>
+      <base:Paragraphs num="0020">在如上所述的移动终端10中,响应于用户操作,从包括在运动图像文件中的多个帧中提取一个帧作为关注帧（关注图像）。 在关注帧显示区域19中显示关注帧。 用户能够一边观察在关注帧显示区域19中显示的帧,一边研究是否将该帧作为印刷候选。</base:Paragraphs>
+      <base:Paragraphs num="0021">在尚未被选择为打印候选的帧显示在关注帧显示区域19中的情况下,当用户按下图2A中的保存按钮20时,移动终端10将显示在关注帧显示区域19中的帧识别为打印候选,并开始对该帧进行图像质量提高处理（图像处理）。 若画质提高处理完成,则实施了画质提高处理的帧作为打印候选而存储于打印候选保存部12a,便携终端10将显示于关注帧显示区域19的预览从画质提高处理前的帧切换为画质提高处理后的帧。</base:Paragraphs>
+      <base:Paragraphs num="0022">图2B示出了在关注帧显示区域19中显示被选择为打印候选的帧的移动终端10。 这里,如图2A所示,在提取未被指定（选择）为打印候选的帧作为关注帧的情况下,在关注帧显示区域19中显示未被实施画质提高处理的帧,并且显示表示未被选择的字符（Not Selected）,另一方面,如图2B所示,在提取被指定（选择）为打印候选的帧作为关注帧的情况下,在关注帧显示区域19中显示画质提高处理后的帧,并且显示表示被选择为打印候选的字符（Selected）。</base:Paragraphs>
+      <base:Paragraphs num="0023">如图2B所示,在被选择为打印候选的帧被提取为关注帧并显示于关注帧显示区域19时,若保存按钮20被用户按下,则便携终端10取消将该帧作为打印候选。 具体而言,便携终端10从打印候选保存部12a中删除成为取消对象的画质提高处理后的帧,将在关注帧显示区域19中显示的预览从画质提高处理后的帧切换为未实施画质提高处理的帧。</base:Paragraphs>
+      <base:Paragraphs num="0024">图2C示出了被取消的帧被提取为关注帧并且被显示在关注帧显示区域19中的移动终端10。 如图2C所示,在被取消的帧被提取为关注帧的情况下,在关注帧显示区域19中,显示未实施画质提高处理的帧,并且显示表示取消的字符（取消）。</base:Paragraphs>
+      <base:Paragraphs num="0025">另外,如图2C所示,在被选择为打印候选的帧被提取为关注帧并显示于关注帧显示区域19时,若保存按钮20被用户按下,则便携终端10将该帧再次识别为打印候选,再次进行与以前设为打印候选时相同的处理。</base:Paragraphs>
+      <base:Paragraphs num="0026">然后,当图2A～图2C所示的提交按钮21被触摸时,便携终端10将存储在打印候选保存部12a中的打印候选的帧（画质提高处理后的帧）发送到打印装置。 印刷装置对接收到的印刷候选的帧进行照片打印（印刷）。 由此,便携终端10的用户能够从由便携终端10拍摄到的动态图像的各帧中,将所希望的帧发送到照片打印机、复合机等打印装置来进行照片打印。</base:Paragraphs>
+      <base:Paragraphs num="0027">另外,在使照片服务店的印刷装置读入动态图像文件并在印刷装置侧选择印刷候选图像来进行图像处理的情况下,会产生一个用户长时间独占地使用印刷装置这样的不良情况。 与此相对,使用便携终端10的用户在便携终端10侧提取打印候选来进行图像处理,因此不会长时间独占打印装置,能够抑制上述的不良情况。</base:Paragraphs>
+      <base:Paragraphs num="0028">另外,根据本实施方式10的便携终端10,对于用户选择为打印候选的帧,显示画质提高处理后的预览,也能够取消打印候选。 因此,打印前的预览的确认也能够不在打印装置侧而在便携终端10侧进行。</base:Paragraphs>
+      <base:Paragraphs num="0029">&lt;移动终端的结构&gt; 
+在下文中,将更详细地描述本实施例的移动终端10的配置。 图1是表示实施方式1所涉及的便携终端10的结构的功能框图。 如图1所示,便携终端10具备控制部11、存储部12、通信部13、触摸面板14以及访问部15。 </base:Paragraphs>
+      <base:Paragraphs num="0030">控制部11是对便携终端10的各硬件进行控制的块,例如通过具备CPU（Central Processing Unit：中央处理单元）的微型计算机、微处理器来实现。 控制部11取出存储于存储部12的各种信息以及用于实施各种控制的程序并进行运算处理、判定处理,基于这些处理结果向便携终端10的各硬件发送信号、信息,控制各硬件的动作。 关于控制部的详细情况在后面叙述。</base:Paragraphs>
+      <base:Paragraphs num="0031">存储部12是存储控制部11执行的各种应用程序、OS（Operating System：操作系统）程序、控制程序、执行这些程序时读出的各种数据（设定值、表等）的存储区域。 作为存储部12,能够使用以往公知的各种存储单元,例如只读存储器、随机存取存储器、闪存、EPROM（Erasable Programmable ROM：可擦除可编程ROM）、EEPROM（注册商标）（Electrically EPROM：电可擦除可编程ROM）等。</base:Paragraphs>
+      <base:Paragraphs num="0032">此外,在本实施方式中,存储部12为至少包括印刷候选保存部12a和工作存储器部12b的结构。 印刷候选保存部12a是存储部12的非易失性存储区域的一部分,是为了保存与用户所选择的印刷候选相关的数据而预先确保的区域。 与此相对,工作存储器部12b是存储部12的易失性存储区域,是用于暂时存储由控制部11处理中的数据的存储区域。</base:Paragraphs>
+      <base:Paragraphs num="0033">通信部13是进行与外部的数据通信的模块。 在本实施方式中,具有基于USB（Universal Serial Bus：通用串行总线）1.1或USB2.0的标准的串行传输/并行传输功能、无线数据通信功能。 在本实施例中,特别地,通信单元13将图像发送到打印装置（未示出）、图像显示装置（未示出）或服务器装置（未示出）。</base:Paragraphs>
+      <base:Paragraphs num="0034">触摸面板（显示画面）14是将显示图像的显示部14a和生成与用户的触摸操作对应的输入信号的输入部14b一体化而成的装置。 作为触摸面板14,能够使用公知的触摸面板。 即,显示部14a由LCD（Liquid Crystal Display：液晶显示器）等构成,输入部14b由与显示部14a一体化的静电电容传感器等构成。 当用户对触摸面板14进行触摸操作时,与触摸操作对应的输入指示被传递到控制部11,控制部11根据该输入指示进行触摸面板14的显示控制。 例如,当进行点击操作时,显示与被点击的图标或文件对应的图像。</base:Paragraphs>
+      <base:Paragraphs num="0035">另外,在本实施方式中,如图2A所示,在触摸面板14中示出了用于显示从构成动态图像文件的多个帧（静止图像）中提取的关注帧的关注帧显示区域19。</base:Paragraphs>
+      <base:Paragraphs num="0036">具体而言,根据使用了图2A所示的向前按钮26、向后按钮27、滚动条29等的用户操作,从构成动态图像文件的多个静止图像（帧）中提取1张关注帧,将关注帧显示于关注帧显示区域19。</base:Paragraphs>
+      <base:Paragraphs num="0037">另外,作为移动终端10中的用户的输入单元,除了触摸面板14以外,可以是作为物理装置而设置的按钮,也可以是与移动终端10可通信地连接的键盘、指示设备。</base:Paragraphs>
+      <base:Paragraphs num="0038">图1的访问部15是访问插入到移动终端10的可移动介质并对该可移动介质进行信息的读写的装置。</base:Paragraphs>
+      <base:Paragraphs num="0039">接着,对控制部11进行详细说明。 如图1所示,控制部11具备显示控制部101、图像处理部102、存储处理部103、发送处理部104、期待度计算部105。 此外,在图1中,控制部11、存储部12、通信部13、触摸面板14以及访问部15是硬件,但控制部11所包含的显示控制部101、图像处理部102、存储处理部103、发送处理部104、期待度计算部105是表示控制部11所执行的软件的各功能的功能块。</base:Paragraphs>
+      <base:Paragraphs num="0040">显示控制部101是根据用户对触摸面板14的触摸操作（输入指示）来进行触摸面板14的显示控制的模块。 显示控制部101主要从动态图像文件所包含的多个帧（静止图像）中提取（选择）关注帧,进行将该帧显示于关注帧显示区域19的显示控制。 关注帧是由用户关注的帧。 关注帧是在关注帧显示区域19中显示的、成为用户操作（例如选择为打印候选的指示）的对象的帧。</base:Paragraphs>
+      <base:Paragraphs num="0041">图像处理部102是若被输入将关注帧（显示于关注帧显示区域19的帧）指定为打印候选的输入指示,则对该帧（静止图像）执行画质提高处理（规定图像处理）的块。 即,在本实施方式中,将关注帧指定为印刷候选的输入指示（触摸操作）也成为开始画质提高处理（规定图像处理）的执行的触发（输入指示）。 具体而言,如图2A所示,在作为打印候补而未选择的帧被显示为关注帧时,若保存按钮20被触摸,则该帧被选择为打印候补,且开始针对该帧的画质提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0042">存储处理部103是对存储于印刷候选保存部12a的数据进行管理的块。 在本实施方式中,在某个关注帧显示于关注帧显示区域19时,若输入将该帧指定为印刷候补的用户指示,则对该帧实施画质提高处理,但存储处理部103将该帧识别为印刷候补,将实施了画质提高处理的该帧作为印刷候补存储于印刷候补保存部12a（例如,印刷候补的帧与表示印刷候补的标志建立对应地保存于印刷候补保存部12a）。</base:Paragraphs>
+      <base:Paragraphs num="0043">另外,印刷候选保存部12a是存储部12的非易失性存储区域的一部分,是为了存储印刷候选而由存储处理部103（应用）预先确保并管理的区域。</base:Paragraphs>
+      <base:Paragraphs num="0044">发送处理部104若被输入将印刷候选的帧向印刷装置发送的用户指示,则通过控制通信部13,将蓄积于印刷候选保存部12a的印刷候选的帧向印刷装置发送。</base:Paragraphs>
+      <base:Paragraphs num="0045">期待度计算部105是计算由图像处理部102执行的画质提高处理的期待度的块。 但是,期待度计算部105是实施方式2的特征,因此在本实施方式中不进行进一步的详细说明。</base:Paragraphs>
+      <base:Paragraphs num="0046">接下来,将更详细地描述由显示控制单元101、图像处理单元102、存储处理单元103和发送处理单元104执行的一系列处理。</base:Paragraphs>
+      <base:Paragraphs num="0047">首先,显示控制部101根据用户的输入指示,从保存于便携终端10的存储部12的各文件中读入用户所期望的动态图像文件。 在此,显示控制部101对该运动图像文件所具有的帧数进行计数,并且将位于开头的帧的编号设为最初作为关注帧而提取的帧的帧编号的初始值,对与初始值对应的帧进行解码并存储于工作存储器部12b,将该帧作为关注帧而最初显示于触摸面板14的关注帧显示区域19。</base:Paragraphs>
+      <base:Paragraphs num="0048">可以从运动图像文件中描述的元数据中获取帧的数量和编号。 将动态图像文件所具有的帧数设为NF,将构成动态图像文件的帧依次设为FR。<base:Sub>0</base:Sub>,FR<base:Sub>1</base:Sub>,…,FR<base:Sub>NF－1</base:Sub>来定义自定义外观。</base:Paragraphs>
+      <base:Paragraphs num="0049">当某个帧被显示为关注帧时,显示控制部101根据用户的输入指示,从NF张帧中选择下一个关注帧。 具体而言,显示控制部101根据输入指示,从构成运动图像文件的多个帧中选择下一个关注帧并进行解码,使关注帧显示区域19显示该帧。 即,显示控制部101在根据用户的输入指示而将关注帧更新为与帧FR<base:Sub>i</base:Sub>不同的帧FR<base:Sub>j</base:Sub>的情况下,从动态图像文件解码帧FR<base:Sub>j</base:Sub>,将显示的帧从帧FR<base:Sub>i</base:Sub>切换为帧FR<base:Sub>j</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0050">此外,在帧FR<base:Sub>i</base:Sub>被显示为关注帧时,在用户进行了将帧FR<base:Sub>i</base:Sub>指定（选择）为印刷候补的输入指示的情况下,图像处理部102对帧FR<base:Sub>i</base:Sub>执行画质提高处理并输出画质提高处理后的帧RS<base:Sub>i</base:Sub>（对帧FR<base:Sub>i</base:Sub>实施画质提高处理而得到的帧）,存储处理部103将帧RS<base:Sub>i</base:Sub>作为印刷候补保存于印刷候补保存部12a。 此时,显示控制部101将显示于关注帧显示区域19的对象从帧FR<base:Sub>i</base:Sub>切换为帧RS<base:Sub>i</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0051">在被设为印刷候补的帧RS<base:Sub>i</base:Sub>作为关注帧而显示于关注帧显示区域19时,在用户进行了取消印刷候补的输入指示的情况下,存储处理部103通过删除印刷候补保存部12a的帧RS<base:Sub>i</base:Sub>,从而将帧RS<base:Sub>i</base:Sub>从印刷候补中排除。 此时,显示控制部101将显示于关注帧显示区域19的对象从帧RS<base:Sub>i</base:Sub>切换为帧FR<base:Sub>i</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0052">如上所述,对于作为关注帧显示的1张帧,当结束了印刷候选的指定、画质提高处理的执行、画质提高处理后的帧的保存时（根据情况,当印刷候选的取消也结束时）,用户能够再次从NF张帧中提取1张帧作为关注帧。 通过反复进行以上的处理,能够将1张以上的帧作为印刷候补保存于印刷候补保存部12a。</base:Paragraphs>
+      <base:Paragraphs num="0053">而且,当用户进行发送打印候选的输入指示时,发送处理部104将在该输入指示的时刻保存（蓄积）于打印候选保存部12a的打印候选的帧经由通信部13发送至打印装置。 该印刷装置能够与便携终端10通信,是能够进行照片打印的装置,是照片打印机、复合机等。 打印装置对从便携终端10接收到的打印候选的帧进行打印输出。</base:Paragraphs>
+      <base:Paragraphs num="0054">此外,不需要连续地进行打印候选的指定（保存）和向打印装置的发送处理,能够在用户期望的定时向打印装置发送一个以上的打印候选。 因此,用户可以预先从运动图像文件中选择期望的帧,并且在用户方便时将所选择的帧发送到打印装置。 由此,能够大幅削减一个用户占用印刷装置的时间。</base:Paragraphs>
+      <base:Paragraphs num="0055">接着,对由图像处理部102进行的画质提高处理的内容进行说明。 一般而言,动态图像文件所包含的帧与通过照片拍摄而得到的静止图像相比,存在画质低的倾向（特别是存在分辨率低的倾向）,因此在将从动态图像文件取出的帧作为照片图像进行印刷的情况下,优选执行用于使画质接近通过照片拍摄而得到的静止图像的画质提高处理（规定图像处理）。 因此,在本实施方式的便携终端10中,至少对被指定为打印候选的帧实施画质提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0056">作为能够在图像处理部102中应用的画质提高处理,例如可举出专利文献2（日本特开2014-085892号公报）所示的放大处理（像素数的增加）。 在由于用于拍摄的相机的性能而动态图像的分辨率较低的情况下,若以照片尺寸进行印刷,则有时边缘看起来像锯齿状。 为了解决这样的问题,例如在专利文献2（日本特开2014-085892号公报）中,提出了考虑了边缘方向的放大处理。 在本实施方式中,作为由图像处理部102执行的画质提高处理,能够利用专利文献2所记载的放大处理方法。</base:Paragraphs>
+      <base:Paragraphs num="0057">另外,作为能够在图像处理部102中应用的画质提高处理,例如可举出细节感提高处理。 特别是在风景照片中,通过提高成为被摄体的风景（例如山、树木等）的质感,能够给予更高品质的印象。 作为这样的细节感提高处理,例如可举出专利文献3或专利文献4中记载的细节感提高处理,图像处理部102能够利用这些文献中公开的细节感提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0058">而且,作为能够在图像处理部102中应用的画质提高处理,例如可举出降低因相机的传感器噪声或压缩处理而产生的伪像等噪声的噪声降低处理,作为这种噪声降低处理,例如可举出专利文献5中记载的噪声降低处理方法。</base:Paragraphs>
+      <base:Paragraphs num="0059">作为能够在图像处理部102中应用的画质提高处理,例示了以上介绍的专利文献2～5的处理,但在本实施方式中,图像处理部102执行任意一种处理（任意一个文献的处理）。 另外,由图像处理部102执行的图像处理由制造商侧预先设定。</base:Paragraphs>
+      <base:Paragraphs num="0060">&lt;UI的具体示例&gt; 
+接着,以图2A～图2C为例,对用于从动态图像文件中指定打印候选并输入向打印装置发送的指示的UI（user interface：用户接口）进行说明。 该UI显示于触摸面板14。 </base:Paragraphs>
+      <base:Paragraphs num="0061">首先,当触摸图2A的打开按钮25时,输入动态图像文件的读入指示,由此,显示控制部101读入动态图像文件,将帧编号为初始值的帧作为关注帧显示于关注帧显示区域19。</base:Paragraphs>
+      <base:Paragraphs num="0062">当触摸图2A的前进按钮（&gt;）26时,输入选择关注帧显示区域19中当前显示的帧的下一个接着的帧作为关注帧的指示。 由此,显示控制部101使关注帧显示区域19中显示的帧与帧FR对应。<base:Sub>i</base:Sub>从帧FR<base:Sub>i＋1</base:Sub>的规格化距离的幂函数。</base:Paragraphs>
+      <base:Paragraphs num="0063">当触摸图2A的后退按钮（&lt;）27时,输入选择当前显示在关注帧显示区域19中的帧之前的帧作为关注帧的指示。 由此,显示控制部101使关注帧显示区域19中显示的帧与帧FR对应。<base:Sub>i</base:Sub>从帧FR<base:Sub>i－1</base:Sub>的规格化距离的幂函数。</base:Paragraphs>
+      <base:Paragraphs num="0064">并且,在触摸面板14中,除了向前按钮26及向后按钮27以外,还显示滚动条29。 滚动条29从左端起依次具有运动图像文件所包含的NF张帧中的FR。<base:Sub>0</base:Sub>,FR<base:Sub>1</base:Sub>,…、FR<base:Sub>NF－1</base:Sub>对应于。</base:Paragraphs>
+      <base:Paragraphs num="0065">而且,当用户使滚动条29的旋钮29a移动时,输入选择与旋钮29a的停止位置对应的帧编号的帧作为关注帧的指示。 由此,显示控制部101选择与旋钮29a的停止位置对应的帧编号的帧作为关注帧,并使关注帧显示区域19进行显示。 此外,在通过旋钮29a以外的单元（例如前进按钮26、后退按钮27等）更新了关注帧的情况下,显示控制部101使旋钮29a移动到与新设为关注帧的帧的帧编号对应的停止位置。</base:Paragraphs>
+      <base:Paragraphs num="0066">此外,如果在关注帧显示区域19中显示的帧未被选择作为打印候选,则如图2A所示,显示指示未选择的字符（未选择的）。 由此,用户能够识别出所显示的帧（关注帧）未被选择为印刷候补。</base:Paragraphs>
+      <base:Paragraphs num="0067">然后,如图2A所示,如果用户在未选择在关注帧显示区域19中显示的帧作为打印候选时按下保存按钮20,则将选择在关注帧显示区域19中显示的帧（关注帧）作为打印候选的指示和对该帧实施画质提高处理（图像处理）的指示输入到便携终端10。 根据该输入,显示控制部101将显示于关注帧显示区域19的预览从未实施画质提高处理的帧FR<base:Sub>i</base:Sub>切换为画质提高处理后的帧RS<base:Sub>i</base:Sub>,并且如图2B所示,显示表示被选择为打印候选的文字（Selected）。 由此,用户能够识别出所显示的帧（关注帧）被选择为印刷候补。</base:Paragraphs>
+      <base:Paragraphs num="0068">此外,如图2B所示,当被选择为打印候选的帧作为关注帧显示在关注帧显示区域19中时,如果用户触摸保存按钮20,则输入从打印候选中排除（取消）关注帧的指令。 根据该输入,显示控制部101将显示于关注帧显示区域19的预览从实施了画质提高处理的帧RS<base:Sub>i</base:Sub>切换为未实施画质提高处理的帧FR<base:Sub>i</base:Sub>,并且如图2C所示,显示表示取消的字符（Canceled）。 由此,用户能够识别出在关注帧显示区域19中显示的帧暂时被选择为印刷候补,但之后被取消。</base:Paragraphs>
+      <base:Paragraphs num="0069">另外,通过用户触摸显示于触控面板14的提交按钮21,输入发送在该时刻选择的打印候选的帧的指示。 由此,发送处理部104将在印刷候选保存部12a中保存（蓄积）的印刷候选的帧向印刷装置发送。</base:Paragraphs>
+      <base:Paragraphs num="0070">&lt;关于背景&gt; 
+另外,在本实施方式中,在未选择（或者取消）显示于关注帧显示区域19的帧（关注帧）作为打印候选的情况下的针对保存按钮20的触摸操作（用户操作）是开始画质提高处理的触发,但在从显示控制部101选择帧FR<base:Sub>i</base:Sub>作为关注帧起未进行针对保存按钮20的触摸操作的状态持续了规定时间的情况下,即使未进行针对保存按钮20的触摸操作,图像处理部102也在背景下对帧FR<base:Sub>i</base:Sub>开始画质提高处理。 </base:Paragraphs>
+      <base:Paragraphs num="0071">更具体地说明如下。 图像处理部102在帧FR<base:Sub>i</base:Sub>被选择为关注帧时,对从选择时间点起的经过时间进行计数。 在此,若在计数的经过时间达到规定时间之前,关注帧从帧FR<base:Sub>i</base:Sub>变为帧FR<base:Sub>j</base:Sub>,则将从选择帧FR<base:Sub>i</base:Sub>起计数的经过时间重置,重新开始计数从选择帧FR<base:Sub>j</base:Sub>起的经过时间。 另外,若在所计数的经过时间达到规定时间之前进行了针对保存按钮20的触摸操作,则图像处理部102对关注帧实施画质提高处理,存储处理部103将画质提高处理后的帧作为印刷候选而存储于印刷候选保存部12a。</base:Paragraphs>
+      <base:Paragraphs num="0072">与此相对,在从选择帧FR<base:Sub>i</base:Sub>作为关注帧起不进行针对保存按钮20的触摸操作而计数得到的经过时间达到规定时间的情况下（即,在从选择某个关注帧起不更新关注帧且不按下保存按钮20而经过了规定时间的情况下）,图像处理部102在背景下对关注帧实施画质提高处理。 若背景下的画质提高处理完成,则存储处理部103将画质提高处理后的帧RS<base:Sub>i</base:Sub>存储于工作存储器部12b（即,在仅结束背景的画质提高处理而未进行针对保存按钮20的触摸操作的期间,存储处理部103不将帧RS<base:Sub>i</base:Sub>保存于印刷候选保存部12a,而是存储于工作存储器部12b）。</base:Paragraphs>
+      <base:Paragraphs num="0073">另外,显示控制部101在仅结束了背景的画质提高处理而未进行针对保存按钮20的触摸操作的期间,不显示帧RS<base:Sub>i</base:Sub>,依然继续显示帧FR<base:Sub>i</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0074">若在进行了背景的画质提高处理之后进行针对保存按钮20的触摸操作,则存储处理部103将帧RS<base:Sub>i</base:Sub>作为印刷候补保存于印刷候补保存部12a,另外,显示控制部101将显示于关注帧显示区域19的预览从帧FR<base:Sub>i</base:Sub>切换为帧RS<base:Sub>i</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0075">即,在针对在关注帧显示区域19中显示的帧FR<base:Sub>i</base:Sub>已经进行了背景的画质提高处理、画质提高处理的处理结果的帧RS<base:Sub>i</base:Sub>存储于工作存储器部12b的状况下,在进行了针对保存按钮20的触摸操作的情况下,图像处理部102跳过针对帧FR<base:Sub>i</base:Sub>的画质提高处理,存储处理部103将帧RS<base:Sub>i</base:Sub>保存于印刷候选保存部12a,显示控制部101将显示于关注帧显示区域19的预览从帧FR<base:Sub>i</base:Sub>切换为帧RS<base:Sub>i</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0076">由此,根据本实施方式的便携终端10,与在后台不进行画质提高处理的构成相比,能够缩短从进行针对保存按钮20的触摸操作（开始画质提高处理的用户指示）到显示帧RS<base:Sub>i</base:Sub>为止的时间。</base:Paragraphs>
+      <base:Paragraphs num="0077">因此,能够缩短进行了针对保存按钮20的触摸操作后的用户感受到的处理时间（画质提高处理的处理时间）。 由此,起到如下效果：即使画质提高处理是处理时间长的图像处理,也能够抑制用户的操作的舒适性受损。</base:Paragraphs>
+      <base:Paragraphs num="0078">使构成动态图像的帧接近适合于照片图像的画质的画质提高处理存在处理时间变长的倾向,在不进行背景的画质提高处理的方式的情况下,从进行作为画质提高处理的开始的触发的用户操作起到能够进行画质提高处理后的帧的显示为止所需的时间变长。 因此,对于用户而言,在进行从运动图像文件中提取作为打印候选的帧的操作时,有可能损害舒适性。 与此相对,在本实施方式中,如上所述,因此能够抑制这种情况。</base:Paragraphs>
+      <base:Paragraphs num="0079">另外,在本实施方式的构成中,在虽然结束了背景的画质提高处理但未进行针对保存按钮20的触摸操作的期间,显示控制部101不使触摸面板14显示帧RS<base:Sub>i</base:Sub>。 由此,能够抑制因用户意外地变更显示于触摸面板14的显示内容而看漏画质提高处理的前后的差异的情况。</base:Paragraphs>
+      <base:Paragraphs num="0080">另外,在本实施方式的结构中,在图像处理部102在后台执行画质提高处理的期间用户触摸了保存按钮20的情况下,图像处理部102直接继续执行中的画质提高处理。 而且,在该情况下,当画质提高处理结束时,存储处理部103将从图像处理部102输出的帧RS<base:Sub>i</base:Sub>作为印刷候选而存储于印刷候选保存部12a,显示控制部101使帧RS<base:Sub>i</base:Sub>显示于触摸面板14。 即,即使在背景的画质提高处理为中途阶段时用户触摸了保存按钮20的情况下,也不会从头开始重新进行画质提高处理,因此能够缩短进行了针对保存按钮20的触摸操作后的用户感受到的处理时间（画质提高处理的处理时间）。</base:Paragraphs>
+      <base:Paragraphs num="0081">另外,在没有触摸保存按钮20而在背景下的画质提高处理的执行中显示控制部101根据用户操作变更了关注帧的情况下（关注帧从第1静止图像变为第2静止图像的情况下）,图像处理部102中断执行中的画质提高处理,丢弃在处理的中途阶段得到的中间数据。 由此,在变更了关注帧的情况下,中断针对变更前的关注帧的画质提高处理,因此能够抑制能够分配给与变更后的关注帧有关的各种处理的计算机的资源不足,能够抑制与变更后的关注帧有关的各种处理停滞。</base:Paragraphs>
+      <base:Paragraphs num="0082">另外,在保存按钮20未被触摸而针对关注帧结束了背景下的画质提高处理之后,在显示控制部101根据用户操作而变更了关注帧的情况下,存储处理部103丢弃工作存储器部12b中存储的处理结果（画质提高处理后的帧）。 由此,将不需要的处理结果从工作存储器部12b中排除,因此能够抑制计算机的性能的降低。</base:Paragraphs>
+      <base:Paragraphs num="0083">此外,在本实施方式中,图像处理部102在从帧FR<base:Sub>i</base:Sub>被显示控制部101选择为关注帧起未进行针对保存按钮20的触摸操作的状态持续了规定时间的情况下,对帧FR<base:Sub>i</base:Sub>在背景下开始画质提高处理,但作为该规定时间,需要是超过零的时间（作为规定时间,零被排除）。 即,从帧FR<base:Sub>i</base:Sub>被选择为关注帧的时间点到背景开始时间点需要空出时间间隔,不设为根据帧FR<base:Sub>i</base:Sub>被选择为关注帧而开始画质提高处理那样的方式。 其理由如下。</base:Paragraphs>
+      <base:Paragraphs num="0084">假设在将规定时间设为零的情况下,图像处理部102每当关注帧切换时必定开始图像处理（对要显示于关注帧显示区域19的全部帧进行背景处理）,对计算机施加的处理负担变得过重,这样的方式不现实。</base:Paragraphs>
+      <base:Paragraphs num="0085">与此相对,如果从关注帧的选择时间点到背景开始时间点为止空出大于零的时间间隔,则对于即使在关注帧显示区域19中显示也会立即从关注帧显示区域19中删除的帧,不进行画质提高处理,用户犹豫是否设为打印候选而缩小到在关注帧显示区域19中持续显示的帧,在背景中进行画质提高处理。 因此,对计算机施加的处理负担不会变重,并且是高效的。 根据以上那样的理由,规定时间需要设为超过零的时间。</base:Paragraphs>
+      <base:Paragraphs num="0086">在实施方式1中,说明了如下方面：在作为关注帧（显示于关注帧显示区域19的帧）而帧FR<base:Sub>i</base:Sub>被显示控制部101选择之后未进行针对保存按钮20的触摸操作的状态持续了规定时间的情况下,针对帧FR<base:Sub>i</base:Sub>在背景下开始画质提高处理,由此缩短之后进行了针对保存按钮20的触摸操作之后的用户感受到的处理时间（画质提高处理的处理时间）。</base:Paragraphs>
+      <base:Paragraphs num="0087">但是,在上述的画质提高处理需要非常庞大的时间的情况下,即使在背景下执行画质提高处理,直到得到处理后的图像为止也需要时间,有时难以将用户感受到的处理时间缩短到适当的范围。</base:Paragraphs>
+      <base:Paragraphs num="0088">因此,在本实施方式中,当显示控制部101根据用户的操作选择帧FR<base:Sub>i</base:Sub>作为关注帧时,图1的期待度计算部105求出将在对关注帧实施画质提高处理（由图像处理部102执行的图像处理）的情况下期待的画质提高的效果的程度数值化后的期待度,并存储在工作存储器部12b中。 而且,显示控制部101使触摸面板14显示由期待度计算部105计算并写入工作存储器部12b的期待度。 另外,由期待度计算部105进行的期待度计算处理是将画质提高处理执行到中途而求出中途结果并根据该中途结果求出期待度的处理,被设计成处理时间比画质提高处理整体的执行所需的时间短。</base:Paragraphs>
+      <base:Paragraphs num="0089">根据以上的构成,当选择帧FR<base:Sub>i</base:Sub>作为关注帧时（当帧FR<base:Sub>i</base:Sub>显示于关注帧显示区域19时）,与通过对保存按钮20的触摸操作而开始的画质提高处理的结束、在后台执行的画质提高处理的结束相比,期待度计算部105的期待度计算的结束更早。 因此,在画质提高处理的结束之前（在显示画质提高处理后的帧RS<base:Sub>i</base:Sub>之前）,用户能够确认对帧FR<base:Sub>i</base:Sub>实施了画质提高处理的情况下的期待度。</base:Paragraphs>
+      <base:Paragraphs num="0090">因此,用户对于显示于关注帧显示区域19的帧FR<base:Sub>i</base:Sub>,即使画质提高处理没有大部分结束,也能够通过确认期待度来判断是否应作为印刷候补,能够结束针对帧FR<base:Sub>i</base:Sub>的作业而转移到针对下一帧的作业。 即,即使在画质提高处理需要非常庞大的时间的情况下,也无需等待实施了画质提高处理的预览的显示开始（不等待画质提高处理的结束）,就能够确认实施了画质提高处理的情况下的期待度,因此起到能够抑制用户的操作的舒适性受损的效果。</base:Paragraphs>
+      <base:Paragraphs num="0091">图3是表示将表示期待度的图表显示于触摸面板14的移动终端10的图。 在图3中,与滚动条29的旋钮29a相关联的柱状图30是表示针对在关注帧显示区域19中显示的帧（关注帧）的期待度的图表。</base:Paragraphs>
+      <base:Paragraphs num="0092">另外,在图3中,在条形图30的左侧并排的条形图是与过去作为关注帧显示在关注帧显示区域19中的帧对应的期待度。 即,在图3的例子中,显示控制部101不仅使触摸面板14显示对在当前时间点被设为关注帧的帧的期待度,还使触摸面板14显示对过去被设为关注帧的帧的期待度。 因此,用户可以容易地将当前显示在关注帧显示区域19中的帧与过去显示的帧之间的预期水平的差异进行比较。</base:Paragraphs>
+      <base:Paragraphs num="0093">另外,在本实施方式中,也与实施方式1同样地,在不是印刷候补的帧FR<base:Sub>i</base:Sub>作为关注帧显示于关注帧显示区域19的情况下,若保存按钮20被触摸,则图像处理部102对帧FR<base:Sub>i</base:Sub>执行画质提高处理,并在后台进行画质提高处理。 另外,在本实施方式中,与实施方式1不同,若不是印刷候补的帧FR<base:Sub>i</base:Sub>作为关注帧显示于关注帧显示区域19,则期待度计算部105将画质提高处理执行到中途,使用中途结果进行期待度计算处理。</base:Paragraphs>
+      <base:Paragraphs num="0094">因此,存储处理部103使工作存储器部12b存储由期待度计算部105计算出的中途结果。 图像处理部102也可以在保存按钮20被触摸的情况下,或者在从帧FR<base:Sub>i</base:Sub>被选择为关注帧起没有对保存按钮20的触摸操作的状态持续了规定时间的情况下,如果前述的中途结果（将画质提高处理执行到中途而得到的结果）已经被写入工作存储器部12b,则沿用中途结果来进行画质提高处理。 换言之,期待度计算部105在中途中止画质提高处理,图像处理部102从中途重新开始被期待度计算部105中止的画质提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0095">由此,在背景下的画质提高处理开始后触摸了保存按钮20的情况下,能够进一步缩短触摸保存按钮20后的用户感受到的处理时间（画质提高处理所需的时间）。</base:Paragraphs>
+      <base:Paragraphs num="0096">此外,本实施方式的期待度原则上被计算为标量或向量。 由此,能够减小确保期待度所需的存储器量,能够蓄积多个帧的效果的期待度,如图3所示,不仅使当前时刻的关注帧的期待度显示于触摸面板14,而且使过去的关注帧的期待度也显示于触摸面板14变得容易。 另外,在如动态图像文件那样静止图像的数量庞大时,当然也可以在规定的帧数（例如100张）之前使工作存储器部12b保持期待度并显示于触摸面板14。</base:Paragraphs>
+      <base:Paragraphs num="0097">另外,在不将在当前时间点被选择为关注帧的帧FR<base:Sub>k</base:Sub>选择为印刷候选而变更关注帧的情况下,或者在将帧FR<base:Sub>m</base:Sub>暂时选择为印刷候选但取消的情况下,不需要将已经写入工作存储器部12b的帧FR<base:Sub>k</base:Sub>、帧FR<base:Sub>m</base:Sub>的期待度删除,能够作为履历而保留。</base:Paragraphs>
+      <base:Paragraphs num="0098">&lt;期望度计算处理的具体示例&gt; 
+例如,在由图像处理部102执行的画质提高处理是专利文献4（日本特开2013-219462号公报）中列举的细节感提高处理的情况下,由期待度计算部105进行的期待度计算处理的具体例如下所述。 </base:Paragraphs>
+      <base:Paragraphs num="0099">在专利文献4所示的细节校正处理中,将输入图像的各像素作为关注像素,在以关注像素为中心的M×N像素的块中分别计算像素值（灰度值）的最大值和最小值,根据各关注像素的像素值以及针对各关注像素计算出的上述最大值和上述最小值来计算各关注像素的高频成分。 然后,对上述高频成分乘以根据各关注像素中的动态范围的大小而变化的权重系数,将通过该乘法运算得到的值与各关注像素的像素值相加,将通过该加法运算得到的值作为细节校正结果输出。</base:Paragraphs>
+      <base:Paragraphs num="0100">在这样的细节校正处理中,在动态范围比较小且关注像素的像素值接近最大值或最小值的情况下,细节校正处理的效果变大,因此,例如能够通过下述的数学式1计算期待度EXP。</base:Paragraphs>
+      <base:Paragraphs num="0101">
+        <base:MathDetails num="0001">
+          <base:Image id="000003" he="13" wi="169" file="2016126496_000003.TIF" imgFormat="TIFF" imgContent="drawing"/>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0102">在（数式1）中,（i,j）表示输入图像的坐标,R表示输入图像可取的全部坐标的集合。 即,在输入图像的水平方向的像素数为W、垂直方向的像素数为H时,集合R成为通过i=0,1,…,W-1以及j=0,1,…,H-1的组合而可取的全部坐标的集合。</base:Paragraphs>
+      <base:Paragraphs num="0103">在（式1）中,f（i,j）是在将位于坐标（i,j）的像素设为关注像素时,根据关注像素中的动态范围的大小而给出的期待度的系数,例如是相对于动态范围的值表示图4所示那样的波形的函数。 另外,关注像素的动态范围是针对关注像素计算出的最大值与最小值之差。</base:Paragraphs>
+      <base:Paragraphs num="0104">在（式1）中,g（i,j）是期待度的系数。 具体而言,g（i,j）是表示在将位于坐标（i,j）的像素设为关注像素时,关注像素的像素值与针对关注像素计算出的最大值或最小值以何种程度接近的值。 例如,当将关注像素的像素值设为P、将针对关注像素计算出的最大值设为Pmax、将针对关注像素计算出的最小值设为Pmin时,g（i,j）是表示图5所示的波形的函数。</base:Paragraphs>
+      <base:Paragraphs num="0105">另外,上述的系数f（i,j）以及g（i,j）的计算方法是一例,也可以通过与图4以及图5不同的函数来计算f（i,j）以及g（i,j）。</base:Paragraphs>
+      <base:Paragraphs num="0106">期待度计算部105通过使用以上的（式1）,能够计算对帧进行专利文献4所示的细节感提高处理的情况下的期待度EXP。</base:Paragraphs>
+      <base:Paragraphs num="0107">另外,期待度计算部105求出关于关注像素的最大值、最小值、动态范围,使用该动态范围求出期待度EXP。 这里,关于关注像素的最大值、最小值、动态范围相当于将细节校正处理（画质提高处理）执行到中途而得到的中途结果。 图像处理部102在直到画质提高处理的开始为止所述中途结果被期待度计算部105计算出的情况下,沿用该中途结果。 由此,能够进一步缩短用户感受到的画质提高处理所需的时间。</base:Paragraphs>
+      <base:Paragraphs num="0108">&lt;无背景的示例&gt; 
+另外,在本实施方式（实施方式2）中,不仅计算并显示期待度,还进行实施方式1所示的基于背景的画质提高处理。 但是,在如本实施方式那样计算并显示期待度的方式的情况下,即使不进行基于背景的画质提高处理,也能够早期进行进行画质提高处理的情况下的效果的判断（用户的判断）。 因此,在如实施方式2那样搭载期待度计算部105的结构的情况下,图像处理部102在未被设为印刷候补的帧FR<base:Sub>i</base:Sub>作为关注帧显示于关注帧显示区域19的期间,根据用户操作（针对保存按钮的触摸操作）对帧FR<base:Sub>i</base:Sub>进行画质提高处理,但在未进行所述用户操作的状态持续了规定时间的情况下,也可以不在背景下对帧FR<base:Sub>i</base:Sub>开始画质提高处理。 </base:Paragraphs>
+      <base:Paragraphs num="0109">即,该结构的便携终端10的特征在于,具备从包含多个静止图像（帧）的图像数据（运动图像文件）中选择关注图像并使所述多个静止图像中的至少关注图像显示于显示画面的显示控制部101、当进行成为开始规定图像处理（画质提高处理）的触发的用户操作时对所述关注图像实施所述规定图像处理的图像处理部102、以及计算表示对所述关注图像实施规定图像处理的情况下所期待的画质提高的效果的程度的期待度的期待度计算部105,显示控制部101使所述关注图像和所述期待度一起显示于所述显示画面。</base:Paragraphs>
+      <base:Paragraphs num="0110">在以上的各实施方式中,显示控制部101构成为,在选择了帧FR<base:Sub>i</base:Sub>作为新的关注帧的情况下,对该帧FR<base:Sub>i</base:Sub>进行解码并写入工作存储器部12b,使该帧FR<base:Sub>i</base:Sub>显示。</base:Paragraphs>
+      <base:Paragraphs num="0111">与此相对,在本实施方式（实施方式3）中,显示控制部101在选择了帧FR<base:Sub>i</base:Sub>作为新的关注帧的情况下,不仅对帧FR<base:Sub>i</base:Sub>进行解码,还对在动态图像文件中的帧的排列顺序中帧FR<base:Sub>i</base:Sub>的紧前的帧FR<base:Sub>i-1</base:Sub>和帧FR<base:Sub>i</base:Sub>的紧后的帧FR<base:Sub>i+1</base:Sub>进行解码并存储于工作存储器部12b。 然后,显示控制部101使关注帧显示区域19显示从写入工作存储器部12b的帧FR<base:Sub>i</base:Sub>、FR<base:Sub>i-1</base:Sub>、FR<base:Sub>i+1</base:Sub>中选择为关注帧的帧FR<base:Sub>i</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0112">另外,在选择帧FR<base:Sub>i</base:Sub>作为新的关注帧时,在帧FR<base:Sub>i</base:Sub>、FR<base:Sub>i-1</base:Sub>、FR<base:Sub>i+1</base:Sub>中存在已经被解码并被写入工作存储器部12b的帧的情况下,显示控制部101直接沿用已经被写入工作存储器部12b的帧,不进行新的解码。</base:Paragraphs>
+      <base:Paragraphs num="0113">即,在本实施方式的结构中,在选择了帧FR<base:Sub>i</base:Sub>作为新的关注帧的情况下,需要进行解码并写入工作存储器部12b的帧是帧FR<base:Sub>i</base:Sub>、FR<base:Sub>i-1</base:Sub>、FR<base:Sub>i+1</base:Sub>（被选择为印刷候选而完成了画质提高处理的帧被保存于印刷候选保存部12a）。</base:Paragraphs>
+      <base:Paragraphs num="0114">根据本实施方式的结构,在将作为关注帧提取的帧的编号前后错开时,能够抑制每次发生因对帧进行解码而引起的延迟。 也就是说,例如,在关注帧从帧FR<base:Sub>i</base:Sub>变为帧FR<base:Sub>i+1</base:Sub>的情况下,由于帧FR<base:Sub>i+1</base:Sub>已经被解码,因此能够立即显示帧FR<base:Sub>i+1</base:Sub>（另外,在这种情况下,帧FR<base:Sub>i+1</base:Sub>成为关注帧,但是作为关注帧的帧FR<base:Sub>i+1</base:Sub>和紧接在前的帧FR<base:Sub>i</base:Sub>被解码,但是紧接在后的帧FR<base:Sub>i+2</base:Sub>尚未被解码,因此显示控制部101进行将帧FR<base:Sub>i+2</base:Sub>解码并写入工作存储器部12b的处理）。</base:Paragraphs>
+      <base:Paragraphs num="0115">特别是,在如动画文件那样以规定顺序对多个帧（静止图像）进行排序的情况下,当前被选择为关注帧的帧的紧前或紧后的帧表示与关注帧相同的场景的可能性高,被用户与关注帧进行比较的可能性高（为了判断将被显示为关注帧的帧和紧前（或紧后）的帧中的哪一个作为打印候选,进行上述比较）。 即,在将作为关注帧显示的帧从帧FR<base:Sub>i</base:Sub>切换为紧前的帧FR<base:Sub>i-1</base:Sub>或紧后的帧FR<base:Sub>i+1</base:Sub>的情况下,如果显示切换的速度低,则用户的操作的舒适性受损。 与此相对,根据本实施方式的结构,能够抑制这种情况下的显示切换的速度降低,能够抑制用户的操作的舒适性受损。</base:Paragraphs>
+      <base:Paragraphs num="0116">此外,在帧FR<base:Sub>i</base:Sub>被显示为关注帧的情况下,至少帧FR<base:Sub>i</base:Sub>、紧接在前的帧FR<base:Sub>i-1</base:Sub>、以及紧接在后的帧FR<base:Sub>i+1</base:Sub>被解码并存储在工作存储器部12b中即可,也可以进一步增加被解码的帧。</base:Paragraphs>
+      <base:Paragraphs num="0117">例如,显示控制部101对帧FR进行控制。<base:Sub>i</base:Sub>在选择了帧FR作为关注帧的情况下,<base:Sub>i</base:Sub>及其之前的两个帧FR<base:Sub>i－1</base:Sub>、FR<base:Sub>i－2</base:Sub>和随后的两个帧FR<base:Sub>i+1</base:Sub>、FR<base:Sub>i+2</base:Sub>和,并将它们写入工作存储器部分12b。 另外,在该情况下,显示控制部101也将帧FR作为帧FR。<base:Sub>i</base:Sub>在选择帧FR作为新的关注帧时,<base:Sub>i</base:Sub>、FR<base:Sub>i-1</base:Sub>、FR<base:Sub>i-2</base:Sub>、FR<base:Sub>i+1</base:Sub>、FR<base:Sub>i+2</base:Sub>其中,在存在已经被解码并被写入工作存储器部分12b的帧的情况下,已经被写入工作存储器部分12b的帧被原样使用,并且不被重新解码。</base:Paragraphs>
+      <base:Paragraphs num="0118">根据以上的结构,不仅在将作为关注帧提取的帧的编号向紧前或紧后偏移的情况下,而且在将作为关注帧提取的帧的编号向前2个或后2个偏移的情况下,也能够抑制每次对关注帧进行解码所引起的延迟的产生,能够进一步抑制延迟。</base:Paragraphs>
+      <base:Paragraphs num="0119">另外,如本实施方式那样,在帧FR<base:Sub>i</base:Sub>被显示为关注帧的期间,至少帧FR<base:Sub>i</base:Sub>、紧前的帧FR<base:Sub>i-1</base:Sub>以及紧后的帧FR<base:Sub>i+1</base:Sub>被解码并被写入工作存储器部12b的构成的情况下,也可以是,期待度计算部105计算被解码的帧FR<base:Sub>i</base:Sub>、帧FR<base:Sub>i-1</base:Sub>以及帧FR<base:Sub>i+1</base:Sub>各自的期待度（在实施方式2中说明的期待度）,显示控制部101使选择为关注帧的帧FR<base:Sub>i</base:Sub>和至少帧FR<base:Sub>i</base:Sub>、FR<base:Sub>i-1</base:Sub>、FR<base:Sub>i+1</base:Sub>各自的期待度一起显示于触摸面板14。 由此,用户更容易进行所显示的关注帧与紧前或紧后的帧的比较研究。</base:Paragraphs>
+      <base:Paragraphs num="0120">图6是例示在关注帧显示区域19中显示特定帧作为关注帧并且同时显示在关注帧显示区域19中显示的帧的期望度、紧接在所显示的帧之前的帧的期望度和紧接在所显示的帧之后的帧的期望度的移动终端10的图。 在图6中,在关注帧显示区域19中显示有与滚动条29的旋钮29a对应的柱状图30a的帧FR。<base:Sub>i</base:Sub>的期待度,柱状图30a的右侧相邻的柱状图30b表示帧FR<base:Sub>i+1</base:Sub>的期待度,柱状图30a的左邻的柱状图30c表示帧FR<base:Sub>i‐1</base:Sub>的期待度。</base:Paragraphs>
+      <base:Paragraphs num="0121">即,图3的移动终端10显示当前在关注帧显示区域19中显示的帧的期望度和过去在关注帧显示区域19中显示的帧的期望度,而图6的移动终端10一起显示当前在关注帧显示区域19中显示的帧的期望度、紧接在当前显示的帧之前的帧的期望度和紧接在当前显示的帧之后的帧的期望度。</base:Paragraphs>
+      <base:Paragraphs num="0122">（实施方式4）若用户反复进行指定印刷候选的作业,则所存储的印刷候选变多,产生存储部12中的被确保为印刷候选保存部12a的区域的空余容量不足这样的问题。</base:Paragraphs>
+      <base:Paragraphs num="0123">因此,在本实施方式中,每当用户指定新的印刷候补时（每当未被选择为印刷候补的帧被显示为关注帧时保存按钮20被触摸时）,存储处理部103判定作为印刷候补而存储于印刷候补保存部12a的画质提高处理后的帧（以下称为“处理后帧”）的数据量的合计是否因新的印刷候补的指定而超过阈值。 具体而言,当用户指定新的打印候选时,存储处理部103计算与新的打印候选相关的处理后帧（从图像处理部102输出的处理后帧、或者在后台已经得到的处理后帧）的数据量和已经保存于打印候选保存部12a的打印候选的处理后帧的数据量之和。 该和相当于上述的合计。</base:Paragraphs>
+      <base:Paragraphs num="0124">存储处理部103在判定为作为印刷候补而存储于印刷候补保存部12a的处理后帧（印刷对象图像）的数据量的合计不会因新的印刷候补的指定而超过阈值的情况下,继续使印刷候补保存部12a保持处理后帧的模式,将新的印刷候补的处理后帧保存于印刷候补保存部12a。</base:Paragraphs>
+      <base:Paragraphs num="0125">与此相对,在判定为作为打印候选而存储于打印候选保存部12a的处理后帧的数据量的合计由于新的打印候选的指定而超过阈值的情况下,显示控制部101在触摸面板14上进行警告显示。 在该警告显示中,示出所保存的打印候选过多,并且示出用于使用户选择以下处理A或处理B中的任一个的UI。 处理A：停止印刷候补的追加。 处理B：从使印刷候选保存部12a保持处理后帧的第一模式,切换为不保持处理后帧而使印刷候选保存部12a保持辅助信息的第二模式。</base:Paragraphs>
+      <base:Paragraphs num="0126">若用户选择处理A,则存储处理部103不将新的印刷候补的处理后帧存储于印刷候补保存部12a而删除并结束处理,显示控制部101显示表示印刷候补的指定被取消的信息。</base:Paragraphs>
+      <base:Paragraphs num="0127">若用户选择处理B,则存储处理部103关于全部的印刷候补,不是使印刷候补保存部12a保持处理后帧,而是保持将识别印刷候补的帧的识别信息与确定画质提高处理的确定信息建立了对应的辅助信息。 此外,识别信息是帧所固有的信息,例如可举出动态图像文件中的帧的编号。 作为确定信息,例如可举出确定实施画质提高处理的软件的信息、以及所设定的强度（画质提高处理的强度）等信息。</base:Paragraphs>
+      <base:Paragraphs num="0128">即,在选择了处理B的情况下,存储处理部103将至此为止在印刷候选保存部12a中作为印刷候选而存储的处理后帧全部变换为辅助信息。 另外,存储处理部103将新的印刷候补的处理后帧也变换为辅助信息,并使该辅助信息存储于印刷候补保存部12a。 并且,关于在选择了处理B之后指定的印刷候补（在上述的新的印刷候补之后指定的印刷候补）,不进行基于图像处理部102的画质提高处理,保存于印刷候补保存部12a的仅是辅助信息（当然,也不进行背景下的画质提高处理）。 因此,在选择了处理B之后,在印刷候补保存部12a中不保持处理后帧,即使在被选择为印刷候补的帧被显示为关注帧的情况下,显示控制部101也不是使处理后帧RS<base:Sub>i</base:Sub>显示于关注帧显示区域19,而是使未实施画质提高处理的帧FR<base:Sub>i</base:Sub>显示于关注帧显示区域19。</base:Paragraphs>
+      <base:Paragraphs num="0129">根据这样的结构,即使所存储的印刷候补变多,也能够抑制在存储部12中作为印刷候补保存部12a而确保的区域的空余容量不足这样的问题。</base:Paragraphs>
+      <base:Paragraphs num="0130">此外,在本实施例中,在用户触摸提交按钮21的情况下由发送处理单元104执行的处理如下。</base:Paragraphs>
+      <base:Paragraphs num="0131">首先,当用户触摸提交按钮21时,发送处理单元104确定打印候选是作为帧存储在打印候选存储单元12a中还是作为辅助信息存储在打印候选存储单元12a中。</base:Paragraphs>
+      <base:Paragraphs num="0132">在印刷候补在印刷候补保存部12a中被存储为帧的情况下,发送处理部104将该帧直接向印刷装置发送。</base:Paragraphs>
+      <base:Paragraphs num="0133">与此相对,在打印候选在打印候选保存部12a中被存储为辅助信息的情况下,发送处理部104参照打印候选保存部12a的辅助信息,从动态图像文件中对被指定为打印候选的1张帧进行解码,并将该帧和与该帧对应的辅助信息向打印装置发送。 另外,在存在多个打印候选的情况下,发送处理部104在开始一张帧的发送时,转移到与下一帧相关的处理（开始下一帧的解码）。 而且,印刷装置在接收到帧和辅助信息时,参照辅助信息,对帧实施画质提高处理,印刷处理后的帧。 或者,也可以是,不仅帧的解码,画质提高处理也在便携终端10侧进行,画质提高处理后的帧从便携终端10向印刷装置发送。</base:Paragraphs>
+      <base:Paragraphs num="0134">另外,在打印候选较多的情况下,若在便携终端10侧对帧进行解码,则解码以及发送所需的处理时间变多。 因此,在印刷候补较多的情况下,也可以是在印刷装置侧对帧进行解码的方式。 具体而言,如下所述。</base:Paragraphs>
+      <base:Paragraphs num="0135">在用户触摸了提交按钮21的情况下,发送处理部104判定打印候选在打印候选保存部12a中作为帧被存储还是作为辅助信息被存储这一点与上述相同,在打印候选在打印候选保存部12a中作为帧被存储的情况下的发送处理的内容也与上述相同。</base:Paragraphs>
+      <base:Paragraphs num="0136">在打印候选在打印候选保存部12a中被存储为辅助信息的情况下,发送处理部104判定打印候选的量是否超过规定量。 例如,也可以在被指定为印刷候补的帧的张数超过规定阈值（例如10张）的情况下,判定为印刷候补的量超过规定量,否则判定为印刷候补的量未超过规定量。 或者,在将印刷候补的帧的张数设为N、将帧（处理后帧）的像素数设为P、将每一个像素的比特数设为B时,也可以在P×N×B（总比特数）超过预定阈值（例如2<base:Sup>25</base:Sup>）的情况下判定为印刷候补的量超过预定量,在并非如此的情况下判定为印刷候补的量未超过预定量。</base:Paragraphs>
+      <base:Paragraphs num="0137">在打印候选的量未超过规定量的情况下,发送处理部104参照打印候选保存部12a的辅助信息,从运动图像文件中对被指定为打印候选的帧进行解码,并将该帧和与该帧对应的辅助信息向打印装置发送。</base:Paragraphs>
+      <base:Paragraphs num="0138">另一方面,在打印候选的量超过预定量的情况下,发送处理单元104将运动图像文件本身和辅助信息发送到打印装置,而不执行上述解码。 打印装置基于辅助信息从接收到的动态图像文件中对被指定为打印候补的帧进行解码,并对该帧执行画质提高处理。 这样,能够抑制用户操作打印装置的时间,并且能够减轻便携终端10的处理负担。</base:Paragraphs>
+      <base:Paragraphs num="0139">此外,以上是在追加印刷候补时,在存储处理部103判定为作为印刷候补而存储于印刷候补保存部12a的处理后帧的数据量的合计超过阈值的情况下,使用户选择处理A或者处理B的方式,但也可以不使用户选择处理A或者处理B而进行处理B。</base:Paragraphs>
+      <base:Paragraphs num="0140">（实施方式5）便携终端10是智能手机。 因此,移动终端10所具备的触摸面板14的显示部14a具有其面积小、像素密度高的倾向（即,1个像素往往变得非常小）。 因此,即使使由图像处理部102实施了画质提高处理后的帧整体显示于关注帧显示区域19,有时也难以确认画质提高处理的效果。 与此相对,在关注帧显示区域19中,如果不显示整个帧而仅放大显示帧的一部分区域（以提高显示倍率的方式显示）,则图像质量提高处理的效果的确认变得容易。 因此,显示控制部101能够根据触摸面板14上的用户的触摸操作,使关注帧显示区域19中显示的图像的一部分区域在关注帧显示区域19中放大显示,也能够进行与放大显示相反的缩小显示（降低显示倍率进行显示）。 在下文中,将描述放大显示和缩小显示。</base:Paragraphs>
+      <base:Paragraphs num="0141">&lt;放大显示和缩小显示&gt; 
+作为用于进行放大显示和缩小显示的用户的变焦操作,能够应用公知、惯用的处理。 </base:Paragraphs>
+      <base:Paragraphs num="0142">具体地,如图7所示,用户可以通过触摸在关注帧显示区域19中显示的帧上的两个点来执行双指外扩操作（增加两个点之间的间隔的操作）,从而仅放大显示整个帧的部分区域。 也就是说,可以通过使部分区域的尺寸与关注帧显示区域19的尺寸匹配来仅显示部分区域。 注意,放大操作（变焦操作）中的两个点之间的间隔越大,显示倍率越高,并且显示范围占整个帧的比例越小。</base:Paragraphs>
+      <base:Paragraphs num="0143">另外,当然也可以通过捏合操作（缩小两点的间隔的操作）,与放大显示相反地进行缩小显示。 随着捏合操作（变焦操作）中的两点之间的间隔变窄,显示倍率变得更低,并且显示范围在整个帧中的比例变得更大。</base:Paragraphs>
+      <base:Paragraphs num="0144">此外,在通过上述放大显示或缩小显示在关注帧显示区域19中仅显示整个帧的部分区域的情况下,如图8所示,用户可以通过触摸关注帧显示区域19上的一个点并执行轻弹操作（移动触摸点）来改变要显示在关注帧显示区域19中的整个帧的范围。</base:Paragraphs>
+      <base:Paragraphs num="0145">例如,显示控制部101使关注帧为帧FR。<base:Sub>i－1</base:Sub>从帧FR<base:Sub>i</base:Sub>,则首先帧FR<base:Sub>i</base:Sub>的整体区域50（图9的实线所示的矩形区域）显示在关注帧显示区域19中。 此时在关注帧显示区域19中显示的帧FR<base:Sub>i</base:Sub>如图2A所示。 在此,当对触摸面板14进行张开操作时,显示控制部101例如对图9的矩形A的范围进行放大显示。 此时的关注帧显示区域19如图10所示。<base:Sub>i</base:Sub>其中的矩形A的范围显示在关注帧显示区域19中。</base:Paragraphs>
+      <base:Paragraphs num="0146">此外,当在图9中的矩形A的范围被放大显示时进一步执行放大操作以调整显示倍率时,显示控制单元101在关注帧显示区域19中仅放大显示例如图9中的矩形C的范围。 此时的关注帧显示区域19如图11所示。</base:Paragraphs>
+      <base:Paragraphs num="0147">此外,如果在放大显示图9中的矩形A的范围时执行如图8中所示的轻拂操作,则显示控制单元101可以在关注帧显示区域19中仅放大显示例如图9中的矩形B的范围。 此时在关注帧显示区域19中显示的帧FR<base:Sub>i</base:Sub>如图12所示。</base:Paragraphs>
+      <base:Paragraphs num="0148">&lt;关于图像质量提高处理&gt; 
+接着,说明在通过放大显示或缩小显示而在关注帧显示区域19中仅显示有帧FR<base:Sub>i</base:Sub>的一部分区域的情况下（即,作为在关注帧显示区域19中显示的关注帧而被显示控制部101选择的仅是帧FR<base:Sub>i</base:Sub>的一部分区域的情况下）,图像处理部102如何进行画质提高处理。 </base:Paragraphs>
+      <base:Paragraphs num="0149">在该情况下,图像处理部102将用于显示的画质提高处理的处理对象限制为帧FR<base:Sub>i</base:Sub>的整体中的所述一部分区域（当然,在帧FR<base:Sub>i</base:Sub>的整体显示于关注帧显示区域19的情况下,与实施方式1同样地进行画质提高处理并输出帧RS<base:Sub>i</base:Sub>）。</base:Paragraphs>
+      <base:Paragraphs num="0150">即,在作为显示于关注帧显示区域19的关注帧而被显示控制部101选择的是帧FR<base:Sub>i</base:Sub>的一部分区域的情况下（该一部分区域被放大显示的情况下）,图像处理部102在保存按钮20被触摸时,不是对帧FR<base:Sub>i</base:Sub>的整体,而是仅对显示于关注帧显示区域19的范围（所述一部分区域）实施画质提高处理,将处理结果（画质提高处理后的一部分区域的图像数据）写入工作存储器部12b。 但是,在该情况下,对应用用于放大显示的尺寸调整处理（像素数调整处理）之前的帧FR<base:Sub>i</base:Sub>中的上述一部分区域应用画质提高处理,而不是对应用了尺寸调整处理之后的上述一部分区域应用画质提高处理。 然后,显示控制部101对画质提高处理后的一部分区域实施像素数调整处理而使该一部分区域放大显示。</base:Paragraphs>
+      <base:Paragraphs num="0151">另外,图像处理部102在作为显示于关注帧显示区域19的关注帧而所述一部分区域被显示控制部101选择后未进行针对保存按钮20的触摸操作的状态持续了规定时间的情况下,即使未进行针对保存按钮20的触摸操作,也仅对所述一部分区域在后台进行画质提高处理,将处理结果（画质提高处理后的一部分区域的图像数据）写入工作存储器部12b。 在背景的处理后,显示控制部101在保存按钮20被触摸之前使画质提高处理前的一部分区域放大显示,但若保存按钮20被触摸,则在对画质提高处理后的一部分区域实施像素数调整处理的基础上使该一部分区域放大显示。</base:Paragraphs>
+      <base:Paragraphs num="0152">通过这样,在预览显示时,将画质提高处理的处理对象不是帧FR<base:Sub>i</base:Sub>的整体,而是缩小到显示的范围来进行,因此起到在对实施了画质提高处理的图像进行预览显示的情况下能够缩短直至显示为止所需的时间这样的效果。</base:Paragraphs>
+      <base:Paragraphs num="0153">此外,在放大显示帧FR<base:Sub>i</base:Sub>的一部分区域的情况下,仅通过按下保存按钮20,帧FR<base:Sub>i</base:Sub>被设为印刷候补,但由图像处理部102进行的画质提高处理的对象被限制于所述一部分区域,因此帧RS<base:Sub>i</base:Sub>（对帧FR<base:Sub>i</base:Sub>整体实施了画质提高处理的图像）并不从图像处理部102输出。 因此,以下,对在放大显示帧FR<base:Sub>i</base:Sub>的一部分区域时触摸了保存按钮20的情况下的帧RS<base:Sub>i</base:Sub>的生成定时进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0154">例如,在放大显示帧FR<base:Sub>i</base:Sub>的一部分区域时触摸了保存按钮20的情况下,也可以将向打印装置的发送处理的指示输入作为触发来进行针对帧FR<base:Sub>i</base:Sub>整体的画质提高处理。 在该情况下,如果在将帧FR<base:Sub>i</base:Sub>的一部分区域放大显示于关注帧显示区域19时触摸保存按钮20,则存储处理部103使辅助信息存储于印刷候选保存部12a,该辅助信息是将能够识别作为印刷候选而被指示的帧FR<base:Sub>i</base:Sub>的识别信息（帧FR<base:Sub>i</base:Sub>所固有的信息,例如运动图像文件中的帧编号）与能够确定由图像处理部102实施的画质提高处理的种类的确定信息建立了对应的信息。 然后,当提交按钮21被触摸时,图像处理部102对写入到打印候选保存部12a的辅助信息的识别信息所示的帧FR<base:Sub>i</base:Sub>进行解码,实施该辅助信息的确定信息所示的画质提高处理,输出帧RS<base:Sub>i</base:Sub>。 然后,发送处理部104将该帧RS<base:Sub>i</base:Sub>向印刷装置发送。 这样,也能够节约存储容量。 或者,也可以是,在便携终端10侧,进行帧FR<base:Sub>i</base:Sub>的解码,将帧FR<base:Sub>i</base:Sub>和辅助信息发送到印刷装置,印刷装置进行画质提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0155">另外,在放大显示帧FR<base:Sub>i</base:Sub>的一部分区域时触摸了保存按钮20的情况下,也可以不在向印刷装置的发送处理时,而是在针对上述一部分区域的画质提高处理完成之后重新对帧FR<base:Sub>i</base:Sub>实施画质提高处理。 在该情况下,如果在将帧FR<base:Sub>i</base:Sub>的一部分区域放大显示于关注帧显示区域19时触摸保存按钮20,则图像处理部102首先为了预览而对所述一部分区域进行画质提高处理,然后对帧FR<base:Sub>i</base:Sub>的整体进行画质提高处理。 此外,在保存按钮20被触摸的时间点,在背景下对上述一部分区域已经完成了画质提高处理的情况下,图像处理部102跳过对上述一部分区域的画质提高处理,对帧FR<base:Sub>i</base:Sub>的整体进行画质提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0156">另外,在将帧FR<base:Sub>i</base:Sub>中的一部分区域A（例如图9的矩形A）显示于关注帧显示区域19时,若触摸保存按钮20,则对一部分区域A实施了画质提高处理的处理结果显示于关注帧显示区域19,但若之后在进行轻拂操作而使一部分区域B（例如图9的矩形B）显示于关注帧显示区域19的基础上触摸保存按钮20,则对一部分区域B的处理结果（画质提高处理后的图像）在工作存储部12b展开而显示于关注帧显示区域19,对一部分区域A的处理结果从工作存储部12b被重置（删除）。</base:Paragraphs>
+      <base:Paragraphs num="0157">在以上所示的各实施方式中,说明了从包含多张静止图像（帧）的图像数据中指定1张以上的期望的帧作为打印候选的方法,但作为包含多张静止图像的图像数据,并不特别限定于运动图像文件。 作为上述的图像数据,例如可以是包含多张静止图像的文件夹、包含多张静止图像的TIFF文件、包含多张静止图像的PDF文件。 另外,作为上述的图像数据,也可以是将多张静止图像压缩为一个文件的压缩形式文件（ZIP文件等）,在该情况下,通过将压缩形式文件展开（解压）,能够读出压缩形式文件所包含的各静止图像。</base:Paragraphs>
+      <base:Paragraphs num="0158">另外,在以上所示的实施方式中,是在被指定为印刷候补的帧被提取为关注帧的情况下,在关注帧显示区域19中显示画质提高处理后的帧RS<base:Sub>i</base:Sub>的结构,但例如也能够设为如下所述的结构。</base:Paragraphs>
+      <base:Paragraphs num="0159">在被选择为打印候补的帧被显示为关注帧的情况下,显示控制部101使关注帧显示区域19初始显示画质提高处理前的帧FR<base:Sub>i</base:Sub>,并且使触摸面板14显示切换画质提高处理前的帧FR<base:Sub>i</base:Sub>和画质提高处理后的帧RS<base:Sub>i</base:Sub>的切换按钮（未图示）。 然后,当切换按钮被触摸时,显示控制部101将显示于关注帧显示区域19的预览从帧FR<base:Sub>i</base:Sub>切换为帧RS<base:Sub>i</base:Sub>。 另外,若在关注帧显示区域19中显示着帧RS<base:Sub>i</base:Sub>时用户触摸切换按钮,则显示控制部101将显示于关注帧显示区域19的预览从帧RS<base:Sub>i</base:Sub>切换为帧FR<base:Sub>i</base:Sub>。 根据这样的结构,用户能够容易地进行帧FR<base:Sub>i</base:Sub>与帧RS<base:Sub>i</base:Sub>的比较研究,画质提高处理的效果的确认变得容易。</base:Paragraphs>
+      <base:Paragraphs num="0160">或者,在被选择为打印候选的帧被显示为关注帧的情况下,如图13所示,显示控制部101也可以设置第一关注帧显示区域19a和第二关注帧显示区域19b,使第一关注帧显示区域19a显示帧FR<base:Sub>i</base:Sub>,使第二关注帧显示区域19b显示帧RS<base:Sub>i</base:Sub>。</base:Paragraphs>
+      <base:Paragraphs num="0161">另外,打印候选保存部12a中的图像数据的保持方法可以是位图形式,也可以是JPEG压缩形式。</base:Paragraphs>
+      <base:Paragraphs num="0162">另外,在以上的各实施方式中,在图像处理部102中,执行专利文献2～5中的任意一个文献的画质提高处理（一个画质提高处理）,但当然也可以组合执行多个文献的各画质提高处理。 即,在图像处理部102中,可以进行1种画质提高处理,也可以进行多个画质提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0163">另外,在图像处理部102中应用的画质提高处理不限于专利文献2～5的各方法,只要是周知、惯用的图像处理就能够应用。 当然,也可以执行从专利文献2～5的画质提高处理和公知的画质提高处理中选择的多个画质提高处理。</base:Paragraphs>
+      <base:Paragraphs num="0164">此外,由图像处理部102执行的画质提高处理可以如以上所述的各实施方式那样由制造商侧预先设定,也可以由用户从预先决定的多个处理中设定使图像处理部102执行的画质提高处理。 在用户进行设定的情况下,例如也可以在动态图像文件的读入前,使触摸面板14显示用于使用户选择画质提高处理的画面,使用户预先选择应执行的画质提高处理,图像处理部102执行用户预先选择的画质提高处理。 另外,用户也可以输入阶段性地调整画质提高处理的强度的指示。</base:Paragraphs>
+      <base:Paragraphs num="0165">另外,在以上的各实施方式中,作为本发明的图像处理装置的一个方式,例示了便携终端10,但作为该图像处理装置,并不限定于便携终端10,只要是能够处理图像数据的装置即可。 例如,图像处理装置可以是打印装置。 即,该打印装置显示所输入的动态图像文件的各帧,使用户指定打印候补,对用户所指定的打印候补实施画质提高处理,还进行在实施方式1中说明的背景下的画质提高处理。 或者,作为本发明的图像处理装置的一个实施方式,可举出数码相机、数码摄像机。</base:Paragraphs>
+      <base:Paragraphs num="0166">在实施方式2中,便携终端10对关注帧算出期待度并显示,但也可以在读入运动图像文件时对全部帧算出期待度并显示全部帧的期待度。</base:Paragraphs>
+      <base:Paragraphs num="0167">（关于软件）控制部11可以使用CPU通过软件来实现,也可以通过形成于集成电路等的逻辑电路来实现。 另外,在利用软件的情况下,控制部11具备以计算机（或CPU）能够读取的方式记录有作为所述软件的程序的ROM或存储装置等记录介质。 作为上述记录介质,例如也可以是卡、盘、半导体存储器、可编程的逻辑电路等“非暂时的有形的介质”。 另外,上述程序也可以经由任意的传输介质（通信网络、广播波等）传输到上述计算机。 此外,本发明的一个方式也能够以通过电子传输将上述程序具体化的、嵌入载波的数据信号的方式来实现。</base:Paragraphs>
+      <base:Paragraphs num="0168">以及图像处理部102,当进行成为开始规定图像处理（画质提高处理）的触发的用户操作时,对所述关注图像实施所述规定图像处理,在从所述显示控制部选择所述关注图像起未进行所述用户操作的状态持续了规定时间的情况下,即使未进行所述用户操作,所述图像处理部也对所述关注图像实施所述规定图像处理。</base:Paragraphs>
+      <base:Paragraphs num="0169">根据本发明的方式1的图像处理装置,在从选择所述关注图像起未进行所述用户操作的状态持续了规定时间的情况下,即使未进行所述用户操作,规定图像处理也在后台开始。 因此,能够缩短之后进行所述用户操作后的用户感受到的处理时间（规定图像处理的处理时间）。 由此,起到如下效果：即使规定图像处理是处理时间长的图像处理,也能够抑制用户的操作的舒适性受损。</base:Paragraphs>
+      <base:Paragraphs num="0170">本发明的方式2的图像处理装置在方式1的基础上,其特征在于,所述用户操作是对所述关注图像实施所述规定图像处理的指示,并且是将所述关注图像指定为印刷候选的指示。</base:Paragraphs>
+      <base:Paragraphs num="0171">根据本发明的方式2的图像处理装置,所述用户操作不仅作为所述规定图像处理的开始的触发发挥功能,还作为所述印刷候补的指定的触发发挥功能,因此能够减轻用户的操作工夫。</base:Paragraphs>
+      <base:Paragraphs num="0172">本发明的方式3的图像处理装置在方式1或2的基础上,其特征在于,具备期待度计算部105,所述期待度计算部105进行期待度计算处理,所述期待度计算处理对所述关注图像计算表示在实施规定图像处理的情况下所期待的画质提高的效果的程度的期待度,所述显示控制部使所述期待度与所述关注图像一起显示于所述显示画面。</base:Paragraphs>
+      <base:Paragraphs num="0173">根据本发明的方式3的图像处理装置,起到如下效果：能够根据所述期待度使用户推测对关注图像实施规定图像处理的情况下的效果,能够辅助（支援）用户的是否将关注图像作为印刷候选的判断。</base:Paragraphs>
+      <base:Paragraphs num="0174">本发明的方式4的图像处理装置在方式3的基础上,其特征在于,所述期待度计算处理是针对所述关注图像将所述规定图像处理执行到中途并使用得到的中途结果来求出所述期待度的处理,所述图像处理部在进行了所述用户操作的情况下,或者在从所述显示控制部选择所述关注图像起未进行所述用户操作的状态持续了规定时间的情况下,沿用所述中途结果来对所述关注图像实施所述规定图像处理。</base:Paragraphs>
+      <base:Paragraphs num="0175">根据本发明的方式4的图像处理装置,根据将所述规定图像处理执行到中途而得到的中途结果来计算期待度,之后,在进行了所述用户操作的情况下,或者在从所述显示控制部选择所述关注图像起未进行所述用户操作的状态持续了规定时间的情况下,沿用所述中途结果来对所述关注图像实施所述规定图像处理。 因此,通过所述沿用,能够进一步缩短进行所述用户操作后的用户感受到的处理时间（规定图像处理所需的时间）。</base:Paragraphs>
+      <base:Paragraphs num="0176">另外,在所述图像文件中包含的多个静止图像按照规定顺序被排序的情况下（例如动画文件中包含的多个帧按照动画再现时的显示顺序被排序的情况下）,当前被选择为关注图像的静止图像的紧前或紧后的静止图像表示与关注图像相同的场景的可能性高,被用户与关注图像进行比较的可能性高（为了判断将关注图像和其紧前（或紧后）的静止图像中的哪一个作为打印候补而进行所述比较）。</base:Paragraphs>
+      <base:Paragraphs num="0177">因此,本发明的方式5的图像处理装置在方式3或4的基础上,其特征在于,所述图像数据中包含的多个静止图像按照规定顺序被排序,所述期待度计算部至少计算对所述关注图像的期待度、对在所述规定顺序中紧挨着所述关注图像之前的静止图像的所述期待度、和对在所述规定顺序中紧挨着所述关注图像之后的静止图像的所述期待度,所述显示控制部使对所述关注图像的所述期待度、对紧挨着所述关注图像之前的静止图像的所述期待度、和对紧挨着所述关注图像之后的静止图像的所述期待度至少一起显示于所述显示画面。</base:Paragraphs>
+      <base:Paragraphs num="0178">由此,用户能够容易地进行关注图像与紧前或紧后的静止图像的比较。</base:Paragraphs>
+      <base:Paragraphs num="0179">本发明的方式6的图像处理装置的特征在于,在方式1至5的基础上,当由所述显示控制部选择为所述关注图像的静止图像从第1静止图像变为第2静止图像时,所述图像处理部中断对第1静止图像执行的规定图像处理。</base:Paragraphs>
+      <base:Paragraphs num="0180">根据本发明的方式6的图像处理装置,在所述关注图像从所述第1静止图像变为第2静止图像的情况下,停止或中断针对所述第1静止图像的规定图像处理,因此能够抑制能够分配给与新选择为关注图像的第2静止图像有关的各种处理的计算机的资源不足,能够抑制与第2静止图像有关的各种处理停滞。</base:Paragraphs>
+      <base:Paragraphs num="0181">所述图像处理装置例如构成为能够与打印装置进行通信,在每次进行该选择时将被用户选择为打印候补且实施了所述规定图像处理的静止图像（打印对象图像）依次存储于存储装置,将存储于存储装置的打印对象图像之后一并发送至打印装置,在该情况下,若存储于存储装置的打印候补过多,则存储装置或其一部分中预先确保的存储区域的剩余容量变少,因此产生计算机的性能降低这样的不良情况。</base:Paragraphs>
+      <base:Paragraphs num="0182">所以, 本发明的方式7的图像处理装置具备： 在方式1的基础上, 将被用户指定为打印候补且实施了所述规定图像处理后的静止图像作为打印对象图像写入存储装置, 具备存储处理部,所述存储处理部能够切换第一模式和第二模式,所述第一模式存储所述印刷候补,所述第二模式通过代替所述印刷对象图像而将包含所述静止图像所固有的识别信息和能够确定所述预定图像处理的确定信息的辅助信息写入到存储装置中,从而存储所述印刷候补,所述存储处理部在通过第一模式存储印刷候补的期间,每当所述印刷候补被用户追加时,判定是否因该追加而使存储于存储装置的印刷对象图像的数据量的合计超过阈值,在判定为所述合计超过所述阈值的情况下,从所述第一模式切换为第二模式。</base:Paragraphs>
+      <base:Paragraphs num="0183">根据本发明的方式7的结构,通过从第一模式向第二模式切换,能够使存储装置或其一部分中预先确保的存储区域的剩余容量增加,能够抑制所述不良情况。</base:Paragraphs>
+      <base:Paragraphs num="0184">另外,在该结构的情况下,所述图像处理装置之后可以参照所述辅助信息,从所述图像文件中读出作为打印候选的静止图像,并将作为打印候选的静止图像与辅助信息一起发送到打印装置。 并且,印刷装置能够参照辅助信息实施规定图像处理并进行印刷。 或者,也可以是,所述图像处理装置将所述图像文件以及辅助信息发送到印刷装置,所述印刷装置执行印刷候补的静止图像的读出以及规定图像处理。</base:Paragraphs>
+      <base:Paragraphs num="0185">本发明的方式8的图像处理装置在方式1的基础上,其特征在于,所述显示控制部根据用户的变焦操作,将所述静止图像的一部分区域作为所述关注图像显示于所述显示画面,在通过所述变焦操作显示所述一部分区域的情况下,所述图像处理部将所述规定图像处理的处理对象限制为所述静止图像整体中的所述一部分区域。</base:Paragraphs>
+      <base:Paragraphs num="0186">根据本发明的方式8的图像处理装置,起到如下效果：在仅将所述静止图像的一部分区域显示为所述关注图像的情况下,能够将所述规定图像处理的应用范围限制为所述一部分区域,在对实施了所述规定图像处理的所述一部分区域进行预览显示的情况下,能够缩短直至显示为止所需的时间。</base:Paragraphs>
+      <base:Paragraphs num="0187">本发明的方式1～8的图像处理装置也可以通过计算机来实现,在该情况下,通过使计算机作为本发明的方式1～8的图像处理装置所具备的各部进行动作,从而利用计算机来实现所述图像处理装置的程序、以及记录有该程序的计算机可读取的记录介质也包含在本发明的范畴内。</base:Paragraphs>
+      <base:Paragraphs num="0188">本发明的一方案并不限定于上述的各实施方式,能在权利要求所示的范围内进行各种变更,将分别在不同的实施方式中公开的技术手段适当组合而得到的实施方式也包含于本发明的一方案的技术范围。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0189">本发明能够利用于对被选择为印刷对象的图像实施图像处理的图像处理装置。 作为本发明的图像处理装置的优选例,可举出打印机（包括复合机、照片用打印机等）、便携终端（智能手机、平板电脑等）、数码相机、数码摄像机、通用计算机等。</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0190">10便携终端（图像处理装置） 
+11控制部12存储部（存储装置） 
+12a印刷候补保存部（存储装置） 
+12b工作存储器部14触摸面板（显示画面） 
+14a显示部101显示控制部102图像处理部103存储处理部105期待度计算部 </base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000004" he="72" wi="84" file="2016126496_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000005" he="74" wi="84" file="2016126496_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000006" he="74" wi="84" file="2016126496_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000007" he="74" wi="84" file="2016126496_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000008" he="74" wi="84" file="2016126496_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000009" he="52" wi="84" file="2016126496_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000010" he="40" wi="84" file="2016126496_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000011" he="74" wi="84" file="2016126496_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000012" he="74" wi="84" file="2016126496_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000013" he="75" wi="84" file="2016126496_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000014" he="58" wi="84" file="2016126496_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000015" he="75" wi="84" file="2016126496_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000016" he="74" wi="84" file="2016126496_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000017" he="75" wi="84" file="2016126496_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000018" he="74" wi="84" file="2016126496_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>以及图像处理部,当进行成为开始规定图像处理的触发的用户操作时,对所述关注图像实施所述规定图像处理,在从所述显示控制部选择所述关注图像起未进行所述用户操作的状态持续了规定时间的情况下,即使未进行所述用户操作,所述图像处理部也对所述关注图像实施所述规定图像处理。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的图像处理装置,其特征在于,所述用户操作是对所述关注图像实施所述预定图像处理的指示,并且是将所述关注图像指定为打印候选的指示。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的图像处理装置,其特征在于,具备期待度计算部,所述期待度计算部进行期待度计算处理,所述期待度计算处理计算表示对所述关注图像实施规定图像处理时所期待的画质提高的效果的程度的期待度,所述显示控制部使所述期待度与所述关注图像一起显示在所述显示画面上。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求3所述的图像处理装置,其中,所述预期度计算处理是对所述关注图像中途执行所述预定图像处理并使用所获得的中间结果来获得所述预期度的处理,并且在执行所述用户操作的情况下,或者在从所述显示控制单元选择所述关注图像起所述用户操作未被执行的状态持续了预定时间的情况下,所述图像处理单元通过使用所述中间结果来对所述关注图像执行所述预定图像处理。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求3或4所述的图像处理设备,其中,包括在所述图像数据中的多个静止图像按照预定顺序被排序,所述预期度计算单元至少计算对所述关注图像的预期度、对按照所述预定顺序紧接在所述关注图像之前的静止图像的预期度、以及对按照所述预定顺序紧接在所述关注图像之后的静止图像的预期度,并且所述显示控制单元使对所述关注图像的预期度、对紧接在所述关注图像之前的静止图像的预期度、以及对紧接在所述关注图像之后的静止图像的预期度至少一起显示在所述显示屏幕上。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1至5中任一项所述的图像处理装置,其特征在于,当由所述显示控制部选择为所述关注图像的静止图像从第1静止图像变为第2静止图像时,所述图像处理部中断对第1静止图像执行的规定图像处理。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>将被用户指定为打印候补且实施了所述规定图像处理后的静止图像作为打印对象图像写入存储装置, 第一模式,存储所述印刷候补； 根据权利要求1所述的图像处理装置,其特征在于,具备存储处理部,所述存储处理部能够切换第2模式,所述第2模式通过将包含所述静止图像所固有的识别信息和能够确定所述预定图像处理的确定信息的辅助信息写入存储装置来代替所述打印对象图像,从而存储所述打印候补,所述存储处理部在通过第1模式存储打印候补的期间,每当所述打印候补被用户追加时,判定通过该追加而存储于存储装置的打印对象图像的数据量的合计是否超过阈值,在判定为所述合计超过所述阈值的情况下,从所述第1模式切换为第2模式。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1所述的图像处理装置,其中,所述显示控制单元根据用户的变焦操作在所述显示屏幕上显示所述静止图像的部分区域作为所述关注图像,并且在通过所述变焦操作显示所述部分区域的情况下,所述图像处理单元将所述预定图像处理的处理对象限制为整个静止图像中的所述部分区域。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>一种程序,使计算机作为权利要求1～8中任一项所述的图像处理装置的各部发挥功能。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>一种计算机可读取的记录介质,其记录有权利要求9所述的程序。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

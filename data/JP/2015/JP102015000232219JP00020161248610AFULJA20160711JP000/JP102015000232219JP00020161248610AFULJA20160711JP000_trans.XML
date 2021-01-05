@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000232219JP00020161248610AFULJA20160711JP000.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016124861" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016124861</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016124861</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000232219</base:DocNumber>
+        <base:Date>20151127</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015232219</base:DocNumber>
+        <base:Date>20151127</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000264568</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014264568</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>31</business:MainGroup>
+        <business:Subgroup>4178</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  31/4178      20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>9</business:MainGroup>
+        <business:Subgroup>12</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61P   9/12        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>43</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61P  43/00        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>9</business:MainGroup>
+        <business:Subgroup>20</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   9/20        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>47</business:MainGroup>
+        <business:Subgroup>38</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K  47/38        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61K31/4178</business:FI>
+      <business:FI type="secondary">A61P9/12</business:FI>
+      <business:FI type="secondary">A61P43/00 111</business:FI>
+      <business:FI type="secondary">A61K9/20</business:FI>
+      <business:FI type="secondary">A61K47/38</business:FI>
+      <business:FClass>
+        <business:FTerm>4C076AA36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076BB22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076CC11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076DD38</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076DD67T</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076EE31</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076EE32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076EE32T</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076FF04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076FF05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C076FF52</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086AA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086BC62</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086GA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086GA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086MA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086MA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086MA35</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086MA57</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086NA09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086ZA42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C086ZC42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C076</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C086</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">含有奥美沙坦美多索米的口腔崩解片</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>沢井製薬株式会社</base:Name>
+            <base:RegisteredNumber>000209049</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市淀川区宮原5丁目2番30号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>岡田  太郎</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市淀川区宮原5丁目2番30号  沢井製薬株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>杉田  優</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市淀川区宮原5丁目2番30号  沢井製薬株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>野沢  健児</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市淀川区宮原5丁目2番30号  沢井製薬株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>梅村  香織</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市淀川区宮原5丁目2番30号  沢井製薬株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>柳  敏宏</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市淀川区宮原5丁目2番30号  沢井製薬株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人高橋・林アンドパートナーズ</base:Name>
+            <base:RegisteredNumber>110000408</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>1</business:ClaimsCount>
+      <base:TotalPageCount>12</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种含有奥美沙坦美多索米的口腔崩解片,其通过简单的制备过程抑制苦味。 根据本发明的一个实施方式,提供一种含奥美沙坦美多索米的口腔崩解片,其特征在于,含有奥美沙坦美多索米和大于10mg且35mg以下的羧甲基纤维素。 根据本发明的一个实施方式,通过添加羧甲基纤维素,能够抑制奥美沙坦美多索米的酸性苦味。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="46" wi="68" file="2016124861_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及含有奥美沙坦美多索米的口腔崩解片。 特别涉及抑制苦味的含有奥美沙坦美多索米的口腔崩解片。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">奥美沙坦（（5-Methyl-2-oxo-1,3-dioxolen-4-yl）methyl 4-（1-hydroxy-1-methylethyl）-2-propyl-1-{[2’-（1H-tetrazol-5-yl）-1,1’-biphenyl-4-yl]methyl}-1H-imidazole-5-carboxylate）在口服给药后,被转化为作为活性代谢物的奥美沙坦。奥美沙坦选择性地作用于参与血压升高的AT<base:Sub>1</base:Sub>（A II型1）受体而竞争性地抑制血管紧张素II（A II）的结合,因此是对高血压症的治疗有效的药剂。奥美沙坦是含有奥美沙坦的片。</base:Paragraphs>
+      <base:Paragraphs num="0003">另一方面,对于可以不用水服用的奥美沙坦美多索米的口腔内崩解片的期待也在提高。 口腔崩解片由于仅用口腔内的唾液或少量的水在约30秒左右或其以下的时间内迅速崩解,因此是患者容易服用的固体制剂,但由于奥美沙坦美多索米具有苦味,因此需要设法在服用时不会感到不快。</base:Paragraphs>
+      <base:Paragraphs num="0004">专利文献2中记载了一种口腔崩解片,其是将第1颗粒和第2颗粒混合并压片而成的,所述第1颗粒是通过在抑制粉末状药物的凝聚的流动化剂的共存下,利用流动层造粒机,将具有令人不快的呈味的粉末状药物（主药）用水不溶性载体进行造粒或包覆,从而抑制药物的令人不快的呈味而成的,所述第2颗粒是将作为基础成分的糖类、水溶胀度小的崩解剂用水溶液粘度小的少量水溶性粘合剂进行造粒而成的。 另外,同样的记载例如在专利文献3、专利文献4中也有记载。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">           <business:ApplicationCitation num="0001">
+            <base:Text>国際公開第2008／078726号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開2012－36140号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0003">
+            <base:Text>特開2013－127009号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0004">
+            <base:Text>国際公開第2012／005359号</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">在专利文献2中,需要用水不溶性载体对主药进行造粒或被覆,并且对两种颗粒进行造粒,制造工序变得复杂。 另外,还认为通过用水不溶性载体进行造粒或被覆,对主药的溶解性产生影响。 由于主药的溶解性发生变化,有可能对生物体内的吸收也造成影响。</base:Paragraphs>
+        <base:Paragraphs num="0007">本发明是解决上述课题的发明,其目的在于提供一种以简便的制造工序抑制苦味的含奥美沙坦美多索米的口腔崩解片。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">根据本发明的一个实施方式,提供一种含奥美沙坦美多索米的口腔崩解片,其特征在于,含有奥美沙坦美多索米和大于10mg且35mg以下的羧甲基纤维素。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0009">根据本发明,提供一种通过简便的制造方法抑制了苦味的含奥美沙坦美多索米的口腔崩解片。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0010">
+        <base:FigureReference num="0001">图0001是显示在根据本发明的实施例的含有奥美沙坦美多索米的口腔崩解片中通过添加羧甲基纤维素而观察到苦味抑制效果的结果的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是显示在根据本发明的实施例的含有奥美沙坦美多索米的口腔崩解片中通过后添加羧甲基纤维素而观察到进一步的苦味抑制效果的结果的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是显示在根据本发明的实施例的含有奥美沙坦美多索米的口腔崩解片中,确认到依赖于羧甲基纤维素配合量的苦味抑制效果的结果的图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示根据本发明的实施例的含有奥美沙坦美多索米的口腔崩解片的羧甲基纤维素添加量与苦味抑制效果的关系的图表。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0011">以下,对本发明的含有奥美沙坦美多索米的口腔崩解片进行说明。 但是,本发明的含奥美沙坦美多索米的口腔崩解片并不限定于以下所示的实施方式和实施例的记载内容来解释。 在本发明中,“后添加”是指将含有有效成分的粒子造粒、干燥、整粒后进行添加混合。</base:Paragraphs>
+      <base:Paragraphs num="0012">本发明人等对能够有效地抑制奥美沙坦美多索米的酸性苦味的含奥美沙坦美多索米的口腔内崩解片进行了研究,结果新发现：通过添加羧甲基纤维素（羧甲基纤维素）,能够抑制奥美沙坦美多索米的酸性苦味。</base:Paragraphs>
+      <base:Paragraphs num="0013">根据本发明的含奥美沙坦美多索米的口腔崩解片包含奥美沙坦美多索米和羧甲基纤维素。 在本实施方式中,含奥美沙坦美多索米的口腔崩解片包含规定量的奥美沙坦美多索米,奥美沙坦美多索米的含量例如为5mg、10mg、20mg或40mg/片。</base:Paragraphs>
+      <base:Paragraphs num="0014">在一个实施方案中,添加到含有奥美沙坦美多索米的口腔崩解片中的羧甲基纤维素相对于每片含有奥美沙坦美多索米的口腔崩解片优选为大于10mg且35mg以下的范围,更优选为大于10mg且20mg以下。 羧甲基纤维素的含量可以根据奥美沙坦美多索米的含量和其他添加物在该范围内适当调节。 此外,当羧甲基纤维素的含量为每片含奥美沙坦美多索米的口腔崩解片10mg以下时,不能充分抑制酸性苦味。 另外,若羧甲基纤维素的含量变多,则含奥美沙坦美多索米的口腔崩解片容易吸收水分,硬度降低,因此不优选添加超过35mg。</base:Paragraphs>
+      <base:Paragraphs num="0015">需要说明的是,如后述的实施例所示,即使代替羧甲基纤维素而使用羧甲基纤维素钙、钙钠等羧甲基纤维素的盐、交联羧甲基纤维素钠等羧甲基纤维素的交联聚合物,也不能充分抑制含奥美沙坦美多索米的口腔崩解片的酸性苦味。</base:Paragraphs>
+      <base:Paragraphs num="0016">本实施方式的含奥美沙坦美多索米的口腔崩解片可以进一步添加赋形剂、粘合剂、乳化剂、稳定剂、矫味矫臭剂、稀释剂、润滑剂等添加剂。</base:Paragraphs>
+      <base:Paragraphs num="0017">赋形剂例如可以选自糖衍生物、淀粉衍生物、纤维素衍生物、阿拉伯胶、葡聚糖、支链淀粉、硅酸盐衍生物、磷酸盐、碳酸盐和硫酸盐等。 作为糖衍生物,例如可以例示乳糖、白糖、葡萄糖、甘露醇和山梨糖醇等。 另外,作为淀粉衍生物,可以例示出玉米淀粉、马铃薯淀粉、α-淀粉、糊精等。 作为纤维素衍生物,可以例示结晶纤维素等。 另外,作为硅酸盐衍生物,可以例示轻质无水硅酸、合成硅酸铝、硅酸钙、偏硅酸铝镁等。 作为磷酸盐,可以例示出磷酸氢钙等。 作为碳酸盐,能够例示碳酸钙等。 作为硫酸盐,能够例示硫酸钙等。</base:Paragraphs>
+      <base:Paragraphs num="0018">粘合剂例如可以选自羟丙基纤维素、羟丙基甲基纤维素、聚乙烯吡咯烷酮、聚乙二醇和上述作为赋形剂而示出的化合物等。</base:Paragraphs>
+      <base:Paragraphs num="0019">乳化剂例如可以选自胶体性粘土、金属氢氧化物、阴离子表面活性剂、阳离子表面活性剂和非离子表面活性剂等。 作为胶体性粘土,可以例示膨润土、Veegum等。 作为金属氢氧化物,可以例示出氢氧化镁、氢氧化铝等。 作为阴离子表面活性剂,可以例示月桂基硫酸钠、硬脂酸钙等。 作为阳离子表面活性剂,可以例示苯扎氯铵等。 另外,作为非离子表面活性剂,可例示聚氧乙烯烷基醚、聚氧乙烯山梨糖醇酐脂肪酸酯、蔗糖脂肪酸酯等。</base:Paragraphs>
+      <base:Paragraphs num="0020">稳定剂例如可以选自对羟基苯甲酸酯类、醇类、酚类、硫柳汞、脱氢乙酸和山梨酸等。 作为对羟基苯甲酸酯类,可例示出对羟基苯甲酸甲酯、对羟基苯甲酸丙酯等。 作为醇类,可例示出氯丁醇、苄醇、苯乙醇等。</base:Paragraphs>
+      <base:Paragraphs num="0021">矫味矫臭剂例如可以选自甜味剂、酸味剂和香料等。 作为甜味剂,可以例示糖精钠、阿斯巴甜等。 作为酸味剂,可以例示柠檬酸、苹果酸、酒石酸等。 另外,作为香料,能够例示薄荷醇、柠檬提取物、橙提取物等。</base:Paragraphs>
+      <base:Paragraphs num="0022">稀释剂可选自例如乳糖、甘露醇、葡萄糖、蔗糖、硫酸钙、磷酸钙、羟丙基纤维素、微晶纤维素、水、乙醇、聚乙二醇、丙二醇、甘油、淀粉、聚乙烯吡咯烷酮、偏硅酸铝镁及其混合物。</base:Paragraphs>
+      <base:Paragraphs num="0023">润滑剂例如可以选自硬脂酸、硬脂酸金属盐（硬脂酸钙、硬脂酸镁等）、滑石、胶体二氧化硅、蜡类（蜂蜡、鲸蜡等）、硼酸、己二酸、硫酸盐（硫酸钠等）、二醇、富马酸、苯甲酸钠、D,L-亮氨酸、月桂基硫酸盐（月桂基硫酸钠、月桂基硫酸镁等）、硅酸类（无水硅酸、硅酸水合物等）和上述作为赋形剂而示出的化合物等。</base:Paragraphs>
+      <base:Paragraphs num="0024">（制造方法） 
+根据本发明的含奥美沙坦美多索米的口腔崩解片可以根据药学领域中已知的制备方法制备。 例如,在对包含邻甲沙坦美多索米、羧甲基纤维素和根据需要的上述各种添加剂等的混合物喷雾包含粘合剂的溶剂的同时进行流化床造粒。 </base:Paragraphs>
+      <base:Paragraphs num="0025">本发明的制造方法中,作为流化床造粒装置,可以使用“MP-1”（Powrex公司制）、“FLO-5”（Freund公司制）等市售机。 作为搅拌造粒,可以使用“LFS-GS-2J”（深江工业）等市售机。</base:Paragraphs>
+      <base:Paragraphs num="0026">将湿式造粒工序中得到的造粒物干燥并整粒后,添加崩解剂、润滑剂和根据需要的上述各种添加剂等进行混合。 根据一个实施方案,可以压制混合的组合物以获得含奥美沙坦美多索米的口腔崩解片。</base:Paragraphs>
+      <base:Paragraphs num="0027">需要说明的是,在一个实施方式中,也可以在湿式造粒工序中不添加羧甲基纤维素,而在造粒物中之后混合成型（后添加）。</base:Paragraphs>
+      <base:Paragraphs num="0028">（苦味的评价） 
+在本说明书中,酸性苦味可以使用味觉传感器进行评价。 作为味觉传感器,能够使用Insent公司的TS-5000Z等,但并不限定于此。 </base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0029">通过示出上述本发明的含有奥美沙坦美多索米的口腔崩解片的具体实施例和试验结果,更详细地进行说明。</base:Paragraphs>
+        <base:Paragraphs num="0030">（实施例1） 
+利用流化床造粒装置（Freund公司制、机种：MP-01）,将Olmesartamesoxomil 40.0 g、D-甘露糖醇（P、三菱商事Foodtec）213.0 g、羧甲基纤维素（Nichilin化学）35.0 g、结晶纤维素（KG1000、旭化成化学）10.0 g混合后,喷雾溶解有羟丙基纤维素（L、日本曹达）1.0 g和三氯蔗糖（三荣现F.F.I公司）3.0 g的水溶液,进行流化床造粒。 将流化床造粒工序中得到的造粒物在60℃下干燥。 </base:Paragraphs>
+        <base:Paragraphs num="0031">用筛22号对干燥后的造粒物进行整粒后,在整粒品中加入交聚维酮（CL-F、BASF）5.0 g、Neusilin（UFL2、富士化学工业）7.0 g和硬脂酸钙（日本油脂）6.0 g,用塑料袋进行混合,得到包含奥美沙坦酯的压片前粉末。 使用压片机（VELA5、菊水制作所）,以重量成为320mg的方式将压片前粉末压片,得到实施例1的含有奥美沙坦美多索米的口腔内崩解片。</base:Paragraphs>
+        <base:Paragraphs num="0032">（比较例1） 
+利用流化床造粒装置（Freund公司制、机种：MP-01）,将Olmesartamesoxomill（）40.0 g、乳糖(DMV)200.0 g、低取代度羟丙基纤维素（L-HPC（21）、信越化学工业）40.0 g、结晶纤维素（PH-101、旭化成化学）20.0 g混合后,喷雾溶解有羟丙基纤维素（L、日本曹达）6.0 g的水溶液,进行流化床造粒。 将流化床造粒工序中得到的造粒物在60℃下干燥。 用筛22号对干燥的造粒物进行整粒后,在整粒品中加入硬脂酸钙（日本油脂）4.0 g并用塑料袋混合,得到包含奥美沙坦美多西研磨机的压锁前粉末。 使用压片机（VELA5、菊水制作所）,以重量成为310mg的方式将压片前粉末压片,得到比较例1的含有奥美沙坦美多索磨的片。 </base:Paragraphs>
+        <base:Paragraphs num="0033">（比较例2） 
+作为比较例2,使用低取代度羟丙基纤维素（L-HPC（21）、信越化学工业）35.0 g代替实施例1的羧甲基纤维素,除此以外,通过与实施例1同样的制造方法,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0034">（比较例3） 
+在比较例3中,将交聚维酮的添加量设为10.0 g,除此以外,通过与实施例1同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0035">（比较例4） 
+在比较例4中,添加D-甘露糖醇208.0 g,使用阿斯巴甜（味之素）3.0 g代替Neusilin,除此以外,通过与实施例1同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0036">（比较例5） 
+在比较例5中,使用索马甜（三荣现F.F.I）3.0 g来代替诺依林,除此以外,利用与实施例1同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0037">（苦味的评价） 
+对上述的实施例1和比较例1～5评价苦味。 作为味觉传感器,使用Insent公司、MODEL：TS-5000Z,对酸性苦味（前味）、涩味（前味）、盐酸盐苦味、酸性苦味（余味）、涩味（余味）进行评价。 将实施例1及比较例1～5各自的涩味的评价结果示于表1。 另外,图1中示出实施例1和比较例1～5的酸性苦味（前味）的评价结果。 <base:TableDetails num="0001"><base:Image id="000003" he="60" wi="170" file="2016124861_000003.TIF" imgContent="drawing" imgFormat="TIFF"/></base:TableDetails></base:Paragraphs>
+        <base:Paragraphs num="0038">由表1和图1的结果可知,添加了羧甲基纤维素的实施例1的含有奥美沙坦美多索米的口腔崩解片的酸性苦味（前味）、涩味（前味）、盐酸盐苦味、酸性苦味（余味）、涩味（余味）中的任一者与比较例1～5相比均被显著抑制。</base:Paragraphs>
+        <base:Paragraphs num="0039">（实施例2） 
+在实施例1中,在流化床造粒工序中添加羧甲基纤维素,但在实施例2中,在造粒后添加（后添加）,对苦味的抑制效果进行了研究。 在流化床造粒装置中,将邻甲硫氨酸羟乙酯40.0 g、D-甘露糖醇218.0 g、低取代度羟丙基纤维素（L-HPC（21）、信越化学工业）35.0 g、结晶纤维素（KG1000、旭化成化学）10.0 g混合后,喷雾溶解有羟丙基纤维素1.0 g和三氯蔗糖3.0 g的水溶液,进行流化床造粒。 将流化床造粒工序中得到的造粒物在60℃下干燥。 </base:Paragraphs>
+        <base:Paragraphs num="0040">用筛22号对干燥的造粒物进行整粒后,在整粒品中加入羧甲基纤维素（Nichilin Chemical Co.,Ltd.）15.0 g和硬脂酸钙（日本油脂）3.0 g,用塑料袋进行混合,得到包含奥美沙坦酯的压片前粉末。 使用压片机（VELA5、菊水制作所）,以重量成为325mg的方式将压片前粉末压片,得到实施例2的含有奥美沙坦美多索米的口腔内崩解片。</base:Paragraphs>
+        <base:Paragraphs num="0041">（比较例6） 
+在比较例6中,使用羧甲基纤维素钙（ECG505、五德药品）15.0 g来代替羧甲基纤维素,除此以外,利用与实施例2同样的制造方法,将压片前粉末压片以使重量成为325.0 mg,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0042">（比较例7） 
+在比较例7中,代替羧甲基纤维素而使用交联羧甲基纤维素钙钠（アクジゾール、DSP五协フード&amp;ケミカル）15.0 g,除此以外,通过与实施例2同样的制造方法,以重量成为325.0 mg的方式将压片前粉末压片,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0043">（比较例8） 
+在比较例8中,使用羟基乙酸淀粉钠（Primogel、DMV）15.0 g代替羧甲基纤维素,除此以外,利用与实施例2同样的制造方法,以重量成为325.0 mg的方式将压片前粉末压片,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0044">（苦味的评价） 
+对于上述的实施例1～2及比较例6～8,通过上述的方法评价苦味。 将实施例1～2及比较例6～8各自的涩味的评价结果示于表2。 另外,图2中示出实施例1～2及比较例6～8的酸性苦味（前味）的评价结果。 <base:TableDetails num="0002"><base:Image id="000004" he="53" wi="170" file="2016124861_000004.TIF" imgContent="drawing" imgFormat="TIFF"/></base:TableDetails></base:Paragraphs>
+        <base:Paragraphs num="0045">由表2和图2的结果可知,在造粒物中之后添加了羧甲基纤维素的实施例2的含有奥美沙坦美多索米的口腔崩解片与实施例1相比,能够进一步抑制酸性苦味（前味）、涩味（前味）、盐酸盐苦味、酸性苦味（后味）、涩味（后味）。 另外,由比较例6～8的结果可知,即使代替羧甲基纤维素而使用羧甲基纤维素钙、钙钠等羧甲基纤维素的盐、交联羧甲基纤维素钠等羧甲基纤维素的交联聚合物,也无法充分抑制含奥美沙坦美多索米的口腔崩解片的酸性苦味。</base:Paragraphs>
+        <base:Paragraphs num="0046">如上所述,明确了通过添加羧甲基纤维素,在含有奥美沙坦美多索米的口腔崩解片中能够显著地抑制苦味,因此对羧甲基纤维素的含量、其它添加物的影响进一步进行了研究。</base:Paragraphs>
+        <base:Paragraphs num="0047">（实施例3） 
+在实施例3中,代替交聚维酮而使用玉米淀粉（玉米淀粉XX16W、日本食品化工）5.0 g,除此以外,通过与实施例1同样的制造方法,以成为重量320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0048">（实施例4） 
+在实施例4中,使用交聚维酮2.5 g和玉米淀粉2.5 g,除此以外,通过与实施例1同样的制造方法,以成为重量320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0049">（实施例5） 
+在实施例5中,在流化床造粒工序中将羧甲基纤维素制成25.0 g,添加玉米淀粉10.0 g,造粒后不添加交聚维酮,除此以外,通过与实施例1同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0050">（实施例6） 
+在实施例6中,使用聚乙烯醇（Gohsenol EG-05、日本合成化学）1.0 g代替羟丙基纤维素,除此以外,通过与实施例5同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0051">（实施例7） 
+在实施例7中,将羧甲基纤维素制成20.0 g,添加玉米淀粉15.0 g,除此以外,通过与实施例5同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0052">（实施例8） 
+在实施例8中,使用低取代度羟丙基纤维素（L-HPC（21）、信越化学工业）15.0 g代替玉米淀粉,除此以外,通过与实施例7同样的制造方法,将压片前粉末压片,以使重量成为320.0 mg,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0053">（实施例9） 
+在实施例9中,将羧甲基纤维素制成17.5 g,使用低取代度羟丙基纤维素17.5 g,除此以外,通过与实施例8同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0054">（实施例10） 
+在实施例10中,设为羧甲基纤维素15.0 g、低取代度羟丙基纤维素20.0 g,使用聚乙烯醇（Gohsenol EG-05、日本合成化学）1.0 g代替羟丙基纤维素,除此以外,通过与实施例9同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0055">（实施例11） 
+在实施例11中,后添加交聚维酮5.0 g,除此以外,通过与实施例10同样的制造方法,以重量成为325.0 mg的方式将压片前粉末压片,得到含有奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0056">（实施例12） 
+在实施例12中,添加D-甘露糖醇203.0 g,除此以外,通过与实施例11同样的制造方法,以重量成为310.0 mg的方式将压片前粉末压片,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0057">（比较例9） 
+在比较例9中,添加羧甲基纤维素10.0 g、低取代度羟丙基纤维素25.0 g,除此以外,通过与实施例10同样的制造方法,以重量成为320.0 mg的方式将压片前粉末压片,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0058">（比较例10） 
+在比较例10中,添加玉米淀粉10.0 g、低取代度羟丙基纤维素15.0 g,除此以外,通过与比较例9同样的制造方法,以成为重量320.0 mg的方式将压片前粉末压片,得到含奥美沙坦美多索米的口腔内崩解片。 </base:Paragraphs>
+        <base:Paragraphs num="0059">（苦味的评价） 
+对于上述的实施例3～12,通过上述的方法评价苦味。 将实施例3～12各自的涩味的评价结果示于表3。 需要说明的是,为了进行比较,表3中也示出了实施例1和比较例2、9、10的结果。 另外,图3中示出实施例1、实施例3～12及比较例2、9、10的酸性苦味（前味）的评价结果。 <base:TableDetails num="0003"><base:Image id="000005" he="125" wi="170" file="2016124861_000005.TIF" imgContent="drawing" imgFormat="TIFF"/></base:TableDetails></base:Paragraphs>
+        <base:Paragraphs num="0060">另外,为了研究羧甲基纤维素的添加量与苦味的抑制效果的关系,将实施例5和7、实施例8和9、以及实施例10和比较例9绘制于图4。</base:Paragraphs>
+        <base:Paragraphs num="0061">由表3和图3的结果可知,在羧甲基纤维素的基础上对添加物进行了各种变更的实施例3～12的含奥美沙坦美多索米的口腔崩解片与比较例2相比,能够抑制酸性苦味（前味）、涩味（前味）、盐酸盐苦味、酸性苦味（余味）、涩味（余味）。 另一方面,在羧甲基纤维素的含量为10mg以下的比较例9和10中,明确了不能充分抑制酸性苦味（前味）、涩味（前味）、盐酸盐苦味、酸性苦味（余味）、涩味（余味）。 由该结果可知,本发明的含奥美沙坦美多索米的口腔崩解片通过含有多于10mg的羧甲基纤维素,可得到充分的效果。 另外可知,在添加玉米淀粉、低取代度羟丙基纤维素、或低取代度羟丙基纤维素和聚乙烯醇的情况下,也根据羧甲基纤维素的添加量而抑制苦味。</base:Paragraphs>
+        <base:Paragraphs num="0062">如上所述,本发明的含有奥美沙坦美多索米的口腔崩解片通过添加羧甲基纤维素,能够显著地抑制来自奥美沙坦美多索米的苦味。 另外,通过在造粒物中之后添加羧甲基纤维素,能够进一步抑制酸性苦味（前味）、涩味（前味）、盐酸盐苦味、酸性苦味（后味）、涩味（后味）。</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000006" he="54" wi="80" file="2016124861_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000007" he="59" wi="70" file="2016124861_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000008" he="50" wi="77" file="2016124861_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000009" he="60" wi="65" file="2016124861_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种含奥美沙坦美多索米的口腔崩解片,其特征在于,含有奥美沙坦美多索米和大于10mg且35mg以下的羧甲基纤维素。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

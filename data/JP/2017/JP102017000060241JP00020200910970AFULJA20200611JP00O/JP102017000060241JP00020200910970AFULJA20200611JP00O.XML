@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000060241JP00020200910970AFULJA20200611JP00O.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020091097" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091097</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091097</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000060241</base:DocNumber>
+        <base:Date>20170325</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017060241</base:DocNumber>
+        <base:Date>20170325</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20200101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01L   5/16        20200101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G01L5/16</business:FI>
+      <business:FClass>
+        <business:FTerm>2F051AA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F051AB09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F051BA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2F051</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">力覚センサ</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アルプスアルパイン株式会社</base:Name>
+            <base:RegisteredNumber>000010098</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町１番７号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>佐藤  邦生</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町１番７号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>高井  大輔</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町１番７号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>大下  和人</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町１番７号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>志方  元</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町１番７号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中村  俊季</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町１番７号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>野▲崎▼  照夫</base:Name>
+            <base:RegisteredNumber>100085453</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>平山  巌</base:Name>
+            <base:RegisteredNumber>100120204</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>松下  昌弘</base:Name>
+            <base:RegisteredNumber>100108006</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>大窪  克之</base:Name>
+            <base:RegisteredNumber>100135183</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>13</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】加えられた荷重の向き・大きさ・範囲・分布などの状況を検知できる力覚センサを提供する。
+【解決手段】基材と、基材上において互いに所定の間隔をおいて固定されており、加わった荷重に応じて所定の出力を行う複数の感圧部材と、複数の感圧部材に接触する接触領域を有する操作部材とを備え、操作部材に対する操作に応じて複数の感圧部材に荷重が加えられる。また、複数の感圧部材からの出力情報に基づいて操作部材へ加わった荷重の状況を検知する演算部を備える。
+【選択図】図１</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="49" wi="69" file="2020091097_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、操作部材に対する操作によって加えられた荷重を検知可能な力覚センサに関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  特許文献１に記載の荷重検出装置は、突起状の受圧部を有する荷重センサと、受圧部を上面側に向けて荷重センサを収納するケースと、荷重センサの上面側に配置され、荷重を受けて荷重センサを高さ方向に押圧する弾性体とを有している。これにより、良好なハンドリング性と小型化を実現でき、良好なセンサ感度を備えた荷重検出装置を提供できるとしている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２０１５－１６１５３１号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">
+  しかしながら、特許文献１に記載の荷重検出装置では、荷重センサによって高さ方向における押圧力を検出することはできるものの、弾性体に対して加えられた荷重の向き・範囲・分布などの状況を検出することはできなかった。よって、この荷重検出装置を、例えば、遠隔操作される構造体に組み込んだとしても、この構造体に加えられる荷重の状況が明らかでないため、この検出結果に基づいて行う感触伝達は細かさに欠け、リアルな感触を再現することは困難であった。
+</base:Paragraphs>
+        <base:Paragraphs num="0005">
+  そこで本発明は、加えられた荷重の向き・大きさ・範囲・分布などの状況を検知できる力覚センサを提供することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">
+  上記課題を解決するために、本発明の力覚センサは、基材と、基材上において互いに所定の間隔をおいて固定されており、加わった荷重に応じて所定の出力を行う複数の感圧部材と、複数の感圧部材に接触する接触領域を有する操作部材とを備え、操作部材に対する操作に応じて複数の感圧部材に荷重が加えられることを特徴としている。
+
+  これにより、操作部材に加えられた荷重の状況を検知することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  本発明の力覚センサにおいて、複数の感圧部材からの出力情報に基づいて操作部材へ加わった荷重の状況を検知する演算部を備えることが好ましい。
+
+  これにより、操作部材に加えられた荷重の向き・大きさ・範囲・分布などの状況を正確に算出することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  本発明の力覚センサにおいて、複数の感圧部材は、それぞれ、複数の歪み検知素子を備えることが好ましい。
+
+  これにより、感圧部材ごとに、複数の方向で生じた歪みの大きさを検知できるため、操作部材に加えられた荷重の状況を精密に算出することが可能となる。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  本発明の力覚センサにおいて、複数の感圧部材のそれぞれにおいて、複数の歪み検知素子は、感圧部材の平面中心に関して対称に配置されていることが好ましい。
+
+  これにより、各感圧部材で生じた歪みを精度良く検知できるため、力覚センサとしての検知精度を高めることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  本発明の力覚センサにおいて、複数の感圧部材は、基材の平面中心に関して対称となるように４つ配置され、それぞれの感圧部材は、その平面中心に関して対称となるように配置された４つの歪み検知素子を備えることが好ましい。
+
+  これにより、各感圧部材において、基材の平面座標上の歪みの分布を算出できるため、これらに基づいて操作部材に加わった荷重を精度良く演算することが可能となる。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  本発明の力覚センサにおいて、操作部材は複数の感圧部材を覆うように基材に装着されることが好ましい。
+
+  これにより、操作部材に対する操作によって加わる荷重を複数の感圧部材で検知できるため、複雑に加えられた荷重の状況を検知することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  本発明の力覚センサにおいて、操作部材は弾性を有することが好ましい。
+
+  これにより、操作者にリアルな感触を与えつつ、加えられた荷重の状況を精度良く検知することができる。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0013">
+  本発明によると、操作部材に加えられた荷重の向き・大きさ・範囲・分布などの状況を検知できる力覚センサを提供することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">本発明の実施形態に係る力覚センサの構成を示す側面図である。</base:FigureReference>
+        <base:FigureReference num="0002">本発明の実施形態に係る力覚センサの構成を示す平面図である。</base:FigureReference>
+        <base:FigureReference num="0003">本発明の実施形態に係る力覚センサの機能ブロック図である。</base:FigureReference>
+        <base:FigureReference num="0004">（Ａ）、（Ｂ）は力覚センサの適用例を示す図である。</base:FigureReference>
+        <base:FigureReference num="0005">本発明の実施形態における第１の感圧部材の構成を示す斜視図である。</base:FigureReference>
+        <base:FigureReference num="0006">本発明の実施形態における第１の感圧部材が備える歪み検知素子の回路図である。</base:FigureReference>
+        <base:FigureReference num="0007">本発明の実施形態における４つの感圧部材の構成を示す平面図である。</base:FigureReference>
+        <base:FigureReference num="0008">（Ａ）～（Ｅ）は力覚センサに加えられた外力の方向を示す図である。</base:FigureReference>
+        <base:FigureReference num="0009">変形例における４つの感圧部材の構成を示す平面図である。</base:FigureReference>
+        <base:FigureReference num="0010">変形例における４つの感圧部材の構成を示す平面図である。</base:FigureReference>
+        <base:FigureReference num="0011">変形例における第１の感圧部材が備える歪み検知素子の回路図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">
+  以下、本発明の実施形態に係る力覚センサについて図面を参照しつつ詳しく説明する。
+
+  図１は本実施形態に係る力覚センサ１０の構成を示す側面図、図２は力覚センサ１０の構成を示す平面図、図３は力覚センサ１０の機能ブロック図である。図４（Ａ）、（Ｂ）は力覚センサ１０の適用例を示す図である。操作部材１２は、図１においては破線で仮想的に示し、図２では省略している。各図には、基準座標としてＸ－Ｙ－Ｚ座標が示されている。Ｚ方向は上方向であり、Ｘ－Ｙ面はＺ方向に直交する面である。以下の説明において、Ｚ方向に沿って見た状態を平面視ということがある。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  図１又は図２に示すように、本実施形態に係る力覚センサ１０は、基材１１と、基材１１上に配置された４つの感圧部材２０、３０、４０、５０と、これらの感圧部材を覆うように基材１１に装着された操作部材１２とを備える
+
+  なお、本実施形態では、感圧部材が４つの例を示しているが、感圧部材の数は２つ、３つ、又は、５つ以上でもよく、その数と配置は、力覚センサの仕様等に応じて任意に設定できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  基材１１は例えば回路基板であり、図３に示す演算部６１と制御部６２を構成する集積回路、これに接続される配線等が配置されている。制御部６２はインターフェース部を有しており、例えば演算部６１による演算結果を外部の表示装置６３へ与えて表示させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  操作部材１２は、弾性を有する材料、例えば、ウレタンゴム、シリコーンゴムなどの合成ゴムからなり、４つの感圧部材２０、３０、４０、５０のそれぞれの操作体２５、３５、４５、５５の上部をＺ方向上側から覆うように配置されており、好ましくは、Ｘ－Ｙ面方向の端部１２ａが基材１１に対して接着によって固定されている。操作部材１２は、その内面１２ｂが、第１の感圧部材２０の操作体２５、第２の感圧部材３０の操作体３５、第３の感圧部材４０の操作体４５、第４の感圧部材５０の操作体５５に接触する接触領域を構成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  操作部材１２は、例えば図４（Ａ）に示すような人体モデルの指Ｆの表皮Ｆ１を構成する。この構成においては、基板１１や、基板１１上に固定された４つの感圧部材２０、３０、４０、５０は、指Ｆの内部に配置される。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  また、図１に示す操作部材１２に代えて、図４（Ｂ）に示す構成の操作部材１１２も可能である。この操作部材１１２は、操作本体１１２ａと、操作本体１１２ａから下方に延びる腕部１１２ｂとを備え、操作本体１１２ａと腕部１１２ｂのいずれも硬性材料、例えば金属で構成する。一方、基材１１１上には２つの感圧部材１２０、１３０が配置されており、第１の感圧部材１２０の操作体１２５と、第２の感圧部材１３０の操作体１３５との間に操作部材１１２の腕部１１２ｂが配置される。ここで、基材１１１と２つの感圧部材１２０、１３０は、それぞれ、図２に示す、基材１１と４つの感圧部材２０～５０と同様の構成を備える。操作部材１１２において、腕部１１２ｂの側面１１２ｃは、２つの感圧部材１２０、１３０のそれぞれの操作体１２５、１３５に接触する接触領域を構成する。このような構成において、操作本体１１２ａに外力が加わると、腕部１１２ｂは操作本体１１２ａとともにＺ方向に対して傾き、これにともなって操作体１２５、１３５が傾斜する。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  図２に示すように、４つの感圧部材２０、３０、４０、５０は、平面視正方形の外形形状を有する支持台２２、３２、４２、５２をそれぞれ有し、その外縁部が接着によって基材１１に固定されている。４つの感圧部材２０、３０、４０、５０は一定の間隔で、基材１１の平面の中心１１ｃに関して対称に配置されている。より具体的には、第１の感圧部材２０と第２の感圧部材３０、第２の感圧部材３０と第３の感圧部材４０、第３の感圧部材４０と第４の感圧部材５０、及び、第４の感圧部材５０と第１の感圧部材２０は、それぞれ、Ｘ方向及びＹ方向の両方において、距離Ｌをおいて互いに離間するように基材１１上に配置されている。また、Ｙ方向において、第１の感圧部材２０と第３の感圧部材４０は、距離２Ｌをおくように配置され、Ｘ方向において、第２の感圧部材３０と第４の感圧部材５０も距離２Ｌをおいて配置されている。
+
+  ここで、距離Ｌは用途、仕様などに応じて任意に設定できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  図５と図６を参照して感圧部材の構成について説明する。図５は、第１の感圧部材２０の構成を示す斜視図、図６は、第１の感圧部材２０が備える歪み検知素子の回路図である。図７は、４つの感圧部材２０、３０、４０、５０の構成を示す平面図である。
+
+  ここで、４つの感圧部材２０、３０、４０、５０は互いに同一の構成を有するため、第１の感圧部材２０のみについて説明し、ほかの感圧部材３０、４０、５０の詳細な説明は省略する。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  第１の感圧部材２０は、合成樹脂で形成された支持台２２を有している。この支持台２２には、Ｘ方向に延びるプラスＸ変形部２３ａ及びマイナスＸ変形部２３ｂと、Ｙ方向に延びるプラスＹ変形部２４ａ及びマイナスＹ変形部２４ｂとが一体に形成されている。支持台２２の平面中心には、同心状に上向きに突出する操作体２５が一体に設けられている。この操作体２５は、プラスＸ変形部２３ａ及びマイナスＸ変形部２３ｂの中心であり、かつ、プラスＹ変形部２４ａ及びマイナスＹ変形部２４ｂの中心となる位置に配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  指などによって操作部材１２が操作されたときに、操作部材１２の内面１２ｂに接触した操作体２５に対して、操作力に対応する荷重が加えられると、その操作方向と操作力に対応して、プラスＸ変形部２３ａ、マイナスＸ変形部２３ｂ、プラスＹ変形部２４ａ、及び、マイナスＹ変形部２４ｂに撓みが発生する。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  図５に示すように、支持台２２には、プラスＸ変形部２３ａの上表面にプラスＸ歪みセンサ２６ａが取り付けられ、マイナスＸ変形部２３ｂの上表面にマイナスＸ歪みセンサ２６ｂが取り付けられている。また、プラスＹ変形部２４ａの上表面にプラスＹ歪みセンサ２７ａが、マイナスＹ変形部２４ｂの上表面にマイナスＹ歪みセンサ２７ｂが取り付けられている。これらの歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂは、支持台２２の平面中心に位置する操作体２５に関して互いに対称に配置されている。
+
+  なお、歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂは、変形部２３ａ、２３ｂ、２４ａ、２４ｂの下表面にそれぞれ取り付けられていてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂは、それぞれが設けられた変形部２３ａ、２３ｂ、２４ａ、２４ｂで生じた歪みや撓みを検知する歪み検知素子であり、抵抗膜として形成される。図６に示すように、歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂは互いに接続され、ブリッジ回路が構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  操作体２５が、図５に示すθｘ方向もしくはθｙ方向、又は、これら以外の向きに倒れるように押圧されると、その押圧方向及び押圧する力に応じて、プラスＸ変形部２３ａ、マイナスＸ変形部２３ｂ、プラスＹ変形部２４ａ、及び、マイナスＹ変形部２４ｂに撓みが発生し、それぞれの歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂの抵抗値が変化する。また、操作体２５が、下方向に押圧されたときも、押圧する力に応じて、変形部２３ａ、２３ｂ、２４ａ、２４ｂに撓みが発生し、それぞれの歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂの抵抗値が変化する。このような抵抗値の変化に応じて、図６に示すブリッジ回路からＸ操作出力及びＹ操作出力が得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  第１の感圧部材２０の歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂの抵抗値の変化に対応して得られる、Ｘ操作出力とＹ操作出力は、演算部６１に与えられる。これと同様に、感圧部材３０、４０、５０のそれぞれにおける歪みセンサの抵抗値の変化に対応する、Ｘ操作出力とＹ操作出力も、演算部６１に与えられる。演算部６１は、４つの感圧部材２０、３０、４０、５０から与えられた出力情報に基づいて、操作部材１２へ加わった荷重の状況を検知する。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  ここで、図７に示すように、第２の感圧部材３０の支持台３２には、第１の感圧部材２０における、プラスＸ歪みセンサ２６ａ、マイナスＸ歪みセンサ２６ｂ、プラスＹ歪みセンサ２７ａ、及び、マイナスＹ歪みセンサ２７ｂと同様に、プラスＸ歪みセンサ３６ａ、マイナスＸ歪みセンサ３６ｂ、プラスＹ歪みセンサ３７ａ、及び、マイナスＹ歪みセンサ３７ｂが取り付けられている。これと同様に、第３の感圧部材４０の支持台４２には、プラスＸ歪みセンサ４６ａ、マイナスＸ歪みセンサ４６ｂ、プラスＹ歪みセンサ４７ａ、及び、マイナスＹ歪みセンサ４７ｂが取り付けられ、第４の感圧部材５０の支持台５２には、プラスＸ歪みセンサ５６ａ、マイナスＸ歪みセンサ５６ｂ、プラスＹ歪みセンサ５７ａ、及び、マイナスＹ歪みセンサ５７ｂが取り付けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  以上の構成の力覚センサ１０では、例えば図８（Ａ）～（Ｅ）に示すような外力によって加えられた荷重の向き・大きさ・範囲・分布などの状況を検知することができる。ここで、図８（Ａ）～（Ｅ）は図１に対応する側面図であり、力覚センサ１０に加えられた外力の方向を示す図であり、操作部材１２の図示は省略している。図８（Ａ）～（Ｅ）に示すのは一部の例であり、これ以外の荷重、例えば、図８（Ａ）～（Ｅ）に示す外力が組み合わさった力による荷重の状況も検知することができる。また、図８（Ａ）～（Ｅ）についての以下の説明では、Ｚ方向が鉛直方向に沿うように力覚センサ１０を載置した場合を想定して述べるが、力覚センサ１０の載置方向はこれに限定されない。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  まず、図８（Ａ）に示すように、操作部材１２を上方向から下向きに押したときは、４つの感圧部材２０、３０、４０、５０のすべてに下向きの力Ｄ１が作用し、それぞれが有する歪みセンサにおいて抵抗値に変化が生じる。また、操作部材１２を上方向と左方向から押しつぶそうとするような操作が行われると、前記力Ｄ１に加えて、水平方向の力としてＸ方向に沿った力Ｄ２が作用する。この場合には力Ｄ２によって、４つの感圧部材２０、３０、４０、５０のプラスＸ歪みセンサとマイナスＸ歪みセンサの抵抗値の変化が重畳される。
+
+  このようにして各歪みセンサに生じた抵抗値の変化に基づいて、演算部６１は操作部材１２へ加わった荷重の向き・大きさ・範囲・分布などの状況を検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  図８（Ｂ）では、左右両方向からの力として、Ｘ方向のプラス方向とマイナス方向に沿った２つの力Ｄ３、Ｄ４が示されている。このような外力が加わるようなケースとしては、操作部材１２を左右方向からつまむような動作が想定される。このような力Ｄ３、Ｄ４が同時に加わるような操作が行われたとき、４つの感圧部材２０、３０、４０、５０のプラスＸ歪みセンサ及びマイナスＸ歪みセンサのすべてにおいて抵抗値に変化が生じ、各歪みセンサに生じた抵抗値変化に基づいて、演算部６１は操作部材１２へ加わった荷重の向き・大きさ・範囲・分布などの状況を検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  図８（Ｃ）では、左右両方向に沿った力として、Ｘ方向のマイナス方向とプラス方向に沿った２つの力Ｄ５、Ｄ６が示されている。このような外力が加わるようなケースとしては、操作部材１２を左右方向に広げるような動作が想定される。このような力Ｄ５、Ｄ６が同時に加わるような操作が行われたとき、４つの感圧部材２０、３０、４０、５０のプラスＸ歪みセンサ及びマイナスＸ歪みセンサのすべてにおいて抵抗値に変化が生じ、各歪みセンサに生じた抵抗値変化に基づいて、演算部６１は操作部材１２へ加わった荷重の向き・大きさ・範囲・分布などの状況を検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  図８（Ｄ）では、Ｘ－Ｙ面に平行な面内で回転する力Ｄ７が示されている。このような外力が加わるようなケースとしては、操作部材１２を、鉛直軸を中心にひねるような動作が想定される。または、操作部材１２に対して感圧部材２０、３０、４０、５０に順に押圧力が作用するような回転力が与えられる動作が想定される。このような力Ｄ７が加わるような操作が行われたとき、４つの感圧部材２０、３０、４０、５０のすべての歪みセンサにおいて順に抵抗値に変化が生じる。このようにして各歪みセンサに生じた抵抗値の変化に基づいて、演算部６１は操作部材１２へ加わった荷重の向き・大きさ・範囲・分布などの状況を検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  図８（Ｅ）では、互いに異なる方向の力Ｄ８、Ｄ９、Ｄ１０が示されている。このような外力が加わるようなケースとしては、操作部材１２に対して、ひねりながら押す動作や、複数の指で異なる動きを与える動作などが想定される。このような力Ｄ８～Ｄ１０が同時に加わるような操作が行われたとき、４つの感圧部材２０、３０、４０、５０のすべての歪みセンサにおいて抵抗値に変化が生じる。このようにして各歪みセンサに生じた抵抗値の変化に基づいて、演算部６１は操作部材１２へ加わった荷重の向き・大きさ・範囲・分布などの状況を検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  以上のように構成されたことから、上記実施形態によれば、操作部材１２に加えられた荷重の向き・大きさ・範囲・分布などの状況を精度良く検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  また、基材１１の平面中心１１ｃに関して対称となるように４つの感圧部材２０、３０、４０、５０を配置し、それぞれの感圧部材において、その平面中心に関して対称となるように４つの歪み検知素子を設けている。このため、各感圧部材において、基材１１の平面座標上の歪みの分布を算出できるため、これらに基づいて操作部材１２に加わった荷重を精度良く演算することが可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  ４つの感圧部材２０、３０、４０、５０を覆うように、操作部材１２を基材１１に装着しているため、操作部材１２に対する操作によって加わる荷重を４つの感圧部材で検知できるようになることから、複雑に加えられた荷重の状況を検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  操作部材１２が弾性を有することにより、操作者にリアルな感触を与えつつ、加えられた荷重の状況を精度良く検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  以下に変形例について説明する。
+
+  図９と図１０は、変形例における４つの感圧部材の構成を示す平面図である。上記実施形態では、各感圧部材において、Ｘ方向とＹ方向に１対ずつの歪みセンサを配置していたが、一方の方向のみに一対の歪みセンサを配置して、他方の方向の歪みセンサを省略してもよい。例えば、図９に示すように、基材１１の平面中心１１ｃを囲むように、それぞれの感圧部材に一対の歪みセンサを配置してもよい。また、図１０に示すように、基材１１の平面中心１１ｃに向かう方向に沿って、それぞれの感圧部材に一対の歪みセンサを配置してもよい。このような構成により、少ない点数の歪みセンサで、操作部材１２に加えられた荷重の状況を検知することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  図１１は、別の変形例における第１の感圧部材が備える歪み検知素子の回路図である。上記実施形態では、図６に示すブリッジ回路からＸ操作出力とＹ操作出力を得ていたが、これに加えてＺ操作出力を得るようにすることもでき、これにより、Ｚ方向に沿った荷重を含めて、より詳細な状況を検知することが可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  図１１に示す例では、図６と同様に４つの歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂが互いに接続され、ブリッジ回路が構成されており、このブリッジ回路全体として合成抵抗２９が構成される。この合成抵抗２９とＶｃｃ電源の間には、２つの状態Ｓ１、Ｓ２のいずれか一方に切り替えるための切り替えスイッチＳＷが設けられる。切り替えスイッチＳＷが状態Ｓ１であるときは、Ｖｃｃ電源と合成抵抗２９は直接接続され、切り替えによって状態Ｓ２になったときは、Ｖｃｃ電源と合成抵抗２９は固定抵抗２８を介して接続される。切り替えスイッチＳＷと固定抵抗２８は基材１１上に設けられ、固定抵抗２８と合成抵抗２９との間からＺ操作出力が得られる。切り替えスイッチＳＷは制御部６２によって制御され、一定時間ごとに２つの状態Ｓ１、Ｓ２が切り替えられる。または、操作者の操作によって切り替えても良い。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  この変形例においては、例えば操作体２５がＺ方向に沿って押し下げられた場合、４つの歪みセンサ２６ａ、２６ｂ、２７ａ、２７ｂが同じように伸び（または縮む）ため、合成抵抗２９が大きくなる。したがって、状態Ｓ２においては、固定抵抗２８と合成抵抗２９の間から取り出されるＺ操作出力に変化が生じ、この出力情報に基づいて、演算部６１において、操作部材１２へ加わったＺ方向の状況が検知される。一方、状態Ｓ１にしている期間ではＸ操作出力とＹ操作出力が得られる。２つの状態Ｓ１、Ｓ２を順次切り替えて、Ｚ操作出力と、Ｘ操作出力及びＹ操作出力とを得ることにより、操作部材１２に加えられた荷重の状況を３次元で捉えることが可能となる。
+
+  実際の測定では、２つの状態Ｓ１、Ｓ２が所定周期で繰り返され、状態Ｓ１が設定されているときに、演算部６１でＸ操作出力とＹ出力を監視され、状態Ｓ２が設定されているときに、演算部６１でＺ操作出力が監視される。
+
+  または使用用途に応じて、状態Ｓ１で固定したまま使用してもよいし、状態Ｓ２で固定したまま使用してもよい。
+
+  本発明について上記実施形態を参照しつつ説明したが、本発明は上記実施形態に限定されるものではなく、改良の目的または本発明の思想の範囲内において改良または変更が可能である。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0044">
+  以上のように、本発明に係る力覚センサは、操作部材に加えられた荷重の向き・大きさ・範囲・分布などの状況を検知できる点で有用である。
+</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0045">
+  １０    力覚センサ
+
+  １１    基材
+
+  １１ｃ  平面中心
+
+  １２    操作部材
+
+  １２ｂ  内面（接触領域）
+
+  ２０    第１の感圧部材
+
+  ２２、３２、４２、５２    支持台
+
+  ２３ａ  プラスＸ変形部
+
+  ２３ｂ  マイナスＸ変形部
+
+  ２４ａ  プラスＹ変形部
+
+  ２４ｂ  マイナスＹ変形部
+
+  ２５、３５、４５、５５    操作体
+
+  ２６ａ、３６ａ、４６ａ、５６ａ  プラスＸ歪みセンサ
+
+  ２６ｂ、３６ｂ、４６ｂ、５６ｂ  マイナスＸ歪みセンサ
+
+  ２７ａ、３７ａ、４７ａ、５７ａ  プラスＹ歪みセンサ
+
+  ２７ｂ、３７ｂ、４７ｂ、５７ｂ  マイナスＹ歪みセンサ
+
+  ３０    第２の感圧部材
+
+  ４０    第３の感圧部材
+
+  ５０    第４の感圧部材
+
+  ６１    演算部
+
+  ６２    制御部
+
+  ６３    表示装置
+
+  １１１  基材
+
+  １１２  操作部材
+
+  １１２ａ  操作本体
+
+  １１２ｂ  腕部
+
+  １１２ｃ  側面
+
+  １２０    第１の感圧部材
+
+  １２５、１３５    操作体
+
+  １３０    第２の感圧部材
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="57" wi="80" file="2020091097_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="108" wi="80" file="2020091097_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="107" wi="74" file="2020091097_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="113" wi="80" file="2020091097_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="71" wi="80" file="2020091097_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="70" wi="80" file="2020091097_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="108" wi="80" file="2020091097_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="78" file="2020091097_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="105" wi="80" file="2020091097_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="107" wi="80" file="2020091097_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="87" wi="80" file="2020091097_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  基材と、
+
+  前記基材上において互いに所定の間隔をおいて固定されており、加わった荷重に応じて所定の出力を行う複数の感圧部材と、
+
+  前記複数の感圧部材に接触する接触領域を有する操作部材とを備え、
+
+  前記操作部材に対する操作に応じて前記複数の感圧部材に前記荷重が加えられることを特徴とする力覚センサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記複数の感圧部材からの出力情報に基づいて前記操作部材へ加わった荷重の状況を検知する演算部を備える請求項１に記載の力覚センサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記複数の感圧部材は、それぞれ、複数の歪み検知素子を備える請求項２に記載の力覚センサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記複数の感圧部材のそれぞれにおいて、前記複数の歪み検知素子は、前記感圧部材の平面中心に関して対称に配置されている請求項３に記載の力覚センサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記複数の感圧部材は、前記基材の平面中心に関して対称となるように４つ配置され、それぞれの感圧部材は、その平面中心に関して対称となるように配置された４つの前記歪み検知素子を備える請求項１から請求項４のいずれか１項に記載の力覚センサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記操作部材は前記複数の感圧部材を覆うように前記基材に装着される請求項１から請求項５のいずれか１項に記載の力覚センサ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記操作部材は弾性を有する請求項６に記載の力覚センサ。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

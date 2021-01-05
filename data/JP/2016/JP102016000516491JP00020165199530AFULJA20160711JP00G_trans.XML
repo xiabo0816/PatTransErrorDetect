@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000516491JP00020165199530AFULJA20160711JP00G.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519953" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519953</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519953</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000516491</base:DocNumber>
+        <base:Date>20130603</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016516491</base:DocNumber>
+        <base:Date>20130603</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>23</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>3</business:MainGroup>
+        <business:Subgroup>20</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A23F   3/20        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A23F3/20</business:FI>
+      <business:FClass>
+        <business:FTerm>4B027FB13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B027FC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B027FE06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B027FK09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B027FP85</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B027FP90</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B027</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">苯含量降低的即饮型茶饮料及其制备方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ネステク  ソシエテ  アノニム</base:Name>
+            <base:RegisteredNumber>599132904</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス国，ブベイ，アブニュー  ネスレ  55</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マニュエル，  チャイデス</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国，  カリフォルニア州，  ロサンゼルス，  イースト  ワシントン  ブールバード  1544，  エヌダブリューエヌエー  キューエー  ラボラトリー</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ジュヌヴィエーヴ，  コール</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国，  オハイオ州，  メアリーズビル，  マーティン  ウェルチ  ロード  17356</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>シャオピン，  フー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国，  オハイオ州，  ダブリン，  クラフトン  レーン  6821</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>チン‐ジュン，  クオ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国，  オハイオ州，  メアリーズビル，ウォーカー  ウッド  レーン  995</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>リーズ，  ゼブージュ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国，  オハイオ州，  コロンバス，  イェイガー  ストリート  956</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>長谷川  芳樹</base:Name>
+            <base:RegisteredNumber>100088155</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>池田  成人</base:Name>
+            <base:RegisteredNumber>100107456</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>酒巻  順一郎</base:Name>
+            <base:RegisteredNumber>100162352</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>戸津  洋介</base:Name>
+            <base:RegisteredNumber>100140453</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>三上  敬史</base:Name>
+            <base:RegisteredNumber>100124062</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+          <base:WIPOST3Code>UZ</base:WIPOST3Code>
+          <base:WIPOST3Code>VC</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2013043887</base:DocNumber>
+        <base:Date>20130603</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2014196953</base:DocNumber>
+        <base:Date>20141211</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>14</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>一种即饮型茶饮料,其含有茶提取物、通气水和苯甲酸盐（例如苯甲酸盐）。 饮料和/或通气水中可含有至少5.0 ppm的分子氧（O<base:Sub>2</base:Sub>）,优选至少约5.0 ppm的O<base:Sub>2</base:Sub>。 通气水可以减少或防止苯的形成,并且可以降低饮料的苯含量。 饮料可以不含二碳酸二甲酯和/或抗坏血酸。 可在将饮料分配到罐或另一个合适的容器中之前和/或之后将水排出。 无</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:BackgroundArt>
+      <base:Paragraphs num="0001">[0001]本公开总体上涉及即饮型茶饮料。 更具体地,本公开涉及具有减少的苯形成的即饮型茶饮料及其制备方法。</base:Paragraphs>
+      <base:Paragraphs num="0002">[0002]苯是已知对人类致癌的挥发性有机化合物(VOC),并且可以存在于食物和饮料中。 摄取含有高浓度苯的食品有时会产生呕吐、胃炎、眩晕、嗜睡、痉挛、心动过速或心律失常、以及死亡等症状。 长期暴露在血液中导致骨髓损伤和红细胞计数减少,从而导致贫血。 以类似的方式,免疫系统的影响增加了感染感染的可能性,并且以类似的方式发展白血病的可能性。</base:Paragraphs>
+      <base:Paragraphs num="0003">[0003]食品中的苯生成涉及多种来源,例如碳酸饮料中使用的二氧化碳的污染、从包装中的溶出、环境和给水的污染以及食品加工条件,例如辐射处理或高温。 在此类食品加工条件下,某些氨基酸（例如苯丙氨酸）和其它常见食品原料（例如胡萝卜素）或香料化合物（例如蒎烯和柠檬烯）的分解可产生苯。 此外,广泛使用的食品防腐剂苯甲酸盐（benzoate）的脱羧也可以产生苯。</base:Paragraphs>
+      <base:Paragraphs num="0004">[0004]苯甲酸酯和抗坏血酸可以天然存在于食物中,或者可以作为食物添加剂添加。 例如,苯甲酸钠是常用的抗微生物剂。 抗坏血酸和过渡金属离子（例如Cu）；<base:Sub>2＋</base:Sub>或Fe<base:Sup>3＋</base:Sup>尽管抗坏血酸通常在食品配方中用作抗氧化剂,但在过渡金属离子的存在下,抗坏血酸可以充当氧化促进剂以还原金属离子,使得被还原的金属离子是H。<base:Sub>2</base:Sub>O<base:Sub>2</base:Sub>可以还原以产生羟基自由基。 类似地,还报道了其他因素如温度和紫外线辐射影响苯甲酸盐/酯的脱羧。</base:Paragraphs>
+      <base:Paragraphs num="0005">[0005]由于饮料通常含有作为防腐剂添加的苯甲酸盐,并且也可以是酸性的,因此由苯甲酸盐产生苯的发现已经特别关注饮料。 减少苯形成的现有解决方案包括减少苯甲酸钠的量（这导致潜在的微生物污染）、完全除去苯甲酸钠（这将用昂贵的高温灌装或无菌加工代替低温灌装方法）以及使用二碳酸二甲酯代替苯甲酸钠（这同样是昂贵的方法）。 在使用乙二胺四乙酸(EDTA)的另一种方法中,可以通过螯合可用作催化剂的金属离子来减少苯的形成,但是在含有与催化金属离子竞争结合EDTA的钙或其他矿物质的产品中,这种作用可能受到阻碍。</base:Paragraphs>
+      <base:Paragraphs num="0006">[0006]茶是通常由天竺葵（Camellia sinensis）的干叶制成的冲泡液。 钙、钠、钾、镁和锰以g/kg浓度存在于茶叶中,而铬、铁、钴、镍、铜和锌以mg/kg浓度存在。 如上所述,一些金属离子可以还原H<base:Sub>2</base:Sub>O<base:Sub>2</base:Sub>以产生促进苯甲酸盐/酯的氧化脱羧的羟基自由基。 因此,由于金属离子的天然存在,茶特别容易产生苯。 此外,当饮料在高温下储存长时间时,由苯甲酸酯产生的苯的量增加。 在这方面,产品的保质期越长,在存在前体的情况下形成苯的可能性越高。 因此,即使是即饮型饮料,也可能产生不期望的苯浓度。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:Disclosure>
+      <base:Paragraphs num="0007">[0007]本公开内容提供了减少即饮型茶饮料中苯形成的方法,提供了具有减少的苯形成的即饮型茶饮料,以及制备此类饮料的方法。 该方法和饮料使用通气水,例如用氧分子通气的水,以降低苯含量和苯形成。</base:Paragraphs>
+      <base:Paragraphs num="0008">[0008]在一般实施方案中,本公开提供了一种即饮型茶饮料,其包含茶提取物、通气水和苯甲酸盐/酯。</base:Paragraphs>
+      <base:Paragraphs num="0009">[0009]在一个实施方案中,饮料包含至少2.5 ppm的分子氧（O<base:Sub>2</base:Sub>）。</base:Paragraphs>
+      <base:Paragraphs num="0010">[0010]在一个实施方案中,苯甲酸盐/酯选自苯甲酸钠、苯甲酸钾、苯甲酸钙、以及它们的组合。</base:Paragraphs>
+      <base:Paragraphs num="0011">[0011]在一个实施方案中,饮料包含至多0.30 g/L的苯甲酸盐/酯。</base:Paragraphs>
+      <base:Paragraphs num="0012">[0012]在一个实施方案中,饮料不含二碳酸二甲酯。</base:Paragraphs>
+      <base:Paragraphs num="0013">[0013]在一个实施方案中,饮料不含抗坏血酸。</base:Paragraphs>
+      <base:Paragraphs num="0014">[0014]在另一个实施方案中,提供了制备即饮茶饮料的方法。 该方法包括以下步骤：将苯甲酸盐/酯添加到用于生产即饮型茶饮料的成分中,并且将用于该成分的水鼓泡以生产即饮型茶饮料。</base:Paragraphs>
+      <base:Paragraphs num="0015">[0015]在一个实施方案中,由于通气,水包含至少2.5 ppm的氧分子（O<base:Sub>2</base:Sub>）。</base:Paragraphs>
+      <base:Paragraphs num="0016">[0016]在一个实施方案中,该方法还包括将即饮型茶饮料分配到容器中的步骤,其中水在容器中时用O<base:Sub>2</base:Sub>通气。</base:Paragraphs>
+      <base:Paragraphs num="0017">[0017]在一个实施方案中,该方法还包括在将水排出之前将空气从容器中排出的步骤。</base:Paragraphs>
+      <base:Paragraphs num="0018">[0018]在一个实施例中,水通过气体冲洗排出,并且容器中的空气被O<base:Sub>2</base:Sub>替代。</base:Paragraphs>
+      <base:Paragraphs num="0019">[0019]在一个实施方案中,该方法还包括将即饮型茶饮料分配到容器中的步骤,其中在分配到容器中之前用O<base:Sub>2</base:Sub>使水通气。</base:Paragraphs>
+      <base:Paragraphs num="0020">[0020]在另一个实施方案中,提供了即饮型茶饮料。 该饮料包含茶提取物、通气水和苯甲酸酯。 该即饮茶饮料能够常温保存,在60℃下7天后含有的苯小于0.75 ppb。</base:Paragraphs>
+      <base:Paragraphs num="0021">[0021]在一个实施方案中,饮料被O<base:Sub>2</base:Sub>饱和68%。</base:Paragraphs>
+      <base:Paragraphs num="0022">[0022]在另一个实施方案中,提供了一种减少即饮型茶饮料中苯形成的方法。 该方法包括以下步骤：使水通气以包含至少2.5 ppm的氧分子（O<base:Sub>2</base:Sub>）,并且使用苯甲酸盐/酯和通气水来生产即饮型茶饮料。</base:Paragraphs>
+      <base:Paragraphs num="0023">[0023]本公开的一个优点是提供一种减少或防止即饮茶饮料中苯形成的方法。</base:Paragraphs>
+      <base:Paragraphs num="0024">[0024]本公开的另一个优点是提供具有减少的苯形成和/或减少的苯含量的即饮型茶饮料。</base:Paragraphs>
+      <base:Paragraphs num="0025">[0025]本公开内容的另一个优点是提供一种即饮型茶饮料,其不含抗坏血酸并且具有减少的苯形成和/或减少的苯含量。</base:Paragraphs>
+      <base:Paragraphs num="0026">[0026]本公开的又一个优点是使用溶解的氧分子（O<base:Sub>2</base:Sub>）来减少即饮茶饮料中的苯形成和/或减少苯含量。</base:Paragraphs>
+      <base:Paragraphs num="0027">[0027]本公开的另一个优点是在不减少苯甲酸盐/酯的量的情况下减少苯形成和/或减少即饮型茶饮料中的苯含量。</base:Paragraphs>
+      <base:Paragraphs num="0028">[0028]本公开的另一个优点是在不使用二碳酸二甲酯代替苯甲酸酯的情况下,减少了即饮型茶饮料中的苯形成和/或降低了苯含量。</base:Paragraphs>
+      <base:Paragraphs num="0029">[0029]本公开内容的另一个优点是提供一种茶饮料,其能够在不促进苯形成的情况下长时间环境储存。</base:Paragraphs>
+      <base:Paragraphs num="0030">[0030]本公开的又一个优点是提供一种即饮型茶饮料,其在60℃下7天后包含小于0.75 ppb的苯。</base:Paragraphs>
+      <base:Paragraphs num="0031">[0031]本文描述了另外的特征和优点。 这些将从本发明的以下详细描述和附图中变得显而易见。</base:Paragraphs>
+    </business:Disclosure>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0032">
+        <base:FigureReference num="0001">图0001示出了实施例1中测试的样品和结果的表格。</base:FigureReference>
+        <base:FigureReference num="0002">图0002表示实施例1中的试验结果的帕累托图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003表示实施例1中的试验结果的统计分析。</base:FigureReference>
+        <base:FigureReference num="0004">图0004表示通过实施例1中的初次试验及确认试验得到的试验结果的表。</base:FigureReference>
+        <base:FigureReference num="0005">图0005表示由实施例1中的初次试验和确认试验得到的试验结果的柱状图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0033">[0037]除非另有说明,否则本文所述的所有百分比均基于组合物的总重量。 当参考pH时,该值对应于通过标准装置在25℃下测量的pH。 如本公开和所附权利要求中所使用的,单数形式“一个”、“一种”和“该”包括复数形式,除非上下文另有明确规定。 如本文所用,“约”应理解为是指落入数值范围内的多个数字。 此外,本文所述的所有数值范围应理解为包括该范围内的所有自然数、整数或分数。 如本文所用,“包含（comprising）”、“包括（including）”和“含有（containing）”是一般性术语,即开放式术语,并且不排除其他未列出的要素或方法步骤。 然而,本公开提供的茶饮料可以不含本文未具体公开的任何成分。 因此,如本文所用,“包含”包括“基本上由……组成”和“由……组成”。</base:Paragraphs>
+      <base:Paragraphs num="0034">[0038]“即饮型饮料”是指可以在不添加更多液体的情况下食用的液体形式的饮料。 “茶”包含所有种类的茶叶,例如绿茶、黑茶、白茶、乌龙茶、路易波士茶、茶、着香茶、香草茶、果茶及它们的组合等。 “茶叶”是指可冲煮的茶叶,以及任选的完整的、切碎的或切碎的叶； 叶片； 粉末； 极细片； 以及它们的组合。 茶可包括单一类型的茶或一种或多种茶的混合物。 可以在茶中添加咖啡因,或者也可以进行脱咖啡因处理。</base:Paragraphs>
+      <base:Paragraphs num="0035">[0039]本公开提供了即饮型茶饮料。 在这些饮料中,例如可以含有可通过茶叶的热水提取等通常的方法得到的茶提取物。 水萃取的温度可以从室温至多180℃或更高的压力变化。 在一个实施方案中,可以将食品级染料、缓冲盐、稳定剂、防腐剂、调味剂、甜味剂等添加到茶提取物中。 缓冲盐可以是任何合适的盐,例如磷酸钠、磷酸氢二钠、磷酸钾、磷酸氢二钾、多磷酸钠、六偏磷酸钠、柠檬酸钠、柠檬酸二钠、柠檬酸钾和柠檬酸氢钾。 甜味剂可以是基于糖的,例如蔗糖、转化糖、果糖糖浆、各种DE的葡萄糖糖浆、各种DE的麦芽糖糊精、以及它们的组合。 作为无糖甜味剂,可举出麦芽糖醇、木糖醇、山梨糖醇、赤藓糖醇、甘露醇、异麦芽酮糖醇及乳糖醇等糖醇、水解氢化淀粉、糖精、环己基氨基甲酸酯、乙酰磺胺酸、L-天冬氨酰系甜味剂、或它们的混合物,但并不限定于这些。 在一个实施方案中,即饮茶饮料包含乙二胺四乙酸(EDTA),优选量为约0.03 g/L。</base:Paragraphs>
+      <base:Paragraphs num="0036">[0040]此外,茶提取物可以用维生素、矿物质、抗氧化剂、益生菌和/或益生元富集。 稳定剂的非限制性实例包括明胶、淀粉、树胶、乳化剂、缓冲剂、碳酸盐等。 任选存在的矿物质、维生素和其他微量营养素的非限制性实例包括维生素A、维生素B1、维生素B2、维生素B6、维生素B12、维生素E、维生素K、维生素C、维生素D、叶酸、肌醇、烟酸、生物素、泛酸、胆碱、钙、磷、碘、铁、镁、铜、锌、锰、氯化物、钾、钠、硒、铬、钼、牛磺酸和L-肉碱。</base:Paragraphs>
+      <base:Paragraphs num="0037">[0041]所得到的即饮型茶饮料可以被过滤或含有天然沉淀物。 在一个实施方案中,即饮型茶饮料含有合适的风味物。 此类风味剂可包括水果风味剂、摩卡风味剂、巧克力风味剂、chai风味剂、焦糖风味剂、香草风味剂或其组合。 在一个实施方案中,即饮型茶饮料不含二碳酸二甲酯。 在一个实施方案中,即饮茶饮料不含抗坏血酸。</base:Paragraphs>
+      <base:Paragraphs num="0038">[0042]即饮茶饮料包含通气水,例如用分子氧（O<base:Sub>2</base:Sub>）通气的水和苯甲酸盐,例如苯甲酸盐。 合适的苯甲酸盐的非当前常规实例包括苯甲酸钠、苯甲酸钾、苯甲酸钙、以及它们的组合。 在一个实施方案中,即饮型茶饮料包含至多0.30 g/L的苯甲酸盐/酯。 作为非限制性实例,即饮型茶饮料可包含0.28 g/L苯甲酸盐/酯、0.30 g/L苯甲酸盐/酯和其他浓度的苯甲酸盐/酯。</base:Paragraphs>
+      <base:Paragraphs num="0039">[0043]即饮茶饮料优选包含通气水作为饮料中的唯一水,并且饮料不含不通气水。 例如,即饮型茶饮料优选包含茶提取物、通气水和苯甲酸盐/酯。 在一个实施方案中,茶饮料和/或茶饮料中的水具有至少2.5 ppm的分子氧（O<base:Sub>2</base:Sub>）,优选3.5 ppm的分子氧（O<base:Sub>2</base:Sub>）,更优选5.0 ppm的分子氧（O<base:Sub>2</base:Sub>）,并且甚至更优选至少约6.0 ppm的O<base:Sub>2</base:Sub>。 在一个实施方案中,茶饮料和/或茶饮料中的水被分子氧（O<base:Sub>2</base:Sub>）饱和68%,优选地溶解至少72%的O<base:Sub>2</base:Sub>。 即饮茶饮料可常温保存,在60℃下过7天后所含的苯低于0.75 ppb。</base:Paragraphs>
+      <base:Paragraphs num="0040">[0044]例如,可以通过冷灌装将即饮茶饮料分配到罐或其他合适的容器中。 在一个实施方案中,水可以用O<base:Sub>2</base:Sub>鼓泡,然后用即饮茶饮料填充容器。 在一个实施方案中,可以在填充即饮茶饮料之后将O<base:Sub>2</base:Sub>引入罐或其他容器的顶部空间中,例如,可以在从容器中排出空气（例如氮气）之后引入O<base:Sub>2</base:Sub>。 从容器中排出空气可以通过减压来实现。 可替代地或另外地,O<base:Sub>2</base:Sub>可以通过气体冲洗引入,其中O<base:Sub>2</base:Sub>替代容器中的空气。 在一个实施例中,可以在将饮料分配到罐中之前将水排出。 例如,在制备茶提取物之前、期间和/或之后,以及在制备即饮之前、期间和/或之后,可以用O<base:Sub>2</base:Sub>使水通气。 在一个实施方案中,通过在水通气后加热或通过接触系统使水与真空接触,将所需浓度的O<base:Sub>2</base:Sub>溶解在饮料中。</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0041">[0045]出于说明而非限制的目的,以下非限制性实施例示出了本公开提供的各种实施方案。</base:Paragraphs>
+        <base:Paragraphs num="0042">实施例1[0046]进行测试以评估茶原料和加工条件的差异对苯含量降低的影响。 在20毫升（mL）的小瓶中制备各茶试样,含有0.03 g/mL EDTA。 试验参数为苯甲酸钠浓度、三氯蔗糖的有无、高果糖玉米糖浆(HFCS)浓度、通过改变磷酸水平而得到的pH、水的通气（脱气或非脱气）、以及水的反渗透处理的种类（氦气吹扫或膜）。 参见图1。</base:Paragraphs>
+        <base:Paragraphs num="0043">[0047]茶是覆盆子加香的黑茶,并且对于每个样品,除了茶样品中的测试参数之外的所有其他元素是相同的。 具体地,茶可以包含甜味剂（例如糖和/或替代物）； 黑茶粉； 酸； 防腐剂； 覆盆子调味剂； 和水。</base:Paragraphs>
+        <base:Paragraphs num="0044">[0048]三氯蔗糖的存在或不存在是测试参数,因为人造甜味剂被认为减慢苯的形成。 由于HFCS被认为会加速苯的生成,因此评价HFCS浓度。 认为如果成为酸性则促进苯的生成,因此使pH变化。 由于O<base:Sub>2</base:Sub>能够在苯的生成中发挥功能,因此将水的通气作为试验参数。 由于离子可以在苯的形成中起作用,因此测试了水的反渗透处理的类型。 “共同制造（Co-manufacturer）”是指通过氦气吹扫进行反渗透处理,“PTC”是指通过膜进行反渗透处理。</base:Paragraphs>
+        <base:Paragraphs num="0045">[0049]将样品在60℃下保持7天,并评估这些参数的效果（如果有的话）。 在此期间,将使用脱气水的样品保持在设计成保持脱气的密闭容器（“手套箱”）中。 然后使用本领域已知的“吹扫和捕集”分析测量苯浓度。 具体而言,利用非反应性吹扫气体对试样进行鼓泡,以蒸气的形式提取苯。 当蒸汽通过高表面积材料（例如活性炭）时,苯吸附在其上并再冷凝成液体。 吸附于活性炭的苯和其他挥发性化合物可以通过加热使其再蒸发而分离,并且可以通过气相色谱法进行分析。</base:Paragraphs>
+        <base:Paragraphs num="0046">[0050]如图1所示,在使用脱气水（O<base:Sub>2</base:Sub>浓度分别小于1.0 ppm）的试样3～6中,生成了苯（分别为3.32、4.26、3.40和3.46）。 相比之下,在使用通气水的试样1、2、7及8（O<base:Sub>2</base:Sub>浓度分别为5.90、6.39、6.28及5.89 ppm）中,防止了苯的生成。 因此,在该初始实验中,苯的形成与水的脱气有关。</base:Paragraphs>
+        <base:Paragraphs num="0047">[0051]如图2所示,生成帕累托图以确定在初始实验中测试的每个参数的统计显著性。 除了水的通气以外,其他因素对苯的生成也有影响,但其他因素的影响在统计学上并不显著。 如图3所示,进一步的统计分析证明了结果的有效性。</base:Paragraphs>
+        <base:Paragraphs num="0048">[0052]然而,为了证实苯形成和水脱气之间的关系,在证实试验中重复测试样品1、2、3和6。 基于反渗透的水处理的种类不是参与苯生成的因素,因此对于试样4、5、7和8不重复。 确认测试和初始测试的区别仅在于在确认测试中添加苯甲酸钠（“新校准制备”）,然后在板上搅拌5分钟以进行校准,而在初始测试中不包括这种搅拌（“旧校准制备”）。</base:Paragraphs>
+        <base:Paragraphs num="0049">[0053]如图4和图5所示,第二研究证实了第一研究中所示的苯形成和水脱气之间的关系。 根据第2试验,在使用通气水的试样1及2中,与使用脱气水的试样3及6相比,苯大幅减少。 尽管可检测的苯量为0.75 ppb,但一些样品产生低于该阈值的峰,如图4中括号中的数字所示。</base:Paragraphs>
+        <base:Paragraphs num="0050">[0054]图5从左到右示出了样品3的三次运行、样品6的三次运行、样品1的三次运行和样品2的三次运行的结果的条形图。 对于每个试验,左侧柱状图是初始试验中产生的苯的量,右侧柱状图是确认试验中产生的苯的量。 如图所示,在初始试验中,对于试样1和2,作为结果,未检测到苯（苯小于0.75 ppb）。</base:Paragraphs>
+        <base:Paragraphs num="0051">[0055]不希望受理论束缚,本发明人认为苯甲酸盐/酯可以通过与茶多酚反应而产生具有低活化能以形成苯的酯,并且氧可以还原茶多酚中所含的羟基以限制酯化。</base:Paragraphs>
+        <base:Paragraphs num="0052">[0056]应当理解,对本文所述的本发明的优选实施方案的各种变化和修改对于本领域技术人员将是显而易见的。 在不脱离本主题的精神和范围并且不消除预期优点的情况下,可以进行这些改变和修改。 因此,这些变化和修改旨在由所附权利要求涵盖。</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000002" he="113" wi="73" file="2016519953_000002.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000003" he="113" wi="73" file="2016519953_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000004" he="113" wi="73" file="2016519953_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000005" he="113" wi="73" file="2016519953_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000006" he="113" wi="73" file="2016519953_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种即饮型茶饮料,其包含茶提取物、通气水及苯甲酸酯。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的即饮茶饮料,其中,所述饮料包含至少2.5 ppm的氧分子（O<base:Sub>2</base:Sub>）。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的即饮茶饮料,其中,所述苯甲酸盐/酯选自由苯甲酸钠、苯甲酸钾、苯甲酸钙和它们的组合组成的组。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的即饮型茶饮料,其包含最多0.30 g/L的所述苯甲酸盐/酯。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的即饮茶饮料,其特征在于,所述饮料不含二碳酸二甲酯。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的即饮茶饮料,其特征在于,所述饮料不含抗坏血酸。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>一种即饮型茶饮料的制造方法,其包括：将苯甲酸酯添加到用于制造所述即饮型茶饮料的成分中的工序,以及使用于所述成分的水通气而制造即饮型茶饮料的工序。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求7所述的方法,其中,将所述水通气而含有至少2.5 ppm的氧分子（O<base:Sub>2</base:Sub>）。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求7所述的方法,其还包括将所述即饮型茶饮料分配到容器中的步骤,其中所述水在所述容器中时通过O<base:Sub>2</base:Sub>通气。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求9所述的方法,其还包括在所述水的通气之前从所述容器排出空气的工序。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求9所述的方法,其中,所述水通过气体冲洗而通气,所述容器中的空气被O<base:Sub>2</base:Sub>置换。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求7所述的方法,其还包括将所述即饮型茶饮料分配到容器中的步骤,其中所述水在分配到所述容器中之前用O<base:Sub>2</base:Sub>通气。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>一种即饮型茶饮料,其为包含茶提取物、通气水及苯甲酸酯的即饮型茶饮料,其中,能够常温保存,且在60℃下7天后包含的苯小于0.75 ppb。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求13所述的即饮茶饮料,其特征在于,所述饮料被O<base:Sub>2</base:Sub>饱和68%。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>一种减少即饮型茶饮料中苯形成的方法,所述方法包括使水鼓泡以包含至少2.5 ppm的氧分子（O<base:Sub>2</base:Sub>）,并且使用苯甲酸盐/酯和所述鼓泡的水生产即饮型茶饮料。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000007" file="2016519953_000007.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000008" file="2016519953_000008.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000009" file="2016519953_000009.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

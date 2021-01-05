@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000230840JP00020161272730AFULJA20160711JP00W.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127273" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127273</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127273</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000230840</base:DocNumber>
+        <base:Date>20151126</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015230840</base:DocNumber>
+        <base:Date>20151126</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>DE</base:WIPOST3Code>
+        <base:DocNumber>102014000227005</base:DocNumber>
+        <base:Date>20141229</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>DE</base:WIPOST3Code>
+        <base:DocNumber>10 2014 227 005.7</base:DocNumber>
+        <base:Date>20141229</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>301</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  21/301       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20140101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>23</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>26</business:MainGroup>
+        <business:Subgroup>364</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B23K  26/364       20140101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01L21/78 M</business:FI>
+      <business:FI type="secondary">H01L21/78 F</business:FI>
+      <business:FI type="secondary">H01L21/78 B</business:FI>
+      <business:FI type="secondary">B23K26/364</business:FI>
+      <business:FClass>
+        <business:FTerm>4E168AD02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4E168JA12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4E168JA13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4E168JA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4E168JA15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063AA33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063AA43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063BA32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063BA33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063BA47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063BA48</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063CA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063CB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063CB23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063CB26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063DD59</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063DG04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063EE36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063EE38</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063EE42</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063EE43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5F063EE44</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4E168</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5F063</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">ウェハをダイに分割する方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社ディスコ</base:Name>
+            <base:RegisteredNumber>000134051</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都大田区大森北二丁目１３番１１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>カール  ハインツ  プリーワッサー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>ドイツ，  ８１８２５  ミュンヘン，  キリホーフシュトラーセ  ３０エー</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>池田  成人</base:Name>
+            <base:RegisteredNumber>100107456</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>酒巻  順一郎</base:Name>
+            <base:RegisteredNumber>100162352</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>野田  雅一</base:Name>
+            <base:RegisteredNumber>100123995</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>山口  和弘</base:Name>
+            <base:RegisteredNumber>100148596</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>13</business:ClaimsCount>
+      <base:TotalPageCount>14</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】複数の分割ラインによって区切られた複数のデバイスを備えたデバイス領域と、そのデバイス領域の周りにデバイスが形成されない周辺限界領域とを一面に有するウェハをダイに分割する方法を提供する。【解決手段】ウェハＷの一面にウェハ上のデバイスを保護する為の接着テープ４を、少なくとも一部、任意で、全部のデバイスに接着するステップと、接続手段１０によって、デバイスと接触する面の反対側にある接着テープの面に、接着テープを支える為のキャリア７を接続するステップと、ウェハの高さを調整する為に一面の反対側にあるウェハの面を研削するステップと、分割ラインに沿ってウェハを切断するステップと、を備える。上面視でウェハのデバイス領域２の完全に外側で接続手段を配置する。【選択図】図４</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="97" wi="63" file="2016127273_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、請求項１の前文に従う、複数の分割ラインによって区切られた複数のデバイスを備えたデバイス領域と、そのデバイス領域の周りにデバイスが形成されない周辺限界領域とを一面に有するウェハをダイに分割する方法に関する。
+</base:Paragraphs>
+      <base:Paragraphs num="0002" />
+    </business:TechnicalField>
+    <base:Heading>従来技術</base:Heading>
+    <base:Paragraphs num="0003">
+  半導体デバイス製造処理では、複数の分割ラインによって区切られた複数のデバイスを備えたデバイス領域と、そのデバイス領域の周りにデバイスが形成されない周辺限界領域とを一面に有するウェハが個々のダイに分割される。この製造処理は、一般的に、ウェハの高さを調整する研削ステップと、ダイを得る為に分割ラインに沿ってウェハを切断する切断ステップとを備える。この製造処理中、ウェハに形成されたデバイスを保護し、個々のダイを位置決めするため、上部にデバイスが形成されたウェハ面に接着テープが付けられる。しかしながら、接着テープは、製造処理中、接着テープに付けられる個々のダイに位置ずれが生じるという欠点のため、簡単に変形可能である。そのようなダイのずれ（shift）は、ダイピックアップを悪化させ、複雑かつ高価な製造機を必要とする。
+</base:Paragraphs>
+    <base:Paragraphs num="0004">
+  出願人は、接着テープを支持する為にキャリアがウェハに付けられる、ウェハを分割する方法を承知している。キャリアは、剛性の、硬い材料から形成され、それが接着テープの全面に接着されるので、ダイのずれを排除あるいは少なくとも実質的に減少させる。その結果、あまり複雑ではなく、したがって、安価な製造機が提供可能になる。
+</base:Paragraphs>
+    <base:Paragraphs num="0005">
+  しかしながら、そのキャリアを使用する既知のデバイス製造処理は、単価が増すという欠点がある。
+</base:Paragraphs>
+    <base:Paragraphs num="0006" />
+    <base:Heading>概要</base:Heading>
+    <base:Paragraphs num="0007">
+  したがって、本発明は、低単価でダイのずれを排除可能な、ダイにウェハを分割する為の方法を提供することを目的とする。
+</base:Paragraphs>
+    <base:Paragraphs num="0008">
+  本発明は、当該技術の状態において、当該方法における比較的に高い単価が以下の要因によって主として引き起こされるという考えに基づく。キャリアからウェハを剥がす処理において、ウェハは大きな曲げ応力を受け、これが、そのウェハの割れ、及び／又は、そのウェハ上に形成されたデバイスに損傷を与える場合がある。キャリアの剥離処理におけるウェハの曲げのため、部分的に分離されたダイは、互いに触れるので、損傷を受ける場合がある。さらに、大きな曲げ応力も、その剥離の際、キャリアに作用する。そのため、取り外し処理において、キャリアも同様に、危うくされ、或いは、壊れさえする場合があり、その再使用ができなくなる。前述の理由のため、ウェハは、とてもゆっくりと慎重にキャリアから剥離されなければならず、これが、生産性の減少、すなわち、１時間当たりの処理済みユニットの生産量の減少、したがって、処理コストの増加になる。
+</base:Paragraphs>
+    <base:Paragraphs num="0009">
+  前述された欠点は、キャリアが、その全体表面領域にわたって接着テープに接着されている点に起因していることを発明者が見つけ出した。それゆえに、大きな接着領域のため、ウェハからのキャリアの剥離は大きな曲げ応力を発生させ、これらが、おそらくウェハ及び／又はキャリアに損傷を与える原因になる。さらに、デバイスおよび接着領域は互いに上方に位置づけられているので、キャリアの剥離を可能にする為の接着領域の処置は、おそらくデバイスに損傷を与える。その結末は、比較的に高い不良率になり、これが高単価を導く。
+</base:Paragraphs>
+    <base:Paragraphs num="0010">
+  そのため、複数の分割ラインによって区切られた複数のデバイスを備えたデバイス領域と、そのデバイス領域の周りに形成されたデバイスの無い周辺限界領域とを一面に有するウェハをダイに分割する本発明の方法は、ウェハの一面に、ウェハ上のデバイスを保護する為の接着テープを付けるステップであって、接着テープは少なくとも一部、任意で全てのデバイスに接着する、前記ステップと、接続手段によって、当該デバイスに接触する一面の反対側にある接着テープの一面に接着テープを支持するため、接着テープより硬く剛性のある材料で形成されたキャリアを接続するステップと、ウェハの高さを調整するため、一面の反対側にあるウェハの面を研削するステップと、前記分割ラインに沿ってウェハを切断するステップと、を有し、上面視においてウェハのデバイス領域の完全な外側に接続手段を配置することによって特徴付けられる。キャリアは、硬く、更に／又は剛性の（撓まない）キャリアである。
+</base:Paragraphs>
+    <base:Paragraphs num="0011">
+  そのため、本発明の方法は、キャリアと接着テープが接続される領域を著しく減少させる。したがって、おそらくキャリアは剥離の際に損傷を受けない。さらに、キャリア剥離を可能にする為の接続手段の処置の際、デバイスは、接続手段が存在する領域から離れて配置されるので、簡単に損傷を受けない。その結果、ダイのずれ問題を緩和し、不良率が減少されることから低単価を可能にする、ウェハをダイに分割する方法が提供される。
+</base:Paragraphs>
+    <base:Paragraphs num="0012">
+  前述された方法は、研削が切断の前に行われるように、列挙された順序で行われてもよい。これは、裏面、すなわち、デバイスが存在しない面からウェハを切断することを可能にする。したがって、デバイスの損傷のリスクは減少され、更に不良率を緩和し、単価を減少させる。
+</base:Paragraphs>
+    <base:Paragraphs num="0013">
+  接続手段は、接着特性を呈してもよく、エネルギの入力のような外部刺激によって取り外すことができ、好ましくは、ＵＶ硬化性接着剤、熱硬化性接着剤、それらの組合せを含む。したがって、キャリアの簡単かつ非接触性剥離が可能であり、キャリアの損傷リスクを緩和し、低い単価を可能にする。あるいは、接続手段は、水溶性接着剤を含んでもよい。
+</base:Paragraphs>
+    <base:Paragraphs num="0014">
+  この方法は、キャリア及び接着テープの間の接続を解除し、接着テープからキャリアを取り外す為に、接続手段にエネルギを入力するステップと有してもよい。
+</base:Paragraphs>
+    <base:Paragraphs num="0015">
+  接続手段は、環状形状を呈してもよい。これが導く利点は、所定位置に接着テープを固定する為の十分に大きな接続領域と、低い損傷リスクでキャリアの剥離を可能にする為の十分に小さな接続領域との間で良好な歩み寄りが達成されることである。さらに、環状形は、安くて複雑でない接続手段の処理を可能にする。さらに、環状形状は、良好な程度までダイずれが防止可能であるように、キャリア上に接着テープが良く固定される。
+</base:Paragraphs>
+    <base:Paragraphs num="0016">
+  この方法は、接続手段の挿入のため、キャリアに凹部、好ましくは、環状凹部を形成するステップを有してもよい。これは、接続手段のキャリアへの一体化を可能にする。そのため、簡単に取り扱えるウェハ及びキャリアのセットが提供される。さらに、キャリアは比較的に硬く剛性材料で形成される点で、凹部は、内部に高精度で簡単に形成可能である。したがって、当該方法は良好な処理品質を可能にする。あるいは、凹部は接着テープに、或いは、接着テープ及びキャリアを組み合わせて形成されてもよい。
+</base:Paragraphs>
+    <base:Paragraphs num="0017">
+  ウェハの一面、換言すると、デバイスが形成されるウェハの面は、レーザによって、完全に又は部分的に切断され（半分に切断され、または溝が付けられ）、ウェハの更なる領域は、機械的に切断される。ウェハの更なる領域は、ウェハの一面から、或いは、この一面と反対側にあるウェハの面から機械的に切断されてもよい。上部にデバイスが形成されたウェハの面は、しばしば砕けやすい低ｋ層（low-k layer）を呈するため、レーザを用いた切断は、良好な処理品質を確実にする。更なる、好ましい、残りのウェハ領域の機械的切断は、切断深さの高精度の調整を可能にする。
+</base:Paragraphs>
+    <base:Paragraphs num="0018">
+  この一面の反対側にあるウェハの面は、機械的に部分的に切断されてもよく、ウェハの更なる領域は、この一面の反対側にあるウェハの面からレーザによって切断されてもよい。好ましくは、ウェハの残りの領域、すなわち、その区域または部分的切断又は切断が形成された区域において、その高さ方向又は厚さ方向におけるウェハの残部は、この一面の反対側にあるウェハの面からレーザによって切断される。
+</base:Paragraphs>
+    <base:Paragraphs num="0019">
+  ウェハの切断は、ウェハの研削前に行われてもよい。これは、ウェハが著しい厚さを依然として呈するときの切断を可能にする。したがって、ウェハの反り及び／又は切断の発生（breaking out）を防止することができ、処理品質の向上になる。
+</base:Paragraphs>
+    <base:Paragraphs num="0020">
+  当該方法は、デバイスが形成される一面の反対側のウェハの表面と、デバイスに接触する表面の反対側にある接着テープの表面とを平行にするステップを含んでもよい。これは、より高い処理精度を与え、高い処理品質を導く。
+</base:Paragraphs>
+    <base:Paragraphs num="0021">
+  この方法は、接着性ピックアップテープを、ウェハの研削済み表面に付けるステップを更に有してもよい。このステップは、接着性ピックアップテープによってダイが保持されることから、ウェハの一面から接着性テープ、接着テープからキャリアの簡単な剥離を可能にする。接着性ピックアップテープは、径方向に伸ばせるように更に構成されてもよい。それから、当該方法は、ダイ間の距離を増やすために接着性ピックアップテープを伸ばすステップを有し、より簡単なダイのピックアップを可能にしてもよい。
+</base:Paragraphs>
+    <base:Paragraphs num="0022">
+  キャリアは、ガラス及び／又はシリコンで形成されてもよい。キャリアがガラスで形成される場合、接続手段へのエネルギ入力は、ガラスを通して送ることができる放射線、例えば、ＵＶ線を用いて可能である。キャリアがシリコンで形成される場合、安いキャリアが提供される。また、２つの材料の組合せも可能である。
+</base:Paragraphs>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0023">
+        <base:FigureReference num="0001">図１は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第１ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0002">図２は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第２ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0003">図３は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第３ステップ、第４ステップ、第５ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0004">図４は、図３における区域Ａの拡大図である。</base:FigureReference>
+        <base:FigureReference num="0005">図５は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第６ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0006">図６は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第７ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0007">図７は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第８ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0008">図８は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第９ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0009">図９は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第１０ステップを示す横断面図である。</base:FigureReference>
+        <base:FigureReference num="0010">図１０は、本発明の好ましい実施形態に従ってウェハを分割する為の方法の第１１ステップを示す横断面図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <base:Heading>好ましい実施形態の詳細な説明</base:Heading>
+    <base:Paragraphs num="0024">
+  以下、添付図面を参照して、本発明の好ましい実施形態を説明する。
+</base:Paragraphs>
+    <base:Paragraphs num="0025">
+  以下の好ましい実施形態は、ウェハＷをダイに分割する為の方法に関する。ウェハＷは、ＭＥＭＳウェハでもよく、ＭＥＭＳウェハは、その一面にデバイスが形成され、以下の説明ではパターン面１と呼ぶ。しかしながら、ウェハＷは、ＭＥＭＳウェハに限定されるものではなく、そのパターン面に形成されたＣＭＯＳデバイス、好ましくは、固体撮像装置のようなものでもよい。ウェハＷは、シリコンで形成可能である。そのようなシリコンウェハＷは、シリコン基板上のＬＳＩ（大規模集積回路）やＩＣ（集積回路）のようなデバイスを含んでもよく、或いは、セラミック、ガラス、サファイヤの有機材料にＬＥＤ（発光ダイオード）のような光学デバイスを形成することによって構成される光学デバイスでもよい。ウェハＷは、これに限定されるものではなく、他の方法で形成可能である。さらに、前述された例示的ウェハ設計の組合せも可能である。ウェハは、μｍ範囲の研削前に、好ましくは、６２５～９２５μｍの範囲にある。
+</base:Paragraphs>
+    <base:Paragraphs num="0026">
+  ウェハＷは、そのパターン面１に形成されたストリートと呼ばれる複数の交差分割ラインで円形状を呈するのが好ましく、それによって、前述されたようなデバイスがそれぞれ形成される複数の矩形区域にウェハＷが区切られる。これらのデバイスは、例えば、図４に図示されるように、好ましくは、デバイス領域２と呼ばれるウェハＷの中央領域に形成される。円形ウェハＷの場合、このデバイス領域２は、好ましくは、円形であり、ウェハＷの外周と同心で配置される。デバイス領域２は、環状周辺限界領域３によって囲まれ、環状周辺限界領域３は、例えば、図４に図示されるように、デバイス領域２を囲む。この周辺限界領域３にはデバイスが形成されない。周辺限界領域３は、好ましくは、ウェハＷの外周および／またはデバイス領域２に対して同心で配置される。周辺限界領域３の径方向拡張部は、ｍｍ範囲でもよく、好ましくは、１－３ｍｍである。
+</base:Paragraphs>
+    <base:Paragraphs num="0027">
+  以下、図１～図１０を参照して、本発明の好ましい実施形態にしたがって、ウェハＷを分割する為の方法を説明する。
+</base:Paragraphs>
+    <base:Paragraphs num="0028">
+  図１は、本発明の好ましい実施形態に従うウェハを分割する為の方法の第１ステップの結果を表す。第１ステップにおいて、接着テープ４は、ウェハＷのパターン面１に付けられる。換言すると、パターン面１は、接着テープ４に積層される。接着テープ４は、好ましくは、ウェハＷと同一形状を有し、同心でウェハＷに付けられる。ウェハＷに付けられるとき、接着テープ４は、パターン面１のデバイス領域２に形成されたデバイスに付けられる。接着テープ４は、ウェハＷのデバイス領域２に形成されたデバイスの保護を可能にする。
+</base:Paragraphs>
+    <base:Paragraphs num="0029">
+  図２は、本発明の好ましい実施形態に従う、ウェハを分割する為の方法の第２ステップを示す。この第２ステップは、この好ましい実施形態に従う方法のオプションである点に留意されたい。この第２ステップにおいて、接着テープ４の表面は、ウェハＷから離れた位置に置かれ、ウェハＷの表面に対して平行にされ、ウェハＷの表面は、接着テープ４から離れた位置に置かれる。デバイスはウェハＷのパターン面１に形成されるという点に起因して、接着テープ４の最上面５は、その下に形成されるデバイスのため、不均一な表面プロファイルを呈する場合がある。この最上面５の最下地点（ウェハＷに最も近い表面地点）と、この最上面５の最高地点（ウェハＷから最も遠い地点）との間の距離は、およそ７０μｍである。この第２ステップにおける平行化（parallelization）を通じて、この距離は、例えば、およそ２μｍまで減少される。平行化はチャックテーブルでウェハＷをチャックすること、例えば、圧延デバイスの機械加工平面がウェハＷの裏面６に対して平行に向けられるように最上面５に沿って圧延デバイス移動させることによって達成されるのが好ましい。積層された接着テープ４を備えたウェハＷの全体の厚さの値は、この第２ステップによって改善可能である。
+</base:Paragraphs>
+    <base:Paragraphs num="0030">
+  図３及び図４は、好ましい実施形態に従うウェハを分割する為の方法の第３ステップ、第４ステップ、第５ステップの結果を呈す。この好ましい実施形態の第３ステップにおいて、硬いキャリア７が準備される。硬いキャリア７は、接着テープ４の材料より著しく硬く、より剛性の材料で形成されるのが好ましい。硬いキャリア７は、例えば、シリコン、ガラス、それらの組合せから形成される。好ましくは、硬いキャリア７は、図３に示されるように、接着テープ４と一致して形成され、同心に配置される。硬いキャリア７は、例えば、５００－１０００μｍの高さを呈してもよい。
+</base:Paragraphs>
+    <base:Paragraphs num="0031">
+  この実施形態のオプションである、好ましい実施形態の第４ステップにおいて、環状凹部８（例えば、切欠き部）は、図４に示されるように、硬いキャリア７に同心で形成される。好ましくは、環状凹部８は、横断面で矩形プロファイルを有し、更に／又は、硬いキャリア７の外周面９から径方向内側に延びている。硬いキャリア７の高さ方向において、凹部８は、キャリアの高さの、およそ半分に沿って延びている。硬いキャリア７は、外環状部分ｓを呈し、これは、ウェハＷの外周囲９から径方向内側に延びるのが好ましい。環状部分ｓは、硬いキャリア７が接着テープ４に同心で付けられるとき、ウェハＷの周辺限界領域３と一致するのが好ましい。凹部８の拡張及び配置は、外環状部分ｓの範囲内になるように定められている。したがって、硬いキャリア７が接着テープ４に同心で付けられるとき、凹部８は、図４に示されるように、その最上視において、ウェハＷのデバイス領域２に延びない。凹部８も同様に、硬いキャリア７の外周囲９から径方向内側にずらされる径方向位置から始まる点に留意されたい。さらに、矩形プロファイルとは異なるプロファイル、例えば、三角形プロファイル又は半円形プロファイル等も可能である。
+</base:Paragraphs>
+    <base:Paragraphs num="0032">
+  この好ましい実施形態の第５ステップにおいて、硬いキャリア７は、接着テープ４の最上面５に同心で付けられる。硬いキャリア７と接着テープ４は一致して形成されるという点で、これら２つの部分は、この好ましい実施形態において、連続した周囲面を形成する。硬いキャリア７を接着テープ４に付けることは、接続手段１０によって達成され、接続手段１０は、硬いキャリア７に損傷を与えることなく、接着テープ４から硬いキャリア７の後の剥離を可能にする。
+</base:Paragraphs>
+    <base:Paragraphs num="0033">
+  接続手段には、エネルギ（例えば、ＵＶ線）の適用によって影響される接着特性を呈してもよい（例えば、ＵＶ硬化性接着剤）。接着剤は、好ましくは、両面テープ形式のＵＶ硬化性接着剤１０でもよい。テープ１０は、硬いキャリア７を接着テープ４に付ける為に硬いキャリア７の凹部８に設けられる。凹部８の構成のため、テープ１０は、完全にウェハＷの周辺限界領域３に置かれるので、図４に示されるように、デバイス領域２の中には延びない。ウェハＷ、接着テープ４、硬いキャリア７は、この第５ステップにおいて、一定の、又は、およそ一定の直径を備えたユニットを形成する。このユニット、特に接着テープ４は、構造的に剛性の硬いキャリア７によって支持され、キャリア７は、凹部８に設けられたテープ１０のＵＶ硬化性接着剤で接着テープ４に付けられる。ＵＶ硬化性接着剤１０が接続手段として使用されるとき、硬いキャリア７はガラスで形成されるのが好ましい。接着剤がその接着特性を失い損傷を受けることなくキャリア７が簡単に剥離可能になるように、凹部８内の接着剤１０を硬化させるため、これが、ＵＶ線のキャリア７の貫通を可能にする。
+</base:Paragraphs>
+    <base:Paragraphs num="0034">
+  あるいは、ＵＶ硬化性接着剤１０の代わりに、熱硬化性テープ、好ましくは、両面テープは、接着テープ４に硬いキャリア７を付ける為の接続手段として使用可能である。このテープは、硬いキャリア７の凹部８に配置されるのが好ましい。そのような熱硬化性テープは、熱を熱硬化性テープに加えることによって、キャリア７に損傷を有することなく、接着テープ４から硬いキャリア７の簡単な剥離を可能にする。この構成は、何も透過性を必要としないので、硬いキャリア７の為の材料としてシリコンの使用を可能にする。あるいは、水溶性接着剤が使用可能である。
+</base:Paragraphs>
+    <base:Paragraphs num="0035">
+  接続手段が、投与される液体接着剤の形式で提供されることも可能である。液体接着剤は、乾燥し、接着テープ４と硬いキャリア７を互いに接続する。この接着剤は、凹部８に配置可能である。凹部８は、接着テープ４の周囲面、硬いキャリア７の周囲面、或いは、両方に設けることができる。液体接着剤は、その後、凹部の範囲内で、接着テープ４と硬いキャリア７の境界に設けることができる。凹部８は、三角形横断面を呈してもよい。何も凹部が設けられないことも可能である。接着テープ４から硬いキャリア７を剥離するため、ナイフや他の機械的な切断デバイスが使用可能であり、損傷を与えることなく、接着テープ４から硬いキャリア７を剥離する。あるいは、液体接着剤は、ＵＶ線や熱のような外部刺激によって硬化可能であってもよい。この場合、硬いキャリア７は、外部刺激を接着剤に加えることによって接着テープ４から剥離可能なので、接着剤を硬化させ、その接着力を低下させ、後に、接着テープ４から硬いキャリア７を取り外す。さらに、液体接着剤は、水溶性接着剤でもよく、水を接着剤に加えることによって、硬いキャリア７を接着テープ４から取り外すことを可能にする。
+</base:Paragraphs>
+    <base:Paragraphs num="0036">
+  接続手段の上記構成の全てにおいて、接続手段は、硬いキャリア７の外環状部分ｓに置かれるだけなので、ウェハＷのデバイス領域には延びない。
+</base:Paragraphs>
+    <base:Paragraphs num="0037">
+  図５は、この好ましい実施形態の第６ステップの結果を示す。この第６ステップにおいて、接着テープ４が付けられるウェハＷは、硬いキャリア７が接着テープ４に装着される場合、研削デバイスで裏面６から所望の厚さまで研削される。この厚さは、ダイの最終的な厚さでもよい。そのような研削デバイスは、一つ以上のダイヤモンドホィールを含んでもよい。
+</base:Paragraphs>
+    <base:Paragraphs num="0038">
+  この好ましい実施形態の第７ステップにおいて、ウェハＷは、その裏面６から、そのパターン面１に形成されたストリートに沿って、鋸のような機械的切断デバイスで、裏面から切断される。この切断は、この第７ステップによって互いに分離されるように完全な切断でもよい。あるいは、切断は、高さ方向に一部のウェハ材料を残すいわゆる半分切断だけでもよい。図６は、第７ステップにおいて、そのような半分切断を表す。
+</base:Paragraphs>
+    <base:Paragraphs num="0039">
+  第７ステップにおいて、半分切断だけが行われる場合、ウェハＷは、第８ステップにおいてダイ１３が互いに分離されるように完全に切断されるが、その結果は図７に示されている。この第８ステップにおいて、ストリートに沿った高さ方向におけるウェハＷの残りのシリコンは、ウェハＷの裏面６からレーザで切断される。ウェハＷが、そのパターン面１で、いわゆる低ｋ材料を呈する場合、これは特に利点である。そのような低ｋ材料は、非常に脆い。レーザを用いた切断は、良好な切断品質を確実にする。ダイ１３が完全に互いに分離された後、それらは、それぞれ、接着テープ４に接着し、図７に示されるように、これに硬いキャリア７が付けられる。
+</base:Paragraphs>
+    <base:Paragraphs num="0040">
+  好ましい実施形態の第９ステップにおいて、その結果が図８に示され、それぞれ接着テープおよび硬いキャリア７によって保持された個々のダイ１３は、リングフレーム１２に装着されたピックアップテープ１１に配置される。ダイ１３、接着テープ４、硬いキャリア７のユニットは、図８に示されるように、ダイ１３の研削された表面が接着ピックアップテープに接触するように接着ピックアップテープに配置される。
+</base:Paragraphs>
+    <base:Paragraphs num="0041">
+  図９に示される好ましい実施形態の第１０ステップにおいて、エネルギが接続手段に加えられるか、硬いキャリア７および接着テープ４の間の接続が解除され、接着テープ４から硬いキャリア７の取り外しが可能になるように他の方法で接続手段が変形される。この実施形態において、接続手段１０は、硬いキャリア７の、この剥離が、キャリア７に損傷を与えることなく可能になるように構成されている。接続手段は、ウェハＷの周辺限界領域３に位置されるだけなので、ダイ１３は、接続手段の、この接続解除中に損傷を受けない。
+</base:Paragraphs>
+    <base:Paragraphs num="0042">
+  図１０は、好ましい実施形態の第１１ステップを表し、ここで、接着テープ４はダイ１３から取り外され、もって、接着ピックアップテープ１１からピックアップデバイスによってピックアップされるべき個々のダイを自由にする。ピックアップを容易にするため、径方向にピックアップテープを引き延ばすことによって個々のダイ間の距離を増やすことができる。
+</base:Paragraphs>
+    <base:Paragraphs num="0043">
+  ウェハＷのストリートに沿った切断も、前述された把持ステップの前に行うことができることに留意されたい。そのような場合、ウェハＷは、最後のダイの高さに対応した深さまで、ストリートに沿ってパターン面１から切断されるのが好ましい。個々のダイ１３は、その後、把持ステップにおいて分離され、ここで、ウェハＷは、切断の下側に達成されるように裏面６から下に研削される。好ましくは、そのような切断は、接着テープ４をウェハＷに付ける前に行われる。そのような処理方法の残りのステップは、前述されたステップに対応する。
+</base:Paragraphs>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="113" wi="73" file="2016127273_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="113" wi="73" file="2016127273_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="113" wi="73" file="2016127273_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="113" wi="73" file="2016127273_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="113" wi="73" file="2016127273_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="113" wi="73" file="2016127273_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="113" wi="73" file="2016127273_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="113" wi="73" file="2016127273_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="113" wi="73" file="2016127273_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="113" wi="73" file="2016127273_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  複数の分割ラインによって区切られた複数のデバイスを備えたデバイス領域（２）と、前記デバイス領域（２）の周りにデバイスが形成されない周辺限界領域（３）とを一面（１）に有するウェハ（Ｗ）をダイに分割する方法であって、
+  前記ウェハ（Ｗ）の前記一面（１）に前記ウェハ上のデバイスを保護する為の接着テープ（４）を付けるステップであって、前記接着テープ（４）が少なくとも一部、任意で、全部のデバイスに接着する、ステップと、
+  接続手段（１０）によって、前記デバイスと接触する前記面の反対側にある前記接着テープ（４）の面に、前記接着テープ（４）を支持する為のキャリア（７）を接続するステップと、
+  前記ウェハの高さを調整する為に前記一面（１）の反対側にある前記ウェハ（Ｗ）の面（６）を研削するステップと、
+  前記分割ラインに沿って前記ウェハ（Ｗ）を切断するステップと、
+を備え、
+  上部の上面視において、前記ウェハ（Ｗ）の前記デバイス領域（２）の完全に外側で、接続手段（１０）を配置することを特徴とする、前記方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  接続手段（１０）は、接着特性を呈し、前記接着特性は、エネルギの入力によって取り外し可能であり、前記接続手段（１０）は、好ましくは、ＵＶ硬化性接着剤、熱硬化性接着剤、それらの組合せを含む、請求項１に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  キャリア（７）および接着テープ（４）の間の接続を解除する為に前記接続手段（１０）にエネルギを入力するステップと、
+  前記キャリア（７）を前記接着テープ（４）から取り除くステップと、
+を更に有する、請求項２に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記接続手段（１０）は、環状形状を呈する、請求項１～３のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記接続手段（１０）の挿入の為に前記キャリア（７）において、凹部、好ましくは環状凹部を形成する、請求項１～４のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記ウェハ（Ｗ）の一面（１）が、レーザによって部分的に切断され、好ましくは、前記ウェハの更なる領域が機械的に切断される、請求項１～５のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記ウェハの更なる領域が、前記ウェハ（Ｗ）の前記一面（１）から、或いは、前記一面（１）の反対側にある前記ウェハ（Ｗ）の面（６）から、機械的に切断される、請求項６に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記一面（１）の反対側にある前記ウェハ（Ｗ）の面（６）は、部分的に機械的に切断され、前記ウェハ（Ｗ）の更なる領域は、前記一面（１）の反対側にある前記ウェハ（Ｗ）の前記面（６）からレーザによって切断される、請求項１～５のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記ウェハの前記切断は、前記ウェハの研削前に行われる、請求項１～８のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記列挙された順序で請求項１に記載のステップが行われる、請求項１～８のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記デバイスに接触する表面の反対側にある前記接着テープ（４）の表面は、前記一面（１）の反対側にある前記ウェハ（Ｗ）の前記表面と平行にされている、請求項１～１０のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記ウェハ（１１）の研削された前記表面に接着性ピックアップテープ（１１）を付けるステップを更に有する、請求項１～１１のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記キャリア（７）は、シリコンおよび／またはガラスで形成される、請求項１～１２のいずれか一項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000266353JP00020161261350AFULJA20160711JP009.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126135" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126135</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126135</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000266353</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014266353</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>10</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>15</business:MainGroup>
+        <business:Subgroup>04</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G10K  15/04        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>10</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>25</business:MainGroup>
+        <business:Subgroup>51</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G10L  25/51        20130101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G10K15/04 302D</business:FI>
+      <business:FI type="secondary">G10L25/51 100</business:FI>
+      <business:FClass>
+        <business:FTerm>5D108BD02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D108BD03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D108BF05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5D108BF20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5D108</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">カラオケ装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社第一興商</base:Name>
+            <base:RegisteredNumber>390004710</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都品川区北品川５丁目５番２６号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>矢吹  豪</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都品川区北品川５－５－２６  株式会社第一興商内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>野村  直孝</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都品川区北品川５－５－２６  株式会社第一興商内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>▲高▼橋  寛</base:Name>
+            <base:RegisteredNumber>100097560</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>14</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】歌唱時に顎の動きを意識させて良い発声を促す歌唱を支援するカラオケ装置を提供する。【解決手段】検出動作識別手段３２において楽曲の演奏中に検出装置より受信した信号から歌唱者の顎の動きに応じた開閉動作状態を識別し、リファレンス情報処理手段を構成する音節特定手段３３及びリファレンス特定手段３４において歌唱される楽曲の歌詞データの音節に応じて歌唱者の顎の動きに応じた開閉動作状態を推測するリファレンスデータを、音節と顎の開閉動作状態とを予め設定した単音節テーブル５４、２連音節テーブル５５より特定し、比較判定処理手段３５において検出動作識別手段３２で識別した顎の開閉動作状態とリファレンス情報処理手段で特定されたリファレンスデータとを各歌詞文字に対応付けられた歌唱タイミングで比較し、比較結果の評価を表示させる構成とする。【選択図】図１</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="95" wi="67" file="2016126135_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、カラオケ歌唱における発声支援機能を備えるカラオケ装置に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  近年、カラオケルームに設置されたカラオケ装置の演奏に合わせて利用者が歌唱する際に、良い発声をするために、また美容や健康のために、口を大きく開けて歌唱することが推奨されている。カラオケ歌唱においては、極端に口を大きく開けることにより顎関節への負担が増して弊害が生じる可能性があるため、大きく口を開けることを意識するのではなく、下顎の関節をリラックスさせてスムーズに動かすことを意識することが必要と考えられている。一方で、気心の知れたメンバーと歌唱するような時は、指導者のもとで歌唱する場合とは異なり、特に顎の動きなど気に留めることもなく、さらにマイク信号の増幅機能により余り下顎骨を動かさずに歌唱する傾向が強く、このような歌唱者の傾向に対しては、下顎の関節をリラックスさせてスムーズに動かすことを意識させるカラオケコンテンツの提供が望まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  従来、顎の動きを検出する技術として、例えば、特許文献１のように、咀嚼によって生じる筋肉の動きによる耳道内の圧力変化を、外耳道内に挿入した圧力センサによって感知して測定し、その圧力変化の回数を咀嚼回数として表示する技術が知られている。また、特許文献２のように、基台部を人体に密着させ、当該基台部に連続して検知手段が位置されて咀嚼により派生する動きを検知し、この検知信号を受信して咀嚼回数として記録して表示する技術も知られている。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  一方、カラオケにおいては歌唱者の口の形状の適切さを採点結果に反映させる技術が知られており、例えば、特許文献３のように、口の理想的な縦横比を表す形状データを母音ごとに有する理想形状データとして記憶しておき、演奏中の楽曲データ内の歌詞データに基づいて特定される歌唱者が現に発音すべき音節を、当該音節を構成する母音に応じた形状データを理想形状データから抽出し、この抽出した形状データの縦横比に対するカメラの撮像画像から計測された歌唱者の口の縦横比の形状適合度を算出して、この形状適合度に基づく画像点数データを生成する技術が知られている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開平０７－２１３５１０号公報</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0002">
+            <base:Text>特開平０７－１７１１３６号公報</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0003">
+            <base:Text>特開２００５－２４２２３０号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">
+  ところで、カラオケ楽曲を歌詞に従って歌唱することは咀嚼と同様に顎を動かすことになるため、特許文献１や特許文献２に記載の咀嚼回数を検出できる装置を歌唱者が装着することで、歌唱の際の顎の動きを検出することが可能となるが、顎が動いた回数をカウントするだけの技術であって実際に顎が動いた回数が結果として表示されるだけであり、各カラオケ楽曲を歌詞通りに歌唱した場合の理想的な顎の動きの比較を行うことができず、良い発声を促す歌唱支援とすることができないという問題がある。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  また、特許文献３に記載の技術は、単に歌唱採点をさせる手法に過ぎず、歌唱時の口の形状の特定だけでは歌唱時に歌詞の沿ってスムーズな顎の動きが出来ているか否かを判定することができず、良い発声を促す歌唱支援とさせることができないという問題がある。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  そこで、本発明は上記課題に鑑みなされたもので、歌唱時に顎の動きを意識させて良い発声を促す歌唱を支援するカラオケ装置を提供することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0009">
+  上記課題を解決するために、請求項１の発明では、歌唱による歌唱者の顎の動きを検出する検出装置と通信自在であり、当該検出信号を受信可能なカラオケ装置であって、楽曲の演奏中に前記検出装置より受信した信号に基づき歌唱者の顎の動きに応じた開閉動作状態を識別する検出動作識別手段と、歌唱される前記楽曲の歌詞データに含まれる歌詞文字の音節に応じて歌唱者の顎の動きに応じた開閉動作状態を推測するリファレンスデータを、音節と顎の開閉動作状態とを予め設定した所定数の音節テーブルに基づいて特定するリファレンス情報処理手段と、歌唱される前記楽曲の歌詞データに含まれる各歌詞文字には歌唱タイミングデータが対応付けられ、当該歌唱タイミングデータに基づき歌唱すべき期間が到来している音節の前記リファレンス情報処理手段で特定したリファレンスデータと、前記検出動作識別手段で識別された顎の開閉動作状態とを比較し、比較結果の評価を表示させる比較評価処理手段と、を有する構成とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  請求項２～４の発明では、「前記所定数の音節テーブルは、一つの音節を発声する際の顎の開閉動作状態を対応付けた単音節テーブル、二つの音節について第一の音節を発声した状態から第二の音節を発声する際の顎の開閉動作状態を当該二つの音節の順による組に対応付けた２連音節テーブルであり、前記リファレンス情報処理手段は、前記歌詞データの先頭文字から順次音節を特定する音節特定手段と、前記歌詞データを複数のフレーズ区間に区分し、前記音節特定手段により特定された音節が、フレーズ区間の先頭の場合に当該音節に対応する顎の開閉動作状態を前記単音節テーブルより特定し、フレーズ区間の先頭以外の音節の場合に当該音節の前の音節と当該音節の順による組に対応する顎の開閉動作状態を前記２連音節テーブルから特定するリファレンス特定手段と、を有する」構成とし、
+  「前記楽曲の歌詞データに含まれる各歌詞文字に対応付けられた歌唱タイミングデータは、当該歌詞データに含まれる歌詞文字ごとの色変えタイミングデータであり、前記リファレンス特定手段は、前記フレーズ区間を、歌詞の色変えが連続的に行われる歌詞文字列を一括として区分し、区分ごとに各音節の顎の開閉動作状態を特定する」構成とし、
+  「前記楽曲の歌詞データに含まれる各歌詞文字に対応付けられた歌唱タイミングデータは、楽曲の演奏データに含まれる旋律パートの楽譜データの各音符に歌詞文字が対応づけられたデータであり、前記リファレンス特定手段は、前記フレーズ区間を、音符の発音が連続的に行われる歌詞文字列を一括として区分し、区分ごとに各音節の顎の開閉動作状態を特定する」構成とする。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0011">
+  請求項１の発明によれば、楽曲の演奏中に検出装置より受信した信号から歌唱者の顎の動きに応じた開閉動作状態を識別し、歌唱される楽曲の歌詞データに含まれる歌詞文字の音節に応じて歌唱者の顎の動きに応じた開閉動作状態を推測するリファレンスデータを、音節と顎の開閉動作状態とを予め設定した所定数の音節テーブルに基づいて特定し、楽曲の歌詞データに含まれる各歌詞文字に対応付けられた歌唱タイミングデータに基づき歌唱すべき期間が到来している音節のリファレンスデータと検出動作識別手段で識別された顎の開閉動作状態とを比較し、比較結果の評価を表示させる構成とすることにより、カラオケ楽曲の演奏の際に画面に表示される歌詞に合わせ、歌唱者が歌唱した際の顎の動きと、当該楽曲の歌詞に基づく理想的な顎の動とが音節毎に比較されるため、歌唱時のスムーズな顎の動きが出来ているか否かを歌唱者が音節毎に確認することが可能となり、歌唱時に顎の動きを意識させて良い発声を促す歌唱を支援することができるものである。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  請求項２の発明によれば、一つの音節を発声する際の顎の開閉動作状態を対応付けた単音節テーブル、二つの音節について第一の音節を発声した状態から第二の音節を発声する際の顎の開閉動作状態を当該二つの音節の順による組に対応付けた２連音節テーブルを備え、歌詞データの先頭文字から順次音節を特定し、歌詞データを複数のフレーズ区間に区分して、特定された音節が、フレーズ区間の先頭の場合に当該音節に対応する顎の開閉動作状態を単音節テーブルより特定し、フレーズ区間の先頭以外の音節の場合に当該音節の前の音節と当該音節の順による組に対応する顎の開閉動作状態を２連音節テーブルから特定する構成とすることにより、歌詞データより楽曲歌唱の際の顎の開閉動作状態をリファレンスデータで推測、特定することから、数万曲にも及ぶカラオケ楽曲に対して予めデータを作成する必要がなく、簡易構成で実現することができるものである。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  請求項３，４の発明によれば、楽曲の歌詞データに含まれる各歌詞文字に対応付けられた歌唱タイミングデータは、当該歌詞データに含まれる歌詞文字ごとの色変えタイミングデータ又は楽曲の演奏データに含まれる旋律パートの楽譜データの各音符に歌詞文字が対応づけられたデータであり、フレーズ区間を、歌詞の色変えが連続的に行われる歌詞文字列又は音符の発音が連続的に行われる歌詞文字列を一括として区分し、区分ごとに各音節の顎の開閉動作状態を特定する構成とすることにより、歌詞データや演奏データによる楽曲歌唱の際の顎の開閉動作状態のリファレンスデータでの推測、特定をより高精度とすることができるものである。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">本発明に係るカラオケ装置のブロック構成図である。</base:FigureReference>
+        <base:FigureReference num="0002">図１の単音節テーブル及び２連音節テーブルの説明図である。</base:FigureReference>
+        <base:FigureReference num="0003">リファレンス特定対象の歌詞データの説明図である。</base:FigureReference>
+        <base:FigureReference num="0004">図１の検出装置のブロック構成図である。</base:FigureReference>
+        <base:FigureReference num="0005">図１のリファレンス特定手段における歌詞データに基づく顎動作特定処理の説明図である。</base:FigureReference>
+        <base:FigureReference num="0006">図５の個別音節の顎動作特定処理の説明図である。</base:FigureReference>
+        <base:FigureReference num="0007">図１の比較評価手段における比較評価の説明図である。</base:FigureReference>
+        <base:FigureReference num="0008">図１のリファレンス特定手段における他の歌詞データに基づくフレーズ区間特定、リファレンス特定の説明図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">
+  以下、本発明の実施形態を図により説明する。
+  図１に本発明に係るカラオケ装置のブロック構成図を示すと共に、図２に図１の単音節テーブル及び２連音節テーブルの説明図を示し、図３にリファレンス特定対象の歌詞データの説明図を示し、図４に図１の検出装置のブロック構成図を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  図１において、カラオケ装置１１は、主要装置としてのカラオケ本体１２に、有線又は無線で外部接続されるものとして、表示部１３、ミキシングアンプ１４、マイク１５、スピーカ１６、遠隔入出力装置１７が接続されることで構成され、当該カラオケ本体１２は、所定数の検出装置１８（１８Ａ～１８Ｎ）に対して通信自在とされる（検出装置１８については図４で説明する）。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  上記表示部１３は、通常の楽曲選曲表示やカラオケ演奏時の背景映像等を表示するもので、例えば液晶ディスプレイ（ＬＣＤ）、プラズマディスプレイ（ＰＤＰ）、その他種々のディスプレイを採用することができる。上記ミキシングアンプ１４は、カラオケ本体１２より送られてくる音楽演奏信号に、マイク１５からの音声信号をミキシングし、増幅してスピーカ１６より出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  上記遠隔入出力装置１７は、図示しない端末送受信部により、カラオケ本体１２に対して有線方式ないし無線方式（ＩＲ方式やブルートゥース（登録商標）機構のピコネット接続方式など）を利用してデータ授受を行うためのもので、少なくともログイン・ログアウト処理手段１７Ａ、楽曲検索手段である選曲楽曲登録手段１７Ｂ、検出装置選択手段１７Ｃ及びリモコン表示部１７Ｄを適宜備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  上記ログイン・ログアウト処理手段１７Ａは、利用者によるログイン操作に応じて当該利用者より利用者名や利用者ＩＤを取得し、ＲＡＭ２３に利用者情報４２として記憶してログインを許可する処理を行うと共に、ログアウト操作に応じて利用終了の処理を行うプログラムである。なお、遠隔入出力装置１７は後述のＧＵＩ機能によって利用者が歌唱したい楽曲を検索して予約することが可能であるが、利用者は先にカラオケ装置１１にログインしていることが望ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  上記選曲楽曲登録手段１７Ｂは、楽曲ＩＤや曲名、アーチスト名などのデータからなるテーブルに基づいて、利用者が所望する楽曲を検索させ、選曲された楽曲の楽曲ＩＤをカラオケ本体１２に送信するプログラムである。送信された楽曲ＩＤは、カラオケ本体１２におけるＲＡＭ２３予約待ち行列４１に登録される。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  上記検出装置選択手段１７Ｃは、検出装置１８とログインした利用者とを対応付けるプログラムである。具体的には、リモコン表示部１７Ｄに、既にカラオケ装置１１とペアリングがなされている検出装置１８Ａ～１８Ｎのリストを表示させ、当該リストの中から、自分の使用する検出装置１８を選択することで利用者と検出装置１８とを対応付け、その情報をＲＡＭ２３に利用者情報４２の一つとして記憶する。そして、利用者は楽曲予約時に、歌唱者として自分を選択した上で予約操作を行えば、当該楽曲の演奏時にカラオケ装置１１は、当該利用者に対応付けられている検出装置１８からの検出信号のみを受信することになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  上記リモコン表示部１７Ｄは、液晶ディスプレイ（ＬＣＤ）とタッチセンサとを積層して入出力用とし、表示されるアイコン等に対応して当該タッチセンサにより楽曲の選択などのデータを入力することができるＧＵＩのユーザインタフェース機能を有するものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  上記カラオケ本体１２は、バス２０、中央制御部２１、ＲＯＭ２２、ＲＡＭ２３、映像表示制御手段２４、音楽演奏制御部２５、音源（シンセサイザ）２５Ａ、採点手段２６、Ａ／Ｄ変換部２６Ａ、送受信部２７、記憶部２８、検出信号受信部３１、検出動作識別手段３２、音節特定手段３３、リファレンス特定手段３４及び比較評価処理手段３５を備える。音節特定手段３３及びリファレンス特定手段３４によりリファレンス情報処理手段を構成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  上記ＲＡＭ２３には予約待ち行列４１、利用者情報４２、対象歌詞データ４３、リファレンスデータ４４及び比較結果データ４５の記憶領域が形成される。また、記憶部２８には、楽曲データベース（楽曲ＤＢ）５１、映像データベース（映像ＤＢ）５２、リファレンスデータベース（リファレンスＤＢ）５３、単音節テーブル５４及び２連音節テーブル５５が記憶される。なお、上記各構成について、本発明の要旨と直接関連しない要素部分であっても、従前のカラオケシステムにおいても大部分が適用可能であることを示すために、構成要素の全体を説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  上記中央制御部２１は、このシステムを統括的に処理制御する物理的なＣＰＵであり、ＲＯＭ２２に記憶されているプログラムに基づくアルゴリズム処理を行う。上記ＲＡＭ２３は、予約待ち行列４１、利用者情報４２、対象歌詞データ４３、リファレンスデータ４４及び比較結果データ４５の記憶領域が形成される他に、上記種々のプログラムを展開、実行させるための作業領域としての役割をなすもので、例えば半導体メモリで構成され、仮想的にハードディスク上に構築される場合をも含む概念である。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  ＲＡＭ２３に記憶される上記対象歌詞データ４３は、予約待ち行列４１に選曲予約登録された楽曲ＩＤに基づく楽曲ＤＢ５１より読み出した歌詞データである。この楽曲の歌詞データは、図３に示すように、全歌詞文字を適宜な小節ごとに区切った頁と、表示部１３等に表示される横１列分の文字列で区切った行、各文字の文字番号と文字コード、歌詞本文かルビかの種別コード、表示部１３等の画面の表示位置を示す表示レイアウト、各文字についての演奏時系列上で色変え処理する色変えタイミングからなる。当該色替えタイミングは、色変え開始時間と終了時間からなり、例えば演奏開始からの経過時間をｍｓ単位で表したものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  すなわち、この歌詞データは頁と行によって区分されており、頁は表示部１３の１画面分における最大表示単位、行は表示部１３等に表示したときの横１行分の文字列であり、この頁、または行が後述のリファレンス特定手段３４において複数のフレーズ区間に区分され（図５参照）、後述の顎の動きに応じた開閉動作状態の特定処理を行う。なお、読み出し処理は、予約待ち行列４１に予約登録されて演奏開始時に中央制御部２１により行われるが、この処理に特化したプログラムを別に備えさせてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  ＲＡＭ２３に記憶される比較結果データ４５は、比較評価処理手段３５による比較結果であり、音節ごとにリアルタイムで記憶されていくもので、歌唱終了した時点で歌唱全体の全比較結果のデータとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  上記映像表示制御手段２４は、演奏時に、映像ＤＢ５２より抽出された背景映像及び楽曲ＤＢ５１より抽出された楽曲の歌詞データを表示部１３に出力するプログラム乃至電子回路である。なお、比較評価処理手段３５における評価を表示させることとしてもよい。上記音楽演奏制御部２５は、例えばシーケンスプログラムを備え、楽曲ＩＤで楽曲ＤＢ５１より抽出された音符データに従って音源（シンセサイザ）２５Ａを駆動するもので、当該音源２５Ａの出力は演奏信号としてミキシングアンプ１４に出力される。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  上記採点手段２６は、利用者による歌唱音声のピッチを検出して後述の楽曲ごとの主旋律のリファレンスデータの各音高と比較することにより採点するもので、マイク１５から入力されＡ／Ｄ変換部２６Ａでデジタル変換された音声信号を、歌唱採点するためのリファレンスデータに基づいて採点処理を行うプログラムである。具体的には、例えば特許第４２２２９１５号公報に記載されている手法を用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  上記送受信部２７は、遠隔入出力装置１７との間で有線方式ないし無線方式（ＩＲ方式やブルートゥース（登録商標）機構のピコネット接続方式など）を利用してデータ授受を行うためのもので、そのための電子回路及びプログラムである。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  上記記憶部２８に記憶されている楽曲ＤＢ５１は、楽曲毎に、音符データ、歌詞データなどを格納する。演奏に関して、具体的には、楽曲ＩＤ、曲名及びアーチストＩＤ（アーチスト名）が関連付けられた楽曲テーブルを有し、楽曲毎に、楽曲ＩＤで管理される所定データ形式のカラオケ楽曲の演奏データ（例えば、ＭＩＤＩ（登録商標）形式の旋律パートの音符ごとの楽譜データ）等で構成される楽曲データ（ファイル）について当該楽曲ＩＤをファイル名としてそれぞれ格納したデータベースである。上記記憶部２８に記憶されている映像ＤＢ５２は、楽曲毎に応じた背景映像データについて楽曲ＩＤをファイル名としてそれぞれ格納したデータベースである。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  上記記憶部２８に記憶されているリファレンスＤＢ５３は、楽曲ごとの主旋律の採点リファレンスデータであって、上記楽曲ＤＢ５１に記憶されているカラオケ楽曲と当該カラオケ楽曲の歌唱区間に合わせた歌唱者による歌唱を評価、分析するための評価基準として用いられる採点リファレンスデータとを紐付けて記憶するデータベースである。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  上記記憶部２８に記憶されている単音節テーブル５４は、歌詞データにおける対象の音節が、後述のリファレンス特定手段３４で区分処理されるフレーズ区間の先頭の場合を対象に当該対象の音節を発声するに際して、顎を開く方向、または閉じる方向に動かす顎の開閉動作状態を特定したテーブルであり、図２（Ａ）に示すように、対象の音節である「母音」若しくは「子音＋母音」の一つの音節に対して顎の動き（開閉動作状態）を予め設定したものである。なお、フレーズ区間の先頭の音節は、顎を閉じた状態からフレーズ区間の先頭の音節を発声するに際しての顎が動きを設定している。なお、図２（Ａ）、（Ｂ）において、「↑」は顎を開く動き、「↓」は顎を閉じる動き、「－」は顎の動きがない状態を表している。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  上記記憶部２８に記憶されている２連音節テーブル５５は、歌詞データにおける対象の音節がフレーズ区間の先頭以外の音節の場合に、当該対象の音節の前の音節と当該対象の音節との二つの音節を順に発声する際に、顎の開く方向、又は閉じる方向の動きを特定したテーブルであり、図２（Ｂ）に示すように、対象の音節の前の音節である「母音」若しくは「子音＋母音」と、対象の音節である「母音」及び「子音＋母音」並びに特殊発声音節（例えば、「母音ａ」及び「子音＋母音ａ」、「母音ｅ」及び「子音＋母音ｅ」、並びに「母音ｏ」及び「子音＋母音ｏ」に対しては「は（ｈａ）」、「へ（ｈｅ）」、「ほ（ｈｏ）」、「ん（ｎ）」）の二つの音節の順による組に対して顎の開閉動作状態を予め設定したものである。なお、フレーズ区間の先頭以外の音節は、二つの連続した音節について、一つ目の音節を発声した状態から二つ目の音節を発声するに際しての顎の動きを設定している。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  上記検出信号受信部３１は、後述の検出装置１８より送信されてくる検出信号を受信するプログラム乃至電子回路である。上記検出動作識別手段３２は、楽曲の演奏中に検出装置１８より受信した信号から顎の開閉状態を識別するプログラム乃至電子回路である。例えば、検出信号として電圧レベル信号（そのレベル値に特化したデータ信号でもよい）を検出装置１８より受信し、当該信号に基づいてレベル値を特定し、予め設定されたレベル値に応じて顎の開き、閉じ、不動の開閉状態の対応付けより識別する。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  上記音節特定手段３３及びリファレンス特定手段３４で構成されるリファレンス情報処理手段は、歌唱される楽曲の歌詞データの音節に応じて歌唱者の顎の動きの開閉動作状態を推測するリファレンスデータを、音節と顎の開閉動作状態とを予め設定した上記単音節テーブル５４及び２連音節テーブル５５に基づいて算出するもので、音節特定手段３３は、ＲＡＭ２３に記憶されている図３に示す対象歌詞データ４３に基づいて、当該歌詞データの先頭文字から順次音節を特定するプログラムである（図５で説明する）。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  リファレンス特定手段３４は、対象歌詞データ４３を複数のフレーズ区間に区分し（区分については図５及び図８で説明する）、音節特定手段３３により特定された音節が、歌唱区間の先頭の場合に当該音節に対応する顎の開閉動作状態を上記単音節テーブル５４より特定し、歌唱区間の先頭以外の音節の場合に当該音節の前の音節と当該音節の順による組に対応する顎の開閉動作状態を上記２連音節テーブル５５から特定し、ＲＡＭ２３にリファレンスデータ４４として記憶するプログラムである（図５及び図６で説明する）。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  上記比較評価処理手段３５は、後述の歌唱タイミングデータに基づき歌唱すべき期間が到来している音節について、リファレンス情報処理手段（音節特定手段３３及びリファレンス特定手段３４）で特定された顎の開閉動作状態であるＲＡＭ２３に記憶されているリファレンスデータ４４と上記検出動作識別手段３２で識別された顎の開閉動作状態のデータとを比較し、比較結果の評価を遠隔入出力装置１７のリモコン表示部１７Ｄ若しくは表示部１３（リモコン表示部１７Ｄと共にでもよい）に表示させると共に、比較結果をＲＡＭ２３に比較結果データ４５として記憶していくプログラムである。なお、比較処理、評価処理については図７で説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  ここで、図１に示される検出装置１８は、ウェアラブル端末であって、カラオケルームなどに常備されて利用者によって当該検出装置１８を選択的に所持されるもので、予めカラオケ装置１１（検出信号受信部３１）と近距離無線通信によりペアリングがなされている。検出装置１８は、図４に示すように、装置本体６１に検出処理手段６２及び検出送信手段６３を備え、外部に延長接続された検知センサ６４を備える。当該検出処理手段６２は、装置ＩＤを保持して装置全体を統御するプログラムを備え、当該利用者がログインしたときに当該検出装置１８（装置ＩＤ）を選択指定することにより関連付けられてＲＡＭ２３に利用者情報４２の一部として記憶される。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  上記検出送信手段６３は、ペアリングされたカラオケ装置１１の検出信号受信部３１に対して検知センサ６４で検知した検出信号を、例えば電圧レベルの信号又はレベル値に特化したデータ信号として送信するプログラム乃至電子回路である。上記検知センサ６４は、歌唱による顎の動きを検出する圧力センサなどの検出素子を備えるもので、利用者の耳孔内に挿入できる形態のものや、耳孔周辺に装着できる形態などのものを使用することができるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  そこで、図５に図１のリファレンス特定手段における歌詞データに基づく顎動作特定処理の説明図を示すと共に、図６に図５の個別音節の顎動作特定処理の説明図を示し、図７に図１の比較評価手段における比較評価の説明図を示す。ここでは、楽曲が予約待ち行列４１に選曲予約された際に、図３に示すＲＡＭ２３に対象歌詞データ４３が記憶されることを前提とする。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  楽曲の選曲予約がされると、当該楽曲の楽曲ＩＤに基づいて、ＲＡＭ２３より読み出された図３に示す対象歌詞データ４３に対して、音節特定手段３３が、図５に示すように、歌詞データの最初の文字から順に、文字コードがひらがなである文字を音節として特定していく（漢字は特定しない）。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  リファレンス特定手段３４は、図５に示すように、対象歌詞データ４３を複数のフレーズ区間に区分する。例えば、図３の対象歌詞データ４３において、歌詞の色変えが連続的に行われる歌詞文字列を一括のひとまとまりとして区分されている区間とするもので、各歌詞に対応付けられている色変タイミングデータに基づき、対象の音節の開始タイミングと、対象の音節の前の音節の終了タイミングが連続している場合は、この二つの音節は連続的に色変えが行われていることになり、一つのフレーズ区間に含ませる。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  図３の具体例を挙げれば、歌詞データにおける文字番号１の「あ」の終了タイミングと、続く文字番号２の「た」の開始タイミングが、どちらも演奏開始からの経過時間である９７５０ｍｓで連続し、以後文字番号７の「も」と文字番号８の「の」まで連続状態が続いており、これを一つのフレーズ区間に含ませる。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  一方、対象の音節の開始タイミングと、対象の音節の前の音節の終了タイミングが連続していない場合は、この二つの音節は連続的に色変えが行われていないこととなり、ここがフレーズの区切りとなるため、対象の音節がフレーズ先頭となる。図３の具体例を挙げれば、歌詞データにおける文字番号８の「の」の終了タイミングが演奏開始からの経過時間である１２７００ｍｓで、続く文字番号１０の「う」の開始タイミングが演奏開始からの経過時間である１３０００ｍｓであり、間に３００ｍｓの連続しない区間があり、ここがフレーズの区切りとなるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  リファレンス特定手段３４は、続いて、音節特定手段３３により特定された音節に対し、フレーズ区間の先頭の音節に対しては単音節テーブル５４を参照して対応する顎の開閉動作状態を特定し、フレーズ区間の先頭以外の音節に対しては２連音節テーブル５５を参照して当該対象の音節の直前の音節と当該対象の音節の順による組に対応する顎の開閉動作状態を特定していくものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  具体例を示すと、図６（Ａ）の例では、演奏に沿った図５の文字番号１の「あ」［（子音＋）ａ］の音節について、フレーズ区間の先頭であるため、単音節テーブル５４を参照して対象の音節［（子音＋）ａ］に対応する顎の動き「↑」を特定する。また、図６（Ｂ）の例では、演奏に沿った図５の文字番号２の「た」［（子音＋）ａ］の音節について、フレーズ区間の途中であるため、直前の音節が「あ」［（子音＋）ａ］であることを特定し、２連音節テーブル５５を参照して対象の音節［（子音＋）ａ］→［（子音＋）ａ］に対応する顎の動き「↓↑」を特定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  図６（Ｃ）の例では、演奏に沿った図５の文字番号６の「く」［（子音＋）ｕ］の音節について、フレーズ区間の途中であるため、直前の音節が「を」［（子音＋）ｏ］であることを特定し、２連音節テーブル５５を参照して対象の音節［（子音＋）ｏ］→［（子音＋）ｕ］に対応する顎の動き「↓」を特定する。さらに、図６（Ｄ）の例では、演奏に沿った図５の文字番号７の「も」［（子音＋）ｏ］の音節について、フレーズ区間の途中であるため、直前の音節が「く」［（子音＋）ｕ］であることを特定し、２連音節テーブル５５を参照して対象の音節［（子音＋）ｕ］→［（子音＋）ｏ］に対応する顎の動き「↑」を特定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  そして、リファレンス特定手段３４において、上記歌詞データの特定する音節ごとに、上記のように顎の開閉動作状態を特定したリファレンスデータを特定していき、歌詞データ全部の音節で特定したリファレンスデータをＲＡＭ２３にリファレンスデータ４４として記憶する。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  そこで、比較評価処理手段３５は、選曲予約されたカラオケ楽曲の演奏の際にＲＡＭ２３よりリファレンスデータ４４を読み出し、選曲予約されたカラオケ楽曲の演奏が開始され、歌唱タイミングデータに基づいて歌唱すべき期間が到来している音節のリファレンスデータと、当該音節の歌唱すべき期間中に歌唱者が装着した検出装置から受信して識別された検出動（顎の開閉動作状態）を比較することにより、その比較結果の評価を与える。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  具体的には、図７に示すように、演奏時間軸上において、音節「あ」を歌唱すべき期間中に受信した検出動作が「↑（顎を開いた）」であった場合、当該音節「あ」に対応する顎の動きのレファレンスデータは「↑」であるため、当該音節については理想的な顎の動きが出来ているということとなり、例えば比較結果「○」となり、続く音節「た」の歌唱すべき期間中に受信した検出信号が「↓（顎を閉じた）」であった場合、当該音節「た」に対応する顎の動きリファレンスデータは「↓↑」であるため、当該音節については理想的な顎の動きが出来ていないということで、例えば比較結果「×」となるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  比較評価処理手段３５は、比較結果の評価を、遠隔入出力装置１７のリモコン表示部１７Ｄ及び表示部１３の一方又は両方に表示させる。例えば、評価内容を歌唱の際にリアルタイム表示させる場合には、任意の音節の歌唱すべき期間が終了した時点での比較結果である「○」の回数と「×」の回数を評価内容として、表示部１３やリモコン表示部１７Ｄの画面上の所定の場所にリアルタイムに表示する。これによって、「×」より「○」の回数を増加させることを、すなわち顎の動きを気にしながら歌唱させることを意識させるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  別の比較評価から評価表示の処理として、比較評価処理手段３５において、上記リファレンスデータ４４と受信した検出信号から識別した検出動作による顎の動きに基づいて、それぞれの顎の開閉回数をカウントする。具体的には、音節「あ」を歌唱すべき期間中の顎の動きは「↑」でこれを１回とし、続く音節「た」を歌唱すべき期間中の顎の動きは「↓↑」で２回とし、これが「の」まで演奏が進むと、リファレンスデータ４４の顎の動き回数は９回になる。各音節の歌唱すべき期間が終了する度に、リファレンスデータ４４に基づくカウント値と、検出動作のカウント値とを比較し、その比較結果の差に応じて評価する。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  すなわち、リファレンスデータ４４と検出動作より特定した顎の動きに応じた開閉動作状態に基づいて、特定した「↑」、「↓」、「↓↑」からそれぞれの顎の開閉回数をカウントしていき、任意の音節を歌唱すべき期間が終了する度にリファレンスデータ４４に基づくカウント値に対して、検出信号の検出動作のカウント値が所定値以上少ない比較結果のときには顎を意識して動かす意味での「↑」を評価とし、検出信号の検出動作のカウント値が所定値以上多い比較結果のときには顎を動かし過ぎという意味での「↓」を評価とし、検出信号の検出動作のカウント値が顎を動かすべき回数との差が所定値以内との比較結果のときにはスムーズに顎が動いているという意味での「ＧＯＯＤ」を評価としてリアルタイムに表示する。これによって、「ＧＯＯＤ」表示をいかに続けられるか、つまり顎の動きを気にしながら歌唱させるという歌唱を支援することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  一方、評価内容を歌唱後に表示する場合には、比較評価処理手段３５において、歌唱音節毎の比較結果をＲＡＭ２３より比較結果データ４５を読み出して歌唱後に表示させる。例えば、歌唱後に比較評価処理手段３５が比較結果データ４５を遠隔入出力装置１７に対して楽曲ＩＤ及び利用者ＩＤを紐づけて転送すれば、歌唱した利用者と比較結果データ４５とが対応づけられることとなり、当該歌唱者は歌唱した楽曲の音節（ひらがな）をリモコン表示部１７Ｄに表示し、当該比較結果データ４５の各音節の比較結果を評価内容として「○」は青色で、「×」は赤色で文字を表示する。これにより、歌唱者はスムーズに顎が動いている音節、動いていない音節を確認することができるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  次に、図８に、図１のリファレンス特定手段における他の歌詞データに基づくフレーズ区間特定、リファレンス特定の説明図を示す。ここでは、フレーズ区間特定及びリファレンス特定の処理を示したものである。また、ＲＡＭ２３には、図８（Ａ）に示すように、対象演奏データ７１の記憶領域が形成され、予約待ち行列４１に選曲予約された楽曲ＩＤに基づいて楽曲ＤＢ５１より読み出された演奏データが記憶される。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  そこで、リファレンス特定手段３４は、図８（Ｂ）において、まず、ＲＡＭ２３に記憶された対象歌詞データ４３及び対象演奏データ７１から、楽曲の演奏データに含まれる歌唱旋律パートの楽譜データの各音符に対して歌唱すべき歌詞文字データを対応づけた歌詞文字・旋律対応データ（図８（Ｂ）の音符・休符、音高、歌詞の対応データ）を作成する。具体的には、歌唱旋律パートの楽譜データの各音符の発音タイミングと、対象歌詞データ４３の各音節の色変えタイミングの一致度から、音符に対応する音節をそれぞれ特定する。その際、歌唱者が歌唱しやすいように各音符の発音の開始より先に音節の色替えが開始されるよう設定されているため、このタイミング差を考慮するとよい。また、ひとつの音節を複数の音符で発音するような場合でも、当該音節の色替え時間と当該二つの音符の発音持続時間の一致度によって対応付けが可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  続いて、上記歌詞文字・旋律対応データに基づいて顎の動きを特定する場合のフレーズ区間を、旋律パートの音符の発音が連続的に行われる歌詞文字列を一括のひとまとまりとして区分する。すなわち、音符が連続している間は、二つの音符に対応付けられた音節は連続的に発音されることとなるため、ひとつのフレーズ区間に含ませる。例えば、図８（Ｂ）に示す音節「あたまをくものうえにだし」に対応する音符は連続しているものを一つのフレーズ区間に含ませる。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  また、休符を挟む前後二つの音符は休符により連続的に発音されないこととなるため、休符をフレーズの区切りとし、休符の次の音符に対応付けられた音節をフレーズ先頭とする。例えば、図８（Ｂ）に示す音節「～うえにだし」の「し」に対応する二分音符の次に四分休符があるため、その次の付点四分音符対応する音節「しほうの」の「し」をフレーズ先頭とさせるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  そして、図８（Ｂ）に示すように、単音節テーブル５４及び２連音節テーブル５５を参照して特定した顎の動き（「↑」、「↓」、「↓↑」）を対象の音節に対応付けることにより、歌詞データ及び演奏データに基づいた音節毎のリファレンスデータ４４を特定するものである。なお、このように特定され記憶されたリファレンスデータ４４は、比較評価処理手段３５における処理において、歌唱旋律パートの楽譜データの各音符の発音タイミングに基づいて、歌唱すべき期間が到来している音節のリファレンスデータを特定することになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  このような歌詞データ及び演奏データによるフレーズの区分処理によっても楽曲歌唱の際の顎の開閉動作状態のリファレンスデータでの推測、特定をより高精度とすることができ、数万曲にも及ぶカラオケ楽曲に対して予めデータを作成する必要がなく、簡易構成で実現することができるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  上記のように、カラオケ楽曲の演奏の際に画面に表示される歌詞に合わせて、歌唱者が歌唱した際の顎の動きと、当該楽曲の歌詞に基づく理想的な顎の動とが歌唱すべき音節毎に比較されるため、歌唱時のスムーズな顎の動きが出来ているか否かを歌唱者が音節毎に確認することが可能となり、歌唱時に顎の動きを意識させて良い発声を促す歌唱を支援することができるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  また、歌詞データや演奏データより楽曲歌唱の際に開閉するであろう顎の開閉動作（リファレンスデータ）を推測、特定することから、数万曲にも及ぶカラオケ楽曲に対して予めデータを作成する必要がなく、簡易構成で実現することができるものである。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0065">
+  本発明のカラオケ装置は、カラオケの基本的機能を備えたカラオケ端末及びカラオケ用のサーバの製造、使用、販売等の産業に利用可能である。
+</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0066">
+  １１            カラオケ装置
+  １２            カラオケ本体
+  １７            遠隔入出力装置
+  １８            検出装置
+  ２８            記憶部
+  ３１            検出信号受信部
+  ３２            検出動作識別手段
+  ３３            音節特定手段
+  ３４            リファレンス特定手段
+  ３５            比較評価処理手段
+  ４３            対象歌詞データ
+  ４４            リファレンスデータ
+  ４５            比較結果データ
+  ５３            リファレンスデータベース
+  ５４            単音節テーブル
+  ５５            ２連音節テーブル
+  ６３            検出送信手段
+  ６４            検知センサ
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="119" wi="84" file="2016126135_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="119" wi="84" file="2016126135_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="86" wi="84" file="2016126135_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="27" wi="84" file="2016126135_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="108" wi="84" file="2016126135_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="121" wi="84" file="2016126135_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="15" wi="84" file="2016126135_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="101" wi="84" file="2016126135_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  歌唱による歌唱者の顎の動きを検出する検出装置と通信自在であり、当該検出信号を受信可能なカラオケ装置であって、
+  楽曲の演奏中に前記検出装置より受信した信号に基づき歌唱者の顎の動きに応じた開閉動作状態を識別する検出動作識別手段と、
+  歌唱される前記楽曲の歌詞データに含まれる歌詞文字の音節に応じて歌唱者の顎の動きに応じた開閉動作状態を推測するリファレンスデータを、音節と顎の開閉動作状態とを予め設定した所定数の音節テーブルに基づいて特定するリファレンス情報処理手段と、
+  歌唱される前記楽曲の歌詞データに含まれる各歌詞文字には歌唱タイミングデータが対応付けられ、当該歌唱タイミングデータに基づき歌唱すべき期間が到来している音節の前記リファレンス情報処理手段で特定したリファレンスデータと、前記検出動作識別手段で識別された顎の開閉動作状態とを比較し、比較結果の評価を表示させる比較評価処理手段と、
+  を有することを特徴とするカラオケ装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  請求項１記載のカラオケ装置であって、
+  前記所定数の音節テーブルは、一つの音節を発声する際の顎の開閉動作状態を対応付けた単音節テーブル、二つの音節について第一の音節を発声した状態から第二の音節を発声する際の顎の開閉動作状態を当該二つの音節の順による組に対応付けた２連音節テーブルであり、
+  前記リファレンス情報処理手段は、
+  前記歌詞データの先頭文字から順次音節を特定する音節特定手段と、
+  前記歌詞データを複数のフレーズ区間に区分し、前記音節特定手段により特定された音節が、フレーズ区間の先頭の場合に当該音節に対応する顎の開閉動作状態を前記単音節テーブルより特定し、フレーズ区間の先頭以外の音節の場合に当該音節の前の音節と当該音節の順による組に対応する顎の開閉動作状態を前記２連音節テーブルから特定するリファレンス特定手段と、
+  を有することを特徴とするカラオケ装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  請求項２記載のカラオケ装置であって、
+  前記楽曲の歌詞データに含まれる各歌詞文字に対応付けられた歌唱タイミングデータは、当該歌詞データに含まれる歌詞文字ごとの色変えタイミングデータであり、
+  前記リファレンス特定手段は、前記フレーズ区間を、歌詞の色変えが連続的に行われる歌詞文字列を一括として区分し、区分ごとに各音節の顎の開閉動作状態を特定することを特徴とするカラオケ装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+    請求項２記載のカラオケ装置であって、
+  前記楽曲の歌詞データに含まれる各歌詞文字に対応付けられた歌唱タイミングデータは、楽曲の演奏データに含まれる旋律パートの楽譜データの各音符に歌詞文字が対応づけられたデータであり、
+  前記リファレンス特定手段は、前記フレーズ区間を、音符の発音が連続的に行われる歌詞文字列を一括として区分し、区分ごとに各音節の顎の開閉動作状態を特定することを特徴とするカラオケ装置。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000060241JP00020200910970AFULJA20200611JP00O.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020091097" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091097</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091097</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000060241</base:DocNumber>
+        <base:Date>20170325</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017060241</base:DocNumber>
+        <base:Date>20170325</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20200101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01L   5/16        20200101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G01L5/16</business:FI>
+      <business:FClass>
+        <business:FTerm>2F051AA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F051AB09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F051BA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2F051</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">力传感器</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アルプスアルパイン株式会社</base:Name>
+            <base:RegisteredNumber>000010098</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町1番7号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>佐藤  邦生</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町1番7号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>高井  大輔</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町1番7号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>大下  和人</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町1番7号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>志方  元</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町1番7号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中村  俊季</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都大田区雪谷大塚町1番7号  アルプス電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>野▲崎▼  照夫</base:Name>
+            <base:RegisteredNumber>100085453</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>平山  巌</base:Name>
+            <base:RegisteredNumber>100120204</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>松下  昌弘</base:Name>
+            <base:RegisteredNumber>100108006</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>大窪  克之</base:Name>
+            <base:RegisteredNumber>100135183</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>13</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种能够检测施加的载荷的方向,大小,范围,分布等情况的力传感器。 具备基材、在基材上相互隔开规定的间隔地固定且根据所施加的载荷进行规定的输出的多个压敏部件、以及具有与多个压敏部件接触的接触区域的操作部件,根据对操作部件的操作而对多个压敏部件施加载荷。 另外,具备运算部,该运算部基于来自多个压敏部件的输出信息来检测向操作部件施加的载荷的状况。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="49" wi="69" file="2020091097_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及一种能够检测通过对操作部件的操作而施加的载荷的力觉传感器。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">专利文献1所记载的载荷检测装置具有：具有突起状的受压部的载荷传感器、使受压部朝向上表面侧而收纳载荷传感器的壳体、以及配置于载荷传感器的上表面侧并承受载荷而在高度方向上按压载荷传感器的弹性体。 由此,能够提供一种能够实现良好的操作性和小型化且具备良好的传感器灵敏度的载荷检测装置。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2015－161531号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">然而,在专利文献1所记载的载荷检测装置中,虽然能够通过载荷传感器检测高度方向上的按压力,但无法检测对弹性体施加的载荷的朝向、范围、分布等状况。 因此,即使将该负载检测装置例如组装于被远程操作的构造体,施加于该构造体的负载的状况也不明确,因此基于该检测结果进行的感触传递缺乏细致度,难以再现真实的感触。</base:Paragraphs>
+        <base:Paragraphs num="0005">因此,本发明的目的在于提供一种能够检测所施加的载荷的方向、大小、范围、分布等状况的力觉传感器。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">为了解决上述课题,本发明的力觉传感器的特征在于,具备基材、在基材上相互隔开规定的间隔而被固定且根据所施加的负荷而进行规定的输出的多个压敏部件、以及具有与多个压敏部件接触的接触区域的操作部件,根据对操作部件的操作而对多个压敏部件施加负荷。 由此,能够检测施加于操作部件的载荷的状况。</base:Paragraphs>
+        <base:Paragraphs num="0007">在本发明的力觉传感器中,优选具备运算部,该运算部基于来自多个压敏部件的输出信息来检测对操作部件施加的载荷的状况。 由此,能够准确地计算施加于操作部件的载荷的朝向、大小、范围、分布等状况。</base:Paragraphs>
+        <base:Paragraphs num="0008">在本发明的力觉传感器中,优选多个压敏部件分别具备多个形变检测元件。 由此,能够针对每个压敏部件检测在多个方向上产生的形变的大小,因此能够精密地计算施加于操作部件的载荷的状况。</base:Paragraphs>
+        <base:Paragraphs num="0009">在本发明的力觉传感器中,优选的是,在多个压敏构件的每一个中,多个变形检测元件相对于压敏构件的平面中心对称地配置。 由此,能够高精度地检测在各压敏部件中产生的形变,因此能够提高作为力觉传感器的检测精度。</base:Paragraphs>
+        <base:Paragraphs num="0010">在本发明的力觉传感器中,优选的是,多个压敏部件以关于基材的平面中心对称的方式配置有4个,各个压敏部件具备以关于该平面中心对称的方式配置的4个形变探测元件。 由此,在各压敏部件中,能够计算基材的平面坐标上的形变的分布,因此能够基于它们高精度地运算施加于操作部件的载荷。</base:Paragraphs>
+        <base:Paragraphs num="0011">在本发明的力觉传感器中,优选操作部件以覆盖多个压敏部件的方式安装于基材。 由此,能够利用多个压敏部件检测通过对操作部件的操作而施加的载荷,因此能够检测复杂地施加的载荷的状况。</base:Paragraphs>
+        <base:Paragraphs num="0012">在本发明的力觉传感器中,优选操作部件具有弹性。 由此,能够给操作者带来真实的触感,并且能够精度良好地检测所施加的载荷的状况。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0013">根据本发明,能够提供一种能够检测施加于操作部件的载荷的方向、大小、范围、分布等状况的力觉传感器。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">图0001是表示本发明的实施方式的力觉传感器的结构的侧视图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示本发明的实施方式所涉及的力觉传感器的结构的俯视图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是本发明的实施方式所涉及的力觉传感器的功能框图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004(A)、(B)是表示力觉传感器的应用例的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是表示本发明的实施方式中的第1压敏部件的结构的立体图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是包括在本发明的实施例中的第一压力敏感构件中的变形检测元件的电路图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是表示本发明的实施方式中的四个压敏部件的结构的俯视图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008(A)～(E)是表示施加于力觉传感器的外力的方向的图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是表示变形例中的四个压敏部件的结构的俯视图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是表示变形例中的四个压敏部件的结构的俯视图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是变形例中的第1压敏部件所具备的形变检测元件的电路图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">以下,参照附图对本发明的实施方式所涉及的力觉传感器进行详细说明。 图1是示出本实施方式的力传感器10的结构的侧视图,图2是示出力传感器10的结构的俯视图,图3是力传感器10的功能框图。 图4的(A)、(B)是表示力传感器10的应用例的图。 操作部件12在图1中用虚线假想地表示,在图2中省略。 在各图中,作为基准坐标而示出了X-Y-Z坐标。 Z方向是上方向,X-Y面是与Z方向正交的面。 在以下的说明中,有时将沿着Z方向观察的状态称为俯视。</base:Paragraphs>
+      <base:Paragraphs num="0016">如图1或图2所示,本实施方式所涉及的力觉传感器10具备基材11、配置于基材11上的四个压敏部件20、30、40、50、以及以覆盖这些压敏部件的方式安装于基材11的操作部件12,此外,在本实施方式中,示出了压敏部件为四个的例子,但压敏部件的数量也可以为两个、三个或五个以上,其数量和配置能够根据力觉传感器的规格等任意设定。</base:Paragraphs>
+      <base:Paragraphs num="0017">基材11例如是电路基板,配置有构成图3所示的运算部61和控制部62的集成电路、与其连接的配线等。 控制部62具有接口部,例如将运算部61的运算结果提供给外部的显示装置63进行显示。</base:Paragraphs>
+      <base:Paragraphs num="0018">操作部件12由具有弹性的材料、例如聚氨酯橡胶、硅橡胶等合成橡胶构成,以从Z方向上侧覆盖4个压敏部件20、30、40、50各自的操作体25、35、45、55的上部的方式配置,优选X-Y面方向的端部12a通过粘接而固定于基材11。 操作部件12的内表面12b构成与第一压敏部件20的操作体25、第二压敏部件30的操作体35、第三压敏部件40的操作体45、第四压敏部件50的操作体55接触的接触区域。</base:Paragraphs>
+      <base:Paragraphs num="0019">操作部件12例如构成如图4的(A)所示的人体模型的手指F的表皮F1。 在该结构中,基板11、固定在基板11上的四个压敏部件20、30、40、50配置在手指F的内部。</base:Paragraphs>
+      <base:Paragraphs num="0020">另外,代替图1所示的操作部件12,也可以是图4(B)所示的结构的操作部件112。 该操作构件112包括操作主体112a和从操作主体112a向下方延伸的臂部112b,操作主体112a和臂部112b均由硬性材料、例如金属构成。 另一方面,在基材111上配置有两个压敏部件120、130,在第一压敏部件120的操作体125与第二压敏部件130的操作体135之间配置有操作部件112的臂部112b。 在此,基材111和两个压敏部件120、130分别具备与图2所示的基材11和四个压敏部件20～50同样的结构。 在操作部件112中,臂部112b的侧面112c构成与两个压敏部件120、130各自的操作体125、135接触的接触区域。 在这样的结构中,当对操作主体112a施加外力时,臂部112b与操作主体112a一起相对于Z方向倾斜,伴随于此,操作体125、135倾斜。</base:Paragraphs>
+      <base:Paragraphs num="0021">如图2所示,四个压敏部件20、30、40、50分别具有俯视时具有正方形的外形形状的支承台22、32、42、52,其外缘部通过粘接而固定于基材11。 四个压敏部件20、30、40、50以恒定的间隔相对于基材11的平面的中心11c对称地配置。 更具体而言,第1压敏部件20与第2压敏部件30、第2压敏部件30与第3压敏部件40、第3压敏部件40与第4压敏部件50、以及第4压敏部件50与第1压敏部件20分别以在X方向以及Y方向这两个方向上隔开距离L而相互分离的方式配置在基材11上。 另外,在Y方向上,第一感压部件20与第三感压部件40以隔开距离2L的方式配置,在X方向上,第二感压部件30与第四感压部件50也隔开距离2L地配置。 在此,距离L能够根据用途、规格等任意地设定。</base:Paragraphs>
+      <base:Paragraphs num="0022">参照图5和图6对压敏部件的结构进行说明。 图5是示出第一压敏构件20的构造的透视图,并且图6是包括在第一压敏构件20中的变形检测元件的电路图。 图7是表示四个压敏部件20、30、40、50的结构的俯视图。 在此,四个压敏部件20、30、40、50具有彼此相同的结构,因此仅对第一压敏部件20进行说明,省略其他压敏部件30、40、50的详细说明。</base:Paragraphs>
+      <base:Paragraphs num="0023">第一压敏部件20具有由合成树脂形成的支承台22。 在该支撑台22上一体地形成有沿X方向延伸的正X变形部23a和负X变形部23b、以及沿Y方向延伸的正Y变形部24a和负Y变形部24b。 在支承台22的平面中心一体地设置有呈同心状向上突出的操作体25。 该操作体25配置在正X变形部23a和负X变形部23b的中心且正Y变形部24a和负Y变形部24b的中心的位置。</base:Paragraphs>
+      <base:Paragraphs num="0024">在利用手指等对操作部件12进行了操作时,若对与操作部件12的内表面12b接触的操作体25施加与操作力对应的载荷,则与该操作方向和操作力对应地,在正X变形部23a、负X变形部23b、正Y变形部24a以及负Y变形部24b产生挠曲。</base:Paragraphs>
+      <base:Paragraphs num="0025">如图5所示,在支撑台22上,在正X变形部23a的上表面安装有正X应变传感器26a,在负X变形部23b的上表面安装有负X应变传感器26b。 另外,在正Y变形部24a的上表面安装有正Y应变传感器27a,在负Y变形部24b的上表面安装有负Y应变传感器27b。 这些应变传感器26a、26b、27a、27b相对于位于支承台22的平面中心的操作体25相互对称地配置。 此外,应变传感器26a、26b、27a、27b也可以分别安装于变形部23a、23b、24a、24b的下表面。</base:Paragraphs>
+      <base:Paragraphs num="0026">应变传感器26a、26b、27a、27b是检测在分别设置有应变传感器26a、26b、27a、27b的变形部23a、23b、24a、24b中产生的应变、挠曲的应变检测元件,形成为电阻膜。 如图6所示,应变传感器26a、26b、27a、27b相互连接,构成桥接电路。</base:Paragraphs>
+      <base:Paragraphs num="0027">当操作体25以向图5所示的θx方向或θy方向、或者这些方向以外的方向倾倒的方式被按压时,根据该按压方向以及按压的力,正X变形部23a、负X变形部23b、正Y变形部24a以及负Y变形部24b产生挠曲,各个应变传感器26a、26b、27a、27b的电阻值发生变化。 另外,在操作体25被向下方向按压时,变形部23a、23b、24a、24b也根据按压的力而产生挠曲,各个应变传感器26a、26b、27a、27b的电阻值发生变化。 根据这样的电阻值的变化,从图6所示的桥接电路得到X操作输出和Y操作输出。</base:Paragraphs>
+      <base:Paragraphs num="0028">与第一压敏部件20的应变传感器26a、26b、27a、27b的电阻值的变化对应地得到的X操作输出和Y操作输出被提供给运算部61。 与此同样地,与压敏部件30、40、50各自的应变传感器的电阻值的变化对应的X操作输出和Y操作输出也被提供给运算部61。 运算部61基于从四个压敏部件20、30、40、50提供的输出信息,来检测向操作部件12施加的载荷的状况。</base:Paragraphs>
+      <base:Paragraphs num="0029">在此,如图7所示,在第二压敏部件30的支承台32上,与第一压敏部件20中的正X应变传感器26a、负X应变传感器26b、正Y应变传感器27a以及负Y应变传感器27b同样地安装有正X应变传感器36a、负X应变传感器36b、正Y应变传感器37a以及负Y应变传感器37b。 与此同样地,在第三压敏部件40的支承台42安装有正X应变传感器46a、负X应变传感器46b、正Y应变传感器47a以及负Y应变传感器47b,在第四压敏部件50的支承台52安装有正X应变传感器56a、负X应变传感器56b、正Y应变传感器57a以及负Y应变传感器57b。</base:Paragraphs>
+      <base:Paragraphs num="0030">在以上结构的力传感器10中,例如能够检测图8(A)～(E)所示那样的由外力施加的负载的方向、大小、范围、分布等状况。 在此,图8(A)～(E)是与图1对应的侧视图,是表示施加于力传感器10的外力的方向的图,省略了操作部件12的图示。 图8的(A)～(E)所示的是一部分的例子,也能够检测除此以外的负荷、例如由图8的(A)～(E)所示的外力组合而成的力引起的负荷的状况。 另外,在关于图8(A)～(E)的以下的说明中,设想以Z方向沿着铅垂方向的方式载置力传感器10的情况来进行叙述,但力传感器10的载置方向并不限定于此。</base:Paragraphs>
+      <base:Paragraphs num="0031">首先,如图8的(A)所示,在从上方向向下按压操作部件12时,向下的力D1作用于四个压敏部件20、30、40、50的全部,在各自所具有的应变传感器中,电阻值产生变化。 另外,当进行将操作部件12从上方向和左方向压扁那样的操作时,除了所述力D1以外,作为水平方向的力,沿着X方向的力D2也发挥作用。 在该情况下,通过力D2,四个压敏部件20、30、40、50的正X应变传感器和负X应变传感器的电阻值的变化叠加。 基于这样在各应变传感器产生的电阻值的变化,运算部61能够检测向操作部件12施加的载荷的朝向、大小、范围、分布等状况。</base:Paragraphs>
+      <base:Paragraphs num="0032">在图8的(B)中,作为来自左右两个方向的力,示出了沿着X方向的正方向和负方向的两个力D3、D4。 作为施加这样的外力的情况,设想从左右方向捏住操作部件12的动作。 在进行了同时施加这样的力D3、D4那样的操作时,在四个压敏部件20、30、40、50的正X应变传感器以及负X应变传感器的全部中,电阻值产生变化,基于在各应变传感器产生的电阻值变化,运算部61能够检测向操作部件12施加的载荷的朝向、大小、范围、分布等状况。</base:Paragraphs>
+      <base:Paragraphs num="0033">在图8的(C)中,作为沿着左右两个方向的力,示出了沿着X方向的负方向和正方向的两个力D5、D6。 作为施加这样的外力那样的情况,设想使操作部件12在左右方向上扩展那样的动作。 在进行了同时施加这样的力D5、D6那样的操作时,在四个压敏部件20、30、40、50的正X应变传感器以及负X应变传感器的全部中,电阻值产生变化,基于在各应变传感器产生的电阻值变化,运算部61能够检测向操作部件12施加的载荷的朝向、大小、范围、分布等状况。</base:Paragraphs>
+      <base:Paragraphs num="0034">在图8(D)中,示出了在与X-Y面平行的面内旋转的力D7。 作为施加这样的外力那样的情况,设想将操作部件12以铅垂轴为中心扭转那样的动作。 或者,设想对操作部件12施加按压力依次作用于压敏部件20、30、40、50那样的旋转力的动作。 在进行了施加这样的力D7那样的操作时,在四个压敏部件20、30、40、50的所有应变传感器中,电阻值依次产生变化。 基于这样在各应变传感器产生的电阻值的变化,运算部61能够检测向操作部件12施加的载荷的朝向、大小、范围、分布等状况。</base:Paragraphs>
+      <base:Paragraphs num="0035">在图8(E)中,示出了相互不同的方向的力D8、D9、D10。 作为施加这样的外力的情况,设想相对于操作部件12一边扭转一边按压的动作、用多个手指赋予不同的动作的动作等。 在进行了这样的同时施加力D8～D10那样的操作时,在四个压敏部件20、30、40、50的所有应变传感器中,电阻值产生变化。 基于这样在各应变传感器产生的电阻值的变化,运算部61能够检测向操作部件12施加的载荷的朝向、大小、范围、分布等状况。</base:Paragraphs>
+      <base:Paragraphs num="0036">由于如以上那样构成,因此根据上述实施方式,能够高精度地检测施加于操作部件12的载荷的朝向、大小、范围、分布等状况。</base:Paragraphs>
+      <base:Paragraphs num="0037">此外,四个压敏构件20、30、40和50被布置成关于基材11的平面中心11c对称,并且四个变形检测元件被布置成关于每个压敏构件的平面中心对称。 因此,在各压敏部件中,能够计算基材11的平面坐标上的形变的分布,因此能够基于它们高精度地运算施加于操作部件12的载荷。</base:Paragraphs>
+      <base:Paragraphs num="0038">以覆盖四个压敏部件20、30、40、50的方式将操作部件12安装于基材11,因此能够利用四个压敏部件检测因对操作部件12的操作而施加的载荷,因此能够检测复杂地施加的载荷的状况。</base:Paragraphs>
+      <base:Paragraphs num="0039">通过操作部件12具有弹性,能够给操作者带来真实的触感,并且能够精度良好地检测所施加的载荷的状况。</base:Paragraphs>
+      <base:Paragraphs num="0040">以下,对变形例进行说明。 图9和图10是示出变形例中的四个压敏部件的结构的俯视图。 在上述实施方式中,在各压敏部件中,在X方向和Y方向上各配置有一对应变传感器,但也可以仅在一个方向上配置一对应变传感器,而省略另一个方向的应变传感器。 例如,如图9所示,也可以以包围基材11的平面中心11c的方式在各个压敏部件配置一对应变传感器。 另外,如图10所示,也可以沿着朝向基材11的平面中心11c的方向,在各个压敏部件配置一对应变传感器。 通过这样的结构,能够利用较少数量的应变传感器来检测施加于操作部件12的载荷的状况。</base:Paragraphs>
+      <base:Paragraphs num="0041">图11是另一变形例中的第一压敏构件中包括的变形检测元件的电路图。 在上述实施方式中,从图6所示的桥接电路得到X操作输出和Y操作输出,但除此之外还能够得到Z操作输出,由此,能够检测包含沿着Z方向的载荷在内的更详细的状况。</base:Paragraphs>
+      <base:Paragraphs num="0042">在图11所示的例子中,与图6同样地,4个应变传感器26a、26b、27a、27b相互连接而构成桥接电路,作为该桥接电路整体而构成合成电阻29。 在该合成电阻29与Vcc电源之间设置有用于切换为两个状态S1、S2中的任意一方的切换开关SW。 在切换开关SW为状态S1时,Vcc电源与合成电阻29直接连接,在通过切换而成为状态S2时,Vcc电源与合成电阻29经由固定电阻28连接。 切换开关SW和固定电阻28设置在基材11上,从固定电阻28与合成电阻29之间得到Z操作输出。 切换开关SW由控制部62控制,每隔一定时间切换两个状态S1、S2。 或者,也可以通过操作者的操作进行切换。</base:Paragraphs>
+      <base:Paragraphs num="0043">在该变形例中,例如在操作体25沿着Z方向被按下的情况下,四个应变传感器26a、26b、27a、27b同样地伸长（或收缩）,因此合成电阻29变大。 因此,在状态S2下,在从固定电阻28与合成电阻29之间取出的Z操作输出中产生变化,基于该输出信息,在运算部61中检测向操作部件12施加的Z方向的状况。 另一方面,在处于状态S1的期间,得到X操作输出和Y操作输出。 通过依次切换两个状态S1、S2,得到Z操作输出、X操作输出及Y操作输出,能够三维地捕捉施加于操作部件12的载荷的状况。 在实际的测定中,两个状态S1、S2以规定周期反复,在设定了状态S1时,由运算部61监视X操作输出和Y输出,在设定了状态S2时,由运算部61监视Z操作输出。 或者,根据使用用途,既可以在状态S1下以固定的状态使用,也可以在状态S2下以固定的状态使用。 参照上述实施方式对本发明进行了说明,但本发明并不限定于上述实施方式,能够在改良的目的或本发明的思想的范围内进行改良或变更。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0044">如上所述,本发明所涉及的力觉传感器在能够检测施加于操作部件的负荷的方向、大小、范围、分布等状况这一点上是有用的。</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0045">10-力传感器,11-基材,11c-平面中心,12-操作部件,12b-内表面（接触区域）。 
+20第一压敏部件22、32、42、52支承台23a-正X变形部23b-X变形部24a-正Y变形部24b-Y变形部25、35、45、55操作体26a、36a、46a、56a正X应变传感器26b、36b、46b、56b-X应变传感器27a、37a、47a、57a-正Y应变传感器27b、37b、47b、57b-Y应变传感器30第二压敏部件40第三压敏部件50第四压敏部件61运算部62控制部63显示装置111基材112操作部件112a操作主体112b臂部112c侧面120第一压敏部件125、135操作体130第二压敏部件。 </base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="57" wi="80" file="2020091097_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="108" wi="80" file="2020091097_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="107" wi="74" file="2020091097_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="113" wi="80" file="2020091097_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="71" wi="80" file="2020091097_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="70" wi="80" file="2020091097_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="108" wi="80" file="2020091097_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="78" file="2020091097_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="105" wi="80" file="2020091097_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="107" wi="80" file="2020091097_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="87" wi="80" file="2020091097_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种力觉传感器,其特征在于,具备基材、多个压敏部件和操作部件,所述多个压敏部件在所述基材上相互隔开规定的间隔而被固定,并根据所施加的负荷而进行规定的输出,所述操作部件具有与所述多个压敏部件接触的接触区域,根据对所述操作部件的操作而对所述多个压敏部件施加所述负荷。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的力觉传感器,其具备运算部,所述运算部基于来自所述多个压敏部件的输出信息来检测向所述操作部件施加的载荷的状况。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求2所述的力传感器,其中,所述多个压敏部件各自包括多个变形检测元件。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求3所述的力传感器,其中,在所述多个压敏构件中的每一个中,所述多个变形检测元件关于所述压敏构件的平面中心对称地布置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1～4中任一项所述的力觉传感器,其中,所述多个压敏构件以相对于所述基材的平面中心对称的方式配置有4个,各个压敏构件具备以相对于该平面中心对称的方式配置的4个所述形变探测元件。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1至5中任一项所述的力觉传感器,其中,所述操作部件以覆盖所述多个压敏部件的方式安装于所述基材。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求6所述的力觉传感器,其中,所述操作部件具有弹性。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

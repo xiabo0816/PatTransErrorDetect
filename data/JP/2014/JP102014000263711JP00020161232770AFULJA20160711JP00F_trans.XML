@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000263711JP00020161232770AFULJA20160711JP00F.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016123277" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123277</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123277</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000263711</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014263711</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>015</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A01K   1/015       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A01K1/015 B</business:FI>
+      <business:FClass>
+        <business:FTerm>2B101AA13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2B101AA20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2B101GB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2B101</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">用于动物排泄物的颗粒处理材料</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>三洋化成工業株式会社</base:Name>
+            <base:RegisteredNumber>000002288</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>京都府京都市東山区一橋野本町11番地の1</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>松本  吉正</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>京都市東山区一橋野本町11番地の1  三洋化成工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>小川  裕之</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>京都市東山区一橋野本町11番地の1  三洋化成工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>6</business:ClaimsCount>
+      <base:TotalPageCount>15</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明提供一种粒状动物排泄物用处理材料,其不仅宠物的排泄物的吸收快,排泄物不向处理材料的表面渗出,而且排泄物的吸收后的集中性良好,处理时的操作性优异。 使用含有交联聚合物(A)以及水不溶性基材(B)的动物排泄物用粒状处理材料,所述交联聚合物(A)是将含有水溶性乙烯基单体（a1）和/或通过水解而成为（a1）的乙烯基单体（a2）以及交联剂(c)的单体组合物聚合而得到的,来自上述(c)的结构单元具有在碱性条件下水解的基团。 无</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及宠物等的饲养时使用的动物排泄物用粒状处理材料。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">以往,作为处理猫、狗等宠物等的排泄物的动物排泄物用处理材料,使用将天然的砂和纸浆粉末等成形为粒子状、细片状等的粒状动物排泄物用处理材料。 它们在排泄物的吸收后,直接或根据需要而成块地被废弃,但存在由于吸收后的排泄物的渗出和由其引起的粘腻感的产生而操作性差这样的课题。 作为改善了排泄物吸收后的处理材料的操作性的动物排泄物用处理材料,已知有包含水不溶性的基材和具有特定的吸水性能和平均粒径且水可溶成分和残留水溶性单体的含量为特定值的吸水性树脂的动物排泄物用处理材料（参照专利文献1）。</base:Paragraphs>
+      <base:Paragraphs num="0003">然而,以往的排泄物用处理材料虽然消除了因排泄物向处理剂的表面渗出而导致的粘腻感的产生,但也失去了排泄物吸收后的处理材料彼此的凝聚性（以下,记载为集中性）,因此形成块进行处理时的操作性不充分。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2004-305141号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">本发明的目的在于提供一种动物排泄物用粒状处理材料,其不仅宠物的排泄物的吸收快、排泄物不向处理材料的表面渗出,而且排泄物吸收后的集中性良好、处理时的操作性优异。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">本发明人等为了解决上述课题而进行了深入研究,结果完成了本发明。 即,本发明为一种动物排泄物用粒状处理材料,其包含交联聚合物(A)以及水不溶性基材(B),所述交联聚合物(A)是将包含吸水性水溶性乙烯基单体（a1）和/或通过水解而成为（a1）的乙烯基单体（a2）以及交联剂(c)的单体组合物聚合而得到的,来自上述(c)的结构单元具有在碱性条件下水解的基团。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0007">本发明的动物排泄物用粒状处理材料由于宠物的排泄物的吸收快、排泄物不向处理材料的表面渗出、排泄物吸收后的集中性良好,因此处理时的操作性优异。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0008">本发明为一种动物排泄物用粒状处理材料,其包含交联聚合物(A)以及水不溶性基材(B),所述交联聚合物(A)是将包含水溶性乙烯基单体（a1）和/或通过水解而成为（a1）的乙烯基单体（a2）以及交联剂(c)的单体组合物聚合而得到的,来自上述(c)的结构单元具有在碱性条件下水解的基团。</base:Paragraphs>
+      <base:Paragraphs num="0009">作为水溶性乙烯基单体（a1）,没有特别限定, 羧基、 羧酸根基团、 磺基、 磺酸酯基、 具有氨基、氨基甲酰基、铵基或者单-、二-或三-烷基铵基的乙烯基单体等公知[例如日本专利第3648553号公报中公开的具有至少1个水溶性取代基和烯属不饱和基团的乙烯基单体（阴离子性乙烯基单体、非离子性乙烯基单体和阳离子性乙烯基单体等）、日本特开2003-165883号公报中公开的阴离子性乙烯基单体、非离子性乙烯基单体和阳离子性乙烯基单体以及日本特开2005-75982号公报中公开的具有选自由羧基、磺基、膦酰基、羟基、氨基甲酰基、氨基和铵基组成的组中的至少1种的乙烯基单体等]的乙烯基单体等。</base:Paragraphs>
+      <base:Paragraphs num="0010">通过水解而成为水溶性乙烯基单体（a1）的乙烯基单体（a2）没有特别限定,可以使用公知{例如日本专利第3648553号公报中公开的、具有至少1个通过水解而成为水溶性取代基的水解性取代基的乙烯基单体和日本特开2005-75982号公报中公开的、具有至少1个水解性取代基[1,3-氧代-2-氧杂丙烯（-CO-O-CO-）基、酰基和氰基等]的乙烯基单体等}的乙烯基单体等。 需要说明的是,“水溶性乙烯基单体”是指在25℃的水100g中至少溶解100g的乙烯基单体,“通过水解而成为水溶性乙烯基单体”是指通过水和根据需要的催化剂（酸或碱等）的作用而被水解而成为水溶性乙烯基单体。 上述（a2）的水解可以在包含上述（a1）和/或上述（a2）以及上述(c)的单体组合物的聚合中进行,也可以在聚合后进行,还可以在聚合中和聚合后这两者进行,从交联聚合物(A)的吸收性能的观点出发,优选在聚合后进行。</base:Paragraphs>
+      <base:Paragraphs num="0011">上述（a1）和上述（a2）中,从吸收性能等观点出发,优选碳原子数3～30的含乙烯基羧酸（盐）{不饱和单羧酸（盐）[（甲基）丙烯酸、巴豆酸、肉桂酸和它们的盐等]； 不饱和二羧酸（盐）（马来酸、富马酸、柠康酸、衣康酸及它们的盐等）； 以及上述不饱和二羧酸的单烷基（碳原子数1～8）酯（马来酸单丁酯、富马酸单丁酯、马来酸的乙基卡必醇单酯、富马酸的乙基卡必醇单酯、柠康酸单丁酯以及衣康酸二醇单酯等）等,进一步优选为不饱和二羧酸（盐）,特别优选为（甲基）丙烯酸（盐）,最优选为丙烯酸（盐）。需要说明的是,“（甲基）丙烯酸”是指“丙烯酸”和/或“甲基丙烯酸”,“···酸（盐）”是指“···酸”和/或“···酸盐”。</base:Paragraphs>
+      <base:Paragraphs num="0012">作为不饱和单羧酸盐和不饱和二羧酸盐,可以举出不饱和单羧酸和不饱和二羧酸的碱金属（锂、钠和钾等）盐、碱土金属（镁和钙等）盐以及铵（NH<base:Sub>4</base:Sub>）盐等。 这些盐中,从吸收性能等观点出发,优选为碱金属盐和铵盐,进一步优选为碱金属盐,特别优选为钠盐。</base:Paragraphs>
+      <base:Paragraphs num="0013">包含阴离子性乙烯基单体的盐（具有羧基和磺酸根合基的乙烯基单体等）作为上述（a1）的情况下,阴离子性乙烯基单体的盐的合计摩尔数相对于作为上述（a1）包含的阴离子性乙烯基单体及其盐的合计摩尔数的比例（以下,记载为阴离子性乙烯基单体的中和度）优选为30～100摩尔%、进一步优选为40～90摩尔%、特别优选为50～90摩尔%。 若为该范围,则吸收速度变得更良好而优选。</base:Paragraphs>
+      <base:Paragraphs num="0014">所述（a1）及所述（a2）可以使用任一种,也可以并用两种以上。 在并用上述（a1）和上述（a2）的情况下,这些单体组合物中的含量之比（摩尔比）[（a1）/（a2）]优选为75/25～99/1,进一步优选为85/15～95/5,特别优选为90/10～93/7,最优选为91/9～92/8。 在该范围内时,吸收性能变得更良好。</base:Paragraphs>
+      <base:Paragraphs num="0015">在包含上述（a1）、上述（a2）以及交联剂(c)的单体组合物中,可以进一步包含能够与它们共聚的其它乙烯基单体（a3）。</base:Paragraphs>
+      <base:Paragraphs num="0016">作为上述（a3）,没有特别限定, 公知的疏水性乙烯基单体（例如,日本专利第3648553号公报中公开的疏水性乙烯基单体、日本特开2003-165883号公报、日本特开2005-75982号公报中公开的乙烯基单体等）等, 碳原子数8～30的芳香族烯属单体{苯乙烯、α-甲基苯乙烯、乙烯基甲苯、羟基苯乙烯、乙烯基萘和苯乙烯的卤素取代物（二氯苯乙烯等）等）、碳原子数2～20的脂肪族烯属单体[烯烃（乙烯、丙烯、丁烯、异丁烯、戊烯、庚烯、二异丁烯、辛烯、十二碳烯和十八碳烯等）以及二烯烃（丁二烯和异戊二烯等）等]以及碳原子数5～15的脂环式烯属单体[单烯属不饱和单体（蒎烯、柠檬烯和茚等）以及聚乙烯性乙烯基单体（环戊二烯、双环戊二烯和亚乙基降冰片烯等）等]}等。</base:Paragraphs>
+      <base:Paragraphs num="0017">从吸收性能等观点出发,上述（a3）在单体组合物中的含有率（摩尔%）基于上述（a1）和上述（a2）的合计摩尔数优选为0～5摩尔%,进一步优选为0～3摩尔%,特别优选为0～2摩尔%,从吸收性能等观点出发,最优选上述（a3）单元的含量为0摩尔%。</base:Paragraphs>
+      <base:Paragraphs num="0018">本发明中,交联聚合物(A)在来自上述(c)的结构单元中具有在碱性条件下水解的基团（以下,记载为水解性基团）。 关于作为水解性基团而优选的基团,可举出酯基及酰胺基。 上述(c)可以在分子内具有水解性基团,另外,上述(c)与构成上述(A)的单体[上述（a1）和/或上述（a2）]反应而生成的基团可以为水解性基团。</base:Paragraphs>
+      <base:Paragraphs num="0019">作为分子内具有水解性基团的交联剂（c1）,可以举出具有2～10个（甲基）丙烯酰基的碳原子数8～40的（甲基）丙烯酸酯[乙二醇二（甲基）丙烯酸酯、三乙二醇二（甲基）丙烯酸酯、三羟甲基丙烷二（甲基）丙烯酸酯、三羟甲基丙烷三（甲基）丙烯酸酯、季戊四醇二（甲基）丙烯酸酯、季戊四醇三（甲基）丙烯酸酯和季戊四醇四（甲基）丙烯酸酯和聚甘油（聚合度3～13）聚丙烯酸酯等]和具有2～10个（甲基）丙烯酰基的碳原子数7～30的（甲基）丙烯酰胺[N,N’-亚甲基双丙烯酰胺和N,N’-（氧基双亚甲基）双丙烯酰胺等]等。</base:Paragraphs>
+      <base:Paragraphs num="0020">作为与前述（a1）和/或前述（a2）反应而生成的基团为水解性基团的交联剂（c2）,可以举出： 与上述（a1）所具有的羧基或羧酸酯基反应而形成酯基和/或酰胺基的反应型交联剂, 作为形成酯基的反应型交联剂,可举出： 碳数8～40的多元环氧化物[乙二醇二缩水甘油醚和聚乙烯（聚合度3～13）二缩水甘油醚等]和不具有（甲基）丙烯酰基或烯丙基的碳数3～40的多元醇[甘油和聚甘油（聚合度3～13）等]等,作为形成酰胺基的反应型交联剂,可以举出碳数4～22的多元异氰酸酯（亚乙基二异氰酸酯、2-异氰酸根合乙基-2,6-二异氰酸酯基己酸酯、1,3-或1,4-亚苯基二异氰酸酯、4,4’-二苯基甲烷二异氰酸酯和4,4’,4”-三苯基甲烷三异氰酸酯等）和碳数2～36的多元胺[乙二胺和聚（n=2～6）亚烷基（碳数2～6）聚（n=3～7）胺等]等。</base:Paragraphs>
+      <base:Paragraphs num="0021">上述（a1）和/或上述（a2）与交联剂（c2）的反应可以通过在上述(A)的聚合反应中的交联剂添加后的任意阶段,加热至100～230℃（优选为120～160℃）,使交联反应进行来进行。</base:Paragraphs>
+      <base:Paragraphs num="0022">所述（c1）和（c2）中, 从组织的角度来看, 优选为所述（c1）及碳数8～40的多元环氧化物, 进一步优选为N,N'-亚甲基双丙烯酰胺、乙二醇二（甲基）丙烯酸酯、三乙二醇二（甲基）丙烯酸酯、三羟甲基丙烷三（甲基）丙烯酸酯、季戊四醇三（甲基）丙烯酸酯和多元缩水甘油基化合物,特别优选为N,N'-亚甲基双丙烯酰胺、乙二醇二（甲基）丙烯酸酯、三乙二醇二（甲基）丙烯酸酯、三羟甲基丙烷三（甲基）丙烯酸酯和乙二醇二缩水甘油醚,最优选为N,N'-亚甲基双丙烯酰胺、三乙二醇二（甲基）丙烯酸酯、三羟甲基丙烷三（甲基）丙烯酸酯和乙二醇二缩水甘油醚。 上述(c)可以单独使用任一种作为结构单元,也可以组合使用两种以上作为结构单元。</base:Paragraphs>
+      <base:Paragraphs num="0023">从动物排泄用粒状处理材料的形状保持性等观点出发,交联剂(c)在单体组合物中的重量比例（重量%）相对于上述（a1）和上述（a2）的合计重量优选为0.05～2重量%,进一步优选为0.05～1重量%,特别优选为0.1～0.8重量%,最优选为0.2～0.6重量%。</base:Paragraphs>
+      <base:Paragraphs num="0024">交联聚合物(A)可以包含不具有水解性基团、且不与构成前述(A)的单体反应而生成水解性基团的交联剂(d)。 在包含所述(d)的情况下,可列举具有2个以上的乙烯基醚键的交联剂（d1）及具有2个以上的烯丙基醚键的交联剂（d2）等,就反应性等观点而言,优选为具有所述（d2）的交联剂。</base:Paragraphs>
+      <base:Paragraphs num="0025">作为上述（d1）,可举出乙二醇二乙烯基醚、1,4-丁二醇二乙烯基醚、1,4-环己烷二甲醇二乙烯基醚、1,6-己二醇二乙烯基醚、聚乙二醇二乙烯基醚（聚合度2～5）、双酚A二乙烯基醚、季戊四醇三乙烯基醚、山梨糖醇三乙烯基醚及聚甘油（聚合度3～13）聚乙烯基醚等。</base:Paragraphs>
+      <base:Paragraphs num="0026">作为所述（d2）, 在分子内具有2个烯丙基且不具有羟基的交联剂（d2-1）[二烯丙基醚、 1,4-环己烷二甲醇二烯丙基醚、 亚烷基（碳原子数2～5）二醇二烯丙基醚和聚乙二醇（重均分子量：100～4000）二烯丙基醚等]、 分子内具有2个烯丙基和1～5个羟基的交联剂（d2-2）[甘油二烯丙基醚、 三羟甲基丙烷二烯丙基醚和季戊四醇二烯丙基醚和聚甘油（聚合度2～5）二烯丙基醚等]、分子内具有3～10个烯丙基且不具有羟基的交联剂（d2-3）（三羟甲基丙烷三烯丙基醚、甘油三烯丙基醚、季戊四醇四烯丙基醚和四烯丙氧基乙烷等）以及分子内具有3～10个烯丙基和1～3个羟基的交联剂（d2-4）[季戊四醇三烯丙基醚和二甘油三烯丙基醚、山梨糖醇三烯丙基醚和聚甘油（聚合度3～13）聚烯丙基醚等]等。 上述(d)可以并用2种以上。</base:Paragraphs>
+      <base:Paragraphs num="0027">使用前述(d)时,优选为具有2个以上烯丙基醚键的交联剂（d2）,进一步优选为前述（d2-2）和前述（d2-4）,特别优选为前述（d2-2）,最优选为三羟甲基丙烷二烯丙基醚、季戊四醇三烯丙基醚和季戊四醇二烯丙基醚。</base:Paragraphs>
+      <base:Paragraphs num="0028">从吸收性能等观点出发,包含上述（a1）、上述（a2）以及上述(c)的单体组合物中的上述(d)的含量（重量%）优选为0～1.99重量%,进一步优选为0～0.95重量%。</base:Paragraphs>
+      <base:Paragraphs num="0029">交联聚合物(A)可以通过将包含前述（a1）和/或前述（a2）以及前述(c)的单体组合物利用公知的水溶液聚合（日本特开昭55-133413号公报等中记载的绝热聚合、薄膜聚合和喷雾聚合法等）和公知的悬浮聚合（日本特公昭54-30710号公报、日本特开昭56-26909号公报和日本特开平1-5808号公报等中记载的悬浮聚合和反相悬浮聚合等）等进行聚合而得到交联聚合物(A),将该交联聚合物(A)的含水凝胶根据需要进行加热干燥、粉碎而得到。</base:Paragraphs>
+      <base:Paragraphs num="0030">这些聚合方法中,从吸收性能等观点出发,优选水溶液聚合、反相悬浮聚合和乳液聚合,进一步优选水溶液聚合和反相悬浮聚合,特别优选反相悬浮聚合。</base:Paragraphs>
+      <base:Paragraphs num="0031">水溶液聚合可以通过将以前述（a1）、前述（a2）和前述(c)作为必须成分的单体组合物溶解于水而得到的单体组合物水溶液进行聚合来进行。 在进行水溶液聚合法的情况下,单体组合物水溶液所包含的单体组合物的浓度（重量%）优选为10～40重量%,更优选为10～30重量%。 如果为该范围,则不易发生单体自身的交联（自交联）,聚合时的温度控制变得容易,是优选的。 进行水溶液聚合时,可以组合使用水溶性有机溶剂（甲醇、乙醇、丙酮、甲乙酮、N,N-二甲基甲酰胺、二甲基亚砜和它们的2种以上的混合物等）。 在水溶液聚合中,水溶性有机溶剂的使用量以水的重量为基准优选为40%以下,进一步优选为30%以下。</base:Paragraphs>
+      <base:Paragraphs num="0032">反相悬浮聚合可以通过使包含前述（a1）、前述（a2）和前述(c)的单体组合物或单体组合物水溶液悬浮于公知的疏水性有机溶剂（己烷、甲苯、二甲苯、正己烷和正庚烷等）中进行聚合来进行。 在反相悬浮聚合中,在使单体组合物水溶液悬浮于疏水性有机溶剂中的情况下,作为单体组合物水溶液,可以使用与上述的水溶液聚合相同的单体组合物水溶液,可以并用的水溶性有机溶剂也相同。 单体组合物水溶液中所含的单体组合物的浓度相对于水溶液的合计重量优选为10～40重量%,进一步优选为10～30重量%。 若为该范围,则交联聚合物(A)的聚合度变得良好。</base:Paragraphs>
+      <base:Paragraphs num="0033">反相悬浮聚合可以在公知的表面活性剂和/或分散剂的存在下进行聚合。 作为表面活性剂,可举出山梨糖醇酐脂肪酸酯（山梨糖醇酐单硬脂酸酯等）、甘油脂肪酸酯（甘油单硬脂酸酯等）及蔗糖脂肪酸酯（蔗糖二硬脂酸酯等）等。 作为分散剂,可以使用分子内具有亲水性基团、且可溶于使单体水溶液分散的溶剂的高分子分散剂（例如,基于高分子分散剂的重量具有0.1～20重量%的亲水性基团、重均分子量为1,000～1,000,000的高分子分散剂）等,可以举出乙烯/丙烯酸共聚物的马来化物、乙烯/乙酸乙烯酯共聚物的马来化物和苯乙烯磺酸（盐）/苯乙烯共聚物等。 其中,从能够容易地调整交联聚合物粒子的方面出发,优选使用高分子分散剂作为分散剂。 从吸收性能的观点考虑,分散剂的添加量相对于疏水性有机溶剂的重量优选为0.1～20重量%,进一步优选为0.5～10重量%。</base:Paragraphs>
+      <base:Paragraphs num="0034">在反相悬浮聚合中,单体组合物水溶液相对于疏水性有机溶剂的重量的重量比率优选为0.1～2.0,进一步优选为0.3～1.0。 为这些范围时,交联聚合物的粒径的调整变得更容易。</base:Paragraphs>
+      <base:Paragraphs num="0035">包含上述（a1）和/或上述（a2）以及上述(c)的单体组合物的聚合可以使用自由基聚合引发剂进行聚合,也可以照射能量射线（放射线、紫外线和电子束等）进行聚合,优选使用自由基聚合引发剂进行聚合。</base:Paragraphs>
+      <base:Paragraphs num="0036">作为自由基聚合引发剂,可举出： 偶氮化合物[偶氮双异丁腈、偶氮双氰基戊酸和2,2’-偶氮双（2-脒基丙烷）盐酸盐等]、无机过氧化物（过氧化氢、过硫酸铵、过硫酸钾和过硫酸钠等）、有机过氧化物[过氧化苯甲酰、二叔丁基过氧化物、过氧化氢异丙苯、琥珀酸过氧化物和二（2-乙氧基乙基）过氧化二碳酸酯等]和氧化还原催化剂[由还原剂（亚硫酸铵、亚硫酸氢铵、抗坏血酸、碱金属的亚硫酸盐和碱金属的亚硫酸氢盐等）与氧化剂（碱金属的过硫酸盐、过硫酸铵、过氧化氢和有机过氧化物等）的组合形成的物质]等。 这些自由基聚合引发剂可以单独使用任一种,也可以并用两种以上。 自由基聚合引发剂的使用量基于上述（a1）和上述（a2）的合计重量优选为0.0005～5重量%,进一步优选为0.001～2重量%。</base:Paragraphs>
+      <base:Paragraphs num="0037">使用自由基聚合引发剂时的聚合温度根据所使用的引发剂的种类等进行调整,从上述(A)的聚合度等观点出发,优选为-10℃～100℃、进一步优选为-10℃～80℃。</base:Paragraphs>
+      <base:Paragraphs num="0038">聚合时的溶解氧量可以根据自由基引发剂的添加量等进行调整,从吸收性能等观点考虑,优选为0～2ppm（2×10<base:Sup>-4</base:Sup>重量%以下）,更优选为0～0.5 ppm（0.5×10<base:Sup>-4</base:Sup>重量%以下）。</base:Paragraphs>
+      <base:Paragraphs num="0039">包含（甲基）丙烯酸盐作为前述（a1）的情况下,阴离子性乙烯基单体的中和度优选为包含前述（a1）、前述（a2）以及前述(c)的单体组合物水溶液变得均匀的中和度。 前述（a2）与前述（a1）相比,在（甲基）丙烯酸盐水溶液中的溶解性低,因此,前述（a2）在单体组合物水溶液中分离,有时无法得到均匀的交联聚合物。 另外,（甲基）丙烯酸的中和度越低,则聚合度越大,吸收性能越容易变得良好。 在使用了需要量的（甲基）丙烯酸盐的情况下单体组合物水溶液分离的情况下,优选以0～30摩尔%的中和度进行聚合,在聚合后进一步中和而成为规定的中和度。 进一步优选在未中和的状态下聚合后设为规定的中和度。</base:Paragraphs>
+      <base:Paragraphs num="0040">在聚合中使用溶剂（有机溶剂和水等）的情况下,优选在聚合后除去溶剂。 在溶剂中包含有机溶剂（水溶性有机溶剂和疏水性有机溶剂）的情况下,除去后的有机溶剂的含量基于上述(A)的重量优选为0～10重量%,进一步优选为0～5重量%,特别优选为0～3重量%,最优选为0～1重量%。 若为该范围,则水性液体吸收性树脂颗粒的吸收性能变得更良好。</base:Paragraphs>
+      <base:Paragraphs num="0041">在溶剂使用水的情况下,除去后的水分基于上述(A)的重量优选为0～20重量%,进一步优选为1～10重量%,特别优选为2～9重量%,最优选为3～8重量%。 若为该范围,则吸收性能变得更良好。</base:Paragraphs>
+      <base:Paragraphs num="0042">有机溶剂的含量和水分由利用红外水分测定器[（株）KETT公司制JE400等：120±5℃、30分钟、加热前的气氛湿度50±10%RH、灯规格100V、40W]加热时的加热前后的测定试样的重量减量求出。</base:Paragraphs>
+      <base:Paragraphs num="0043">作为除去溶剂的方法,可以应用利用热风进行加热干燥的方法、利用鼓式干燥机等的薄膜干燥法、减压干燥法、冷冻干燥法、利用红外线的干燥法、倾析和过滤等。</base:Paragraphs>
+      <base:Paragraphs num="0044">其中,作为从通过水溶液聚合得到的含水凝胶中蒸馏除去溶剂的方法,可列举出透气干燥法（使热风通过层叠于冲孔金属、丝网上的含水凝胶而进行干燥的方法等）和透气干燥法（使热风在放入有含水凝胶的回转炉等旋转容器中通气循环而进行干燥的方法等）等,从能够在短时间内进行高效的干燥的方面出发,优选透气干燥。</base:Paragraphs>
+      <base:Paragraphs num="0045">在通过加热进行溶剂的除去的情况下,加热温度根据所使用的干燥机、干燥时间等进行调整,优选为50～150℃,进一步优选为80～130℃。 若加热温度为150℃以下,则不易发生由干燥时的热引起的所述(A)中的交联,吸收性能不会降低。 另外,为50℃以上时,干燥不需要长时间,是有效的。 干燥时间根据所使用的干燥机的机种和干燥温度等而不同,优选为5～300分钟,更优选为5～120分钟。</base:Paragraphs>
+      <base:Paragraphs num="0046">作为从通过反相悬浮聚合得到的含水凝胶中蒸馏除去溶剂的方法,优选利用倾析等方法将含水凝胶和有机溶剂固液分离后,进行减压干燥（减压度：100～50,000 Pa左右）或通气干燥。</base:Paragraphs>
+      <base:Paragraphs num="0047">通过聚合得到的含水凝胶可以在进行溶剂的馏去前根据需要进行切碎。 切碎后的凝胶的大小（最长直径）优选为50μm～10cm,进一步优选为100μm～2cm,特别优选为1mm～1cm。 若为该范围,则干燥工序中的干燥性变得更良好。</base:Paragraphs>
+      <base:Paragraphs num="0048">切碎可以通过公知的方法进行,可以使用通常的切碎装置（例如,Bexmill、切碎橡胶机、药用粉碎机、切碎机、冲击式粉碎机和辊式粉碎机）等进行切碎。</base:Paragraphs>
+      <base:Paragraphs num="0049">通过聚合而得到的上述(A)可以在干燥后进一步粉碎。 关于粉碎方法,没有特别限定,可以使用通常的粉碎装置（例如,锤式粉碎机、冲击式粉碎机、辊式粉碎机和喷射气流式粉碎机）等。</base:Paragraphs>
+      <base:Paragraphs num="0050">经粉碎的所述(A)在通过使用具备所需筛网的筛机（振动筛机、离心筛机等）的筛分等而能够进行粒度调整的筛分时,所述(A)的体积平均粒径（μm）优选为1～800,进一步优选为5～500,特别优选为10～300,尤其优选为15～200,最优选为15～110。 若为该范围,则吸收性能变得更良好。</base:Paragraphs>
+      <base:Paragraphs num="0051">对于前述(A)的体积平均粒径,使前述(A)分散于甲醇中,利用激光衍射式粒度分布测定装置[Microtrac（日机装株式会社制）]进行测定。</base:Paragraphs>
+      <base:Paragraphs num="0052">关于进行了粒度调整的情况下的所述(A)中所含的微粒的含量,从吸收性能等观点出发,基于所述(A)的合计重量,106μm以下（优选为150μm以下）的微粒的含有率优选为5重量%以上,进一步优选为10重量%以上,特别优选为20重量%以上。 另外,微粒的含量可以通过上述的激光衍射式粒度分布测定装置求出。</base:Paragraphs>
+      <base:Paragraphs num="0053">对上述(A)的形状没有特别限定,可列举出无定形破碎状、鳞片状、珍珠状和米粒状等。 其中,从粒状动物排泄物用处理材料的强度变得良好的方面出发,优选无定形破碎状、珍珠状和米粒状。</base:Paragraphs>
+      <base:Paragraphs num="0054">作为水不溶性基材(B),可举出无机粒子、无机多孔质体、无机纤维、有机粒子、有机短纤维、纸切碎物、有机多孔质体、有机发泡体及它们的造粒物等,其中,从整理性的观点出发,优选为无机粒子、有机粒子、有机短纤维、纸切碎物及它们的造粒物,进一步优选为选自由无机粒子、有机粒子、有机短纤维及纸切碎物组成的组中的至少1种造粒物。 它们可以单独使用1种,也可以混合使用2种以上。</base:Paragraphs>
+      <base:Paragraphs num="0055">作为无机粒子,可举出土壤、砂、粉煤灰、硅藻土、粘土、滑石、高岭土、膨润土、白云石、碳酸钙、氧化铝及硅砂等。 作为无机质多孔体,可以举出填充吨、多孔质陶瓷、熏炭、烧成蛭石、浮石、火山灰、沸石和白砂球等。 作为无机质纤维,可列举出岩棉和玻璃纤维等,作为无机质发泡体,可列举出珍珠岩等。</base:Paragraphs>
+      <base:Paragraphs num="0056">作为有机粒子,可以举出植物的干燥粉末（椰壳、稻壳、锯末、木屑和木粉以及花生的壳、柑橘的壳和椰子等的实干燥粉体等）、合成树脂粉末（聚乙烯粉末、聚丙烯粉末、乙烯-乙酸乙烯酯共聚物粉末等）以及橡胶粉末等。 作为有机短纤维,可以举出天然纤维（木棉、稻草、草炭、泥炭苔、羊毛等）、合成纤维（人造丝、乙酸酯、聚酰胺、聚酯、丙烯酸等）、纸浆[机械纸浆（来自圆木的碎木纸浆和石棉法碎木纸浆等）、化学纸浆（亚硫酸纸浆、苏打纸浆、硫酸盐纸浆、硝酸纸浆和氯纸浆等）和废纸再生纸浆等]等。 作为纸切碎物,可列举出使用公知的机械（粉碎机等）将对上述纸浆进行造纸而得到的纸制品（报纸、杂志和纸板等）等裁断而得到的切碎物等。 作为有机多孔体,可以举出活性炭和造纸污泥等,作为有机发泡体,可以举出谷物（玉米等）和合成树脂（聚苯乙烯、聚乙烯醇缩醛、橡胶、聚乙烯、聚丙烯、聚氨酯树脂等）的发泡体等。</base:Paragraphs>
+      <base:Paragraphs num="0057">上述(B)的形状不受等限制,在为粒子状的情况下,粒子的长径优选为1～1000μm,进一步优选为10～500μm,在上述(b)的形状为纤维状的情况下,纤维长度优选为0.001～20mm,进一步优选为0.01～10mm。</base:Paragraphs>
+      <base:Paragraphs num="0058">作为制造上述(B)的造粒物的方法,可以举出将上述(B)与少量的水一起机械搅拌而造粒的方法（搅拌造粒法）和通过加压成型进行造粒的方法（加压成型法）等。</base:Paragraphs>
+      <base:Paragraphs num="0059">搅拌造粒法可以通过使用公知的机械混合装置（诺塔混合机、螺带混合机、锥形搅拌机、砂浆搅拌机和万能混合搅拌机等）将上述(B)与少量的水一起搅拌而得到造粒物。 作为添加水的方法,可举出在搅拌下进行喷雾的方法、在搅拌下吹入水蒸气的方法及将上述(B)保持在高湿度下而使其吸湿的方法等。 在搅拌造粒法中,从造粒强度和急救性能等观点出发,可以根据需要并用无机盐、粘合剂（淀粉、CMC和瓜尔胶等）、低分子二醇（乙二醇和甘油等）、水溶性高分子（聚乙烯醇和聚乙二醇等）和表面活性剂等。</base:Paragraphs>
+      <base:Paragraphs num="0060">在搅拌造粒法中,添加的水的量根据上述(B)的种类进行调整,从造粒强度等观点出发,基于上述(B)的重量,优选为1～100重量%,进一步优选为2～50重量%。 搅拌时的温度条件没有特别限定,通过在加热至40～90℃的状态下进行,造粒速度和造粒强度等变得良好,是优选的。</base:Paragraphs>
+      <base:Paragraphs num="0061">作为加压成型法,可以举出根据需要使用适当的形状、大小的模具等将前述(B)加压成型为片状、棒状、块状和颗粒状等的方法。 利用加压成型法制作的造粒物可以进行裁切或粉碎成适当的大小。 加压成型时的温度和湿度没有特别限定,通常在常温下进行,也可以在进行了加温（例如30～300℃）和加湿（例如50～100%RH）的条件下进行。 加压成型时的压力可以根据基材的种类、粒度、性质等进行调整,优选为1～3,000 kg/cm<base:Sup>2</base:Sup>,更优选为10～2,000 kg/cm<base:Sup>2</base:Sup>。</base:Paragraphs>
+      <base:Paragraphs num="0062">加压成型可以使用辊式加压成型机（压实机和压块机等）、活塞式加压成型机、螺杆式加压成型机和孔皿挤出式成型机等公知的成型机来进行。</base:Paragraphs>
+      <base:Paragraphs num="0063">作为造粒物的形状,可举出球状、圆筒状、板状、岩状、长方体状、圆锥状、棱锥状及棒状等形状。 大小在任一形状的情况下均以最大直径或最大长度计为0.1～30mm,优选为0.3～20mm,进一步优选为0.5～15mm,特别优选为1～10mm。</base:Paragraphs>
+      <base:Paragraphs num="0064">作为本发明的动物排泄物用粒状处理材料,可列举出上述(A)和上述(B)的单纯混合型处理材料、将上述(A)和未进行造粒的上述(B)混合造粒而成的造粒型处理材料、以及使上述(A)附着于上述(B)的表面而成的表面附着型处理材料等,优选造粒型处理材料和表面附着型处理材料。</base:Paragraphs>
+      <base:Paragraphs num="0065">单纯混合型处理材料通过将所述(A)和所述(B)在公知的机械混合装置中混合而得到所述(A)和所述(b)的混合。 需要说明的是,前述(A)与前述(B)混合时,可以根据需要组合使用吸水促进材料和前述(A)以外的吸水材料。 作为吸水促进材料,可以使用能够利用毛细管现象快速保持液体的无机、有机的纤维状物质等。 作为上述(A)以外的吸水材料,只要是在动物排泄物用处理基材中通常使用的吸水材料就可以没有限制地使用,可以举出聚乙烯醇和聚丙烯酰胺等水溶性高分子等。 吸水促进材料和(A)以外的吸水材料的大小优选为1～500μm。</base:Paragraphs>
+      <base:Paragraphs num="0066">造粒型处理材料可以使用前述(A)和未进行造粒的前述(B),利用与前述(B)的制造造粒物的方法同样的方法得到。 造粒型处理材料中,可以根据需要组合使用粘结剂、吸水促进材料和前述(A)以外的吸水材料。 作为粘合剂,只要是动物排泄物用处理基材中通常使用的粘合剂就可以没有限制地使用,优选淀粉、CMC和瓜尔胶等粘合剂。 作为吸水促进材料和前述(A)以外的吸水材料,可以使用与前述相同的吸水材料。 粘合剂、吸水促进材料及(A)以外的吸水材料的大小优选为1～500μm。</base:Paragraphs>
+      <base:Paragraphs num="0067">表面附着型处理材料可以通过使前述(A)附着于前述(B)的表面而得到,可以通过将前述(A)、前述(B)和粘结成分（水和粘结剂等）在公知的机械混合装置中混合而得到。 作为粘结成分,优选水,水分量基于上述(B)的重量优选为1～100重量%,进一步优选为2～50重量%。 若所述(B)具有水分,则该水分成为粘结成分,所述(A)固着于造粒物的表面,但若水分超过100重量%,则所述(A)成为凝胶状,粘接力降低,因此,</base:Paragraphs>
+      <base:Paragraphs num="0068">在本发明的动物排泄物用粒状处理材料中,上述(A)与上述(B)的重量比率没有特别限定,上述(A)的重量相对于上述(B)的重量优选为1～50重量%,进一步优选为3～30重量%。 如果为1重量%以上,则动物的尿等排泄物的吸收速度变快,另外处理剂彼此的集中性提高,容易凝固成球状,如果为50重量以下,则经济,是优选的。</base:Paragraphs>
+      <base:Paragraphs num="0069">在本发明的动物排泄物用粒状处理材料中,可以根据需要含有除臭剂、芳香剂、杀菌剂、防霉剂、防腐剂、表面活性剂、通过吸收尿而变色的变色剂、对于猫的母鸡等这样的宠物喜欢的诱因物质和增量剂等其它添加剂。 在含有其它添加剂的情况下,其含量基于动物排泄用处理基材的重量通常含有0.01～10重量%。 作为其他添加剂的添加顺序,可以预先添加到上述(A)、上述(B)或上述(B)的造粒物中,也可以在将上述(A)与上述(B)或上述(B)的造粒物混合的工序中添加,还可以与制造的动物排泄物用处理材料添加混合。</base:Paragraphs>
+      <base:Paragraphs num="0070">本发明的动物排泄物用粒状处理材料例如可以在容器中铺满本发明的粒状处理材料,以简易厕所的形式使用。 如果猫、狗等动物在该厕所排泄,则迅速吸收排泄物的水分,另外吸水的部分的粒状处理材料彼此相互粘附而呈一个橡胶状的块,因此能够容易地抓取该部分,在废弃方面是好便。</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0071">以下,通过实施例对本发明进行具体说明,但本发明并不限定于这些实施例。 另外,以下,只要没有特别规定,%表示重量%。</base:Paragraphs>
+        <base:Paragraphs num="0072">&lt;制造例1&gt; 
+在2升的烧杯中放入丙烯酸300g、三羟甲基丙烷三丙烯酸酯1.35 g（相对于丙烯酸为0.45%）及离子交换水700g并搅拌混合而制备丙烯酸水溶液,冷却至4℃。 将丙烯酸水溶液放入1.5升的绝热聚合槽中,向水溶液中通入氮气,使丙烯酸水溶液中的溶解氧量为0.1 ppm以下。 在该绝热聚合层中添加0.1%过氧化氢水溶液12g、0.1%L-抗坏血酸水溶液12g和浓度2%的2,2'-偶氮双[2-甲基-N-（2-羟基乙基）-丙酰胺]（和光纯药工业株式会社制、商品名：VA-086）水溶液5.0 g,持续向水溶液中通入氮气直至聚合开始。 聚合开始,确认丙烯酸水溶液的粘度开始上升后,停止通氮气,聚合6小时。 用打点温度计测定丙烯酸水溶液的温度,结果最高到达温度为97℃。 将聚合后得到的含水凝胶从绝热聚合槽中取出,使用小型绞肉机（Royal公司制）将凝胶细分为3～10mm粗细的面条状后,加入40%氢氧化钠（试剂特级）水溶液260g（相当于丙烯酸的中和度75摩尔%）,将含水凝胶中和。 将中和后的含水凝胶以5cm的厚度层叠在网眼850μm的SUS制的筛上,使用小型透气干燥机（井上金属株式会社制）使含水凝胶在120℃的热风中透气1小时,将含水凝胶干燥。 使用烹饪混合机将干燥物粉碎,使用筛采集500μm（40目）以下的粒径的物质,得到交联聚合物（A1）。 交联聚合物（A1）的体积平均粒径为300μm。 </base:Paragraphs>
+        <base:Paragraphs num="0073">&lt;制造例2&gt; 
+在制造例1中,将“500μm（40目）以下的粒径”变更为“45μm以下（350目）的粒径”,除此以外,与制造例1同样地进行,得到交联聚合物（A2）。 交联聚合物（A2）的体积平均粒径为30μm。 </base:Paragraphs>
+        <base:Paragraphs num="0074">&lt;制造例3&gt; 
+在制造例1中,将“500μm（40目）以下的粒径”变更为“20μm以下（635目）”,除此以外,与制造例1同样地进行,得到交联聚合物（A3）。 交联聚合物（A3）的体积平均粒径为15μm。 </base:Paragraphs>
+        <base:Paragraphs num="0075">&lt;制造例4&gt; 
+在制造例1中,将“三羟甲基丙烷三丙烯酸酯1.35 g（相对于丙烯酸为0.45%）”变更为“N,N'-亚甲基双丙烯酰胺0.6 g（相对于丙烯酸为0.2%）”,将“500μm（40目）以下的粒径”变更为“180μm以下（83目）的粒径”,除此以外,与制造例1同样地操作,得到交联聚合物（A4）。 交联聚合物（A4）的体积平均粒径为110μm。 </base:Paragraphs>
+        <base:Paragraphs num="0076">&lt;制造例5&gt; 
+在制造例1中,将“三羟甲基丙烷三丙烯酸酯1.35 g（相对于丙烯酸为0.45%）”变更为“乙二醇二缩水甘油醚1.8 g（相对于丙烯酸为0.6%）”,将“500μm（40目）以下的粒径”变更为“300μm以下（50目）”,除此以外,与制造例1同样地进行,得到交联聚合物（A5）。 交联聚合物（A5）的体积平均粒径为200μm。 </base:Paragraphs>
+        <base:Paragraphs num="0077">&lt;制造例6&gt; 
+在制造例1中,将“三羟甲基丙烷三丙烯酸酯1.35 g（相对于丙烯酸为0.45%）”变更为“三羟甲基丙烷三丙烯酸酯0.3 g（相对于丙烯酸为0.1%）及季戊四醇三烯丙基醚0.15 g（相对于丙烯酸为0.05%）”,将“500μm（40目）以下的粒径”变更为“45μm以下（350目）的粒径”,除此以外,与制造例1同样地进行,得到交联聚合物（A6）。 交联聚合物（A6）的体积平均粒径为30μm。 </base:Paragraphs>
+        <base:Paragraphs num="0078">&lt;制造例7&gt; 
+在制造例6中,将三羟甲基丙烷三丙烯酸酯的添加量“0.3 g（相对于丙烯酸0.1%）”变更为“0.15 g（相对于丙烯酸0.05%）”,将季戊四醇三烯丙基醚的添加量“0.15 g（相对于丙烯酸0.05%）”变更为“0.12 g（相对于丙烯酸0.04%）”,除此以外,与制造例6同样地得到交联聚合物（A7）。 交联聚合物（A7）的体积平均粒径为30μm。 </base:Paragraphs>
+        <base:Paragraphs num="0079">&lt;制造例8&gt; 
+在制造例1中,将三羟甲基丙烷三丙烯酸酯的添加量“1.35 g（相对于丙烯酸为0.45%）”变更为“9.0 g（相对于丙烯酸为3.0%）”,除此以外,与制造例1同样地得到交联聚合物（A8）。 交联聚合物（A8）的体积平均粒径为300μm。 </base:Paragraphs>
+        <base:Paragraphs num="0080">&lt;比较制造例1&gt; 
+将市售的羧甲基纤维素（CMC2450、大赛璐化学工业株式会社制）作为比较用的交联聚合物（HA1）。 </base:Paragraphs>
+        <base:Paragraphs num="0081">&lt;比较制造例2&gt; 
+在制造例1中,将三羟甲基丙烷三丙烯酸酯1.35 g（相对于丙烯酸为0.45%）变更为季戊四醇三烯丙基醚9.0 g（相对于丙烯酸为3.0%）,除此以外,与制造例1同样地得到了比较用的交联聚合物（HA2）。 交联聚合物（HA2）的体积平均粒径为300μm。 </base:Paragraphs>
+        <base:Paragraphs num="0082">&lt;实施例1&gt; 
+将市售的膨润土“KUNIGEL V-1”（KUNIMINE INDUSTRIES CO.,LTD.制）500g从外部放入保温于约50℃的内容量2升的小型万能混合机中,一边以100rpm的速度进行搅拌,一边向其中一点一点地添加加热至约50℃的50ml的水,进行造粒。 暂时停止搅拌,确认到形成了约2～6mm的硬的造粒物后,向该造粒物500g中添加制造例1中得到的交联聚合物（A1）50g,再次以100rpm的速度搅拌,使其附着于造粒物表面,得到本发明的动物排泄物用处理材料（S1）。 </base:Paragraphs>
+        <base:Paragraphs num="0083">&lt;实施例2～8、比较例1和2&gt; 
+在实施例1中,将交联聚合物（A1）变更为交联聚合物（A2）～（A8）和比较用交联聚合物（HA1）和（HA2）,除此以外,与实施例1同样地操作,得到本发明的动物排泄物用处理材料（S2）～（S8）和比较用处理材料（HS1）和（HS2）。 </base:Paragraphs>
+        <base:Paragraphs num="0084">对于动物排泄物用处理材料（S1）～（S8）和比较用处理材料（HS1）和（HS2）,利用以下的方法测定吸收特性、吸收后的集中性和凝集体的强度,将结果记载于表1。</base:Paragraphs>
+        <base:Paragraphs num="0085">&lt;吸收特性：吸收速度&gt; 
+将动物排泄物用处理材料（S1）～（S8）和比较用处理材料（HS1）和（HS2）各400g取到烧杯（容量1L）中,使表面水平。 在50ml的一次性注射器（Terumo公司制）中采集人工尿30ml,将其朝向烧杯内的处理材料的表面中央部从约2cm的高度经5秒垂直地放出。 通过目视测定人工尿被完全吸收为止的时间,作为吸收特性。 该值越小,意味着吸收特性越优异。 需要说明的是,人工尿是将尿素（80.0份）、食盐（32.0份）、硫酸镁七水合物（3.2份）、氯化钙二水合物（1.2份）和离子交换水（3883.6份）均匀溶解而制作的。 </base:Paragraphs>
+        <base:Paragraphs num="0086">&lt;整理性&gt; 
+在吸收特性的测定中,在人工尿被完全吸收后5分钟后用抹刀舀取通过人工尿的吸收而产生的凝集体,测定其中具有最大长度为39mm以上的大小的凝集体的最大长度,作为整体性。 该值为39mm以上且越小,意味着整理性越好。 结块的最大长度小于39mm时,意味着难以产生结块,整理性差。 </base:Paragraphs>
+        <base:Paragraphs num="0087">&lt;凝集体的强度&gt; 
+使用JIS Z 8801-1中规定的公称网眼为45mm的金属制网筛,依据JIS A1102：2014骨料的筛分试验方法,手动施加上下移动和水平移动,对上述的集中性的试验中使用的凝集体进行筛分。 通过数学式（1）算出筛分后残留在筛子上的凝集体的残留率,作为凝集体的强度的指标。 凝聚体的残存率越高,意味着凝聚体的强度越高。 [凝集体的残留率（重量%）]=（振荡后残留于筛子上的凝集体的重量）÷（振荡前的凝集体的重量）×100（1） </base:Paragraphs>
+        <base:Paragraphs num="0088">
+          <base:TableDetails num="0001">
+            <base:Image id="000002" he="96" wi="170" file="2016123277_000002.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0089">本发明的动物排泄物用粒状处理材料对排泄物的吸收快,吸收后颗粒彼此容易聚集,形成的凝集体的强度高。</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0090">本发明的动物排泄物用粒状处理材料除了宠物等的排泄物的吸收快、排泄物不向处理材料的表面渗出以外,排泄物的吸收后的集中性良好,所形成的凝集体的强度高。 因此,处理时的操作性优异,作为猫砂等动物排泄物用处理材料是有用的。</base:Paragraphs>
+    </business:IndustrialApplicability>
+  </business:Description>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种动物排泄物用粒状处理材料,其含有交联聚合物(A)以及水不溶性基材(B),所述交联聚合物(A)是将含有水溶性乙烯基单体（a1）和/或通过水解而成为（a1）的乙烯基单体（a2）以及交联剂(c)的单体组合物聚合而得到的,来自所述(c)的结构单元具有在碱性条件下水解的基团。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的动物排泄物用粒状处理材料,其中,所述在碱性条件下发生水解的基团为酯基或酰胺基。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>如权利要求1或2所述的动物排泄物用粒状处理材料,其中,上述单体组合物中的上述(c)的重量比例相对于上述（a1）和上述（a2）的合计重量为0.05～2重量%。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1～3中任一项所述的动物排泄用粒状处理剂,其中,所述(c)为选自（甲基）丙烯酸酯、（甲基）丙烯酰胺和多元环氧化物中的至少1种。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>如权利要求1～4中任一项所述的动物排泄物用粒状处理材料,其中,所述(B)为选自无机粒子、有机粒子、有机短纤维和纸切碎物中的至少1种或它们的造粒物。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>如权利要求1～5中任一项所述的动物排泄物用粒状处理材料,其中,所述(A)附着于所述(B)的表面。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000555208JP00020205171630AFULJA20200611JP00V.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020517163" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020517163</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020517163</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000555208</base:DocNumber>
+        <base:Date>20180326</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019555208</base:DocNumber>
+        <base:Date>20180326</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>62/483,943</base:DocNumber>
+        <base:Date>20170410</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>15/934,784</base:DocNumber>
+        <base:Date>20180323</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102017000483943</base:DocNumber>
+        <base:Date>20170410</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="2">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102018000934784</base:DocNumber>
+        <base:Date>20180323</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>27</business:MainGroup>
+        <business:Subgroup>26</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04L  27/26        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20090101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>72</business:MainGroup>
+        <business:Subgroup>04</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W  72/04        20090101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H04L27/26 114</business:FI>
+      <business:FI type="secondary">H04L27/26 113</business:FI>
+      <business:FI type="secondary">H04L27/26 420</business:FI>
+      <business:FI type="secondary">H04L27/26 410</business:FI>
+      <business:FI type="secondary">H04W72/04 136</business:FI>
+      <business:FI type="secondary">H04W72/04 131</business:FI>
+      <business:FClass>
+        <business:FTerm>5K067DD25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE71</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5K067</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">无线通信中的参考信令方案</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>クゥアルコム・インコーポレイテッド</base:Name>
+            <base:RegisteredNumber>595020643</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アベディニ、ナビド</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>リー、フン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ルオ、タオ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>サディク、ビラル</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>イスラム、ムハンマド・ナズムル</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="6" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>スブラマニアン、サンダー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国、カリフォルニア州  92121－1714、サン・ディエゴ、モアハウス・ドライブ  5775</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>蔵田  昌俊</base:Name>
+            <base:RegisteredNumber>100108855</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>井関  守三</base:Name>
+            <base:RegisteredNumber>100158805</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>岡田  貴志</base:Name>
+            <base:RegisteredNumber>100112807</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2018024352</base:DocNumber>
+        <base:Date>20180326</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018191006</base:DocNumber>
+        <base:Date>20181018</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>74</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>描述了用于无线通信的方法、系统和设备,其提供可以在其中发送同步信号(SS)和广播信道传输的同步信号块。 可以使用SS传输、参考信号传输或其组合来解调广播信道传输。 可以在SS块时间资源的子集中发送广播信道传输,并且可以在SS块时间资源的另一个子集中发送同步信号。 可以使用广播信道时间资源中的音调来发送参考信号,并且可以针对在SS传输带宽之外的广播信道传输带宽的部分以更高的密度来发送参考信号。 可以提供参考信号传输的波形和由参考信号传输提供的信息。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="81" wi="53" file="2020517163_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本专利申请要求Abedini等人于2018年3月23日提交的题为“Reference Signal Schemes in Wireless Communications（无线通信中的参考信号方案）”的美国专利申请No.15/934,784和Abedini等人于2017年4月10日提交的题为“Reference Signal Schemes in Wireless Communications（无线通信中的参考信号方案）”的美国临时专利申请No.62/483,943的优先权,每个申请均转让给本申请的受让人。</base:Paragraphs>
+      <base:Paragraphs num="0002">[0002]下文总体上涉及无线通信,并且更具体地涉及无线通信中的参考信号方案。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0003">[0003]无线通信系统被广泛部署以提供各种类型的通信内容,诸如语音、视频、分组数据、消息传送和广播。 这些系统能够通过共享可用的系统资源（例如,时间、频率和功率）来支持与多个用户的通信。 此类多址系统的示例包括码分多址(CDMA)系统、时分多址(TDMA)系统、频分多址(FDMA)系统和正交频分多址(OFDMA)系统（例如,长期演进(LTE)系统或新无线电(NR)或5G系统）。</base:Paragraphs>
+      <base:Paragraphs num="0004">[0004]在一些示例中,无线多址通信系统可以包括多个基站,每个基站同时支持多个通信设备（可能被称为用户装备(UE)）的通信。 在LTE或高级LTE（LTE-A）网络中,一个或多个基站的集合可以定义eNodeB（eNB）。 在其它示例中（例如,在NR或5G网络中）,无线多址通信系统可以包括与多个接入节点控制器(ANC)通信的多个智能无线电头端(RH),其中与ANC通信的一个或多个RH的集合定义基站（例如,eNB或gNB）。 基站可以在下行链路(DL)信道（例如,用于从基站到UE的传输）和上行链路(UL)信道（例如,用于从UE到基站的传输）上与一组UE进行通信。</base:Paragraphs>
+      <base:Paragraphs num="0005">[0005]有时,UE可能需要执行初始接入（或初始捕获）过程以获得对无线网络的接入。 作为初始接入过程的一部分,UE可能需要搜索由诸如无线网络的基站之类的网络接入设备发送的同步信道。 UE还可以捕获各种系统信息项,诸如包括在主信息块(MIB)或一个或多个系统信息块（例如,SIB1、SIB2等）中,其可以在物理广播信道(PBCH)传输中从基站发送。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <base:Paragraphs num="0006">[0006]所描述的技术涉及支持无线通信中的参考信号方案的改进的方法、系统、设备或装置。 一般而言,所描述的技术提供了同步信号(SS)和物理广播信道(PBCH)传输可以在其上发送的同步信号块。 在一些情况下,可以使用SS传输、参考信号传输或其组合来解调PBCH传输。 在一些示例中,PBCH传输可以在SS块时间资源的子集中（例如,在SS块的两个码元中）被发送,并且同步信号（例如,主同步信号(PSS)和副同步信号(SSS)）可以在SS块时间资源的另一子集中被发送。</base:Paragraphs>
+      <base:Paragraphs num="0007">[0007]在一些情况下,可以使用PBCH时间资源中的频调来发送参考信号（例如,解调参考信号(DMRS)）,并且可以选择频调的位置以使用相对较少的传输资源来提供高效解调。 在一些情况下,PBCH传输的带宽可以大于SS传输的带宽,并且可以针对PBCH传输带宽的在SS传输带宽之外的部分以更高的密度来发送DMRS。 在一些情况下,不同的DMRS音调可以用于不同的PBCH时间资源。</base:Paragraphs>
+      <base:Paragraphs num="0008">[0008]在一些情况下,可以在PBCH时间资源上（例如,在包含PBCH传输的两个或更多个码元上）配置DMRS波形。 在一些示例中,相同的DMRS序列可以用于每个PBCH符号,并且每个PBCH符号可以包括相同数量的DMRS频调。 在其它示例中,PBCH码元可包括跨越PBCH码元的共用DMRS频调子集以及跨越PBCH码元的不同DMRS频调子集。 在这样的示例中,公共DMRS频调可以共享相同的DMRS序列,而另一个DMRS频调可以具有不同的序列。 在又一示例中,PBCH传输的不同符号的DMRS波形可以完全不同。 在一些示例中,可以通过在不同PBCH时间资源之间拆分长基序列（例如,长Zadoff-Chu序列、m序列或其循环移位）来构造不同的DMRS序列。 在一些示例中,参考信号序列（例如,DMRS序列）、音调位置、或其组合可以用于携带以下各项中的一项或多项：标识信息、定时信息、配置信息、或其任意组合。</base:Paragraphs>
+      <base:Paragraphs num="0009">[0009]描述了一种无线通信的方法。 该方法包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者,识别第二无线资源集合内的参考信号资源的位置,其中,第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中,第二无线资源集合包括跨越第二带宽的与第一带宽的至少一部分交叠的第二频率资源集合；</base:Paragraphs>
+      <base:Paragraphs num="0010">[0010]描述了一种用于无线通信的装置。 该装置包括： 用于标识用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元； 用于至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者,识别第二无线资源集合内的参考信号资源的位置的单元,其中,第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中,第二无线资源集合包括跨越第二带宽的与第一带宽的至少一部分交叠的第二频率资源集合,以及用于使用参考信号资源接收参考信号传输的单元。</base:Paragraphs>
+      <base:Paragraphs num="0011">[0011]描述了另一种用于无线通信的装置。 该装置可以包括处理器、与该处理器处于电子通信的存储器、以及存储在该存储器中的指令。 所述指令识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者,识别第二无线资源集合内的参考信号资源的位置,其中,第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中,第二无线资源集合包括跨越第二带宽的与第一带宽的至少一部分交叠的第二频率资源集合,以及使处理器接收使用参考信号资源的参考信号传输。</base:Paragraphs>
+      <base:Paragraphs num="0012">[0012]描述了一种用于无线通信的非瞬态计算机可读介质。 非暂时性计算机可读介质包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 可包括可操作用于使处理器至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者来识别第二无线资源集合内的参考信号资源的位置的指令,其中第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中第二无线资源集合包括跨越第二带宽的与第一带宽的至少一部分交叠的第二频率资源集合,以及使用参考信号资源接收参考信号传输。</base:Paragraphs>
+      <base:Paragraphs num="0013">[0013]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二带宽可以大于第一带宽。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,识别参考信号资源的位置包括：识别跨第二频率资源集合非均匀地分布的参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0014">[0014]在上述方法、装置和非暂时性计算机可读介质的一些示例中,频率资源的第二集合可以包括可以与第一带宽重叠的频率资源的第一子集和可以不与第一带宽重叠的频率资源的第二子集,并且频率资源的第二子集可以具有比频率资源的第一子集更高的参考信号资源密度。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,频率资源的第一子集可以不具有参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0015">[0015]在上述方法、装置和非暂时性计算机可读介质的一些示例中,第二无线资源集合可以包括第一时间资源子集和第二时间资源子集,并且参考信号资源可以跨第一时间资源子集和第二时间资源子集非均匀地分布。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第二无线资源集合包括所述时间资源的第一子集和所述时间资源的第二子集,所述时间资源的所述第一子集内的所述参考信号资源占用与所述时间资源的所述第二子集内的所述参考信号资源的至少一部分不同的频率资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第二无线资源集合包括所述时间资源的第一子集和所述时间资源的第二子集,其中,所述参考信号资源的在所述时间资源的所述第一子集和所述时间资源的所述第二子集内的至少一部分占用公共频率音调。</base:Paragraphs>
+      <base:Paragraphs num="0016">[0016]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,PBCH资源包括时间资源的第一符号和时间资源的第三符号,同步信号资源包括时间资源的第二符号和时间资源的第四符号,时间资源的第二符号位于时间资源的第一符号与时间资源的第三符号之间,时间资源的第四符号位于时间资源的第三符号之后。</base:Paragraphs>
+      <base:Paragraphs num="0017">[0017]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,所述时间资源的第二符号可以用于对副同步信号的传输,并且所述时间资源的第四符号可以用于对主同步信号的传输。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,参考信号传输包括DMRS传输。</base:Paragraphs>
+      <base:Paragraphs num="0018">[0018]在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第二无线资源集合包括所述时间资源的第一子集和所述时间资源的第二子集,其中,所述参考信号资源的位置是在所述时间资源的所述第一子集和所述时间资源的所述第二子集内识别的。 上述方法、装置和非暂时性计算机可读介质的一些示例还可以包括用于以下操作的过程、特征、单元或指令：至少部分地基于参考信号资源的位置来确定参考信号传输的波形。 以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例可进一步包括用于以下操作的过程、特征、装置、或指令：至少部分地基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计。</base:Paragraphs>
+      <base:Paragraphs num="0019">[0019]以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例可进一步包括用于以下操作的过程、特征、装置、或指令：至少部分地基于所接收的参考信号传输来确定发射机标识、定时信息、或同步信号传输配置中的一者或多者。</base:Paragraphs>
+      <base:Paragraphs num="0020">[0020]描述了一种无线通信的方法。 该方法包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 识别参考信号资源在时间资源的第一子集和时间资源的第二子集内的位置,其中,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,在参考信号资源上接收参考信号传输,至少部分地基于参考信号资源的位置来确定参考信号传输的波形,以及至少部分地基于接收到的参考信号传输和所确定的参考信号传输的波形来执行信道估计。</base:Paragraphs>
+      <base:Paragraphs num="0021">[0021]描述了一种用于无线通信的装置。 该装置包括： 用于标识用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元； 用于识别参考信号资源在时间资源的第一子集和时间资源的第二子集内的位置的单元,其中,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,用于在参考信号资源上接收参考信号传输的单元,用于至少部分地基于参考信号资源的位置来确定参考信号传输的波形的单元,以及用于至少部分地基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计的单元。</base:Paragraphs>
+      <base:Paragraphs num="0022">[0022]描述了另一种用于无线通信的装置。 该装置可以包括处理器、与该处理器处于电子通信的存储器、以及存储在该存储器中的指令。 所述指令识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 识别参考信号资源在时间资源的第一子集和时间资源的第二子集内的位置,其中,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,在参考信号资源上接收参考信号传输,至少部分地基于参考信号资源的位置来确定参考信号传输的波形,以及至少部分地基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计。</base:Paragraphs>
+      <base:Paragraphs num="0023">[0023]描述了一种用于无线通信的非瞬态计算机可读介质。 非暂时性计算机可读介质包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 识别参考信号资源在时间资源的第一子集和时间资源的第二子集内的位置,其中无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,在参考信号资源上接收参考信号传输,至少部分地基于参考信号资源的位置来确定参考信号传输的波形,以及至少部分地基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计。</base:Paragraphs>
+      <base:Paragraphs num="0024">[0024]在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集中的每一者的参考信号资源占用相同数量的频率音调。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集中的每一者可以具有相同的参考信号波形。</base:Paragraphs>
+      <base:Paragraphs num="0025">[0025]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,时间资源的第一子集包括在频调的第一子集和频调的第二子集中的参考信号资源,并且时间资源的第二子集包括在频调的第一子集和频调的第三子集中的参考信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集中的所述音调的所述第一子集可以具有相同的参考信号波形,并且所述时间资源的所述第一子集中的所述音调的所述第二子集和所述时间资源的所述第二子集中的所述音调的所述第三子集可以具有不同的参考信号波形。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集可以具有不同的参考信号波形。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集可以具有所述参考信号序列的不同部分。</base:Paragraphs>
+      <base:Paragraphs num="0026">[0026]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,PBCH资源包括时间资源的第一符号和时间资源的第三符号,同步信号资源包括时间资源的第二符号和时间资源的第四符号,时间资源的第二符号位于时间资源的第一符号与时间资源的第三符号之间,时间资源的第四符号位于时间资源的第三符号之后。 在以上描述的方法、装置和非瞬态计算机可读介质的一些示例中,时间资源的第二符号可以用于对副同步信号的传输,并且时间资源的第四符号可以用于对主同步信号的传输。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,参考信号传输包括DMRS传输。</base:Paragraphs>
+      <base:Paragraphs num="0027">[0027]在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越第二带宽与所述第一带宽的至少一部分重叠的第二频率资源集合,所述第二带宽可以大于所述第一带宽,并且其中,所述参考信号资源是跨越所述第二频率资源集合非均匀地分布的。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述参考信号资源可以跨所述时间资源的所述第一子集和所述时间资源的所述第二子集非均匀地分布,所述时间资源的所述第一子集内的所述参考信号资源占用与所述时间资源的所述第二子集内的所述参考信号资源的至少一部分不同的频率资源,或者其任意组合。</base:Paragraphs>
+      <base:Paragraphs num="0028">[0028]以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例可进一步包括用于以下操作的过程、特征、装置、或指令：至少部分地基于所接收的参考信号传输来确定发射机标识、定时信息、或同步信号传输配置中的一者或多者。</base:Paragraphs>
+      <base:Paragraphs num="0029">[0029]描述了一种无线通信的方法。 该方法可以包括：识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,识别参考信号资源在第二无线资源集合内的位置,在参考信号资源上接收参考信号传输,以及至少部分地基于接收到的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</base:Paragraphs>
+      <base:Paragraphs num="0030">[0030]描述了一种用于无线通信的装置。 该装置可以包括：用于识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元,用于识别参考信号资源在第二无线资源集合内的位置的单元,用于在参考信号资源上接收参考信号传输的单元,以及用于至少部分地基于所接收到的参考信号传输来确定发射机标识、定时信息、或同步信号传输配置中的一者或多者的单元。</base:Paragraphs>
+      <base:Paragraphs num="0031">[0031]描述了另一种用于无线通信的装置。 该装置可以包括处理器、与该处理器处于电子通信的存储器、以及存储在该存储器中的指令。 这些指令可以可操作用于使处理器执行以下操作：识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,识别参考信号资源在第二无线资源集合内的位置,在参考信号资源上接收参考信号传输,以及至少部分地基于接收到的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</base:Paragraphs>
+      <base:Paragraphs num="0032">[0032]描述了一种用于无线通信的非瞬态计算机可读介质。 该非瞬态计算机可读介质可以包括可操作用于使处理器执行以下操作的指令：识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,识别参考信号资源在第二无线资源集合内的位置,在参考信号资源上接收参考信号传输,以及至少部分地基于接收到的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</base:Paragraphs>
+      <base:Paragraphs num="0033">[0033]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,该确定包括：至少部分地基于参考信号传输的参考信号序列来确定基站的小区标识。</base:Paragraphs>
+      <base:Paragraphs num="0034">[0034]以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例可进一步包括用于以下操作的过程、特征、装置、或指令：在第一无线资源集合上接收同步信号传输。 以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例可进一步包括用于以下操作的过程、特征、装置、或指令：至少部分地基于该同步信号传输来确定基站的蜂窝小区标识,其中,接收该参考信号传输可至少部分地基于该基站的蜂窝小区标识。</base:Paragraphs>
+      <base:Paragraphs num="0035">[0035]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,可以至少部分地基于参考信号传输的参考信号序列来确定与同步信号突发集中的同步信号突发索引有关的信息。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,可以至少部分地基于参考信号传输的参考信号序列来确定与同步信号突发内的同步信号块索引有关的信息。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,所述确定包括：至少部分地基于所述参考信号传输的参考信号序列,来确定要在所述第二无线资源集合中传送的广播信道传输的冗余版本。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,可以至少部分地基于参考信号传输的参考信号序列来确定同步信号突发、同步信号突发集、或同步信号传输的周期中的一者或多者的配置。</base:Paragraphs>
+      <base:Paragraphs num="0036">[0036]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,该确定可以至少部分地基于参考信号传输的参考信号序列与发射机标识、定时信息、或同步信号传输配置中的一者或多者之间的映射。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,该确定可以至少部分地基于参考信号资源的位置与发射机标识、定时信息、或同步信号传输配置中的一者或多者之间的映射。</base:Paragraphs>
+      <base:Paragraphs num="0037">[0037]在上述方法、装置和非暂时性计算机可读介质的一些示例中,第一无线资源集合可以包括跨越第一带宽的第一频率资源集合,第二无线资源集合可以包括跨越与第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,并且可以跨越第二频率资源集合来识别非均匀分布的参考信号资源。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二带宽可以大于第一带宽。</base:Paragraphs>
+      <base:Paragraphs num="0038">[0038]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,PBCH资源包括时间资源的第一符号和时间资源的第三符号,同步信号资源包括时间资源的第二符号和时间资源的第四符号,时间资源的第二符号位于时间资源的第一符号与时间资源的第三符号之间,时间资源的第四符号位于时间资源的第三符号之后。 在以上描述的方法、装置和非瞬态计算机可读介质的一些示例中,时间资源的第二符号可以用于对副同步信号的传输,并且时间资源的第四符号可以用于对主同步信号的传输。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,参考信号传输包括DMRS传输。</base:Paragraphs>
+      <base:Paragraphs num="0039">[0039]在上述方法、装置和非暂时性计算机可读介质的一些示例中,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,参考信号资源可以跨时间资源的第一子集和时间资源的第二子集非均匀地分布,时间资源的第一子集内的参考信号资源占用与时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源,或者其任意组合。</base:Paragraphs>
+      <base:Paragraphs num="0040">[0040]在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第二无线资源集合可以包括所述时间资源的第一子集和所述时间资源的第二子集,并且可以在所述时间资源的所述第一子集和所述时间资源的所述第二子集内识别所述参考信号资源的位置。 上述方法、装置和非暂时性计算机可读介质的一些示例还可以包括用于以下操作的过程、特征、单元或指令：至少部分地基于参考信号资源的位置来确定参考信号传输的波形。 以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例可进一步包括用于以下操作的过程、特征、装置、或指令：至少部分地基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计。</base:Paragraphs>
+      <base:Paragraphs num="0041">[0041]描述了一种无线通信的方法。 该方法包括： 配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 在第二无线资源集合内配置参考信号资源,该第二无线资源集合包括跨越第一带宽的第一频率资源集合,其中,第二无线资源集合包括跨越第二带宽的与第一带宽的至少一部分交叠的第二频率资源集合,其中,参考信号资源的位置至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者,使用参考信号资源来发送参考信号传输,以及使用第一无线资源集合来发送同步信号传输。</base:Paragraphs>
+      <base:Paragraphs num="0042">[0042]描述了一种用于无线通信的装置。 该装置包括： 用于配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元； 所述第一无线资源集合包括： 用于在第二无线资源集合内配置参考信号资源的单元,该第二无线资源集合包括跨越第一带宽的第一频率资源集合,其中,第二无线资源集合包括跨越第二带宽的与第一带宽的至少一部分交叠的第二频率资源集合,以及用于使用参考信号资源来发送参考信号传输和使用第一无线资源集合来发送同步信号传输的单元,其中,参考信号资源的位置至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者。</base:Paragraphs>
+      <base:Paragraphs num="0043">[0043]描述了另一种用于无线通信的装置。 该装置可以包括处理器、与该处理器处于电子通信的存储器、以及存储在该存储器中的指令。 所述指令配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 跨越第一带宽的频率资源的第一集合； 在无线资源的第二集合内配置参考信号资源,其中,无线资源的第二集合包括跨越与第一带宽的至少一部分交叠的第二带宽的频率资源的第二集合,以及其中,参考信号资源的位置至少部分地基于相对于第一带宽的无线资源的第二集合内的时间资源位置或无线资源的第二集合内的频率资源位置中的一者或多者,使用参考信号资源来发送参考信号传输,以及使用无线资源的第一集合来发送同步信号传输。</base:Paragraphs>
+      <base:Paragraphs num="0044">[0044]描述了一种用于无线通信的非瞬态计算机可读介质。 非暂时性计算机可读介质包括： 配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 跨越第一带宽的频率资源的第一集合； 在第二无线资源集合内配置参考信号资源,其中,第二无线资源集合包括跨越与第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,以及其中,参考信号资源的位置至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者,使用参考信号资源来发送参考信号传输,以及使用第一无线资源集合来发送同步信号传输。</base:Paragraphs>
+      <base:Paragraphs num="0045">[0045]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二带宽可以大于第一带宽。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,参考信号资源的位置可以被配置为是跨第二频率资源集合非均匀地分布的参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0046">[0046]在上述方法、装置和非暂时性计算机可读介质的一些示例中,频率资源的第二集合可以包括可以与第一带宽重叠的频率资源的第一子集和可以不与第一带宽重叠的频率资源的第二子集,并且频率资源的第二子集可以具有比频率资源的第一子集更高的参考信号资源密度。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,频率资源的第一子集可以不具有参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0047">[0047]在上述方法、装置和非暂时性计算机可读介质的一些示例中,第二无线资源集合可以包括第一时间资源子集和第二时间资源子集,并且参考信号资源可以跨第一时间资源子集和第二时间资源子集非均匀地分布。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第二无线资源集合包括所述时间资源的第一子集和所述时间资源的第二子集,所述时间资源的所述第一子集内的所述参考信号资源占用与所述时间资源的所述第二子集内的所述参考信号资源的至少一部分不同的频率资源。 在以上描述的方法、装置和非瞬态计算机可读介质的一些示例中,第二无线资源集合包括第一时间资源子集和第二时间资源子集,其中,第一时间资源子集和第二时间资源子集内的参考信号资源的至少一部分占用公共频率音调。</base:Paragraphs>
+      <base:Paragraphs num="0048">[0048]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,PBCH资源包括时间资源的第一符号和时间资源的第三符号,同步信号资源包括时间资源的第二符号和时间资源的第四符号,时间资源的第二符号位于时间资源的第一符号与时间资源的第三符号之间,时间资源的第四符号位于时间资源的第三符号之后。 在以上描述的方法、装置和非瞬态计算机可读介质的一些示例中,时间资源的第二符号可以用于对副同步信号的传输,并且时间资源的第四符号可以用于对主同步信号的传输。</base:Paragraphs>
+      <base:Paragraphs num="0049">[0049]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,参考信号传输包括DMRS传输。 以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例可进一步包括用于以下操作的过程、特征、装置、或指令：至少部分地基于参考信号传输来提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。</base:Paragraphs>
+      <base:Paragraphs num="0050">[0050]描述了一种无线通信的方法。 该方法可以包括：配置用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,配置参考信号资源在时间资源的第一子集和时间资源的第二子集内的位置,其中,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,至少部分地基于参考信号资源的位置来确定参考信号传输的波形,以及在参考信号资源上发送参考信号。</base:Paragraphs>
+      <base:Paragraphs num="0051">[0051]描述了一种用于无线通信的装置。 该装置可以包括：用于配置用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合的单元,用于在时间资源的第一子集和时间资源的第二子集内配置参考信号资源的位置的单元,其中,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,用于至少部分地基于参考信号资源的位置来确定参考信号传输的波形的单元,以及用于在参考信号资源上发送参考信号的单元。</base:Paragraphs>
+      <base:Paragraphs num="0052">[0052]描述了另一种用于无线通信的装置。 该装置可以包括处理器、与该处理器处于电子通信的存储器、以及存储在该存储器中的指令。 这些指令可以可操作用于使处理器：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置参考信号资源在第一时间资源子集和第二时间资源子集内的位置,其中,第二无线资源集合包括第一时间资源子集和第二时间资源子集,至少部分地基于参考信号资源的位置来确定参考信号传输的波形,以及在参考信号资源上发送参考信号。</base:Paragraphs>
+      <base:Paragraphs num="0053">[0053]描述了一种用于无线通信的非瞬态计算机可读介质。 该非暂时性计算机可读介质可以包括可操作用于使处理器执行以下操作的指令：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,在第一时间资源子集和第二时间资源子集内配置参考信号资源的位置,其中,第二无线资源集合包括第一时间资源子集和第二时间资源子集,至少部分地基于参考信号资源的位置来确定参考信号传输的波形,以及在参考信号资源上发送参考信号。</base:Paragraphs>
+      <base:Paragraphs num="0054">[0054]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集中的每一者的参考信号资源占用相同数量的频率音调。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集中的每一者可以具有相同的参考信号波形。</base:Paragraphs>
+      <base:Paragraphs num="0055">[0055]在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集包括所述频调的第一子集和所述频调的第二子集中的参考信号资源,并且所述时间资源的所述第二子集包括所述频调的第一子集和所述频调的第三子集中的参考信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集中的所述音调的所述第一子集可以具有相同的参考信号波形,并且所述时间资源的所述第一子集中的所述音调的所述第二子集和所述时间资源的所述第二子集中的所述音调的所述第三子集可以具有不同的参考信号波形。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集可以具有不同的参考信号波形。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述时间资源的所述第一子集和所述时间资源的所述第二子集可以具有所述参考信号序列的不同部分。</base:Paragraphs>
+      <base:Paragraphs num="0056">[0056]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,PBCH资源包括时间资源的第一符号和时间资源的第三符号,同步信号资源包括时间资源的第二符号和时间资源的第四符号,时间资源的第二符号位于时间资源的第一符号与时间资源的第三符号之间,时间资源的第四符号位于时间资源的第三符号之后。 在以上描述的方法、装置和非瞬态计算机可读介质的一些示例中,时间资源的第二符号可以用于对副同步信号的传输,并且时间资源的第四符号可以用于对主同步信号的传输。</base:Paragraphs>
+      <base:Paragraphs num="0057">[0057]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,参考信号传输包括DMRS传输。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越第二带宽与所述第一带宽的至少一部分重叠的第二频率资源集合,所述第二带宽可以大于所述第一带宽,并且其中,所述方法还包括：配置跨越所述第二频率资源集合非均匀地分布的参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0058">[0058]在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述参考信号资源可以跨所述时间资源的所述第一子集和所述时间资源的所述第二子集非均匀地分布,所述时间资源的所述第一子集内的所述参考信号资源占用与所述时间资源的所述第二子集内的所述参考信号资源的至少一部分不同的频率资源,或者其任意组合。</base:Paragraphs>
+      <base:Paragraphs num="0059">[0059]描述了一种无线通信的方法。 该方法可以包括：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置第二无线资源集合内的参考信号资源的位置,在参考信号资源上发送参考信号传输,其中,参考信号传输、参考信号资源的位置或其任何组合提供对发射机标识、定时信息或同步信号传输配置中的一者或多者的指示。</base:Paragraphs>
+      <base:Paragraphs num="0060">[0060]描述了一种用于无线通信的装置。 该装置可以包括：用于配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元,用于配置参考信号资源在第二无线资源集合内的位置的单元,用于在参考信号资源上发送参考信号传输的单元,其中,参考信号传输、参考信号资源的位置、或其任何组合提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。</base:Paragraphs>
+      <base:Paragraphs num="0061">[0061]描述了另一种用于无线通信的装置。 该装置可以包括处理器、与该处理器处于电子通信的存储器、以及存储在该存储器中的指令。 所述指令可以可操作用于使所述处理器：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置所述第二无线资源集合内的参考信号资源的位置,以及在所述参考信号资源上发送所述参考信号传输,其中所述参考信号传输、所述参考信号资源的位置、或其任何组合提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。</base:Paragraphs>
+      <base:Paragraphs num="0062">[0062]描述了一种用于无线通信的非瞬态计算机可读介质。 该非瞬态计算机可读介质可以包括可操作用于使处理器执行以下操作的指令：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置参考信号资源在第二无线资源集合内的位置,以及在参考信号资源上发送参考信号传输,其中,参考信号传输、参考信号资源的位置或其任何组合提供对发射机标识、定时信息或同步信号传输配置中的一者或多者的指示。</base:Paragraphs>
+      <base:Paragraphs num="0063">[0063]在上述方法、装置和非暂时性计算机可读介质的一些示例中,基站的小区标识、同步信号突发集合内的同步信号突发索引、同步信号突发内的同步信号块索引、在第二无线资源集合中发送的广播信道传输的冗余版本、同步信号突发、同步信号突发集合、同步信号传输的周期中的一个或多个的配置、或其任何组合可以被映射到参考信号传输的参考信号序列。</base:Paragraphs>
+      <base:Paragraphs num="0064">[0064]在上述方法、装置和非暂时性计算机可读介质的一些示例中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越第二带宽与所述第一带宽的至少一部分重叠的第二频率资源集合,所述第二带宽可以大于所述第一带宽,并且其中,所述方法还包括：配置跨越所述第二频率资源集合非均匀地分布的参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0065">[0065]在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在上述方法、装置和非暂时性计算机可读介质的一些示例中,PBCH资源包括时间资源的第一符号和时间资源的第三符号,同步信号资源包括时间资源的第二符号和时间资源的第四符号,时间资源的第二符号位于时间资源的第一符号与时间资源的第三符号之间,时间资源的第四符号位于时间资源的第三符号之后。 在以上描述的方法、装置和非瞬态计算机可读介质的一些示例中,时间资源的第二符号可以用于对副同步信号的传输,并且时间资源的第四符号可以用于对主同步信号的传输。 在以上描述的方法、装置（装备）、和非瞬态计算机可读介质的一些示例中,参考信号传输包括DMRS传输。</base:Paragraphs>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0066">
+        <base:FigureReference num="0001">图0001示出了根据本公开内容的方面的支持无线通信中的参考信号方案的用于无线通信的系统的示例。</base:FigureReference>
+        <base:FigureReference num="0002">图0002示出了根据本公开内容的方面的支持无线通信中的SS块和参考信号方案的无线通信系统的示例；</base:FigureReference>
+        <base:FigureReference num="0003">图0003示出了根据本公开内容的方面的支持无线通信中的参考信号方案的同步信号(SS)突发资源的示例；</base:FigureReference>
+        <base:FigureReference num="0004">图0004示出了根据本公开内容的方面的支持无线通信中的参考信号方案的SS块资源的示例；</base:FigureReference>
+        <base:FigureReference num="0005">图0005示出了根据本公开内容的方面的支持无线通信中的参考信号方案的SS块资源的另一示例；</base:FigureReference>
+        <base:FigureReference num="0006">图0006示出了根据本公开内容的方面的支持无线通信中的参考信号方案的SS块资源的另一示例；</base:FigureReference>
+        <base:FigureReference num="0007">图0007示出了根据本公开内容的方面的支持无线通信中的参考信号方案的SS块资源的另一示例；</base:FigureReference>
+        <base:FigureReference num="0008">图0008示出了根据本公开的各方面的支持无线通信中的参考信号方案的过程流的示例。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是根据本公开的各方面的支持无线通信中的参考信号方案的设备的框图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是根据本公开的各方面的支持无线通信中的参考信号方案的设备的框图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是根据本公开的各方面的支持无线通信中的参考信号方案的设备的框图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012是根据本公开内容的方面的包括支持无线通信中的参考信号方案的UE的系统的框图；</base:FigureReference>
+        <base:FigureReference num="0013">图0013是根据本公开的各方面的支持无线通信中的参考信号方案的设备的框图。</base:FigureReference>
+        <base:FigureReference num="0014">图0014是根据本公开的各方面的支持无线通信中的参考信号方案的设备的框图。</base:FigureReference>
+        <base:FigureReference num="0015">图0015是根据本公开的各方面的支持无线通信中的参考信号方案的设备的框图。</base:FigureReference>
+        <base:FigureReference num="0016">图0016是根据本公开内容的方面的包括支持无线通信中的参考信号方案的基站的系统的框图；</base:FigureReference>
+        <base:FigureReference num="0017">图0017示出了根据本公开的各方面的用于无线通信中的参考信号方案的方法。</base:FigureReference>
+        <base:FigureReference num="0018">图0018解说了根据本公开的各方面的用于无线通信中的参考信号方案的方法。</base:FigureReference>
+        <base:FigureReference num="0019">图0019解说了根据本公开的各方面的用于无线通信中的参考信号方案的方法。</base:FigureReference>
+        <base:FigureReference num="0020">图0020解说了根据本公开的各方面的用于无线通信中的参考信号方案的方法。</base:FigureReference>
+        <base:FigureReference num="0021">图0021解说了根据本公开的各方面的用于无线通信中的参考信号方案的方法。</base:FigureReference>
+        <base:FigureReference num="0022">图0022解说了根据本公开的各方面的用于无线通信中的参考信号方案的方法。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0067">[0079]本文描述的无线通信系统可以被配置为提供同步信号块,在该同步信号块中可以发送同步信号(SS)和物理广播信道(PBCH)传输,以帮助用户装备(UE)进行初始捕获和与基站的通信。 在一些示例中,PBCH传输可以在SS块时间资源的子集中（例如,在SS块的两个码元中）被发送,并且同步信号（例如,主同步信号(PSS)和副同步信号(SSS)）可以在SS块时间资源的另一子集中被发送。 在使用毫米波（mmW）传输频率的部署中,可以在SS突发期间使用波束扫描在不同方向上发送多个SS块,并且可以根据SS突发集周期性地发送SS突发。 在基站可以全向发送的情况下,可以根据配置的周期周期性地发送SSB。</base:Paragraphs>
+      <base:Paragraphs num="0068">[0080]在一些情况下,可以使用SS传输来解调PBCH传输,其中,SS传输用于可以允许UE解调PBCH传输的信道估计。 在一些示例中,PBCH传输可以使用比SS传输更大的频率带宽来发送,在这种情况下,PBCH传输中的一个或多个参考信号传输（例如,解调参考信号(DMRS)传输）可以用于提供PBCH传输的可靠解调。 在一些示例中,PBCH传输可以使用参考信号传输、SS传输或其组合来解调。</base:Paragraphs>
+      <base:Paragraphs num="0069">[0081]在一些情况下,可以使用PBCH时间资源中的频调来发送参考信号（例如,DMRS）,并且可以选择频调的位置以使用相对较少的传输资源来提供高效解调。 在一些情况下,如上所述,PBCH传输的带宽可以大于SS传输的带宽,并且可以针对PBCH传输带宽的在SS传输带宽之外的部分以更高的密度来发送DMRS。 在一些情况下,不同的DMRS音调可以用于不同的PBCH时间资源。</base:Paragraphs>
+      <base:Paragraphs num="0070">[0082]在一些情况下,可以在PBCH时间资源上（例如,在包含PBCH传输的两个或更多个OFDM码元上）配置DMRS波形。 在一些示例中,相同的DMRS序列可以用于每个PBCH符号,并且每个PBCH符号可以包括相同数量的DMRS频调。 在其它示例中,PBCH码元可包括跨越PBCH码元的共用DMRS频调子集以及跨越PBCH码元的不同DMRS频调子集。 在这样的示例中,公共DMRS频调可以共享相同的DMRS序列,而另一个DMRS频调可以具有不同的序列。 在又一示例中,PBCH传输的不同符号的DMRS波形可以完全不同。 在一些示例中,可以通过在不同PBCH时间资源之间拆分长基序列（例如,长Zadoff-Chu序列、m序列或其循环移位）来构造不同的DMRS序列。 在一些示例中,参考信号序列（例如,DMRS序列）、音调位置、或其组合可以用于携带以下各项中的一项或多项：标识信息、定时信息、配置信息、或其任意组合。</base:Paragraphs>
+      <base:Paragraphs num="0071">[0083]首先在无线通信系统的上下文中描述了本公开内容的各方面。 描述了各种信道配置和资源分配方案的示例。 通过与无线通信中的参考信号方案有关的装置图、系统图和流程图来进一步解说本公开内容的方面,并且参照与无线通信中的参考信号方案有关的装置图、系统图和流程图来描述本公开内容的方面。</base:Paragraphs>
+      <base:Paragraphs num="0072">[0084]图1示出了根据本公开内容的各个方面的无线通信系统100的示例。 无线通信系统100包括基站105、UE 115和核心网130。 在一些示例中,无线通信系统100可以是长期演进(LTE)、高级LTE（LTE-A）网络、或新无线电(NR)网络。 在一些情况下,无线通信系统100可以支持增强型宽带通信、超可靠（即,关键任务）通信、低等待时间通信以及与低成本和低复杂度设备的通信。 基站105和UE 115可以被配置为使用SS块内的不同时间资源（例如,OFDM符号）,使用具有PBCH和SS传输的SS块。</base:Paragraphs>
+      <base:Paragraphs num="0073">[0085]基站105可以经由一个或多个基站天线与UE 115进行无线通信。 每个基站105可以为相应的地理覆盖区域110提供通信覆盖。 在无线通信系统100中示出的通信链路125可以包括从UE 115到基站105的上行链路传输,或者从基站105到UE 115的下行链路传输。 可以根据各种技术在上行链路信道或下行链路上复用控制信息和数据。 可以使用例如时分复用(TDM)、频分复用(FDM)或混合TDM-FDM技术在下行链路信道上复用控制信息和数据。 在一些示例中,在下行链路信道的传输时间间隔(TTI)期间发送的控制信息可以以级联的方式分布在不同的控制区域之间（例如,在公共控制区域与一个或多个因UE而异的控制区域之间）。</base:Paragraphs>
+      <base:Paragraphs num="0074">[0086]UE 115可以分散在整个无线通信系统100中,并且每个UE 115可以是驻定的或移动的。 UE 115还可以被称为移动站、订户站、移动单元、订户单元、无线单元、远程单元、移动设备、无线设备、无线通信设备、远程设备、移动订户站、接入终端、移动终端、无线终端、远程终端、手持机、用户代理、移动客户端、客户端、或者某种其它合适的术语。 UE 115还可以是蜂窝电话、个人数字助理(PDA)、无线调制解调器、无线通信设备、手持设备、平板计算机、膝上型计算机、无绳电话、个人电子设备、手持设备、个人计算机、无线本地环路(WLL)站、物联网（IoT）设备、万物联网（IoE）设备、机器类型通信(MTC)设备、装备、汽车等等。</base:Paragraphs>
+      <base:Paragraphs num="0075">[0087]基站105可以与核心网130通信并且彼此通信。 例如,基站105可以通过回程链路132（例如,S1等）与核心网130对接。 基站105可以在回程链路134（例如,X2等）上直接或间接地（例如,通过核心网130）彼此通信。 基站105可以执行用于与UE 115的通信的无线电配置和调度,或者可以在基站控制器（未示出）的控制下操作。 在一些示例中,基站105可以是宏小区、小型小区、热点等。 基站105还可以被称为演进型节点B（eNB）105或下一代节点B（gNB）。</base:Paragraphs>
+      <base:Paragraphs num="0076">[0088]核心网130可以提供用户认证、接入授权、跟踪、网际协议(IP)连接以及其他接入、路由或移动性功能。 至少一些网络设备（诸如基站105）可以包括子组件,诸如接入网络实体或接入节点控制器(ANC)。 每个接入网络实体可以通过多个其它接入网络传输实体与多个UE 115通信,每个其它接入网络传输实体可以是智能无线电头端或传输/接收点(TRP)的示例。 在一些配置中,每个接入网络实体或基站105的各种功能可以分布在各种网络设备（例如,无线电头端和接入网络控制器）上,或者集中到单个网络设备（例如,基站105）。</base:Paragraphs>
+      <base:Paragraphs num="0077">[0089]无线通信系统100可以使用从700MHz到2600MHz（2.6 GHz）的频带在超高频(UHF)频域中操作,而一些网络（例如,无线局域网(WLAN)）可以使用高达4GHz的频率。 该区域也可以被称为分米频带,因为波长在约1分米至1米的长度上延伸。 UHF波可以主要通过视线传播,并且可以被建筑物和环境特征阻挡。 然而,波可以充分穿透墙壁以向位于室内的UE 115提供服务。 与使用频谱的短波(HF)或超短波(VHF)部分的较小频率（和较长波）的传输相比,UHF波的传输的特征在于较小的天线和较短的范围（例如,小于100km）。 在一些情况下,无线通信系统100还可以利用频谱的极高频(EHF)部分（例如,从30GHz到300GHz）。 该区域也可以被称为毫米波段,因为波长的长度在约1毫米至1厘米的范围内。 因此,EHF天线可以比UHF天线更小并且间隔更近。 在一些情形中,这可促成在UE 115内使用天线阵列（例如,用于定向波束成形）。 然而,EHF传输可能受到比UHF传输更大的大气衰减和更短的范围的影响。</base:Paragraphs>
+      <base:Paragraphs num="0078">[0090]以此方式,无线通信系统100可以支持UE 115和基站105之间的毫米波（mmW）通信。 在mmW或EHF频带中操作的设备可以具有多个天线以实现波束成形。 即,基站105可以使用多个天线或天线阵列来执行波束成形操作,以用于与UE 115的定向通信。 波束成形（其也可以被称为空间滤波或定向传输）是可以在发射机（例如,基站105）处使用以将整个天线波束整形和/或导向到目标接收机（例如,UE 115）的方向上的信号处理技术。 这可以通过以使得以特定角度发射的信号经历相长干扰而其它信号经历相消干扰的方式组合天线阵列中的元件来实现。</base:Paragraphs>
+      <base:Paragraphs num="0079">[0091]多输入多输出(MIMO)无线系统使用发射机（例如,基站105）与接收机（例如,UE 115）之间的传输方案,其中发射机和接收机两者都装备有多个天线。 无线通信系统100的某些部分可以使用波束成形。 例如,基站105可以具有天线阵列,该天线阵列具有若干行和列的天线端口,基站105可以在其与UE 115的通信中用于波束成形。 可以在不同的方向上多次发送信号（例如,可以以不同的方式对每个传输进行波束成形）。 mmW接收机（例如,UE 115）可以在接收同步信号的同时尝试多个波束（例如,天线子阵列）。</base:Paragraphs>
+      <base:Paragraphs num="0080">[0092]在一些情况下,基站105或UE 115的天线可以位于可以支持波束成形或MIMO操作的一个或多个天线阵列中。 一或多个基站天线或天线阵列可共同位于天线组合件中,例如天线塔。 在一些情况下,与基站105相关联的天线或天线阵列可以位于各种地理位置。 基站105可以使用多个天线或天线阵列来执行波束成形操作,以用于与UE 115的定向通信。</base:Paragraphs>
+      <base:Paragraphs num="0081">[0093]在一些情况下,无线通信系统100可以利用有执照射频谱带和无执照射频谱带两者。 例如,无线通信系统100可以在诸如5Ghz工业、科学和医学(ISM)频带的未许可频带中采用LTE许可的辅助接入（LTE-LAA）或LTE未许可（LTE U）无线电接入技术或NR技术。 当在无执照射频谱带中操作时,无线设备（诸如基站105和UE 115）可在传送数据之前采用先听后说(LBT)规程来确保信道是空闲的。 在一些情况下,未许可频带中的操作可以基于CA配置以及在许可频带中操作的CC。 未经许可的频谱中的操作可以包括下行链路传输、上行链路传输或两者。 无执照频谱中的双工可以基于频分双工(FDD)、时分双工(TDD)或两者的组合。</base:Paragraphs>
+      <base:Paragraphs num="0082">[0094]如上所述,在一些示例中,基站105可以发送SS块,该SS块可以由UE 115在系统捕获中使用。 SS块可以包括PBCH和SS传输,其可以在SS块的不同时间资源中发送。 如果基站105使用波束成形,则可以由基站105使用在SS突发集配置中配置的周期来对SS突发进行波束扫描。 在一些情况下,可以使用SS传输来解调PBCH传输,其中,SS传输用于可以允许UE解调PBCH传输的信道估计。 在一些示例中,PBCH传输可以使用比SS传输更大的频率带宽来发送,在这种情况下,PBCH传输中的一个或多个参考信号传输（例如,解调参考信号(DMRS)传输）可以用于提供PBCH传输的可靠解调。 在一些示例中,PBCH传输可以使用参考信号传输、SS传输或其组合来解调。</base:Paragraphs>
+      <base:Paragraphs num="0083">[0095]图2示出了根据本公开内容的各个方面的支持无线通信中的参考信号方案的无线通信系统200的示例。 无线通信系统200包括基站105-a和UE 115-a,其可以是上面参照图1描述的对应设备的各方面的示例。 在图2的示例中,无线通信系统200可以根据诸如LTE、5G或NR RAT之类的无线电接入技术(RAT)来操作,但是本文描述的技术可以应用于任何RAT以及可以同时使用两种或更多种不同RAT的系统。</base:Paragraphs>
+      <base:Paragraphs num="0084">[0096]基站105-a可以经由下行链路载波205和上行链路载波215与UE 115-a通信。 在一些情况下,基站105-a可以分配用于SS块210传输的资源,该SS块210传输可以被周期性地发送并且可以由UE 115-a用于系统捕获。 在该示例中,SS块210可以包括第一SS块210-a、第二SS块210-b和第三SS块210-c。 在一些情况下,可以根据建立的标准来配置SSB 210的周期。 否则,SSB 210的周期可以由基站105-a配置,并且与SSB 210的定时或配置有关的信息可以与SSB 210一起提供。 在一些情况下,基站105-a可以使用mmW频率进行发送,并且可以使用波束扫描来发送SS块210。</base:Paragraphs>
+      <base:Paragraphs num="0085">[0097]该示例中的每个SS块210可以包括四个符号。 该示例中的符号中的两个符号（即,第一符号和第三符号）可以包括PBCH传输225。 在该示例中是第二符号和第四符号的其他两个符号可以包括SS传输,诸如SSS传输230和PSS传输235。 如上所述,在一些示例中,PBCH传输225可以具有比SSS传输230或PSS传输235更大的频率带宽,而在其他示例中,频率带宽可以是相同的。 在一些示例中,PBCH传输225可以使用288个频率频调并占用4个资源块(RB),并且SSS传输230和PSS传输235可以各自使用127个频调并占用2个RB。 SSS传输230和PSS传输235的频率可以至少部分地与PBCH传输225的频率重叠。 还如上所述,在一些情况下,基站105-a可以使用波束扫描来发送SS突发。</base:Paragraphs>
+      <base:Paragraphs num="0086">[0098]图3示出了根据本公开内容的各个方面的支持无线通信中的参考信号方案的SS突发资源300的示例。 在一些示例中,SS突发资源300可以实现图1或图2的无线通信系统100或200的各方面。 在图3的示例中,周期性同步传输310可以由基站发送。 在该示例中,可以为基站配置X毫秒305的同步周期,其中同步可以具有Y微秒315的持续时间。</base:Paragraphs>
+      <base:Paragraphs num="0087">[0099]在使用mmW频率的示例中,同步传输310可以包括SS突发320,该SS突发320可以包括从在第一方向上发送的第一SS块325-a开始并且以在第N-1方向上发送的第N-1 SS块325-b结束并且可以在波束扫描模式中使用不同的发射波束来发送的多个SS块325。 每个SS块325-b可以包括PBCH传输和SS传输,如参照图2所讨论的。 如上所述,在SS块425中接收PBCH传输的UE可以执行PBCH传输的信道估计和解调。 在一种情况下,在与PBCH传输相同的SS块425中发送并且与PBCH传输时分复用的SSS可以用于PBCH传输的信道估计和解调。 在这种情况下,基站可以使用在SS和PBCH传输之间相同的传输参数,诸如天线端口。 此外,PBCH传输可以包括在与频域中复用的PBCH相同的符号中传送的专用DMRS信号,如上所述。 以这种方式,接收传输的UE可以至少部分地基于SSS信号、DMRS传输或其组合来执行解调。 在一种情况下,可以针对使用重叠带宽的PBCH和SS传输的一部分减小DMRS传输的密度,并且可以针对非重叠带宽使用增加的DMRS传输密度。 此外,在一些情况下,可以从一个端口（例如,天线端口P0）发送SS传输,并且可以从两个天线端口（例如,与SS传输端口共用的端口以及一个附加端口（例如,天线端口P0和P1））发送PBCH。 在这种情况下,可以在PBCH和SS传输的重叠带宽中配置一个或多个DMRS音调,这可以允许附加天线端口的信道估计。</base:Paragraphs>
+      <base:Paragraphs num="0088">[0100]图4示出了根据本公开内容的各个方面的支持无线通信中的参考信号方案的SS块资源400的示例。 在一些示例中,SS块资源400可以实现无线通信系统100和200的各方面。 在该示例中,SS块资源400可以包括四个符号,其中两个符号可以用于发送PBCH传输405,一个符号可以用于SSS传输410,并且一个符号可以用于PSS传输415。 如上所述,PBCH传输405可以包括参考信号传输,诸如DMRS频调420或传输。</base:Paragraphs>
+      <base:Paragraphs num="0089">[0101]在图4的示例中,可以在PBCH传输405码元内使用DMRS频调的非均匀密度。 在该示例中,PBCH传输405带宽的与SSS传输410带宽重叠的部分可以具有降低的DMRS频调420的密度,而非重叠带宽可以具有增加的DMRS频调420的密度。 如上所述,在一些示例中,UE可以使用SSS传输410来解调PBCH传输405,并且因此SSS传输410的带宽中的DMRS音调420的减小的密度仍然可以提供足够的信道估计以解调PBCH传输405。 在一种情况下,可以从重叠带宽中完全省略DMRS音调420,并且SSS传输410可以用于PBCH传输405解调。 通过提供减小的DMRS音调420密度,附加PBCH资源可以可用于可以在PBCH传输405中发送的广播传输。</base:Paragraphs>
+      <base:Paragraphs num="0090">[0102]在其他示例中,诸如图5中所示的那些示例中,DMRS频调可以非鲁棒地分布在两个PBCH码元上。 图5示出了根据本公开内容的各个方面的支持无线通信中的参考信号方案的SS块资源500的另一示例。 在一些示例中,SS块资源500可以实现无线通信系统100的各方面。 在该示例中,SS块资源500可以包括四个符号,其中两个符号可以用于发送PBCH传输505,一个符号可以用于SSS传输510,并且一个符号可以用于PSS传输515。 如上所述,PBCH传输505可以包括参考信号传输,诸如DMRS传输520。</base:Paragraphs>
+      <base:Paragraphs num="0091">[0103]在图5的示例中,DMRS传输可以跨包含PBCH传输505的码元非均匀地分布。 在该示例中,可以减少与参考信号传输相关联的开销,同时仍然为UE处的信道估计和解调提供足够的信息。 在其他情形中,可以使用PBCH传输505个码元内和跨越该码元的不同密度组合。 在一些情形中,DMRS传输520的频调索引可被指定用于PBCH传输505码元。 在一些示例中,可以为与SSS传输510重叠的频调提供频调索引的第一集合,并且可以为不与SSS传输510重叠的频调提供频调索引的第二集合。</base:Paragraphs>
+      <base:Paragraphs num="0092">[0104]图6示出了根据本公开内容的各个方面的支持无线通信中的参考信号方案的SS块资源600的另一示例。 在一些示例中,SS块资源600可以实现无线通信系统100和200的各方面。 在该示例中,SS块资源600可以包括四个符号,其中两个符号可以用于发送PBCH传输605,一个符号可以用于SSS传输610,并且一个符号可以用于PSS传输615。 如上所述,PBCH传输605可以包括参考信号传输,诸如DMRS传输620。</base:Paragraphs>
+      <base:Paragraphs num="0093">[0105]在图6的示例中,DMRS传输620可以位于跨越具有PBCH传输605的码元的交错DMRS频调中。 在一些示例中,可以将跳频模式应用于第一码元中的第一PBCH传输605-a的DMRS传输620的频调,以获得第二码元中的第二PBCH传输605-b中的DMRS传输620的频调。 相对于在PBCH传输605码元之间使用相同的频调集合的示例,DMRS传输620的这种交错频调可以提供扩展的信道估计和频率分集。 在一些情形中,DMRS传输620个频调中没有一个可以在具有PBCH传输605的码元之间重叠。 在其它情形中,频调的子集可以在具有PBCH传输的码元之间是共用的,如图7中所示。</base:Paragraphs>
+      <base:Paragraphs num="0094">[0106]图7示出了根据本公开内容的各个方面的支持无线通信中的参考信号方案的SS块资源700的另一示例。 在一些示例中,SS块资源700可以实现无线通信系统100和200的各方面。 在该示例中,SS块资源700可以包括四个符号,其中两个符号可以用于发送PBCH传输705,一个符号可以用于SSS传输710,并且一个符号可以用于PSS传输715。 如上所述,PBCH传输705可以包括参考信号传输,诸如DMRS传输720。</base:Paragraphs>
+      <base:Paragraphs num="0095">[0107]在图7的示例中,DMRS传输720可以位于频调的子集中,其中,频调的第一子集725-a和频调的第二子集725-b的频调可以跨用于PBCH传输705的码元是共用的。 在频调的子集725之外的频调中的DMRS传输720可以在码元之间使用不同的频调。 通过提供跨不同符号的公共音调,可以提供载波频率偏移的扩展估计。 虽然图7的示例解说了共用的频调子集725,但是其他示例（例如,图4的示例）可提供第一PBCH码元中的频调与用于第二PBCH码元内的DMRS传输720的频调集合相同。</base:Paragraphs>
+      <base:Paragraphs num="0096">[0108]在一些情况下,用于本文讨论的DMRS传输的波形可以基于SS块的PBCH符号之一或PBCH符号两者来配置。 在一些情况下,在SS块中的两个PBCH符号中使用的两个DMRS信号可以是相同的序列。 在一些示例中,当两个DMRS序列的长度（即,所占用的DMRS频调的数量）相同时,可以提供这样的相同序列。</base:Paragraphs>
+      <base:Paragraphs num="0097">[0109]在其他示例中,不同PBCH码元的DMRS序列可以是部分相同的。 在这样的示例中,第一DMRS序列可以用于在每个码元中使用相同频调的DMRS传输,并且不同的DMRS序列可以用于跨码元的非共用DMRS频调。 例如,第一DMRS序列“i”可以被映射到音调的S<base:Sub>i</base:Sub>集合。 此外,可以将S<base:Sub>i</base:Sub>个音调的集合划分成两个子集S<base:Sub>i1</base:Sub>和S<base:Sub>i2</base:Sub>,使得基数（S<base:Sub>11</base:Sub>）=基数（S<base:Sub>12</base:Sub>）。 在S<base:Sub>11</base:Sub>和S<base:Sub>12</base:Sub>个音调上发送的两个DMRS信号可以是相同的,但是DMRS信号在剩余的音调上可以是不同的。</base:Paragraphs>
+      <base:Paragraphs num="0098">[0110]在又一示例中,不同PBCH符号的DMRS序列可以完全不同。 在这种情况下,可以通过拆分长基序列来构造两个序列。 例如,长基序列可以是Zadoff-Chu序列或m序列或其循环移位。</base:Paragraphs>
+      <base:Paragraphs num="0099">[0111]在一些示例中,DMRS序列、DMRS位置或其组合可以用于向UE提供诸如标识、定时或配置信息之类的信息。 例如,不同PBCH符号的DMRS序列可以单独地或一起携带基站的小区ID的信息、定时信息、或关于同步配置的信息的任何组合。 定时信息可以包括例如SS突发集合中的SS突发索引信息、SS突发集合中的SS块索引、对应PBCH的冗余版本(RV)指示（例如,PBCH可以具有四个RV以携带某一级别的系统定时（例如,20毫秒边界）,并且DMRS可以包括可以由a用于PBCH解码的PBCH的RV索引的全部或部分）,或其任何组合。 同步配置信息可以包括例如关于SS突发的配置、SS突发集、SS周期或其任何组合的信息。 可以通过选择DMRS序列（例如,不同的基序列和循环移位的量）或者选择分配给DMRS序列的音调位置的任何组合来提供这样的信息。 在一些情况下,可以提供将不同序列和/或音调位置映射到不同信息的映射。</base:Paragraphs>
+      <base:Paragraphs num="0100">[0112]图8示出了根据本公开内容的各个方面的支持无线通信中的参考信号方案的过程流800的示例。 在一些示例中,过程流800可以实现无线通信系统100的各方面。 过程流800包括UE 115-b和基站105-b,它们各自可以是参照图1和2描述的对应设备的示例。</base:Paragraphs>
+      <base:Paragraphs num="0101">[0113]在805处,基站105-b可以配置SS和广播信道资源。 如上所述,在一些情况下,基站105-b可以配置包括用于PBCH传输的符号和用于SS传输的符号的SS块。 SS突发传输810可以由基站105-b根据所配置的资源来发送。</base:Paragraphs>
+      <base:Paragraphs num="0102">[0114]在815处,UE 115-b可以识别SS和广播信道传输。 在一些情况下,UE 115-b可以根据指定的同步时序来监视同步传输。 如果使用mmW频率,则SS突发传输810可以作为波束扫描过程的一部分被发送,并且UE 115-b可以在使用波束扫描过程的一个或发射波束时接收SS突发传输810。</base:Paragraphs>
+      <base:Paragraphs num="0103">[0115]在820,UE 115-b可以识别广播信道中的参考信号资源。 在一些情况下,参考信号资源可以是被配置用于DMRS传输的频率音调。 在一些情况下,广播信道传输可以是PBCH传输,其可以包括广播信道时间资源中的两个PBCH符号。</base:Paragraphs>
+      <base:Paragraphs num="0104">[0116]在可选框825处,UE 115-b可以基于所接收的参考信号传输来确定蜂窝小区ID、时序信息、或配置信息中的一者或多者。 在一些情况下,参考信号的序列或波形可用于确定此类信息。 在其它情形中,参考信号资源（诸如用于DMRS传输的音调）的位置可用于确定此类信息。 在其它情况下,可以使用参考信号序列和参考信号资源的位置的组合来确定这样的信息。</base:Paragraphs>
+      <base:Paragraphs num="0105">[0117]在框830处,UE 115-b可以基于参考信号资源和SS传输来对广播信道进行解码。 在一些情况下,UE 115-b可以基于DMRS资源中的DMRS传输来解码PBCH传输,如上所述。 随后,UE 115-b和基站105-b可以执行连接建立835。 例如,UE 115-b可以发送随机接入请求,该随机接入请求可以发起随机接入过程以在基站105-b和UE 115-b之间建立连接。</base:Paragraphs>
+      <base:Paragraphs num="0106">[0118]图9示出了根据本公开内容的方面的支持无线通信中的参考信号方案的无线设备905的框图900。 无线设备905可以是本文描述的用户装备(UE)115的各方面的示例。 无线设备905可以包括接收机910、UE同步信号块管理器915和发射机920。 无线设备905还可以包括处理器。 这些组件中的每一者可彼此处于通信（例如,经由一条或多条总线）。</base:Paragraphs>
+      <base:Paragraphs num="0107">[0119]接收机910可以接收信息,诸如分组、用户数据或与各种信息信道相关联的控制信息（例如,控制信道、数据信道、以及与无线通信中的参考信号方案有关的信息等）。 可以将信息传递到设备的其他组件。 接收机910可以是参照图12描述的收发机1235的各方面的示例。 接收机910可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0108">[0120]UE同步信号块管理器915可以是参照图12描述的UE同步信号块管理器1215的各方面的示例。</base:Paragraphs>
+      <base:Paragraphs num="0109">[0121]UE同步信号块管理器915和/或其各种子组件中的至少一些可以在硬件、由处理器执行的软件、固件或其任何组合中实现。 如果在由处理器执行的软件中实现,则UE同步信号块管理器915和/或其各种子组件中的至少一些子组件的功能可以由被设计为执行本公开内容中描述的功能的通用处理器、数字信号处理器(DSP)、专用集成电路(ASIC)、现场可编程门阵列(FPGA)或其它可编程逻辑器件、分立门或晶体管逻辑、分立硬件组件或其任何组合来执行。 UE同步信号块管理器915和/或其各个子组件中的至少一些子组件可以物理地位于各个位置,包括被分布成使得功能的各部分由一个或多个物理设备在不同的物理位置处实现。 在一些示例中,根据本公开内容的各个方面,UE同步信号块管理器915和/或其各个子组件中的至少一些子组件可以是单独的和不同的组件。 在其它示例中,根据本公开内容的各个方面,UE同步信号块管理器915和/或其各种子组件中的至少一些可以与一个或多个其它硬件组件进行组合,所述一个或多个其它硬件组件包括但不限于I/O组件、收发机、网络服务器、另一计算设备、本公开内容中描述的一个或多个其它组件、或其组合。</base:Paragraphs>
+      <base:Paragraphs num="0110">[0122]UE同步信号块管理器915可以被配置为： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 可以基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者来识别第二无线资源集合内的参考信号资源的位置,其中,第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中,第二无线资源集合包括跨越第二带宽的与第一带宽的至少一部分交叠的第二频率资源集合,以及使用参考信号资源来接收参考信号传输。</base:Paragraphs>
+      <base:Paragraphs num="0111">[0123]UE同步信号块管理器915还可以被配置为： 识别用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,识别参考信号资源在时间资源的第一子集和时间资源的第二子集内的位置,其中无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,在参考信号资源上接收参考信号传输,基于参考信号资源的位置来确定参考信号传输的波形,以及基于接收到的参考信号传输和所确定的参考信号传输的波形来执行信道估计。</base:Paragraphs>
+      <base:Paragraphs num="0112">[0124]UE同步信号块管理器915还可以识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,识别参考信号资源在第二无线资源集合内的位置,在参考信号资源上接收参考信号传输,以及基于接收到的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</base:Paragraphs>
+      <base:Paragraphs num="0113">[0125]发射机920可以发送由设备的其它组件生成的信号。 在一些示例中,发射机920可以与接收机910共处于收发机模块中。 例如,发射机920可以是参照图12描述的收发机1235的各方面的示例。 发射机920可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0114">[0126]图10示出了根据本公开内容的方面的支持无线通信中的参考信号方案的无线设备1005的框图1000。 无线设备1005可以是参照图9描述的无线设备905或UE 115的各方面的示例。 无线设备1005可以包括接收机1010、UE同步信号块管理器1015和发射机1020。 无线设备1005还可以包括处理器。 这些组件中的每一者可彼此处于通信（例如,经由一条或多条总线）。</base:Paragraphs>
+      <base:Paragraphs num="0115">[0127]接收机1010可以接收信息,诸如分组、用户数据或与各种信息信道相关联的控制信息（例如,控制信道、数据信道、以及与无线通信中的参考信号方案有关的信息等）。 可以将信息传递到设备的其他组件。 接收机1010可以是参照图12描述的收发机1235的各方面的示例。 接收机1010可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0116">[0128]UE同步信号块管理器1015可以是参照图12描述的UE同步信号块管理器1215的各方面的示例。 UE同步信号块管理器1015还可以包括资源标识管理器1025、参考信号管理器1030、波形标识组件1035和信道估计组件1040。</base:Paragraphs>
+      <base:Paragraphs num="0117">[0129]资源标识管理器1025可以被配置为： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,其中第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中第二无线资源集合包括跨越与第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,以及识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,其中第二无线资源集合包括第一时间资源子集和第二时间资源子集。 在一些情况下,第二带宽大于第一带宽。</base:Paragraphs>
+      <base:Paragraphs num="0118">[0130]在一些情况下,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在一种情况下,PBCH资源包括时间资源的第一个符号和时间资源的第三个符号,同步信号资源包括时间资源的第二个符号和时间资源的第四个符号,时间资源的第二个符号位于时间资源的第一个符号和时间资源的第三个符号之间,时间资源的第四个符号位于时间资源的第三个符号之后。 在一种情况下,时间资源中的第二个符号用于传输辅同步信号,时间资源中的第四个符号用于传输主同步信号。</base:Paragraphs>
+      <base:Paragraphs num="0119">[0131]参考信号管理器1030可以基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者来识别第二无线资源集合内的参考信号资源的位置,以及在参考信号资源上接收参考信号传输。 在一些情况下,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且参考信号资源跨时间资源的第一子集和时间资源的第二子集非均匀地分布。 在一些情况下,第一时间资源子集中的参考信号资源占用与第二时间资源子集中的参考信号资源的至少一部分不同的频率资源。 在一些情况下,参考信号资源跨频率资源非均匀地分布。</base:Paragraphs>
+      <base:Paragraphs num="0120">[0132]在一些情况下,频率资源包括与第一SS带宽重叠的频率资源的第一子集和不与第一带宽重叠的频率资源的第二子集,其中,频率资源的第二子集具有比频率资源的第一子集更高的参考信号资源密度。 在一些情况下,频率资源的第一子集没有参考信号资源。 在一些情况下,参考信号传输包括DMRS传输。 在一些情况下,UE可以基于参考信号传输的参考信号资源的参考信号序列来确定基站的小区标识、广播信道传输的冗余版本、同步配置或其任何组合。 在一种情况下,这种确定是基于参考信号传输的参考信号序列与发射机标识、定时信息、或同步信号传输配置中的一者或多者之间的映射的。</base:Paragraphs>
+      <base:Paragraphs num="0121">[0133]波形识别组件1035可以基于参考信号资源的位置来确定参考信号传输的波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集中的每一个具有相同的参考信号波形。 在一些情况下,参考信号波形是Zadoff-Chu序列、m序列或其循环移位。</base:Paragraphs>
+      <base:Paragraphs num="0122">[0134]信道估计组件1040可以基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计。 在一些情况下,基于在第一无线资源集合中接收的同步信号传输来解调广播信道传输的至少一部分。</base:Paragraphs>
+      <base:Paragraphs num="0123">[0135]发射机1020可以发送由设备的其它组件生成的信号。 在一些示例中,发射机1020可以与接收机1010共处于收发机模块中。 例如,发射机1020可以是参照图12描述的收发机1235的各方面的示例。 发射机1020可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0124">[0136]图11示出了根据本公开内容的方面的支持无线通信中的参考信号方案的UE同步信号块管理器1115的框图1100。 UE同步信号块管理器1115可以是参考图9、10和12描述的UE同步信号块管理器915、UE同步信号块管理器1015或UE同步信号块管理器1215的各方面的示例。 UE同步信号块管理器1115可包括资源标识管理器1120、参考信号管理器1125、波形标识组件1130、信道估计组件1135、音调标识组件1140、以及同步信号接收机1145。 这些模块中的每一个模块可以彼此直接或间接地通信（例如,经由一条或多条总线）。</base:Paragraphs>
+      <base:Paragraphs num="0125">[0137]资源标识管理器1120可以被配置为： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,其中第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中第二无线资源集合包括跨越与第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,以及识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,其中第二无线资源集合包括第一时间资源子集和第二时间资源子集。 在一些情况下,第二带宽大于第一带宽。</base:Paragraphs>
+      <base:Paragraphs num="0126">[0138]在一些情况下,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在一种情况下,PBCH资源包括时间资源的第一个符号和时间资源的第三个符号,同步信号资源包括时间资源的第二个符号和时间资源的第四个符号,时间资源的第二个符号位于时间资源的第一个符号和时间资源的第三个符号之间,时间资源的第四个符号位于时间资源的第三个符号之后。 在一种情况下,时间资源中的第二个符号用于传输辅同步信号,时间资源中的第四个符号用于传输主同步信号。</base:Paragraphs>
+      <base:Paragraphs num="0127">[0139]参考信号管理器1125可以基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者来识别第二无线资源集合内的参考信号资源的位置,以及在参考信号资源上接收参考信号传输。 在一些情况下,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且参考信号资源跨时间资源的第一子集和时间资源的第二子集非均匀地分布。 在一些情况下,第一时间资源子集中的参考信号资源占用与第二时间资源子集中的参考信号资源的至少一部分不同的频率资源。 在一些情况下,参考信号资源跨频率资源非均匀地分布。</base:Paragraphs>
+      <base:Paragraphs num="0128">[0140]在一些情况下,频率资源包括与第一SS带宽重叠的频率资源的第一子集和不与第一带宽重叠的频率资源的第二子集,其中,频率资源的第二子集具有比频率资源的第一子集更高的参考信号资源密度。 在一些情况下,频率资源的第一子集没有参考信号资源。 在一些情况下,参考信号传输包括DMRS传输。 在一些情况下,UE可以基于参考信号传输的参考信号资源的参考信号序列来确定基站的小区标识、广播信道传输的冗余版本、同步配置或其任何组合。 在一种情况下,这种确定是基于参考信号传输的参考信号序列与发射机标识、定时信息、或同步信号传输配置中的一者或多者之间的映射的。</base:Paragraphs>
+      <base:Paragraphs num="0129">[0141]波形识别组件1130可以基于参考信号资源的位置来确定参考信号传输的波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集中的每一个具有相同的参考信号波形。 在一些情况下,参考信号波形是Zadoff-Chu序列、m序列或其循环移位。</base:Paragraphs>
+      <base:Paragraphs num="0130">[0142]信道估计组件1135可以基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计。 在一些情况下,基于在第一无线资源集合中接收的同步信号传输来解调广播信道传输的至少一部分。</base:Paragraphs>
+      <base:Paragraphs num="0131">[0143]音调识别组件1140可以识别无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且时间资源的第一子集内的参考信号资源占用与时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源。 在一些情况下,第一时间资源子集中的参考信号资源包括第一时间资源子集中的第一音调子集,并且将跳频模式应用于第一音调子集,以确定第二时间资源子集中的第二音调子集,该第二时间资源子集中的第二音调子集是第二时间资源子集中的参考信号资源。 在一些情况下,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且时间资源的第一子集和时间资源的第二子集中的参考信号资源的至少一部分占用公共频率音调。 在一些情况下,参考信号资源的位置是第二无线资源集合内的指定频调索引。 在一些情况下,时间资源的第一子集包括音调的第一子集和音调的第二子集中的参考信号资源,并且时间资源的第二子集包括音调的第一子集和音调的第三子集中的参考信号资源。 在一些情况下,时间资源的第一子集和时间资源的第二子集中的音调的第一子集具有相同的参考信号波形,并且时间资源的第一子集中的音调的第二子集和时间资源的第二子集中的音调的第三子集具有不同的参考信号波形。</base:Paragraphs>
+      <base:Paragraphs num="0132">[0144]同步信号接收机1145可以在第一无线资源集合上接收同步信号传输。 在一些情况下,所述确定包括：基于所述参考信号传输的参考信号序列,确定与所述同步信号突发集中的同步信号突发索引有关的信息。 在一种情况下,所述确定包括：基于参考信号传输的参考信号序列,确定与同步信号突发中的同步信号块索引有关的信息。 在一些情况下,所述确定包括：基于所述参考信号传输的参考信号序列来确定同步信号突发、同步信号突发集或同步信号传输的周期中的一个或多个的配置。</base:Paragraphs>
+      <base:Paragraphs num="0133">[0145]图12示出了根据本公开内容的方面的包括支持无线通信中的参考信号方案的设备1205的系统1200的示图。 设备1205可以是以上（例如,参照图9和图10）描述的无线设备905、无线设备1005或UE 115的各组件的示例,或者包括以上（例如,参照图9和图10）描述的无线设备905、无线设备1005或UE 115的各组件。 设备1205可以包括用于双向语音和数据通信的组件,包括用于发送和接收通信的组件,包括UE同步信号块管理器1215、处理器1220、存储器1225、软件1230、收发机1235、天线1240、以及I/O控制器1245。 这些组件可以经由一个或多个总线（例如,总线1210）处于电子通信中。 设备1205可以与一个或多个基站105进行无线通信。</base:Paragraphs>
+      <base:Paragraphs num="0134">[0146]处理器1220可包括智能硬件设备（例如,通用处理器、DSP、中央处理单元(CPU)、微控制器、ASIC、FPGA、可编程逻辑器件、分立门或晶体管逻辑组件、分立硬件组件、或其任何组合）。 在一些情况下,处理器1220可经配置以使用存储器控制器来操作存储器阵列。 在其它情形中,存储器控制器可并入处理器1220中。 处理器1220可被配置成执行存储在存储器中的计算机可读指令以执行各种功能（例如,支持无线通信中的参考信号方案的功能或任务）。</base:Paragraphs>
+      <base:Paragraphs num="0135">[0147]存储器1225可以包括随机存取存储器(RAM)和只读存储器(ROM)。 存储器1225可存储包括指令的计算机可读、计算机可执行软件1230,所述指令在被执行时使得处理器执行本文所描述的各种功能。 在一些情况下,存储器1225可以尤其包括基本输入/输出系统(BIOS),其可以控制基本硬件和/或软件操作,诸如与外围组件或设备的交互。</base:Paragraphs>
+      <base:Paragraphs num="0136">[0148]软件1230可包括用于实现本公开内容的各方面的代码,包括用于支持无线通信中的参考信号方案的代码。 软件1230可以被存储在诸如系统存储器或其他存储器之类的非暂时性计算机可读介质中。 在一些情形中,软件1230可以不由处理器直接执行,而是可以使计算机（例如,当被编译和执行时）执行本文所描述的功能。</base:Paragraphs>
+      <base:Paragraphs num="0137">[0149]收发机1235可以经由一个或多个天线、有线或无线链路进行双向通信,如上所述。 例如,收发机1235可以表示无线收发机,并且可以与另一无线收发机进行双向通信。 收发机1235还可以包括调制解调器,该调制解调器用于调制分组并将经调制的分组提供给天线以进行传输,以及用于解调从天线接收到的分组。</base:Paragraphs>
+      <base:Paragraphs num="0138">[0150]在一些实例中,无线设备可包括单个天线1240。 然而,在一些情况下,设备可以具有多于一个天线1240,其可以能够同时发送或接收多个无线传输。</base:Paragraphs>
+      <base:Paragraphs num="0139">[0151]I/O控制器1245可以管理设备1205的输入和输出信号。 I/O控制器1245还可以管理未并入设备1205中的外围设备。 在一些情况下,I/O控制器1245可以表示到外部外围设备的物理连接或端口。 在一些情况下,I/O控制器1245可以利用操作系统,诸如或另一已知操作系统。 在其它情形中,I/O控制器1245可表示调制解调器、键盘、鼠标、触摸屏或类似装置或与调制解调器、键盘、鼠标、触摸屏或类似装置交互。 在一些情况下,I/O控制器1245可以被实现为处理器的一部分。 在一些情况下,用户可以经由I/O控制器1245或经由由I/O控制器1245控制的硬件组件与设备1205交互。</base:Paragraphs>
+      <base:Paragraphs num="0140">[0152]图13示出了根据本公开内容的方面的支持无线通信中的参考信号方案的无线设备1305的框图1300。 无线设备1305可以是本文描述的基站105的各方面的示例。 无线设备1305可以包括接收机1310、基站同步信号块管理器1315和发射机1320。 无线设备1305还可以包括处理器。 这些组件中的每一者可彼此处于通信（例如,经由一条或多条总线）。</base:Paragraphs>
+      <base:Paragraphs num="0141">[0153]接收机1310可以接收信息,诸如分组、用户数据或与各种信息信道相关联的控制信息（例如,控制信道、数据信道、以及与无线通信中的参考信号方案有关的信息等）。 可以将信息传递到设备的其他组件。 接收机1310可以是参照图16描述的收发机1635的各方面的示例。 接收机1310可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0142">[0154]基站同步信号块管理器1315可以是参照图16描述的基站同步信号块管理器1615的各方面的示例。</base:Paragraphs>
+      <base:Paragraphs num="0143">[0155]基站同步信号块管理器1315和/或其各种子组件中的至少一些子组件可以用硬件、由处理器执行的软件、固件、或其任何组合来实现。 如果在由处理器执行的软件中实现,则基站同步信号块管理器1315和/或其各种子组件中的至少一些子组件的功能可以由被设计为执行本公开内容中描述的功能的通用处理器、DSP、ASIC、FPGA或其它可编程逻辑设备、分立的门或晶体管逻辑、分立的硬件组件或其任何组合来执行。 基站同步信号块管理器1315和/或其各个子组件中的至少一些子组件可以在物理上位于各个位置,包括被分布成使得功能的各部分由一个或多个物理设备在不同的物理位置处实现。 在一些示例中,根据本公开内容的各个方面,基站同步信号块管理器1315和/或其各个子组件中的至少一些子组件可以是分开且不同的组件。 在其它示例中,根据本公开内容的各个方面,基站同步信号块管理器1315和/或其各个子组件中的至少一些子组件可以与一个或多个其它硬件组件进行组合,所述一个或多个其它硬件组件包括但不限于I/O组件、收发机、网络服务器、另一计算设备、本公开内容中描述的一个或多个其它组件、或其组合。</base:Paragraphs>
+      <base:Paragraphs num="0144">[0156]基站同步信号块管理器1315可以被配置为： 配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 可以在无线资源的第二集合内配置参考信号资源,其中,无线资源的第一集合包括第一带宽上的频率资源的第一集合,并且无线资源的第二集合包括与第一带宽的至少一部分交叠的第二带宽上的频率资源的第二集合,并且其中,参考信号资源的位置基于相对于第一带宽的无线资源的第二集合内的时间资源位置或无线资源的第二集合内的频率资源位置中的一者或多者,使用参考信号资源来发送参考信号传输,以及使用无线资源的第一集合来发送同步信号传输。</base:Paragraphs>
+      <base:Paragraphs num="0145">[0157]基站同步信号块管理器1315还可以配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置参考信号资源在第一时间资源子集和第二时间资源子集内的位置,其中,第二无线资源集合包括第一时间资源子集和第二时间资源子集,基于参考信号资源的位置来确定参考信号传输的波形,以及在参考信号资源上发送参考信号。</base:Paragraphs>
+      <base:Paragraphs num="0146">[0158]基站同步信号块管理器1315还可以配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置第二无线资源集合内的参考信号资源的位置,在参考信号资源上发送参考信号传输,其中参考信号传输、参考信号资源的位置或其任何组合提供对发射机标识、定时信息或同步信号传输配置中的一者或多者的指示。</base:Paragraphs>
+      <base:Paragraphs num="0147">[0159]发射机1320可以发送由设备的其它组件生成的信号。 在一些示例中,发射机1320可以与接收机1310共处于收发机模块中。 例如,发射机1320可以是参照图16描述的收发机1635的各方面的示例。 发射机1320可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0148">[0160]图14示出了根据本公开内容的方面的支持无线通信中的参考信号方案的无线设备1405的框图1400。 无线设备1405可以是参考图13描述的无线设备1305或基站105的各方面的示例。 无线设备1405可包括接收机1410、基站同步信号块管理器1415、和发射机1420。 无线设备1405还可以包括处理器。 这些组件中的每一者可彼此处于通信（例如,经由一条或多条总线）。</base:Paragraphs>
+      <base:Paragraphs num="0149">[0161]接收机1410可以接收信息,诸如分组、用户数据或与各种信息信道相关联的控制信息（例如,控制信道、数据信道、以及与无线通信中的参考信号方案有关的信息等）。 可以将信息传递到设备的其他组件。 接收机1410可以是参照图16描述的收发机1635的各方面的示例。 接收机1410可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0150">[0162]基站同步信号块管理器1415可以是参照图16描述的基站同步信号块管理器1615的各方面的示例。 基站同步信号块管理器1415还可包括资源标识管理器1425、参考信号管理器1430、以及波形标识组件1435。</base:Paragraphs>
+      <base:Paragraphs num="0151">[0163]资源标识管理器1425可以被配置为： 配置用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,无线资源的第一集合可以包括第一带宽上的频率资源的第一集合,无线资源的第二集合可以包括与第一带宽的至少一部分交叠的第二带宽上的频率资源的第二集合,以及配置用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,无线资源的第二集合可以包括时间资源的第一子集和时间资源的第二子集。 在一些情况下,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在一种情况下,PBCH资源包括时间资源的第一个符号和时间资源的第三个符号,同步信号资源包括时间资源的第二个符号和时间资源的第四个符号,时间资源的第二个符号位于时间资源的第一个符号和时间资源的第三个符号之间,时间资源的第四个符号位于时间资源的第三个符号之后。 在一种情况下,时间资源中的第二个符号用于传输辅同步信号,时间资源中的第四个符号用于传输主同步信号。 在一些情况下,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在一些情况下,第二带宽大于第一带宽。 在一些情况下,基站可以配置在第二频率资源集合上非均匀地分布的参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0152">[0164]参考信号管理器1430可以在第二无线资源集合内配置参考信号资源,参考信号资源的位置是基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者的。 在一些情况下,参考信号传输包括DMRS传输。 在一些情况下,配置参考信号资源的位置包括：配置在第二频率资源集合上非均匀分布的参考信号资源。 在一些情况下,第二频率资源集合包括与第一带宽重叠的第一频率资源子集和不与第一带宽重叠的第二频率资源子集,其中,第二频率资源子集具有比第一频率资源子集更高的参考信号资源密度。 在一些情况下,频率资源的第一子集没有参考信号资源。 在一些情况下,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且参考信号资源跨时间资源的第一子集和时间资源的第二子集非均匀地分布。</base:Paragraphs>
+      <base:Paragraphs num="0153">[0165]在一些情况下,基站的小区标识、同步信号突发集合中的同步信号突发索引、同步信号突发中的同步信号块索引、在第二无线资源集合中发送的广播信道传输的冗余版本、同步信号突发、同步信号突发集合、同步信号传输的周期的配置中的一个或多个或其任何组合被映射到参考信号传输的参考信号序列。 在一些情况下,映射在参考信号资源的音调位置与以下各项中的一项或多项之间：基站的小区标识、同步信号突发集合中的同步信号突发索引、同步信号突发中的同步信号块索引、在第二无线资源集合中发送的广播信道传输的冗余版本、同步信号突发、同步信号突发集合、同步信号传输的周期的配置、或其任何组合。</base:Paragraphs>
+      <base:Paragraphs num="0154">[0166]波形识别组件1435可以基于参考信号资源的位置来确定参考信号传输的波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集中的每一个具有相同的参考信号波形。 在一些情况下,参考信号波形是Zadoff-Chu序列、m序列或其循环移位。 在一些情况下,时间资源的第一子集和时间资源的第二子集中的音调的第一子集具有相同的参考信号波形,并且时间资源的第一子集中的音调的第二子集和时间资源的第二子集中的音调的第三子集具有不同的参考信号波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集具有不同的参考信号波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集具有参考信号序列的不同部分,诸如Zadoff-Chu序列、m序列或其循环移位。</base:Paragraphs>
+      <base:Paragraphs num="0155">[0167]发射机1420可传送由该设备的其它组件生成的信号。 在一些示例中,发射机1420可以与接收机1410共处于收发机模块中。 例如,发射机1420可以是参照图16描述的收发机1635的各方面的示例。 发射机1420可以利用单个天线或天线集合。</base:Paragraphs>
+      <base:Paragraphs num="0156">[0168]图15示出了根据本公开内容的方面的支持无线通信中的参考信号方案的基站同步信号块管理器1515的框图1500。 基站同步信号块管理器1515可以是参照图13、14和16描述的基站同步信号块管理器1615的各方面的示例。 基站同步信号块管理器1515可包括资源标识管理器1520、参考信号管理器1525、波形标识组件1530、以及音调标识组件1535。 这些模块中的每一个模块可以彼此直接或间接地通信（例如,经由一条或多条总线）。</base:Paragraphs>
+      <base:Paragraphs num="0157">[0169]资源标识管理器1520可以被配置为： 配置用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,无线资源的第一集合可以包括第一带宽上的频率资源的第一集合,无线资源的第二集合可以包括与第一带宽的至少一部分交叠的第二带宽上的频率资源的第二集合,以及配置用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,无线资源的第二集合可以包括时间资源的第一子集和时间资源的第二子集。 在一些情况下,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在一种情况下,PBCH资源包括时间资源的第一个符号和时间资源的第三个符号,同步信号资源包括时间资源的第二个符号和时间资源的第四个符号,时间资源的第二个符号位于时间资源的第一个符号和时间资源的第三个符号之间,时间资源的第四个符号位于时间资源的第三个符号之后。 在一种情况下,时间资源中的第二个符号用于传输辅同步信号,时间资源中的第四个符号用于传输主同步信号。 在一些情况下,第二无线资源集合包括PBCH资源,并且第一无线资源集合包括同步信号资源。 在一些情况下,第二带宽大于第一带宽。 在一些情况下,基站可以配置在第二频率资源集合上非均匀地分布的参考信号资源。</base:Paragraphs>
+      <base:Paragraphs num="0158">[0170]参考信号管理器1525可以在第二无线资源集合内配置参考信号资源,参考信号资源的位置是基于相对于第一带宽的第二无线资源集合内的时间资源位置或第二无线资源集合内的频率资源位置中的一者或多者的。 在一些情况下,参考信号传输包括DMRS传输。 在一些情况下,配置参考信号资源的位置包括：配置在第二频率资源集合上非均匀分布的参考信号资源。 在一些情况下,第二频率资源集合包括与第一带宽重叠的第一频率资源子集和不与第一带宽重叠的第二频率资源子集,其中,第二频率资源子集具有比第一频率资源子集更高的参考信号资源密度。 在一些情况下,频率资源的第一子集没有参考信号资源。 在一些情况下,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且参考信号资源跨时间资源的第一子集和时间资源的第二子集非均匀地分布。</base:Paragraphs>
+      <base:Paragraphs num="0159">[0171]在一些情况下,基站的小区标识、同步信号突发集合中的同步信号突发索引、同步信号突发中的同步信号块索引、在第二无线资源集合中发送的广播信道传输的冗余版本、同步信号突发、同步信号突发集合、同步信号传输的周期的配置中的一个或多个或其任何组合被映射到参考信号传输的参考信号序列。 在一些情况下,映射在参考信号资源的音调位置与以下各项中的一项或多项之间：基站的小区标识、同步信号突发集合中的同步信号突发索引、同步信号突发中的同步信号块索引、在第二无线资源集合中发送的广播信道传输的冗余版本、同步信号突发、同步信号突发集合、同步信号传输的周期的配置、或其任何组合。</base:Paragraphs>
+      <base:Paragraphs num="0160">[0172]波形识别组件可以基于参考信号资源的位置来确定参考信号传输的波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集中的每一个具有相同的参考信号波形。 在一些情况下,参考信号波形是Zadoff-Chu序列、m序列或其循环移位。 在一些情况下,时间资源的第一子集和时间资源的第二子集中的音调的第一子集具有相同的参考信号波形,并且时间资源的第一子集中的音调的第二子集和时间资源的第二子集中的音调的第三子集具有不同的参考信号波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集具有不同的参考信号波形。 在一些情况下,时间资源的第一子集和时间资源的第二子集具有参考信号序列的不同部分,诸如Zadoff-Chu序列、m序列或其循环移位。</base:Paragraphs>
+      <base:Paragraphs num="0161">[0173]在一些情况下,频调识别组件1535可以识别参考信号资源的频调。 在一些情况下,第一时间资源子集中的参考信号资源包括第一时间资源子集中的第一音调子集,并且将跳频模式应用于第一音调子集,以确定第二时间资源子集中的第二音调子集,该第二时间资源子集中的第二音调子集是第二时间资源子集中的参考信号资源。 在一些情况下,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且时间资源的第一子集和时间资源的第二子集中的参考信号资源的至少一部分占用公共频率音调。 在一些情况下,参考信号资源的位置是第二无线资源集合内的指定频调索引。</base:Paragraphs>
+      <base:Paragraphs num="0162">[0174]图16示出了根据本公开内容的方面的包括支持无线通信中的参考信号方案的设备1605的系统1600的示图。 设备1605可以是以上（例如,参照图1）描述的基站105的各组件的示例或者包括以上（例如,参照图1）描述的基站105的各组件。 设备1605可以包括用于双向语音和数据通信的组件,包括用于发送和接收通信的组件,包括基站同步信号块管理器1615、处理器1620、存储器1625、软件1630、收发机1635、天线1640、网络通信管理器1645和站间通信管理器1650。 这些组件可以经由一个或多个总线（例如,总线1610）处于电子通信中。 设备1605可以与一个或多个UE 115进行无线通信。</base:Paragraphs>
+      <base:Paragraphs num="0163">[0175]处理器1620可包括智能硬件设备（例如,通用处理器、DSP、CPU、微控制器、ASIC、FPGA、可编程逻辑器件、分立门或晶体管逻辑组件、分立硬件组件、或其任何组合）。 在一些情况下,处理器1620可以被配置为使用存储器控制器来操作存储器阵列。 在其它情形中,存储器控制器可并入处理器1620中。 处理器1620可被配置成执行存储在存储器中的计算机可读指令以执行各种功能（例如,支持无线通信中的参考信号方案的功能或任务）。</base:Paragraphs>
+      <base:Paragraphs num="0164">[0176]存储器1625可以包括RAM和ROM。 存储器1625可存储包括指令的计算机可读、计算机可执行软件1630,所述指令在被执行时使得处理器执行本文所描述的各种功能。 在一些情况下,存储器1625可以尤其包含BIOS,其可以控制基本硬件和/或软件操作,诸如与外围组件或设备的交互。</base:Paragraphs>
+      <base:Paragraphs num="0165">[0177]软件1630可包括用于实现本公开内容的各方面的代码,包括用于支持无线通信中的参考信号方案的代码。 软件1630可以被存储在非瞬态计算机可读介质（诸如系统存储器或其他存储器）中。 在一些情况下,软件1630可以不由处理器直接执行,而是可以使计算机（例如,在被编译和执行时）执行本文描述的功能。</base:Paragraphs>
+      <base:Paragraphs num="0166">[0178]收发机1635可以经由一个或多个天线、有线或无线链路进行双向通信,如上所述。 例如,收发机1635可以表示无线收发机,并且可以与另一无线收发机进行双向通信。 收发机1635还可以包括调制解调器,该调制解调器用于调制分组并将经调制的分组提供给天线以进行传输,以及用于解调从天线接收到的分组。</base:Paragraphs>
+      <base:Paragraphs num="0167">[0179]在一些情况下,无线设备可以包括单个天线1640。 然而,在一些情况下,设备可以具有多于一个天线1640,其可以能够同时发送或接收多个无线传输。</base:Paragraphs>
+      <base:Paragraphs num="0168">[0180]网络通信管理器1645可以管理与核心网的通信（例如,经由一个或多个有线回程链路）。 例如,网络通信管理器1645可以管理客户端设备（诸如一个或多个UE 115）的数据通信的传输。</base:Paragraphs>
+      <base:Paragraphs num="0169">[0181]站间通信管理器1650可以管理与其它基站105的通信,并且可以包括用于与其它基站105协作地控制与UE 115的通信的控制器或调度器。 例如,站间通信管理器1650可以针对各种干扰减轻技术（诸如波束成形或联合传输）来协调对去往UE 115的传输的调度。 在一些示例中,站间通信管理器1650可以提供长期演进(LTE)/LTE-A无线通信网络技术内的X2接口,以提供基站105之间的通信。</base:Paragraphs>
+      <base:Paragraphs num="0170">[0182]图17示出了根据本公开内容的方面的用于无线通信中的参考信号方案的方法1700的流程图。 方法1700的操作可以由如本文所描述的UE 115或其组件来实现。 例如,方法1700的操作可以由如参照图9到12描述的UE同步信号块管理器来执行。 在一些示例中,UE 115可以执行代码集以控制该设备的功能元件执行下面描述的功能。 附加地或替换地,UE 115可以使用专用硬件来执行下面描述的功能的各方面。</base:Paragraphs>
+      <base:Paragraphs num="0171">[0183]在方块1705处,UE 115可以识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且第二无线资源集合包括跨越与第一带宽的至少一部分交叠的第二带宽的第二频率资源集合。 框1705的操作可以根据本文描述的方法来执行。 在某些示例中,框1705的操作的各方面可以由如参照图9到12描述的资源标识管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0172">[0184]在方块1710处,UE 115可以至少部分地基于相对于第一带宽的第二无线资源集合内的时间资源位置或者第二无线资源集合内的频率资源位置中的一者或多者,来识别第二无线资源集合内的参考信号资源的位置。 框1710的操作可以根据本文描述的方法来执行。 在某些示例中,框1710的操作的各方面可由如参照图9到12描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0173">[0185]在框1715,UE 115可以使用参考信号资源来接收参考信号传输。 框1715的操作可以根据本文描述的方法来执行。 在某些示例中,框1715的操作的各方面可由如参照图9到12描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0174">[0186]图18示出了解说根据本公开内容的方面的用于无线通信中的参考信号方案的方法1800的流程图。 方法1800的操作可由如本文所描述的UE 115或其组件来实现。 例如,方法1800的操作可以由如参照图9到12描述的UE同步信号块管理器来执行。 在一些示例中,UE 115可以执行代码集以控制该设备的功能元件执行下面描述的功能。 附加地或替换地,UE 115可以使用专用硬件来执行下面描述的功能的各方面。</base:Paragraphs>
+      <base:Paragraphs num="0175">[0187]在框1805,UE 115可以识别用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集。 框1805的操作可以根据本文描述的方法来执行。 在某些示例中,框1805的操作的各方面可以由如参照图9到12描述的资源标识管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0176">[0188]在框1810处,UE 115可以识别参考信号资源在时间资源的第一子集和时间资源的第二子集内的位置。 框1810的操作可以根据本文描述的方法来执行。 在某些示例中,框1810的操作的各方面可由如参照图9到12描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0177">[0189]在框1815,UE 115可以在参考信号资源上接收参考信号传输。 框1815的操作可以根据本文描述的方法来执行。 在某些示例中,框1815的操作的各方面可由如参照图9到12描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0178">[0190]在框1820,UE 115可以至少部分地基于参考信号资源的位置来确定参考信号传输的波形。 框1820的操作可以根据本文描述的方法来执行。 在某些示例中,框1820的操作的各方面可以由如参照图9到12所描述的波形识别组件来执行。</base:Paragraphs>
+      <base:Paragraphs num="0179">[0191]在框1825,UE 115可以至少部分地基于所接收的参考信号传输和所确定的参考信号传输的波形来执行信道估计。 框1825的操作可以根据本文描述的方法来执行。 在某些示例中,框1825的操作的各方面可以由如参照图9到12所描述的信道估计组件来执行。</base:Paragraphs>
+      <base:Paragraphs num="0180">[0192]图19示出了解说根据本公开内容的方面的用于无线通信中的参考信号方案的方法1900的流程图。 方法1900的操作可以由如本文所描述的UE 115或其组件来实现。 例如,方法1900的操作可以由如参照图9到12描述的UE同步信号块管理器来执行。 在一些示例中,UE 115可以执行代码集以控制该设备的功能元件执行下面描述的功能。 附加地或替换地,UE 115可以使用专用硬件来执行下面描述的功能的各方面。</base:Paragraphs>
+      <base:Paragraphs num="0181">[0193]在方块1905处,UE 115可以识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合。 框1905的操作可以根据本文描述的方法来执行。 在某些示例中,框1905的操作的各方面可以由如参照图9到12描述的资源标识管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0182">[0194]在框1910处,UE 115可以识别参考信号资源在第二无线资源集合内的位置。 框1910的操作可以根据本文描述的方法来执行。 在某些示例中,框1910的操作的各方面可由如参照图9到12描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0183">[0195]在框1915,UE 115可以在参考信号资源上接收参考信号传输。 框1915的操作可以根据本文描述的方法来执行。 在某些示例中,框1915的操作的各方面可由如参照图9到12描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0184">[0196]在框1920,UE 115可以至少部分地基于所接收到的参考信号传输来确定发射机标识、时序信息、或同步信号传输配置中的一者或多者。 框1920的操作可以根据本文描述的方法来执行。 在某些示例中,框1920的操作的各方面可由如参照图9到12描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0185">[0197]图20示出了解说根据本公开内容的方面的用于无线通信中的参考信号方案的方法2000的流程图。 方法2000的操作可以由如本文所描述的基站105或其组件来实现。 例如,方法2000的操作可由如参照图13到16描述的基站同步信号块管理器来执行。 在一些示例中,基站105可以执行代码集以控制设备的功能元件执行下面描述的功能。 附加地或替换地,基站105可以使用专用硬件来执行下面描述的功能的各方面。</base:Paragraphs>
+      <base:Paragraphs num="0186">[0198]在框2005处,基站105可以配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,其中,第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中,第二无线资源集合包括跨越与第一带宽的至少一部分交叠的第二带宽的第二频率资源集合。 框2005的操作可以根据本文描述的方法来执行。 在某些示例中,方块2005的操作的各方面可以由如参照图13到16描述的资源标识管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0187">[0199]在框2010处,基站105可以在无线资源的第二集合内配置参考信号资源,参考信号资源的位置至少部分地基于相对于第一带宽的无线资源的第二集合内的时间资源位置或者无线资源的第二集合内的频率资源位置中的一者或多者。 框2010的操作可以根据本文描述的方法来执行。 在某些示例中,框2010的操作的各方面可由如参照图13到16描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0188">[0200]在框2015处,基站105可以使用参考信号资源来发送参考信号传输,以及使用第一无线资源集来发送同步信号传输。 框2015的操作可以根据本文描述的方法来执行。 在某些示例中,框2015的操作的各方面可由如参照图13到16描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0189">[0201]图21示出了解说根据本公开内容的方面的用于无线通信中的参考信号方案的方法2100的流程图。 方法2100的操作可以由如本文所描述的基站105或其组件来实现。 例如,方法2100的操作可由如参照图13到16描述的基站同步信号块管理器来执行。 在一些示例中,基站105可以执行代码集以控制设备的功能元件执行下面描述的功能。 附加地或替换地,基站105可以使用专用硬件来执行下面描述的功能的各方面。</base:Paragraphs>
+      <base:Paragraphs num="0190">[0202]在框2105处,基站105可以配置用于同步信号传输的无线资源的第一集合和用于广播信道传输的无线资源的第二集合,无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集。 框2105的操作可以根据本文描述的方法来执行。 在某些示例中,方块2105的操作的各方面可以由如参照图13到16描述的资源标识管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0191">[0203]在框2110处,基站105可以在时间资源的第一子集和时间资源的第二子集内配置参考信号资源的位置。 框2110的操作可以根据本文描述的方法来执行。 在某些示例中,框2110的操作的各方面可由如参照图13到16描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0192">[0204]在框2115处,基站105可以至少部分地基于参考信号资源的位置来确定参考信号传输的波形。 框2115的操作可以根据本文描述的方法来执行。 在某些示例中,框2115的操作的各方面可以由如参照图13到16所描述的波形识别组件来执行。</base:Paragraphs>
+      <base:Paragraphs num="0193">[0205]在框2120处,基站105可以在参考信号资源上发送参考信号。 框2120的操作可以根据本文描述的方法来执行。 在某些示例中,框2120的操作的各方面可由如参照图13到16描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0194">[0206]图22示出了解说根据本公开内容的方面的用于无线通信中的参考信号方案的方法2200的流程图。 方法2200的操作可以由如本文所描述的基站105或其组件来实现。 例如,方法2200的操作可由如参照图13到16描述的基站同步信号块管理器来执行。 在一些示例中,基站105可以执行代码集以控制设备的功能元件执行下面描述的功能。 附加地或替换地,基站105可以使用专用硬件来执行下面描述的功能的各方面。</base:Paragraphs>
+      <base:Paragraphs num="0195">[0207]在框2205处,基站105可以配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合。 框2205的操作可以根据本文描述的方法来执行。 在某些示例中,方块2205的操作的各方面可以由如参照图13到16描述的资源标识管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0196">[0208]在框2210处,基站105可以配置参考信号资源在第二无线资源集合内的位置。 框2210的操作可以根据本文描述的方法来执行。 在某些示例中,框2210的操作的各方面可由如参照图13到16描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0197">[0209]在框2215处,基站105可以在参考信号资源上发送参考信号传输,其中,参考信号传输、参考信号资源的位置、或其任何组合提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。 框2215的操作可以根据本文描述的方法来执行。 在某些示例中,框2215的操作的各方面可由如参照图13到16描述的参考信号管理器来执行。</base:Paragraphs>
+      <base:Paragraphs num="0198">[0210]应当注意,上述方法描述了可能的实现方式,并且操作和步骤可以被重新安排或以其他方式修改,并且其他实现方式是可能的。 此外,可以组合来自两种或更多种方法的方面。</base:Paragraphs>
+      <base:Paragraphs num="0199">[0211]本文描述的技术可以用于各种无线通信系统,诸如码分多址(CDMA)、时分多址(TDMA)、频分多址(FDMA)、正交频分多址(OFDMA)、单载波频分多址（SC-FDMA）以及其它系统。 术语“系统”和“网络”通常可互换地使用。 码分多址(CDMA)系统可以实现诸如CDMA2000、通用陆地无线电接入(UTRA)等的无线电技术。 CDMA2000涵盖IS-2000、IS-95和IS-856标准。 IS-2000版本通常可以被称为CDMA2000 1X、1X等。 IS-856（TIA-856）通常被称为CDMA2000 1xEV-DO、高速分组数据(HRPD)等。 UTRA包括宽带CDMA(WCDMA)和CDMA的其它变型。 TDMA系统可以实现诸如全球移动通信系统(GSM)之类的无线电技术。</base:Paragraphs>
+      <base:Paragraphs num="0200">[0212]OFDMA系统可以实现诸如超移动宽带(UMB)、演进型UTRA（E-UTRA）、电气和电子工程师协会(IEEE)802.11（Wi-Fi）、IEEE 802.16（WiMAX）、IEEE 802.20、Flash-OFDM等的无线电技术。 UTRA和E-UTRA是通用移动电信系统(UMTS)的一部分。 LTE和LTE-A是使用E-UTRA的UMTS的版本。 在来自名为“第三代合作伙伴计划”（3GPP）的组织的文档中描述了UTRA、E-UTRA、UMTS、LTE、LTE-A、NR和GSM。 在来自名为“第三代合作伙伴计划2”（3GPP2）的组织的文档中描述了CDMA2000和UMB。 本文描述的技术可以用于上述系统和无线技术以及其它系统和无线技术。 虽然LTE或NR系统的各方面可以被描述为示例,并且在大部分描述中可以使用LTE或NR术语,但是本文描述的技术可以应用于LTE或NR应用之外。</base:Paragraphs>
+      <base:Paragraphs num="0201">[0213]在LTE/LTE-A网络（包括本文描述的此类网络）中,术语演进型节点B（eNB）通常可以用于描述基站。 本文描述的一个或多个无线通信系统可以包括异构LTE/LTE-A或NR网络,其中不同类型的eNB为各种地理区域提供覆盖。 例如,每个eNB、下一代节点B（gNB）或基站可以为宏小区、小型小区或其它类型的小区提供通信覆盖。 取决于上下文,术语“小区”可以用于描述基站、与基站相关联的载波或分量载波、或者载波或基站的覆盖区域（例如,扇区等）。</base:Paragraphs>
+      <base:Paragraphs num="0202">[0214]基站可以包括或被本领域技术人员称为基站收发机、无线基站、接入点、无线收发机、节点B、演进型节点B（eNB）、gNB、家庭节点B、家庭演进型节点B或某个其它合适的术语。 基站的地理覆盖区域可以被划分成仅构成覆盖区域的一部分的扇区。 本文描述的一个或多个无线通信系统可以包括不同类型的基站（例如,宏小区基站或小型小区基站）。 本文描述的UE可以能够与各种类型的基站和网络装备（包括宏eNB、小型小区eNB、gNB、中继基站等）通信。 对于不同的技术,可能存在重叠的地理覆盖区域。</base:Paragraphs>
+      <base:Paragraphs num="0203">[0215]宏小区通常覆盖相对较大的地理区域（例如,半径为数千米的区域）,并且可以允许由具有与网络提供商的服务订制的UE进行不受限制的接入。 与宏蜂窝小区相比,小型蜂窝小区是较低功率的基站,其可在与宏蜂窝小区相同或不同（例如,有执照、无执照等）的频带中操作。 根据各种示例,小型小区可以包括微微小区、毫微微小区和微小区。 例如,微微小区可以覆盖较小的地理区域,并且可以允许由具有与网络提供商的服务订阅的UE进行不受限制的接入。 毫微微小区也可以覆盖小地理区域（例如,家庭）,并且可以提供由与毫微微小区具有关联的UE（例如,封闭订户组(CSG)中的UE、家庭中的用户的UE等）进行的受限制的接入。 用于宏小区的eNB可以被称为宏eNB。 用于小型蜂窝小区的eNB可被称为小型蜂窝小区eNB、微微eNB、毫微微eNB、或家庭eNB。 eNB可以支持一个或多个（例如,两个、三个、四个等等）小区（例如,分量载波）。</base:Paragraphs>
+      <base:Paragraphs num="0204">[0216]本文描述的一个或多个无线通信系统可以支持同步或异步操作。 对于同步操作,基站可以具有类似的帧定时,并且来自不同基站的传输可以在时间上近似地对齐。 对于异步操作,基站可以具有不同的帧定时,并且来自不同基站的传输可以在时间上不对齐。 本文描述的技术可以用于同步操作或异步操作。</base:Paragraphs>
+      <base:Paragraphs num="0205">[0217]本文描述的下行链路传输还可以被称为前向链路传输,而上行链路传输还可以被称为反向链路传输。 本文描述的每个通信链路（例如,包括图1和图2的无线通信系统100和200）可以包括一个或多个载波,其中每个载波可以是由多个子载波组成的信号（例如,不同频率的波形信号）。</base:Paragraphs>
+      <base:Paragraphs num="0206">[0218]本文结合附图阐述的描述描述了示例配置,并且不表示可以实现或在权利要求的范围内的所有示例。 如本文所使用的,术语“示例性”意指“用作示例、实例或说明”,而不是“优选的”或“优于其它示例”。 为了提供对所描述的技术的理解,详细描述包括具体细节。 然而,可以在没有这些具体细节的情况下实践这些技术。 在一些实例中,以框图形式示出了公知的结构和设备,以避免模糊所描述的示例的概念。</base:Paragraphs>
+      <base:Paragraphs num="0207">[0219]在附图中,类似的组件或特征可以具有相同的附图标记。 此外,相同类型的各种组件可以通过在附图标记之后跟随短划线和在类似组件之间进行区分的第二标记来进行区分。 如果在说明书中仅使用了第一附图标记,则该描述可应用于具有相同的第一附图标记的类似组件中的任何组件,而不管第二附图标记如何。</base:Paragraphs>
+      <base:Paragraphs num="0208">[0220]本文描述的信息和信号可以使用各种各样的技术和技术中的任何一种来表示。 例如,贯穿上面描述始终可能被述及的数据、指令、命令、信息、信号、比特、码元和码片可由电压、电流、电磁波、磁场或粒子、光场或粒子、或其任何组合来表示。</base:Paragraphs>
+      <base:Paragraphs num="0209">[0221]结合本文公开内容描述的各种解说性框和模块可用设计成执行本文描述的功能的通用处理器、DSP、ASIC、FPGA或其他可编程逻辑器件、分立的门或晶体管逻辑、分立的硬件组件、或其任何组合来实现或执行。 通用处理器可以是微处理器,但在替代方案中,处理器可以是任何常规的处理器、控制器、微控制器或状态机。 处理器还可以被实现为计算设备的组合（例如,DSP和微处理器的组合、多个微处理器、一个或多个微处理器结合DSP内核、或者任何其它这样的配置）。</base:Paragraphs>
+      <base:Paragraphs num="0210">[0222]本文描述的功能可以在硬件、由处理器执行的软件、固件或其任何组合中实现。 如果在由处理器执行的软件中实现,则各功能可以作为一条或多条指令或代码存储在计算机可读介质上或在计算机可读介质上传输。 其他示例和实现在本公开内容和所附权利要求的范围内。 例如,由于软件的本质,上述功能可以使用由处理器执行的软件、硬件、固件、硬连线或其任何组合来实现。 实现功能的特征也可以物理地位于各种位置,包括被分布成使得功能的各部分在不同的物理位置处实现。 此外,如本文所使用的,包括在权利要求中,在项目列表（例如,以诸如“中的至少一个”或“中的一个或多个”的短语结尾的项目列表）中使用的“或”指示包含性列表,使得例如A、B或C中的至少一个的列表意指A或B或C或AB或AC或BC或ABC（即,A和B和C）。 此外,如本文所使用的,短语“基于”不应被解释为对封闭的条件集合的引用。 例如,在不脱离本公开的范围的情况下,描述为“基于条件A”的示例性步骤可以基于条件A和条件B两者。 换言之,如本文所使用的,短语“基于”应当以与短语“至少部分地基于”类似的方式来解释。</base:Paragraphs>
+      <base:Paragraphs num="0211">[0223]计算机可读媒体包含非暂时性计算机存储媒体及通信媒体两者,所述通信媒体包含促进计算机程序从一处传送到另一处的任何媒体。 非暂时性存储媒体可为可由通用或专用计算机存取的任何可用媒体。 作为示例而非限制,非瞬态计算机可读介质可以包括RAM、ROM、电可擦除可编程只读存储器(EEPROM)、压缩盘(CD)ROM或其它光盘存储、磁盘存储或其它磁存储设备、或者可以用于携带或存储指令或数据结构形式的期望程序代码单元并且可以由通用或专用计算机或者通用或专用处理器访问的任何其它非瞬态介质。 此外,任何连接被适当地称为计算机可读介质。 举例来说,如果软件是使用同轴电缆、光纤电缆、双绞线、数字订户线(DSL)或无线技术（例如红外线、无线电及微波）从网站、服务器或其它远程源发射,那么同轴电缆、光纤电缆、双绞线、DSL或无线技术（例如红外线、无线电及微波）包含于媒体的定义中。 如本文所使用的,磁盘和光盘包括CD、激光光盘、光盘、数字通用光盘(DVD)、软盘和蓝光光盘,其中磁盘通常磁性地再现数据,而光盘用激光来光学地再现数据。 上述的组合也包括在计算机可读介质的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0212">[0224]提供本文的描述是为了使本领域技术人员能够制作或使用本公开。 对本公开内容的各种修改对于本领域技术人员将是显而易见的,并且在不脱离本公开内容的范围的情况下,本文定义的一般原理可以应用于其他变型。 因此,本公开内容不限于本文所描述的示例和设计,而是要符合与本文所公开的原理和新颖性特征相一致的最宽范围。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="101" wi="61" file="2020517163_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="122" wi="83" file="2020517163_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="122" wi="83" file="2020517163_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="122" wi="83" file="2020517163_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="122" wi="83" file="2020517163_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="122" wi="83" file="2020517163_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="122" wi="83" file="2020517163_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="122" wi="83" file="2020517163_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="83" file="2020517163_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="122" wi="83" file="2020517163_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="122" wi="83" file="2020517163_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="122" wi="83" file="2020517163_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="122" wi="83" file="2020517163_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="122" wi="83" file="2020517163_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="122" wi="83" file="2020517163_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="122" wi="83" file="2020517163_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="122" wi="83" file="2020517163_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="122" wi="83" file="2020517163_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="122" wi="83" file="2020517163_000021.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="122" wi="83" file="2020517163_000022.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000023" he="122" wi="83" file="2020517163_000023.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0022">
+      <base:Image id="000024" he="122" wi="83" file="2020517163_000024.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 识别参考信号资源在所述第一时间资源子集和所述第二时间资源子集内的位置,其中所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,在所述参考信号资源上接收参考信号传输,至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形,以及至少部分地基于所接收的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述第一时间资源子集和所述第二时间资源子集中的每一者的所述参考信号资源占用相同数量的频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求2所述的方法,其中,所述第一时间资源子集和所述第二时间资源子集中的每一者具有相同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述时间资源的第一子集包括音调的第一子集和音调的第二子集中的参考信号资源,并且其中,所述时间资源的第二子集包括音调的所述第一子集和音调的第三子集中的参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求4所述的方法,其中,所述时间资源的第一子集和所述时间资源的第二子集中的所述音调的第一子集具有相同的参考信号波形,并且所述时间资源的第一子集中的所述音调的第二子集和所述时间资源的第二子集中的所述音调的第三子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述第一时间资源子集和所述第二时间资源子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求6所述的方法,其中,所述时间资源的第一子集和所述时间资源的第二子集具有参考信号序列的不同部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且其中,所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求8所述的方法,其特征在于,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,所述时间资源的第二符号位于所述时间资源的第一符号与所述时间资源的第三符号之间,所述时间资源的第四符号位于所述时间资源的第二符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求9所述的方法,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且其中,所述第二无线资源集合包括跨越大于所述第一带宽的第二带宽与所述第一带宽的至少一部分重叠的第二频率资源集合,并且其中,所述方法还包括：识别跨所述第二频率资源集合非均匀地分布的所述参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求1所述的方法,其中,所述参考信号资源跨所述时间资源的第一子集和所述时间资源的第二子集非均匀地分布,所述时间资源的第一子集内的所述参考信号资源占用与所述时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源,或其任何组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求1所述的方法,还包括至少部分地基于所接收的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 至少部分地基于相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置中的一者或多者,来识别所述第二无线资源集合内的参考信号资源的位置,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,并且所述第二无线资源集合包括跨越第二带宽的与所述第一带宽的至少一部分交叠的第二频率资源集合；</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述第二带宽大于所述第一带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述识别所述参考信号资源的位置包括：识别跨所述第二频率资源集合非均匀地分布的参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>根据权利要求17所述的方法,其中,所述第二频率资源集合包括与所述第一带宽重叠的第一频率资源子集和不与所述第一带宽重叠的第二频率资源子集,并且其中,所述第二频率资源子集具有比所述第一频率资源子集更高的参考信号资源密度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>根据权利要求18所述的方法,其中,所述频率资源的第一子集没有参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且其中,所述参考信号资源是跨所述第一时间资源子集和所述第二时间资源子集非均匀地分布的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0021">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述第二无线资源集合包括时间资源的第一子集和时间资源的第二子集,并且其中,所述第一时间资源子集内的所述参考信号资源占用与所述第二时间资源子集内的参考信号资源的至少一部分不同的频率资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0022">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且其中,所述第一时间资源子集和所述第二时间资源子集内的所述参考信号资源的至少一部分占用公共频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0023">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且其中,所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0024">
+      <business:ClaimText>根据权利要求23所述的方法,其特征在于,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,所述时间资源的第二符号位于所述时间资源的第一符号与所述时间资源的第三符号之间,所述时间资源的第四符号位于所述时间资源的第二符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0025">
+      <business:ClaimText>根据权利要求24所述的方法,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0026">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0027">
+      <business:ClaimText>根据权利要求15所述的方法,其中,所述无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且所述方法进一步包括：识别参考信号资源在所述时间资源的第一子集和所述时间资源的第二子集内的位置,至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形,以及至少部分地基于所接收的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0028">
+      <business:ClaimText>根据权利要求15所述的方法,还包括至少部分地基于所接收的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0029">
+      <business:ClaimText>识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,识别参考信号资源在所述第二无线资源集合内的位置,在所述参考信号资源上接收参考信号传输,以及至少部分地基于所接收到的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0030">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述确定包括：至少部分地基于所述参考信号传输的参考信号序列来确定基站的小区标识。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0031">
+      <business:ClaimText>根据权利要求29所述的方法,进一步包括：在所述第一无线资源集合上接收同步信号传输,至少部分地基于所述同步信号传输来确定基站的小区标识,并且其中,所述接收所述参考信号传输至少部分地基于所述基站的所述小区标识。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0032">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述确定包括：至少部分地基于所述参考信号传输的参考信号序列来确定与同步信号突发集中的同步信号突发索引有关的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0033">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述确定包括：至少部分地基于所述参考信号传输的参考信号序列来确定与同步信号突发中的同步信号块索引有关的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0034">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述确定包括至少部分地基于所述参考信号传输的参考信号序列来确定在所述第二无线资源集合中传送的广播信道传输的冗余版本。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0035">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述确定包括至少部分地基于所述参考信号传输的参考信号序列来确定同步信号突发、同步信号突发集或同步信号传输的周期中的一者或多者的配置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0036">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述确定至少部分地基于所述参考信号传输的参考信号序列与所述发射机标识、所述定时信息、或所述同步信号传输配置中的一者或多者之间的映射。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0037">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述确定至少部分地基于所述参考信号资源的所述位置与所述发射机标识、所述时序信息、或所述同步信号传输配置中的一者或多者之间的映射。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0038">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越与所述第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,所述方法还包括：识别跨所述第二频率资源集合非均匀地分布的所述参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0039">
+      <business:ClaimText>根据权利要求38所述的方法,其中,所述第二带宽大于所述第一带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0040">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且其中,所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0041">
+      <business:ClaimText>根据权利要求40所述的方法,其特征在于,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,所述时间资源的第二符号位于所述时间资源的第一符号与所述时间资源的第三符号之间,所述时间资源的第四符号位于所述时间资源的第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0042">
+      <business:ClaimText>根据权利要求41所述的方法,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0043">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0044">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,其中,所述参考信号资源跨所述时间资源的第一子集和所述时间资源的第二子集非均匀地分布,所述时间资源的第一子集内的所述参考信号资源占用与所述时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源,或其任何组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0045">
+      <business:ClaimText>根据权利要求29所述的方法,其中,所述无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,并且所述方法进一步包括：识别参考信号资源在所述时间资源的第一子集和所述时间资源的第二子集内的位置,至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形,以及至少部分地基于所接收的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0046">
+      <business:ClaimText>配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,在所述第一时间资源子集和所述第二时间资源子集内配置参考信号资源的位置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,至少部分地基于所述参考信号资源的所述位置来确定参考信号传输的波形,以及在所述参考信号资源上发送所述参考信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0047">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述第一时间资源子集和所述第二时间资源子集中的每一者的所述参考信号资源占用相同数量的频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0048">
+      <business:ClaimText>根据权利要求47所述的方法,其中,所述时间资源的第一子集和所述时间资源的第二子集中的每一者具有相同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0049">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述时间资源的第一子集包括音调的第一子集和音调的第二子集中的参考信号资源,并且所述时间资源的第二子集包括音调的所述第一子集和音调的第三子集中的参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0050">
+      <business:ClaimText>根据权利要求49所述的方法,其中,所述时间资源的第一子集和所述时间资源的第二子集中的所述音调的第一子集具有相同的参考信号波形,并且所述时间资源的第一子集中的所述音调的第二子集和所述时间资源的第二子集中的所述音调的第三子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0051">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述时间资源的第一子集和所述时间资源的第二子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0052">
+      <business:ClaimText>根据权利要求51所述的方法,其中,所述时间资源的第一子集和所述时间资源的第二子集具有参考信号序列的不同部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0053">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且其中,所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0054">
+      <business:ClaimText>根据权利要求53所述的方法,其特征在于,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,所述时间资源的第二符号位于所述时间资源的第一符号与所述时间资源的第三符号之间,所述时间资源的第四符号位于所述时间资源的第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0055">
+      <business:ClaimText>根据权利要求54所述的方法,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0056">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0057">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越大于所述第一带宽的第二带宽与所述第一带宽的至少一部分重叠的第二频率资源集合,所述方法还包括：配置跨越所述第二频率资源集合非均匀地分布的所述参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0058">
+      <business:ClaimText>根据权利要求46所述的方法,其中,所述参考信号资源跨所述时间资源的第一子集和所述时间资源的第二子集非均匀地分布,所述时间资源的第一子集内的所述参考信号资源占用与所述时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源,或其任何组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0059">
+      <business:ClaimText>配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 跨越第一带宽的频率资源的第一集合； 在所述第二无线资源集合内配置参考信号资源,其中,所述第二无线资源集合包括跨越与所述第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,以及其中,所述参考信号资源的位置至少部分地基于相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置中的一者或多者,使用所述参考信号资源来发送参考信号传输,以及使用所述第一无线资源集合来发送同步信号传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0060">
+      <business:ClaimText>根据权利要求59所述的方法,其中,所述第二带宽大于所述第一带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0061">
+      <business:ClaimText>根据权利要求59所述的方法,其中,所述配置所述参考信号资源的位置包括：配置跨所述第二频率资源集合非均匀地分布的参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0062">
+      <business:ClaimText>根据权利要求61所述的方法,其中,所述第二频率资源集合包括与所述第一带宽重叠的第一频率资源子集和不与所述第一带宽重叠的第二频率资源子集,并且其中,所述第二频率资源子集具有比所述第一频率资源子集更高的参考信号资源密度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0063">
+      <business:ClaimText>根据权利要求62所述的方法,其中,所述频率资源的第一子集没有参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0064">
+      <business:ClaimText>根据权利要求59所述的方法,其中,所述第二无线资源集包括第一时间资源子集和第二时间资源子集,并且其中,所述参考信号资源是跨所述第一时间资源子集和所述第二时间资源子集非均匀地分布的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0065">
+      <business:ClaimText>根据权利要求59所述的方法,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,所述第一时间资源子集内的所述参考信号资源占用与所述第二时间资源子集内的参考信号资源的至少一部分不同的频率资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0066">
+      <business:ClaimText>根据权利要求59所述的方法,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且其中,所述第一时间资源子集和所述第二时间资源子集内的所述参考信号资源的至少一部分占用公共频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0067">
+      <business:ClaimText>根据权利要求59所述的方法,其中,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且其中,所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0068">
+      <business:ClaimText>根据权利要求67所述的方法,其中,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,并且所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,其中,时间资源的所述第二符号位于时间资源的所述第一符号与时间资源的所述第三符号之间,并且时间资源的所述第四符号位于时间资源的所述第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0069">
+      <business:ClaimText>根据权利要求68所述的方法,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0070">
+      <business:ClaimText>根据权利要求59所述的方法,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0071">
+      <business:ClaimText>根据权利要求59所述的方法,还包括至少部分地基于所述参考信号传输来提供对发射机标识、定时信息或同步信号传输配置中的一者或多者的指示。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0072">
+      <business:ClaimText>配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置所述第二无线资源集合内的参考信号资源的位置,以及在所述参考信号资源上发送参考信号传输,其中,所述参考信号传输、所述参考信号资源的所述位置、或其任何组合提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0073">
+      <business:ClaimText>根据权利要求72所述的方法,其中,基站的小区标识、同步信号突发集合内的同步信号突发索引、同步信号突发内的同步信号块索引、在所述第二无线资源集合中发送的广播信道传输的冗余版本、同步信号突发、同步信号突发集合、同步信号传输的周期中的一个或多个的配置或其任何组合被映射到所述参考信号传输的参考信号序列。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0074">
+      <business:ClaimText>根据权利要求72所述的方法,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越大于所述第一带宽的第二带宽与所述第一带宽的至少一部分重叠的第二频率资源集合,所述方法还包括：配置跨越所述第二频率资源集合非均匀地分布的所述参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0075">
+      <business:ClaimText>根据权利要求72所述的方法,其中,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且其中,所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0076">
+      <business:ClaimText>根据权利要求75所述的方法,其特征在于,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,所述时间资源的第二符号位于所述时间资源的第一符号与所述时间资源的第三符号之间,所述时间资源的第四符号位于所述时间资源的第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0077">
+      <business:ClaimText>根据权利要求76所述的方法,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0078">
+      <business:ClaimText>根据权利要求72所述的方法,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0079">
+      <business:ClaimText>用于标识用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元； 用于识别参考信号资源在所述第一时间资源子集和所述第二时间资源子集内的位置的单元,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,用于在所述参考信号资源上接收参考信号传输的单元,用于至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形的单元,以及用于至少部分地基于所接收到的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0080">
+      <business:ClaimText>根据权利要求79所述的装置,其中,所述第一时间资源子集和所述第二时间资源子集中的每一者的所述参考信号资源占用相同数量的频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0081">
+      <business:ClaimText>根据权利要求80所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集中的每一者具有相同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0082">
+      <business:ClaimText>根据权利要求79所述的装置,其中,所述时间资源的第一子集包括音调的第一子集和音调的第二子集中的参考信号资源,并且所述时间资源的第二子集包括音调的所述第一子集和音调的第三子集中的参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0083">
+      <business:ClaimText>根据权利要求82所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集中的所述频调的第一子集具有相同的参考信号波形,并且所述时间资源的第一子集中的所述频调的第二子集和所述时间资源的第二子集中的所述频调的第三子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0084">
+      <business:ClaimText>根据权利要求79所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0085">
+      <business:ClaimText>根据权利要求84所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集具有参考信号序列的不同部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0086">
+      <business:ClaimText>如权利要求79所述的装置,其特征在于,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0087">
+      <business:ClaimText>根据权利要求86所述的装置,其中,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,并且所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,其中,时间资源的所述第二符号位于时间资源的所述第一符号与时间资源的所述第三符号之间,并且时间资源的所述第四符号位于时间资源的所述第二符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0088">
+      <business:ClaimText>根据权利要求87所述的装置,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0089">
+      <business:ClaimText>根据权利要求79所述的装置,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0090">
+      <business:ClaimText>根据权利要求79所述的装置,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越大于所述第一带宽的第二带宽与所述第一带宽的至少一部分交叠的第二频率资源集合,并且包括：用于识别跨所述第二频率资源集合非均匀地分布的所述参考信号资源的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0091">
+      <business:ClaimText>根据权利要求79所述的装置,其中,所述参考信号资源跨所述时间资源的第一子集和所述时间资源的第二子集非均匀地分布,所述时间资源的第一子集内的所述参考信号资源占用与所述时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源,或其任何组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0092">
+      <business:ClaimText>根据权利要求79所述的装置,还包括用于至少部分地基于所接收到的参考信号传输来确定发射机标识、定时信息、或同步信号传输配置中的一者或多者的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0093">
+      <business:ClaimText>用于标识用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元； 所述第一无线资源集合包括： 用于至少部分地基于以下各项中的一项或多项：相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置,来识别所述第二无线资源集合内的参考信号资源的位置的单元：在第一带宽上包括第一频率资源集合,所述第二无线资源集合包括在第二带宽上与所述第一带宽的至少一部分交叠的第二频率资源集合；</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0094">
+      <business:ClaimText>按照权利要求93所述的设备,其中第二带宽大于第一带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0095">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述识别所述参考信号资源的位置包括：用于识别跨所述第二频率资源集合非均匀地分布的参考信号资源的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0096">
+      <business:ClaimText>根据权利要求95所述的装置,其中,所述第二频率资源集合包括与所述第一带宽重叠的第一频率资源子集和不与所述第一带宽重叠的第二频率资源子集,并且其中,所述第二频率资源子集具有比所述第一频率资源子集更高的参考信号资源密度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0097">
+      <business:ClaimText>根据权利要求96所述的装置,其中,所述频率资源的第一子集没有参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0098">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且其中,所述参考信号资源是跨所述第一时间资源子集和所述第二时间资源子集非均匀地分布的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0099">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述第二无线资源集合包括时间资源的第一子集和时间资源的第二子集,并且其中,所述第一时间资源子集内的所述参考信号资源占用与所述第二时间资源子集内的参考信号资源的至少一部分不同的频率资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0100">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且其中,所述第一时间资源子集和所述第二时间资源子集内的所述参考信号资源的至少一部分占用公共频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0101">
+      <business:ClaimText>如权利要求93所述的装置,其特征在于,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0102">
+      <business:ClaimText>根据权利要求101所述的装置,其中,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,并且所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,其中,时间资源的所述第二符号位于时间资源的所述第一符号与时间资源的所述第三符号之间,并且时间资源的所述第四符号位于时间资源的所述第二符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0103">
+      <business:ClaimText>根据权利要求102所述的装置,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0104">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0105">
+      <business:ClaimText>根据权利要求93所述的装置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且包括：用于识别参考信号资源在所述第一时间资源子集和所述第二时间资源子集内的位置的单元,用于至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形的单元,以及用于至少部分地基于所接收到的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0106">
+      <business:ClaimText>根据权利要求93所述的装置,还包括用于至少部分地基于所接收到的参考信号传输来确定发射机标识、时序信息、或同步信号传输配置中的一者或多者的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0107">
+      <business:ClaimText>用于识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元,用于识别参考信号资源在所述第二无线资源集合内的位置的单元,用于在所述参考信号资源上接收参考信号传输的单元,以及用于至少部分地基于所接收到的参考信号传输来确定发射机标识、定时信息、或同步信号传输配置中的一者或多者的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0108">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述确定包括：用于至少部分地基于所述参考信号传输的参考信号序列来确定基站的小区标识的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0109">
+      <business:ClaimText>根据权利要求107所述的装备,进一步包括：用于在所述第一无线资源集合上接收同步信号传输的单元,以及用于至少部分地基于所述同步信号传输来确定基站的小区标识的单元,其中,所述接收所述参考信号传输至少部分地基于所述基站的所述小区标识。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0110">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述确定包括：用于至少部分地基于所述参考信号传输的参考信号序列来确定与同步信号突发集中的同步信号突发索引有关的信息的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0111">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述确定包括：用于至少部分地基于所述参考信号传输的参考信号序列来确定与同步信号突发内的同步信号块索引有关的信息的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0112">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述确定包括用于至少部分地基于所述参考信号传输的参考信号序列来确定在所述第二无线资源集合中传送的广播信道传输的冗余版本的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0113">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述确定包括：用于至少部分地基于所述参考信号传输的参考信号序列来确定同步信号突发、同步信号突发集、或同步信号传输的周期中的一者或多者的配置的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0114">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述确定至少部分地基于所述参考信号传输的参考信号序列与所述发射机标识、所述定时信息、或所述同步信号传输配置中的一者或多者之间的映射。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0115">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述确定至少部分地基于所述参考信号资源的所述位置与所述发射机标识、所述时序信息、或所述同步信号传输配置中的一者或多者之间的映射。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0116">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越与所述第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,并且包括：用于识别跨所述第二频率资源集合非均匀地分布的所述参考信号资源的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0117">
+      <business:ClaimText>根据权利要求116所述的装置,其中,所述第二带宽大于所述第一带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0118">
+      <business:ClaimText>如权利要求107所述的装置,其特征在于,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0119">
+      <business:ClaimText>根据权利要求118所述的装置,其中,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,并且所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,其中,时间资源的所述第二符号位于时间资源的所述第一符号与时间资源的所述第三符号之间,并且时间资源的所述第四符号位于时间资源的所述第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0120">
+      <business:ClaimText>根据权利要求119所述的装置,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0121">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0122">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,其中,所述参考信号资源跨所述时间资源的第一子集和所述时间资源的第二子集非均匀地分布,所述时间资源的第一子集内的所述参考信号资源占用与所述时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源,或其任何组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0123">
+      <business:ClaimText>根据权利要求107所述的装置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且包括：用于识别参考信号资源在所述第一时间资源子集和所述第二时间资源子集内的位置的单元,用于至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形的单元,以及用于至少部分地基于所接收到的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0124">
+      <business:ClaimText>用于配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元,用于在所述第一时间资源子集和所述第二时间资源子集内配置参考信号资源的位置的单元,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,用于至少部分地基于所述参考信号资源的所述位置来确定参考信号传输的波形的单元,以及用于在所述参考信号资源上发送所述参考信号的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0125">
+      <business:ClaimText>根据权利要求124所述的装置,其中,所述第一时间资源子集和所述第二时间资源子集中的每一者的所述参考信号资源占用相同数量的频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0126">
+      <business:ClaimText>根据权利要求125所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集中的每一者具有相同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0127">
+      <business:ClaimText>根据权利要求124所述的装置,其中,所述时间资源的第一子集包括音调的第一子集和音调的第二子集中的参考信号资源,并且所述时间资源的第二子集包括音调的所述第一子集和音调的第三子集中的参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0128">
+      <business:ClaimText>根据权利要求127所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集中的所述音调的第一子集具有相同的参考信号波形,并且所述时间资源的第一子集中的所述音调的第二子集和所述时间资源的第二子集中的所述音调的第三子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0129">
+      <business:ClaimText>根据权利要求124所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集具有不同的参考信号波形。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0130">
+      <business:ClaimText>根据权利要求129所述的装置,其中,所述时间资源的第一子集和所述时间资源的第二子集具有参考信号序列的不同部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0131">
+      <business:ClaimText>如权利要求124所述的装置,其特征在于,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0132">
+      <business:ClaimText>根据权利要求131所述的装置,其中,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,并且所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,其中,时间资源的所述第二符号位于时间资源的所述第一符号与时间资源的所述第三符号之间,并且时间资源的所述第四符号位于时间资源的所述第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0133">
+      <business:ClaimText>根据权利要求132所述的装置,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0134">
+      <business:ClaimText>根据权利要求124所述的装置,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0135">
+      <business:ClaimText>根据权利要求124所述的装置,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越大于所述第一带宽的第二带宽与所述第一带宽的至少一部分交叠的第二频率资源集合,并且包括：用于配置跨越所述第二频率资源集合非均匀地分布的所述参考信号资源的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0136">
+      <business:ClaimText>根据权利要求124所述的装置,其中,所述参考信号资源跨所述时间资源的第一子集和所述时间资源的第二子集非均匀地分布,所述时间资源的第一子集内的所述参考信号资源占用与所述时间资源的第二子集内的参考信号资源的至少一部分不同的频率资源,或其任何组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0137">
+      <business:ClaimText>用于配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元； 所述第一无线资源集合包括： 跨越第一带宽的频率资源的第一集合； 所述第二无线资源集合包括： 用于在所述第二无线资源集合内配置参考信号资源的单元,所述第二无线资源集合包括跨越与所述第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,以及用于使用所述参考信号资源来发送参考信号传输和使用所述第一无线资源集合来发送同步信号传输的单元,其中,所述参考信号资源的位置至少部分地基于相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置中的一者或多者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0138">
+      <business:ClaimText>按照权利要求137所述的设备,其中第二带宽大于第一带宽。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0139">
+      <business:ClaimText>根据权利要求137所述的装置,其中,所述配置所述参考信号资源的位置包括：用于配置跨所述第二频率资源集合非均匀地分布的参考信号资源的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0140">
+      <business:ClaimText>根据权利要求139所述的装置,其中,所述第二频率资源集合包括与所述第一带宽重叠的第一频率资源子集和不与所述第一带宽重叠的第二频率资源子集,并且其中,所述第二频率资源子集具有比所述第一频率资源子集更高的参考信号资源密度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0141">
+      <business:ClaimText>根据权利要求140所述的装置,其中,所述频率资源的第一子集没有参考信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0142">
+      <business:ClaimText>根据权利要求137所述的装置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,并且其中,所述参考信号资源是跨所述第一时间资源子集和所述第二时间资源子集非均匀地分布的。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0143">
+      <business:ClaimText>根据权利要求137所述的装置,其中,所述第二无线资源集合包括时间资源的第一子集和时间资源的第二子集,所述第一时间资源子集内的所述参考信号资源占用与所述第二时间资源子集内的参考信号资源的至少一部分不同的频率资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0144">
+      <business:ClaimText>根据权利要求137所述的装置,其中,所述第二无线资源集合包括时间资源的第一子集和时间资源的第二子集,所述参考信号资源在所述第一时间资源子集和所述第二时间资源子集内的至少一部分占用公共频率音调。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0145">
+      <business:ClaimText>如权利要求137所述的装置,其特征在于,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0146">
+      <business:ClaimText>根据权利要求145所述的装置,其中,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,并且所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,其中,时间资源的所述第二符号位于时间资源的所述第一符号与时间资源的所述第三符号之间,并且时间资源的所述第四符号位于时间资源的所述第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0147">
+      <business:ClaimText>根据权利要求146所述的装置,其中,时间资源的所述第二符号用于传输辅同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0148">
+      <business:ClaimText>根据权利要求137所述的装置,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0149">
+      <business:ClaimText>根据权利要求137所述的装置,进一步包括用于至少部分地基于所述参考信号传输来提供对发射机标识、时序信息、或同步信号传输配置中的一者或多者的指示的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0150">
+      <business:ClaimText>用于配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合的单元,用于配置所述第二无线资源集合内的参考信号资源的位置的单元,用于在所述参考信号资源上发送参考信号传输的单元,其中,所述参考信号传输、所述参考信号资源的所述位置、或其任何组合提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0151">
+      <business:ClaimText>根据权利要求150所述的装置,其中,基站的小区标识、同步信号突发集合内的同步信号突发索引、同步信号突发内的同步信号块索引、在所述第二无线资源集合中发送的广播信道传输的冗余版本、同步信号突发、同步信号突发集合、同步信号传输的周期中的一个或多个的配置或其任何组合被映射到所述参考信号传输的参考信号序列。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0152">
+      <business:ClaimText>根据权利要求150所述的装置,其中,所述第一无线资源集合包括跨越第一带宽的第一频率资源集合,所述第二无线资源集合包括跨越大于所述第一带宽的第二带宽与所述第一带宽的至少一部分交叠的第二频率资源集合,并且包括：用于配置跨越所述第二频率资源集合非均匀地分布的所述参考信号资源的单元。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0153">
+      <business:ClaimText>如权利要求150所述的装置,其特征在于,所述第二无线资源集合包括物理广播信道(PBCH)资源,并且所述第一无线资源集合包括同步信号资源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0154">
+      <business:ClaimText>根据权利要求153所述的装置,其中,所述PBCH资源包括时间资源的第一符号和时间资源的第三符号,并且所述同步信号资源包括时间资源的第二符号和时间资源的第四符号,其中,时间资源的所述第二符号位于时间资源的所述第一符号与时间资源的所述第三符号之间,并且时间资源的所述第四符号位于时间资源的所述第三符号之后。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0155">
+      <business:ClaimText>根据权利要求154所述的装置,其中,时间资源的所述第二符号用于传输副同步信号,并且时间资源的所述第四符号用于传输主同步信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0156">
+      <business:ClaimText>根据权利要求150所述的装置,其中,所述参考信号传输包括解调参考信号(DMRS)传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0157">
+      <business:ClaimText>一种用于无线通信的装置,包括： 处理器； 与所述处理器电子通信的存储器； 存储在所述存储器中的指令, 所述指令包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述无线资源的第二集合包括时间资源的第一子集和时间资源的第二子集,所述无线资源的第二集合能够由所述处理器执行以使所述装置识别参考信号资源在所述时间资源的第一子集和所述时间资源的第二子集内的位置,在所述参考信号资源上接收参考信号传输,至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形,以及至少部分地基于所接收的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0158">
+      <business:ClaimText>一种用于无线通信的装置,包括： 处理器； 与所述处理器电子通信的存储器； 存储在所述存储器中的指令, 所述指令包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 至少部分地基于相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置中的一者或多者,来识别所述第二无线资源集合内的参考信号资源的位置,以及使用所述参考信号资源来接收参考信号传输,其中,所述第二无线资源集合包括跨越第一带宽的第一频率资源集合,其中,所述第二无线资源集合包括跨越第二带宽的与所述第一带宽的至少一部分重叠的第二频率资源集合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0159">
+      <business:ClaimText>一种用于无线通信的装置,包括： 以及存储在所述存储器中的指令,所述指令可由所述处理器执行以使所述装置：识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,识别参考信号资源在所述第二无线资源集合内的位置,在所述参考信号资源上接收参考信号传输,以及至少部分地基于所接收到的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0160">
+      <business:ClaimText>一种用于无线通信的装置,包括： 处理器； 与所述处理器电子通信的存储器； 存储在所述存储器中的指令, 所述指令可由所述处理器执行以使所述装置：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,在所述第一时间资源子集和所述第二时间资源子集内配置参考信号资源的位置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,至少部分地基于所述参考信号资源的所述位置来确定参考信号传输的波形,以及在所述参考信号资源上发送所述参考信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0161">
+      <business:ClaimText>一种用于无线通信的装置,包括： 处理器； 与所述处理器电子通信的存储器； 存储在所述存储器中的指令, 所述指令包括： 配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 跨越第一带宽的频率资源的第一集合； 所述第二无线资源集合包括： 在所述第二无线资源集合内配置参考信号资源,所述第二无线资源集合包括跨越与所述第一带宽的至少一部分交叠的第二带宽的第二频率资源集合,所述参考信号资源的位置至少部分地基于相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置中的一者或多者,使用所述参考信号资源来发送参考信号传输,以及使用所述第一无线资源集合来发送同步信号传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0162">
+      <business:ClaimText>一种用于无线通信的装置,包括： 处理器； 与所述处理器电子通信的存储器； 存储在所述存储器中的指令,所述指令可由所述处理器执行以使所述装置：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置所述第二无线资源集合内的参考信号资源的位置,以及在所述参考信号资源上发送参考信号传输,其中,所述参考信号传输、所述参考信号资源的所述位置、或其任何组合提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0163">
+      <business:ClaimText>一种存储用于无线通信的代码的非暂时性计算机可读介质,所述非暂时性计算机可读介质包括： 所述代码包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 识别参考信号资源在所述第一时间资源子集和所述第二时间资源子集内的位置,其中所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,在所述参考信号资源上接收参考信号传输,至少部分地基于所述参考信号资源的所述位置来确定所述参考信号传输的波形,以及至少部分地基于所接收的参考信号传输和所确定的所述参考信号传输的波形来执行信道估计。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0164">
+      <business:ClaimText>一种存储用于无线通信的代码的非暂时性计算机可读介质,所述非暂时性计算机可读介质包括： 所述代码包括： 识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 跨越第一带宽的频率资源的第一集合； 至少部分地基于相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置中的一者或多者,识别所述第二无线资源集合内的参考信号资源的位置,其中,所述第二无线资源集合包括跨越与所述第一带宽的至少一部分重叠的第二带宽的第二频率资源集合,以及使用所述参考信号资源接收参考信号传输。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0165">
+      <business:ClaimText>识别用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,识别参考信号资源在所述第二无线资源集合内的位置,在所述参考信号资源上接收参考信号传输,以及至少部分地基于所接收到的参考信号传输来确定发射机标识、定时信息或同步信号传输配置中的一者或多者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0166">
+      <business:ClaimText>一种存储用于无线通信的代码的非暂时性计算机可读介质,所述非暂时性计算机可读介质包括： 所述代码包括： 配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,在所述第一时间资源子集和所述第二时间资源子集内配置参考信号资源的位置,其中,所述第二无线资源集合包括第一时间资源子集和第二时间资源子集,至少部分地基于所述参考信号资源的所述位置来确定参考信号传输的波形,以及在所述参考信号资源上发送所述参考信号。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0167">
+      <business:ClaimText>一种存储用于无线通信的代码的非暂时性计算机可读介质,所述非暂时性计算机可读介质包括： 所述代码包括： 配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合； 所述第一无线资源集合包括： 跨越第一带宽的频率资源的第一集合； 所述第二无线资源集合包括： 跨越与所述第一带宽的至少一部分重叠的第二带宽的第二频率资源集合。 在所述第二无线资源集合内配置参考信号资源,以及使用所述参考信号资源来发送参考信号传输,以及使用所述第一无线资源集合来发送同步信号传输,其中,所述参考信号资源的位置至少部分地基于相对于所述第一带宽的所述第二无线资源集合内的时间资源位置或所述第二无线资源集合内的频率资源位置中的一者或多者。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0168">
+      <business:ClaimText>一种存储用于无线通信的代码的非暂时性计算机可读介质,所述非暂时性计算机可读介质包括： 其中,所述代码包括指令,所述指令可由处理器执行以：配置用于同步信号传输的第一无线资源集合和用于广播信道传输的第二无线资源集合,配置所述第二无线资源集合内的参考信号资源的位置,以及在所述参考信号资源上发送参考信号传输,其中,所述参考信号传输、所述参考信号资源的所述位置、或其任何组合提供对发射机标识、定时信息、或同步信号传输配置中的一者或多者的指示。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000025" file="2020517163_000025.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000026" file="2020517163_000026.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000027" file="2020517163_000027.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000004">
+    <business:ExternalSearchReport id="externalsearchreport000028" file="2020517163_000028.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

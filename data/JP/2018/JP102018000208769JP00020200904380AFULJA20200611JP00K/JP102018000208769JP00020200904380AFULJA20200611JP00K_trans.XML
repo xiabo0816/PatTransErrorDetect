@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000208769JP00020200904380AFULJA20200611JP00K.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020090438" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090438</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090438</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000208769</base:DocNumber>
+        <base:Date>20181106</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018208769</base:DocNumber>
+        <base:Date>20181106</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>19</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/19        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>12</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/12        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/02        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>08</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/08        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>10</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/10        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="6">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>25</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/25        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="7">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>29</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/29        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="8">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>98</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/98        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="9">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>28</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/28        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="10">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>27</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/27        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="11">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>09</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C09C   1/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="12">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>09</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>3</business:MainGroup>
+        <business:Subgroup>06</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C09C   3/06        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="13">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>09</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>3</business:MainGroup>
+        <business:Subgroup>08</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C09C   3/08        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="14">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>23</business:MainGroup>
+        <business:Subgroup>047</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C01G  23/047       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61K8/19</business:FI>
+      <business:FI type="secondary">A61Q1/12</business:FI>
+      <business:FI type="secondary">A61Q1/02</business:FI>
+      <business:FI type="secondary">A61Q1/08</business:FI>
+      <business:FI type="secondary">A61Q1/10</business:FI>
+      <business:FI type="secondary">A61K8/25</business:FI>
+      <business:FI type="secondary">A61K8/29</business:FI>
+      <business:FI type="secondary">A61K8/98</business:FI>
+      <business:FI type="secondary">A61K8/28</business:FI>
+      <business:FI type="secondary">A61K8/27</business:FI>
+      <business:FI type="secondary">C09C1/00</business:FI>
+      <business:FI type="secondary">C09C3/06</business:FI>
+      <business:FI type="secondary">C09C3/08</business:FI>
+      <business:FI type="secondary">C01G23/047</business:FI>
+      <business:FClass>
+        <business:FTerm>4C083AA071</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB151</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB211</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB231</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB232</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB241</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB242</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB361</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB431</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB432</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB441</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB442</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC112</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC242</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC352</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC422</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC442</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AD092</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AD152</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AD242</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083BB21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083CC11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083CC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083CC14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083DD17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083DD21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083EE06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083EE07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083EE11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CB08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CD03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037AA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037AA26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037CA09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037CB28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037EE03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037FF02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C083</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4G047</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4J037</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">含有测角色颜料和白色颜料的化妆用粉末组合物</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ロレアル</base:Name>
+            <base:RegisteredNumber>391023932</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>FR</base:WIPOST3Code>
+              <base:Text>フランス国パリ，リュ  ロワイヤル  14</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ウォラウット・クンシン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市高津区坂戸3－2－1  ケーエスピーアールアンドディー日本ロレアル株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>一階  文良</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市高津区坂戸3－2－1  ケーエスピーアールアンドディー日本ロレアル株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ロマン・タション</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市高津区坂戸3－2－1  ケーエスピーアールアンドディー日本ロレアル株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>村山  靖彦</base:Name>
+            <base:RegisteredNumber>100108453</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>実広  信哉</base:Name>
+            <base:RegisteredNumber>100110364</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>15</business:ClaimsCount>
+      <base:TotalPageCount>16</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种用于化妆的粉末组合物,所述粉末组合物可以为角蛋白材料,优选皮肤,特别是面部皮肤提供改善的美学效果,例如赋予自然光洁度的效果、立体感效果和足够的遮盖效果。 相对于组合物的总重量,10至50重量%的量的至少一种角度色颜料,其能够根据光的入射角和视觉角度产生不同的颜色,所述角度色颜料包含透光片、二氧化钛和着色剂并且表现出选自粉色、红色、橙色、黄色和金色的干涉色,和(b)相对于组合物的总重量,0.5至15重量%的量的至少一种白色颜料。 无</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及用于化妆角蛋白材料（例如皮肤）的粉末组合物,其包含角色颜料和白色颜料,以及使用其的美容方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">用于角蛋白材料的化妆品粉末组合物用作化妆品,例如粉底和润肤粉。 这些组合物用于赋予角蛋白材料有吸引力的外观。 因此,对于化妆品粉末组合物而言,美学效果（例如赋予自然光洁度的效果）、立体感效果和对角蛋白材料（优选皮肤,特别是面部皮肤）的优异遮盖作用是非常重要的,以便起到作为化妆化妆品的作用。 为了向化妆品粉末组合物提供这种美学效果,已经提出在组合物中使用角色颜料。</base:Paragraphs>
+      <base:Paragraphs num="0003">例如,在日本特开平11-322541号公报中,公开了一种化妆品上容许的介质； 至少一种第一着色剂； 和至少一种第二着色剂,其中所述第一着色剂是能够根据光的入射角和视觉视角产生不同颜色的角度色性着色剂,所述角度色性着色剂是多层干涉结构,并且所述第二着色剂是产生所述角度色性着色剂的颜色之一的单色着色剂。</base:Paragraphs>
+      <base:Paragraphs num="0004">此外,美国专利第5,008,143(B)号说明书中公开了一种显示多色效果的角度色性颜料,其实质上由透明体、干涉颜料及吸收着色剂构成,所述吸收着色剂为与干涉颜料的反射色或其补色不同的颜色,且干涉颜料及吸收着色剂具有同等程度的颜色强度。</base:Paragraphs>
+      <base:Paragraphs num="0005">然而,仍然需要具有改善的美容效果的化妆品粉末产品。 特别地,需要一种化妆品粉末产品,其为角蛋白材料,优选皮肤,特别是面部皮肤提供美学效果,例如赋予自然光洁度的效果、立体感效果和优异的遮盖效果。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0006">           <business:ApplicationCitation num="0001">
+            <base:Text>特開平11-322541号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>米国特許第5,008,143(B)号明細書</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0007">本发明的一个目的是提供一种用于化妆的粉末组合物,所述粉末组合物可以为角蛋白材料,优选皮肤,特别是面部皮肤提供改善的美学效果,例如赋予自然光洁度的效果、立体感效果和足够的遮盖效果。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">(a)基于组合物的总重量计10至50重量%的量的至少一种角度色颜料,所述角度色颜料能够根据光的入射角和视觉角度产生不同的颜色,所述角度色颜料包含透光片、二氧化钛和着色剂并且表现出选自粉色、红色、橙色、黄色和金色的干涉色； 和(b)相对于组合物的总重量计为0.5至15重量%的量的至少一种白色颜料。</base:Paragraphs>
+        <base:Paragraphs num="0009">(a)角色颜料中的着色剂可选自氧化铁如Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、胭脂红和亚铁氰化铁,优选地选自Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>和胭脂红。</base:Paragraphs>
+        <base:Paragraphs num="0010">(a)角色颜料中的透光片可由云母构成,例如天然云母、合成云母或玻璃,优选云母。</base:Paragraphs>
+        <base:Paragraphs num="0011">(a)角色颜料的干涉色可选自粉色、红色、橙色和黄色。</base:Paragraphs>
+        <base:Paragraphs num="0012">(a)测角色颜料中的透光片的含量可为20至85重量%,优选30至75重量%,更优选40至70重量%,基于测角色颜料的总重量计。</base:Paragraphs>
+        <base:Paragraphs num="0013">基于角度色颜料的总重量计,(a)角度色颜料中二氧化钛的含量可为10至70重量%,优选20至60重量%,更优选30至55重量%。</base:Paragraphs>
+        <base:Paragraphs num="0014">(a)测角色颜料中着色剂的含量可为0.5至15重量%,优选1至10重量%,更优选2至7重量%,基于测角色颜料的总重量计。</base:Paragraphs>
+        <base:Paragraphs num="0015">(b)白色颜料可选自金属氧化物,例如二氧化钛、二氧化锆、二氧化铈、氧化锌、氮化硼、硫酸钡,和涂覆的颜料,例如涂覆的云母、涂覆的绢云母、涂覆的氟金云母、涂覆的高岭土及其混合物。</base:Paragraphs>
+        <base:Paragraphs num="0016">(b)白色颜料可包含两种不同白色颜料的组合。</base:Paragraphs>
+        <base:Paragraphs num="0017">(b)白色颜料可以包含二氧化钛和二氧化钛涂覆颜料的组合或由二氧化钛和二氧化钛涂覆颜料的组合组成。</base:Paragraphs>
+        <base:Paragraphs num="0018">相对于组合物的总重量计,(a)角色颜料的量可为15重量%至40重量%,优选20重量%至35重量%。</base:Paragraphs>
+        <base:Paragraphs num="0019">相对于组合物的总重量计,(b)白色颜料的量可为1至12重量%,优选3至10重量%。</base:Paragraphs>
+        <base:Paragraphs num="0020">在本发明的一个优选实施方案中,所述组合物用作化妆品粉末组合物,优选用作化妆粉,例如粉底粉、润肤粉或扑面粉、身体化妆产品、腮红或眼影,特别是粉底粉或润肤粉。</base:Paragraphs>
+        <base:Paragraphs num="0021">相对于组合物的总重量计,根据本发明的组合物可以是无水的或含有小于3重量%的水,优选小于1重量%的水。</base:Paragraphs>
+        <base:Paragraphs num="0022">本发明还涉及用于化妆角蛋白材料、优选皮肤的化妆方法,其包括将根据本发明的组合物施用于角蛋白材料上的步骤。</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0023">作为深入研究的结果,本发明人惊奇地发现,组合(a)相对于组合物的总重量为10至50重量%的量的特异性变角色颜料和(b)相对于组合物的总重量为0.5至15重量%的量的白色颜料可以赋予角蛋白材料,特别是面部改善的立体感和自然的光洁度,而没有金属外观,同时保持优异的遮盖作用以覆盖皮肤缺陷,例如斑点、皱纹和毛孔,从而完成了本发明。</base:Paragraphs>
+      <base:Paragraphs num="0024">因此,根据本发明的粉末组合物包含：(a)至少一种测角色颜料,其能够根据光的入射角和视觉角度产生不同的颜色,其中测角色颜料包含透光片、二氧化钛和着色剂,并且其量相对于组合物的总重量为10至50重量%,其表现出选自粉色、红色、橙色、黄色和金色的干涉色； 和(b)至少一种白色颜料,其量相对于组合物的总重量为0.5至15重量%。</base:Paragraphs>
+      <base:Paragraphs num="0025">在下文中,将详细描述根据本发明的组合物。</base:Paragraphs>
+      <base:Paragraphs num="0026">根据本发明的粉末组合物包含：(a)基于组合物的总重量计10至50重量%的量的至少一种角度色颜料,所述至少一种角度色颜料能够根据光的入射角和视觉角度产生不同的颜色,所述至少一种角度色颜料包含透光片、二氧化钛和着色剂,并且表现出选自粉色、红色、橙色、黄色和金色的干涉色； 和(b)至少一种白色颜料,其量相对于组合物的总重量为0.5至15重量%。</base:Paragraphs>
+      <base:Paragraphs num="0027">（角色颜料） 
+根据本发明的组合物包含(a)至少一种角色颜料。 可以组合使用两种或更多种(a)角色颜料。 因此,可以使用单一类型的角色颜料或各种类型的角色颜料的组合。 </base:Paragraphs>
+      <base:Paragraphs num="0028">术语“颜料”在本文中应理解为意指不溶于组合物中的介质的白色或有色无机或有机颗粒。</base:Paragraphs>
+      <base:Paragraphs num="0029">术语“角度色颜料”在本文中可以理解为意指表现出角度色特性的颜料,所述颜色根据光的入射角和所观察的角度而产生不同的颜色。 因此,(a)角色颜料可以根据光的入射角和视觉角度产生不同的颜色。</base:Paragraphs>
+      <base:Paragraphs num="0030">角色颜料通常具有干涉多层结构,其由透光薄片和薄片上的干涉颜料涂层组成。 多层可以通过光线的干涉而导致颜色、色调和亮度的变化,其中光线的衍射和扩散在各层之间不同。 此外,测角色颜料可以在涂层中包含至少一种吸收性着色剂。 在这种情况下,角色颜料可以表现出两种不同的颜色：可以由吸收性着色剂产生的“吸收性颜色”和可以由干涉颜料的反射产生的“反射性颜色”,这取决于视觉视角。 在目视角为普通的情况下,确认到干涉颜料的反射色。 在散射角或掠射角处,不再观察到干涉颜料的反射色,并且观察到吸收色。 因此,通过从普通角到掠射角的眼视角的变化,颜色从基于干涉颜料的反射色变化到基于吸收颜料的吸收色。</base:Paragraphs>
+      <base:Paragraphs num="0031">本发明的(a)测角色颜料包含透光片、作为干涉颜料的二氧化钛和作为吸收颜料的着色剂。</base:Paragraphs>
+      <base:Paragraphs num="0032">透光片的材料不受限制,只要其是光学透射的。 透光片的材料的实例是云母,例如天然云母和合成云母,以及玻璃。 优选地,角色颜料的透光片由云母制成,例如天然云母和合成云母。</base:Paragraphs>
+      <base:Paragraphs num="0033">在本发明的一个实施方案中,(a)在角色颜料的透光片上的二氧化钛干涉颜料涂层的厚度可以为10至300nm,优选20至200nm,更优选30至150nm。</base:Paragraphs>
+      <base:Paragraphs num="0034">着色剂的实例包括但不限于氧化铁如Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、胭脂红、亚铁氰化铁Fe<base:Sub>4</base:Sub>[Fe(CN)<base:Sub>6</base:Sub>]<base:Sub>3</base:Sub>及其混合物。 优选地,角色颜料中的着色剂选自Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>和胭脂红。 如本文所用,“着色剂”不包括在本发明的(a)测角色颜料中用作干涉颜料的二氧化钛。</base:Paragraphs>
+      <base:Paragraphs num="0035">本发明的(a)测角色颜料显示出选自粉色、红色、橙色、黄色和金色的反射色。 优选地,反射颜色选自粉色、红色、橙色和黄色。 (a)角色颜料的吸收色没有特别限定,优选选自金色、红色、橙色、黄色和蓝色,更优选选自金色、橙色和黄色。</base:Paragraphs>
+      <base:Paragraphs num="0036">(a)角色颜料可以具有0.5μm以上、优选1μm以上、更优选5μm以上的平均粒径。 (a)角色颜料可具有200μm或更小、优选150μm或更小、更优选100μm或更小、特别是50μm或更小的平均粒度。 如本文所用,术语“平均粒径”是指由一半群体的统计粒径分布给出的数均尺寸平均直径,并且被称为D50。 例如,数均尺寸平均直径可以通过激光衍射粒度分布分析仪测量,例如Malvern Corp的Mastersizer。</base:Paragraphs>
+      <base:Paragraphs num="0037">(a)测角色颜料中的透光性薄片的含量没有限定,相对于测角色颜料的总质量,可以为20质量%以上、优选为30质量%以上、更优选为40质量%以上。 (a)测角色颜料中的透光性薄片的含量的上限没有限定,相对于测角色颜料的总质量可以为85质量%以下、优选为75质量%以下、更优选为70质量%以下。</base:Paragraphs>
+      <base:Paragraphs num="0038">因此,基于角度色颜料的总重量计,(a)角度色颜料中的透光片的含量可为20至85重量%,优选30至75重量%,更优选40至70重量%。</base:Paragraphs>
+      <base:Paragraphs num="0039">(a)测角色颜料中的二氧化钛的含量没有限定,相对于测角色颜料的总质量,可以为10质量%以上、优选为20质量%以上、更优选为30质量%以上。 (a)测角色颜料中的二氧化钛的含量的上限没有限定,相对于测角色颜料的总质量,可以为70质量%以下,优选为60质量%以下,更优选为55质量%以下。</base:Paragraphs>
+      <base:Paragraphs num="0040">因此,基于角度色颜料的总重量计,(a)角度色颜料中二氧化钛的含量可以为10至70重量%,优选20至60重量%,更优选30至55重量%。</base:Paragraphs>
+      <base:Paragraphs num="0041">(a)测角色颜料中的着色剂的含量没有限定,相对于测角色颜料的总质量,可以为0.5质量%以上,优选为1质量%以上,更优选为2质量%以上。 (a)测角色颜料中的着色剂的含量的上限没有限定,相对于测角色颜料的总质量,可以为15质量%以下,优选为10质量%以下,更优选为7质量%以下。</base:Paragraphs>
+      <base:Paragraphs num="0042">因此,(a)测角色颜料中着色剂的含量相对于测角色颜料的总重量可以为0.5至15重量%,优选1至10重量%,更优选2至7重量%。</base:Paragraphs>
+      <base:Paragraphs num="0043">相对于组合物的总重量计,根据本发明的组合物中的(a)角色颜料的含量为10至50重量%。 优选地,相对于组合物的总重量,组合物中的(a)角色颜料的含量为15重量%或更多,更优选20重量%或更多。 优选地,相对于组合物的总重量,组合物中的(a)角色颜料的含量为40重量%或更少,更优选35重量%或更少。 因此,相对于组合物的总重量计,根据本发明的组合物中的(a)角色颜料的含量可以优选为15至40重量%,更优选20至35重量%。</base:Paragraphs>
+      <base:Paragraphs num="0044">（白色颜料） 
+根据本发明的组合物包含(b)至少一种白色颜料。 可以组合使用两种或更多种(b)白色颜料。 因此,可以使用单一类型的白色颜料或不同类型的白色颜料的组合。 </base:Paragraphs>
+      <base:Paragraphs num="0045">在根据本发明的组合物中使用的(b)白色颜料可以表示无机或有机颗粒,其是白色的、涂覆的或未涂覆的、球形的或非球形的并且是多孔的或无孔的。</base:Paragraphs>
+      <base:Paragraphs num="0046">(b)白色颜料可以选自但不限于金属氧化物,例如二氧化钛、二氧化锆、二氧化铈、氧化锌、氮化硼、硫酸钡,和涂覆的颜料,例如涂覆的云母、涂覆的绢云母、涂覆的氟金云母、涂覆的高岭土及其混合物。 颜料涂层只要显示白色就没有特别限定,可以为金属氧化物、例如二氧化钛、氧化锡等。</base:Paragraphs>
+      <base:Paragraphs num="0047">优选地,(b)白色颜料选自金属氧化物、氮化硼和金属氧化物涂覆的颜料。 特别地,(b)白色颜料选自二氧化钛、氮化硼和二氧化钛涂覆的颜料,例如二氧化钛涂覆的云母和二氧化钛涂覆的氟金云母。</base:Paragraphs>
+      <base:Paragraphs num="0048">在本发明的一个优选实施方案中,(b)白色颜料包含至少两种不同白色颜料的组合。 特别地,(b)白色颜料包含至少一种金属氧化物和至少一种涂覆金属氧化物的颜料的组合或由其组成。 特别地,(b)白色颜料包含至少一种二氧化钛和至少一种二氧化钛涂覆的颜料的组合物或由其组成。 在这些实施例中,涂覆有金属氧化物的颜料可以包含比金属氧化物更大量的量。</base:Paragraphs>
+      <base:Paragraphs num="0049">在本发明的一个优选实施方案中,(b)白色颜料的折射率大于或等于1.6,优选大于或等于2.0,更优选大于或等于2.3。</base:Paragraphs>
+      <base:Paragraphs num="0050">(b)白色颜料的平均粒径没有特别限定,可以为0.01μm～50μm、优选为0.05μm～30μm的范围。 未涂覆的颜料,例如金属氧化物、氮化硼和硫酸钡的平均粒度可以在0.05μm至0.5μm,优选0.1μm至0.3μm的范围内。 涂层颜料的平均粒度可以在1μm至50μm、优选10μm至30μm的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0051">作为市售的(b)白色颜料的例子,有以下：-由BASF公司以Timica Terra White（注册商标）的名称销售的二氧化钛包覆云母； -由Merck公司以名称Ronaflair和由Saint-Gobain公司以名称TRES化妆品粉末级PUHP3002销售的氮化硼； -涂覆有二氧化钛和氧化锡的合成氟金云母,由Eckart以名称SynCrystal Soft Silver®出售。</base:Paragraphs>
+      <base:Paragraphs num="0052">相对于组合物的总重量计,根据本发明的组合物中的(b)白色颜料的含量为0.5至15重量%。 优选组合物中的(b)白色颜料的含量相对于组合物的总质量为1质量%以上,更优选为3质量%以上。 优选组合物中的(b)白色颜料的含量相对于组合物的总质量为12质量%以下,更优选为10质量%以下。 因此,相对于组合物的总重量计,根据本发明的组合物中的(b)白色颜料的含量可优选为1至12重量%,更优选3至10重量%。</base:Paragraphs>
+      <base:Paragraphs num="0053">（其他成分） 
+根据本发明的组合物可以优选包含至少一种填料。 优选地,除了(a)角色颜料和(b)白色颜料之外,根据本发明的组合物还可包含一种或多种有机和/或无机填料。 </base:Paragraphs>
+      <base:Paragraphs num="0054">术语“填料”应理解为意指不溶于组合物的介质中的任何形状的无机或合成颗粒。</base:Paragraphs>
+      <base:Paragraphs num="0055">填料可以是任何形状：片状、球形或椭圆形,而不考虑结晶形式（例如,层状、立方、六方、斜方等）。</base:Paragraphs>
+      <base:Paragraphs num="0056">无机填料可包括滑石、云母、二氧化硅、硅酸铝镁、三甲基硅氧基硅酸盐、高岭土、膨润土、碳酸钙、碳酸氢镁、羟基磷灰石、氟金云母、绢云母、煅烧滑石、煅烧云母、煅烧绢云母、合成云母、月桂酰赖氨酸、金属皂、氯氧化铋、硫酸钡、碳酸镁及其混合物,其任选地经亲水或疏水处理。</base:Paragraphs>
+      <base:Paragraphs num="0057">作为有机填料,可举出（甲基）丙烯酸或（甲基）丙烯酸酯粉末,例如聚甲基丙烯酸甲酯粉末； 聚丙烯腈粉末； 有机聚硅氧烷粉末、 聚酰胺粉末； 聚-β-丙氨酸粉末和聚乙烯粉末、 聚四氟乙烯粉末； 月桂酰赖氨酸, 大米或玉米淀粉； 例如,玉米淀粉：INCI名称：Zea Mays（玉米）淀粉,四氟乙烯聚合物粉末,例如包含丙烯酸（烷基）酯的中空聚合物微球,衍生自含有8至22个碳原子的有机羧酸的金属皂,例如硬脂酸锌、硬脂酸镁、硬脂酸锂、月桂酸锌、肉豆蔻酸镁,有机硅粉末,例如有机硅树脂粉末,聚有机倍半硅氧烷粉末,乙烯基二甲基硅氧烷/甲基硅氧烷倍半硅氧烷交联聚合物粉末和聚甲基倍半硅氧烷粉末,聚氨酯粉末,巴西棕榈微蜡,合成微蜡,以及它们的混合物。</base:Paragraphs>
+      <base:Paragraphs num="0058">相对于组合物的总重量计,填料可以以1重量%至80重量%、优选10重量%至60重量%且更优选20重量%至50重量%的含量存在。</base:Paragraphs>
+      <base:Paragraphs num="0059">根据本发明的组合物可以优选包含一种或多种着色剂,其可以选自不同于(a)角色颜料和(b)白色颜料的颜料,例如无机颜料、色淀和珍珠质。 特别地,该组合物除了包含(a)角色颜料和(b)白色颜料之外,还包含珍珠箔作为着色剂。</base:Paragraphs>
+      <base:Paragraphs num="0060">不同于(a)角色颜料和(b)白色颜料的无机颜料可选自例如氧化铁、锰紫、普鲁士蓝、群青蓝和铁蓝及其混合物。</base:Paragraphs>
+      <base:Paragraphs num="0061">色淀,也称为有机颜料,可以选自胭脂虫红、偶氮染料、蒽醌染料、靛类染料、呫吨染料、芘染料、喹啉染料、三苯甲烷染料或荧烷染料、酸性染料的不溶性钠、钾、钙、钡、铝、锆、锶或钛盐。</base:Paragraphs>
+      <base:Paragraphs num="0062">可提及的珍珠箔包括珠光颜料,例如涂覆有氧化铁的钛云母、涂覆有氯氧化铋的云母、涂覆有氧化铬的钛云母、涂覆有有机染料的钛云母以及基于氯氧化铋的珠光颜料。 关于珍珠的商业产品,可以提及由Merck以名称Oriental Beige出售的米色珍珠。</base:Paragraphs>
+      <base:Paragraphs num="0063">相对于组合物的总重量计,着色剂可以以0.1重量%至30重量%、优选1重量%至20重量%且更优选2重量%至10重量%的含量存在。</base:Paragraphs>
+      <base:Paragraphs num="0064">根据本发明的组合物可以优选包含至少一种油。 油可以是挥发性的或非挥发性的。 优选地,油可以是固定油。</base:Paragraphs>
+      <base:Paragraphs num="0065">-动物来源的烃基油,例如全氢角鲨烯,植物来源的烃基油,例如植物硬脂基酯,例如油酸植物硬脂基酯、异硬脂酸植物硬脂基酯和月桂酰基/辛基十二烷基/植物硬脂基谷氨酸酯,由甘油的脂肪酸酯形成的甘油三酯,特别是其中脂肪酸是C；<base:Sub>4</base:Sub>～C<base:Sub>36</base:Sub>特别是C<base:Sub>18</base:Sub>～C<base:Sub>36</base:Sub>其中这些油任选地是直链或支链的、饱和的或不饱和的； 这些油, 甘油三酯,其可以特别是庚酸甘油三酯或辛酸甘油三酯, 牛油果油、苜蓿油、 罂粟油,冬南瓜油, 黍油、大麦油； 藜麦油, 黑麦油, 奎因油, 西番莲油, 牛油果油、芦荟油、 甜杏仁油, 桃仁油, 花生油； 阿尔甘油, 鳄梨油； 猴面包树油； 琉璃苣油, 花椰菜油, 金盏花油, 亚麻籽油, 芥花油, 胡萝卜油； 红花油、亚麻籽油、油菜籽油、棉籽油、椰子油、西葫芦籽油、小麦胚芽油、荷荷巴油、百合油、马黛米油、玉米油、白芒花籽油、芥子油、榛子油、杏仁油、核桃油、橄榄油、月见草油、棕榈油、黑醋栗籽油、猕猴桃籽油、葡萄籽油、开心果油、冬南瓜油、南瓜油、藜麦油、麝香玫瑰油、芝麻油、大豆油、葵花籽油、蓖麻油和西瓜油及其混合物,或辛酸/癸酸甘油三酯,-矿物或合成来源的直链或支链烃,例如液体石蜡及其衍生物；<base:Sub>1</base:Sub>COOR<base:Sub>2</base:Sub>油（R<base:Sub>1</base:Sub>表示含有1～40个碳原子的直链状或支链状脂肪酸残基,<base:Sub>2</base:Sub>表示含有1～40个碳原子的、特别是支链状烃系链,其中,R<base:Sub>1</base:Sub>+R<base:Sub>2</base:Sub>≥10）。 酯选自： 特别是醇的脂肪酸酯, 例如鲸蜡酯； 特别是辛酸鲸蜡硬脂酯, 异丙醇酯, 例如肉豆蔻酸异丙酯； 棕榈酸异丙酯, 棕榈酸乙酯, 棕榈酸2-乙基己酯、 硬脂酸异丙酯,异硬脂酸异丙酯,异硬脂酸异硬脂酯,硬脂酸辛酯,羟基化酯,例如乳酸异硬脂酯,羟基硬脂酸辛酯,己二酸二异丙酯,庚酸酯,特别是庚酸异硬脂酯,辛酸醇或多元醇,癸酸酯或蓖麻油酸酯,例如丙二醇二辛酸酯,鲸蜡基辛酸酯,辛酸十三烷基酯,4-二庚酸2-乙基己酯,棕榈酸2-乙基己酯,苯甲酸烷基酯,聚乙二醇二庚酸酯,丙二醇-2-二乙基己酸酯及其混合物,苯甲酸C<base:Sub>12</base:Sub>～C<base:Sub>15</base:Sub>醇、月桂酸己酯、新戊酸酯如新戊酸异癸酯、新戊酸异十三酯、新戊酸异硬脂酯、新戊酸辛基十二烷基酯、异壬酸酯如异壬酸异壬酯、异壬酸异十三酯、异壬酸辛酯、羟基化酯如乳酸异硬脂酯和苹果酸二异硬脂酯； 环状有机聚硅氧烷, 可以提及例如环己硅氧烷、八甲基环四硅氧烷、十甲基环五硅氧烷、十二甲基环六硅氧烷、任选部分基于烃和/或基于硅酮的氟油,例如氟硅酮油、氟聚醚和氟硅酮、饱和或不饱和的、直链或支链的并且含有6-30个碳原子、更特别是8-30个碳原子的脂肪醇：鲸蜡醇、硬脂醇及其混合物（鲸蜡硬脂醇）：辛基十二烷醇、2-丁基辛醇、2-己基癸醇、2-十一烷基十五烷醇、油醇或亚油醇； -它们的混合物。</base:Paragraphs>
+      <base:Paragraphs num="0066">相对于组合物的总重量计,油可以以0.1重量%至50重量%,优选1重量%至40重量%,更优选5重量%至30重量%的含量存在。</base:Paragraphs>
+      <base:Paragraphs num="0067">本发明的组合物中,只要添加剂不损害本发明的效果、化妆品用途中允许,则可以包含该添加剂。 添加剂可以是阴离子、阳离子、非离子或两性聚合物； 天然或合成增稠剂； 润滑剂或分散剂,例如脱水山梨糖醇脂肪酸酯,例如脱水山梨糖醇倍半油酸酯； 胶凝剂； 动物或植物来源的天然提取物； 蜡； 化妆品可接受的疏水性有机溶剂； 防腐剂,例如脱氢乙酸钠、苯氧基乙醇和氯苯甘醚； 防腐剂助剂,例如癸二醇、乙基己基甘油和辛二醇； 杀菌剂； 维生素或维生素原； 香料； 稳定剂,例如硫酸镁,以及它们的混合物。</base:Paragraphs>
+      <base:Paragraphs num="0068">包含在根据本发明的组合物中的添加剂的量不受限制,但相对于根据本发明的组合物的总重量可以为0.01至30重量%。</base:Paragraphs>
+      <base:Paragraphs num="0069">本发明的组合物是用于角蛋白材料,例如面部、颈部和身体皮肤,特别是面部皮肤的化妆品粉末组合物,更优选皮肤化妆品化妆组合物。 根据本发明的组合物可以以压粉或压粉、腮红或散粉的形式提供。</base:Paragraphs>
+      <base:Paragraphs num="0070">根据本发明的组合物可以赋予角蛋白材料,特别是面部改善的自然和立体感,同时保持优异的遮盖作用以覆盖皮肤缺陷,例如斑点、皱纹和毛孔。 因此,根据本发明的组合物可以在更小和更清晰的面部特征方面赋予自然外观。</base:Paragraphs>
+      <base:Paragraphs num="0071">应注意,使用根据本发明的组合物可以向面部提供立体效果或体积效果,因此不需要使用先前需要的各种类型的粉末化妆品来提供立体效果。 此外,使用本发明,不需要用于向消费者的面部提供高水平的立体感的技术。 因此,根据本发明的组合物非常适合用作化妆粉,例如粉底粉、润肤粉或扑面粉、身体化妆产品、腮红和眼影,特别是粉底粉和润肤粉。</base:Paragraphs>
+      <base:Paragraphs num="0072">根据本发明的组合物优选是无水的或含有小于3重量%的水,优选小于1重量%的水,相对于组合物的总重量计。 术语“无水”特别是指水优选不故意添加到组合物中,更优选不存在于组合物中,但也可以痕量存在于组合物中使用的各种组分中。</base:Paragraphs>
+      <base:Paragraphs num="0073">本发明还涉及一种美容方法,其包括将根据本发明的组合物施用于角蛋白材料,例如皮肤,优选面部皮肤的步骤。 组合物可以通过用涂抹器如海绵、粉扑或刷子擦掉粉末来除去。 然后可以通过使施加器与皮肤接触将组合物从施加器转移到皮肤。</base:Paragraphs>
+      <base:Paragraphs num="0074">根据本发明使用的组合物优选旨在用作免洗型化妆品组合物。 术语“免洗型”是指在施用后不旨在立即洗掉或除去的组合物。</base:Paragraphs>
+      <base:Paragraphs num="0075">由于根据本发明的组合物可以赋予角蛋白材料,特别是面部改善的自然和立体感,同时保持优异的遮盖效果,因此根据本发明的美容方法可以赋予角蛋白材料,特别是面部在自然外观和更小和更清晰的特征方面有吸引力的外观。</base:Paragraphs>
+      <base:Paragraphs num="0076">本发明还涉及(a)角色颜料和(b)白色颜料的组合作为化妆品粉末组合物中的化妆活性物质的用途,所述化妆品粉末组合物例如粉底、润肤或扑面粉、身体化妆产品、腮红和眼影,特别是粉底和润肤粉。</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0077">现在将通过实施例更详细地描述本发明。 然而,这些实施例不应被解释为限制本发明的范围。</base:Paragraphs>
+        <base:Paragraphs num="0078">（实施例1和比较例1～5） 
+根据实施例1和比较例1至5的组合物通过混合表1中列出的组分,然后在压制机中压制以获得压制粉底来制备。 将组成示于表1（表1）。 在表1中,所有组分均基于活性成分的“重量%”。 </base:Paragraphs>
+        <base:Paragraphs num="0079">根据实施例1和比较例1至5的组合物由7名评论员就三个重要特性（立体感效果、自然光洁度和遮盖效果）进行评价。 将实施例1和比较例1至5的各组合物以监视器自身的方式应用于监视器的面部,在应用后,评价监视器是否能够识别立体感效果、充分的遮盖作用和自然的妆容。 表1示出了多少监测者识别每种效果。 +++：6至7名评论员识别出效果++：4至5名评论员识别出效果+：2至3名评论员识别出效果-：0至1名评论员识别出效果</base:Paragraphs>
+        <base:Paragraphs num="0080">
+          <base:TableDetails num="0001">
+            <base:Image id="000002" he="153" wi="170" file="2020090438_000002.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0081">-角色颜料(a)：制品名：Duocrome（注册商标）YR 422C、BASF公司制； 该颜料包含52.5重量%的云母、43.5重量%的二氧化钛和4重量%的Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>。 干涉色为红色。 -角色颜料(b)：产品名：Sicopearl（注册商标）； 该颜料包含52.5重量%的二氧化硅、32.5重量%的铝粉和15重量%的氧化铁。 干涉色为红色。 -角色颜料(c)：产品名：Relief Color（注册商标）Beige； 该颜料包含75重量%的云母、15重量%的二氧化钛、5重量%的氧化铁和5重量%的二氧化硅。 干涉色为银色。 -角色颜料(d)：产品名：Relief Color（注册商标）Pink； 该颜料包含83重量%的云母、16重量%的二氧化钛和1重量%的氧化铁。 干涉色为银色。</base:Paragraphs>
+        <base:Paragraphs num="0082">从表1的评价结果可以看出,包含特定量的本发明的测角色颜料和白色颜料的组合的根据实施例1的组合物显示出优异的立体感效果、自然的光洁度和充分的遮盖效果。</base:Paragraphs>
+        <base:Paragraphs num="0083">另一方面,不含本发明的测角色颜料的比较例1～3的组合物不能充分地赋予自然的精加工或立体感效果。 含有本发明的测角色颜料但为少量的比较例4的组合物不能充分地赋予立体感效果和遮盖效果。 不含白色颜料的根据比较例5的组合物不能赋予遮盖效果。</base:Paragraphs>
+        <base:Paragraphs num="0084">（实施例2） 
+根据实施例2的组合物通过混合表2中列出的成分,然后在压制机中压制以获得压制粉底来制备。 将组成示于表2中。 在表2中,所有组分均基于活性成分的“重量%”。 </base:Paragraphs>
+        <base:Paragraphs num="0085">
+          <base:TableDetails num="0002">
+            <base:Image id="000003" he="128" wi="166" file="2020090438_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0086">-角色颜料(a)：制品名：Duocrome（注册商标）YR 422C、BASF公司制； 该颜料包含52.5重量%的云母、43.5重量%的二氧化钛和4重量%的Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>。 干涉色为红色。</base:Paragraphs>
+        <base:Paragraphs num="0087">监测测试证实,根据实施例2的组合物也能够赋予三种重要的特性：显著的立体感效果、自然的光洁度和优异的遮盖效果。</base:Paragraphs>
+        <base:Paragraphs num="0088">因此可以得出结论,根据本发明的粉末组合物非常优选用作化妆粉,例如粉底粉、润肤粉或扑面粉、身体化妆产品、腮红和眼影,特别是粉底粉和润肤粉。</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>1.一种粉末组合物,其包含(a)至少一种角度色颜料,所述角度色颜料能够根据光的入射角和视觉角度产生不同的颜色,所述角度色颜料包含透光片、二氧化钛和着色剂,并且表现出选自粉色、红色、橙色、黄色和金色的干涉色,相对于所述组合物的总重量计为10至50重量%的量,和(b)相对于所述组合物的总重量计为0.5至15重量%的量的至少一种白色颜料。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的组合物,其中所述着色剂选自氧化铁,例如Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、胭脂红和亚铁氰化铁,优选地选自Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>和胭脂红。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的组合物,其中所述透光薄片由云母组成,例如天然云母、合成云母或玻璃,优选云母。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1至3中任一项所述的组合物,其中(a)测角色颜料的干涉色选自粉色、红色、橙色和黄色。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1至4中任一项所述的组合物,其中相对于所述测角色颜料的总重量计,所述(a)测角色颜料中的透光片的含量在20至85重量%、优选30至75重量%、更优选40至70重量%的范围内。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1至5中任一项所述的组合物,其中基于所述测角色颜料的总重量计,所述(a)测角色颜料中二氧化钛的含量为10至70重量%,优选20至60重量%,更优选30至55重量%。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1至6中任一项所述的组合物,其中相对于所述测角色颜料的总重量计,所述(a)测角色颜料中着色剂的含量为0.5至15重量%,优选1至10重量%,更优选2至7重量%。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1至7中任一项所述的组合物,其中(b)白色颜料选自金属氧化物,例如二氧化钛、二氧化锆、二氧化铈、氧化锌、氮化硼、硫酸钡,和涂覆的颜料,例如涂覆的云母、涂覆的绢云母、涂覆的氟金云母、涂覆的高岭土及其混合物。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求1至8中任一项所述的组合物,其中(b)白色颜料包含两种不同白色颜料的组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1至9中任一项所述的组合物,其中所述(b)白色颜料包含二氧化钛和二氧化钛涂覆的颜料的组合或由其组成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求1至10中任一项所述的组合物,其中相对于所述组合物的总重量计,所述(a)角色颜料的量在15重量%至40重量%、优选20重量%至35重量%的范围内。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据前述权利要求中任一项所述的组合物,其中相对于所述组合物的总重量计,(b)白色颜料的量在1至12重量%、优选3至10重量%的范围内。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求1至12中任一项所述的组合物,其用作化妆品粉末组合物,优选用作化妆粉,例如粉底粉、润肤粉或扑面粉、身体化妆产品、腮红或眼影,特别是粉底粉或润肤粉。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据前述权利要求中任一项所述的组合物,其中所述组合物是无水的或含有相对于所述组合物的总重量计小于3重量%的水,优选小于1重量%的水。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>一种用于化妆角蛋白材料、优选皮肤的化妆方法,所述方法包括将根据权利要求1至14中任一项所述的组合物施加到所述角蛋白材料上的步骤。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

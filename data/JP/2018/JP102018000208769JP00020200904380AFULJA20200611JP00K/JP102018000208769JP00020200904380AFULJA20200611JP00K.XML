@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000208769JP00020200904380AFULJA20200611JP00K.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020090438" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090438</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090438</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000208769</base:DocNumber>
+        <base:Date>20181106</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018208769</base:DocNumber>
+        <base:Date>20181106</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>19</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/19        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>12</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/12        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/02        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>08</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/08        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>10</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61Q   1/10        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="6">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>25</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/25        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="7">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>29</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/29        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="8">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>98</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/98        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="9">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>28</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/28        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="10">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>K</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>27</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61K   8/27        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="11">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>09</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C09C   1/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="12">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>09</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>3</business:MainGroup>
+        <business:Subgroup>06</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C09C   3/06        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="13">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>09</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>3</business:MainGroup>
+        <business:Subgroup>08</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C09C   3/08        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="14">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>23</business:MainGroup>
+        <business:Subgroup>047</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C01G  23/047       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61K8/19</business:FI>
+      <business:FI type="secondary">A61Q1/12</business:FI>
+      <business:FI type="secondary">A61Q1/02</business:FI>
+      <business:FI type="secondary">A61Q1/08</business:FI>
+      <business:FI type="secondary">A61Q1/10</business:FI>
+      <business:FI type="secondary">A61K8/25</business:FI>
+      <business:FI type="secondary">A61K8/29</business:FI>
+      <business:FI type="secondary">A61K8/98</business:FI>
+      <business:FI type="secondary">A61K8/28</business:FI>
+      <business:FI type="secondary">A61K8/27</business:FI>
+      <business:FI type="secondary">C09C1/00</business:FI>
+      <business:FI type="secondary">C09C3/06</business:FI>
+      <business:FI type="secondary">C09C3/08</business:FI>
+      <business:FI type="secondary">C01G23/047</business:FI>
+      <business:FClass>
+        <business:FTerm>4C083AA071</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB151</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB211</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB231</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB232</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB241</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB242</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB361</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB431</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB432</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB441</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AB442</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC112</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC242</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC352</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC422</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AC442</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AD092</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AD152</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083AD242</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083BB21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083CC11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083CC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083CC14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083DD17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083DD21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083EE06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083EE07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C083EE11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CB08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CC03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G047CD03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037AA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037AA26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037CA09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037CB28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037EE03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4J037FF02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C083</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4G047</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4J037</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">ゴニオクロマチック顔料及び白色顔料を含むメイクアップ用粉末組成物</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ロレアル</base:Name>
+            <base:RegisteredNumber>391023932</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>FR</base:WIPOST3Code>
+              <base:Text>フランス国パリ，リュ  ロワイヤル  １４</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ウォラウット・クンシン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市高津区坂戸３－２－１  ケーエスピーアールアンドディー日本ロレアル株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>一階  文良</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市高津区坂戸３－２－１  ケーエスピーアールアンドディー日本ロレアル株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ロマン・タション</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市高津区坂戸３－２－１  ケーエスピーアールアンドディー日本ロレアル株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>村山  靖彦</base:Name>
+            <base:RegisteredNumber>100108453</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>実広  信哉</base:Name>
+            <base:RegisteredNumber>100110364</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>15</business:ClaimsCount>
+      <base:TotalPageCount>16</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】メイクアップ用の粉末組成物であって、ケラチン物質、好ましくは皮膚、特に顔の皮膚へ、改善された審美的効果、例えば自然な仕上がりを付与する効果、立体感効果、及び十分な隠蔽効果を与えることができる粉末組成物を提供すること。
+【解決手段】(a)光の入射角及び目視角に応じて異なる色を生成することができる少なくとも1つのゴニオクロマチック顔料であって、光透過性小板、二酸化チタン及び着色剤を含み、且つピンク色、赤色、オレンジ色、黄色、及び金色から選択される干渉色を示す、組成物の総質量に対して10から50質量%の量のゴニオクロマチック顔料、並びに
+(b)組成物の総質量に対して0.5から15質量%の量の少なくとも1つの白色顔料
+を含む粉末組成物に関する。
+【選択図】なし</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、ゴニオクロマチック顔料及び白色顔料を含む、ケラチン物質、例えば、皮膚をメイクアップするための粉末組成物、並びにそれを使用する美容方法に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  ケラチン物質のための化粧用粉末組成物は、メイクアップ化粧料、例えば、ファンデーションパウダー及びフィニッシングパウダーとして使用される。これらの組成物は、ケラチン物質へ魅力的な外観を付与するために使用される。したがって、化粧用粉末組成物にとって、メイクアップ化粧料としての役割を果たすために、ケラチン物質、好ましくは皮膚、特に顔の皮膚に対する、審美的効果、例えば自然な仕上がりを付与する効果、立体感効果、及び優れた隠蔽作用は非常に重要である。そのような審美的効果を化粧用粉末組成物へ与えるために、組成物中にゴニオクロマチック顔料を使用することが提案されてきた。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  例えば、特開平11-322541号公報では、化粧品的に許容される媒体;少なくとも1つの第1の着色剤;及び少なくとも1つの第2の着色剤を含む化粧用組成物であって、前記第1の着色剤が、光の入射角及び目視角に応じて異なる色を生成することができるゴニオクロマチック着色剤であり、前記ゴニオクロマチック着色剤が、多層干渉構造であり、且つ前記第2の着色剤が、前記ゴニオクロマチック着色剤の色のうちの1つを生成する単色着色剤である化粧用組成物が開示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  更に、米国特許第5,008,143(B)号明細書では、透明体、干渉顔料及び吸収着色剤から実質的になる、マルチカラー効果を示すゴニオクロマチック顔料であって、前記吸収着色剤が、干渉顔料の反射色又はその補色とは異なる色のものであり、且つ干渉顔料及び吸収着色剤が、同程度の色強度を有するゴニオクロマチック顔料が開示されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  しかし、美容効果が改善された化粧用粉末製品が依然として必要とされている。特に、ケラチン物質、好ましくは皮膚、特に顔の皮膚へ、審美的効果、例えば自然な仕上がりを付与する効果、立体感効果、及び優れた隠蔽作用を与える化粧用粉末製品が必要とされている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0006">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開平11-322541号公報</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0002">
+            <base:Text>米国特許第5,008,143(B)号明細書</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0007">
+  本発明の目的は、メイクアップ用の粉末組成物であって、ケラチン物質、好ましくは皮膚、特に顔の皮膚へ、改善された審美的効果、例えば自然な仕上がりを付与する効果、立体感効果、及び十分な隠蔽効果を与えることができる粉末組成物を提供することである。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">
+  上記の本発明の目的は、
+
+(a)光の入射角及び目視角に応じて異なる色を生成することができる少なくとも1つのゴニオクロマチック顔料であって、光透過性小板、二酸化チタン、及び着色剤を含み、且つピンク色、赤色、オレンジ色、黄色、及び金色から選択される干渉色を示す、組成物の総質量に対して10から50質量%の量のゴニオクロマチック顔料;及び
+
+(b)組成物の総質量に対して0.5から15質量%の量の少なくとも1つの白色顔料
+
+を含む粉末組成物によって達成することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  (a)ゴニオクロマチック顔料中の着色剤は、Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>等の酸化鉄、カルミン、及びフェロシアン化第二鉄から選択してもよく、好ましくは、Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>及びカルミンから選択してもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  (a)ゴニオクロマチック顔料中の光透過性小板は、マイカ、例えば、天然マイカ、合成マイカ、又はガラス、好ましくはマイカから構成されていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  (a)ゴニオクロマチック顔料の干渉色は、ピンク色、赤色、オレンジ色、及び黄色から選択してもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  (a)ゴニオクロマチック顔料中の光透過性小板の含有量は、ゴニオクロマチック顔料の総質量に対して20から85質量%、好ましくは30から75質量%、より好ましくは40から70質量%の範囲でもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  (a)ゴニオクロマチック顔料中の二酸化チタンの含有量は、ゴニオクロマチック顔料の総質量に対して10から70質量%、好ましくは20から60質量%、より好ましくは30から55質量%の範囲でもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  (a)ゴニオクロマチック顔料中の着色剤の含有量は、ゴニオクロマチック顔料の総質量に対して0.5から15質量%、好ましくは1から10質量%、より好ましくは2から7質量%の範囲でもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  (b)白色顔料は、金属酸化物、例えば、二酸化チタン、二酸化ジルコニウム、二酸化セリウム、酸化亜鉛、窒化ホウ素、硫酸バリウム、及び被覆顔料、例えば被覆マイカ、被覆セリサイト、被覆フルオロフロゴパイト、被覆カオリン、並びにこれらの混合物から選択してもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0016">
+  (b)白色顔料は、2つの異なる白色顔料の組合せを含んでいてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0017">
+  (b)白色顔料は、二酸化チタン及び二酸化チタン被覆顔料を組み合わせて含んでいても、又はこれらからなっていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0018">
+  (a)ゴニオクロマチック顔料の量は、組成物の総質量に対して15から40質量%、好ましくは20から35質量%の範囲であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0019">
+  (b)白色顔料の量は、組成物の総質量に対して1から12質量%、好ましくは3から10質量%の範囲であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0020">
+  本発明の1つの好ましい態様において、組成物は、化粧用粉末組成物、好ましくはメイクアップパウダー、例えば、ファンデーションパウダー、フィニッシングパウダー若しくはフェイスパウダー、身体用メイクアップ製品、頬紅、又はアイシャドウ、特にファンデーションパウダー又はフィニッシングパウダーとして使用するためのものである。
+</base:Paragraphs>
+        <base:Paragraphs num="0021">
+  本発明による組成物は、無水であっても、又は組成物の総質量に対して3質量%未満の水、好ましくは1質量%未満の水を含有していてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0022">
+  本発明はまた、ケラチン物質、好ましくは皮膚をメイクアップするための美容方法であって、ケラチン物質上に本発明による組成物を適用する工程を含む美容方法に関する。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0023">
+  鋭意検討の結果、本発明者らは、(a)組成物の総質量に対して10から50質量%の量の特異的ゴニオクロマチック顔料、及び(b)組成物の総質量に対して0.5から15質量%の量の白色顔料を組み合わせると、ケラチン物質、特に顔へ、改善された立体感及び自然な仕上がりを、金属的外観を伴わずに与え、同時に皮膚の欠点、例えばしみ、皺、及び毛穴を覆うための優れた隠蔽作用を維持することができる点を驚くことに見出し、その結果、本発明を完成させた。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  したがって、本発明による粉末組成物は、
+
+(a)光の入射角及び目視角に応じて異なる色を生成することができる少なくとも1つのゴニオクロマチック顔料であって、光透過性小板、二酸化チタン、及び着色剤を含み、且つピンク色、赤色、オレンジ色、黄色、及び金色から選択される干渉色を示す、組成物の総質量に対して10から50質量%の量のゴニオクロマチック顔料;及び
+
+(b)組成物の総質量に対して0.5から15質量%の量の少なくとも1つの白色顔料
+
+を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  これ以降、本発明による組成物を詳細に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+[組成物]
+
+  本発明による粉末組成物は、(a)光の入射角及び目視角に応じて異なる色を生成することができる少なくとも1つのゴニオクロマチック顔料であって、光透過性小板、二酸化チタン、及び着色剤を含み、且つピンク色、赤色、オレンジ色、黄色、及び金色から選択される干渉色を示す、組成物の総質量に対して10から50質量%の量のゴニオクロマチック顔料;及び(b)組成物の総質量に対して0.5から15質量%の量の少なくとも1つの白色顔料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+(ゴニオクロマチック顔料)
+
+  本発明による組成物は、(a)少なくとも1つのゴニオクロマチック顔料を含む。2つ以上の(a)ゴニオクロマチック顔料を組み合わせて使用してもよい。したがって、単一の種類のゴニオクロマチック顔料又は様々な種類のゴニオクロマチック顔料の組合せを使用してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  本明細書において「顔料」という用語は、組成物中の媒体に不溶性である、白色又は有色の、無機又は有機粒子を意味すると理解されたい。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  本明細書において「ゴニオクロマチック顔料」という用語は、光の入射角及び観察する角度に応じて異なる色を生成するゴニオクロマチック特性を示す顔料を意味すると理解することができる。したがって、(a)ゴニオクロマチック顔料は、光の入射角及び目視角に応じて異なる色を生成することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  ゴニオクロマチック顔料は、光透過性小板及び小板上の干渉顔料のコーティングから構成される干渉多層構造を一般的に有する。多層は、光線の干渉によって色、色相及び明るさに変化をもたらすことができる場合があり、その光線の回折及び拡散は層によって異なる。更に、ゴニオクロマチック顔料は、コーティング中に少なくとも1つの吸収着色剤を含むことができる。この場合、ゴニオクロマチック顔料は、2つの異なる色として、吸収着色剤から生成することができる「吸収色」及び目視角に応じて干渉顔料からの反射によって生成することができる「反射色」を示すことができる。目視角が普通の場合、干渉顔料の反射色が認められる。散乱角又は視射角では、干渉顔料の反射色はもはや観察されず、吸収色が認められる。したがって、普通角から視射角までの目視角の変化によって、色は、干渉顔料による反射色から吸収顔料による吸収色まで変化する。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  本発明の(a)ゴニオクロマチック顔料は、光透過性小板、干渉顔料として二酸化チタン、及び吸収顔料として着色剤を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  光透過性小板の材料は、光学的に透過性である限りは限定されない。光透過性小板の材料の例としては、マイカ、例えば、天然マイカ及び合成マイカ、並びにガラスがある。好ましくは、ゴニオクロマチック顔料の光透過性小板は、マイカ、例えば、天然マイカ及び合成マイカから作製される。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  本発明の1つの実施形態において、(a)ゴニオクロマチック顔料の光透過性小板上の二酸化チタン干渉顔料コーティングは、10から300nm、好ましくは20から200nm、より好ましくは30から150nmの範囲の厚さを有していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  着色剤の例としては、以下のものに限定されないが、Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>等の酸化鉄、カルミン、フェロシアン化第二鉄Fe<base:Sub>4</base:Sub>[Fe(CN)<base:Sub>6</base:Sub>]<base:Sub>3</base:Sub>、及びこれらの混合物がある。好ましくは、ゴニオクロマチック顔料中の着色剤は、Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>及びカルミンから選択される。本明細書において「着色剤」は、本発明の(a)ゴニオクロマチック顔料中の干渉顔料として使用される二酸化チタンを含まない。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  本発明の(a)ゴニオクロマチック顔料は、ピンク色、赤色、オレンジ色、黄色、及び金色から選択される反射色を示す。好ましくは、反射色は、ピンク色、赤色、オレンジ色、及び黄色から選択される。(a)ゴニオクロマチック顔料の吸収色は特に限定されないが、金色、赤色、オレンジ色、黄色、及び青色、より好ましくは金色、オレンジ色、及び黄色から好ましくは選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  (a)ゴニオクロマチック顔料は、0.5μm以上、好ましくは1μm以上、より好ましくは5μm以上の平均粒径を有していてもよい。(a)ゴニオクロマチック顔料は、200μm以下、好ましくは150μm以下、より好ましくは100μm以下、特に50μm以下の平均粒径を有していてもよい。本明細書において使用する「平均粒径」という用語は、母集団の半数に対して統計的粒径分布によって与えられる数平均サイズ平均直径を表し、D50と称される。例えば、数平均サイズ平均直径は、レーザー回折粒径分布アナライザー、例えば、Malvern Corp社製のMastersizerによって測定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  (a)ゴニオクロマチック顔料中の光透過性小板の含有量は限定されないが、ゴニオクロマチック顔料の総質量に対して20質量%以上、好ましくは30質量%以上、より好ましくは40質量%以上であってもよい。(a)ゴニオクロマチック顔料中の光透過性小板の含有量の上限は限定されないが、ゴニオクロマチック顔料の総質量に対して85質量%以下、好ましくは75質量%以下、より好ましくは70質量%以下であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  したがって、(a)ゴニオクロマチック顔料中の光透過性小板の含有量は、ゴニオクロマチック顔料の総質量に対して20から85質量%、好ましくは30から75質量%、より好ましくは40から70質量%の範囲でもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  (a)ゴニオクロマチック顔料中の二酸化チタンの含有量は限定されないが、ゴニオクロマチック顔料の総質量に対して10質量%以上、好ましくは20質量%以上、より好ましくは30質量%以上であってもよい。(a)ゴニオクロマチック顔料中の二酸化チタンの含有量の上限は限定されないが、ゴニオクロマチック顔料の総質量に対して70質量%以下、好ましくは60質量%以下、より好ましくは55質量%以下であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  したがって、(a)ゴニオクロマチック顔料中の二酸化チタンの含有量は、ゴニオクロマチック顔料の総質量に対して10から70質量%、好ましくは20から60質量%、より好ましくは30から55質量%の範囲でもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  (a)ゴニオクロマチック顔料中の着色剤の含有量は限定されないが、ゴニオクロマチック顔料の総質量に対して0.5質量%以上、好ましくは1質量%以上、より好ましくは2質量%以上であってもよい。(a)ゴニオクロマチック顔料中の着色剤の含有量の上限は限定されないが、ゴニオクロマチック顔料の総質量に対して15質量%以下、好ましくは10質量%以下、より好ましくは7質量%以下であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  したがって、(a)ゴニオクロマチック顔料中の着色剤の含有量は、ゴニオクロマチック顔料の総質量に対して0.5から15質量%、好ましくは1から10質量%、より好ましくは2から7質量%の範囲でもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  本発明による組成物中の(a)ゴニオクロマチック顔料の含有量は、組成物の総質量に対して10から50質量%である。好ましくは、組成物中の(a)ゴニオクロマチック顔料の含有量は、組成物の総質量に対して15質量%以上、より好ましくは20質量%以上である。好ましくは、組成物中の(a)ゴニオクロマチック顔料の含有量は、組成物の総質量に対して40質量%以下、より好ましくは35質量%以下である。したがって、本発明による組成物中の(a)ゴニオクロマチック顔料の含有量は、組成物の総質量に対して好ましくは15から40質量%、より好ましくは20から35質量%であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+(白色顔料)
+
+  本発明による組成物は、(b)少なくとも1つの白色顔料を含む。2つ以上の(b)白色顔料を組み合わせて使用してもよい。したがって、単一の種類の白色顔料又は様々な種類の白色顔料の組合せを使用してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  本発明による組成物中で使用される(b)白色顔料は、無機又は有機粒子を示していてもよく、これらは白色であり、被覆又は非被覆であり、球状又は非球状であり、且つ多孔質又は非多孔質である。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  (b)白色顔料は、以下のものに限定されないが、金属酸化物、例えば、二酸化チタン、二酸化ジルコニウム、二酸化セリウム、酸化亜鉛、窒化ホウ素、硫酸バリウム、及び被覆顔料、例えば被覆マイカ、被覆セリサイト、被覆フルオロフロゴパイト、被覆カオリン、並びにこれらの混合物から選択してもよい。顔料コーティング層は、白色を示す限りは特に限定されないが、金属酸化物、例えば二酸化チタン、酸化スズ等であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  優先的には、(b)白色顔料は、金属酸化物、窒化ホウ素、及び金属酸化物被覆顔料から選択される。特に、(b)白色顔料は、二酸化チタン、窒化ホウ素、及び二酸化チタン被覆顔料、例えば、二酸化チタン被覆マイカ及び二酸化チタン被覆フルオロフロゴパイトから選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  本発明の1つの好ましい実施形態において、(b)白色顔料は、少なくとも2つの異なる白色顔料の組合せを含む。特に、(b)白色顔料は、少なくとも1つの金属酸化物及び少なくとも1つの金属酸化物被覆顔料の組合せを含む又はこれらからなる。特に、(b)白色顔料は、少なくとも1つの二酸化チタン及び少なくとも1つの二酸化チタン被覆顔料を組み合わせて含む又はこれらからなる。これらの実施形態において、金属酸化物被覆顔料は、金属酸化物よりも大量に含むことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  本発明の1つの好ましい実施形態において、(b)白色顔料は、1.6以上、好ましくは2.0以上、より好ましくは2.3以上の屈折率を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  (b)白色顔料の平均粒径は特に限定されないが、0.01μmから50μm、好ましくは0.05μmから30μmの範囲であってもよい。非被覆顔料、例えば金属酸化物、窒化ホウ素及び硫酸バリウムの平均粒径は、0.05μmから0.5μm、好ましくは0.1μmから0.3μmの範囲であってもよい。被覆顔料の平均粒径は、1μmから50μm、好ましくは10μmから30μmの範囲であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  市販されている(b)白色顔料の例としては、以下がある:
+
+-  BASF社よりTimica Terra White(登録商標)の名称で販売されている二酸化チタン被覆マイカ;
+
+-  Merck社よりRonaflair Boroneige(登録商標)、及びSaint-Gobain社よりTRES BN(登録商標)化粧用粉末グレードPUHP3002の名称で販売されている窒化ホウ素;及び
+
+-  Eckart社よりSynCrystal Soft Silver(登録商標)の名称で販売されている、二酸化チタン及び酸化スズで被覆された合成フルオロフロゴパイト。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  本発明による組成物中の(b)白色顔料の含有量は、組成物の総質量に対して0.5から15質量%である。好ましくは、組成物中の(b)白色顔料の含有量は、組成物の総質量に対して1質量%以上、より好ましくは3質量%以上である。好ましくは、組成物中の(b)白色顔料の含有量は、組成物の総質量に対して12質量%以下、より好ましくは10質量%以下である。したがって、本発明による組成物中の(b)白色顔料の含有量は、組成物の総質量に対して好ましくは1から12質量%、より好ましくは3から10質量%であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+(他の成分)
+
+-  フィラー
+
+  本発明による組成物は、少なくとも1つのフィラーを好ましくは含んでいてもよい。好ましくは、本発明による組成物は、(a)ゴニオクロマチック顔料及び(b)白色顔料に加えて、1つ又は複数の有機及び/又は無機フィラーを含んでいてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  「フィラー」という用語は、組成物の媒体中に不溶性である任意の形状の無機又は合成粒子を意味すると理解されたい。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  フィラーは、結晶学的形態(例えば、層状、立方晶系、六方晶系、斜方晶系等)に関係なく任意の形状:小板状、球状又は楕円形であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  無機フィラーとして、タルク、マイカ、シリカ、ケイ酸アルミニウムマグネシウム、トリメチルシロキシシリケート、カオリン、ベントン、炭酸カルシウム、炭酸水素マグネシウム、ヒドロキシアパタイト、フルオロフロゴパイト、セリサイト、焼成タルク、焼成マイカ、焼成セリサイト、合成マイカ、ラウロイルリシン、金属石けん、オキシ塩化ビスマス、硫酸バリウム、炭酸マグネシウム、及びそれらの混合物を挙げることができ、これらは任意選択で親水性又は疎水性処理されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  有機フィラーとして、(メタ)アクリル又は(メタ)アクリレート粉末、例えば、ポリメチルメタクリレート粉末;ポリアクリロニトリル粉末;オルガノポリシロキサン粉末、ポリアミド粉末、ポリ-β-アラニン粉末及びポリエチレン粉末、ポリテトラフルオロエチレン粉末、ラウロイルリシン、コメ又はトウモロコシデンプン、例えばトウモロコシデンプン:INCI名:ゼア・マイス(Zea Mays)(トウモロコシ)デンプン、テトラフルオロエチレンポリマー粉末、例えば、(アルキル)アクリレートを含む中空ポリマーミクロスフィア、8から22個の炭素原子を含有する有機カルボン酸由来の金属石鹸、例えば、ステアリン酸亜鉛、ステアリン酸マグネシウム、ステアリン酸リチウム、ラウリン酸亜鉛、ミリスチン酸マグネシウム、シリコーン粉末、例えばシリコーン樹脂粉末、ポリオルガノシルセスキオキサン粉末、ビニルジメチコーン/メチコーンシルセスキオキサンクロスポリマー粉末、及びポリメチルシルセスキオキサン粉末、ポリウレタン粉末、カルナウバマイクロワックス、合成マイクロワックス、並びにこれらの混合物を挙げることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  フィラーは、組成物の総質量に対して1%から80質量%、好ましくは10%から60質量%、より好ましくは20質量から50質量%の範囲の含有量で存在していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+-  着色剤
+
+  本発明による組成物は、1つ又は複数の着色剤を好ましくは含んでいてもよく、それは、(a)ゴニオクロマチック顔料及び(b)白色顔料とは異なる顔料、例えば、無機顔料、レーキ、及び真珠箔から選択してもよい。特に、組成物は、(a)ゴニオクロマチック顔料及び(b)白色顔料に加えて、着色剤として真珠箔を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  (a)ゴニオクロマチック顔料及び(b)白色顔料とは異なる無機顔料は、例えば、酸化鉄、マンガンバイオレット、プルシアンブルー、ウルトラマリンブルー及びフェリックブルー(ferricblue)、並びにこれらの混合物から選択してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  有機顔料としても知られているレーキは、コチニールカルミン、アゾ染料、アントラキノン染料、インジゴイド染料、キサンテン染料、ピレン染料、キノリン染料、トリフェニルメタン染料又はフルオラン染料、酸性染料の不溶性のナトリウム、カリウム、カルシウム、バリウム、アルミニウム、ジルコニウム、ストロンチウム又はチタン塩から選択してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  挙げることができる真珠箔としては、真珠光沢顔料、例えば酸化鉄で被覆されたチタンマイカ、オキシ塩化ビスマスで被覆されたマイカ、酸化クロムで被覆されたチタンマイカ、有機染料で被覆されたチタンマイカ、またオキシ塩化ビスマスをベースとする真珠光沢顔料がある。真珠箔の市販製品に関しては、Merck社よりColorona(登録商標)Oriental Beigeの名称で販売されているベージュ色真珠箔を挙げることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  着色剤は、組成物の総質量に対して0.1質量%から30質量%、好ましくは1質量%から20質量%、より好ましくは2質量%から10質量%の範囲の含有量で存在していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+-  油
+
+  本発明による組成物は、少なくとも1つの油を好ましくは含んでいてもよい。油は、揮発性又は不揮発性とすることができる。好ましくは、油は不揮発性油であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  油は、以下から選択してもよい:
+
+-  動物由来の炭化水素系油、例えばペルヒドロスクアレン、
+
+-  植物由来の炭化水素系油、例えば、フィトステアリルエステル、例えば、オレイン酸フィトステアリル、イソステアリン酸フィトステアリル及びラウロイル/オクチルドデシル/フィトステアリルグルタメート、グリセロールの脂肪酸エステルから形成されるトリグリセリドであって、特にその脂肪酸がC<base:Sub>4</base:Sub>～C<base:Sub>36</base:Sub>、特にC<base:Sub>18</base:Sub>～C<base:Sub>36</base:Sub>の範囲の鎖長を有していてもよく、これらの油が場合によって、直鎖状又は分岐状、飽和又は不飽和であり;これらの油が、特に、ヘプタン酸トリグリセリド又はオクタン酸トリグリセリドであってもよいトリグリセリド、シア油、アルファルファ油、ケシ油、冬カボチャ油、キビ油、オオムギ油、キノア油、ライムギ油、ククイ油、トケイソウ油、シア脂、アロエベラ油、スイートアーモンド油、モモ核油、落花生油、アルガン油、アボカド油、バオバブ油、ルリジサ油、ブロッコリー油、キンセンカ油、カメリナ油、キャノーラ油、ニンジン油、サフラワー油、アマニ油、アブラナ種子油、綿実油、ヤシ油、ペポカボチャ種子油、コムギ胚芽油、ホホバ油、ユリ油、マカデミア油、コーン油、メドウフォーム油、モノイ油、ヘーゼルナッツ油、杏仁油、クルミ油、オリーブ油、月見草油、パーム油、クロフサスグリ種子油、キウイ種子油、ブドウ種子油、ピスタチオ油、冬カボチャ油、カボチャ油、キノア油、ムスクローズ油、ゴマ油、ダイズ油、ヒマワリ油、ヒマシ油及びスイカ油、並びにそれらの混合物、或いはカプリル酸/カプリン酸トリグリセリド、
+
+-  鉱物又は合成由来の直鎖状又は分岐状炭化水素、例えば流動パラフィン及びその誘導体、ワセリン、鉱油、ポリデセン、ポリブテン、水添ポリイソブテン、例えばParleam、及びスクアラン、
+
+-  10～40個の炭素原子を含有する合成エーテル、
+
+-  合成エステル、例えば式R<base:Sub>1</base:Sub>COOR<base:Sub>2</base:Sub>の油(R<base:Sub>1</base:Sub>は、1～40個の炭素原子を含有する直鎖状又は分岐状脂肪酸残基を表し、R<base:Sub>2</base:Sub>は、1～40個の炭素原子を含有する、特に分岐状炭化水素系鎖を表し、ただしR<base:Sub>1</base:Sub>+R<base:Sub>2</base:Sub>≧10である)。エステルは、特に、アルコールの脂肪酸エステル、例えばセチルエステル、特にオクタン酸セトステアリル、イソプロピルアルコールエステル、例えば、ミリスチン酸イソプロピル、パルミチン酸イソプロピル、パルミチン酸エチル、パルミチン酸2-エチルヘキシル、ステアリン酸イソプロピル、イソステアリン酸イソプロピル、イソステアリン酸イソステアリル、ステアリン酸オクチル、ヒドロキシル化エステル、例えば乳酸イソステアリル、ヒドロキシステアリン酸オクチル、アジピン酸ジイソプロピル、ヘプタン酸エステル、特にヘプタン酸イソステアリル、オクタン酸アルコール又はポリアルコール、デカン酸エステル又はリシノール酸エステル、例えばジオクタン酸プロピレングリコール、オクタン酸セチル、オクタン酸トリデシル、2-エチルヘキシル4-ジヘプタノエート、パルミチン酸2-エチルヘキシル、安息香酸アルキル、ジヘプタン酸ポリエチレングリコール、プロピレングリコール2-ジエチルヘキサノエート、及びこれらの混合物、安息香酸C<base:Sub>12</base:Sub>～C<base:Sub>15</base:Sub>アルコール、ラウリン酸ヘキシル、ネオペンタン酸エステル、例えばネオペンタン酸イソデシル、ネオペンタン酸イソトリデシル、ネオペンタン酸イソステアリル、ネオペンタン酸オクチルドデシル、イソノナン酸エステル、例えばイソノナン酸イソノニル、イソノナン酸イソトリデシル、イソノナン酸オクチル、ヒドロキシル化エステル、例えば乳酸イソステアリル及びリンゴ酸ジイソステアリルから選択することができる、
+
+-  シリコーン油、例えば直鎖状オルガノポリシロキサン、例えばジメチルポリシロキサン(ジメチコーン)、メチルフェニルポリシロキサン、メチル水素ポリシロキサン等;環式オルガノポリシロキサン、例えばシクロヘキサシロキサン、オクタメチルシクロテトラシロキサン、デカメチルシクロペンタシロキサン、ドデカメチルシクロヘキサシロキサン、
+
+-  任意選択で部分的に炭化水素系である及び/又はシリコーン系であるフルオロ油、例えばフルオロシリコーン油、フルオロポリエーテル及びフルオロシリコーン、
+
+-  飽和又は不飽和、直鎖状又は分岐状であり、かつ6から30個の炭素原子、より詳細には8から30個の炭素原子を含有する脂肪アルコール:セチルアルコール、ステアリルアルコール及びこれらの混合物(セチルステアリルアルコール):オクチルドデカノール、2-ブチルオクタノール、2-ヘキシルデカノール、2-ウンデシルペンタデカノール、オレイルアルコール又はリノレイルアルコールを挙げることができる;並びに
+
+-  これらの混合物。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  油は、組成物の総質量に対して0.1質量%から50質量%、好ましくは1質量%から40質量%、より好ましくは5質量%から30質量%の範囲の含有量で存在していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+-  添加剤
+
+  本発明による組成物は、添加剤が本発明の効果を損なわず、化粧料用途に許容される限り、その添加剤を含んでいてもよい。添加剤は、陰イオン性、陽イオン性、非イオン性又は両性ポリマー;天然又は合成増粘剤;滑沢剤又は分散剤、例えばソルビタン脂肪酸エステル、例えば、セスキオレイン酸ソルビタン;ゲル化剤;動物又は植物由来の天然抽出物;ワックス;化粧品的に許容される疎水性有機溶媒;防腐剤、例えばデヒドロ酢酸ナトリウム、フェノキシエタノール、及びクロルフェネシン;防腐剤補助剤(co-preservative)、例えばデシレングリコール、エチルヘキシルグリセリン、及びカプリリルグリコール;殺菌剤;ビタミン又はプロビタミン;香料;安定化剤、例えば硫酸マグネシウム、及びこれらの混合物から選択してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  本発明による組成物中に含まれる添加剤の量は限定されないが、本発明による組成物の総質量に対して0.01から30質量%であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  本発明の組成物は、ケラチン物質、例えば、顔、頸部及び身体の皮膚、特に顔の皮膚のための化粧用粉末組成物、より好ましくは皮膚化粧用メイクアップ組成物である。本発明による組成物は、コンパクト若しくはプレスドパウダー、頬紅又はルースパウダーの形態で提供することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  本発明による組成物は、ケラチン物質、特に顔へ、改善された自然な且つ立体感を付与し、同時に皮膚の欠点、例えばしみ、皺、及び毛穴を覆うための優れた隠蔽作用を維持することができる。したがって、本発明による組成物は、より小さい且つより鮮明な顔特徴に関して自然な外観を付与することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  本発明による組成物を使用すると、顔へ、立体感又はボリューム効果をもたらすことができ、したがって立体感をもたらすために以前から必要とされてきた様々な種類の粉末化粧料を使用することを必要としない点に留意されたい。更に、本発明を使用すると、消費者にとって高レベルな、その消費者の顔に立体感をもたらすための技術を必要としない。その結果、本発明による組成物は、メイクアップパウダー、例えば、ファンデーションパウダー、フィニッシングパウダー又はフェイスパウダー、身体用メイクアップ製品、頬紅、及びアイシャドウ、特にファンデーションパウダー及びフィニッシングパウダーとしての使用に非常に好適である。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  本発明による組成物は、好ましくは無水である、又は組成物の総質量に対して、3質量%未満の水、好ましくは1質量%未満の水を含有する。「無水」という用語は、水が、組成物へ好ましくは故意に添加されておらず、より好ましくは組成物中に存在していないが、組成物中で使用される様々な成分中に微量に存在していてもよいことを特に意味する。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+[美容方法]
+
+  本発明はまた、ケラチン物質、例えば皮膚、好ましくは顔の皮膚へ、本発明による組成物を適用する工程を含む美容方法に関する。組成物は、スポンジ、パフ又はブラシ等の塗布具で、粉末をこすり取ることによって取り上げることができる。次いで組成物は、塗布具を皮膚に接触させることにより、塗布具から皮膚に移すことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  本発明に従って使用される組成物は、好ましくはリーブオンタイプの化粧用組成物として使用することを意図する。「リーブオン」という用語は、塗布直後に洗い落としたり除去したりすることを意図しない組成物を意味する。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  本発明による組成物は、ケラチン物質、特に顔へ、改善された自然な且つ立体感を付与し、同時に優れた隠蔽効果を維持することができるため、本発明による美容方法は、ケラチン物質、特に顔へ、自然な外見及びより小さい且つより鮮明な特徴に関して魅力的な外観を付与することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  本発明はまた、化粧用粉末組成物、例えば、ファンデーションパウダー、フィニッシングパウダー又はフェイスパウダー、身体用メイクアップ製品、頬紅、及びアイシャドウ、特にファンデーションパウダー及びフィニッシングパウダー中のメイクアップ活性物質としての(a)ゴニオクロマチック顔料及び(b)白色顔料の組合せの使用に関する。
+</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0077">
+  本発明を、実施例によって、より詳細に説明することにする。しかしながら、これらの実施例が本発明の範囲を限定するものと解釈すべきではない。
+</base:Paragraphs>
+        <base:Paragraphs num="0078">
+(実施例1及び比較例1～5)
+
+[組成物]
+
+  実施例1及び比較例1から5による組成物を、Table 1(表1)で挙げられる成分を混合することによって調製し、次いでプレス機でプレスし、プレスドパウダーファンデーションを得た。組成をTable 1(表1)に示す。Table 1(表1)では、全ての構成成分は、活性原料の「質量%」に基づく。
+</base:Paragraphs>
+        <base:Paragraphs num="0079">
+[評価]
+
+  実施例1及び比較例1から5による組成物を、7名のモニターによって、立体感効果、自然な仕上がり、及び隠蔽効果の3つの重要な特性に関して評価した。実施例1及び比較例1から5による各組成物をモニターの顔にモニター自身で適用し、適用後、モニターが立体感効果、十分な隠蔽作用、及び自然な仕上がりを認識することができるかどうかを評価した。Table 1(表1)は、何名のモニターが各効果を認識したかを示す。
+
++++:6から7名のモニターが効果を認識した
+
+++:4から5名のモニターが効果を認識した
+
++:2から3名のモニターが効果を認識した
+
+-:0から1名のモニターが効果を認識した
+</base:Paragraphs>
+        <base:Paragraphs num="0080">
+          <base:TableDetails num="0001">
+            <base:Image id="000002" he="153" wi="170" file="2020090438_000002.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0081">
+- ゴニオクロマチック顔料(a): 製品名: Duocrome(登録商標)YR 422C、BASF社製;この顔料は、52.5質量%のマイカ、43.5質量%の二酸化チタン、及び4質量%のFe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>を含む。干渉色は赤色である。
+
+- ゴニオクロマチック顔料(b): 製品名: Sicopearl(登録商標);この顔料は、52.5質量%のシリカ、32.5質量%のアルミニウム粉末、及び15質量%の酸化鉄を含む。干渉色は赤色である。
+
+- ゴニオクロマチック顔料(c): 製品名: Relief Color(登録商標)Beige;この顔料は、75質量%のマイカ、15質量%の二酸化チタン、5質量%の酸化鉄、及び5質量%のシリカを含む。干渉色は銀色である。
+
+- ゴニオクロマチック顔料(d): 製品名: Relief Color(登録商標)Pink;この顔料は、83質量%のマイカ、16質量%の二酸化チタン、及び1質量%の酸化鉄を含む。干渉色は銀色である。
+</base:Paragraphs>
+        <base:Paragraphs num="0082">
+  Table 1(表1)の評価結果から認められるように、本発明のゴニオクロマチック顔料及び白色顔料の組合せを特定の量で含む実施例1による組成物は、優れた立体感効果、自然な仕上がり、及び十分な隠蔽効果を示した。
+</base:Paragraphs>
+        <base:Paragraphs num="0083">
+  一方、本発明のゴニオクロマチック顔料を含まない比較例1から3による組成物は、自然な仕上がり又は立体感効果を十分に付与することができなかった。本発明のゴニオクロマチック顔料を含むが少量である比較例4による組成物は、立体感効果及び隠蔽効果を十分に付与することができなかった。白色顔料を含まない比較例5による組成物は、隠蔽効果を付与することができなかった。
+</base:Paragraphs>
+        <base:Paragraphs num="0084">
+(実施例2)
+
+  実施例2による組成物を、Table 2(表2)で挙げられる成分を混合することによって調製し、次いでプレス機でプレスし、プレスドパウダーファンデーションを得た。組成をTable 2(表2)に示す。Table 2(表2)では、全ての構成成分は、活性原料の「質量%」に基づく。
+</base:Paragraphs>
+        <base:Paragraphs num="0085">
+          <base:TableDetails num="0002">
+            <base:Image id="000003" he="128" wi="166" file="2020090438_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0086">
+- ゴニオクロマチック顔料(a): 製品名: Duocrome(登録商標)YR 422C、BASF社製;この顔料は、52.5質量%のマイカ、43.5質量%の二酸化チタン、及び4質量%のFe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>を含む。干渉色は赤色である。
+</base:Paragraphs>
+        <base:Paragraphs num="0087">
+  実施例2による組成物も、顕著な立体感効果、自然な仕上がり、及び優れた隠蔽効果の3つの重要な特性を付与することができたことが、モニター試験で確認された。
+</base:Paragraphs>
+        <base:Paragraphs num="0088">
+  その結果、本発明による粉末組成物は、メイクアップパウダー、例えば、ファンデーションパウダー、フィニッシングパウダー又はフェイスパウダー、身体用メイクアップ製品、頬紅、及びアイシャドウ、特にファンデーションパウダー及びフィニッシングパウダーとしての使用に非常に好ましいことを結論付けることができる。
+</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  (a)光の入射角及び目視角に応じて異なる色を生成することができる少なくとも1つのゴニオクロマチック顔料であって、光透過性小板、二酸化チタン及び着色剤を含み、且つピンク色、赤色、オレンジ色、黄色、及び金色から選択される干渉色を示す、組成物の総質量に対して10から50質量%の量のゴニオクロマチック顔料、並びに
+
+(b)組成物の総質量に対して0.5から15質量%の量の少なくとも1つの白色顔料
+
+を含む粉末組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  着色剤が、Fe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>等の酸化鉄、カルミン、及びフェロシアン化第二鉄から選択され、好ましくはFe<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>及びカルミンから選択される、請求項1に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  光透過性小板が、マイカ、例えば、天然マイカ、合成マイカ、又はガラス、好ましくはマイカからなる、請求項1又は2に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  (a)ゴニオクロマチック顔料の干渉色が、ピンク色、赤色、オレンジ色、及び黄色から選択される、請求項1から3のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  (a)ゴニオクロマチック顔料中の光透過性小板の含有量が、ゴニオクロマチック顔料の総質量に対して20から85質量%、好ましくは30から75質量%、より好ましくは40から70質量%の範囲である、請求項1から4のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  (a)ゴニオクロマチック顔料中の二酸化チタンの含有量が、ゴニオクロマチック顔料の総質量に対して10から70質量%、好ましくは20から60質量%、より好ましくは30から55質量%の範囲である、請求項1から5のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  (a)ゴニオクロマチック顔料中の着色剤の含有量が、ゴニオクロマチック顔料の総質量に対して0.5から15質量%、好ましくは1から10質量%、より好ましくは2から7質量%の範囲である、請求項1から6のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  (b)白色顔料が、金属酸化物、例えば、二酸化チタン、二酸化ジルコニウム、二酸化セリウム、酸化亜鉛、窒化ホウ素、硫酸バリウム、及び被覆顔料、例えば、被覆マイカ、被覆セリサイト、被覆フルオロフロゴパイト、被覆カオリン、並びにこれらの混合物から選択される、請求項1から7のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  (b)白色顔料が、2つの異なる白色顔料の組合せを含む、請求項1から8のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  (b)白色顔料が、二酸化チタン及び二酸化チタン被覆顔料を組み合わせて含む又はこれらのみからなる、請求項1から9のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  (a)ゴニオクロマチック顔料の量が、組成物の総質量に対して15から40質量%、好ましくは20から35質量%の範囲である、請求項1から10のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  (b)白色顔料の量が、組成物の総質量に対して1から12質量%、好ましくは3から10質量%の範囲である、請求項1から11のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  化粧用粉末組成物、好ましくはメイクアップパウダー、例えば、ファンデーションパウダー、フィニッシングパウダー若しくはフェイスパウダー、身体用メイクアップ製品、頬紅、又はアイシャドウ、特にファンデーションパウダー又はフィニッシングパウダーとして使用するための、請求項1から12のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  無水である、又は組成物の総質量に対して3質量%未満の水、好ましくは1質量%未満の水を含有する、請求項1から13のいずれか一項に記載の組成物。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  ケラチン物質、好ましくは皮膚をメイクアップするための美容方法であって、ケラチン物質上に請求項1から14のいずれか一項に記載の組成物を適用する工程を含む美容方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

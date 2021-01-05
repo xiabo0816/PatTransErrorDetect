@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102020000044299JP00020200924670AFULJA20200611JP00Z.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020092467" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092467</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020092467</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102020000044299</base:DocNumber>
+        <base:Date>20200313</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020044299</base:DocNumber>
+        <base:Date>20200313</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015054563</base:DocNumber>
+        <base:Date>20150318</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002015000054563</base:DocNumber>
+        <base:Date>20150318</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>14</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04J  14/02        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>10</business:MainGroup>
+        <business:Subgroup>077</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04B  10/077       20130101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H04J14/02</business:FI>
+      <business:FI type="secondary">H04B10/077</business:FI>
+      <business:FClass>
+        <business:FTerm>5K102AA34</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102AD02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102AL13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102LA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102LA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102LA21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102LA52</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102MH03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102MH14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102MH24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102PB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102PC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102PC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102PH47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102PH48</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K102PH50</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5K102</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">光通信装置、光伝送システム、および、光通信方法</business:InventionTitle>
+    <business:RelatedDocuments>
+      <business:Division>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1" lang="ja">
+              <base:DocNumber>2018109529</base:DocNumber>
+              <base:Date>20160315</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Division>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>日本電気株式会社</base:Name>
+            <base:RegisteredNumber>000004237</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都港区芝五丁目７番１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>稲田  喜久</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都港区芝五丁目７番１号                      日本電気株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>机  昌彦</base:Name>
+            <base:RegisteredNumber>100109313</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>下坂  直樹</base:Name>
+            <base:RegisteredNumber>100124154</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>10</business:ClaimsCount>
+      <base:TotalPageCount>19</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】  光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局において光分岐挿入装置のフィルタ境界を特定することを可能にする。
+【解決手段】  光伝送システムは、光信号とダミー光を合波した波長多重光信号を出力する端局装置と、複数の前記端局装置から出力された前記波長多重光信号をそれぞれ入力してａｄｄ／ｄｒｏｐ処理する光分岐挿入装置と、を備え、前記ダミー光は、隣接する波長間隔が等間隔に配置された波長配置であり、前記端局装置ごとに前記ダミー光の波長配置が異なる。
+【選択図】      図５</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="69" file="2020092467_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、光分岐挿入装置を含む光伝送システム等に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  近年、光ファイバを使う光伝送システムにおける接続性の向上、あるいは、運用面の利便性が求められる中、同一ファイバ伝送路上で波長単位又は波長帯単位での光信号のＯＡＤＭ（Optical Add/Drop Multiplexer）機能、可変波長機能を提供する光伝送システムが注目されている。特に、波長選択スイッチ（ＷＳＳ：Wavelength Selective Switch）技術の導入による分解能の向上によって光分岐挿入装置（以降、ＯＡＤＭ分岐装置と示す）を適用する光伝送システムは、更なる利便性、又は接続性が進んでいる。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  一方で、波長多重技術やＯＡＤＭ機能の導入により、局数の増加とともに波長帯単位での接続管理などシステム構成が複雑化しており、障害又は設定変更の対応のために光伝送システムの運用状態を監視する機能の提供が必要不可欠となっている。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  特許文献１には、端局装置に波長ブロック単位の信号断を検出する信号断検出部を備え、信号断が検出された端局装置のダミー光の強度を調節する制御信号を送信する光信号レベル調整システムが記載されている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２０１０－２２６１６７号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">
+  ところで、ＯＡＤＭ分岐装置を含む光伝送システムの初期運用状態において、光伝送路を伝搬するＷＤＭ（Wavelength Division Multiplex）光信号の中で、ダミー光の波長数（波長帯）の占める割合が、主信号の波長数（波長帯）の占める割合よりも多くなる。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  図１５は、ＯＡＤＭ分岐装置を含む光伝送システムの概要図である。図１５に示すように、光伝送システム８１は、ＯＡＤＭ分岐装置８２と、Ａ局８３、Ｂ局８４、Ｃ局８５、光伝送路８６、８７、８８を備える。図１６は、図１５に示す光伝送システム８１の初期運用時における光スペクトラムの状態を示す概要図である。初期運用時の光伝送システム８１において、Ａ局８３の送信光は、Ａ局８３とＣ局８５間で通信するλ（Ａ１）とλ（Ａ２）の２波長分の光信号を配置し、残りの帯域にダミー光を配置して出力する（図１６の（ａ））。またＢ局８４の送信光は、Ｂ局８４とＣ局８５間で通信するλ（Ｂ１）とλ（Ｂ２）の２波長分の光信号を配置し、残りの帯域にダミー光を配置して出力する（図１６の（ｂ））。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  ＯＡＤＭ分岐装置８２は、Ａ局８３の送信光の内、λ（Ａ１）、λ（Ａ２）を含む、フィルタ境界の波長λFより低い帯域の波長を通過し（図１６の（ｃ））、Ｂ局８４の送信光の内、λFより高い帯域の波長を通過する（図１６の（ｄ））。更に通過したＡ局８３の送信光、Ｂ局８４の送信光がＯＡＤＭ分岐装置８２で合波されてＣ局８５へ出力される。結果、Ｃ局８５の受信光の光スペクトラムの状態は、フィルタ境界の波長λF周辺にはＡ局８３のダミー光、Ｂ局８４のダミー光が配置されることになる。このため、Ｃ局８５の受信光でＯＡＤＭ分岐装置８２のフィルタ境界を特定することが困難となる。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  このように、光伝送システムの波長帯域内で、ダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合、端局で受信したＷＤＭ光信号をモニタしてもＯＡＤＭ分岐装置のフィルタ境界の特定が困難となる。このためＯＡＤＭ分岐装置の光透過状態、及び、光伝送システムに割当てられている波長配置を検出することができなくなる。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  本発明の目的は、光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局においてＯＡＤＭ分岐装置のフィルタ境界を特定することを可能にする技術を提供することにある。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0011">
+  本発明の一形態である光伝送システムは、光信号とダミー光を合波した波長多重光信号を出力する端局装置と、複数の前記端局装置から出力された前記波長多重光信号をそれぞれ入力してａｄｄ／ｄｒｏｐ処理する光分岐挿入装置と、を備え、前記ダミー光は、隣接する波長間隔が等間隔に配置された波長配置であり、前記端局装置ごとに前記ダミー光の波長配置が異なる。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  本発明の一形態である端局装置は、光信号とダミー光を合波した波長多重光信号を複数の端局装置からそれぞれ入力してａｄｄ／ｄｒｏｐ処理する光分岐挿入装置を含む光伝送システムの端局装置であって、前記ダミー光は、隣接する波長間隔が等間隔に配置された波長配置であり、前記端局装置ごとに前記ダミー光の波長配置が異なる。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  本発明の一形態である受信側端局装置は、複数の端局装置からの波長多重光信号をそれぞれ入力する光分岐挿入装置を含む光伝送システムの受信側端局装置であって、前記光分岐挿入装置への入力が、前記端局装置ごとに波長配置が異なるダミー光および光信号が合波された波長多重光信号であり、前記前記光分岐挿入装置から出力された出力光の光スペクトラムを測定する光スペクトラムモニタ手段と、前記光スペクトラムに反映された前記端局装置ごとの前記ダミー光の波長配置の差異に基づいて、前記測定した光スペクトラムにおける前記光分岐挿入装置のフィルタ境界を識別する監視手段と、を備える。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  本発明の一形態である解析方法は、端局装置に接続された光分岐挿入装置を含む光伝送システムの解析方法であって、前記端局装置ごとに波長配置が異なるダミー光および光信号が合波された波長多重光信号を前記光分岐挿入装置でａｄｄ／ｄｒｏｐ処理して出力し、前記光分岐挿入装置が出力した出力光の光スペクトラムを測定し、前記光スペクトラムに反映された前記端局装置ごとのダミー光の波長配置の差異に基づいて、前記光スペクトラムにおける前記光分岐挿入装置のフィルタ境界を識別する。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  本発明の一形態である光伝送システムの管理装置は、上記の光伝送システムの管理装置であって、前記端局装置に接続され、前記端局装置ごとに前記ダミー光の前記波長の配置が異なるように調整された波長の配置情報を前記端局装置に送信する。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0016">
+  本発明は、光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局において光分岐挿入装置のフィルタ境界を特定することを可能にする。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0017">
+        <base:FigureReference num="0001">第１の実施形態における光伝送システムの構成を示すブロック図である。</base:FigureReference>
+        <base:FigureReference num="0002">第１の実施形態における端局装置の光送信装置の構成を示すブロック図である。</base:FigureReference>
+        <base:FigureReference num="0003">第１の実施形態における端局装置の光受信装置の構成を示すブロック図である。</base:FigureReference>
+        <base:FigureReference num="0004">第１の実施形態における光伝送システムの光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0005">各端局で波長の配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0006">第２の実施形態における光伝送システムの構成を示すブロック図である。</base:FigureReference>
+        <base:FigureReference num="0007">第２の実施形態の光伝送システムにおける光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0008">第２の実施形態の光伝送システムにおける光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0009">各端局で波長の配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0010">各端局で波長の配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0011">各端局で波長の配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0012">各端局で波長の配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。</base:FigureReference>
+        <base:FigureReference num="0013">管理装置を含む光伝送システムの構成を示すブロック図である。</base:FigureReference>
+        <base:FigureReference num="0014">本発明の実施形態における管理装置をコンピュータ装置で実現したハードウエア構成を示すブロック図である。</base:FigureReference>
+        <base:FigureReference num="0015">ＯＡＤＭ分岐装置を含む光伝送システムの概要図である。</base:FigureReference>
+        <base:FigureReference num="0016">光伝送システムの初期運用時における光スペクトラムの状態を示す概要図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0018">
+  （第１の実施形態）
+
+  はじめに、本発明の第１の実施形態における光伝送システムについて、図面を用いて説明する。図１は、第１の実施形態における光伝送システムの構成を示すブロック図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  図１に示すように、光伝送システム１は、ＯＡＤＭ分岐装置２と、Ａ局の端局装置３、Ｂ局の端局装置４、Ｃ局の端局装置５、光伝送路６、７、８を備える。端局装置３、４、５は、それぞれ光伝送路６、７、８を介してＯＡＤＭ分岐装置２に接続される。また、端局装置３、４、５は、それぞれ光送信装置１０および光受信装置２０を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  光送信装置１０について説明する。図２は、光送信装置１０の構成を示すブロック図である。図２に示すように、光送信装置１０は、光送信機Ｔ１～Ｔｎ（ｎは１以上の整数）と、第１光合波器１１と、ダミー光発生部１２と、第２光合波器１３を備える。光送信機Ｔ１～Ｔｎは、それぞれ所定波長の光信号を出力する。第１光合波器１１は、光送信機Ｔ１～Ｔｎからの光信号を多重化してＷＤＭ光信号を生成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  ダミー光発生部１２は、光伝送システム１内の光増幅中継器（図示せず）の利得特性を安定化させるためのダミー光を生成する。エルビウムドープトファイバー増幅器（ＥＤＦＡ：Erbium Doped optical Fiber Amplifier）による自然放出光雑音をベースにしたＡＳＥ（Amplified Spontaneous Emission）ダミー光を発生させ、このＡＳＥダミー光を波長フィルタにより整形してダミー光が生成される。ダミー光発生部１２は、例えば、櫛型形状で等間隔(波長間隔Δλ)となる光スペクトルのダミー光を生成する。ここで、生成されるダミー光は、端局ごとにダミー光の波長配置が異なるように波長がシフトされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  端局ごとに波長配置の異なるダミー光を生成する方法は、波長をシフトすることに限定されない。例えば、ダミー光発生部１２は、端局ごとにダミー光を構成する矩形の光スペクトルの中心波長位置が異なるようにする、端局ごとにダミー光の矩形の光スペクトル幅が異なるようにする、あるいは、端局ごとにダミー光の波長間隔が異なる（例えば、Δλ１とΔλ２）ようにダミー光を発生させてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  また、ダミー光は、ＥＤＦＡによるＡＳＥ光をベースにする以外に、レーザダイオード（ＬＤ：Laser Diode）による連続（ＣＷ：Continuous Wave）光をベースにしてダミー光で生成することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  なお、上記図１の構成は、３つの端局がＯＡＤＭ分岐装置に接続される光伝送システムに適用する例であるが、ＯＡＤＭ分岐装置を複数設けることで、４つ以上の端局が存在する光伝送システムにも適用することができる。４つ以上の端局が存在する光伝送システムの場合、４つ以上の端局のそれぞれにおいてダミー光の波長配置を変える必要はない。端局でＷＤＭ光信号を受信しモニタする際に、隣接するサブバンドとの間で波長配置が変わっていればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  例えば、端局の受信光がサブバンドＡ－Ｄ、サブバンドＢ－Ｄ、サブバンドＣ－Ｄの波長帯域で構成されているとする。このとき、サブバンドＡ－ＤとサブバンドＢ－Ｄ間、並びにサブバンドＢ－ＤとサブバンドＣ－Ｄ間におけるダミー光の波長の配置が異なっていれば、サブバンドＡ－ＤとサブバンドＣ－Ｄ間のダミー光の波長の配置が同じでもＯＡＤＭのフィルタ境界を識別できる。このように、端局で受信するＷＤＭ光信号のうち隣接するサブバンドの光信号を送信する端局間におけるダミー光の波長配置が異なるように、端局のダミー光を生成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  また、ＯＡＤＭ分岐装置２は、波長単位で光信号を挿入又は分岐するＯＡＤＭ機能を備え、Ａ局の端局装置３、及び、Ｂ局の端局装置４からそれぞれ出力されたＷＤＭ光信号を、波長帯域単位で挿入又は分岐する。このとき波長帯域単位で挿入又は分岐するフィルタ境界は、特に指定が無い限りλFとする。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  次に、光受信装置２０について説明する。図３は、光受信装置２０の構成を示すブロック図である。図３に示すように、光受信装置２０は、第１光分波器２１、第２光分波器２２、光スペクトラムモニタ部２３、監視部２４、光受信機Ｒ１～Ｒｍ（ｍは１以上の整数）を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  第１光分波器２１は、ＯＡＤＭ分岐装置２から出力されたＷＤＭ光信号を分波する。分波されたＷＤＭ光信号の一方は、第２光分波器２２に出力され、他方は、光スペクトラムモニタ部２３に出力される。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  第２光分波器２２は、入力したＷＤＭ光信号を所定の波長毎に分波し、光受信機Ｒ１～Ｒｍは、分波された波長の光信号を受信する。光スペクトラムモニタ部２３は、第１光分波器２１で分波されたＷＤＭ光信号の出力光スペクトラムを測定し、監視部２４は、光スペクトラムモニタ部２３の測定結果を解析する。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、監視部２４は、端局においてＯＡＤＭ分岐装置のフィルタ境界を特定することができる。これは、端局ごとにダミー光の波長配置が異なることによってＯＡＤＭ分岐装置のフィルタ境界とそれ以外で、ダミー光の光スペクトルの形状が異なるためである。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  次に、第１の実施形態のＯＡＤＭ分岐装置を含む光伝送システムにおけるＡ局、Ｂ局の送信光の波長配置、及び、Ｃ局の受信光の波長配置の例について図面を用いて説明する。図４は、光伝送システム１における光スペクトラムの状態を示す概念図である。Ａ局の端局装置３は、Ａ局とＢ局間で通信する波長帯“Ａ－Ｂ”の光信号及びＡ局とＣ局間で通信する波長帯“Ａ－Ｃ”の光信号を送信する（図４の（ａ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  Ｂ局の端局装置４は、Ｂ局とＣ局間で通信する波長帯“Ｂ－Ｃ”の光信号、及び、光伝送路に含まれる光増幅中継器を安定化させるためのダミー光（以下、必要に応じてＤＬ（Dummy Light）と示す）を送信する（図４の（ｂ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  ＯＡＤＭ分岐装置２は、ＯＡＤＭ機能のフィルタによりＡ局の端局装置３からの光信号の内、Ａ局とＣ局間にアサインされた波長帯”Ａ－Ｃ”の光信号のみを通過させる（図４の（ｃ））。また、ＯＡＤＭ分岐装置２は、Ｂ局からの光信号の内、Ｂ局とＣ局間にアサインされた波長帯”Ｂ－Ｃ”の光信号のみを通過させる（図４の（ｄ））。ＯＡＤＭ分岐装置２は、フィルタ通過後したそれぞれの光信号を合波して出力する。この結果、Ｃ局の端局装置５は、波長帯”Ａ－Ｃ”および波長帯”Ｂ－Ｃ”の光信号を受信する（図４の（ｅ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  次に、第１の実施形態における光伝送システムの動作について図面を用いて説明する。図５は、各端局で波長配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。第１の実施形態における光伝送システムにおいて、端局Ａ、Ｂからのダミー光が、櫛型形状の等波長間隔（Δλ）の波長配置を有し、かつ、端局Ａ、Ｂでダミー光の波長配置がシフトしている例を用いて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  図５に示すように、光伝送システム１のＡ局の端局装置３は、Ａ局とＣ局間で通信する波長帯“Ａ－Ｃ”におけるλ（Ａ１）、λ（Ａ２）の光信号、及び、ダミー光としてＡ局ＤＬ（Ｔｙｐｅ１）を合波して送信する（図５の（ａ））。Ａ局ＤＬ（Ｔｙｐｅ１）は、櫛型形状で等波長間隔（Δλ）のダミー光となる波長配置である。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  Ｂ局の端局装置４は、Ｂ局とＣ局間で通信する波長帯“Ｂ－Ｃ” におけるλ（Ｂ１）、λ（Ｂ２）の光信号、及び、ダミー光としてＢ局ＤＬ（Ｔｙｐｅ２）を合波して送信する。Ｂ局のＤＬ（Ｔｙｐｅ２）は、櫛型形状で等波長間隔（Δλ）のダミー光となる波長配置である。なお、Ｂ局のＤＬ（Ｔｙｐｅ２）の波長配置とＡ局のＤＬ（Ｔｙｐｅ１）の波長配置は波長シフトしている（図５の（ｂ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  ＯＡＤＭ分岐装置２は、ＯＡＤＭ機能のフィルタによりＡ局の端局装置３からの光信号の内、Ａ局とＣ局間にアサインされた波長帯”Ａ－Ｃ”の光信号のみを通過させる（図５の（ｃ））。また、ＯＡＤＭ分岐装置２は、Ｂ局からの光信号の内、Ｂ局とＣ局間にアサインされた波長帯”Ｂ－Ｃ”の光信号のみを通過させる（図５の（ｄ））。ＯＡＤＭ分岐装置２は、フィルタ通過後したそれぞれの光信号を合波して出力する。この結果、Ｃ局の端局装置５は、波長帯”Ａ－Ｃ”および波長帯”Ｂ－Ｃ”の光信号を受信する（図５の（ｅ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  Ｃ局の端局装置５は、光スペクトラムモニタ部２３により、受信光の光スペクトラムを測定し、監視部２４は、解析によりダミー光の波長配置が、等波長間隔（Δλ）と異なる領域が存在し、その波長位置を特定することができる。これにより、Ｃ局の端局装置５は、ＯＡＤＭ分岐装置２のフィルタ境界の波長を特定できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  以上のように第１の実施形態によれば、光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局においてＯＡＤＭ分岐装置のフィルタ境界を特定することを可能にする。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  （第２の実施形態）
+
+  第１の実施形態の光伝送システムでは、３つの端局装置が１つのＯＡＤＭ分岐装置に接続される例で説明したが、第２の実施形態では、１つの光伝送システム内にＯＡＤＭ分岐装置を備え、４つの端局装置が存在する例について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  図６は、２つのＯＡＤＭ分岐装置を含む光伝送システムの構成を示すブロック図である。図６に示すように、光伝送システム４０は、第１ＯＡＤＭ分岐装置４１、第２ＯＡＤＭ分岐装置４２、Ａ局の端局装置４３、Ｂ局の端局装置４４、Ｃ局の端局装置４５、Ｄ局の端局装置４６、光伝送路４７、４８、４９、５０、５１を備える。端局装置４３、４４は、それぞれ光伝送路４７、４８を介して第１ＯＡＤＭ分岐装置４１に接続され、端局装置４５、４６は、それぞれ光伝送路５０、５１を介して第２ＯＡＤＭ分岐装置４２に接続される。また、第１ＯＡＤＭ分岐装置４１と第２ＯＡＤＭ分岐装置４２は光伝送路４９を介して接続される。端局装置４３、４４、４５、４６は、それぞれ光送信装置１０及び光受信装置２０を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  第２の実施形態の光伝送システムのように４つの局が存在する場合、ＷＤＭ波長帯は、３つの局からの送信信号を区別する必要がある。第２の実施形態の光伝送システム４０におけるＡ局の端局装置４３、Ｂ局の端局装置４４、Ｃ局の端局装置４５における送信光の波長配置、及び、Ｄ局の受信光の波長配置の例について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  図７、図８は、第２の実施形態の光伝送システム４０における光スペクトラムの状態を示す概念図である。
+
+Ａ局の端局装置４３は、Ａ局とＤ局間で通信する波長帯“Ａ－Ｄ”の光信号、Ａ局－Ｂ局間で通信する波長帯“Ａ－Ｂ”の光信号及びＡ局とＣ局間で通信する波長帯“Ａ－Ｃ”の光信号を合波して送信する（図７の（ａ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  Ｂ局の端局装置４４は、Ｂ局とＤ局間で通信する波長帯“Ｂ－Ｄ”の光信号、及び、２つのダミー光（ＤＬ）を合波して送信する（図７の（ｂ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  第１ＯＡＤＭ分岐装置４１は、ＯＡＤＭ機能のフィルタによりＡ局の端局装置４３からの光信号の内、Ａ局とＤ局間にアサインされた波長帯“Ａ－Ｄ”の光信号、及び、Ａ局とＣ局間にアサインされた波長帯“Ａ－Ｃ”の光信号のみを通過させる（図７の（ｃ））。また、第１ＯＡＤＭ分岐装置４１は、Ｂ局の端局装置４４からの光信号の内、Ｂ局とＤ局間にアサインされた波長帯“Ｂ－Ｄ”の光信号のみを通過させる（図７の（ｄ））。第１ＯＡＤＭ分岐装置４１は、フィルタ通過後の光信号をそれぞれ合波し、波長帯”Ａ－Ｄ”、波長帯”Ａ－Ｃ”及び波長帯”Ｂ－Ｄ”の光信号を出力する（図７の（ｅ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  Ｃ局の端局装置４５は、Ｃ局とＤ局間で通信する波長帯“Ｃ－Ｄ”の光信号、及び、ダミー光（ＤＬ）を合波して送信する（図８の（ｆ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  第２ＯＡＤＭ分岐装置４２は、ＯＡＤＭ機能のフィルタにより第１ＯＡＤＭ分岐装置４１からの光信号の内、Ａ局とＤ局間にアサインされた波長帯“Ａ－Ｄ”の光信号及びＢ局とＤ局間にアサインされた波長帯“Ｂ－Ｄ”の光信号のみを通過させる（図８の（ｇ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  さらに、第２ＯＡＤＭ分岐装置４２は、ＯＡＤＭ機能のフィルタによりＣ局の端局装置４５からの光信号の内、Ｃ局とＤ局間にアサインされた波長帯“Ｃ－Ｄ”の光信号のみを通過させる（図８の（ｈ））。この結果、Ｄ局の端局装置４５は、波長帯”Ａ－Ｄ”、波長帯”Ｂ－Ｄ”、波長帯”Ｃ－Ｄ”の光信号を受信する（図８の（ｉ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  次に、第２の実施形態における光伝送システムの動作について図面を用いて説明する。図９は、各端局で波長配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。第２の実施形態における光伝送システムについて、端局からのダミー光が、櫛型形状で等波長間隔（Δλ<base:Sub>２</base:Sub>）の波長配置を有し、端局Ａ、Ｂ、Ｃ間でダミー光の波長配置がシフトしている例を用いて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  図９に示すように、光伝送システム１のＡ局の端局装置４３は、Ａ局とＤ局間で通信する波長帯“Ａ－Ｄ”におけるλ（Ａ１）、λ（Ａ２）の光信号、及び、ダミー光としてＡ局ＤＬ（Ｔｙｐｅ３）を合波して送信する（図９の（ａ））。Ａ局ＤＬ（Ｔｙｐｅ３）は櫛型形状で等波長間隔（Δλ<base:Sub>２</base:Sub>）のダミー光となる波長配置である。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  Ｂ局の端局装置４４は、Ｂ局とＣ局間で通信する波長帯“Ｂ－Ｄ” におけるλ（Ｂ１）、λ（Ｂ２）の光信号、及び、ダミー光としてＢ局ＤＬ（Ｔｙｐｅ４）を合波して送信する。Ｂ局ＤＬ（Ｔｙｐｅ４）は、櫛型形状で等波長間隔（Δλ<base:Sub>２</base:Sub>）のダミー光となる波長配置である（図９の（ｂ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  Ｃ局の端局装置４５は、Ｃ局とＤ局間で通信する波長帯“Ｃ－Ｄ” におけるλ（Ｃ１）の光信号、及び、ダミー光としてＣ局ＤＬ（Ｔｙｐｅ５）を合波して送信する。Ｃ局ＤＬ（Ｔｙｐｅ５）は、櫛型形状で等波長間隔（Δλ<base:Sub>２</base:Sub>）のダミー光となる波長配置である。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  Ａ局ＤＬ（Ｔｙｐｅ３）、Ｂ局ＤＬ（Ｔｙｐｅ４）、及び、Ｃ局ＤＬ（Ｔｙｐｅ５）のそれぞれは、ダミー光の波長配置が重ならない。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  Ａ局、Ｂ局、Ｃ局からの送信光は、第１ＯＡＤＭ分岐装置４１、第２ＯＡＤＭ分岐装置４２を経てＤ局に送信される。Ｄ局の端局装置４６は、波長帯”Ａ－Ｄ”、波長帯”Ｂ－Ｄ”、波長帯”Ｃ－Ｄ”の光信号を受信する（図９の（ｄ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  Ｄ局の端局装置４６は、光スペクトラムモニタ部２３により、受信光の光スペクトラムを測定する。監視部２４は、解析によりダミー光の波長配置が等波長間隔（Δλ<base:Sub>２</base:Sub>）と異なる領域が２箇所存在し、その波長位置を特定することができる。これにより、Ｄ局の端局装置４６は、第１ＯＡＤＭ分岐装置４１のフィルタ境界の波長λFabと、第２ＯＡＤＭ分岐装置４２のフィルタ境界の波長λFbcを特定できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  以上のように第２の実施形態によれば、光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局においてＯＡＤＭ分岐装置のフィルタ境界を特定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  （第３の実施形態）
+
+  第３の実施形態は、第１の実施形態の光伝送システムのうち、Ｂ局の端局装置４からの送信光のダミー光が櫛型形状（離散的な矩形状)ではなく、フラット形状(連続した形状）となっている点が相違する。この例は、Ａ局とＢ局間でダミー光の光スペクトル幅が異なる波長配置であると見ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  図１０に示すように、光伝送システム１のＡ局の端局装置３は、Ａ局とＣ局間で通信する波長帯“Ａ－Ｃ”におけるλ（Ａ１）、λ（Ａ２）の光信号、及び、ダミー光としてＡ局ＤＬ（Ｔｙｐｅ１）を合波して送信する（図１０の（ａ））。Ａ局ＤＬ（Ｔｙｐｅ１）は、櫛型形状で等波長間隔（Δλ）のダミー光となる波長配置である。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  Ｂ局の端局装置４は、Ｂ局とＣ局間で通信する波長帯“Ｂ－Ｃ” におけるλ（Ｂ１）、λ（Ｂ２）の光信号、及び、ダミー光としてＢ局ＤＬを合波して送信する。Ｂ局ＤＬは、フラットな光スペクトル形状であり、Ａ局ＤＬ（Ｔｙｐｅ１）と光スペクトル幅が異なる波長配置である（図１０の（ｂ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  ＯＡＤＭ分岐装置２は、ＯＡＤＭ機能のフィルタによりＡ局の端局装置３からの光信号の内、Ａ局とＣ局間にアサインされた波長帯”Ａ－Ｃ”の光信号のみを通過させる（図１０の（ｃ））。また、ＯＡＤＭ分岐装置２は、Ｂ局からの光信号の内、Ｂ局とＣ局間にアサインされた波長帯”Ｂ－Ｃ”の光信号のみを通過させる（図１０の（ｄ））。ＯＡＤＭ分岐装置２は、フィルタ通過後したそれぞれの光信号を合波して出力する。この結果、Ｃ局の端局装置４５は、波長帯”Ａ－Ｃ”および波長帯”Ｂ－Ｃ”の光信号を受信する（図１０の（ｅ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  Ｃ局の端局装置５は、光スペクトラムモニタ部２３により、受信光の光スペクトラムを測定し、監視部２４は、解析によりダミー光の波長位置が、等波長間隔（Δλ）と異なる領域が存在し、その波長位置を特定することができる。これにより、Ｃ局の端局装置５は、ＯＡＤＭ分岐装置２のフィルタ境界の波長を特定できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  以上のように第３の実施形態によれば、光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局においてＯＡＤＭ分岐装置のフィルタ境界を特定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  （第４の実施形態）
+
+  第４の実施形態は、Ａ局の端局装置３が櫛型形状で等波長間隔（Δλ）のダミー光を送信し、Ｂ局の端局装置４が櫛型形状で等波長間隔（Δλ/2）、かつ、その光スペクトル幅がＡ局のダミー光の１／２のダミー光を送信する例である。この例は、Ａ局とＢ局とでダミー光の櫛型形状の等波長間隔が異なり、かつ、ダミー光の光スペクトル幅が異なる波長配置の例である。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  図１１に示すように、光伝送システム１のＡ局の端局装置３は、Ａ局とＣ局間で通信する波長帯“Ａ－Ｃ”におけるλ（Ａ１）、λ（Ａ２）の光信号、及び、ダミー光としてＡ局ＤＬ（Ｔｙｐｅ１）を合波して送信する（図１１の（ａ））。Ａ局ＤＬ（Ｔｙｐｅ１）は等波長間隔（Δλ）の波長配置である。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  Ｂ局の端局装置４は、Ｂ局とＣ局間で通信する波長帯“Ｂ－Ｃ” におけるλ（Ｂ１）、λ（Ｂ２）の光信号、及び、ダミー光としてＢ局ＤＬ（Ｔｙｐｅ６）を合波して送信する。Ｂ局ＤＬ（Ｔｙｐｅ６）は、等波長間隔（Δλ／２）であり、さらに、光スペクトル幅がＡ局ＤＬ（Ｔｙｐｅ１）の１／２となる波長配置である（図１１の（ｂ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  ＯＡＤＭ分岐装置２は、ＯＡＤＭ機能のフィルタによりＡ局の端局装置３からの光信号の内、Ａ局とＣ局間にアサインされた波長帯”Ａ－Ｃ”の光信号のみを通過させる（図１１の（ｃ））。また、ＯＡＤＭ分岐装置２は、Ｂ局からの光信号の内、Ｂ局とＣ局間にアサインされた波長帯”Ｂ－Ｃ”の光信号のみを通過させる（図１１の（ｄ））。ＯＡＤＭ分岐装置２は、フィルタ通過後したそれぞれの光信号を合波して出力する。この結果、Ｃ局の端局装置４５は、波長帯”Ａ－Ｃ”および波長帯”Ｂ－Ｃ”の光信号を受信する（図１１の（ｅ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  Ｃ局の端局装置５は、光スペクトラムモニタ部２３と監視部２４により受信光の光スペクトラムを測定して解析する。Ａ局とＢ局とでは、ダミー光の波長配置が異なることから、監視部２４は、ダミー光の等波長間隔（ΔλとΔλ／２）が異なる領域、又は、光スペクトル幅が異なる領域を識別し、その境界を特定することができる。これにより、Ｃ局の端局装置５は、ＯＡＤＭ分岐装置２のフィルタ境界の波長を特定できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  以上のように第４の実施形態によれば、光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局においてＯＡＤＭ分岐装置のフィルタ境界を特定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  （第５の実施形態）
+
+  第５の実施形態は、第２の実施形態の光伝送システムの構成に等波長間隔で配置されたダミー光を適用した例である。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  図１２は、各端局で波長配置が異なるダミー光を用いた光伝送システムの光スペクトラムの状態を示す概念図である。第５の実施形態における光伝送システムについて、端局からのダミー光は、等波長間隔（Δλ<base:Sub>３</base:Sub>）の波長配置を有し、かつ、３つの端局間でダミー光の等波長間隔（Δλ<base:Sub>３</base:Sub>）が重ならないようにダミー光の波長配置がシフトされた例である。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  図１２に示すように、光伝送システム１のＡ局の端局装置４３は、Ａ局とＤ局間で通信する波長帯“Ａ－Ｄ”におけるλ（Ａ１）、λ（Ａ２）の光信号、及び、ダミー光としてＡ局ＤＬ（Ｔｙｐｅ７）を合波して送信する（図１２の（ａ））。Ａ局ＤＬ（Ｔｙｐｅ７）は等波長間隔（Δλ<base:Sub>３</base:Sub>）のダミー光となる波長配置である。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  Ｂ局の端局装置４４は、Ｂ局とＣ局間で通信する波長帯“Ｂ－Ｄ” におけるλ（Ｂ１）、λ（Ｂ２）の光信号、及び、ダミー光としてＢ局ＤＬ（Ｔｙｐｅ８）を合波して送信する。Ｂ局のＤＬ（Ｔｙｐｅ８）は、等波長間隔（Δλ<base:Sub>３</base:Sub>）のダミー光となる波長配置である（図１２の（ｂ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  Ｃ局の端局装置４５は、Ｃ局とＤ局間で通信する波長帯“Ｃ－Ｄ” におけるλ（Ｃ１）の光信号、及び、ダミー光としてＣ局ＤＬ（Ｔｙｐｅ９）を合波して送信する。Ｃ局のＤＬ（Ｔｙｐｅ９）は、等波長間隔（Δλ<base:Sub>３</base:Sub>）のダミー光となる波長配置である（図１２の（Ｃ））。さらに、Ａ局ＤＬ（Ｔｙｐｅ７）、Ｂ局ＤＬ（Ｔｙｐｅ８）、Ｃ局ＤＬ（Ｔｙｐｅ９）間の波長配置は、それぞれ等波長間隔が重ならないようにシフトしている。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  Ａ局、Ｂ局、Ｃ局からの送信光は、第１ＯＡＤＭ分岐装置４１、又は、第２ＯＡＤＭ分岐装置４２を経てＤ局に送信される。Ｄ局の端局装置４６は、波長帯”Ａ－Ｄ”、波長帯”Ｂ－Ｄ”、波長帯”Ｃ－Ｄ”の光信号を受信する（図１２の（ｄ））。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  Ｄ局の端局装置４６は、光スペクトラムモニタ部２３により、受信光の光スペクトラムを測定する。監視部２４は、各端局からのダミー光の波長配置の相違によって、ダミー光の等波長間隔（Δλ<base:Sub>３</base:Sub>）が異なる領域があることを識別でき、その波長位置を特定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  これにより、Ｄ局の端局装置４６は、第１ＯＡＤＭ分岐装置４１のフィルタ境界の波長λFabと、第２ＯＡＤＭ分岐装置４２のフィルタ境界の波長λFbcを特定できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  以上のように第５の実施形態によれば、光伝送システムの波長帯域内でダミー光の波長帯の占める割合が、主たる光信号の波長帯の占める割合よりも多い場合であっても、端局においてＯＡＤＭ分岐装置のフィルタ境界を特定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  （第６の実施形態）
+
+  第６の実施形態は、第１の実施形態の光伝送システム１に管理装置７０を追加した構成である。図１３は、管理装置７０を含む光伝送システムの構成を示すブロック図である。管理装置７０は、端局の端局装置３、４、５にそれぞれ接続され、送信光を送信する端局装置に対し、各端局間におけるダミー光の波長配置情報、あるいは、サブバンドにおける波長配置情報を送信する機能を備える。また管理装置は、ＯＡＤＭ分岐装置２に接続され、ＯＡＤＭ分岐装置２からＡＤＤ／ＤＲＯＰ信号の切り替えを制御する。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  管理装置７０は、端局装置３、４、５が生成するダミー光の波長配置が端局間で異なるように調整し、端局装置３、４、５にダミー光の波長配置情報、あるいは、サブバンドにおける波長配置情報を送信する。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  第６の実施形態によれば、管理装置が端局毎のダミー光の波長配置を調整することにより、光伝送システムの運用状態の管理が容易となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  上記第１～６の実施形態において、ＯＡＤＭ分岐装置からのダミー光を含むＷＤＭ光を受信した端局装置でＯＡＭＤ分岐装置のフィルタ境界の波長を特定する例を説明したが、これに限られない。例えば、管理装置が監視部を備え、ダミー光を含むＷＤＭ光信号を受信した端局装置から当該ＷＭＤ光信号の光ペクトラムをモニタした情報を取得して、ＯＡＭＤ分岐装置のフィルタ境界の波長を特定してもよい。
+
+（ハードウエア構成）
+
+  図１４は、管理装置７０をコンピュータ装置で実現したハードウエア構成を示す図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  図１４に示すように、管理装置７０、ＣＰＵ（Ｃｅｎｔｒａｌ  Ｐｒｏｃｅｓｓｉｎｇ  Ｕｎｉｔ）９１、ネットワーク接続用の通信Ｉ／Ｆ（通信インターフェース）９２、メモリ９３、及び、プログラムを格納するハードディスク等の記憶装置９４を含む。また、管理装置７０は、システムバス９７を介して入力装置９５及び、出力装置９６に接続されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0083">
+  ＣＰＵ９１は、オペレーティングシステムを動作させて本発明の実施形態における管理装置を制御する。またＣＰＵ９１は、例えば、ドライブ装置に装着された記録媒体からメモリ９３にプログラムやデータを読み出す。また、ＣＰＵ９１は、例えば、入力される情報信号を処理する機能を有し、プログラムに基づいて各種機能の処理を実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0084">
+  記憶装置９４は、例えば、光ディスク、フレキシブルディスク、磁気光ディスク、外付けハードディスク、又は半導体メモリ等である。記憶装置９４の一部の記憶媒体は、不揮発性記憶装置であり、そこにプログラムを記憶する。また、プログラムは、通信網に接続されている。図示しない外部コンピュータからダウンロードされてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0085">
+  入力装置９５は、例えば、マウス、キーボード、内臓のキーボタン、カード取込口、又は、タッチパネルなどで実現され、入力操作に用いられる。出力装置９６は、例えば、ディスプレイで実現され、ＣＰＵ９１により処理された情報等を出力して確認するために用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0086">
+  （その他の実施形態）
+
+  ＯＡＤＭ分岐装置でＡＤＤ／ＤＲＯＰ信号を切り替えた後に、正しく切り替えられたかどうか受信する端局側で確認する必要がある。上記の各実施形態は、端局からの送信光に含まれるダミーの波長配置が各端局で異なる。各端局のダミー光の波長配置情報（等波長間隔、矩形状の中心波長間隔又は光スペクトル幅等）を予め他端局、又はネットワーク管理装置から入手しておき、受信したダミー光の光スペクトラムを解析することで、どの端局が送信したダミー光であるのかを識別することができる。よって受信する端局側でＯＡＤＭ分岐装置が正しく切り替えられたかを確認することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0087">
+  また、上記各実施形態におけるＯＡＤＭ分岐装置として、ＲＯＡＤＭ（Reconfigurable Optical Add/Drop Multiplexer）分岐装置を用いることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0088">
+  また、ダミー光のフィルタ整形の際、光信号と同様の波形とし、光信号と合波しておくことで、光信号・雑音比（ＯＳＮＲ：Optical Signal-to-Noise Ratio）モニタ機能を提供することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0089">
+  図面中の矢印の方向は、一例を示すものであり、ブロック間の信号の向きを限定するものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0090">
+  以上、実施形態（及び実施例）を参照して本願発明を説明したが、本願発明は上記実施形態（及び実施例）に限定されものではない。本願発明の構成や詳細には、本願発明のスコープ内で当業者が理解し得る様々な変更をすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0091">
+  上記の実施形態の一部又は全部は、以下の付記のように記載されうるが、以下には限られない。
+</base:Paragraphs>
+      <base:Paragraphs num="0092">
+    （付記１）
+
+  光信号とダミー光を合波した波長多重光信号を出力する端局装置と、
+
+  複数の前記端局装置から出力された前記波長多重光信号をそれぞれ入力してａｄｄ／ｄｒｏｐ処理するＯＡＤＭ分岐装置と、を備え、
+
+  前記ダミー光は、隣接する波長間隔が等間隔に配置された波長配置であり、前記端局装置ごとに前記ダミー光の波長配置が異なる、光伝送システム。
+</base:Paragraphs>
+      <base:Paragraphs num="0093">
+    （付記２）
+
+  前記端局装置間で前記ダミー光の波長配置がシフトしている付記１に記載の光伝送システム。
+</base:Paragraphs>
+      <base:Paragraphs num="0094">
+    （付記３）
+
+  前記端局装置間で前記ダミー光の波長配置が重ならない、付記１に記載の光伝送システム。
+</base:Paragraphs>
+      <base:Paragraphs num="0095">
+    （付記４）
+
+  前記端局装置ごとに前記ダミー光の光スペクトル幅が異なる、付記１に記載の光伝送システム。
+</base:Paragraphs>
+      <base:Paragraphs num="0096">
+    （付記５）
+
+  前記複数の端局装置のうち、一の前記端局装置は前記ダミー光が等波長間隔の波長配置であり、他の前記端局装置は前記ダミー光が連続した光スペクトル形状である、付記１に記載の光伝送システム。
+</base:Paragraphs>
+      <base:Paragraphs num="0097">
+    （付記６）
+
+  前記ＯＡＤＭ分岐装置からの出力光を受信する受信側端局装置を更に備え、
+
+  前記受信側端局装置は、前記出力光の光スペクトラムを解析する監視手段を有する、
+
+付記１乃至５のいずれか１つに記載の光伝送システム。
+</base:Paragraphs>
+      <base:Paragraphs num="0098">
+    （付記７）
+
+  光信号とダミー光を合波した波長多重光信号を複数の端局装置からそれぞれ入力してａｄｄ／ｄｒｏｐ処理するＯＡＤＭ分岐装置を含む光伝送システムの端局装置であって、
+
+  前記ダミー光は、隣接する波長間隔が等間隔に配置された波長配置であり、前記端局装置ごとに前記ダミー光の波長配置が異なる、端局装置。
+</base:Paragraphs>
+      <base:Paragraphs num="0099">
+    （付記８）
+
+  複数の端局装置からの波長多重光信号をそれぞれ入力するＯＡＤＭ分岐装置を含む光伝送システムの受信側端局装置であって、
+
+  前記ＯＡＤＭ分岐装置への入力が、前記端局装置ごとに波長配置が異なるダミー光および光信号が合波された波長多重光信号であり、
+
+  前記前記ＯＡＤＭ分岐装置から出力された出力光の光スペクトラムを測定する光スペクトラムモニタ手段と、
+
+  前記光スペクトラムに反映された前記端局装置ごとの前記ダミー光の波長配置の差異に基づいて、前記測定した光スペクトラムにおける前記ＯＡＤＭ分岐装置のフィルタ境界を識別する監視手段と、
+
+を備える、受信側端局装置。
+</base:Paragraphs>
+      <base:Paragraphs num="0100">
+    （付記９）
+
+  端局装置に接続されたＯＡＤＭ分岐装置を含む光伝送システムの解析方法であって、
+
+  前記端局装置ごとに波長配置が異なるダミー光および光信号が合波された波長多重光信号を前記ＯＡＤＭ分岐装置でａｄｄ／ｄｒｏｐ処理して出力し、
+
+  前記ＯＡＤＭ分岐装置が出力した出力光の光スペクトラムを測定し、前記光スペクトラムに反映された前記端局装置ごとのダミー光の波長配置の差異に基づいて、前記光スペクトラムにおける前記ＯＡＤＭ分岐装置のフィルタ境界を識別する、光伝送システムの解析方法。
+</base:Paragraphs>
+      <base:Paragraphs num="0101">
+    （付記１０）
+
+  付記１乃至６のいずれか１つに記載の光伝送システムの管理装置であって、
+
+  前記端局装置に接続され、
+
+  前記端局装置ごとに前記ダミー光の前記波長配置が異なる波長配置情報を前記端局装置に送信する、光伝送システムの管理装置。
+</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  この出願は、２０１５年３月１８日に出願された日本出願特願２０１５－０５４５６３を基礎とする優先権を主張し、その開示の全てをここに取り込む。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0103">
+  １    光伝送システム
+
+  ２    ＯＡＤＭ分岐装置
+
+  ３    端局装置
+
+  ４    端局装置
+
+  ５    端局装置
+
+  ６    光伝送路
+
+  ７    光伝送路
+
+  ８    光伝送路
+
+  １０    光送信装置
+
+  １１    第１光合波器
+
+  １２    ダミー光発生部
+
+  １３    第２光合波器
+
+  ２０    光受信装置
+
+  ２１    第１光分波器
+
+  ２２    第２光分波器
+
+  ２３    光スペクトラムモニタ部
+
+  ２４    監視部
+
+  ４０    光伝送システム
+
+  ４１    ＯＡＤＭ分岐装置
+
+  ４２    ＯＡＤＭ分岐装置
+
+  ４３    端局装置
+
+  ４４    端局装置
+
+  ４５    端局装置
+
+  ４６    端局装置
+
+  ４７    光伝送路
+
+  ４８    光伝送路
+
+  ４９    光伝送路
+
+  ５０    光伝送路
+
+  ５１    光伝送路
+
+  ７０    管理装置
+
+  ９１    ＣＰＵ
+
+  ９２    通信Ｉ／Ｆ（通信インターフェース）
+
+  ９３    メモリ
+
+  ９４    記憶装置
+
+  ９５    入力装置
+
+  ９６    出力装置
+
+  ９７    システムバス
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="122" wi="77" file="2020092467_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="123" wi="49" file="2020092467_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="122" wi="59" file="2020092467_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="103" wi="85" file="2020092467_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="118" wi="85" file="2020092467_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="123" wi="64" file="2020092467_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="103" wi="85" file="2020092467_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="87" wi="85" file="2020092467_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="122" wi="85" file="2020092467_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="123" wi="85" file="2020092467_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="120" wi="85" file="2020092467_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="121" wi="85" file="2020092467_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="104" wi="85" file="2020092467_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="123" wi="56" file="2020092467_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="121" wi="76" file="2020092467_000017.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="114" wi="85" file="2020092467_000018.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  第一の光信号と、第一の光スペクトル幅の第一のダミー光とを合波した第一の波長多重光信号を出力する第一の端局装置と、
+
+  第二の光信号と、前記第一の光スペクトル幅と長さが異なる第二の光スペクトル幅の第二のダミー光とを合波した第二の波長多重光信号を出力する第二の端局装置と、
+
+  前記第一の波長多重光信号と前記第二の波長多重光信号とを合波する分岐挿入装置とを備える
+
+光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記第一の端局装置は、第一の帯域に前記第一のダミー光を出力する第一のダミー光生成部を備え、
+
+  前記第二の端局装置は、第二の帯域に前記第二のダミー光を出力する第二のダミー光生成部を備える請求項１に記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+前記第一のダミー光は前記第一の光信号のパワーを補償し、前記第二のダミー光は前記第二の光信号のパワーを補償する、請求項１又は２に記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記第一の波長多重光信号と前記第二の波長多重光信号を受信する受信装置を、更に備える、請求項１から３のいずれか１つに記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記第一の波長多重光信号と前記第二の波長多重光信号との境界を識別する監視部を、更に備える、請求項１から４のいずれか１つに記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記監視部は、前記第一の波長多重光信号の波長位置と前記第二の波長多重光信号の波長位置をそれぞれ識別可能である、請求項５に記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記第一の光スペクトル幅に関連する情報を通知する管理装置からの通知情報を利用可能である、請求項１または６に記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記通知情報に基づいて、少なくとも前記第一の光スペクトル幅を決定する、請求項７に記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記第一のダミー光は、第一の波長間隔で割り当てられ、
+
+  前記第二のダミー光は、前記第一の波長間隔と長さが異なる第二の波長間隔で割り当てられ、
+
+  前記第一の波長間隔と前記第二の波長間隔との差は、前記第一の波長間隔より短い請求項１～８の何れか１項に記載の光伝送システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  第一の光信号と、第一の光スペクトル幅の第一のダミー光とを合波した第一の波長多重光信号を出力し、
+
+  第二の光信号と、前記第一の光スペクトル幅と長さが異なる第二の光スペクトル幅の第二のダミー光とを合波した第二の波長多重光信号を出力し、
+
+  前記第一の波長多重光信号と前記第二の波長多重光信号とを合波する、
+
+光伝送方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

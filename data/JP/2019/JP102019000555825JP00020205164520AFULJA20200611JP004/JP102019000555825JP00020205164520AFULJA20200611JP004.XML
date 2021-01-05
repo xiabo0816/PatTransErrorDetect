@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000555825JP00020205164520AFULJA20200611JP004.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020516452" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516452</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516452</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000555825</base:DocNumber>
+        <base:Date>20180411</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019555825</base:DocNumber>
+        <base:Date>20180411</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>EP</base:WIPOST3Code>
+        <base:DocNumber>17166295.0</base:DocNumber>
+        <base:Date>20170412</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>EP</base:WIPOST3Code>
+        <base:DocNumber>102017000166295</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20170412</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>63</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B01D  63/02        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>69</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B01D  69/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>69</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B01D  69/02        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>63</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B01D  63/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>165</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M   5/165       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="6">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>29</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>65</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B29C  65/16        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">B01D63/02</business:FI>
+      <business:FI type="secondary">B01D69/00</business:FI>
+      <business:FI type="secondary">B01D69/02</business:FI>
+      <business:FI type="secondary">B01D63/00 500</business:FI>
+      <business:FI type="secondary">A61M5/165 500B</business:FI>
+      <business:FI type="secondary">A61M5/165 500T</business:FI>
+      <business:FI type="secondary">B29C65/16</business:FI>
+      <business:FClass>
+        <business:FTerm>4C066AA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066MM01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C066PP05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006GA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006HA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006HA18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006HA95</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA12A</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA12B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA12C</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA13C</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA16A</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA16C</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA22A</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA25A</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JA25C</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006JB07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006KC21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006KC23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006KD06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006KD30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MA22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MA31</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MA33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MC22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MC40</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MC46</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MC60</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006MC63</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006PA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006PB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006PB12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006PB24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006PB54</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006PC44</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4D006PC45</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4F211AH03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4F211TA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4F211TJ30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4F211TN27</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C066</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4D006</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4F211</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">濾過装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ガンブロ・ルンディア・エービー</base:Name>
+            <base:RegisteredNumber>501473877</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>SE</base:WIPOST3Code>
+              <base:Text>スウェーデン国、２２６４３  ルンド、マギストラートスバゲン  １６</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ベック，クリストフ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ国、７２４７５・ビッツ、クレーベーク・７</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ワーグナー，シュテフェン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ国、７２４６９・メスシュテッテン、リンデンシュトラーセ・１１</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ヘルツラー，ベルント</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ国、７２３３６・バーリンゲン、シュペヒトシュトラーセ・７</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ブリックレ，ライナー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ国、７２４７５・ビッツ、ゾンネンシュトラーセ・５</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エルマントラウト，シュテファン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ国、７２３３６・バーリンゲン、ハイドンシュトラーセ・２１</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人川口國際特許事務所</base:Name>
+            <base:RegisteredNumber>110001173</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>EP2018059317</base:DocNumber>
+        <base:Date>20180411</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018189254</base:DocNumber>
+        <base:Date>20181018</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>16</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>  本開示は、複数の中空繊維膜を備える濾過装置、濾過装置の作製方法、及び輸液剤のデッドエンド濾過のための濾過装置の使用に関する。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="43" wi="69" file="2020516452_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本開示は、複数の中空繊維膜を備える濾過装置、濾過装置の作製方法及び輸液剤のデッドエンド濾過のための濾過装置の使用に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  患者の体内、特に患者の血流の中に注入されることになる液体は、発熱性物質及び粒子状物質を含んではならない。したがって、患者を守るために、輸液は通常、患者の体内に入る前に、輸液ラインに設置された濾過装置を通過させる。市販の装置は、一般的に、微小孔構造の平坦シート膜を備える。平坦シート膜の代わりに、中空繊維膜を備える濾過装置も提案されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  ＵＳ４２６７０５３Ａは、一方の端部に入口キャップを、他方の端部に出口キャップを有するケーシングを備える、インライン式の静脈注射の最終フィルタユニットを開示している。０．１～５μｍの多孔率を有する、少なくとも１つの多孔性中空繊維が、ケーシングの長手方向に平行に、ケーシング内に配置される。中空繊維は、入口キャップの反対側にある一方の端部が閉鎖され、出口キャップの反対側にある他方の端部は開放されている。さらに中空繊維は、その開放端部の外周部をケーシングの内部壁に、緊締部材によってしっかりと固定される。ケーシングの容量に対する中空繊維の総有効濾過面積の比率は、少なくとも約４：１である。中空繊維膜は、３ｍｍ以下の外径及び少なくとも０．５ｍｍの内径を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  ＵＳ４２６７０５３Ａの作業例において、０．５ｍｍの内径、１．４ｍｍの外径、６０ｍｍの長さ及び０．３２μｍの多孔率を有する１６の多孔性中空繊維を備える濾過装置が開示されている。繊維は、８ｍｍの内径、１０ｍｍの外径及び８０ｍｍの長さの中空円筒形ケーシングに収容され、シリコーンタイプの接着材料で作られた緊締部材によってケーシングの内壁にしっかりと緊締される。多孔性中空繊維はセルロースジアセテートから作られ、ケーシング、入口キャップ及び出口キャップはポリエチレンから作られる。フィルタユニットは、３５．２ｃｍ<base:Sup>２</base:Sup>の濾過面積Ａ及び５．６１のＡ／Ｖ比を有する。使用された中空繊維膜は、０．５ｍｍ／０．４５ｍｍ＝１．１の、内径／壁厚比を有する。濾過される液体は、中空繊維の外側から管腔の中に透過する。３５ｍｌ／ｃｍ<base:Sup>２</base:Sup>×ｈｒ未満の流量が報告されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  ＵＳ４２６７０５３Ａの装置は、約５００ｍｌ／時間の流量の輸液を濾過するのに好適である。濾過面積を広げることによって、この値は、ある程度まで増加され得る。しかし、大容量の液体を短時間で濾過するためには、異なる種類の濾過装置が必要となる。本開示の一目的は、大容量の液体を短時間で濾過することができる濾過装置を提供することである。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0006">
+          <business:ApplicationCitation num="0001">
+            <base:Text>米国特許第４２６７０５３号明細書</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0007">
+  本出願は、大きい内径及び薄い壁を有する、複数の微小孔構造の中空繊維膜を備える濾過装置を提供する。この装置は、患者の体内に輸液することになる液体を、無菌でデッドエンド濾過するために使用することができる。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0008">
+        <base:FigureReference num="0001">本開示の濾過装置１０の一実施形態の側面図及び断面図である。</base:FigureReference>
+        <base:FigureReference num="0002">複数の半透性の中空繊維膜１４を保持するディスク１２の一実施形態の斜視図である。</base:FigureReference>
+        <base:FigureReference num="0003">本開示の濾過装置１０の一実施形態の分解組立図である。</base:FigureReference>
+        <base:FigureReference num="0004">図１に示された濾過装置１０の詳細な断面図である。</base:FigureReference>
+        <base:FigureReference num="0005">本開示の濾過装置１０の別の実施形態の分解組立図である。</base:FigureReference>
+        <base:FigureReference num="0006">本開示の濾過装置１０のさらに別の実施形態の側面図及び断面図である。</base:FigureReference>
+        <base:FigureReference num="0007">図６に示された濾過装置１０の詳細な断面図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0009">
+  本発明は、複数の半透性の中空繊維膜を備える濾過装置を提供する。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+  本開示の濾過装置１０は、液体の入口１５を有するヘッダ部１１を備える。１つの実施形態において、ヘッダ部１１は円筒対称性を示し、その軸は入口１５を貫通する。ヘッダ部１１は、ディスク１２の第１の面を覆う。ディスク１２は、複数の穴１６を有し、ヘッダ部１１によって覆われたディスク１２の第１の面の反対側である第２の面から突出する、複数の中空繊維膜１４を保持する。１つの実施形態において、外周の棚部２１が、ヘッダ部１１の内側の壁に存在し、ディスク１２が棚部２１に据えられる。別の実施形態において、フランジ２３が、ヘッダ部１１の口部に設けられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  本開示の濾過装置１０は、複数の穴１６を有するディスク１２を備える。穴１６の数は、特に限定されない。一般的にディスク１２は、３個以上の穴１６、例えば、４～３６個の穴、例えば、６～１９個の穴又は５～８個の穴を備える。１つの実施形態において、ディスク１２は５個の穴を特徴とする。別の実施形態において、ディスク１２は６個の穴を特徴とする。さらに別の実施形態において、ディスク１２は７個の穴を特徴とする。１つの実施形態において、ディスクの厚さは、１～１０ｍｍ、例えば、２～５ｍｍの範囲である。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  １つの実施形態において、ディスク１２の穴１６は規則的なパターンを形成する。これは、米国特許第４２６７０５３Ａ号に記載されるような、反応性ポリマーを備えた中空繊維膜１４の端部を嵌め込むことによって得られた不規則な配置よりも、個々の穴１６と対応する半透性の中空繊維膜１４との間で、濾過される液体がより均一に配分されるという利点を提供する。より均一な液体の流れは、濾過装置１０の性能を向上させることになる。１つの実施形態において、穴１６は、円形パターン、すなわち、穴の中心が円の外周に位置されて、配置される。別の実施形態において、穴１６の中心は、２つの同軸円の外周に位置される。さらに別の実施形態において、穴１６の中心は、３つの同軸円の外周に位置される。別の実施形態において、１つの穴１６はディスク１２の中心に位置され、他の穴１６の中心は１つ以上の同軸円の外周に位置される。別の実施形態において、穴１６は、三角形若しくは六角形のメッシュ又は長方形若しくは方形のメッシュを形成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  各穴１６は、半透性の中空繊維膜１４の第１の端部１７を保持する。穴１６の径は、繊維の第１の端部１７を穴１６の中に容易に導入するため、半透性の中空繊維膜１４の外径よりもわずかに大きい。１つの実施形態において、その差は０．０５～０．３ｍｍの範囲である。半透性の中空繊維膜１４はディスク１２から突出し、半透性の中空繊維膜１４の第２の端部１８において封止される。１つの実施形態において、半透性の中空繊維膜１４の第１の端部１７におけるリップ部は、ディスク１２の一方の面と同じ高さである。半透性の中空繊維膜１４は、ディスク１２の反対側の面から突出する。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  半透性の中空繊維膜１４の第１の端部１７は、穴１６の壁に固定される。１つの実施形態において、半透性の中空繊維膜１４の第１の端部１７は、穴１６の壁に溶接又は融合される。別の実施形態において、半透性の中空繊維膜の第１の端部１７は、例えば、エポキシ樹脂又はポリウレタン接着剤などの好適な接着剤を用いて、穴１６の壁に接着される。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  半透性の中空繊維膜１４の第２の端部１８は封止され、それによって、半透性の中空繊維膜１４の第１の端部１７に入るいかなる流体も、膜壁を通してしか繊維から離れることができず、この処理において濾過される。１つの実施形態において、封止部は、半透性の中空繊維膜１４の第２の端部１８を溶解させることによって生成される。別の実施形態において、封止部は、半透性の中空繊維膜１４の第２の端部１８を折り曲げること又は締め付けることによって生成される。さらに別の実施形態において、封止部は、封止部材料、例えば、接着剤又は反応性樹脂を用いて、半透性の中空繊維膜１４の第２の端部１８を封止することによって生成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  １つの実施形態において、外周の隆起部２６が、ディスク１２の周縁面に存在する。隆起部２６の高さは、ヘッダ部１１及び管状部１３の壁厚以下である。隆起部を含んだディスク１２の外径は、ヘッダ部１１及び管状部１３の外径と適合し、その一方で隆起部２６に隣接するディスク１２の外径は、ヘッダ部１１及び管状部１３の内径と、それぞれ適合する。濾過装置１０が組み立てられたとき、隆起部２６は、ヘッド部１１のリップ部と、管状部１３のリップ部との間で、それぞれ保持される。隆起部２６は、ヘッド部１１のリップ部及び管状部１３のリップ部それぞれに接合され、それによって濾過装置１０を封止する。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  別の実施形態において、ディスク１２は、その周縁面のカラー２４を特徴とする。カラー２４の外径は、ヘッド部１１及び管状部１３のそれぞれに設けられた、対応するフランジ２３及び２５の外径と適合する。カラー２４に隣接するディスク１２の外径は、ヘッド部１１及び管状部１３それぞれの内径と適合する。濾過装置１０が組み立てられたとき、カラー２４はフランジ２３と２５との間に保持される。フランジ２３はカラー２４の一方の面に接合され、フランジ２５はカラー２４の他方の面に接合され、それによって濾過装置１０を封止する。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  １つの実施形態において、極大拡張におけるディスク１２の外径は、ヘッド部１１及び管状部１３の外径と適合する。別の実施形態において、極大拡張におけるディスク１２の外径は、ヘッド部１１及び管状部１３の内径と適合する。１つの実施形態において、ディスク１２は、濾過装置１０の内壁における外周凹部に据えられる。１つの実施形態において、外周凹部は、ヘッド部１１と管状部１３との境界を跨ぐ。別の実施形態において、外周凹部は、ヘッド部１１及び管状部１３の両方の口部を跨ぐ。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  本開示の濾過装置１０は、液体の出口１９を有する管状部１３をさらに備える。１つの実施形態において、管状部１３は円筒対称性を示し、その軸は出口１９を貫通する。管状部１３は、ディスク１２から突出した複数の半透性の中空繊維膜１４を封入し、すなわち、繊維のハウジングを提供する。したがって、管状部１３の長さは、ディスク１２から突出する半透性の中空繊維膜１４の長さよりも長くする必要があり、それによって半透性の中空繊維膜１４は管状部１３の中に適応する。一般的に、管状部１３の長さは、ディスク１２から突出する半透性の中空繊維膜１４の長さを超過し、そのため半透性の中空繊維膜１４の第２の端部１８と、出口１９との間には間隙が存在する。１つの実施形態において、この間隙の幅は、０．１～１０ｍｍの範囲である。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  １つの実施形態において、外周の棚部２０が、管状部１３の内壁に存在する。ディスク１２は棚部２０上に据えられる。１つの実施形態において、外周の棚部２０及び２１は、管状部１３及びヘッダ部１１それぞれの内壁に存在する。ディスク１２は、濾過装置１０の内部壁における外周凹部を共に形成する外周の棚部２０及び２１によって、保持される。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  濾過装置の１つの実施形態において、ヘッダ部１１、ディスク１２及び管状部１３の各々は、熱可塑性ポリマーを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  ヘッダ部１１及び管状部１３の好適な材料として、ポリエステル、ポリカーボネート、アクリロニトル－ブタジエン－スチレンコポリマー（ＡＢＳ）、スチレンアクリロニトリルコポリマー（ＳＡＮ）、スチレンメチルメタアクリレートコポリマー（ＳＭＭＡ）、スチレンブタジエンコポリマー（ＳＢＣ）、ポリ塩化ビニル（ＰＶＣ）、ポリオレフィン、並びにそれらのコポリマー及び混合物が挙げられる。本発明の１つの実施形態において、ヘッダ部１１及び管状部１３の材料は、例えば、ポリカーボネート、ポリエチレンテレフタレート（ＰＥＴ）、グリコール変性ポリエチレンテレフタレート（ＰＥＴＧ）などのポリエステルを含む。本発明の特定の実施形態において、ポリエステルは、グリコール変性ポリエチレンテレフタレート（ＰＥＴＧ）である。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  １つの実施形態において、ヘッダ部１１及び管状部１３は、赤外光が実質的に透過する材料、すなわち、７００～１５００ｎｍの範囲の波長において低い吸収性の材料で構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  ディスク１２に好適な材料として、ポリオレフィン、ポリカーボネートなどのポリエステル、ＭＭＡ又はＳＭＭＡなどのアクリルポリマー、ナイロンなどのポリアミド、ＳＡＮ、ＳＢＡ及びＡＢＳが挙げられる。本発明の１つの実施形態において、ディスク１２は、グリコール変性ポリエチレンテレフタレート（ＰＥＴＧ）を含む。ディスク１２は、赤外光が透過する必要はない。本開示の濾過装置１０のいくつかの実施形態の場合、ディスク１２が赤外線放射を吸収することは必須ですらある。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  １つの実施形態において、ディスク１２は赤外線吸収体、すなわち、赤外光を吸収する材料を含む。赤外線吸収体は、ディスク１２のポリマーマトリクス内に分散される。好適な赤外線吸収体として、カーボンブラックと、Ｌａｚｅｒｆｌａｉｒ（Ｒ）顔料などの無機顔料と、リン酸銅又はインジウム錫酸化物（ＩＴＯ）と、例えば、フタロシアニン、ナフタロシアニン、アゾ染料の金属錯体、アントラキノン、スクアリン酸誘導体、インモニウム染料、ペリレン、クアテリレン及びポリメチンなどの、７００～１５００ｎｍの範囲の波長において高い吸収性を有する有機顔料と、が挙げられる。これらのうちで、フタロシアニン及びナフタロシアニンは特に好適である。大きい側基を有するフタロシアニン及びナフタロシアニンは、熱可塑性ポリマーにおけるそれらの改善された可溶性のため、好ましい。特定の実施形態において、赤外線吸収性材料はフタロシアニンを含む。別の特定の実施形態において、赤外線吸収性材料はカーボンブラックを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  ディスク１２の熱可塑性ポリマーに含有される赤外線吸収体の量は、レーザ光線の所望の吸収を確保することができる限り、特に限定されない。１つの実施形態において、熱可塑性ポリマーは、その合計重量に対して、０．１～１０重量％、例えば、１～５重量％の赤外線吸収体を含有する。異なる赤外線吸収体の混合物も使用され得る。異なる波長でそれぞれ最大の吸収性を有する赤外線吸収体を混合することによって、当業者は、溶接ステップにおいて使用するレーザの波長領域における吸収性を最適化することができる。赤外線吸収体は、当技術分野で一般的な処理によって、ディスク１２の熱可塑性ポリマーの中に配合される。特定の実施形態において、ディスク１２は、３～５重量％のカーボンブラックを含むＰＥＴＧで構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  １つの実施形態において、ディスク１２は、赤外線吸収体を含有する所望の厚さの熱可塑性ポリマーのシートから切断又は型抜きされる。本発明の別の実施形態において、ディスク１２は、射出成形によって赤外線吸収体を含有する熱可塑性ポリマーから作製される。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  濾過装置１０の１つの実施形態において、半透性の中空繊維膜１４は、２．８～４．０ｍｍ、例えば、３．０～３．７ｍｍ又は３．１～３．５ｍｍの内径を有し、壁厚は１００～５００μｍ、例えば、１８０～３２０μｍである。半透性の中空繊維膜１４の外径は３ｍｍよりも大きい。膜の壁厚に対する内径の率は、１０よりも大きく、又は、１５よりも大きい。壁厚に対する内径の率が大きい膜、すなわち、薄い壁の膜は、より可撓性があり、容易に変形可能である。これらの膜は、厚い壁の膜よりも、曲げる際にねじれを形成しにくい。薄い壁の中空繊維の端部は、デッドエンドフィルタ要素を生成するために、折り曲げることによって容易に閉じることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  濾過装置１０の１つの実施形態において、半透性の中空繊維膜１４は、毛細管流量ポロメトリによって決定された、０．２～０．５μｍの範囲の平均フロー孔径を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  毛細管流量ポロメトリは、異なるガス圧における湿潤膜及び乾燥膜を通る流量を測定する、液体押し出し技法である。測定前に、小さい孔を含む全ての穴が湿潤液体で確実に満たされるように、膜は低い表面張力の液体（例えば、Ｐｏｒｏｆｉｌ（Ｒ）の商標で市販されているパーフルオロエーテル）に浸される。液体が孔から押し出される圧力を測定することによって、対応する孔の径を、ラプラス方程式を用いて計算することができる。この手法を用いて、大量搬送において有効である、それらの孔のサイズの配分が決定される。閉塞している孔及び孤立している孔は省略される。中空繊維膜は、内側から外側に測定される。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  ラプラス方程式：Ｄｐ＝４・γ・ｃｏｓθ／ΔＰ
+
+Ｄｐ＝孔の径（ｍ）
+
+γ＝表面張力（Ｎ／ｍ）、Ｐｒｏｆｉｌ（Ｒ）の場合は０．０１６（Ｎ／ｍ）
+
+ΔＰ＝圧力（Ｐａ）
+
+ｃｏｓθ＝接触角度、完全な湿潤状態ではｃｏｓθ＝１
+
+  １つの実施形態において、半透性の中空繊維膜１４は、ポリエーテルスルホン（ＰＥＳＵ）及びポリビニルピロリドン（ＰＶＰ）を含む。１つの実施形態において、半透性の中空繊維膜１４は、さらにカチオン電荷を持つポリマーを含む。好適なカチオン電荷を持つポリマーの例として、ポリエチレンイミン、変性ポリエチレンイミン及び変性ポリフェニレンオキシドが挙げられる。カチオン電荷を持つポリマーを含む半透性の中空繊維膜１４は、増加した内毒素の保持力を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  複数の半透性の中空繊維膜１４の全有効表面積は、一般的に５ｃｍ<base:Sup>２</base:Sup>よりも大きい。有効表面積は、液体の濾過に利用される半透性の中空繊維膜１４の表面積の部分、すなわち、穴１６の壁によって覆われず、又は、半透性の中空繊維膜１４の第２の端部１８のように封止されない部分である。１つの実施形態において、複数の半透性の中空繊維膜１４の全有効表面積は、１０～２５０ｃｍ<base:Sup>２</base:Sup>、例えば、２０～１００ｃｍ<base:Sup>２</base:Sup>又は３０～６０ｃｍ<base:Sup>２</base:Sup>である。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  本開示は、本開示の濾過装置１０を作動させる方法も提供する。方法は、液体を、ディスク１２の穴１６を介して濾過装置１０の入口１５を通して、複数の半透性の中空繊維膜１４の管腔の中に導入することと、複数の半透性の中空繊維膜１４の壁を通して液体を濾過することと、濾過した液体を、出口１９を通して濾過装置１０から取り出すことと、を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  本開示の濾過装置１０は、内側から外側への濾過として設計、構成される。すなわち、濾過される液体は、入口１５を通して半透性の中空繊維膜１４の管腔の中に導入され、膜壁を通して管状部１３の内部空間に透過し、出口１９を通して濾過装置１０から離れる。これは、大気圧を超えた圧力において、濾過装置１０を作動させるのを可能にする。１つの実施形態において、濾過装置１０は、０．５～４ｂａｒ（ｇ）の範囲、例えば、１．０～３．５ｂａｒ（ｇ）又は１．５～２．５ｂａｒ（ｇ）の圧力において作動する。本開示の濾過装置１０は、１．５ｂａｒ（ｇ）で２０°の水を用いて測定すると、１０～２５ｍｌ／ｃｍ<base:Sup>２</base:Sup>×ｍｉｎ、すなわち、６００～１５００ｍｌ／ｃｍ<base:Sup>２</base:Sup>×ｈｒの最大流量を実現する。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  比較として、米国特許第４２６７０５３Ａ号の装置は、３３．５ｍｌ／ｃｍ<base:Sup>２</base:Sup>×ｈｒ又は０．５６ｍｌ／ｃｍ<base:Sup>２</base:Sup>×ｍｉｎの最大流量を実現している。３０ｃｍ<base:Sup>２</base:Sup>の有効表面積を有する本発明の装置を使用すると、５００ｍｌの液体を約１分で濾過することができる。その一方で米国特許第４２６７０５３Ａ号の装置を用いると、約１時間必要となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  本開示の濾過装置１０の１つの実施形態において、ヘッダ部１１及び管状部１３は、ディスク１２に接着される。１つの実施形態において、接着は、例えば、エポキシ樹脂又はポリウレタン接着剤などの好適な接着剤を使用して実現される。特定の実施形態において、接着はＵＶ硬化性接着剤を使用して実現される。別の実施形態において、接着は熱硬化性接着剤を使用して実現される。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  濾過装置１０の１つの実施形態において、ヘッダ部１１及び管状部１３は、ディスク１２に融合又は溶接される。濾過装置１０の別の実施形態において、ヘッダ部１１は、管状部１３に融合又は溶接される。溶接は、一般的な技法を用いて実施され得る。例として、摩擦溶接、スピン溶接、超音波溶接、高周波溶接、放射熱溶接、ミラー溶接及びレーザ溶接が挙げられる。粒子を生成しない溶接処理が好ましい。特定の実施形態において、レーザ溶接を用いて、濾過装置１０のヘッダ部１１及び管状部１３をディスク１２に溶接する。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  本開示は、濾過装置１０を作製する方法も提供する。赤外線吸収性材料を含む熱可塑性ポリマーのディスク１２は、管状部１３とヘッダ部１１との間に設けられる。ディスク１２は、ヘッダ部１１及び管状部１３をディスク１２にレーザ溶接するのを可能にし、この方法においてレーザ溶接接合部が形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  １つの実施形態において、本開示は、ヘッダ部１１及び管状部１３を提供することを含む、濾過装置１０を作製する方法を提供する。両方の部は熱可塑性ポリマーを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  この方法は、赤外線吸収性材料を含む熱可塑性ポリマーのディスク１２を提供することも含む。ディスク１２は複数の穴１６を特徴とする。各穴１６は、ディスク１２から突出する半透性の中空繊維膜１４の台の端部１７を保持する。半透性の中空繊維膜１４は、その第２の端部１８において封止される。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  方法の１つの実施形態において、複数の半透性の中空繊維膜１４を保持するディスク１２は、前述の手順で組み立てられる。所望の長さを有する半透性の中空繊維膜１４が提供され、各繊維１４の一方の端部１８は、例えば、熱封止又は熱圧着によって封止される。半透性の中空繊維膜１４の開放端部１７は、複数の穴１６を有するディスク１２の穴１６の中に導入され、繊維端部１７は穴１６の壁に固定される。方法の１つの実施形態において、半透性の中空繊維膜１４の端部１７は、穴１６の壁に融合又は溶接される。別の実施形態において、半透性の中空繊維膜の端部１７は、例えば、エポキシ樹脂又はポリウレタン接着剤などの好適な接着剤を用いて、穴１６の壁に接着される。ディスク１２の全ての穴１６には、このように繊維が、順次又は同時に装備される。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  方法は、ヘッダ部１１、複数の半透性の中空繊維膜１４を保持するディスク１２及び管状部１３を組み立てることをさらに含む。３つの部品は、ヘッダ部１１のリップ部及び管状部１３のリップ部がディスク１２と接触するように、組み合わされる。ヘッダ部１１はディスク１２の穴１６を覆い、管状部１３はディスク１２から突出した複数の半透性の中空繊維膜１４を封入する。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  方法の１つの実施形態において、ヘッダ部１１のリップ部及び管状部１３のリップ部は、ディスク１２の両側においてディスク１２に、又はディスク１２の周縁面に位置する隆起部２６の両側若しくはカラー２４において接触する。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  別の実施形態において、ヘッダ部１１のリップ部及び管状部１３のリップ部の内側は、ディスク１２の周縁面に接触し、ヘッダ部１１のリップ部及び管状部１３のリップ部は互いに接触する。ディスク１２の外径は、ディスク１２の周縁面がヘッダ部１１及び管状部１３の両方の内側に触れるように、ヘッダ部１１及び管状部１３の内径と適合する。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  部品の組み立ての後、完成した濾過装置１０を作製するために、ヘッダ部１１はディスク１２に接合され、ディスク１２は管状部１３と接合される。１つの実施形態において、さらにヘッダ部１１は管状部１３に接合される。１つの実施形態において、接合することは、８００～１０９０ｎｍの範囲にある波長を有するレーザ光の照射によって実現される。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  接合方法の１つの実施形態において、レーザ光の照射は、ヘッダ部１１及び管状部１３それぞれのリップ部の周縁に沿って動く、少なくとも１つのレーザビームによって実施される。方法の別の実施形態において、管状部１３及びヘッダ部１１それぞれのリップ部の全周縁は、リングレンズを用いて同時にレーザ光が照射される。さらに別の実施形態において、ヘッダ部１１のリップ部の周縁及び管状部１３には、レーザ光が同時に照射される。レーザビームは、赤外線吸収性材料を含む熱可塑性ポリマーのディスク１２によって吸収される。レーザによって生成された熱は熱可塑性ポリマーを溶融し、恒久的な溶接部、すなわち、レーザ溶接接合部を作り出す。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  レーザ溶接ステップのための好適のレーザの例として、８００～９８０ｎｍの範囲の波長を有する半導体ダイオードレーザ及び１０６０～１０９０ｎｍの範囲の波長を有する固体レーザ（例えば、繊維レーザ又はＮｄ：ＹＡＧレーザ）が挙げられる。材料及び所望の溶接速度に依拠して、レーザの光パワーレベルは、１～２００Ｗ、例えば、２０～１００Ｗ、例えば、３０～８０Ｗの範囲である。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  方法の１つの実施形態において、レーザビームの焦点の径は、０．５～２ｍｍ、例えば、０．８～１．５ｍｍの範囲である。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  方法の１つの実施形態において、レーザが溶接線を生成しながら、部品は接合ステップの間に共に押圧される。一般的に、１００～１５００Ｎの範囲の力が、個々の部品を共に押圧するために使用される。濾過装置１０の径及び力が加えられる面積に依拠して、これは１～５Ｎ／ｍｍ<base:Sup>２</base:Sup>の範囲の圧力と解釈される。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  本開示の濾過装置１０は通常、臨床設定に使用される前に殺菌される。１つの好適な手法は、酸化エチレン（ＥＴＯ）を用いた殺菌である。別の実施形態において、濾過装置１０はガンマ線放射によって殺菌される。特定の実施形態において、使用される放射用量は、２５～５０ｋＧｙの範囲、例えば、２５ｋＧｙである。さらに別の実施形態において、濾過装置１０は、少なくとも２１分の間に少なくとも１２１℃の温度のスチームによって殺菌される。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  本開示は、液体のデッドエンド濾過における濾過装置１０の使用も対象とする。１つの実施形態において、濾過装置１０は、水若しくは水溶液、例えば、薬剤、透析液、若しくは栄養液又は患者に輸液されることになる他の液体の、除菌濾過のために使用される。濾過装置１０は、粒子、バクテリア及び液体の中に存在し得る内毒素を貯留する。濾過された液体は発熱物質を含まず、患者の体内に直接注射され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  本開示の濾過装置１０の例示的な実施形態が、添付の図に示され、以下で説明される。上述の特徴及び以降で説明される特徴については、指定された組み合わせのみではなく、本発明の範囲から逸脱せずに、他の組み合わせ又は単独で使用され得ることが理解されよう。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  図１は、本開示の濾過装置１０の一実施形態の側面図及び断面図である。濾過装置１０の側面図は、入口１５を備えたヘッダ部１１及び出口１９を備えた管状部１３を示す。それらは共に、濾過装置１０の外側シェルを形成する。断面図は、濾過装置１０内に配置された複数の半透性の中空繊維膜１４を保持するディスク１２を示す。ディスク１２は複数の穴１６を備える。各穴１６は、半透性の中空繊維膜１４の第１の端部１７を保持する。半透性の中空繊維膜１４の壁は、第１の端部１７において穴１６の壁に装着される。半透性の中空繊維膜１４の第２の端部１８は封止される。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  図２は、複数の穴１６を備えるディスク１２の斜視図である。各穴１６は、半透性の中空繊維膜１４の第１の端部１７を保持する。半透性の中空繊維膜１４の壁は、第１の端部１７において穴１６の壁に装着される。半透性の中空繊維膜１４の第２の端部１８は封止される。図は、半透性の中空繊維膜１４の第２の端部１８が、折り曲げによって封止されている実施形態を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  図３は、濾過装置１０の一実施形態の分解組立図である。複数の半透性の中空繊維膜１４が装着されたディスク１２は、管状部１３内に配置され、管状部１３は半透性の中空繊維膜１４用のハウジングを提供する。ヘッダ部１１はディスク１２を覆い、管状部１３の口部を封止する。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  図４は、図１の詳細な断面図である。外周の棚部２０及び２１は、管状部１３及びヘッダ部１１それぞれの内壁に存在する。ディスク１２は、濾過装置１０の内部壁における外周凹部を共に形成する外周の棚部２０及び２１によって、保持される。カラー２２は、管状部１３の外側面に存在する。カラー２２は装置の任意選択の特徴である。カラー２２は、濾過装置１０をホルダに締結するためのアンカーとして設けられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  図５は、濾過装置１０の別の実施形態の分解組立図である。複数の半透性の中空繊維膜１４が装着されたディスク１２は、管状部１３内に配置され、管状部１３は半透性の中空繊維膜１４のハウジングを提供する。ディスク１２は、その周縁にあるカラー２４を特徴とする。フランジ２３がヘッダ部１１の口部に設けられ、別のフランジ２５が管状部１３の口部に設けられる。カラー２４の外径は、フランジ２３及び２５の外径と適合する。カラー２４は、濾過装置１０が組み立てられたときに、フランジ２３と２５との間に保持される。フランジ２３はカラー２４の一方の面に接合され、フランジ２５はカラー２４の他方の面に接合され、それによって濾過装置１０を封止する。接合することは、接着剤を使用して部品を共に接着することによって、又は、部品を融合若しくは溶接することによって実現され得る。１つの実施形態において、カラー２４を含むディスク１２は、赤外線吸収性材料から構成され、フランジ２３及び２５は、レーザ溶接によってカラー２４に接合される。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  図６は、本開示の濾過装置１０のさらに別の実施形態の側面図及び断面図である。濾過装置１０の側面図は、入口１５を備えたヘッダ部１１、出口１９を備えた管状部１３及び隆起部２６を備えたディスク１２を示す。それらは共に、濾過装置１０の外側シェルを形成する。断面図は、濾過装置１０内に配置された複数の半透性の中空繊維膜１４を保持するディスク１２を示す。ディスク１２は複数の穴１６を備える。各穴１６は、半透性の中空繊維膜１４の第１の端部１７を保持する。半透性の中空繊維膜１４の壁は、第１の端部１７において穴１６の壁に装着される。半透性の中空繊維膜１４の第２の端部１８は封止される。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  図７は、図６の詳細な断面図である。外周の隆起部２６が、ディスク１２の周縁面に存在する。隆起部２６は、濾過装置１０が組み立てられたときに、ヘッド部１１のリップ部及び管状部１３のリップ部の間にそれぞれ保持される。ヘッダ部１１、管状部１３及びリング１２は、隆起部２６において接合され、それによって濾過装置１０を封止する。接合は、接着剤を使用して部品を共に接着することによって、又は、部品を融合若しくは溶接することによって実現され得る。１つの実施形態において、隆起部２６を含むディスク１２は、赤外線吸収性材料から構成され、管状部１３及びヘッダ部１１は、レーザ溶接によって隆起部２６に接合される。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0060">
+  １０  濾過装置
+
+  １１  ヘッダ部
+
+  １２  ディスク
+
+  １３  管状部
+
+  １４  半透性の中空繊維膜
+
+  １５  液体入口
+
+  １６  穴
+
+  １７  中空繊維膜の第１の端部
+
+  １８  中空繊維膜の第２の端部
+
+  １９  液体出口
+
+  ２０  棚部
+
+  ２１  棚部
+
+  ２２  カラー
+
+  ２３  フランジ
+
+  ２４  カラー
+
+  ２５  フランジ
+
+  ２６  隆起部
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="51" wi="83" file="2020516452_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="55" wi="83" file="2020516452_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="55" wi="85" file="2020516452_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="55" wi="82" file="2020516452_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="54" wi="83" file="2020516452_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="66" wi="82" file="2020516452_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="55" wi="83" file="2020516452_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  濾過装置（１０）であって、
+
+  ｉ．液体の入口（１５）を有するヘッダ部（１１）、
+
+  ｉｉ．複数の穴（１６）を有するディスク（１２）であって、各穴（１６）は、当該ディスク（１２）から突出する半透性の中空繊維膜（１４）の第１の端部（１７）を保持し、当該半透性の中空繊維膜（１４）は、その第２の端部（１８）において封止される、ディスク（１２）、及び
+
+  ｉｉｉ．液体の出口（１９）を有する管状部（１３）
+
+を備え、
+
+  前記ヘッダ部（１１）は、前記ディスク（１２）の第１の面を覆い、前記管状部（１３）は、当該ディスク（１２）の当該第１の面の反対側の第２の面を覆い、複数の前記半透性の中空繊維膜（１４）を封入し、当該ヘッダ部（１１）、当該ディスク（１２）及び当該管状部（１３）の各々は、熱可塑性ポリマーを含み、当該ディスク（１２）は、カーボンブラック、赤外線吸収性無機顔料及び赤外線吸収性有機顔料から成る群から選択される赤外線吸収性顔料を含む、濾過装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記赤外線吸収性材料が、フタロシアニンを含む、請求項１に記載の装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記赤外線吸収性材料が、カーボンブラックを含む、請求項１に記載の装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記熱可塑性ポリマーが、ＰＥＴＧである、請求項１～３のいずれか一項に記載の装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記ヘッダ部（１１）及び前記管状部（１３）の両方が、前記ディスク（１２）に接着される、請求項１～４のいずれか一項に記載の濾過装置（１０）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記ヘッダ部（１１）及び前記管状部（１３）の両方が、前記ディスク（１２）に溶接される、請求項１～４のいずれか一項に記載の濾過装置（１０）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記半透性の中空繊維膜（１４）が、２．８～４．０ｍｍの内径及び１００～５００μｍの壁厚を有し、壁厚に対する内径の比率が１０より大きい、請求項１～６のいずれか一項に記載の濾過装置（１０）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記半透性の中空繊維膜（１４）が、毛細管流量ポロメトリによって決定された、０．２～０．５μｍの範囲の平均フロー孔径を有する、請求項１～７のいずれか一項に記載の濾過装置（１０）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  請求項１～８のいずれか一項に記載の濾過装置（１０）を作動させる方法であって、液体を、前記入口（１５）を通して、複数の前記半透性の中空繊維膜（１４）の管腔の中に導入すること、複数の前記半透性の中空繊維膜（１４）の壁を通して前記液体を濾過すること、及び濾過した前記液体を、前記出口（１９）を通して前記濾過装置（１０）から取り出すこと
+
+を含む、方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記液体が０．５～４ｂａｒ（ｇ）の圧力で導入され、前記濾過装置（１０）を通る前記液体の流量が、１．５ｂａｒ（ｇ）の水を用いて２０℃で測定すると、１０～２５ｍｌ／ｃｍ<base:Sup>２</base:Sup>×ｍｉｎの範囲である、請求項９に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  濾過装置（１０）を作製する方法であって、
+
+  ａ）各々が熱可塑性ポリマーを含む、ヘッダ部（１１）及び管状部（１３）を提供すること、
+
+  ｂ）赤外線吸収性材料を含む熱可塑性ポリマーのディスク（１２）を提供することであって、当該ディスク（１２）は、複数の穴（１６）を有し、各穴（１６）は、当該ディスク（１２）から突出する半透性の中空繊維膜（１４）の第１の端部（１７）を保持し、当該半透性の中空繊維膜（１４）は、その第２の端部（１８）において封止される、ディスク（１２）を提供すること、
+
+  ｃ）前記ヘッダ部（１１）、複数の前記半透性の中空繊維膜（１４）を保持する前記ディスク（１２）及び前記管状部（１３）を、当該ヘッダ部（１１）のリップ部及び当該管状部（１３）のリップ部が前記ディスク（１２）と接触し、当該ヘッダ部（１１）は、当該ディスク（１２）の前記穴（１６）を覆い、当該管状部（１３）は、複数の当該半透性の中空繊維膜（１４）を封入するように組み立てること、
+
+  ｄ）８００～１０９０ｎｍの範囲の波長を有するレーザ光を用いた照射によって、前記ヘッダ部（１１）を前記ディスク（１２）に接合し、前記ディスク（１２）を前記管状部（１３）に接合すること
+
+を含む、方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  液体のデッドエンド濾過における、請求項１～８のいずれか一項に記載の濾過装置（１０）の使用。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000010" file="2020516452_000010.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000011" file="2020516452_000011.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

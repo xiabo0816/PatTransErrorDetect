@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000229154JP00020200917260AFULJA20200611JP00O.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020091726" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091726</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020091726</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000229154</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018229154</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20120101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>Q</business:Subclass>
+        <business:MainGroup>50</business:MainGroup>
+        <business:Subgroup>10</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06Q  50/10        20120101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G06Q50/10</business:FI>
+      <business:FClass>
+        <business:FTerm>5L049CC17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5L049</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">通知设备和通知方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>KDDI株式会社</base:Name>
+            <base:RegisteredNumber>000208891</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都新宿区西新宿二丁目3番2号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>菰岡  真人</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都新宿区西新宿二丁目3番2号  KDDI株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>泉  通博</base:Name>
+            <base:RegisteredNumber>100166006</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>黒岩  久人</base:Name>
+            <base:RegisteredNumber>100124084</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>寺川  賢祐</base:Name>
+            <base:RegisteredNumber>100153280</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>9</business:ClaimsCount>
+      <base:TotalPageCount>19</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供指示可以使用满足用户使用条件的服务的基于成员的系统的信息。 信息处理装置4具有：获取表示服务的信息、会员基础信息和用户识别信息的服务信息获取部431、基于服务信息获取部431获取到的会员基础信息和用户识别信息,从作为确定对象的多个会员基础系统中确定用户注册的其他会员基础系统,并且确定用户能够利用服务的会员基础系统的确定部432、以及通知部436,该通知部436将表示包含服务信息获取部431获取到的会员基础信息所示的会员基础系统和确定部432确定出的会员基础系统的多个会员基础系统中满足用户指定的使用条件的会员基础系统的信息通知给用户使用的通信终端。 图4</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="96" wi="56" file="2020091726_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及通知与用户能够利用的服务相关的信息的通知装置以及通知方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">以往,已知有以进行了会员注册为条件而使会员利用服务的系统。 在专利文献1中,记载了在向会员提供会员服务的会员服务系统（以下,称为会员基础系统）中,利用与提供该会员基础系统的经营者签订加盟合同的服务经营者提供的服务的技术。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2004－70597号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">作为会员基础系统的会员的用户能够经由会员基础系统利用服务提供商提供的服务。 但是,存在能够利用的服务的内容按每个会员基础系统而不同的情况。 在该情况下,在能够经由会员基础系统利用的服务不满足用户的利用条件的情况下,用户必须寻找能够利用满足自身的利用条件的服务的其他会员基础系统,是麻烦的。</base:Paragraphs>
+        <base:Paragraphs num="0005">因此,本发明是鉴于这些点而完成的,其目的在于提供一种能够提供表示能够利用满足用户的利用条件的服务的会员基础系统的信息的通知装置以及通知方法。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">本发明的第一方式所涉及的通知装置具备： 表示用户经由会员基础系统而利用的服务的信息； 会员基础信息,用于识别所述会员基础系统； 作为用于识别所述用户的信息而登记于所述会员基础系统的用户识别信息； 以及通知部,其根据所述服务信息取得部取得的所述会员基础信息和所述用户识别信息,从作为确定对象的多个会员基础系统中确定登记有所述用户的与所述会员基础系统不同的其他会员基础系统,并且确定所述用户能够利用所述服务的会员基础系统,将表示包含所述服务信息取得部取得的所述会员基础信息所表示的所述会员基础系统和所述确定部确定的所述会员基础系统的多个会员基础系统中满足所述用户指定的利用条件的会员基础系统的信息通知给所述用户使用的通信终端。</base:Paragraphs>
+        <base:Paragraphs num="0007">所述服务信息取得部也可以还取得表示所述利用条件的信息,所述通知部也可以将表示所述多个会员基础系统中的满足所述服务信息取得部取得的所述利用条件的所述会员基础系统的信息通知给所述通信终端。</base:Paragraphs>
+        <base:Paragraphs num="0008">所述服务信息取得部也可以从所述通信终端访问的所述会员基础系统取得表示所述服务的信息、与所述会员基础系统相对应的所述会员基础信息、以及与登记于所述会员基础系统的所述用户相对应的所述用户识别信息。 所述通知部可以将在满足所述使用条件的所述多个会员基础系统各自中能够使用的所述服务的内容通知给所述通信终端。</base:Paragraphs>
+        <base:Paragraphs num="0009">所述通知装置也可以还具有地图生成部,该地图生成部生成显示了能够经由满足所述利用条件的基于会员的系统利用的服务的利用场所的地图,所述通知部也可以将所述地图生成部生成的所述地图作为表示满足所述利用条件的基于会员的系统的信息通知给所述通信终端。 所述地图生成部也可以生成以针对每个所述会员基础系统而不同的方式显示所述服务的利用场所的所述地图。</base:Paragraphs>
+        <base:Paragraphs num="0010">所述通知装置也可以还具有选择信息取得部,该选择信息取得部取得表示用户从满足所述使用条件的基于会员的系统中选择出的一个基于会员的系统的信息,所述通知部也可以经由所述用户选择出的所述一个基于会员的系统向所述通信终端通知用于访问受理所述服务的预约的预约页面的地址信息。</base:Paragraphs>
+        <base:Paragraphs num="0011">所述确定部可以确定包含所述用户未注册的会员基础系统的所述其他会员基础系统,所述通知部可以将表示还包含无法利用服务的会员基础系统的所述多个会员基础系统中的满足所述用户指定的利用条件的会员基础系统的信息通知给所述通信终端。</base:Paragraphs>
+        <base:Paragraphs num="0012">本发明的第二方式所涉及的通知方法包括： 由计算机执行, 表示用户经由会员基础系统而利用的服务的信息； 会员基础信息,用于识别所述会员基础系统； 作为用于识别所述用户的信息而登记于所述会员基础系统的用户识别信息； 以及基于所取得的所述会员基础信息和所述用户识别信息,从作为确定对象的多个会员基础系统中确定所述用户所登记的与所述会员基础系统不同的其他会员基础系统,并且确定所述用户能够利用所述服务的会员基础系统的步骤,将表示包含所取得的所述会员基础信息所表示的所述会员基础系统和所确定的所述会员基础系统的多个会员基础系统中满足所述用户指定的利用条件的会员基础系统的信息通知给所述用户使用的通信终端的步骤。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0013">根据本发明,起到能够提供表示能够利用满足用户的利用条件的服务的会员基础系统的信息的效果。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">图0001是表示在本实施方式中作为前提的信息处理系统的结构的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是用于说明本实施方式中的信息处理系统的概要的图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是用于说明本实施方式中的信息处理系统的概要的图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示信息处理装置的结构的图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是表示用户管理数据库的结构的图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是表示系统管理数据库的结构的图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是示出在通信终端上显示的显示画面的示例的图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是示出在通信终端上显示的显示画面的示例的图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是示出在通信终端上显示的显示画面的示例的图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是表示本实施方式中的信息处理系统的处理流程的序列图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">[在本实施方式中成为前提的信息处理系统S的结构]首先,对在本实施方式中成为前提的信息处理系统S的结构进行说明。 图1是表示在本实施方式中成为前提的信息处理系统S的结构的图。 信息处理系统S具有通信终端1、服务提供服务器2、会员基础系统3以及信息处理装置4。</base:Paragraphs>
+      <base:Paragraphs num="0016">信息处理系统S是提供信息处理服务的系统。 信息处理服务是对在服务提供服务器2以及会员基础系统3之间协作的信息进行处理的服务。 通信终端1是用户使用的终端,例如是智能手机、平板电脑等。</base:Paragraphs>
+      <base:Paragraphs num="0017">服务提供服务器2是由向用户提供服务的服务提供商管理的服务器。 服务提供商所提供的服务例如为受理储物柜的预约的服务（以下,称为储物柜服务）、受理住宿的预约的服务（以下,称为住宿服务）、或销售电子书籍的服务等,但并不限定于这些。 服务提供服务器2管理用于向用户提供服务的服务提供站点。 用户能够在服务提供网站预约储物柜或购买电子书籍。</base:Paragraphs>
+      <base:Paragraphs num="0018">会员基础系统3是系统运营商管理的系统,是用于使注册的用户利用与系统运营商合作或者签约的服务运营商提供的服务的系统。 例如,在系统运营商是运营铁路运输服务的企业的情况下,系统运营商经由会员基础系统3,使登记在该会员基础系统3中的用户利用由合作的其他公司（服务运营商）提供的住宿服务。</base:Paragraphs>
+      <base:Paragraphs num="0019">系统经营者在使已注册的用户经由会员基础系统3利用服务提供者提供的服务时,与该用户不经由会员基础系统3而利用服务提供者提供的服务的情况相比,优惠地利用该服务。 系统运营商例如以比服务提供者提供的服务的价格便宜的优惠价格利用服务,或者使注册到会员基础系统3的用户无条件地利用服务运营商限定为满足规定的条件的用户（例如VIP会员）提供的服务。 另外,系统运营商例如也可以在会员基础系统3中利用服务提供者提供的服务时提供优惠（例如,能够应用于用户利用的服务的优惠券、或者能够积累或应用于用户利用的服务的积分等）。 另外,系统运营商例如也可以使用本公司提供的结算服务（例如信用卡）来利用服务提供者提供的服务。</base:Paragraphs>
+      <base:Paragraphs num="0020">系统运营商加入信息处理服务。 会员基础系统3管理用于使用户利用服务的会员基础网站。 用户通过在会员基础网站进行会员注册,在管理该会员基础网站的会员基础系统3中注册与该用户相关的信息。 在会员基础系统3中注册的用户能够通过会员基础网站接受服务提供网站提供的服务。</base:Paragraphs>
+      <base:Paragraphs num="0021">信息处理装置4是提供信息处理服务的装置,例如是服务器。 信息处理装置4将通过信息处理服务得到的信息提供给在会员基础系统3中登记的用户、服务运营商或者系统运营商。 信息处理设备4管理用于提供通过信息处理服务获得的信息的信息提供站点。</base:Paragraphs>
+      <base:Paragraphs num="0022">接下来,对本实施方式中的信息处理系统S1的概要进行说明。 图2和图3是用于说明本实施方式中的信息处理系统S1的概要的图。 如图2所示,信息处理系统S1具有多个服务提供服务器2（2x、2y、2z）和多个会员基础系统3（3a、3b、3c、3z）。</base:Paragraphs>
+      <base:Paragraphs num="0023">用户能够利用的服务按每个会员基础系统3而不同。 另外,即使在多个系统运营商与相同的服务运营商合作的情况下,服务的内容（例如,利用费用或者能够利用的场所等系统运营商优待的内容）也按照每个系统运营商（会员基础系统3）而不同。 本实施方式中的信息处理系统S1这样从用户能够利用的服务不同或用户能够利用的服务的内容不同的会员基础系统3中,将表示能够利用满足用户指定的利用条件的服务的会员基础系统3的信息通知给用户。</base:Paragraphs>
+      <base:Paragraphs num="0024">本实施方式中的信息处理装置4作为将表示能够利用满足用户指定的利用条件的服务的会员基础系统3的信息通知给用户的通知装置发挥功能。 在信息处理装置4中存储有表示图2中的可利用服务列表的信息。</base:Paragraphs>
+      <base:Paragraphs num="0025">以下,假设管理基于会员的系统3a、3b、3c、3z的系统运营商分别为A公司、B公司、C公司、Z公司,A公司、B公司、C公司、Z公司运营的基于会员的网站分别为A基于会员的网站、B基于会员的网站、C基于会员的网站、Z基于会员的网站来进行说明。 另外,设管理服务提供服务器2x、2y、2z的服务经营者分别为X公司、Y公司、Z公司,设X公司、Y公司、Z公司运营的服务提供网站分别为X服务提供网站、Y服务提供网站、Z服务提供网站来进行说明。 X公司、Y公司、Z公司提供相同种类的服务（例如储物柜服务）。 此外,运营Z会员基础网站的Z公司和运营Z服务提供网站的Z公司是同一经营者。</base:Paragraphs>
+      <base:Paragraphs num="0026">图2中的可用服务列表指示每个系统提供商是否与每个服务提供商合作。 例如,在图2的可用服务列表中所示的示例中,公司A与公司X和公司Z合作。 因此,在A公司管理的会员基础系统3a中登记的用户能够在会员基础系统3a中利用X公司以及Z公司分别提供的服务。 另一方面,A公司与Y公司没有合作。 因此,在会员基础系统3a中登记的用户在会员基础系统3a中无法利用Y公司提供的服务。</base:Paragraphs>
+      <base:Paragraphs num="0027">图3所示的用户U被登记在会员基础系统3a、3c、3z中,未被登记在会员基础系统3b中。 用户U通过使用通信终端1访问会员基础网站、服务提供网站以及信息提供网站中的任一个,能够利用服务。</base:Paragraphs>
+      <base:Paragraphs num="0028">在该情况下,用户U例如使用通信终端1来访问A会员基础网站,选择在A会员基础网站中能够利用的服务（图3的（1））。 对A会员基础网站进行管理的会员基础系统3a将表示用户U所选择的服务的服务信息、用于识别会员基础系统3a的会员基础信息、以及作为用于识别用户U的信息而登记于会员基础系统3a的用户识别信息发送至信息处理装置4（图3的（2））。</base:Paragraphs>
+      <base:Paragraphs num="0029">信息处理装置4基于从会员基础系统3a取得的会员基础信息和用户识别信息,确定注册有用户U且与会员基础系统3a不同的其他会员基础系统3,并且确定用户U能够利用从会员基础系统3a取得的服务信息所示的服务的会员基础系统3（图3的（3））。</base:Paragraphs>
+      <base:Paragraphs num="0030">例如,信息处理装置4首先基于从会员基础系统3a取得的会员基础信息和用户识别信息,确定会员基础系统3c、3z作为登记有用户U的其他会员基础系统3。 然后,信息处理装置4基于图2的可利用服务一览所示的信息,将会员基础系统3z确定为会员基础系统3c、3z中的能够利用用户U所选择的服务的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0031">信息处理装置4在获取到的会员基础信息所示的会员基础系统3a以及确定出的会员基础系统3z中,确定满足用户U指定的使用条件的会员基础系统3（图3的（4））。 利用条件可以预先设定于信息处理装置4,也可以在A会员基础网站中由用户U选择服务并输入。 信息处理装置4例如将会员基础系统3z确定为满足用户U指定的使用条件的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0032">信息处理装置4将表示作为满足用户U指定的使用条件的会员基础系统3的会员基础系统3z的信息通知给用户U使用的通信终端1（图3的（5））。 信息处理装置4例如使显示了表示会员基础系统3z的信息的信息提供网站的画面显示于通信终端1。 然后,当信息处理装置4通知的表示会员基础系统3z的信息被显示于通信终端1时,用户U经由会员基础系统3z访问Z服务提供站点,进行用于在Z服务提供站点中利用服务的手续（图3的（6））。</base:Paragraphs>
+      <base:Paragraphs num="0033">信息处理装置4也可以不经由会员基础系统3而在服务提供网站中利用服务。 在该情况下,信息处理装置4存储有与加入了信息处理服务的系统运营商所管理的用户相关的信息（基础用用户ID）。 另外,服务提供服务器2在服务提供网站中,通过使用与和服务提供者合作的系统运营商所管理的用户相关的信息（基础用用户ID）进行登录,从而以该系统运营商优待的内容提供服务。</base:Paragraphs>
+      <base:Paragraphs num="0034">在这种情况下,信息处理装置4将表示满足用户U指定的使用条件的会员基础系统3的信息、和表示提供能够经由该会员基础系统3使用的服务的服务提供服务器2的信息通知给通信终端1。 信息处理装置4例如使通信终端1显示能够选择满足用户U指定的使用条件的会员基础系统3管理的会员基础站点和能够经由该会员基础站点接受服务的服务提供站点的信息提供站点的画面。</base:Paragraphs>
+      <base:Paragraphs num="0035">当用户U在通信终端1上显示的信息提供站点上执行选择基于会员的站点和服务提供站点的操作时,信息处理装置4在输入了与所选择的基于会员的站点相对应的用户的基于用户ID的状态下在通信终端1上显示所选择的服务提供站点的登录画面。 然后,用户U在所显示的服务提供网站的登录画面中,输入与信息处理装置4输入的基础用用户ID对应的密码进行登录,在该服务提供网站中进行用于利用服务的手续。</base:Paragraphs>
+      <base:Paragraphs num="0036">这样,信息处理系统S1能够向用户U提供表示能够利用满足用户U的利用条件的服务的会员基础系统3的信息。 由此,用户U能够节省寻找能够利用满足自身的利用条件的服务的会员基础系统3的工夫。 以下,对信息处理装置4的结构进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0037">图4是表示信息处理装置4的结构的图。 信息处理装置4具有通信部41、存储部42以及控制部43。 通信部41是用于与网络连接的接口,例如构成为包括通信控制器。</base:Paragraphs>
+      <base:Paragraphs num="0038">存储部42是ROM（Read Only Memory：只读存储器）、RAM（Random Access Memory：随机存取存储器）以及硬盘等存储介质。 存储部42存储有控制部43执行的程序。 另外,存储部42存储有管理用户U的用户管理数据库、和管理与加入了信息处理服务的会员基础系统3相关的信息的系统管理数据库。</base:Paragraphs>
+      <base:Paragraphs num="0039">图5是表示用户管理数据库的结构的图。 如图5所示,用户管理数据库按照每个管理用用户ID和会员基础系统3（系统经营者）,将会员基础ID和基础用用户ID关联起来进行存储。 管理用用户ID是作为用于识别用户U的信息而由信息处理装置4管理的用户识别信息。 会员基础ID是用于识别会员基础系统3的信息。 基础设施用用户ID是作为用于识别用户U的信息而由会员基础设施系统3管理的用户识别信息。</base:Paragraphs>
+      <base:Paragraphs num="0040">在用户管理数据库的基础设施用用户ID项目中存储有基础设施用用户ID的情况下,表示用户U被登记在与该基础设施用用户ID项目相关联的会员基础设施ID所示的会员基础设施系统3中。 另一方面,在用户管理数据库的基础设施用用户ID项目为空白的情况下,表示用户U未登记在与该基础设施用用户ID项目相关联的会员基础设施ID所示的会员基础设施系统3中。</base:Paragraphs>
+      <base:Paragraphs num="0041">图6是表示系统管理数据库的结构的图。 如图6所示,作为与会员基础系统3相关的信息,系统管理数据库将系统运营商名、会员基础ID、可利用服务关联起来进行存储。 系统经营者名是管理会员基础系统3的系统经营者的名称。 可利用服务按照服务的每个种类,表示在各会员基础系统3中登记的用户U是否能够利用提供该种类的服务的服务提供商提供的服务。</base:Paragraphs>
+      <base:Paragraphs num="0042">返回图4,控制部43例如是CPU（Central Processing Unit：中央处理单元）。 控制部43通过执行存储于存储部42的程序,作为服务信息获取部431、确定部432、生成部435、通知部436以及选择信息获取部437发挥功能。</base:Paragraphs>
+      <base:Paragraphs num="0043">服务信息获取部431经由会员基础系统3获取表示用户U所利用的服务的服务信息、会员基础ID以及基础用用户ID。 服务信息获取单元431从会员基础设施系统3获取服务信息、会员基础设施ID和基础设施用户ID。</base:Paragraphs>
+      <base:Paragraphs num="0044">例如,假设用户U使用通信终端1访问进行了会员注册的会员基础网站,并选择了在该会员基础网站中利用的服务。 在这种情况下,服务信息获取单元431从管理由通信终端1访问的基于成员的站点的基于成员的系统3获取指示由用户U选择的服务的服务信息、基于成员的ID和基于基础设施的用户ID。</base:Paragraphs>
+      <base:Paragraphs num="0045">此外,例如,假设用户U使用通信终端1访问服务提供站点,并在该服务提供站点进行了用于利用服务的操作。 在这种情况下,管理服务提供站点的服务提供服务器2向通信终端1通知用于访问由与服务提供商合作的系统提供商管理的会员基础站点的地址信息。 当用户U使用通信终端1访问由所通知的地址信息指示的基于成员的站点并选择要在基于成员的站点中使用的服务时,服务信息获取单元431从基于成员的系统3获取服务信息、基于成员的ID和基于基础设施的用户ID。</base:Paragraphs>
+      <base:Paragraphs num="0046">此外,服务信息获取单元431可以从通信终端1获取服务信息、会员基础设施ID和基础设施用户ID。 例如,假设用户U使用通信终端1访问信息提供站点,在该信息提供站点选择要利用的服务,并输入了进行了会员注册的会员基础站点和与该会员基础站点对应的基础用用户ID。 在这种情况下,服务信息获取单元431从通信终端1获取服务信息、会员基础设施ID和基础设施用户ID。</base:Paragraphs>
+      <base:Paragraphs num="0047">服务信息获取单元431还可以获取指示由用户U指定的使用条件的条件信息。 使用条件例如是使用地点、使用期间、使用费用、可使用的数量（例如,服务提供商提供的储物柜的数量或住宿地的数量等）的多少或对服务的评价的高低等。 另外,在用户U指定了多个利用条件的情况下,服务信息取得部431也可以进一步取得表示用户U指定的多个利用条件中的优先的利用条件的优先信息。</base:Paragraphs>
+      <base:Paragraphs num="0048">识别单元432基于由服务信息获取单元431获取的服务信息、会员基础设施ID和基础设施用户ID来执行识别满足由用户U指定的使用条件的会员基础设施系统3的识别处理。 确定部432具有第一确定部433和第二确定部434。</base:Paragraphs>
+      <base:Paragraphs num="0049">第一确定部433基于服务信息取得部431取得的会员基础ID和基础用用户ID,从作为确定对象的多个会员基础系统3中确定注册有用户U的、与服务信息取得部431取得的会员基础ID所示的会员基础系统3不同的其他会员基础系统3,并且确定用户U能够利用服务的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0050">具体地,第一指定单元433首先基于由服务信息获取单元431获取的会员基础设施ID和基础设施用户ID来指定用户U。 第一确定部433例如通过确定与服务信息获取部431获取到的会员基础设施ID和基础设施用用户ID相关联地存储于用户管理数据库的管理用用户ID,来确定用户U。</base:Paragraphs>
+      <base:Paragraphs num="0051">第一确定部433在确定用户U时,从作为确定对象的多个会员基础系统3中,除了服务信息取得部431取得的会员基础ID所示的会员基础系统3之外,还确定登记有该用户U的会员基础系统3。 作为确定对象的多个会员基础系统3是加入了信息处理服务的系统经营者所管理的会员基础系统3。 第一确定部433例如在用户管理数据库中,除了确定服务信息取得部431取得的会员基础ID所表示的会员基础系统3之外,还确定表示登记有确定出的管理用用户ID所表示的用户U的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0052">而且,第一确定部433如果确定了用户U所登记的会员基础系统3,则从确定出的会员基础系统3中,确定能够利用服务信息取得部431取得的服务信息所表示的服务的会员基础系统3。 第一确定部433例如在系统管理数据库中,确定所确定的会员基础系统3中的、表示能够利用服务信息取得部431取得的服务信息所示的服务的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0053">第1确定部433也可以在从作为确定对象的多个会员基础系统3中确定了能够利用用户U在会员基础站点或者信息提供站点中选择的服务的会员基础系统3之后,确定登记有用户U的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0054">第二确定部434在包括服务信息取得部431取得的会员基础ID所示的会员基础系统3和第一确定部433确定的会员基础系统3的多个会员基础系统3（以下,称为多个可利用服务的系统）中,确定满足用户U指定的使用条件的会员基础系统3。 第二确定部434例如基于询问是否能够对多个可利用服务系统分别利用满足用户U指定的利用条件的服务的结果,来确定满足用户U指定的利用条件的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0055">具体地,首先,第二确定单元434将指示由用户U指定的使用条件的条件信息发送到多个可服务使用系统中的每一个。 多个可使用服务的系统中的每一个搜索满足由从信息处理设备4获取的条件信息指示的使用条件的服务,并将指示搜索结果的结果信息发送到信息处理设备4。 然后,第二确定部434将多个可服务利用系统中的、发送了表示能够利用满足用户U指定的利用条件的服务的结果信息的会员基础系统3确定为满足用户U指定的利用条件的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0056">第二确定部434例如也可以分别向提供在多个可服务利用系统各自中能够利用的服务的多个服务提供服务器2询问是否能够利用满足用户U指定的利用条件的服务。</base:Paragraphs>
+      <base:Paragraphs num="0057">第二确定部434也可以在确定了满足用户U指定的使用条件的会员基础系统3之后,从确定出的会员基础系统3取得与在确定出的会员基础系统3中能够利用的服务相关的信息。 与服务相关的信息例如是可利用的场所、可利用的期间、利用费用、可利用的数量或评价等。</base:Paragraphs>
+      <base:Paragraphs num="0058">具体而言,在服务信息取得部431取得了优先信息的情况下,第二确定部434也可以从确定出的会员基础系统3取得与优先信息所示的优先的使用条件所对应的服务相关的信息。 例如,在优先项目表示使利用费用优先的情况下,第二确定部434也可以从确定出的会员基础系统3取得服务的利用费用作为与服务相关的信息。</base:Paragraphs>
+      <base:Paragraphs num="0059">确定部432也可以在第二确定部434中从作为确定对象的多个会员基础系统3中确定满足用户U指定的使用条件的会员基础系统3,在第一确定部433中从第二确定部434确定的会员基础系统3中确定用户U能够使用服务的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0060">生成部435生成地图,该地图显示了满足用户U指定的使用条件的能够经由会员基础系统3使用的服务的使用场所。 具体而言,生成部435生成地图,该地图显示了能够经由第二确定部434所确定的会员基础系统3而利用的服务的利用场所。</base:Paragraphs>
+      <base:Paragraphs num="0061">通知部436将表示包含服务信息取得部431取得的会员基础ID表示的会员基础系统3和第一确定部433确定的会员基础系统3在内的多个会员基础系统3中的、满足用户U指定的使用条件的会员基础系统3的信息通知给用户U使用的通信终端1。 具体而言,通知部436将表示多个会员基础系统3中的满足服务信息取得部431取得的使用条件的会员基础系统3的信息通知给通信终端1。</base:Paragraphs>
+      <base:Paragraphs num="0062">更具体而言,通知部436将表示确定部432确定出的会员基础系统3的信息通知给通信终端1。 通信终端1例如对显示了从信息处理装置4通知的表示会员基础系统3的信息的信息提供网站的显示画面进行显示。 关于通信终端1所显示的显示画面的详细情况,将在后面叙述。 通知部436也可以将生成部435生成的地图作为表示满足用户U指定的使用条件的会员基础系统3的信息通知给通信终端1。</base:Paragraphs>
+      <base:Paragraphs num="0063">选择信息取得部437取得表示用户U从满足用户U指定的使用条件的会员基础系统3中选择出的一个会员基础系统3的信息。 选择信息取得部437例如取得表示在显示了表示满足用户U指定的使用条件的会员基础系统3的信息的信息提供网站的显示画面中用户U选择出的一个会员基础系统3的信息。</base:Paragraphs>
+      <base:Paragraphs num="0064">通知部436在选择信息取得部437取得表示用户U选择出的一个会员基础系统3的信息时,经由用户U选择出的一个会员基础系统3将用于访问服务提供网站的预约页面的地址信息通知给通信终端1。 预约页面是在服务提供服务器2提供的服务提供网站中受理服务的预约的网页。 由此,通知部436能够使用户U利用服务。</base:Paragraphs>
+      <base:Paragraphs num="0065">通知部436也可以将表示能够利用用户U在会员基础站点或者信息提供站点中选择的服务的会员基础系统3的信息通知给通信终端1。 具体而言,通知部436也可以将表示多个可利用服务的系统（包含服务信息取得部431取得的会员基础ID所示的会员基础系统3和第一确定部433确定的会员基础系统3的多个会员基础系统3）的信息通知给通信终端1。 通知部436例如使通信终端1显示信息提供网站的显示画面,该信息提供网站能够从多个可利用服务的系统中选择能够利用用户U在会员基础网站或者信息提供网站中选择出的服务的会员基础系统3。 这样,用户U能够从能够利用在会员基础站点或者信息提供站点中选择出的服务的会员基础系统3中选择任意的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0066">然后,当用户U选择会员基础系统3时,第二确定部434确定用户U选择出的会员基础系统3中的满足用户U指定的使用条件的会员基础系统3。 然后,通知部436将表示第二确定部434确定出的会员基础系统3的信息通知给通信终端1。</base:Paragraphs>
+      <base:Paragraphs num="0067">此外,通知部436也可以在用户U能够利用服务的会员基础系统3被确定之前,将第二确定部434从作为确定对象的多个会员基础系统3中确定的、满足用户U指定的利用条件的会员基础系统3通知给通信终端1。 通知部436例如使通信终端1显示能够从第二确定部434确定出的会员基础系统3中选择任意的会员基础系统3的信息提供网站的显示画面。 当用户U选择会员基础系统3时,第1确定部433从用户U选择出的会员基础系统3中确定用户U能够利用服务的会员基础系统3。 然后,通知部436将表示第1确定部433确定出的会员基础系统3的信息通知给通信终端1。</base:Paragraphs>
+      <base:Paragraphs num="0068">通知部436也可以在第一确定部433无法确定能够利用服务的会员基础系统3的情况下,即,在用户U未注册到用户U选择出的会员基础系统3的情况下,将用于使用户U注册到该会员基础系统3的信息通知给通信终端1。 用于使用户U注册到会员基础系统3的信息例如是用于访问会员基础网站的会员注册页面的地址信息。 另外,通知部436也可以将表示基于用于会员注册的条件的有无而分类的会员基础站点的一览表的信息作为用于使用户U注册到会员基础系统3的信息通知给通信终端1。</base:Paragraphs>
+      <base:Paragraphs num="0069">通知部436也可以在用户U预约了服务之后,通知表示能够利用与该服务的利用场所以及利用期间对应的其他服务的会员基础系统3的信息。 例如,假设在存储部42中存储有关联服务数据库,该关联服务数据库将表示用户U预约的服务的种类的第一服务（例如,储物柜服务）和表示在用户U预约了第一服务的情况下能够利用的其他服务的种类的第二服务（例如,受理餐饮店的预约的服务）关联起来进行存储。</base:Paragraphs>
+      <base:Paragraphs num="0070">在这种情况下,当用户U在服务提供站点的预约页面上进行用于利用第一服务的手续时,确定部432确定满足用户U在第一服务中指定的利用条件的至少一部分的、能够利用与第一服务相关联地存储在关联服务数据库中的第二服务的会员基础系统3。 确定部432例如在用户U在第一服务中指定的多个利用条件中,确定能够利用满足利用场所以及利用期间的第二服务的会员基础系统3。 然后,通知部436将确定部432确定出的表示能够利用第二服务的会员基础系统3的信息通知给通信终端1。 通知部436也可以与表示能够利用第二服务的会员基础系统3的信息一起,通知表示在第二服务中能够利用的优惠的信息。 通过这样,信息处理装置4能够促进能够经由会员基础系统3利用的服务的利用。</base:Paragraphs>
+      <base:Paragraphs num="0071">接下来,对显示于通信终端1的显示画面进行说明。 图7、图8以及图9是示出显示于通信终端1的显示画面的一例的图。 当用户U使用通信终端1访问已注册的A公司的会员基础系统3a时,通信终端1显示如图7(a)所示的A会员基础站点的显示画面。 在图7(a)所示的A会员基础网站的显示画面中,显示有显示了在会员基础系统3a中能够利用的服务的一览的画面。 图7(a)所示的A会员基础网站的显示画面是用户U以与会员基础系统3a对应的基础用用户ID登录的状态。</base:Paragraphs>
+      <base:Paragraphs num="0072">例如,当用户U在图7(a)所示的基于A成员的站点的显示屏幕上执行按下“储物柜预约”按钮的操作时,通信终端1显示图7(b)所示的基于A成员的站点的显示屏幕。 在图7(b)所示的A基于会员的网站的显示画面上,显示有输入服务的使用条件的画面。</base:Paragraphs>
+      <base:Paragraphs num="0073">当用户U在图7(b)所示的A基于成员的站点的显示屏幕上输入服务的使用条件并执行按下“搜索”按钮的操作时,通信终端1从A基于成员的站点转换到信息提供站点,并显示如图7(c)所示的信息提供站点的显示屏幕。 在图7(c)所示的信息提供网站的显示画面上,作为信息处理装置4的通知部436通知的、表示满足用户U指定的使用条件的会员基础系统3的信息,显示有建议在Z会员基础网站预约储物柜的消息。</base:Paragraphs>
+      <base:Paragraphs num="0074">例如,当用户U在图7(c)所示的信息提供网站的显示画面中按下“从Z会员基础网站进行预约”按钮时,信息处理装置4的通知部436经由会员基础系统3z将用于访问服务提供网站的预约页面的地址信息通知给通信终端1。 用户U使用通信终端1,经由会员基础系统3访问所通知的地址信息所示的预约页面,在所访问的预约页面中进行利用服务的手续。 这样,用户U能够省去寻找满足利用条件的服务的工夫。</base:Paragraphs>
+      <base:Paragraphs num="0075">通知部436也可以将各种信息通知给通信终端1。 例如,通知部436也可以在确定部432确定了多个会员基础系统3的情况下,通知用于使用户U能够从多个会员基础系统3中选择一个会员基础系统3的信息。 具体而言,在确定部432确定了多个会员基础系统3的情况下,通知部436可以将在满足用户U指定的使用条件的多个会员基础系统3各自中能够使用的服务的内容通知给通信终端1。</base:Paragraphs>
+      <base:Paragraphs num="0076">更具体而言,在第二确定部434从所确定的多个会员基础系统3分别取得了与在所确定的会员基础系统3中能够利用的服务相关的信息的情况下,通知部436也可以将第二确定部434所取得的与服务相关的信息作为服务的内容通知给通信终端1。 在图8(a)所示的信息提供网站的显示画面中,作为在满足用户U指定的使用条件的多个会员基础系统3各自中能够使用的服务的内容,按每个会员基础系统3显示在东京站周边能够使用的储物柜的数量。 通过这样,用户U能够从满足使用条件的多个会员基础系统3中选择条件好的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0077">然后,当用户U在图8(a)所示的信息提供站点的显示画面中按下与用户U选择出的会员基础系统3z对应的“预约”按钮时,通知部436经由用户U选择出的会员基础系统3z向通信终端1通知用于访问服务提供站点的预约页面的地址信息,使通信终端1显示服务提供站点的预约页面。 用户U使用通信终端1,基于被通知的地址信息,经由会员基础系统3z访问服务提供网站的预约页面,由此能够在预约页面中进行利用服务的手续。</base:Paragraphs>
+      <base:Paragraphs num="0078">另外,存在未登记用户U的会员基础系统3满足用户U指定的使用条件的情况。 在该情况下,用户U为了经由满足使用条件的会员基础系统3来使用服务,考虑在未注册的会员基础系统3所管理的会员基础网站中进行会员注册。 因此,通知部436也可以将表示还包括用户U无法利用服务的基于会员的系统3的多个基于会员的系统3中的、满足用户U指定的利用条件的基于会员的系统3的信息通知给通信终端1。 在该情况下,第1确定部433确定包括未登记用户U的会员基础系统3在内的其他会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0079">在图8(b)所示的信息提供网站的显示画面中,显示有表示包含未登记用户U的会员基础系统3b（B会员基础网站）的、满足用户U指定的使用条件的多个会员基础系统3的信息。 在图8(b)所示的示例中,当用户U执行按下与B基于成员的站点相对应的成员注册按钮的操作时,通知单元436向通信终端1通知用于访问用于执行B基于成员的站点的成员注册的成员注册页面的地址信息,并且使通信终端1显示B基于成员的站点的成员注册页面。</base:Paragraphs>
+      <base:Paragraphs num="0080">用户U使用通信终端1,基于通知的地址信息访问B会员基础网站的会员注册页面,在会员注册页面中进行会员注册的手续。 然后,用户U使用通信终端1,经由会员基础系统3z访问服务提供网站的预约页面,在访问的预约页面中进行预约服务的手续。 这样,用户U能够省去寻找满足使用条件的会员基础系统3的工夫。</base:Paragraphs>
+      <base:Paragraphs num="0081">通知部436也可以将生成部435生成的地图作为表示满足用户U指定的使用条件的会员基础系统3的信息通知给通信终端1。 在图9(a)所示的信息提供网站的显示画面上显示有“在地图上确认”按钮,当用户U进行按下该按钮的操作时,通信终端1显示如图9(b)所示的信息提供网站的显示画面。 在图9(b)所示的信息提供网站的显示画面上显示有信息处理装置4的生成部435生成的地图。 图9(b)所示的圆圈标记的对象表示服务的利用场所。</base:Paragraphs>
+      <base:Paragraphs num="0082">另外,在图9(b)所示的信息提供网站的显示画面上,显示有按照满足用户U指定的利用条件的每个会员基础网站进行了颜色区分的地图。 这样,生成部435也可以生成按每个会员基础系统3进行了颜色区分的地图。 具体而言,生成部435也可以生成以按每个会员基础系统3而不同的方式显示服务的利用场所的地图。 这样,用户U能够掌握在各个会员基础系统3中能够利用的服务的内容。</base:Paragraphs>
+      <base:Paragraphs num="0083">另外,如图9(b)所示,当用户U进行触摸地图中显示的任意的圆形标记的对象的操作时,通信终端1显示该圆形标记的对象所表示的服务的利用场所的利用费用和在该利用场所进行预约的“预约”按钮。 以这种方式,生成单元435可以针对服务的每个使用地点生成显示使用地点处的服务的内容的地图。 这样,即使在满足使用条件的会员基础系统3中能够使用的服务的使用场所存在多个的情况下,用户U也能够容易地搜索条件良好的服务的使用场所。</base:Paragraphs>
+      <base:Paragraphs num="0084">另外,在图9(b)所示的信息提供网站的显示画面上显示有东京站周边的行情。 这样,生成部435也可以生成地图,该地图显示了基于在多个会员基础系统3各自中能够利用的服务的信息。 在该情况下,第二确定部434也可以基于从所确定的会员基础系统3取得的与服务相关的信息（利用费用）,来确定基于服务的信息（东京站周边的行情）。</base:Paragraphs>
+      <base:Paragraphs num="0085">另外,通知部436也可以使显示了在用户U从满足用户U指定的使用条件的会员基础系统3中选择出的会员基础系统3中能够使用的服务的使用场所的映射显示于通信终端1。 在图9(c)所示的信息提供网站的显示画面上,针对满足用户U指定的使用条件的每个基于会员的网站设置有复选框。 例如,当用户U执行按下“在地图中确认在所选择的站点处可用的储物柜”按钮的操作时,显示地图,在该地图中显示了在与选中的复选框相对应的B会员基础站点处可用的服务的使用位置。 这样,生成部435也可以生成显示了在用户U选择出的会员基础系统3中能够利用的服务的利用场所的地图。 生成部435例如按照满足用户U指定的使用条件的每个会员基础系统3,生成显示在该会员基础系统3中能够使用的服务的使用场所的层,生成将生成的层重叠显示在地形图上的地图。</base:Paragraphs>
+      <base:Paragraphs num="0086">[本实施方式中的信息处理系统S的处理流程]接着,对信息处理系统S1的处理流程进行说明。 图10是表示本实施方式中的信息处理系统S1的处理流程的时序图。 本处理以用户U使用通信终端1访问进行了会员注册的多个会员基础网站中的任一个,并进行了在该会员基础网站中选择能够利用的服务的操作为契机而开始（S1）。</base:Paragraphs>
+      <base:Paragraphs num="0087">通信终端1将表示用户U选择的服务的服务信息发送到对会员基础网站进行管理的会员基础系统3（S2）。 当获取通信终端1发送的服务信息时,会员基础系统3将该服务信息、与该会员基础系统3相对应的会员基础ID、以及登记在该会员基础系统3中的基础用用户ID发送到信息处理装置4（S3）。</base:Paragraphs>
+      <base:Paragraphs num="0088">信息处理装置4的服务信息获取单元431获取由会员基础系统3发送的服务信息、会员基础ID和基础用户ID。 第一确定部433基于服务信息获取部431获取到的会员基础设施ID和基础设施用用户ID来确定用户U（S4）。 具体地,第一指定单元433指定与由服务信息获取单元431获取的会员基础设施ID和基础设施用户ID相关联地存储在用户管理数据库中的管理用户ID。</base:Paragraphs>
+      <base:Paragraphs num="0089">第一确定部433若确定用户U,则确定登记有用户U的会员基础系统3（S5）。 具体而言,第一确定部433在用户管理数据库中,除了确定服务信息取得部431取得的会员基础ID所示的会员基础系统3之外,还确定表示登记有在S4中确定的管理用用户ID所示的用户U的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0090">第一确定部433若确定用户U所注册的会员基础系统3,则确定用户U能够利用服务的会员基础系统3（S6）。 具体而言,第1确定部433在系统管理数据库中,确定在S5中确定的会员基础系统3中的、表示能够利用服务信息取得部431取得的服务信息所示的服务的会员基础系统3。</base:Paragraphs>
+      <base:Paragraphs num="0091">第二确定部434将表示用户U指定的使用条件的条件信息分别发送至多个可服务利用系统（服务信息取得部431取得的会员基础ID所表示的会员基础系统3以及S6中第一确定部433确定的会员基础系统3）（S7）。 多个可使用服务的系统中的每一个搜索满足由从信息处理设备4获取的条件信息指示的使用条件的服务,并且将指示搜索结果的结果信息发送到信息处理设备4（S8、S9）。</base:Paragraphs>
+      <base:Paragraphs num="0092">第二确定部434将多个可利用服务的系统中的、发送了表示能够利用满足用户U指定的利用条件的服务的检索结果的会员基础系统3确定为满足用户U指定的利用条件的会员基础系统3（S10）。 然后,通知部436将表示第二确定部434确定出的会员基础系统3的信息通知给通信终端1（S11）。</base:Paragraphs>
+      <base:Paragraphs num="0093">如以上说明的那样,信息处理系统S1基于获取到的会员基础ID和基础用用户ID,从作为确定对象的多个会员基础系统3中确定登记有用户U的其他会员基础系统3,并且确定用户U能够利用服务的会员基础系统3。 然后,信息处理系统S1将表示包括取得的会员基础ID所示的会员基础系统3和确定出的会员基础系统3的多个会员基础系统3中的、满足用户U指定的使用条件的会员基础系统3的信息通知给用户U使用的通信终端1。 这样,信息处理系统S1能够向用户U提供表示能够利用满足用户U的利用条件的服务的会员基础系统3的信息。 由此,用户U能够节省寻找能够利用满足自身的利用条件的服务的会员基础系统3的工夫。</base:Paragraphs>
+      <base:Paragraphs num="0094">以上,使用实施方式对本发明进行了说明,但本发明的技术范围并不限定于上述实施方式所记载的范围,能够在其主旨的范围内进行各种变形及变更。 例如,设备的分散和集成的具体实施例不限于上述实施例,并且其全部或一部分可以以任意单元在功能上或物理上分散和集成。 另外,通过多个实施方式的任意组合而产生的新的实施方式也包含在本发明的实施方式中。 通过组合而产生的新的实施方式的效果同时具有原来的实施方式的效果。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0095">1通信终端,2服务提供服务器,3会员基础系统,4信息处理装置,41通信部,42存储部,43控制部,431服务信息获取部,432确定部,433第1确定部,434第2确定部,435生成部,436通知部,437选择信息获取部,S信息处理系统。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="28" wi="72" file="2020091726_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="98" wi="72" file="2020091726_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="108" wi="67" file="2020091726_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="107" wi="62" file="2020091726_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="108" wi="25" file="2020091726_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="40" wi="68" file="2020091726_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="117" wi="59" file="2020091726_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="78" wi="61" file="2020091726_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="117" wi="59" file="2020091726_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="112" wi="79" file="2020091726_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>表示用户经由会员基础系统而利用的服务的信息； 会员基础信息,用于识别所述会员基础系统； 作为用于识别所述用户的信息而登记于所述会员基础系统的用户识别信息； 确定部,其基于所述服务信息取得部取得的所述会员基础信息和所述用户识别信息,从作为确定对象的多个会员基础系统中确定登记有所述用户的与所述会员基础系统不同的其他会员基础系统,并且确定所述用户能够利用所述服务的会员基础系统；</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的通知装置,其中,所述服务信息获取单元还获取指示所述使用条件的信息,并且所述通知单元向所述通信终端通知指示所述多个基于成员的系统中的满足由所述服务信息获取单元获取的所述使用条件的基于成员的系统的信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的通知装置,其特征在于,所述服务信息取得部从所述通信终端访问的所述会员基础系统取得表示所述服务的信息、与所述会员基础系统对应的所述会员基础信息、以及与登记于所述会员基础系统的所述用户对应的所述用户识别信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1至3中任一项所述的通知装置,其特征在于,所述通知部将在满足所述使用条件的所述多个会员基础系统各自中能够使用的所述服务的内容通知给所述通信终端。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1至4中任一项所述的通知装置,还包括地图生成单元,所述地图生成单元生成地图,所述地图显示能够经由满足所述使用条件的基于会员的系统使用的服务的使用位置,其中,所述通知单元将由所述地图生成单元生成的所述地图作为指示满足所述使用条件的基于会员的系统的信息通知给所述通信终端。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求5所述的通知装置,其中,所述地图生成部生成以针对每个所述基于会员的系统而不同的方式显示所述服务的利用场所的所述地图。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1至6中任一项所述的通知装置,其特征在于,还具有选择信息取得部,所述选择信息取得部取得表示用户从满足所述使用条件的基于会员的系统中选择出的一个基于会员的系统的信息,所述通知部经由所述用户选择出的所述一个基于会员的系统向所述通信终端通知用于访问受理所述服务的预约的预约页面的地址信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1至7中任一项所述的通知装置,其特征在于,所述确定部确定包含所述用户未注册的基于会员的系统的所述其他基于会员的系统,所述通知部将表示还包含无法利用服务的基于会员的系统的所述多个基于会员的系统中的、满足所述用户指定的利用条件的基于会员的系统的信息通知给所述通信终端。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>由计算机执行, 表示用户经由会员基础系统而利用的服务的信息； 会员基础信息,用于识别所述会员基础系统； 作为用于识别所述用户的信息而登记于所述会员基础系统的用户识别信息； 基于取得的所述会员基础信息和所述用户识别信息,从作为确定对象的多个会员基础系统中确定登记有所述用户的与所述会员基础系统不同的其他会员基础系统,并且确定所述用户能够利用所述服务的会员基础系统的步骤；</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

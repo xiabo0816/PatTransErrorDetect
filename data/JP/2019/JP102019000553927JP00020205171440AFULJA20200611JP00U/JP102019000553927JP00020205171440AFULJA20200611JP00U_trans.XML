@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000553927JP00020205171440AFULJA20200611JP00U.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020517144" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020517144</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020517144</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000553927</base:DocNumber>
+        <base:Date>20180308</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019553927</base:DocNumber>
+        <base:Date>20180308</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>62/478,045</base:DocNumber>
+        <base:Date>20170329</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002017000478045</base:DocNumber>
+        <base:Date>20170329</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20090101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>8</business:MainGroup>
+        <business:Subgroup>22</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W   8/22        20090101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20180101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>4</business:MainGroup>
+        <business:Subgroup>40</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W   4/40        20180101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20090101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>24</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W  24/00        20090101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20090101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>W</business:Subclass>
+        <business:MainGroup>88</business:MainGroup>
+        <business:Subgroup>04</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04W  88/04        20090101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H04W8/22</business:FI>
+      <business:FI type="secondary">H04W4/40</business:FI>
+      <business:FI type="secondary">H04W24/00</business:FI>
+      <business:FI type="secondary">H04W88/04</business:FI>
+      <business:FClass>
+        <business:FTerm>5K067AA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067AA21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067BB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067EE25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5K067LL01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5K067</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">V2X通信设备及其数据通信方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エルジー  エレクトロニクス  インコーポレイティド</base:Name>
+            <base:RegisteredNumber>502032105</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>KR</base:WIPOST3Code>
+              <base:Text>大韓民国，ソウル，ヨンドゥンポ－ク，ヨイ－デロ，128</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>キム  ソヨン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>KR</base:WIPOST3Code>
+              <base:Text>大韓民国，ソウル  06772，ソチョ－ク，ヤンジェ－デロ  11－ギル，19，エルジー  エレクトロニクス  インコーポレイティド，アイピー  センター</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>青木  篤</base:Name>
+            <base:RegisteredNumber>100099759</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>三橋  真二</base:Name>
+            <base:RegisteredNumber>100123582</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>河合  章</base:Name>
+            <base:RegisteredNumber>100165191</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>南山  知広</base:Name>
+            <base:RegisteredNumber>100114018</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>竹本  実</base:Name>
+            <base:RegisteredNumber>100159259</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>KR2018002785</base:DocNumber>
+        <base:Date>20180308</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018182198</base:DocNumber>
+        <base:Date>20181004</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>39</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>公开了一种V2X通信设备的数据通信方法。 所述数据通信方法包括：发送用于收集关于错误检测(MBD)的信息的MBD信息请求消息,从外部V2X通信设备接收作为对MBD信息请求消息的响应消息的MBD信息响应消息,其中,所述MBD信息响应消息包括MBD信息,所述MBD信息包括关于外部V2X通信设备的错误的信息,并且基于所述MBD信息生成证书丢弃列表(CRL)信息。 这里,V2X通信设备可具有V2X通信设备作为用于生成CRL信息的错误操作的代理(MBB)操作所需的预定安全级别。 图14</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="51" wi="70" file="2020517144_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及用于V2X通信的设备和数据通信方法,并且更具体地,涉及V2X通信设备上的故障的检测和管理。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">近来,车辆（vehicle）是机械工程的中心,是融合电气、电子、通信技术的复合产业技术的结果,在这方面,车辆也被称为智能车。 智能车将驾驶员、车辆、交通基础设施等连接起来,不仅提供传统意义上的交通安全/解复杂等车辆技术,今后还将提供多种用户定制的移动服务。 可使用车辆到一切（V2X）通信技术来实现这种连接性。 提供车辆连接性的系统可以被称为连接的车辆系统。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0003">随着车辆的连接性的增强和增加,作为V2X通信的目标的服务的数量和类型也在增加。 此外,V2X通信需要短的响应延迟,以便提高消息的可靠性和准确性。 另一方面,信道是有限的,并且需要有效的V2X通信方法。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0004">为了解决上述技术问题,根据本发明的实施例的用于V2X通信设备的数据通信方法可包括：发送用于收集关于错误检测(MBD)的信息的MBD信息请求消息,从外部V2X通信设备接收作为对MBD信息请求消息的响应消息的MBD信息响应消息,其中,MBD信息响应消息包括包括关于外部V2X通信设备的错误的信息的MBD信息,并且基于MBD信息生成CRL信息,其中,V2X通信设备可具有V2X通信设备作为用于生成CRL信息的错误代理(MBB)操作所需的预定安全级别。</base:Paragraphs>
+        <base:Paragraphs num="0005">根据实施例,MBD信息请求消息可包括用于通知V2X通信设备对应于MBB的MBB公告信息。</base:Paragraphs>
+        <base:Paragraphs num="0006">作为实施例,可以周期性地发送MBD信息请求消息。</base:Paragraphs>
+        <base:Paragraphs num="0007">作为实施例,还可包括当V2X通信设备以第一模式操作时将CRL信息发送到CRL分配设备的步骤,其中CRL信息可由CRL分配设备广播。</base:Paragraphs>
+        <base:Paragraphs num="0008">作为实施例,将所述CRL信息发送到所述CRL分配设备的步骤可包括：通过基础设施的V2X通信设备将所述CRL信息发送到所述CRL分配设备,或者通过长距离网络将所述CRL信息直接发送到所述CRL分配设备。</base:Paragraphs>
+        <base:Paragraphs num="0009">根据实施例,还可包括当V2X通信设备在第二模式中操作时广播CRL信息的步骤。</base:Paragraphs>
+        <base:Paragraphs num="0010">根据本发明的实施例的V2X通信设备可包括被配置为存储数据的安全/非安全存储设备、被配置为发送和接收无线电信号的RF单元、以及被配置为控制RF单元的处理器,其中,处理器可被配置为发送用于收集关于故障检测(MBD)的信息的MBD信息请求消息,并且可被配置为从外部V2X通信设备接收作为对MBD信息请求消息的响应消息的MBD信息响应消息,其中,MBD信息响应消息可包括包括关于外部V2X通信设备的故障的信息的MBD信息,并且可被配置为基于MBD信息生成CRL信息,其中,V2X通信设备可具有V2X通信设备作为用于生成CRL信息的故障代理(MBB)操作所需的预定安全级别。</base:Paragraphs>
+        <base:Paragraphs num="0011">根据实施例,MBD信息请求消息可包括用于通知V2X通信设备对应于MBB的MBB公告信息。</base:Paragraphs>
+        <base:Paragraphs num="0012">作为实施例,可以周期性地发送MBD信息请求消息。</base:Paragraphs>
+        <base:Paragraphs num="0013">在实施例中,当V2X通信设备以第一模式操作时,处理器还可将CRL信息发送到CRL分配设备,其中CRL信息可由CRL分配设备广播。</base:Paragraphs>
+        <base:Paragraphs num="0014">作为实施例,将CRL信息发送到CRL分配设备可以包括通过基础设施的V2X通信设备将CRL信息发送到CRL分配设备,或者通过长距离网络将CRL信息直接发送到CRL分配设备。</base:Paragraphs>
+        <base:Paragraphs num="0015">在实施例中,处理器还可被配置为当V2X通信设备以第二模式操作时广播CRL信息。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0016">移动车辆的V2X通信设备可用作收集故障信息和/或生成CRL信息的故障代理,并且可执行有效的故障检测和管理。</base:Paragraphs>
+        <base:Paragraphs num="0017">V2X通信设备可直接发送CRL信息而不通过用于广播CRL信息的单独分发设备,并且接收CRL信息的另一V2X通信设备可从V2X通信中快速排除检测到故障的V2X通信设备。</base:Paragraphs>
+        <base:Paragraphs num="0018">V2X通信设备可通过诸如蜂窝网络的长距离网络连接将CRL信息传送到分发设备,并且即使V2X通信设备不在连接到分发设备的基础设施的V2X通信设备的通信范围内,也可将CRL信息传送到分发设备。</base:Paragraphs>
+        <base:Paragraphs num="0019">以下,关于本发明的效果,与对结构的说明一起进一步进行说明。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0020">
+        <base:FigureReference num="0001">图0001示出了根据本发明一个实施例的智能交通系统。</base:FigureReference>
+        <base:FigureReference num="0002">图0002示出了根据本发明的实施例的V2X通信系统的信任消息的通信方法。</base:FigureReference>
+        <base:FigureReference num="0003">图0003示出了根据本发明的实施例的V2X通信设备之间的通信。</base:FigureReference>
+        <base:FigureReference num="0004">图0004例示了根据本发明的实施例的V2X通信设备的协议栈。</base:FigureReference>
+        <base:FigureReference num="0005">图0005示出了根据本发明的第一实施例的用于提供安全服务的V2X通信设备的协议栈。</base:FigureReference>
+        <base:FigureReference num="0006">图0006示出了根据本发明的实施例的由V2X通信设备执行安全处理的方法。</base:FigureReference>
+        <base:FigureReference num="0007">图0007例示了根据本发明的实施方式的信任层的结构。</base:FigureReference>
+        <base:FigureReference num="0008">图0008例示了根据本发明的实施方式的在终端实体中操作的V2X通信设备的自举处理。</base:FigureReference>
+        <base:FigureReference num="0009">图0009示出根据本发明的实施例的在终端实体中操作的V2X通信设备的故障报告过程。</base:FigureReference>
+        <base:FigureReference num="0010">图0010示出根据本发明的第二实施例的用于提供安全服务的V2X通信设备的协议栈。</base:FigureReference>
+        <base:FigureReference num="0011">图0011例示了根据本发明的实施方式的V2X通信系统的可靠性模型。</base:FigureReference>
+        <base:FigureReference num="0012">图0012例示了根据本发明的实施方式的V2X通信系统的可靠性模型中的信息流。</base:FigureReference>
+        <base:FigureReference num="0013">图0013例示了根据本发明的实施方式的V2X通信设备的安全生命周期。</base:FigureReference>
+        <base:FigureReference num="0014">图0014示出了根据本发明的实施例的添加MBB的V2X通信系统。</base:FigureReference>
+        <base:FigureReference num="0015">图0015示出了根据本发明的实施例的由V2X通信设备通过远程通信网络或短距离通信网络执行V2X通信的方法。</base:FigureReference>
+        <base:FigureReference num="0016">图0016示出了根据本发明的实施例的由V2X通信设备收集和提供MBD信息的方法。</base:FigureReference>
+        <base:FigureReference num="0017">图0017示出了根据本发明一个实施例的在MBB CO模式下操作的V2X通信设备收集和提供MBD信息的方法。</base:FigureReference>
+        <base:FigureReference num="0018">图0018示出了根据本发明的实施例的由在MBB CB模式下操作的V2X通信设备收集和提供MBD信息的方法。</base:FigureReference>
+        <base:FigureReference num="0019">图0019示出根据本发明的实施例的V2X通信设备发送的V2X消息以通知V2X通信设备对应于MBB。</base:FigureReference>
+        <base:FigureReference num="0020">图0020示出根据本发明的另一实施例的V2X通信设备发送的V2X消息以通知V2X通信设备对应于MBB。</base:FigureReference>
+        <base:FigureReference num="0021">图0021示出了根据本发明的实施例的V2X通信设备发送以提供MBD信息的V2X消息。</base:FigureReference>
+        <base:FigureReference num="0022">图0022示出了根据本发明的实施例的在MBB CO模式下操作的V2X通信设备执行V2X通信的方法。</base:FigureReference>
+        <base:FigureReference num="0023">图0023例示了根据本发明的实施例的V2X通信设备。</base:FigureReference>
+        <base:FigureReference num="0024">图0024例示了根据本发明的实施例的V2X通信设备的通信方法。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0021">对本发明的优选实施例进行具体说明,其例子在附图中示出。 参考附图的以下详细描述旨在解释本发明的优选实施例,而不是仅示出可以根据本发明的实施例实现的实施例。 以下详细描述包括用于提供对本发明的透彻理解的细节,但是本发明不需要所有这些细节。 本发明不应与下文描述的实施例中的每一个单独使用。 多个实施例或所有实施例可以一起使用,并且某些实施例可以组合使用。</base:Paragraphs>
+      <base:Paragraphs num="0022">在本发明中使用的大部分术语从在该领域中广泛使用的一般术语中选择,但一部分术语由申请人任意选择,其含义根据需要在以下的说明中详细叙述。 因此,应基于术语的预期含义而不是基于术语的简单名称或含义来理解本发明。</base:Paragraphs>
+      <base:Paragraphs num="0023">本发明涉及一种V2X通信设备,其中,V2X通信设备包括在ITS（智能传输系统）系统中,并且可执行ITS系统的全部或部分功能。 V2X通信设备可执行车辆与车辆、车辆与基础设施、车辆与自行车、移动设备等之间的通信。 在实施例中,V2X通信设备可对应于车辆的车载单元OBU或包括在车载单元OBU中。 OBU也可以被称为OBE（On Board Equipment：板上设备）。 V2X通信设备可对应于或包括在基础设施的路侧单元(RSU)中。 RSU也可以被称为路侧设备(RSE)。 可选地,V2X通信设备可对应于或包括在ITS站中。 执行V2X通信的任何OBU、RSU、移动设备等都可以被称为ITS站。 可替选地,V2X通信设备可对应于或包括在车辆中的无线接入(WAVE)设备中。 V2X通信设备也可以简称为V2X设备。</base:Paragraphs>
+      <base:Paragraphs num="0024">图1示出了根据本公开的实施例的智能交通系统。</base:Paragraphs>
+      <base:Paragraphs num="0025">智能交通系统（C-ITS,Cooperative Intelligent Transport System）在现有的交通系统中增加了信息通信、控制、电子技术,提高了交通运营管理的效率,提高了用户的便利和安全。 在智能交通系统中,除了车辆之外,交通基础设施系统（诸如交通灯和电光板）也执行V2X通信,并且这样的基础设施可以被简称为RSU。</base:Paragraphs>
+      <base:Paragraphs num="0026">如图1所示,在智能交通系统中,包括V2X通信设备的行人装置1010、RSU 1020以及车辆1030、1040和1050可以彼此通信。 作为实施例,V2X通信可基于IEEE 802.11 p的通信技术来执行。 基于IEEE 802.11 p的通信技术也可以被称为专用短程通信(DSRC)。 作为实施例,基于IEEE 802.11 p的V2X通信可以是在约600m的范围内的短距离通信技术。 V2X通信可广播CAM（协同感知消息）或DENM（去中心化Enviriomental Notification Message）。</base:Paragraphs>
+      <base:Paragraphs num="0027">CAM分布在ITS网络中,并且提供关于ITS站的存在、位置和通信状态中的至少一个的信息。 DENM可以提供关于感测到的事件的信息。 DENM可提供关于ITS站感测到的任何驾驶状况或事件的信息。 例如,DENM可以提供关于诸如紧急电子刹车灯、车辆事故、车辆问题、交通状况等情况的信息。</base:Paragraphs>
+      <base:Paragraphs num="0028">在图1中,车辆1030和车辆1040在RSU 1020的通信覆盖范围内。 但是,车辆1050存在于RSU 1020的通信覆盖范围外,因此无法与RSU直接通信。</base:Paragraphs>
+      <base:Paragraphs num="0029">图2示出根据本发明的实施例的V2X通信系统的信任消息的通信方法。</base:Paragraphs>
+      <base:Paragraphs num="0030">在图2的实施例中,V2X通信系统可以是V2X通信设备（例如,ITS站或WAVE设备）安全地发送和接收用于V2X通信的消息所需的安全系统。 V2X通信系统可包括用于可靠消息通信的一个或多个实体。 例如,如图所示,V2X通信系统可以包括根认证机构（根CA）、注册机构（EA）、授权机构（AA）和/或至少一个V2X通信设备。 作为实施例,V2X通信设备可对应于OBE或RSE。</base:Paragraphs>
+      <base:Paragraphs num="0031">根CA可以向EA和AA提供注册机密可以被颁发的证明。 这样的根CA可以定义EA和AA的权限和义务,认证EA和AA,并检查EA和AA的义务履行。 如上所述,EA和AA可以由根CA控制。</base:Paragraphs>
+      <base:Paragraphs num="0032">EA是负责管理注册凭证的生命周期的实体,并且可认证V2X通信设备并授权对V2X通信的访问。 EA有时被称为长期认证机构（Long-term Certificate Authority）。 这样的EA可以发布注册证书(EC)。 V2X通信设备可具有EC,以认证发送V2X通信设备是否是合适的V2X发送设备。 EC也可以称为长期证书(LTC)。</base:Paragraphs>
+      <base:Paragraphs num="0033">AA是负责监视授权票(AT)的发放和使用的实体,并且可以向V2X通信设备提供能够使用特定V2X服务的权威证明。 AA也可以称为短期证书颁发机构（Short-term Certificate Authority）或匿名证书颁发机构（Psuedonum Certificate Authority）。 这样的AA可以发出AT。 V2X通信设备可具有AT以验证V2X通信设备接收的V2X消息（例如,CAM、DENM）。 AT可以被称为短期证书（Short-term Certificate）或匿名证书（Psuedonum Certificate,PC）。</base:Paragraphs>
+      <base:Paragraphs num="0034">V2X通信设备可从EA获得访问V2X通信的权限,并且可协商从AA调用V2X服务的权限。 例如,V2X通信设备可向EA请求EC(LCT)并从EA获得EC。 另外,V2X通信设备可从AA请求AT(PC)并从AA获取AT。 此外,V2X通信设备可发送和接收V2X消息。 例如,V2X通信设备可使用EC和AT与另一V2X通信设备通信信任消息。 另外,V2X通信设备可将接收的V2X消息发送到另一V2X通信设备。 在本说明书中,发送V2X消息的V2X通信设备被称为发送V2X通信设备,接收V2X消息的V2X通信设备被称为接收V2X通信设备,并且将接收的V2X通信设备转发到另一V2X通信设备的V2X通信设备被称为传递V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0035">在包括上述实体的V2X通信系统（安全系统）中的V2X通信设备执行信任消息通信的方法将在下面参考附图详细描述。</base:Paragraphs>
+      <base:Paragraphs num="0036">图3示出根据本发明的实施例的V2X通信设备之间的通信。</base:Paragraphs>
+      <base:Paragraphs num="0037">在连接的车辆系统中,安装在车辆、基础设施和行人的个性化装置中的V2X通信设备可包括图3中所示的设备配置。</base:Paragraphs>
+      <base:Paragraphs num="0038">在图3的实施例中,包括在车辆的V2X通信设备中的配置如下。 车辆的V2X通信设备可包括车载设备(OBE)。 作为实施例,OBE可以包括多个天线系统和OBE控制过程电子控制单元(ECU)。 天线系统的配置可以被集成或单独提供,或者可以以一些组合的形式被包括。</base:Paragraphs>
+      <base:Paragraphs num="0039">GNSS（Global Navigation Satellite Systems：全球导航卫星系统）系统：使用从人造卫星发送的电波,计算在整个地球移动的物体的位置、高度值、速度的卫星导航系统。 这可以对应于包括在车辆的V2X通信设备中的用于识别车辆的位置信息的天线及其子系统。</base:Paragraphs>
+      <base:Paragraphs num="0040">专用短程通信(DSRC)无线电子系统：用于根据DSRC协议发送/接收的天线和相应子系统。</base:Paragraphs>
+      <base:Paragraphs num="0041">蜂窝子系统：用于蜂窝数据通信的天线和相关子系统。</base:Paragraphs>
+      <base:Paragraphs num="0042">广播子系统：用于发送/接收广播数据的天线和相应的子系统。</base:Paragraphs>
+      <base:Paragraphs num="0043">OBE控制过程ECU：OBE控制过程ECU可以简称为控制器或处理器。 控制器可以处理从多个异构系统接收的数据消息,并控制车辆中的另一ECU以执行适当的操作。 控制器可以执行这样的数据处理和用于控制/驱动车辆的应用。 此外,控制器可处理从车辆中的另一电子设备或传感器接收的感测数据,并将其发送到外部V2X通信设备/车辆。 作为实施例,车辆中的所有信息可以被转换成可以经由控制器共享的标准化格式。 如图3所示,执行安全应用（Safety Application）,能够与车辆内的CAN、Ethernet等总线收发信息。 另外,能够通过车辆的音响、显示器等DVI（Driver Vehicle Interface）向用户提供信息。</base:Paragraphs>
+      <base:Paragraphs num="0044">如上所述配置的V2X通信设备可与诸如基础设施、行人和云/服务器的支持系统以及另一车辆通信。</base:Paragraphs>
+      <base:Paragraphs num="0045">此外,在图3的实施例中,包括在基础设施的V2X通信设备中的配置如下。 基础设施的V2X通信设备可包括路边设备(RSE)。 RSE可以包括多个天线系统和控制器（处理器）,类似于车辆的OBE。 天线系统的配置可以被集成或单独提供,或者可以以一些组合被包括。 同时,RSE的控制器可以执行与OBE的控制器相同或相似的操作。 例如,RSE的控制器可以处理从多个异构系统接收的数据消息,并控制基础设施中的另一ECU以执行适当的操作。</base:Paragraphs>
+      <base:Paragraphs num="0046">RSE可以接收流量控制器的信息并与车辆通信。 RSE可以是固定装置,并且可以后端连接以用作提供商。 然而,根据实施例,RSE可以从车辆收集信息并将其再次发送,使得RSE不仅可以用作提供者设备,而且还可以用作用户设备。</base:Paragraphs>
+      <base:Paragraphs num="0047">此外,在图3的实施例中,包括在行人个性化装置（VRU装置）的V2X通信装置中的配置如下。 VRU装置的V2X通信装置可以包括多个天线系统和控制器（处理器）。 天线系统的配置可以被集成或单独提供,或者可以以一些组合被包括。 同时,VRU装置的控制器可以执行与OBE的控制器相同或相似的操作。 例如,VRU装置的控制器可以处理从多个不同系统接收的数据消息,并控制个性化装置中的另一ECU以执行适当的操作。 此外,控制器可以执行用于处理数据和控制/驱动个性化设备的应用。 此外,控制器可以处理从个性化设备中的另一电子设备或传感器接收的感测数据,并将其发送到外部V2X通信设备。 如图3所示,可以执行安全应用,并且可以向个性化设备发送信息和从个性化设备接收信息。 此外,可以通过诸如个性化装置的音频和显示器的VRU接口向用户提供信息。</base:Paragraphs>
+      <base:Paragraphs num="0048">如图3所示,车辆之间的通信可以被称为V2V通信,车辆与基础设施之间的通信可以被称为V2I通信或I2V通信,并且车辆与行人个性化设备之间的通信可以被称为V2P通信或P2V通信。 例如,使用DSRC的车辆之间的通信可以被称为DSRC V2V通信,使用DSRC的车辆与基础设施之间的通信可以被称为DSRC V2I通信或DSRC I2V通信,并且使用DSRC的车辆与行人个性化设备之间的通信可以被称为DSRC V2P通信或DSRC P2V通信。 同时,车辆与另一V2X通信设备之间的通信可被统称为V2X通信,并且V2X通信设备与另一V2X通信设备之间的通信可被统称为X2X。</base:Paragraphs>
+      <base:Paragraphs num="0049">图4示出根据本发明的实施例的V2X通信设备的协议栈。 具体地,图4示出根据本发明的实施例的美国(US)或欧洲(EU)的V2X通信设备的协议栈。</base:Paragraphs>
+      <base:Paragraphs num="0050">图3中所示的V2X通信设备可通过使用图4中所示的用于V2X通信的通信协议来彼此通信。</base:Paragraphs>
+      <base:Paragraphs num="0051">图4中包括的每个层的描述如下。</base:Paragraphs>
+      <base:Paragraphs num="0052">应用层：应用层可以实现并支持各种使用情况。 例如,应用可以提供道路安全、有效交通信息和其他应用信息。</base:Paragraphs>
+      <base:Paragraphs num="0053">设施（facilities）层：对应于OSI层5（会话（session）层）、层6（呈现（presentation）层）、层7（应用（application）层）的层。 设施层可以帮助有效地实现在应用层中定义的各种使用示例。 例如,设施层可提供用于编码/解码消息以辅助应用程序的API。 在实施例中,可以根据ASN.1方案对消息进行编码/解码。</base:Paragraphs>
+      <base:Paragraphs num="0054">由这样的设施层提供的服务和消息集在美国由SAE（Society of Automotive Engineers：汽车工程师协会）规定,在欧洲由ETSI ITS规定。 例如,在美国,用于支持基本安全应用的基本安全消息(BSM)消息、紧急车辆警报(EVA)消息、用于支持交叉安全应用的映射数据(MAP)、信号相位和定时(SPAT)、交叉冲突警报(ICA)消息、用于支持旅行者信息应用的路线图警报(RSA)、Treaveler信息消息(TIM)消息等可以作为消息集提供。 在欧洲,可以提供协同感知消息(CAM)、去中心化环境通知消息(DENM)消息等作为消息集。</base:Paragraphs>
+      <base:Paragraphs num="0055">网络和传输层：对应于OSI第3层（网络层）和第4层（传输层）的层。 网络/传输层可以通过使用各种传输和网络协议来配置用于同构/异构网络之间的车辆通信的网络。 例如,网络/传输层可以使用诸如TCP/UDP+IPv6的互联网协议来提供互联网连接和路由。 或者,网络/传输层可以使用基于地理位置的协议（诸如基本传输协议(BTP)/地理网络）来配置车辆的网络。 或者,网络/传输层可以使用WSMP（WAVE Short Message Protocol）（例如,WSMP-N和WSMP-T）来构成车辆的网络。</base:Paragraphs>
+      <base:Paragraphs num="0056">此外,网络和传输层可以为所提供的服务提供广告。 例如,在美国,可以通过WSA（WAVE Service Advertisement：WAVE服务广告）提供这样的广告,在欧洲,可以通过SAM（Service Announcement Message：服务公告消息）提供这样的广告。</base:Paragraphs>
+      <base:Paragraphs num="0057">接入层：对应于OSI层1（物理层）和层2（数据链路层）的层。 接入层可以通过物理信道发送从上层接收的消息/数据。 例如,接入层可以基于IEEE 802.11和/或802.11 p标准的通信技术、IEEE 802.11和/或802.11 p标准的WIFI物理传输技术、DSRC技术、包括卫星/宽带无线移动通信的2G/3G/4G(LTE)/5G无线蜂窝通信技术、全球定位系统(GPS)技术、蓝牙和IEEE 1609 WAVE技术中的至少一个来执行/支持数据通信。 另一方面,在美国,为了支持车辆环境中的通信,补充使用基于IEEE 1609.4标准的MAC技术。</base:Paragraphs>
+      <base:Paragraphs num="0058">安全层：用于数据信任和隐私的层。 安全层可以提供认证和加密功能以确保隐私。 认证用于指示发送者是否是授权且合法的V2X通信设备并且所发送的数据是否未被改变,并且加密用于保持数据的机密性。 在实施例中,在网络/传输层中生成的消息或数据可以根据其类型通过安全层安全地发送或不安全地发送。</base:Paragraphs>
+      <base:Paragraphs num="0059">管理层：管理层可以提供多信道分级合并控制(MDCC)。 此外,管理层可以基于从上层接收的信息来生成关于服务广告的内容,并且该内容可以包括IP配置信息和安全凭证信息。 此外,管理层可以监视接收的服务广告,估计信道质量,并确定信道分配/交换调度。</base:Paragraphs>
+      <base:Paragraphs num="0060">在下文中,将参照图5至图9描述由第一类型V2X通信设备提供安全服务的方法,并且将参照图10至图13描述由第二类型V2X通信设备提供安全服务的方法。 在实施例中,第一类型V2X通信设备可以是根据图4的美国(US)通信协议执行V2X通信的V2X通信设备,并且第二类型V2X通信设备可以是根据图4的欧洲(EU)通信协议执行V2X通信的V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0061">图5示出根据本发明的第一实施例的提供安全服务的V2X通信设备的协议栈。 在图5的实施例中,V2X通信设备可以是提供基于IEEE 1609.2标准的安全服务的V2X通信设备（例如,WAVE设备）。 图5的安全服务可以被称为WAVE安全服务,并且图5的协议栈可以被称为WAVE协议栈。 图5中所示的安全服务可以包括内部安全服务和上层安全服务。</base:Paragraphs>
+      <base:Paragraphs num="0062">首先,内部安全服务可以提供安全数据服务(SDS)和安全服务管理实体(SSME)。</base:Paragraphs>
+      <base:Paragraphs num="0063">SDS能够管理PDU（Protocol Data Unit：协议数据单元）。 例如,SDS能够将为了发送而不受保护（unsecured）的PDU转换为SPDU（Secured Protocol Data Unit：安全协议数据单元）。 此外,SDS可以在接收时处理SPDU,包括将SPDU转换为PDU。 在这种情况下,SPDU的格式可以是签名数据或加密数据。 使用安全数据服务的实体可以被称为安全数据交换实体(SDEE)。</base:Paragraphs>
+      <base:Paragraphs num="0064">SSME可以管理关于证书的信息。 例如,SSME可以存储/管理存储在SDS中的证书和属于证书授权(CA)的证书的认证信息。</base:Paragraphs>
+      <base:Paragraphs num="0065">上层安全服务可以提供证书丢弃列表验证实体(CRLVE)和对等证书分发实体（P2PCDE）。</base:Paragraphs>
+      <base:Paragraphs num="0066">CRLVE可以验证进入的CRL。 例如,CRLVE可以验证从SSME接收或传送到SSME的证书丢弃列表(CRL)。 此外,CRLVE可以将相关丢弃信息传送到SSME以进行存储。</base:Paragraphs>
+      <base:Paragraphs num="0067">P2PCDE允许对等证书分发。 P2PCDE允许WAVE设备学习unkown证书。 在这种情况下,WAVE设备可以向另一对等设备请求所需的信息,并且可以使用该信息来学习未知证书。</base:Paragraphs>
+      <base:Paragraphs num="0068">为了提供上述的服务,在图5所示的IEEE 1609.2标准中,提供SAP（Service Access Point,服务接入点）（例如,Sec-SAP、SSME SAP、SSME-Sec SAP等）,通过该SAP,能够进行从基于IEEE 1609.2标准的某个实体向其他实体的通信。 这可以被称为SDEE之间的数据交换。</base:Paragraphs>
+      <base:Paragraphs num="0069">图6示出根据本发明的实施例的V2X通信设备执行安全处理的方法。 类似于图5,在图6的实施例中,V2X通信设备可以是提供基于IEEE 1609.2标准的安全服务的V2X通信设备（例如,WAVE设备）。 图6的实施例示出了使用SDS的安全性处理的示例性处理流程。</base:Paragraphs>
+      <base:Paragraphs num="0070">参考图6,SDEE可以与处理数据的请求一起调用SDS。 经处理的数据可以被返回到调用的SDEE。 安全性数据交换可以包括两个SDEE,一个SDEE是发送SDEE,另一个SDEE是接收SDEE。</base:Paragraphs>
+      <base:Paragraphs num="0071">为了进行发送侧的安全处理,发送的SDEE能够调用SDS。 在这种情况下,处理的结果可以是返回到发送实体的SPDU。 在SPDU的传输之前,传输的SDEE可以至少一次并且可能多次调用SDS。</base:Paragraphs>
+      <base:Paragraphs num="0072">接收的SDEE可以调用SDS,以便对接收到的SPDU的内容执行安全处理。 在这种情况下,可以包括SPDU并且可以包括关于SPDU的附加信息的处理结果可以被返回到接收的SDEE。 接收到的SPDU的完整处理可能需要SDS的多个呼叫。</base:Paragraphs>
+      <base:Paragraphs num="0073">以下,说明用于管理PKI（Public Key Ingrastructure）的身份凭证的安全管理系统（Security Management System）。 例如,将描述通过安全管理系统的证书请求、证书管理和CRL分发方案。 安全管理系统也可以称为安全凭证管理系统(SCMS)或信任模型。</base:Paragraphs>
+      <base:Paragraphs num="0074">在描述安全管理系统之前,首先将描述由安全管理系统管理的各种类型的证书。 V2X通信系统支持各种类型的证书,并且安全管理系统可发布和处置这些证书。 每个证书可以具有不同的寿命和更新周期。 例如,根CA可以具有17年的寿命,由根CA控制的EA可以具有11年的寿命,并且由EA发布的EC可以具有6年的寿命。</base:Paragraphs>
+      <base:Paragraphs num="0075">首先,车辆或车辆的OBE可以具有OBE注册证书(EC)、匿名证书(PC)和/或身份证书(IC)。 OBE的EC是用于验证证书请求的证书,并且可以用作OBE的护照。 车辆可以使用该EC从AA请求PC和/或IC。 EC不具有加密密钥,并且可以在OBE执行引导过程时发布。 另外,EC具有有效期间。 因此,EC在OBE的整个操作的寿命期间不是有效的,并且可能需要重新建立过程。 此外,每个EC可以具有至少一个提供商服务ID(PSID)。</base:Paragraphs>
+      <base:Paragraphs num="0076">PC可以是指示所有者的许可但不指示所有者的身份的授权证书,并且可以用于诸如BSM的V2X消息的认证、错误报告等。 PC不具有加密密钥,并且出于隐私原因,一个OBE可以具有多个有效的PC。 因此,PC可以根据需要尽可能频繁地变化。</base:Paragraphs>
+      <base:Paragraphs num="0077">IC可以用于V2I应用内的认证。 IC可以具有与PC类似的供应过程,但是可以具有不同的PSID和参数。</base:Paragraphs>
+      <base:Paragraphs num="0078">基础设施或基础设施的RSE（或RSU）可以具有RSE注册证书(EC)和/或应用证书(AC)。</base:Paragraphs>
+      <base:Paragraphs num="0079">RSE的EC是用于验证证书请求的证书,并且可以用作RSE的护照。 EC可以用于请求AC。 与OBE的EC类似,RSE的EC不具有加密密钥,并且可以在RSE执行自举过程的同时发布。 另外,与OBE的EC一样,RSE的EC具有有效期间,因此在RSE的整体动作的寿命期间不有效,可能需要重新设定（re-establishment）过程。 此外,每个EC可以具有至少一个PSID。</base:Paragraphs>
+      <base:Paragraphs num="0080">AC可以由一个RSE用于认证和加密。 AC具有加密密钥,并且没有对RSE的隐私约束。 因此,对于给定应用,RSE可以一次仅具有一个有效AC。 以下示出了AC的两个时间段的丢弃。</base:Paragraphs>
+      <base:Paragraphs num="0081">1.短有效期（例如,每天、小时）：不需要CRL,因为通常必须更新证书。</base:Paragraphs>
+      <base:Paragraphs num="0082">2.长有效周期（例如,单值、全值）：需要CRL。</base:Paragraphs>
+      <base:Paragraphs num="0083">图7例示了根据本发明的实施方式的信任层的结构。 图7的实施例表示使用了IEEE 1609.2的证书格式的基于拼装机方式（elector-based scheme）的安全管理系统的一例。</base:Paragraphs>
+      <base:Paragraphs num="0084">在图7的实施例中,由拼装机（elector）、根CA、PCA（Psuedonum Certificate Authority）以及ICA（Intermediate Certificate Authority）发行的证书是用于支持P2P（peer-to-peer）分配的显式类型（explicit type）的证书。 它们保持明确性,以避免在另一证书是隐式类型时的混淆。 另外,该证书不具有隐私的制约。</base:Paragraphs>
+      <base:Paragraphs num="0085">图7的实施例中所示的基于拼装机的安全管理系统具有以下优点：通过将拼装机添加到作为最高级别的级别0,根CA可以在不改变其证书的情况下从拼装机获得新的支持者。 拼装机可以执行路由管理功能。 也就是说,拼装机可以用于管理（例如,添加或删除）根CA证书。 例如,拼装机可以添加或删除根CA证书。 此时,法定数例如可以是成员的过半以上。 另一方面,验证证书链不包括验证拼装机证书,因为拼装机证书不是安全管理系统的PKI层级的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0086">根CA证书是自签名的证书,其可以用作信任锚以验证另一个证书,并且也可以缩写为根证书。 根CA证书具有与另一种证书类型不同的特征,如下所述。</base:Paragraphs>
+      <base:Paragraphs num="0087">1.根CA证书是信任链的结束。 因此,安全管理系统的任何证书的验证都终止于该证书。</base:Paragraphs>
+      <base:Paragraphs num="0088">2.根CA的签名不具有任何加密值。 该签名由根CA本身生成。</base:Paragraphs>
+      <base:Paragraphs num="0089">3.通常,根CA证书具有长寿命。 这是因为,变更路径CA非常耗费时间,是要求较大的值的动作。</base:Paragraphs>
+      <base:Paragraphs num="0090">4.只有拼装机法定可以生成根管理消息,并且根CA证书的丢弃可以添加到CRL。</base:Paragraphs>
+      <base:Paragraphs num="0091">ICA证书可用于向另一个SCSM发出证书。 只有根CA和ICA可以认证另一个SCSM。 ICA证书可以被称为IC。</base:Paragraphs>
+      <base:Paragraphs num="0092">ECA证书是显式类型,并且可以通过P2P分发来分发。 ECA证书可以用于向包括OBE和RSE的终端实体发出证书(EC)。 ECA证书可以被称为EC。</base:Paragraphs>
+      <base:Paragraphs num="0093">PCA证书可以用于向包括OBE和RSE的终端实体发出证书。 PCA证书具有有效期,并且PCA证书的丢弃可以通过由CRL生成器发布的CRL来完成。 PCA证书可以被称为PC。</base:Paragraphs>
+      <base:Paragraphs num="0094">CRL生成器的证书可以由根CA颁发,并且可以用于对CRL进行签名。 策略生成器的证书也可以由根CA颁发,并且可以用于对分布到安全管理系统的全局策略文件进行签名。 链路授权(LA)证书可以不与终端实体交互。 注册机构(RA)证书必须具有足够长的有效期,使得终端实体可以在自举之后成功地请求证书提供。 由于终端实体不需要经常搜索MA证书,因此MA证书的有效期可能不长。</base:Paragraphs>
+      <base:Paragraphs num="0095">图8示出根据本发明的实施例的在终端实体中操作的V2X通信设备的自举处理。 如上所述,可以通过执行这种引导过程来发布EC。</base:Paragraphs>
+      <base:Paragraphs num="0096">在本说明书中,EE可以是不作为CA操作的实体,即,请求证书或签名PDU的实体。 例如,图9的车辆或车辆的OBE可以作为EE进行动作。</base:Paragraphs>
+      <base:Paragraphs num="0097">如图8所示,当从EE接收到EC请求时,设备配置管理器(DCM)可以确定EE是否被认证。 即,可确定对应EE是否是认证装置。 如果未被认证,则DCM可以拒绝EC的请求。</base:Paragraphs>
+      <base:Paragraphs num="0098">如果是,则DCM可以向ECA请求EC。 在这种情况下,ECA可以发布EC并将其传送到DCM。 DCM可将在ECA中发布的EC、在RA中提供的信任链证书和/或在证书实验室中提供的EE特定证书信息传送到EE。 在这种情况下,DCM可以与IP地址一起被发送到EE。 EE可加载EC、信任链证书和/或IP地址。</base:Paragraphs>
+      <base:Paragraphs num="0099">图9示出根据本发明的实施例的在终端实体中操作的V2X通信设备的故障报告过程。 例如,如在图8的实施例中,车辆或车辆的OBE可以作为EE操作。</base:Paragraphs>
+      <base:Paragraphs num="0100">如图9所示,EE能够报告预先设定的条件的满足（condition met）（步骤1）。</base:Paragraphs>
+      <base:Paragraphs num="0101">EE可以生成故障报告。 此时,EE能够使用PC对误动作的报告进行签名（步骤2）。</base:Paragraphs>
+      <base:Paragraphs num="0102">EE可以对发送到MA的故障报告进行加密（步骤3）。</base:Paragraphs>
+      <base:Paragraphs num="0103">EE可向RA提交故障报告（步骤4）。</base:Paragraphs>
+      <base:Paragraphs num="0104">在这种情况下,位置对象代理(LOP)可以从加密的故障报告中移除网络地址信息（例如,MAC地址和/或IP地址）,并将其发送到RA（操作4.1）。 RA可以用另一个报告重排该故障的报告,并将其发送到MA（步骤4.2）。 在这种情况下,重排阈值可以是例如10,000个故障报告或一天。</base:Paragraphs>
+      <base:Paragraphs num="0105">MA可以解密故障报告并基于此进行调查。</base:Paragraphs>
+      <base:Paragraphs num="0106">EE在有来自RA的ACK的响应的情况下,能够删除发送的报告。 此外,EE可删除已到期或未发送的报告。 此外,RA在从MA有ACK的响应的情况下,能够删除发送的报告。</base:Paragraphs>
+      <base:Paragraphs num="0107">表1示出了与美国安全有关的服务和服务的PSID。</base:Paragraphs>
+      <base:Paragraphs num="0108">
+        <base:TableDetails num="0001">
+          <base:Image id="000003" he="65" wi="139" file="2020517144_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+        </base:TableDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0109">图10示出根据本发明的第二实施例的提供安全服务的V2X通信设备的协议栈。 在图10的实施例中,V2X通信设备可以是提供基于欧洲ETSI ITS标准的安全服务的V2X通信设备（例如,ITS站）。 图10的安全服务可被称为ITS安全服务,且图10的安全层可被称为ITS安全层。</base:Paragraphs>
+      <base:Paragraphs num="0110">图10示出了ITS安全架构的功能实体以及它们与ITS通信层之间存在的关系。 在图10中,安全层被示出为与ITS通信层相邻的垂直层,但是实际上,安全层可以被细分为ITS层,因为安全服务是基于层来提供的。 这样的安全服务可以以每个安全服务在一个或多个ITS架构层内或安全管理层内操作的方式逐层提供。 如图10所示,ITS安全架构的功能实体和ITS通信层可以通过SAP（例如,SF-SAP、SN-SAP和SI-SAP）进行通信。</base:Paragraphs>
+      <base:Paragraphs num="0111">图11示出根据本发明的实施例的V2X通信系统的信任模型。 在图11的实施例中,将省略与图2中描述的那些重复的描述。 图11的实施例的信任模型可以被称为ITS信任模型或C-ITS信任模型。</base:Paragraphs>
+      <base:Paragraphs num="0112">在图11的实施例中,V2X通信系统可以是V2X通信设备（例如,ITS站）安全地发送和接收用于V2X通信的消息所需的安全系统。 V2X通信系统可包括用于可靠消息通信的一个或多个实体。 例如,如图所示,V2X通信系统可以包括策略授权机构(PA)、信任列表管理器(TLM)、至少一个根证书机构(CA)、注册机构(EA)、授权机构(AA)和/或至少一个V2X通信设备。 在实施例中,V2X通信设备可以对应于OBE或RSE。 由于根CA、EA和AA已经在图2中进行了描述,因此下面将描述PA、TLM等。</base:Paragraphs>
+      <base:Paragraphs num="0113">PA是由参与ITS信任模型的公共和私营利益关系人（例如,机构,道路运营商,车辆制造商等）的代表组成的角色。</base:Paragraphs>
+      <base:Paragraphs num="0114">PA可以指定TLM。 具体地,PA可以指定并授权TLM和CPOC（中央接触点）以在ITS信任系统内操作。 PA可以确定根CA是否可信,并且可以通过向TLM通知授权/丢弃的根CA证书来授权/移除根CA在ITS信任域中的操作。 换句话说,PA批准根CA的操作,并且可以确认TLM可以信任根CA。</base:Paragraphs>
+      <base:Paragraphs num="0115">TLM负责生成根CA证书和TLM证书的列表并对其签名。 由TLM发布的签名列表可以被称为欧洲证书信任列表(ECTL)。 以这种方式,TLM可以发布欧洲证书信任列表(ECTL),其可以提供批准的根CA信任。</base:Paragraphs>
+      <base:Paragraphs num="0116">CPOC是PA指定的唯一实体,负责确保根CA之间的通信交换,收集根CA证书并将它们提供给TLM。 CPOC还负责将ECTL分配给信任模型中的任何感兴趣实体。 作为实施例,TLM可以将安全证书信息和信任列表信息(ECTL)存储在本地存储库中。 在这种情况下,CPOC还可以用于将该信息分配给所有PKI参与者。</base:Paragraphs>
+      <base:Paragraphs num="0117">EA可以通过将EC传送到ITS站(EE)来提供对EE操作的信任。 AA可以在EA信任下向ITS站发布AT。 因此,接收ITS站或发送ITS站可信任另一ITS站。 这是因为AT由AA发行,该AA由根CA认证了可靠性,根CA由TLM和PA认证了。</base:Paragraphs>
+      <base:Paragraphs num="0118">图12示出根据本发明的实施例的V2X通信系统的信任模型中的信息流。 具体地,图12示出了参与PKI的ITS站的信任模型中的信息流。 在图12的实施例中,基本上假设多根CA。 根CA的证书可以通过诸如链路证书的安全协议周期性地发送到CPOC。 在这种情况下,可以在CPOC中定义使用什么安全协议。</base:Paragraphs>
+      <base:Paragraphs num="0119">参考图12的（1）和（2）,PA可以向TLM批准根CA应用并提供根CA丢弃信息。 参考图12的（3）和（4）,PA可以更新Certification Policy(CP),并且可以批准或拒绝根CA应用表单/Certificate Practice Statement(CPS)请求的修改/审计过程。</base:Paragraphs>
+      <base:Paragraphs num="0120">参考图12的（5）,TLM可以向PA通知ECTL的改变。 参考图12的（6）和（7）,TLM可以将TLM证书和ECTL提供给C-ITS接触点(CPOC)。</base:Paragraphs>
+      <base:Paragraphs num="0121">参考图12的（8）和（9）,CPOC可以向TLM传送根CA认证信息和丢弃。 参考图12的（10）,CPOC可以将TLM证书发送到所有EE。</base:Paragraphs>
+      <base:Paragraphs num="0122">参考图12的（11）和（12）,根CA可以向CPOC发送根CA证书的信息和根CA证书的丢弃。 参照图12的（13）,根CA可以向审计传递审计的命令（order）。 参考图12的（14）、（15）和（16）,根CA可以传送应用表单,更新Certificate Practice Statement(CPS)的改变,并提供审计报告。</base:Paragraphs>
+      <base:Paragraphs num="0123">图13示出根据本发明的实施例的V2X通信设备的安全生命周期。 在图13的实施例中,V2X通信设备可以是基于ETSI ITS标准的ITS站。 图13的安全生命周期可以被称为ITS-S的安全生命周期。</base:Paragraphs>
+      <base:Paragraphs num="0124">参考图13,安全生命周期可以包括制造期间的初始ITS站配置阶段、注册阶段、授权阶段、操作和维护阶段以及寿命到期阶段。</base:Paragraphs>
+      <base:Paragraphs num="0125">初始ITS站的配置阶段是制造过程的一部分,并且需要在ITS站本身和EA中设置关于站的身份的信息元素。 例如,ITS站中的信息元素可以包括唯一标识符、EA和AA的联系信息（例如,网络地址、公钥证书）（其可以向ITS站发出证书）、ITS站可以用来发起注册过程的一组当前已知的受信任EA证书、ITS站可以用来信任与另一ITS站的通信的一组当前已知的受信任AA证书、和/或用于加密目的的公共/个人密钥对和信任锚（根CA）公钥和DC网络地址。 替代地,EA中的信息元素可以包括ITS站的永久标识符、ITS站的简档信息和/或来自属于ITS站的密钥对的公钥。</base:Paragraphs>
+      <base:Paragraphs num="0126">在登记阶段,ITS站可以向EA请求EC。 在成功的注册程序之后,ITS站可以处理在下一个授权请求中使用的注册凭证。 如果在EA更新EC,ITS站应发送注册请求,该注册请求由EA发出的先前有效的注册凭证签署。</base:Paragraphs>
+      <base:Paragraphs num="0127">在授权阶段,ITS站可向AA请求AT。 当处于“服务授权”状态时,ITS站可具有一组AT,其不指示传输ITS站的身份或注册凭证,但允许将签名消息传输到任何其它ITS站。 如果一组完整的AT耗尽,则ITS站不能对消息到另一个ITS站的传输进行签名,并且可以返回到注册状态。</base:Paragraphs>
+      <base:Paragraphs num="0128">在维护阶段,如果EA或AA被添加到系统或从系统移除,则路线CA可以向注册的ITS站通知该改变。</base:Paragraphs>
+      <base:Paragraphs num="0129">当ITS站的寿命到期时,或者当发生妥协（由授权EA确定的处置）时,可以进行寿命到期阶段。 在寿命终止阶段,ITS站应被丢弃并在ITS G5通信网络中停止运行。</base:Paragraphs>
+      <base:Paragraphs num="0130">##如上所述,在V2X通信系统中,基于PKI的信任模型可用于确保V2X通信设备（例如,ITS站或WAVE设备）的认证以及V2X通信设备通信的V2X消息（例如,ITS消息）的可靠性。 在信任模型中,存在诸如EC（或LTC）和AT（或PC）的证书,每个证书可以用于认证V2X通信设备和V2X消息。</base:Paragraphs>
+      <base:Paragraphs num="0131">在这种情况下,当在V2X通信设备中检测到故障时,应该丢弃诸如V2X通信设备的EC/AT的安全凭证,并且应该从V2X通信中排除安全凭证。 因此,为了有效地分配错误行为检测(MBD)信息,需要生成Certificate Revocation List(CRL)并分配CRL的方案。 例如,在美国,为此,Misbehaviour Authority(MA)被添加到信任模型,并且MA可以广播用于EE的CRL。 在欧洲,根CA可以创建CA的CRL以及证书信任列表(CTL)。 在这种情况下,根CA可以以签名列表（CRL和CTL）的形式生成和发布它,并将其发送到分发中心(DC)。 在这种情况下,V2X通信设备可使用诸如在线证书状态协议(OCSP)的互联网协议来获取关于证书的丢弃状态的信息,并且DC可将该信息分发到由相应RCA管理的域中的所有EE。</base:Paragraphs>
+      <base:Paragraphs num="0132">这种传统方案需要与基础设施（例如,RSU）的后端连接以实际操作。 因此,如果基础设施不在其周围,则EE在进入下一个基础设施的区域之前不能接收相关信息。 此外,在美国的MA或欧洲的DC的情况下,不是仅在一个MA或DC中运用,而是为了实际运用而仅具有多个MA或DC。 因此,机构变得非常复杂。 此外,即使在一个MA或DC中运行,如果运行的MA被黑客攻击,则会影响所有V2X通信。 因此,难以执行安全的V2X通信。</base:Paragraphs>
+      <base:Paragraphs num="0133">在下文中,为了在V2X通信系统中执行可靠的V2X通信,将描述用于通过更有效地发送检测到的故障来从V2X通信中排除执行故障的MBD设备的故障检测分配(MDD)技术。 为了解决上述现有技术的问题,下面主要描述以下三个技术特征。</base:Paragraphs>
+      <base:Paragraphs num="0134">第一,引入错误动作的经纪人（MBB：MisBehavior Broker）。 例如,V2X通信系统中的特定V2X通信设备可被指定为MBB,并且指定的V2X通信设备可在接收EC的递送时具有用于MBB操作的特殊许可。 因此,被指定为MBB的V2X通信设备需要满足比普通V2X通信设备更高的安全性/性能要求,并且可通过与MBB认证而具有MBB资格。 被认证为MBB的V2X通信设备可以是非交通工具,诸如交通工具或基础设施。 也就是说,被认证为MBB的V2X通信设备执行本地策略的角色,以便解决执行国家策略的MA/DC无法解决的区域和错误V2X通信设备的工作。 在这种情况下,被认证为MBB的V2X通信设备可执行仅允许V2X通信设备对在特定区域中发生的错误操作的主要操作,使得V2X通信不存在问题。</base:Paragraphs>
+      <base:Paragraphs num="0135">MBB的主要功能之一是通过特殊许可/认证从周围V2X通信设备接收MBD信息并将MBD信息发送到MA/DC。 在这种情况下,为了提高功能的效率和灵活性,MBB可包括能够进行短距离通信的一个或多个通信模块,诸如DSRC模块,以及能够进行长距离通信的一个或多个通信模块,诸如蜂窝/卫星/广播。 执行这种功能的MBB模式可以被称为MBB长距离(LD)模式。 MBB LD模式可以被称为第一MBB模式或第一模式。</base:Paragraphs>
+      <base:Paragraphs num="0136">第二种是MBB CO模式。 MBB CO模式可以称为第二MBB模式或第二模式。</base:Paragraphs>
+      <base:Paragraphs num="0137">在MBB CO模式下,MBB可以生成/发出CRL,而不是简单地执行用于MA/DC的MBD信息的传送者的角色。 所发布的CRL能够被发送到预先决定的MA或DC。 因此,即使在周围没有诸如RSU的基础设施或者不能进行诸如蜂窝的长距离通信的情况下,MBB也可以收集MBD信息,生成/发布CRL,并且当MA/DC处于可连接状态时立即发送CRL。 由此,MBD信息可以尽快被通知到MA/DC。</base:Paragraphs>
+      <base:Paragraphs num="0138">第三是MBB CB模式。 MBB CB模式可以被称为第三MBB模式或第三模式。</base:Paragraphs>
+      <base:Paragraphs num="0139">在MBB CB模式中,MBB收集MBD信息以生成/发布CRL,并且将CRL立即广播到周围EE,或者在上述OSCP方案的情况下,MBB可以执行OSCP服务器的角色。 在这种情况下,即使在附近没有诸如RSU的基础设施的情况下,EE也可以立即通过诸如V2V、V2I、V2P等的V2X通信接收CRL,或者验证证书的状态,并且丢弃被确定为MBD设备的EE的EC/AT。 由此,能够进行安全的V2X通信。 如果区块链技术被应用于CRL的生成和维护,则所有MBB都具有要添加的CRL列表,并且被分布式处理,从而允许MBB替换MA/DC的结构。 以这种方式,当在区块链技术中维持多个MA/DC时,即使特定MA/DC受到攻击,也存在不同的MA/DC,因此不影响V2X通信。</base:Paragraphs>
+      <base:Paragraphs num="0140">为了实现具有上述特征的V2X通信系统,在本说明书中,MBB可被包括在安全管理系统的新组件/实体中。 此外,为了操作MBB,MBB可以以诸如CAM或BIM消息的V2X消息的格式向周围广播指示其是MBB的消息。 作为响应,当通过本地错误检测(LMD)功能检测到V2X通信设备的错误时,接收V2X通信设备可将V2X通信设备的MBD信息以诸如DENM的V2X消息的格式发送到MBB。 此外,MBB可以具有全局错误检测(GMD)功能。 在这种情况下,MBB可通过GMD功能分析与周围V2X通信设备的V2X通信,并直接检测周围V2X通信设备的故障。</base:Paragraphs>
+      <base:Paragraphs num="0141">为了实现上述技术特征,例如,满足以下要求的MBB可被包括在V2X通信系统中。</base:Paragraphs>
+      <base:Paragraphs num="0142">-MBB收集/广播消息,并且应当具有用于可选GMD的足够性能（MBB针对收集/广播消息和可选全局错误行为检测的性能增强）。</base:Paragraphs>
+      <base:Paragraphs num="0143">-MBB收集/广播消息,并且应当具有用于选择性GMD的足够的存储器和安全存储器（MBB用于收集/广播消息和可选全局错误行为检测的集成/广播消息和安全存储器）。</base:Paragraphs>
+      <base:Paragraphs num="0144">-MBB应该满足预定义的信任级别。</base:Paragraphs>
+      <base:Paragraphs num="0145">-MBB应具有多个网络/通信模块,其中一个应支持长距离网络/通信,诸如蜂窝和广播。 （例如,两个DSRC模块和一个蜂窝模块）（MBB shall have multiple Network modules and one of them supports Long Distance Network such as Cellular,Broadcasting.（例如,2DSRC Module,1Cellular Module））</base:Paragraphs>
+      <base:Paragraphs num="0146">在下文中,将参考图14描述添加有MBB的V2X通信系统。</base:Paragraphs>
+      <base:Paragraphs num="0147">图14示出根据本发明的实施例的添加有MBB的V2X通信系统。 在图14的实施例中,V2X通信系统可以是包括ITS站的欧洲安全系统,但不限于此,并且可以是美国安全通信系统。 如图14所示,MBB可以基于PKI系统进行操作。 在图14的实施例中,V2X通信系统可包括分配根CA、EA和AA、至少一个EE和CRL的DC。 在这种情况下,至少一个EE可包括被指定为MBB的EE。</base:Paragraphs>
+      <base:Paragraphs num="0148">参考图14,根CA可以认证EA和AA,并且EE可以通过EA接收LTC/EC。 在这种情况下,指定为MBB的EE可通过附加认证过程获得MBB认证,并且可接收具有MBB许可的EC。 在这种情况下,由于通过MBB认证接收并使用PC/AT,因此被认证为MBB的EE可通过具有MBB许可的AT发送和接收V2X消息,并且可执行与另一普通EE不同的操作。</base:Paragraphs>
+      <base:Paragraphs num="0149">如上所述,根据应用于MBB的MBB模式,MBB可以具有以下四种操作情况。</base:Paragraphs>
+      <base:Paragraphs num="0150">情况1：无MBB</base:Paragraphs>
+      <base:Paragraphs num="0151">情况2：带LD模式的MBB</base:Paragraphs>
+      <base:Paragraphs num="0152">情况3：带CO模式的MBB</base:Paragraphs>
+      <base:Paragraphs num="0153">情况4：带CB模式的MBB</base:Paragraphs>
+      <base:Paragraphs num="0154">图15示出根据本发明的实施例的V2X通信设备通过远程通信网络或短距离通信网络执行V2X通信的方法。 具体地,图15的实施例示出了V2X通信设备通过使用诸如蜂窝网络的远程通信网络连接或诸如DSRC网络连接的短距离通信网络连接来执行V2X通信的方法。 在图15的实施例中,V2X通信设备可以是ITS站。</base:Paragraphs>
+      <base:Paragraphs num="0155">如图15(a)中所示,当使用蜂窝网络连接时,V2X通信设备可直接接近EA并从EA接收EC。 在这种情况下,如果V2X通信设备被认证为MBB,则EC可具有作为MBB的许可（MBB许可）。 在这种情况下,根据MBB模式,渗透的类型可以是各种类型,例如LD、CO、CB等。 此外,当V2X通信设备使用具有MBB许可的EC请求PC/AT时,AA可在确认EA之后发布AT。 在这种情况下,AT可具有MBB渗透。</base:Paragraphs>
+      <base:Paragraphs num="0156">当如图15(b)所示使用DSRC网络连接时,V2X通信设备不能直接访问EA和AA。 因此,如图所示,V2X通信设备可通过ITS-S路由(RSU)或中继另一ITS站（中继ITS站）以通过ITS-S路由(RSU)访问EA和AA。 由此,ITS站可以获得具有MBB渗透的EC及PC/AT的发放。</base:Paragraphs>
+      <base:Paragraphs num="0157">图16示出根据本发明的实施例的由V2X通信设备收集和提供MBD信息的方法。 在图16的实施例中,假设V2X通信系统不包括作为MBB操作的V2X通信系统。</base:Paragraphs>
+      <base:Paragraphs num="0158">在图16的实施例中,假设对应于OBE的V2X通信设备（车辆的V2X通信设备）不支持长距离网络。 因此,当在通信范围内存在与RSE对应的V2X通信设备（基础设施V2X通信设备）时,车辆的V2X通信设备可直接向基础设施V2X通信设备提供MBD信息。 在这种情况下,基础设施V2X通信设备可将接收的MBD信息发送到MA/DC,或者可直接生成MBD信息并将其提供到MA/DC。 此后,MA/DC可以使用接收到的至少一条MBD信息来生成CRL,并且可以广播CRL。</base:Paragraphs>
+      <base:Paragraphs num="0159">然而,当在车辆的V2X通信设备的通信范围内不存在基础设施V2X通信设备时,MBD信息可通过通信范围内的另一车辆的V2X通信设备提供给基础设施V2X通信设备。 然而,如果在车辆的V2X通信设备的通信范围内不存在基础设施V2X通信设备和另一车辆的V2X通信设备（诸如OBE k）,则不能向基础设施V2X通信设备提供MBD信息。 因此,为了解决上述问题,V2X通信设备需要支持长距离网络功能。 也就是说,作为MBB操作的V2X通信设备需要将MBB LD模式包括为MBB模式之一。</base:Paragraphs>
+      <base:Paragraphs num="0160">图17示出根据本发明的实施例的在MBB CO模式下操作的V2X通信设备收集和提供MBD信息的方法。</base:Paragraphs>
+      <base:Paragraphs num="0161">作为MBB操作的V2X通信设备（MBB V2X通信设备）可从周围的V2X通信设备请求MBD信息（例如,MBD状态信息）,并且可从周围的V2X通信设备接收对此的响应消息。 在这种情况下,响应消息可以包括MBD报告(MBDR)。 在这种情况下,MBB V2X通信设备可基于MBDR生成CRL。</base:Paragraphs>
+      <base:Paragraphs num="0162">在图17的实施例中,假设OBE i和OBE k是MBB V2X通信设备,并且OBE 5和OBE 6是检测到故障的V2X通信设备。 此外,假设MBB V2X通信设备在MBB CO模式下操作。 在MBB CO模式下,MBB V2X通信设备可生成CRL并将CRL发送到MA/DC。 然而,在MBB CO模式下,MBB V2X通信设备不能将CRL直接广播到周围的V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0163">参考图17,MBB V2X通信设备可从周围V2X通信设备接收包括MBD信息的MBDR。 例如,OBE i可以从OBE 5请求MBD信息,并且作为对此的响应从OBE 5接收MBDR。 在另一示例中,OBE k可以从OBE 6请求MBD信息,并且作为对此的响应从OBE 6接收MBDR。</base:Paragraphs>
+      <base:Paragraphs num="0164">MBB V2X通信设备可基于接收的MBDR生成CRL。 例如,OBE i和OBE k可以分别根据从OBE 5和OBE 6接收到的MBDR生成CRL。 此外,MBB V2X通信设备可通过外围RSE或通过诸如蜂窝网络的长距离网络直接向MC/DC提供CRL。 例如,OBE i可以经由RSE 1或经由蜂窝网络直接向MC/DC发送CRL。 作为另一示例,OBE k可以经由蜂窝网络将CRL直接发送到MC/DC。 然后,MA/DC可以基于接收到的CRL生成最终CRL并广播最终CRL。</base:Paragraphs>
+      <base:Paragraphs num="0165">图18示出根据本发明的实施例的在MBB CB模式下操作的V2X通信设备收集和提供MBD信息的方法。</base:Paragraphs>
+      <base:Paragraphs num="0166">如上面参考图17所述,作为MBB操作的V2X通信设备（MBB V2X通信设备）可从周围的V2X通信设备请求MBD信息（例如,MBD状态信息）,并且可从周围的V2X通信设备接收对MBD信息（例如,MBD状态信息）的响应消息。 在这种情况下,响应消息可以包括MBD报告(MBD)。 在这种情况下,MBB V2X通信设备可基于MBDR生成CRL。</base:Paragraphs>
+      <base:Paragraphs num="0167">在图18的实施例中,假设OBE 1、OBE i和RSE 2是MBB V2X通信设备,并且OBE 5和OBE i是检测到故障的V2X通信设备。 此外,假设MBB V2X通信设备在MBB CB模式下操作。 在MBB CB模式中,MBB V2X通信设备可以生成CRL并将CRL直接广播到周围的V2X通信设备。 换句话说,与MBB CO模式不同,在MBB CB模式中,MBB V2X通信设备可以生成CRL,并且在不通过MA/DC的情况下将CRL直接分配给周围的V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0168">参考图18,MBB V2X通信设备可从周围V2X通信设备接收包括MBD信息的MBDR。 例如,OBE i可以从OBE 5请求MBD信息,并且作为对此的响应从OBE 5接收MBDR。 在另一示例中,RSE 2可以从OBE i请求MBD信息,并且作为对此的响应从OBE i接收MBDR。</base:Paragraphs>
+      <base:Paragraphs num="0169">MBB V2X通信设备可基于接收的MBDR生成CRL并直接广播CRL。 例如,OBE 1、OBE i和OBE k可以基于分别从OBE 5和OBE 6接收的MBDR来生成CRL,并且可以将CRL直接广播（或分配）到周围V2X通信设备。 因此,现有的MA/DC可被多个MBB V2X通信设备替换,并且即使MBB V2X通信设备的一部分由于检测到故障等而被丢弃,也可由另一MBB V2X通信设备执行稳定的V2X通信和CRL分配。</base:Paragraphs>
+      <base:Paragraphs num="0170">图19示出根据本发明的实施例的V2X通信设备发送的V2X消息以通知V2X通信设备对应于MBB。 在图19的实施例中,V2X消息可具有周期性发送的V2X消息（例如,CAM消息）的格式。</base:Paragraphs>
+      <base:Paragraphs num="0171">参考图19,V2X消息可包括ITS PDU报头和包括至少一个容器的主体。 作为实施例,至少一个容器可以包括基本容器、高频(HF)容器、低频(LF)容器、特殊车辆容器和/或MBB公告(MBA)容器。 也就是说,与一般CAM消息不同,V2X消息还可包括MBBA容器,以通知V2X通信设备对应于MBB或者通知V2X通信设备作为MBB操作。 根据实施例,MBBA容器可包括用于通知V2X通信设备对应于MBB的一个或多个信息。</base:Paragraphs>
+      <base:Paragraphs num="0172">图20示出根据本发明的另一实施例的V2X通信设备发送的V2X消息以通知V2X通信设备对应于MBB。 在图20的实施例中,V2X消息可具有周期性发送的V2X消息（例如,BIM消息）的格式。</base:Paragraphs>
+      <base:Paragraphs num="0173">参考图20,V2X消息可包括至少一个容器。 作为实施例,至少一个容器可以包括公共容器。 此外,根据实施例,至少一个容器可以包括学校区容器、移动工作区容器、工作区容器、弯曲区容器和/或MBB公告(MBA)容器。 V2X消息可包括MBBA容器,以通知V2X通信设备对应于MBB或者通知V2X通信设备作为MBB操作。 根据实施例,MBBA容器可包括用于通知V2X通信设备对应于MBB的一个或多个信息。</base:Paragraphs>
+      <base:Paragraphs num="0174">图21示出根据本发明的实施例的V2X通信设备发送以提供MBD信息的V2X消息。 在图21的实施例中,V2X消息可具有非周期性地发送或在发生特定事件时发送的V2X消息（例如,DENM消息）的格式。 如上所述,V2X通信设备可响应于来自MBB V2X通信设备的MBD信息请求,将包括MBDR的响应消息发送到MBB V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0175">参考图21,V2X消息可包括ITS PDU报头和包括至少一个容器的主体。 作为实施例,至少一个容器可以包括管理容器、情况容器、位置容器、“Alacarte”容器和/或MBD报告(MBDR)容器。 V2X消息可以包括MBDR容器。 作为实施例,MBDR容器可包括至少一个MBD相关信息（例如,MBD状态信息）。</base:Paragraphs>
+      <base:Paragraphs num="0176">图22示出根据本发明的实施例的在MBB CO模式下操作的V2X通信设备执行V2X通信的方法。 在图22的实施例中,假设作为两个MBB操作的V2X通信设备（MBB V2X通信设备）在MBB CO模式下操作。</base:Paragraphs>
+      <base:Paragraphs num="0177">如上所述,在MBB CO模式下操作的MBB V2X通信设备可生成CRL。 然而,与MBB CB模式不同,在MBB CO模式下,MBB V2X通信设备不能将CRL直接广播到周围V2X通信设备。 因此,MBB V2X通信设备需要将所生成的CRL发送到MA/DC,并且MA/DC可基于从至少一个MBB V2X通信设备发送的CRL来生成并广播最终CRL。</base:Paragraphs>
+      <base:Paragraphs num="0178">参考图22,每个MBB V2X通信设备可周期性地向周围V2X通信设备发送或广播包括MBBA容器的V2X消息（例如,CAM消息）。 例如,第一MBB V2X通信设备可周期性地广播包括用于向周围V2X通信设备（A、B、C、D等）通知第一MBB V2X通信设备是MBB的MBBA容器的第一CAM消息。 另外,第二MBB V2X通信设备可周期性地广播第二CAM消息,该第二CAM消息包括用于向周围的V2X通信设备（E、F、G、H等）通知第二MBB V2X通信设备是MBB的MBBA容器。 因此,接收MBBA容器的V2X消息的V2X通信设备可识别V2X通信设备是MBB V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0179">检测到故障或被确定为MBD（例如,自诊断）的V2X通信设备（MBD V2X通信设备）可将包括MBDR容器的V2X消息（例如,DENM消息）发送到MBB V2X通信设备。 例如,接收第一CAM消息的MBD V2X通信设备（A、B和C）可将包括用于相应MBD V2X通信设备的MBDR容器的第一DENM消息分别发送到第一MBB V2X通信设备。 另外,接收第二CAM消息的MBD V2X通信设备E和F可将包括用于相应MBD V2X通信设备的MBDR容器的第二DENM消息分别发送到第二MBB V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0180">当MBB V2X通信设备具有GMBD功能时,MBB V2X通信设备可基于包括MBDR容器的V2X消息（例如,DENM消息）将相应的MBD V2X通信设备添加到CRL。 例如,第一MBB V2X通信设备可基于第一DENM消息将对应的MBD V2X通信设备（A、B、C）添加到第一CRL。 另外,第二MBB V2X通信设备可基于第二DENM消息将相应的MBD V2X通信设备（E,F）添加到第二CRL。</base:Paragraphs>
+      <base:Paragraphs num="0181">MBB V2X通信设备可使用预定义的通信方法将CRL发送到MA/DC。 作为实施例,MBB V2X通信设备可通过预定义的通信方法当中的最有效的通信方法（例如,使用DSRC网络的方法或使用蜂窝网络的方法）将CRL发送到MA/DC。 例如,第一MBB V2X通信设备可以经由DSRC网络或蜂窝网络将第一CRL发送到MA/DC。 此外,第二MBB V2X通信设备可以经由DSRC网络或蜂窝网络将第二CRL发送到MA/DC。</base:Paragraphs>
+      <base:Paragraphs num="0182">MA/DC可以基于从至少一个MBB V2X通信设备接收的CRL生成最终CRL,并广播最终CRL。 在这种情况下,最终CRL可包括被包括在接收到的CRL中的MBD V2X通信设备的全部或一部分。 例如,MA/DC可以基于从第一MBB V2X通信设备接收的第一CRL和从第二MBB V2X通信设备接收的第二CRL来生成并广播第三CRL。 在这种情况下,第三CRL是最终CRL,并且可包括第一CRL和第二CRL中包括的MBD V2X通信设备A、B、C、E和F的全部或一部分。</base:Paragraphs>
+      <base:Paragraphs num="0183">图23示出根据本发明的实施例的V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0184">参考图23,V2X通信设备可包括存储器、处理器和通信单元。 V2X通信设备可对应于板上单元(OBU)或路边单元(RSU),并且可被包括在OBU或RSU中。 V2X通信设备可被包括在智能运输系统(ITS)站中或对应于ITS站。</base:Paragraphs>
+      <base:Paragraphs num="0185">通信单元连接到处理器,并且可以发送/接收无线电信号。 通信单元能够将从处理器接收到的数据上变频到发送接收频带并发送信号。 通信单元还可以对所接收的信号进行下变频以将信号传送到处理器。 通信单元可以实现接入层的操作。 作为实施例,通信单元可以实现包括在接入层中的物理层的操作,或者还可以实现MAC层的操作。 通信单元还可以包括多个子通信单元,用于通过多个通信协议进行通信。 作为实施例,通信单元可以基于802.11、WAVE（Wireless Access in Vehicular Environments,车载环境中的无线接入）、DSRC（Dedicated Short Range Communications,专用短程通信）、4G（LTE,Long-TermEvolution,长期演进）等各种WLAN（Wireless Local Area Network,无线局域网）通信协议以及蜂窝通信协议进行通信。</base:Paragraphs>
+      <base:Paragraphs num="0186">处理器与通信单元连接,并且可以根据ITS系统或WAVE系统来实现层的操作。 处理器可以被配置为根据以上附图和描述执行根据本发明的各种实施例的操作。 此外,实现根据本发明的各种实施例的V2X通信设备的操作的模块、数据、程序和软件中的至少一个可被存储在存储器中并由处理器执行。</base:Paragraphs>
+      <base:Paragraphs num="0187">存储器连接到处理器,并且存储用于驱动处理器的各种信息。 存储器可以包括在处理器中,或者可以设置在处理器外部,并且可以通过已知装置连接到处理器。 存储器可以包括或包括在安全/非安全存储设备中。 根据实施例,存储器可以被称为安全/非安全存储装置。</base:Paragraphs>
+      <base:Paragraphs num="0188">图23的V2X通信设备的具体配置可被实现为本发明/本说明书的各种实施例可被独立地应用,或者两个或更多个实施例可被一起应用。</base:Paragraphs>
+      <base:Paragraphs num="0189">图24示出根据本发明的实施例的V2X通信设备的通信方法。 在图24的实施例中,V2X通信设备可作为上述MBB操作。</base:Paragraphs>
+      <base:Paragraphs num="0190">首先,V2X通信设备可发送用于收集与错误检测(MBD)相关的信息的MBD信息请求消息（S24100）。 在这种情况下,V2X通信设备可具有V2X通信设备作为错误代理(MBB)操作所需的预定安全级别（或许可）。 这里,MBB可以是用于收集MBD信息和/或生成CRL信息的实体。 作为MBB操作的V2X通信设备可包括具有MBB许可的EC和AT,并且可使用EC和AT来安全地处理消息。</base:Paragraphs>
+      <base:Paragraphs num="0191">根据实施例,MBD信息请求消息可包括用于通知V2X通信设备对应于MBB的MBB公告信息。 此外,可以周期性地发送MBD信息请求消息。 MBB信息请求消息可以是包括上述MBB通告容器的CAM消息或BIM消息。</base:Paragraphs>
+      <base:Paragraphs num="0192">V2X通信设备可从外部V2X通信设备接收MBD信息响应消息,该MBD信息响应消息是对MBD信息请求消息的响应消息（S24200）。 根据实施例,MBD信息响应消息可包括MBD信息,该MBD信息包括关于外部V2X通信设备的故障的信息。 例如,MBB信息可包括指示外部V2X通信设备的故障状态的MBB状态信息。</base:Paragraphs>
+      <base:Paragraphs num="0193">V2X通信设备可基于MBD信息生成CRL信息（S24300）。</base:Paragraphs>
+      <base:Paragraphs num="0194">在实施例中,当V2X通信设备以第一模式操作时,V2X通信设备可将CRL信息发送到CRL分配设备。 这里,第一模式可以是上述MBB CO模式。 在这种情况下,V2X通信设备可通过基础设施的V2X通信设备将CRL信息发送到CRL分配设备。 或者,当V2X通信设备具有连接诸如蜂窝网络的长距离网络的功能时,V2X通信设备可通过长距离网络将CRL信息直接发送到CRL分配设备。 这样传送的CRL信息可以由CRL分配设备广播。</base:Paragraphs>
+      <base:Paragraphs num="0195">在另一实施例中,当V2X通信设备以第二模式操作时,V2X通信设备可广播CRL信息。 这里,第二模式可以是上述MBB CB模式。</base:Paragraphs>
+      <base:Paragraphs num="0196">在下文中,接收到CRL信息的外部V2X通信设备可通过预定方法来处理CRL信息。 例如,外部V2X通信设备可从V2X通信中排除检测到包括在CRL信息中的故障的V2X通信设备。 在这种情况下,外部V2X通信设备可通过丢弃检测到故障的V2X通信设备的诸如EC/AT的证书来从V2X通信中排除V2X通信设备。</base:Paragraphs>
+      <base:Paragraphs num="0197">以上说明的实施例是本发明的构成要素和特征以规定的形态结合而成的。 除非另有明确说明,否则元件或特征应被认为是选择性的。 每个元件或特征可以在不与其他元件或特征组合的情况下实现。 此外,本发明的实施例可以通过组合一些元件和/或特征来配置。 本发明的实施例中描述的操作顺序可以改变。 一个实施例的一些配置或特征可以包括在另一个实施例中,或者可以用另一个实施例的相应配置或特征替换。 显而易见的是,在所附权利要求中没有明确引用关系的权利要求可以组合以构成实施例,或者可以在提交申请之后通过修改被包括在新的权利要求中。</base:Paragraphs>
+      <base:Paragraphs num="0198">根据本发明的实施例可以通过各种手段（例如,硬件、固件、软件或其组合）来实现。 在硬件配置中,本发明的实施方式可以通过一个或更多个专用集成电路(ASIC)、数字信号处理器(DSP)、数字信号处理设备(DSPD)、可编程逻辑器件(PLD)、现场可编程门阵列(FPGA)、处理器、控制器、微控制器、微处理器等来实现。</base:Paragraphs>
+      <base:Paragraphs num="0199">在通过固件或软件实现的情况下,本发明的实施方式可以以执行上述功能或操作的模块、过程、函数等的形式实现。 软件代码可以存储在存储器中并由处理器驱动。 存储器可以位于处理器的内部或外部,并且可以通过各种已知手段向处理器发送数据和从处理器接收数据。</base:Paragraphs>
+      <base:Paragraphs num="0200">对于本领域技术人员显而易见的是,在不脱离本发明的基本特征的情况下,本发明可以以其他特定形式实施。 因此,以上详细描述在所有方面都被认为是说明性的而非限制性的。 本发明的范围应由所附权利要求的合理解释来确定,并且在本发明的等同范围内的所有修改都包括在本发明的范围内。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:BestMode>
+      <base:Paragraphs num="0201">本领域技术人员应当理解,在不脱离本发明的思想和范围的情况下,可以对本发明进行各种变更和变形。 因此,本发明旨在包括在所附权利要求及其等同物的范围内提供的本发明的修改和变化。</base:Paragraphs>
+      <base:Paragraphs num="0202">在本说明书中,装置和方法的发明都被提及,装置和方法的发明的说明都可以相互补充应用。</base:Paragraphs>
+      <base:Paragraphs num="0203">已经在实施本发明的最佳模式中描述了各种实施例。</base:Paragraphs>
+    </business:BestMode>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0204">本发明可以用于一系列智能/联网汽车领域或V2X通信领域。</base:Paragraphs>
+      <base:Paragraphs num="0205">对于本领域技术人员显而易见的是,在不脱离本发明的精神和范围的情况下,可以对本发明进行各种修改和修改。 因此,本发明旨在包括在所附权利要求及其等同物的范围内提供的本发明的修改和变化。</base:Paragraphs>
+    </business:IndustrialApplicability>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000004" he="32" wi="57" file="2020517144_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000005" he="62" wi="70" file="2020517144_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000006" he="97" wi="65" file="2020517144_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000007" he="96" wi="61" file="2020517144_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000008" he="56" wi="71" file="2020517144_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000009" he="54" wi="69" file="2020517144_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000010" he="62" wi="70" file="2020517144_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000011" he="96" wi="61" file="2020517144_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000012" he="97" wi="64" file="2020517144_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000013" he="97" wi="63" file="2020517144_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000014" he="97" wi="64" file="2020517144_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000015" he="16" wi="70" file="2020517144_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000016" he="45" wi="68" file="2020517144_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000017" he="52" wi="70" file="2020517144_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000018" he="78" wi="59" file="2020517144_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000019" he="62" wi="71" file="2020517144_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000020" he="62" wi="72" file="2020517144_000020.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000021" he="47" wi="69" file="2020517144_000021.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000022" he="68" wi="66" file="2020517144_000022.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000023" he="58" wi="68" file="2020517144_000023.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000024" he="71" wi="66" file="2020517144_000024.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0022">
+      <base:Image id="000025" he="53" wi="69" file="2020517144_000025.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0023">
+      <base:Image id="000026" he="57" wi="73" file="2020517144_000026.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0024">
+      <base:Image id="000027" he="38" wi="50" file="2020517144_000027.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种V2X通信设备的数据通信方法,包括：发送用于收集关于错误检测(MBD)的信息的MBD信息请求消息,从外部V2X通信设备接收作为对MBD信息请求消息的响应消息的MBD信息响应消息,其中,MBD信息响应消息包括MBD信息,MBD信息包括关于外部V2X通信设备的错误的信息,并且基于MBD信息生成CRL信息,其中,V2X通信设备具有V2X通信设备作为用于生成CRL信息的错误代理(MBB)操作所需的预定安全级别。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的用于V2X通信设备的数据通信方法,其中,所述MBD信息请求消息包括用于通知所述V2X通信设备对应于所述MBB的MBB公告信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的方法,其中,周期性地发送所述MBD信息请求消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的方法,还包括当所述V2X通信设备以第一模式操作时将所述CRL信息发送到CRL分配设备,其中,所述CRL信息由所述CRL分配设备广播。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的方法,其中,将所述CRL信息发送到所述CRL分配设备包括通过基础设施的V2X通信设备将所述CRL信息发送到所述CRL分配设备,或者通过远程网络将所述CRL信息直接发送到所述CRL分配设备。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的方法,还包括当所述V2X通信设备以第二模式操作时广播所述CRL信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>一种V2X通信设备,包括被配置为存储数据的安全/非安全存储设备、被配置为发送和接收无线电信号的RF单元、以及被配置为控制RF单元的处理器,其中,处理器被配置为发送用于收集关于故障检测(MBD)的信息的MBD信息请求消息,并且从外部V2X通信设备接收作为对MBD信息请求消息的响应消息的MBD信息响应消息,其中,MBD信息响应消息包括包括关于外部V2X通信设备的故障的信息的MBD信息,并且其中,V2X通信设备被配置为基于MBD信息生成CRL信息,其中,V2X通信设备具有V2X通信设备作为用于生成CRL信息的故障代理(MBB)操作所需的预定安全级别。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求7所述的V2X通信设备,其中,所述MBD信息请求消息包括用于通知所述V2X通信设备对应于所述MBB的MBB公告信息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求7所述的V2X通信设备,其中,周期性地发送所述MBD信息请求消息。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求7所述的V2X通信设备,还包括：当所述V2X通信设备以第一模式操作时,所述处理器将所述CRL信息发送到CRL分配设备,其中,所述CRL信息由所述CRL分配设备广播。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求10所述的V2X通信设备,其中,将所述CRL信息发送到所述CRL分配设备是通过基础设施的V2X通信设备将所述CRL信息发送到所述CRL分配设备,或者通过长距离网络将所述CRL信息直接发送到所述CRL分配设备。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求7所述的V2X通信设备,还包括当所述V2X通信设备以第二模式操作时,所述处理器广播所述CRL信息。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000028" file="2020517144_000028.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000029" file="2020517144_000029.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000030" file="2020517144_000030.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000004">
+    <business:ExternalSearchReport id="externalsearchreport000031" file="2020517144_000031.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000555920JP00020205164000AFULJA20200611JP00C.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020516400" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516400</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516400</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000555920</base:DocNumber>
+        <base:Date>20180409</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019555920</base:DocNumber>
+        <base:Date>20180409</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>GB</base:WIPOST3Code>
+        <base:DocNumber>1705919.7</base:DocNumber>
+        <base:Date>20170412</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>GB</base:WIPOST3Code>
+        <base:DocNumber>002017001705919</base:DocNumber>
+        <base:Date>20170412</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>2</business:MainGroup>
+        <business:Subgroup>36</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F   2/36        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>2</business:MainGroup>
+        <business:Subgroup>46</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F   2/46        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61F2/36</business:FI>
+      <business:FI type="secondary">A61F2/46</business:FI>
+      <business:FClass>
+        <business:FTerm>4C097AA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C097BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C097BB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C097CC05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C097CC12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C097CC18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C097MM10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C097SC04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C097</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">トライアル頸部</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>デピュイ・アイルランド・アンリミテッド・カンパニー</base:Name>
+            <base:RegisteredNumber>516312682</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>IE</base:WIPOST3Code>
+              <base:Text>アイルランド共和国、カウンティー・コーク、リンガスキディ、ラクベック・インダストリアル・エステート</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ウィザーズ・フィリッパ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>GB</base:WIPOST3Code>
+              <base:Text>イギリス国、エルエス１１・８ディーティー  ヨークシャー、リーズ、セント・アンソニーズ・ロード、デピュー・インターナショナル・リミテッド  気付け</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ヤング・ダンカン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>GB</base:WIPOST3Code>
+              <base:Text>イギリス国、エルエス１１・８ディーティー  ヨークシャー、リーズ、セント・アンソニーズ・ロード、デピュー・インターナショナル・リミテッド  気付け</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>加藤  公延</base:Name>
+            <base:RegisteredNumber>100088605</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>大島  孝文</base:Name>
+            <base:RegisteredNumber>100130384</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>EP2018059063</base:DocNumber>
+        <base:Date>20180409</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018189126</base:DocNumber>
+        <base:Date>20181018</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>27</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>  患者の骨盤内に埋め込まれた寛骨臼カップの配向を視覚的に評価するための屈曲したトライアル大腿骨頸部（４００）及び方法が記載される。屈曲したトライアル大腿骨頸部は、大腿骨頸部軸に沿って延在する本体（４０２）と、患者の大腿骨と共に受容された大腿骨部分にトライアル大腿骨頸部を解除可能に取り付けるための、本体から延在する取り付け構成体（４０８、４１０）と、テーパ（４０４）と、を備える。テーパはテーパ軸に沿って延在し、テーパ軸は、外面上に印を有するトライアル大腿骨頭部を位置決めするように構成された角度で大腿骨頸部軸に対して前方に傾けられており、その結果、寛骨臼カップが患者の骨盤内において目標配向で配向され、股関節が所定位置にあるとき、印は寛骨臼カップのリム、又は寛骨臼カップ内のライナのリムの平面と平行になる。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="77" wi="56" file="2020516400_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は股関節手術に関し、具体的には、寛骨臼カップの配向を視覚的に評価するために股関節手術中に使用され得る装置及び方法に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  股関節手術の様々な方法が一般に知られている。股関節は、概して、骨盤の寛骨臼空洞内で大腿骨頭部が関節運動する球窩関節と見なされてよい。股関節手術のいくつかの方法は、股関節の１つ以上の部分を１つ以上の補綴コンポーネントと交換することを伴い得る。これは、寛骨臼空洞及び／又は大腿骨頭部のそれぞれの関節運動表面を含む股関節の、損傷した、摩耗した、病変した、ないしは別の方法で不完全な部分を置き換えることであり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  異なる外科的処置は、寛骨臼若しくは大腿骨頭部又はその両方の一部分の交換を伴い得る。リサーフェシング処置と呼ばれる場合のあるいくつかの処置は、大腿骨頭部の関節運動表面のみの置換を伴い得る。他の処置は、大腿骨頭部全体の置換を伴う場合がある。こうした処置は、多くの場合、切除された大腿骨に埋め込まれ、また大腿骨頭部が取り付けられている頸部を有する大腿骨又はステムコンポーネントを更に用いる。いくつかの処置においては、下処理された寛骨臼空洞内に補綴カップが埋め込まれて、関節が整復されると大腿骨頭部又は補綴大腿骨頭部が関節運動し得る空洞を提供することができる。寛骨臼及び大腿骨頭部の少なくとも一部が補綴コンポーネントと置換される外科処置は、一般に股関節全置換術と称される。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  股関節の外科処置中、一部の外科医は、外科医が補綴コンポーネントの一方又は両方を最終的に埋め込む前に関節を試験することができるように、意図される補綴コンポーネントと同じ形状及び寸法を有する１つ以上のトライアルコンポーネントを使用することがある。例えば、外科医は、コンポーネントのうちの１つ以上の寸法、位置、又は配向が適切であることを確認するために、トライアルコンポーネントを使用することができる。他の外科医は、トライアルコンポーネントを使用しないことを選択することもでき、又はその専門的判断に基づいて場合により使用することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  股関節手術における検討事項の１つは、寛骨臼空洞の角度配向である。寛骨臼を寛骨臼カップと置換するときは、寛骨臼カップが概ね好ましい方向又は方向範囲を向くように配置することが外科医の目的である場合が多い。寛骨臼カップの配向は、外転又は傾斜角度及び前傾角度の観点から定められる場合が多い。
+</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  寛骨臼空洞内に配置した後でトライアル又は補綴のいずれかの寛骨臼カップの角度配向を試験及び評価するために、様々なアプローチが用いられてきた。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  患者の骨盤の１つ以上の解剖学的特徴に対する寛骨臼カップの角度配向を、検査又は器具の使用によって測定するために、外科医がその経験及び／又は一片の器具のいずれかを使用する解剖学的アプローチを使用することができる。しかしながら、特に低侵襲的アプローチでは、手術部位への接近が限定される場合が多く、したがって、これは容易でもなく正確でもない場合が多い。
+</base:Paragraphs>
+      <base:Paragraphs num="0008">
+  他のアプローチは、患者の骨盤に対する寛骨臼カップの角度配向を測定するために、トライアル又は補綴コンポーネント上でマーキング又は他の特徴を使用する場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0009">
+  例えば、「Ｔｈｅ  Ｒａｎａｗａｔ  Ｓｉｇｎ  Ａ  Ｓｐｅｃｉｆｉｃ  Ｍａｎｅｕｖｅｒ  ｔｏ  Ａｓｓｅｓｓ  Ｃｏｍｐｏｎｅｎｔ  Ｐｏｓｉｔｉｏｎｉｎｇ  ｉｎ  Ｔｏｔａｌ  Ｈｉｐ  Ａｒｔｈｒｏｐｌａｓｔｙ」（Ｌｕｃａｓ、Ｄａｖｉｄ  Ｈ．、及びＳｃｏｔｔ，Ｒｉｃｈａｒｄ  Ｄ．，Ｊｏｕｒｎａｌ  ｏｆ  Ｏｒｔｈｏｐａｅｄｉｃ  Ｔｅｃｈｎｉｑｕｅｓ，Ｖｏｌ．２，Ｎｏ．２，Ｊｕｎｅ  １９９４）は、完全股関節形成術のコンポーネント配向の術中評価法を記載している。患者が正側臥位（true lateral decubitus position）にある状態で、補綴頭部の平坦な底面（一般に大腿骨頸部に対して垂直である）が寛骨臼カップのリムと同一平面になるまで、股関節が屈曲することなしに大腿骨内旋させる。この位置を達成するために必要な内旋の量は、ラナワット標識（Ranawat sign）として知られており、これは関節の寛骨臼及び大腿骨コンポーネントの組み合わされた前傾と関連する。例えば、４５度のラナワット標識は、３０度のカップ前傾及び１５度の大腿骨前傾に対応し得る。しかしながら、任意の膝の弛緩又は変形が、この値の解釈に影響を及ぼす場合がある。また、内旋角度の実際の大きさを評価することは困難であり得る。更に、異なる外科医が、患者の脚部を操作する異なるアプローチを有する場合があり、また、任意の一外科医のアプローチが、同じ外科医又は他の外科医のいずれかによって患者ごとに容易に再現可能でない場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+  国際公開第２００９／１０８６８３号パンフレットは、トライアルの整復中に、マーキングが大腿骨頭部に適用され、外科医が再び一定量の内旋を患者の脚部に適用して、その結果、寛骨臼カップのリムと大腿骨頭部上の様々なマーキングとの間の角度が患者の骨盤に対する寛骨臼カップの角度位置を示す、別のアプローチを説明している。患者の脚部が０度外転、０度前傾、及び約１５度内旋した位置で完全に弛緩伸展しているか、又はその他の方法で自然の若しくは人工の大腿骨頸部の傾斜量と等しい量だけ内旋している脚部姿勢が用いられる。故に、このアプローチは、外科医が患者の脚部に特定の量の内旋を適用することを更に必要とする。この場合も、正しい量の内旋を適用することが困難である場合があり、患者の脚部の奇形によってもたらされる不正確さが存在する場合があり、外科手技を、再現及び／又は確実に習得することが困難である場合がある。内旋量における、例えば５度といった比較的小さな誤差でさえも目標内旋の大部分（３３％）であるため、これは、特に１５度の比較的小さな角度の場合に当てはまる。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  他のアプローチ及び関連する器具が、米国特許出願公開第２００５／０１０７７９９号に記載されている。股関節カップを埋め込むためのアクセサリは、操作可能なカップと、半球形部分を有する操作頭部と、操作可能なカップを寛骨臼内で位置合わせするための操作頭部周囲の円形リムと、を含む。操作可能なカップの位置合わせされた位置を固定するための装置が提供され、これは、寛骨臼空洞をリーミング配置（reaming placing）し、カップを配置するために、骨バー（bone bur）と打ち込み器具とを位置合わせするためにガイドを設置することを可能にする。別のアプローチでは、操作可能なカップを寛骨臼内に配置し、操作可能なカップのリップ部が大腿骨頭部上の赤道、又は大腿骨頭部の裏側（reverse）上の平面と平行になるまで、その配向をハンドルによって調整することができる。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0012">
+  したがって、寛骨臼カップ配置の正確な術中評価を、より単純、より容易、及び／又はより確実に実施する装置及び／又は方法は有益となるであろう。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0013">
+  本発明の第１の態様は、患者の骨盤内に埋め込まれた寛骨臼カップの配向を視覚的に評価するための屈曲したトライアル大腿骨頸部を提供し、屈曲したトライアル大腿骨頸部は、大腿骨頸部軸に沿って延在する本体と、トライアル大腿骨頸部を患者の大腿骨と共に受容された大腿骨部分に解除可能に取り付けるために、本体から延在する取り付け構成体と、テーパであって、テーパはテーパ軸に沿って延在し、テーパ軸は、外面上に印を有するトライアル大腿骨頭部を位置決めするように構成された角度で大腿骨頸部軸に対して傾けられており、その結果、寛骨臼カップが患者の骨盤内において目標配向で配向され、股関節が所定位置にあるとき、印は寛骨臼カップのリム、又は寛骨臼カップ内のライナのリムの平面と平行になる、テーパと、を備える。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  テーパは、本体の中心面によって画定され、頸部軸が位置している平面から外れるように傾けられていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  テーパ軸は大腿骨頸部軸に対して前方に傾けられてもよい。テーパは、本体又は頸部軸に対して概ね前方向に傾けられていてもよい。テーパは、下－上軸に概ね平行な軸を中心に頸部に対して傾けられていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0016">
+  テーパ軸は、大腿骨頸部軸に対して１０度～４０度の範囲の角度で傾けられていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0017">
+  テーパ軸は大腿骨頸部軸に対して３５度の角度で傾けられていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0018">
+  テーパ軸は、大腿骨頸部軸に対して２０度の角度で傾けられていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0019">
+  本体は下部及び上部を備えてもよく、凹部が、屈曲したトライアル大腿骨頸部の、上部と下部との間の側面上に位置し、テーパに取り付けられたときにトライアル大腿骨頭部の一部分を収容するように配置されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0020">
+  下部及び上部は、凹部とは反対側の屈曲したトライアル大腿骨頸部の一側面上に位置するリブによって接続されていてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0021">
+  目標配向は、寛骨臼カップの目標前傾であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0022">
+  寛骨臼カップの目標前傾は、患者の骨盤に対して２０度であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0023">
+  股関節は、０度の屈曲／伸展、０度の内転／外転、及び０度の内旋／外旋で配置された患者の大腿骨に対応する解剖学的位置にあってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0024">
+  本発明の第２の態様は、本発明の第１の態様の屈曲したトライアル大腿骨頸部と、トライアル大腿骨頭部であって、トライアル大腿骨頭部は、中にテーパを受容するように構成された空洞を含み、空洞はトライアル頭部軸に沿って延在し、印は、トライアル頭部軸に対して垂直の面を識別するように配置されている、トライアル大腿骨頭部と、を備える部品のキットを提供する。
+</base:Paragraphs>
+        <base:Paragraphs num="0025">
+  印は赤道印であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0026">
+  部品のキットは、更なる取り付け構成体を含む大腿骨切断器具を更に備えてもよく、トライアル大腿骨頸部は、取り付け構成体及び更なる取り付け構成体を用いて大腿骨切断器具に解除可能に取り付け可能である。
+</base:Paragraphs>
+        <base:Paragraphs num="0027">
+  大腿骨切断器具は大腿骨ブローチであってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0028">
+  本発明の第３の態様は、本発明の第２の態様の部品のキットのアセンブリを提供し、ここでトライアル大腿骨頭部は、屈曲したトライアル大腿骨頸部のテーパ上に装着されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0029">
+  トライアル大腿骨頸部は大腿骨ブローチに取り付けられてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0030">
+  本発明の第４の態様は、患者の骨盤に埋め込まれた寛骨臼カップの配向を視覚的に評価する方法を提供し、方法は、屈曲したトライアル大腿骨頸部を患者の大腿骨内の大腿骨切断器具に取り付けることであって、屈曲したトライアル大腿骨頸部はテーパ及び本体を有し、テーパは本体に対して傾けられている、ことと、トライアル大腿骨頭部をテーパに取り付けることであって、トライアル大腿骨頭部は、トライアル大腿骨頭部の外面上に印を含む、ことと、トライアル大腿骨頭部を寛骨臼カップ内に配置することによってトライアル股関節を整復することと、トライアル股関節を所定位置に置くように患者の大腿骨を位置決めすることと、印と寛骨臼カップのリム又は寛骨臼カップのライナのリムとの間の角度を視覚的に検査して、寛骨臼カップの配向が寛骨臼カップの目標配向にどの程度近いかを評価することと、を含む。
+</base:Paragraphs>
+        <base:Paragraphs num="0031">
+  配向は寛骨臼カップの前傾であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0032">
+  寛骨臼カップの前傾は、患者の骨盤に対して２０度であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0033">
+  予め選択された位置は、０度の屈曲／伸展、０度の内転／外転、及び０度の内旋／外旋で配置された患者の大腿骨に対応する解剖学的位置であってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0034">
+  大腿骨切断器具は、ブローチ又はラスプであってもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0035">
+  大腿骨切断器具は、患者の大腿骨に対して１５度前傾していてもよい。より具体的には、大腿骨切断器具は、大腿骨の上顆軸に対して１５度前傾していてもよい。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0036">
+  以下で、例示のみを目的として、下記の添付の図面を参照しながら、本発明の実施形態を詳細に説明する。
+
+<base:FigureReference num="0001">大腿骨の冠状面図である。</base:FigureReference><base:FigureReference num="0002">図１の大腿骨の矢状面図である。</base:FigureReference><base:FigureReference num="0003">図１及び図２の大腿骨の横断図（transverse view）である。</base:FigureReference><base:FigureReference num="0004">解剖学的軸及び大腿骨の頸部に平行な平面における大腿骨の図である。</base:FigureReference><base:FigureReference num="0005">骨盤の冠状面図である。</base:FigureReference><base:FigureReference num="0006">図５の骨盤の矢状面図である。</base:FigureReference><base:FigureReference num="0007">図５及び図６の骨盤の横断図である。</base:FigureReference><base:FigureReference num="0008">図５の線Ａ－Ａに沿った骨盤の部分断面斜視図である。</base:FigureReference><base:FigureReference num="0009">骨盤の斜視図である。</base:FigureReference><base:FigureReference num="0010">図１～図４の大腿骨及び図５～図９の骨盤を含む股関節の冠状面図である。</base:FigureReference><base:FigureReference num="0011">図１０の線Ｃ－Ｃに沿った骨盤の部分断面斜視図である。</base:FigureReference><base:FigureReference num="0012">本発明によるトライアル頸部の第１の実施形態の斜視図である。</base:FigureReference><base:FigureReference num="13A">図１２に示されるトライアル頸部の様々な図である。</base:FigureReference><base:FigureReference num="13B">図１２に示されるトライアル頸部の様々な図である。</base:FigureReference><base:FigureReference num="13C">図１２に示されるトライアル頸部の様々な図である。</base:FigureReference><base:FigureReference num="13D">図１２に示されるトライアル頸部の様々な図である。</base:FigureReference><base:FigureReference num="0014">本発明による、アセンブリへと組み立て可能な、図１２に示されるトライアル頸部及びトライアル大腿骨頭部の分解図である。</base:FigureReference><base:FigureReference num="0015">図１４に示すトライアル頸部及びトライアル大腿骨頭部の断面図である。</base:FigureReference><base:FigureReference num="0016">本発明によるトライアル頸部の第２の実施形態の斜視図である。</base:FigureReference><base:FigureReference num="0017">本発明による、アセンブリへと組み立て可能な、図１６に示されるトライアル頸部及びトライアル大腿骨頭部の分解図である。</base:FigureReference><base:FigureReference num="0018">本発明による股関節置換外科処置中のトライアル頸部の使用方法を示すフローチャートである。</base:FigureReference></base:Paragraphs>
+      <base:Paragraphs num="0037">
+  異なる図における同様の項目は、特に指示がない限り、共通の参照記号を共有した。
+</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0038">
+  本発明の装置及び／又は方法を説明する前に、股関節の幾何学的形状を概略的に説明する。下記では右股関節が説明されるが、同様の考察が左股関節にも適用されることは理解されるであろう。また、以下の考察は、術前の自然又は天然の股関節、並びに人工又は補綴股関節の両方に関連することが意図される。したがって、様々な角度の大きさは、天然股関節と補綴股関節との間で変化してもよいが、それらの角度の定義は、天然股関節及び補綴股関節で概ね同じであってもよく、天然股関節及び補綴股関節をそれぞれ構成する様々な部品の位置及び／又は配向によって決定されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  図１～図４を参照すると、右大腿骨１００の様々な異なる図が示されている。下記でより詳細に説明するように、具体的には、図１は前後方向（一般に本明細書ではＡＰ方向）の冠状面図を示し、図２は内外方向（一般に本明細書ではＭＬ方向）の矢状面図を示し、図３は上下方向の横断図を示し、図４は大腿骨の解剖学的軸及び大腿骨の頸部に平行な平面における大腿骨の図を示す。手術前、大腿骨１００の近位部分は、天然の大腿骨頸部及び天然の大腿骨頭部を含む。手術中及び手術後、大腿骨の近位部分は、トライアル又は補綴大腿骨頸部及び大腿骨頭部を提供する様々なトライアル又は補綴部品又はコンポーネントを含み得る。以下は、概して大腿骨頸部及び大腿骨頭部に関し、天然、トライアル、又は補綴のものを含むことが意図される。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  図１及び図２を詳細に参照すると、大腿骨１００の近位部分１０２は、概ね矢印１０６の方向に延在する頸部軸を有する、図４で最も良く示される大腿骨頸部１２６に接続される大腿骨頭部１０４（球によって表される）を含む。大腿骨１００は、外側大腿骨上顆１１０と内側大腿骨上顆１１２との間を延在する上顆軸１０８を有する。大腿骨１００はまた、例えば、遠位大腿骨顆間切痕１１６と、大転子の内側面に近い梨状筋窩と、の間を延在する解剖学的軸１１４を有する。大腿骨１００はまた、例えば、遠位大腿骨顆間切痕１１６の近くと大腿骨頭部１０４の中心との間を延在する機械的軸１２０を有する。大腿骨１００の解剖学的軸１１４及び機械的軸１２０は、他の実施形態では、他の解剖学的点によって画定され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  図３を参照すると、大腿骨頸部の前傾角度１２４は、大腿骨頸部軸１０６及び上顆軸１０８によって定められた横断面における角度として定義され得る。実際には、天然頸部の大腿骨頸部前傾角度は、典型的には約１２度～１５度の範囲であるが、他の値を有してもよい。頸部前傾角度１２４は、大腿骨１００の局所的な解剖学的構造に対する大腿骨頸部の前傾の測定値である。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  図４は、大腿骨頸部軸１０６及び解剖学的軸１１４に対して平行であり、大腿骨頸部１２６をより明確に示す、図３の線ＢＢに対して平行な面における大腿骨１００の図を示す。図４はまた、大腿骨頸部軸１０６と大腿骨の解剖学的軸１１４との間に定められた頸部角度１２８を示す。天然の頸部角度１２８は患者によって変化するが、典型的には約１３０度である。トライアル又は補綴インプラントの頸部角度１２８は、通常、インプラントが調整可能でない限りはインプラントの設計によって固定されており、また、天然の形状をほぼ再現することを意図されている場合が多いため、同様に約１３０度であり得る。以下では、例として１３０度の頸部角度１２８が使用され得るが、その他の実施形態では、他の頸部角度値が用いられてもよいことは理解されよう。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  したがって、補綴大腿骨コンポーネントが用いられる股関節手術中、変数の１つは大腿骨頸部の前傾角度１２４であり、これは大腿骨頸部１２６が大腿骨の内外軸と比較してどれだけ前方に導かれているかを概ね測定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  図５～図９を参照すると、骨盤２００及び右寛骨臼の様々な異なる図が示されている。具体的には、図５は前後方向（一般に本明細書ではＡＰ方向）の冠状面図を示し、図６は内外方向（一般に本明細書ではＭＬ方向）の矢状面図を示し、図７は上下方向の横断図を示し、図８は図５の線Ａ－Ａに沿った部分的断面図を示し、図９は、前方骨盤面（ＡＰＰ）が垂直であり、横軸が概ね水平である骨盤２００の斜視図を示す。手術前、骨盤２００は、天然の大腿骨頭部が受容されて関節運動する天然の窩を提供する寛骨臼を含む。手術中及び／又は術後、骨盤は、トライアル又は補綴寛骨臼カップ（使用される特定のインプラントシステムに応じてライナを有するか又は有さない）などの様々なトライアル又は補綴インプラントを含み得る。以下は、概して寛骨臼又は寛骨臼カップに関し、天然の寛骨臼、及びトライアル又は補綴コンポーネントを含むことが意図される。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  図５に示すように、寛骨臼２０２は、一般に位置及び配向を有する半球又は半球状のカップによって表されてもよい。寛骨臼の配向又は方向は、一般に、２つの角度によって画定され得る。第１の角度は、寛骨臼が骨盤に対してどれだけ前方又は後方（一般に、前方に指すときは前傾、後方を指すときは後傾と呼ばれる）に導かれているかを示す。第２の角度は、寛骨臼が骨盤に対してどれだけ下向き又は下方向を指しているか（一般に傾斜又は外転と呼ばれる）を示す。寛骨臼の方向は、図９で最も良く示される、概して寛骨臼の口の中心を通り、寛骨臼の口の平面に対して垂直である寛骨臼軸２０４によって画定され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  骨盤２００は、右ＡＳＩＳ２０８と左ＡＳＩＳ２１０との間を通過する横軸２０６を含む。前骨盤面２１２（以下では一般にＡＰＰと称される）は、横軸２０６、並びに恥骨結合上の第１及び第２の点２１４、２１６によって画定される。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  図５で最も良く示されるように、寛骨臼又は寛骨臼カップ２０２の傾斜角度は、前骨盤面２１２内の、又はこれと平行する横軸２０６と、寛骨臼カップ２０２の長軸又は傾斜軸２２２と、によって定められる角度２２０によって定義され得る。図５では、図示される傾斜角度２２０は約４０度である。図８は、図５の線Ａ－Ａに沿い、かつ寛骨臼カップ２０２の長軸２２２に沿った方向における骨盤２００の断面図を示す。したがって、図８は、骨盤カップ２０２の長軸２２２に対して概ね垂直な平面を示す。図８から、前傾角度２２４は、寛骨臼カップの口の平面２２６と前寛骨臼面２１２に垂直な平面２２８との間で定められる角度として定義され得る。したがって、図８に示すように、寛骨臼又は寛骨臼カップ２０２は、約２０度の前傾角度２２４を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  したがって、図９の骨盤２００の斜視図で示されるように、寛骨臼又は寛骨臼カップ２０２は、４０度の傾斜及び２０度の前傾に対応する配向を有する。これらの角度は、図５に示す骨盤のＡＰＰ図に基づいており、また、典型的に放射線撮像されるかＸ線撮像される骨盤の図であるため、放射線写真角度と称される場合があり、その画像は、多くの場合、術前、術中、及び／又は術後に寛骨臼配向を評価するため外科医によって使用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  図１０～図１１を参照すると、大腿骨１００及び骨盤２００によって形成された右股関節３００の様々な異なる図が示されている。具体的には、図１０は、図１と図５とを組み合わせたものと同様の、前後方向（本明細書では一般にＡＰ方向と称される）の冠状面図を示す。図１０では、大腿骨は、以下により詳細に記載されるように、解剖学的位置に配置されている。図１１は、図１０の線Ｃ－Ｃに沿って、寛骨臼カップ２０２の傾斜軸２２２に沿った方向で見た部分的な断面を示す。したがって、図１１の平面は、寛骨臼カップの傾斜軸２２２の方向に対して概ね垂直である。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  図１１に示すように、寛骨臼カップ２０２は、寛骨臼の傾斜軸２２２に垂直な平面内に２０度の前傾角度２２４を有する。図１１は更に、寛骨臼の傾斜軸に対して垂直な平面における、その平面内で大腿骨頸部軸１０６及び前骨盤面２１２によって定められた角度２３０によって定義される大腿骨前傾角度２３０を示す。図１１に示されるように、見かけの大腿骨前傾角度２３０は約１１度である。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  したがって、見て取れるように、股関節の全体的な幾何学的形状は、骨盤に対する寛骨臼の配向、及び更に大腿骨に対する大腿骨頸部の配向から生じる。図示された実施例では、図１０及び図１１に示される股関節２００の全体的又は組み合わせ前傾は、約２０度の寛骨臼前傾と、この実施例では約１１度である同じ平面内に投影される大腿骨前傾の量と、の組み合わせである。したがって、この平面における股関節３００の組み合わせ前傾は約３１度である。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  しかしながら、実際には、外科医が約３５度の組み合わされた前傾について語る際は、これは、異なる平面における角度の絶対値、すなわち第１の平面における大腿骨に対する頸部の１５度の前傾と、第２の異なる平面における骨盤に対する寛骨臼の２０度の前傾と、を加算して約３５度を得ることによって達成され得る。実際には、組み合わされた前傾は、典型的には３０度超かつ４０度未満であるように、約３０度～４０度の範囲であると想定され、任意の測定又は評価は、いずれにせよ±数度の精度である可能性があるため、異なる非平行な平面における角度の測定値は重要ではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  本明細書では、組み合わされた前傾とは、文脈に応じて、股関節の前傾が、大腿骨に対する大腿骨頸部の前傾の程度と、更に骨盤に対する寛骨臼の前傾の程度と、の組み合わされた効果であるという概念を指し得る。より具体的には、極端な例を除き、組み合わされた前傾は、更に、同一平面内で測定された寛骨臼前傾と大腿骨前傾との合計は、例えば約３５度といった特定の値を有するはずであるという一般的経験則を指し得る。したがって、一方で低い値が生じる場合、組み合わされた前傾をこの目標値に近づけるために、もう一方の値が増加し得る（又はこの逆も可能である）。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  図１２を参照すると、本発明によるトライアル大腿骨頸部４００の第１の実施形態の斜視図が示されている。図１２は、左股関節用のトライアル大腿骨頸部を示す。右股関節用のトライアル大腿骨頸部も概ね同様であるが、右股関節トライアル大腿骨頸部４００の鏡像である。図１２に見られるように、トライアル頸部２００は、概ね屈曲した外形又は形状を有し、よって屈曲したトライアル大腿骨頸部を提供する。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  図１３Ａは、使用中に概ね内－外方向に対応するトライアル大腿骨頸部４００の第１の側面の図を示し、図１３Ｂは、使用中に概ね外－内方向に対応するトライアル大腿骨頸部の第２の側面の図を示し、図１３Ｃは、使用中に概ね上－下方向に対応するトライアル大腿骨頸部４００の第１の端部の図を示し、図１３Ｄは、使用中に概ね下－上方向に対応するトライアル大腿骨頸部４００の第２の端部の図を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  トライアル大腿骨頸部４００は、本体４０２と、トライアル大腿骨頸部の自由端部にあるテーパ４０４とを備え、テーパ４０４は本体４０２に対して傾けられているか又は傾斜している。テーパ４０４は、トライアル大腿骨頸部の残りの部分に対して後傾している。本体は、そこから円形ペグ形態の第１の取り付け構成体４０８が延出する下側４０６を有する。図１５の断面図に最もよく示されるように、本体４０２はまた、その中に空洞４１０を画定し、これは第２の取り付け構成体を提供する。本体４０２の下部４１１は、第１の肩部４１２及び第２の肩部４１４を有する。本体４０２の上部４１４は、リブ４１６によって下部に接続されている。テーパ４０４は、上部４１４の自由端部に設けられている。テーパ４０４は、その端面４２０の周辺部の周りに延びる面取り部４１８を有する。浅溝４２２は、テーパの側壁４２４内に形成され、その周囲に延在する。ステンレス鋼、ナイロン、又はアセタールなどの弾性材料から作製された部分的なリング又はＣクリップ４２８は、溝内に位置し、テーパの大部分の周囲に延在する。Ｃクリップは、以下により詳細に記載されるように、トライアル大腿骨頭部との摩擦嵌合を提供するように作用する。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  下記でより詳細に説明するように、第１の取り付け構成体４０８及び第２の取り付け構成体４１０は、大腿骨ブローチ又はラスプなどの大腿骨部分の上部に提供されるそれぞれの対応物である雌型及び雄型取り付け構成体と協働して、トライアル大腿骨頸部４００が使用中に形式的（formal）部分に解除可能に取り付けられるのを可能にするように配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  トライアル大腿骨頸部４００は、金属、合金、又はプラスチックなどの任意の好適な生体適合性材料から製造することができる。具体的には、トライアル大腿骨頸部４００は、ステンレス鋼から製造され得る。あるいは、トライアル大腿骨頸部は、プラスチック、例えば、Ｓｏｌｖａｙ  Ａｖａｓｐｉｒｅなどのガラス充填ＰＡＥＫ／ＰＥＥＫ又はＰＡＥＫ／ＰＥＥＫブレンドから作製されてもよい。他の好適な材料としては、チタン、アルミニウム、コバルトクロム、ポリフェニルスルホン、ポリアセタール、ポリアミド、ポリプロピレン、ポリアリールアミド、ポリエーテルイミド、アクリロニトリル－ブタジエン－スチレン、ポリメチルメタクリレート、ポリカーボネートが挙げられ、全てのポリマーは、未充填状態であってもよく、又はガラス若しくは炭素繊維若しくはビーズで充填されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  図１４は、同様に本発明による、トライアル大腿骨頸部４００及びトライアル大腿骨頭部４５０を備えるアセンブリ４４０の分解図を示す。トライアル大腿骨頭部４５０は、概して切頭球の形態である。トライアル大腿骨頭部は、トライアル大腿骨頭部の外面４５４内の浅溝４５２の形態であり、トライアル大腿骨頭部の赤道の周囲を延在する、印を含む。図１５は、図１４と同じ配向でのトライアル大腿骨頸部４００及びトライアル大腿骨頭部４５０の断面図を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  図１５で最も良く示されるように、トライアル大腿骨頭部４５０は、トライアル大腿骨頭部４５０内に空洞４５８を画定する内壁４５６を有する。空洞は、中にテーパ４０４を受容するように構成され、また、空洞４５８の周囲を延在し、Ｃリング４２８と整合するように配置されたわずかに凹んだ部分４６０を含んで、摩擦嵌めを提供して、トライアル大腿骨頭部４５０が、トライアル大腿骨頸部上にしっかりと保持されながらもトライアル大腿骨頸部に解除可能に取り付けられることを可能にする。トライアル大腿骨頭部空洞４５８は、破線４６２で示され、トライアル大腿骨頭部の極を通過し、トライアル大腿骨頭部の平坦な下側４６４に対して概ね垂直である、トライアル大腿骨頭部の大腿骨頭部軸に沿って延在する。トライアル大腿骨頭部軸４６２は、図１４及び図１５のテーパ軸４３０と一致する。赤道印４５２は、トライアル大腿骨頭部軸４６２に対して概ね垂直な平面内にある。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  説明される実施形態では赤道印が使用されているが、他の実施形態では、印はトライアル大腿骨頭部軸に沿った他の位置にあってもよい。必要とされるのは、印がトライアル大腿骨頭部軸に対して概ね垂直な平面を概ね示すことのみである。したがって、他の実施形態では、印は、トライアル大腿骨頭部の実際の赤道に平行な、一定緯度の他の線であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  また、溝が印として用いられているが、他の実施形態では、印は、連続的であるか破断しているかに関わらず、表面上のリブ、線、又は帯、及び同様のものなどのその他の特徴によって提供されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  図１４に最も良く示されるように、テーパ４０４はテーパ軸４３０に沿って延在し、トライアル頸部の本体４０２は、大腿骨頸部軸４７０に沿って延在する。使用中、大腿骨コンポーネントに装着されると、大腿骨頸部軸４７０は、頸部軸１０６に概ね沿って延在する。従来のトライアル頸部は概ね真っ直ぐであり、テーパもまた、頸部の本体と同じ方向に、頸部軸に沿って延在する。しかしながら、本発明では、テーパは、トライアル頸部の残部に対して傾けられているか又は傾斜しているため、トライアル頸部は、屈曲したトライアル頸部と称されてもよい。具体的には、テーパ４０４は本体４０２に対して傾けられおり、テーパ軸４３０は、大腿骨頸部軸４７０に対して約３５度の角度４７２を定める。テーパは、この例では約３５度である、組み合わされた前傾の所望の角度によって効果的に後傾される。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  図１４に示されるように、テーパ４０４は、本体４０２又は頸部軸４７０に対して概ね前方向に傾けられている。図１２は、内－外軸及び前－後軸によって概ね画定される平面の図を示す。したがって、テーパ４０４は、下－上軸に概ね平行な軸を中心に頸部に対して傾けられていてもよい。言い換えれば、テーパは、本体４０２の中心面によって画定され、頸部軸４７０が位置する平面から外れるように傾けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  テーパ４０４は、トライアル頭部４５０がテーパ上に完全に着座したとき、トライアル頭部４５０の中心が、トライアル頭部４５０が同じ長さの従来型のトライアル頸部と共に用いられた場合に有する同じ位置に対応するように構成されている。したがって、トライアル頸部４０２上に装着されたときにトライアル頭部４５０によって提供される回転の中心の位置は同じであるが、トライアル頭部の配向は、ステムのブローチ又は頸部に対して約３５度の角度で傾けられている。したがって、赤道印もまた、鎖線４７４によって表されるように、図１４及び図１５の「水平状」から遠ざかるように傾けられる。テーパ４７２の傾斜角度は、トライアル頸部及びトライアル頭部のアセンブリ４４０が、埋め込まれた大腿骨コンポーネントに装着され、関節が整復されて所定位置に配置されると、続いて赤道印４５２が、患者の骨盤内で好適な又は目標の前傾角度及び好適な又は目標の傾斜角度で配置されている寛骨臼カップ又はライナのリムと平行になるように選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  具体的には、アセンブリ４４０が患者の大腿骨に対して約１５度前傾し、トライアル股関節が解剖学的位置又は構成に配置されているとき、傾斜角度４７２は、患者の骨盤に対して約２０度の目標カップ前傾に対応する。股関節の解剖学的位置は、０度の屈曲／伸展、０度の内転／外転、及び０度の内旋／外旋で配置された患者の大腿骨に対応する。したがって、カップ又はライナのリムが赤道印４５２に対して概ね平行である場合、股関節の組み合わせられた前傾は約３５度になる。カップが更に骨盤に対して約４０度の傾斜で配置されている場合、カップ又はライナのリムの平面は赤道印４５２の平面に対して平行になる。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  図１６は、本発明によるトライアル大腿骨頸部５００の第２の実施形態の斜視図を示し、図１７は、トライアル大腿骨頸部５００、及び赤道印を備えるトライアル大腿骨頭部４５０を含むトライアルアセンブリ５４０の概ね内－外方向の分解図を示す。第１の実施形態と同様に、トライアル大腿骨頸部５００は、大腿骨頸部軸に沿って延在する本体５０２と、トライアル大腿骨頸部の自由端部にあり、テーパ軸に沿って延在するテーパ５０４と、を有する。テーパ５０４は、本体５０４に対して傾けられているか又は傾斜しており、したがって、トライアル大腿骨頸部５００は概ね屈曲した外形又は形状を有していた。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  図１４に示される第１の実施形態と同様に、テーパ５０４は、本体５０２又は頸部軸４７０に対して概ね前方向に傾けられている。図１７は、内－外軸及び前－後軸によって概ね画定される平面の図を示す。したがって、テーパ５０４は、下－上軸に概ね平行な軸を中心に頸部に対して傾けられている。言い換えれば、テーパは、本体５０２の中心面によって画定され、頸部軸が位置する平面から外れるように傾けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  トライアル大腿骨頸部５００は、「正常」な頸部の表現により近いため、実際のインプラント頸部の外部エンベロープをより正確に表す。したがって、可動域（ＲＯＭ）の評価の間、結果及び評価は、実際のインプラントをより代表するものとなり、例えば、頸部はほぼ同じ角度でカップとぶつかり合うことになる。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  トライアル大腿骨頸部の第１の実施形態は、より優れた適合性を可能にするが、一方の側に存在せず、もう一方の側に追加された材料を有するため、補綴頸部のＲＯＭ評価をそれほど正確に再現することができない。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  トライアル大腿骨頸部５００は、第１の実施形態に関連して上述したような、金属、合金、又はプラスチックなどの任意の好適な生体適合性材料から製造され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  図１８を参照すると、トライアル大腿骨頸部４００、５００、及びアセンブリ４５０、５５０が用いられ得る股関節置換外科処置６００を図示するフローチャートが示される。工程のうちのいくつかの順序は関連性がないが、工程のうちのいくつかの順序は、以下の説明から明らかになるように関連性があり得る。また、記載された工程のうちのいくつかは任意選択的であってもよく、外科医が好み得るワークフローによっては省略されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  ６０２では、大腿骨は、天然の大腿骨頸部及び頭部を切除することを含み得る概ね従来どおりの方法で下処理され、続いて６０４では、大腿骨ステムコンポーネントを受容するための空洞が髄内管に沿って形成され、これは、典型的には１つ以上のブローチ及び／又はラスプを使用することを含む。最終的に寸法決めされたブローチが使用されるときは、ブローチハンドルが取り除かれて、ブローチが大腿骨内に残される。６０６では、寛骨臼は、軟組織を除去することと、寛骨臼リーマを使用して天然の寛骨臼内に半球状の空洞を形成することと、を含み得る概ね従来どおりの方法で下処理される。６０８では、外科医によって、カップインサータを使用し、特定の配向（傾斜及び外転）で、補綴寛骨臼カップが寛骨臼空洞内に挿入される。任意のカップライナも、６０８で埋め込まれた寛骨臼カップに挿入されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  ６１０では、屈曲したトライアル大腿骨頸部４００、５００が大腿骨内のブローチに取り付けられ、トライアル大腿骨頭部４５０がトライアル頸部４００、５００のテーパ４０２、５０２に取り付けられて、トライアル大腿骨アセンブリを形成する。６１２では、トライアル関節は、埋め込まれた寛骨臼カップ又はライナ内にトライアル大腿骨頭部４５０を導入することによって整復される。続いて６１４で、患者の骨盤及び／又は脚部を操作して、トライアル関節を予め選択された位置又は構成に配置する。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  具体的には、大腿骨と共に患者の脚部を骨盤に対する解剖学的位置に配置する。具体的には、大腿骨は、０度の屈曲／伸展、０度の内転／外転、及び０度の内旋／外旋で配置される。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  手術台上の骨盤がほぼ中立量の骨盤傾斜を取ると仮定すると、これは、以下の３つの因子を比較することによって達成することができる。患者の長手方向軸に対する脚部の長軸は、下肢を軽く引っ張って脚部を完全に伸展させることによって調整することができる。患者が仰臥位にある状態で前方アプローチが使用される場合、脚部は、自然と完全に伸展された状態で置かれる。脚部のゼロ外転／内転は、両下肢（膝から足首までの脛骨）を、平行に、かつほぼ接触させて配置することによって達成することができる。０度の内旋／外旋角度は、骨盤の横軸に対する膝の上顆軸を用いてチェックすることができる。骨盤が台上で水平（仰臥位）又は垂直（側臥位アプローチにおける）である場合、上顆軸を台と比較することができる。患者が側位にある状態で後方アプローチが使用される場合、脛骨を９０度屈曲させて、大腿骨の任意の内旋／外旋を示す、大腿骨関節運動軸上のより識別しやすい指標を提供することができる。したがって、台上の患者の配向に応じて、患者の脚部は、骨盤に対する大腿骨の０度の屈曲／伸展、０度の外転／内転、及び０度の内旋／外旋を提供するように適切な位置に配置される。患者の脚部がこの解剖学的位置にある状態で、工程６１６ではカップ配向の評価を行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  屈曲したトライアル大腿骨頸部が例えば２０度で構成されている値に対応する、骨盤に対する前傾を有する配向でカップが配置されている場合、赤道印４５２は、カップ又はライナのリムに対して概ね平行になる。あるいは、カップが目標値と異なる前傾を有する配向で配置されている場合、赤道印４５２はカップ又はライナのリムと平行にならない。したがって、赤道印４５２の線とカップ又はライナのリムの平面との間に定められる角度が、目標前傾値と比較してカップが角度的にどれだけ離れて配置されているかを概ね示すため、赤道印４５２は、寛骨臼カップの前傾角度の視覚的指標を提供する。カップも、この実施例では４０度である骨盤に対する目標傾斜角度で配置されている場合、カップ又はライナのリムの平面は、赤道印の平面と平行になる。したがって、６１６では、外科医は、トライアル関節アセンブリを視覚的に検査することによってカップの前傾を評価して、赤道印４５２がカップ又はライナの口の平面に対してどの程度平行に近づいているかを見ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  任意選択的に、工程６１６で、更に可動域（ＲＯＭ）評価を行うことができる。これは、当該技術分野において一般的に知られており、トライアル股関節を関節運動させて、股関節コンポーネントが衝突するまでに可能性のある関節運動の可能な範囲を検出することを伴う。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  ６１８で、前－後方向（図５に対応する）におけるトライアル関節の術中Ｘ線画像が、任意選択的に、予め選択された位置でトライアル関節を用いて取得されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  外科医がカップの再配置を行う必要はない。６１６におけるトライアル評価は、外科医にカップ配向の何らかの即時術中フィードバックを提供するために、単に達成された前傾角度を評価するために実施されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  ６２０で、ブローチを含む全てのトライアル大腿骨コンポーネントは、大腿骨から除去される。続いて６２２で、実際の補綴大腿骨ステムが大腿骨空洞内に埋め込まれ、補綴大腿骨頭部が取り付けられる。次に、６２４で、関節を整復してもよく、所望に応じて任意の可動域トライアルが実施される。続いて外科手術は実質的に終了する。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  屈曲したトライアル大腿骨頸部４００、５００は多数の利点を提供する。屈曲したトライアル頸部４００、５００は、専用の位置合わせマーキングを有する特別なトライアル頭部を用いるのではなく、赤道印を備える従来のトライアル大腿骨頭部と共に使用することができる。したがって、屈曲したトライアル頸部４００、５００は、既存のトライアル頭部及びライナと下位互換性を有することができる。また、異なる角度をチェックするように構成された異なる傾斜をそれぞれ備える複数の屈曲したトライアル頸部が提供されてもよい。例えば、直接前方外科的アプローチは、２０度の目標組み合わせ前傾を有し得、一方で後方外科的アプローチは、３５度の目標組み合わせ前傾を有し得る。右股関節又は左股関節用の適切な屈曲したトライアル頸部にトライアル頭部を組み付ける際の混乱を防ぐのに役立ち得る、特定の左股関節及び右股関節頸部が提供されてもよい。また、トライアル頭部は、任意の特定の回転角度でテーパ４０４、５０４に取り付けられる必要はなく、このためトライアルアセンブリの組み立てはより単純かつ容易になる。
+</base:Paragraphs>
+      <base:Paragraphs num="0083">
+  本明細書では、例示的な実施形態は、特定の特徴の組み合わせとして提示されている。しかしながら、当業者であれば、より少ない特徴又はより多くの特徴を含む特徴の様々な組み合わせを含む多くの他の実施形態が実践され得ることを理解するであろう。以下の特許請求の範囲は、全ての可能な実施形態を網羅することが意図される。
+</base:Paragraphs>
+      <base:Paragraphs num="0084">
+  全ての指示及び／又はフローチャート工程は、特定の順序が明示的に記載されているか、又は説明の文脈から必要とされると理解されない限り、任意の順序で実行されてよい。また、当業者は、例示的な方法が論じられているが、様々な他の異なる方法が、方法工程のその他の組み合わせ及び／又は順序に基づいて可能であり、またこの発明を実施するための形態によって提供される文脈内で理解されるべきであるということを認識するであろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0085">
+  本発明は様々な改変及び代替的形態が適用可能であるが、特定の実施形態を例示のために図面に示し、詳細に説明する。しかしながら、説明された特定の実施形態を超える他の実施形態もまた可能であることを理解されたい。添付の特許請求の範囲内に含まれる全ての修正、均等物、及び代替の実施形態もまた網羅される。
+</base:Paragraphs>
+      <base:Paragraphs num="0086">
+〔実施の態様〕
+
+（１）  患者の骨盤内に埋め込まれた寛骨臼カップの配向を視覚的に評価するための屈曲したトライアル大腿骨頸部であって、
+
+  大腿骨頸部軸に沿って延在する本体と、
+
+  前記トライアル大腿骨頸部を前記患者の大腿骨と共に受容された大腿骨部分に解除可能に取り付けるために、前記本体から延在する取り付け構成体と、
+
+  テーパであって、前記テーパはテーパ軸に沿って延在し、前記テーパ軸は、外面上に印を有するトライアル大腿骨頭部を位置決めするように構成された角度で前記大腿骨頸部軸に対して前方に傾けられており、その結果、前記寛骨臼カップが前記患者の前記骨盤内において目標配向で配向され、股関節が所定位置にあるとき、前記印は前記寛骨臼カップのリム、又は前記寛骨臼カップ内のライナのリムの平面と平行になる、テーパと、
+
+  を備える、屈曲したトライアル大腿骨頸部。
+
+（２）  前記テーパ軸は、前記大腿骨頸部軸に対して１０度～４０度の範囲の角度で傾けられている、実施態様１に記載の屈曲したトライアル大腿骨頸部。
+
+（３）  前記テーパ軸は、前記大腿骨頸部軸に対して３５度の角度で傾けられている、実施態様２に記載の屈曲したトライアル大腿骨頸部。
+
+（４）  前記本体は下部及び上部を備え、凹部が、前記屈曲したトライアル大腿骨頸部の、前記上部と前記下部との間の一側面上に位置し、前記テーパに取り付けられたときに前記トライアル大腿骨頭部の一部分を収容するように配置されている、実施態様１～３のいずれかに記載の屈曲したトライアル大腿骨頸部。
+
+（５）  前記下部及び前記上部は、前記凹部とは反対側の前記屈曲したトライアル大腿骨頸部の一側面上に位置するリブによって接続されている、実施態様４に記載の屈曲したトライアル大腿骨頸部。
+</base:Paragraphs>
+      <base:Paragraphs num="0087">
+（６）  前記目標配向は、前記寛骨臼カップの目標前傾である、実施態様１～５のいずれかに記載の屈曲したトライアル大腿骨頸部。
+
+（７）  前記寛骨臼カップの前記目標前傾は、前記患者の前記骨盤に対して２０度である、実施態様６に記載の屈曲したトライアル大腿骨頸部。
+
+（８）  前記股関節は、０度の屈曲／伸展、０度の内転／外転、及び０度の内旋／外旋で配置された前記患者の前記大腿骨に対応する解剖学的位置にある、実施態様１～７のいずれかに記載の屈曲したトライアル大腿骨頸部。
+
+（９）  実施態様１～８のいずれかに記載の屈曲したトライアル大腿骨頸部と、
+
+  トライアル大腿骨頭部であって、前記トライアル大腿骨頭部は、中に前記テーパを受容するように構成された空洞を含み、前記空洞はトライアル頭部軸に沿って延在し、前記印は、前記トライアル頭部軸に対して垂直の面を識別するように配置されている、トライアル大腿骨頭部と、
+
+  を備える部品のキット。
+
+（１０）  前記印が赤道印である、実施態様９に記載の部品のキット。
+</base:Paragraphs>
+      <base:Paragraphs num="0088">
+（１１）  更なる取り付け構成体を含む大腿骨切断器具を更に備え、前記トライアル大腿骨頸部は、前記取り付け構成体及び前記更なる取り付け構成体を用いて前記大腿骨切断器具に解除可能に取り付け可能である、
+
+  実施態様９又は１０に記載の部品のキット。
+
+（１２）  前記大腿骨切断器具は大腿骨ブローチである、実施態様１１に記載の部品のキット。
+
+（１３）  前記トライアル大腿骨頭部は、前記屈曲したトライアル大腿骨頸部の前記テーパ上に装着されている、実施態様９～１２のいずれかに記載の部品のキットのアセンブリ。
+
+（１４）  前記トライアル大腿骨頸部は前記大腿骨ブローチに取り付けられている、実施態様１３に記載のアセンブリ。
+
+（１５）  患者の骨盤に埋め込まれた寛骨臼カップの配向を視覚的に評価する方法であって、
+
+  屈曲したトライアル大腿骨頸部を前記患者の大腿骨内の大腿骨切断器具に取り付けることであって、前記屈曲したトライアル大腿骨頸部はテーパ及び本体を有し、前記テーパは前記本体に対して前方に傾けられている、ことと、
+
+  トライアル大腿骨頭部を前記テーパに取り付けることであって、前記トライアル大腿骨頭部は、前記トライアル大腿骨頭部の外面上に印を含む、ことと、
+
+  前記トライアル大腿骨頭部を前記寛骨臼カップ内に配置することによってトライアル股関節を整復することと、
+
+  前記トライアル股関節を所定位置に置くように前記患者の前記大腿骨を位置決めすることと、
+
+  前記印と前記寛骨臼カップのリム又は前記寛骨臼カップ内のライナのリムとの間の角度を視覚的に検査して、前記寛骨臼カップの前記配向が前記寛骨臼カップの目標配向にどの程度近いかを評価することと、
+
+  を含む、方法。
+</base:Paragraphs>
+      <base:Paragraphs num="0089">
+（１６）  前記配向は前記寛骨臼カップの前傾である、実施態様１５に記載の方法。
+
+（１７）  前記寛骨臼カップの前記前傾は、前記患者の前記骨盤に対して２０度である、実施態様１６に記載の方法。
+
+（１８）  前記予め選択された位置は、０度の屈曲／伸展、０度の内転／外転、及び０度の内旋／外旋で配置された前記患者の前記大腿骨に対応する解剖学的位置である、実施態様１５～１７のいずれかに記載の方法。
+
+（１９）  前記大腿骨切断器具はブローチ又はラスプである、実施態様１５～１８のいずれかに記載の方法。
+
+（２０）  前記大腿骨切断器具は、前記患者の前記大腿骨に対して１５度前傾している、実施態様１５～１９のいずれかに記載の方法。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="96" wi="35" file="2020516400_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="96" wi="34" file="2020516400_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="102" wi="73" file="2020516400_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="95" wi="43" file="2020516400_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="64" wi="44" file="2020516400_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="73" wi="75" file="2020516400_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="62" wi="30" file="2020516400_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="40" wi="54" file="2020516400_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="55" wi="58" file="2020516400_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="90" wi="65" file="2020516400_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="85" wi="70" file="2020516400_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="92" wi="53" file="2020516400_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="101" wi="79" file="2020516400_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="99" wi="67" file="2020516400_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="104" wi="57" file="2020516400_000017.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="100" wi="58" file="2020516400_000018.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="96" wi="69" file="2020516400_000019.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="95" wi="68" file="2020516400_000020.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="92" wi="57" file="2020516400_000021.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="95" wi="66" file="2020516400_000022.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000023" he="109" wi="64" file="2020516400_000023.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  患者の骨盤内に埋め込まれた寛骨臼カップの配向を視覚的に評価するための屈曲したトライアル大腿骨頸部であって、
+
+  大腿骨頸部軸に沿って延在する本体と、
+
+  前記トライアル大腿骨頸部を前記患者の大腿骨と共に受容された大腿骨部分に解除可能に取り付けるために、前記本体から延在する取り付け構成体と、
+
+  テーパであって、前記テーパはテーパ軸に沿って延在し、前記テーパ軸は、外面上に印を有するトライアル大腿骨頭部を位置決めするように構成された角度で前記大腿骨頸部軸に対して前方に傾けられており、その結果、前記寛骨臼カップが前記患者の前記骨盤内において目標配向で配向され、股関節が所定位置にあるとき、前記印は前記寛骨臼カップのリム、又は前記寛骨臼カップ内のライナのリムの平面と平行になる、テーパと、
+
+  を備える、屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記テーパ軸は、前記大腿骨頸部軸に対して１０度～４０度の範囲の角度で傾けられている、請求項１に記載の屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記テーパ軸は、前記大腿骨頸部軸に対して３５度の角度で傾けられている、請求項２に記載の屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記本体は下部及び上部を備え、凹部が、前記屈曲したトライアル大腿骨頸部の、前記上部と前記下部との間の一側面上に位置し、前記テーパに取り付けられたときに前記トライアル大腿骨頭部の一部分を収容するように配置されている、請求項１～３のいずれか一項に記載の屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記下部及び前記上部は、前記凹部とは反対側の前記屈曲したトライアル大腿骨頸部の一側面上に位置するリブによって接続されている、請求項４に記載の屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記目標配向は、前記寛骨臼カップの目標前傾である、請求項１～５のいずれか一項に記載の屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記寛骨臼カップの前記目標前傾は、前記患者の前記骨盤に対して２０度である、請求項６に記載の屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記股関節は、０度の屈曲／伸展、０度の内転／外転、及び０度の内旋／外旋で配置された前記患者の前記大腿骨に対応する解剖学的位置にある、請求項１～７のいずれか一項に記載の屈曲したトライアル大腿骨頸部。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  請求項１～８のいずれか一項に記載の屈曲したトライアル大腿骨頸部と、
+
+  トライアル大腿骨頭部であって、前記トライアル大腿骨頭部は、中に前記テーパを受容するように構成された空洞を含み、前記空洞はトライアル頭部軸に沿って延在し、前記印は、前記トライアル頭部軸に対して垂直の面を識別するように配置されている、トライアル大腿骨頭部と、
+
+  を備える部品のキット。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記印が赤道印である、請求項９に記載の部品のキット。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  更なる取り付け構成体を含む大腿骨切断器具を更に備え、前記トライアル大腿骨頸部は、前記取り付け構成体及び前記更なる取り付け構成体を用いて前記大腿骨切断器具に解除可能に取り付け可能である、
+
+  請求項９又は１０に記載の部品のキット。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記大腿骨切断器具は大腿骨ブローチである、請求項１１に記載の部品のキット。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記トライアル大腿骨頭部は、前記屈曲したトライアル大腿骨頸部の前記テーパ上に装着されている、請求項９～１２のいずれか一項に記載の部品のキットのアセンブリ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記トライアル大腿骨頸部は前記大腿骨ブローチに取り付けられている、請求項１３に記載のアセンブリ。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000024" file="2020516400_000024.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000025" file="2020516400_000025.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000026" file="2020516400_000026.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000004">
+    <business:ExternalSearchReport id="externalsearchreport000027" file="2020516400_000027.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000005">
+    <business:ExternalSearchReport id="externalsearchreport000028" file="2020516400_000028.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

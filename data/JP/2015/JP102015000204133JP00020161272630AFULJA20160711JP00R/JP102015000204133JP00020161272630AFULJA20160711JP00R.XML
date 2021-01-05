@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000204133JP00020161272630AFULJA20160711JP00R.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127263" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127263</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127263</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000204133</base:DocNumber>
+        <base:Date>20151015</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015204133</base:DocNumber>
+        <base:Date>20151015</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000266786</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014266786</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>G</business:Subclass>
+        <business:MainGroup>9</business:MainGroup>
+        <business:Subgroup>20</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01G   9/20        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01G9/20 107C</business:FI>
+      <business:FI type="secondary">H01G9/20 111E</business:FI>
+      <business:FI type="secondary">H01G9/20 115B</business:FI>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">光電変換素子用電解質、及び、これを用いた光電変換素子</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>株式会社フジクラ</base:Name>
+            <base:RegisteredNumber>000005186</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都江東区木場１丁目５番１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>勝亦  健治</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>千葉県佐倉市六崎１４４０番地  株式会社フジクラ  佐倉事業所内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>青木  博昭</base:Name>
+            <base:RegisteredNumber>100129296</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>森村  靖男</base:Name>
+            <base:RegisteredNumber>100143764</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>18</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】光電変換素子の開放電圧及び耐久性を向上させることができる光電変換素子用電解質、及び、これを用いた光電変換素子を提供すること。【解決手段】酸化還元対と、卑金属酸化物とを含み、卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が１～５００質量ｐｐｍである光電変換素子用電解質。【選択図】なし</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、光電変換素子用電解質、及び、これを用いた光電変換素子に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  色素増感光電変換素子は、スイスのグレッツェルらによって開発されたものであり、光電変換効率が高く、製造コストが低いなどの利点を持つため注目されている次世代光電変換素子である。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  このような、色素を用いた光電変換素子は一般に、少なくとも１つの光電変換セルを備えており、光電変換セルは、第１電極基板と、第１電極基板に対向する第２電極基板と、第１電極基板又は第２電極基板に設けられる酸化物半導体層と、第１電極基板及び第２電極基板の間に設けられる電解質とを備えている。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  このような光電変換素子が優れた光電変換特性を得るためには、例えば開放電圧を向上させることが重要であり、例えば下記特許文献１には、開放電圧を向上させるために、酸化還元対を含有する電解質中にｔ－ブチルピリジンを添加することが開示されている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0005">
+          <business:ApplicationCitation num="0001">
+            <base:Text>特開２００５－３２７５１５号公報</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">
+  しかしながら、上記特許文献１に記載の電解質は以下に示す課題を有していた。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  すなわち、上記特許文献１に記載の電解質は、光電変換素子の光電変換セルに含まれる電解質として用いられる場合、光電変換素子に対して優れた開放電圧を付与できるものの、いまだ開放電圧の向上の点で改善の余地を有していた。また上記特許文献１に記載の電解質は、光電変換素子の耐久性の向上の点でも改善の余地を有していた。そのため、光電変換素子の開放電圧を向上させることができるだけでなく、耐久性をも向上させることができる光電変換素子用電解質が望まれていた。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  本発明は上記事情に鑑みてなされたものであり、光電変換素子の開放電圧及び耐久性を向上させることができる光電変換素子用電解質、及びこれを用いた光電変換素子を提供することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0009">
+  本発明者は上記課題を解決するために、電解質の組成に着目して鋭意研究を重ねた。その結果、本発明者は、上記特許文献１記載の電解質が上記課題を解決できない理由について以下のように考えた。すなわち、電解質中にｔ－ブチルピリジンが含まれていると、ｔ－ブチルピリジンが高い塩基性を示すため、電解質中に混入する水分子と反応して水酸化物イオン（ＯＨ－）を発生し、この水酸化物イオンが色素を求核反応により分解させて劣化させる。このため、ｔ－ブチルピリジンでは、光電変換素子の耐久性を向上させることができないのではないかと本発明者は考えた。そこで、本発明者は鋭意研究を重ねた結果、電解質中における卑金属酸化物を所定の濃度となるようにすることで上記課題を解決し得ることを見出し、本発明を完成させるに至った。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  すなわち本発明は、酸化還元対と、卑金属酸化物とを含み、前記卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が１～５００質量ｐｐｍである光電変換素子用電解質である。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  本発明の光電変換素子用電解質によれば、光電変換素子の開放電圧及び耐久性を向上させることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  このような効果が得られる理由について本発明者は以下のように推測している。すなわち、本発明の電解質が、光電変換素子に含まれる光電変換セルの電解質として用いられる場合、卑金属酸化物は低い塩基性を示すため、電解質中に混入する水分子と反応しにくい。このため、水酸化物イオン（ＯＨ－）が発生しにくく、水酸化物イオンによる色素の劣化が起こりにくくなる。一方、卑金属酸化物は分子中に酸素原子を有するため、酸化物半導体層と結合しやすく、電流の漏れサイトとなる酸化物半導体層の表面を効率よく被覆し、それにより光電変換素子の開放電圧を向上させることができる。そして、卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度を１～５００質量ｐｐｍとすることで、光電変換素子の耐久性と開放電圧をバランスよく向上させることができるのではないかと本発明者は推測している。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  上記光電変換素子用電解質においては、前記卑金属酸化物が、酸化ビスマス、酸化亜鉛、酸化銅、酸化鉄、酸化マンガン、酸化鉛、酸化錫、酸化ニッケル、酸化アルミニウム、酸化タングステン、酸化モリブデン、酸化マグネシウム、酸化コバルト、酸化カドミウム、酸化チタン、酸化ジルコニウム、酸化アンチモン、酸化ベリリウム、酸化クロム、酸化ゲルマニウム、酸化バナジウム、酸化ガリウム、酸化ハフニウム、酸化インジウム、酸化ニオブ、酸化レニウム及び酸化タリウムからなる群より選択される少なくとも１種で構成されることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  この場合、卑金属酸化物が上記卑金属酸化物以外の卑金属酸化物で構成される場合に比べて、光電変換素子の開放電圧をより向上させることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  あるいは、上記光電変換素子用電解質においては、前記卑金属酸化物が、少なくとも酸化ビスマス、酸化亜鉛及び酸化錫からなる群より選択される少なくとも１種を含んでいてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0016">
+  この場合、上記卑金属酸化物が、酸化ビスマス、酸化亜鉛及び酸化錫からなる群より選択される少なくとも１種を含まない場合に比べて、光電変換素子の開放電圧をより向上させることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0017">
+  上記光電変換素子用電解質においては、前記卑金属酸化物が酸化ビスマスを含んでいることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0018">
+  この場合、上記卑金属酸化物が、酸化ビスマスを含まない場合に比べて、光電変換素子の開放電圧をより向上させることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0019">
+  上記光電変換素子用電解質においては、前記卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が２～１００質量ｐｐｍであることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0020">
+  この場合、卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が上記範囲を外れる場合に比べて、光電変換素子の開放電圧をより向上させることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0021">
+  また本発明は、少なくとも１つの光電変換セルを備え、前記光電変換セルが、第１電極基板と、前記第１電極基板に対向する第２電極基板と、前記第１電極基板又は前記第２電極基板に設けられる酸化物半導体層と、前記第１電極基板及び前記第２電極基板の間に設けられる電解質とを備え、前記電解質が、上述した光電変換素子用電解質からなる光電変換素子である
+</base:Paragraphs>
+        <base:Paragraphs num="0022">
+  本発明の光電変換素子によれば、開放電圧及び耐久性を向上させることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0023">
+  上記光電変換素子において、前記第１電極基板及び前記第２電極基板の少なくとも一方が前記電解質に接触するガラス基板を有し、前記ガラス基板が、前記電解質中の前記卑金属酸化物と共通の卑金属酸化物を含有することが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0024">
+  この場合、光電変換素子の発電特性がより向上する。この理由について、本発明者は、電解質中の卑金属酸化物がガラス基板へ吸着してしまうことを抑制できるためではないかと推察している。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0025">
+  本発明によれば、光電変換素子の開放電圧を向上させることができる光電変換素子用電解質、及び、これを用いた光電変換素子が提供される。その結果、光電変換効率を向上させることが可能となる。また、本発明によれば、光電変換素子の耐久性を向上させることができる光電変換素子用電解質、及び、これを用いた光電変換素子が提供される。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0026">
+        <base:FigureReference num="0001">本発明の光電変換素子の一実施形態を示す断面図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0027">
+  以下、本発明の実施形態について図１を参照しながら詳細に説明する。図１は、本発明の光電変換素子の一実施形態を示す断面図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  図１に示すように、光電変換素子１００は、１つの光電変換セル６０で構成されており、光電変換セル６０は、第１電極基板１０と、第１電極基板１０に対向する第２電極基板２０と、第１電極基板１０上に設けられる酸化物半導体層３０と、第１電極基板１０及び第２電極基板２０を連結する環状の封止部４０とを備えている。第１電極基板１０、第２電極基板２０及び封止部４０によって形成されるセル空間には電解質５０が充填されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  第１電極基板１０は、透明基板１１および透明基板１１の上に設けられる透明導電層１２で構成される透明導電性基板１５からなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  第２電極基板２０は、導電性基板２１と、導電性基板２１の透明導電性基板１５側に設けられて電解質５０の還元に寄与する触媒層２２とを備えている。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  酸化物半導体層３０は、封止部４０の内側に配置されている。また酸化物半導体層３０には色素が吸着されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  上記電解質５０は、酸化還元対と、卑金属酸化物とを含む。そして、卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が１～５００質量ｐｐｍである。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  光電変換素子１００によれば、電解質５０が上記構成を有することで、開放電圧及び耐久性を向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  次に、第１電極基板１０、第２電極基板２０、酸化物半導体層３０、封止部４０、電解質５０及び色素について詳細に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  ＜第１電極基板＞
+  第１電極基板１０は、上述したように、透明導電性基板１５で構成され、透明導電性基板１５は、透明基板１１と、透明基板１１の上に設けられ、第１電極である透明導電層１２とで構成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  透明基板１１を構成する材料は、例えば透明な材料であればよく、このような透明な材料としては、例えばホウケイ酸ガラス、ソーダライムガラス、白板ガラス、石英ガラスなどのガラス、ポリエチレンテレフタレート（ＰＥＴ）、ポリエチレンナフタレート（ＰＥＮ）、ポリカーボネート（ＰＣ）、及び、ポリエーテルスルフォン（ＰＥＳ）などが挙げられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  ここで、透明基板１１が、ガラスで構成されるガラス基板である場合、透明基板１１は、電解質５０に接触していなくてもよいが、図１に示すように、電解質５０に接触していてもよい。透明基板１１が電解質５０に接触している場合、透明基板１１は、電解質５０中の卑金属酸化物と共通の卑金属酸化物を含有することが好ましい。この場合、電解質５０中の卑金属酸化物が、ガラス基板で構成される透明基板１１へ吸着してしまうことを抑制でき、その結果、光電変換素子１００の発電特性がより向上する。ここで、透明基板１１中に含まれる卑金属酸化物と電解質５０中に含まれる卑金属酸化物とが同一であることが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  透明基板１１の厚さは、光電変換素子１００のサイズに応じて適宜決定され、特に限定されるものではないが、例えば５０～４００００μｍの範囲にすればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  透明導電層１２を構成する材料としては、例えばスズ添加酸化インジウム（ＩＴＯ）、酸化スズ（ＳｎＯ２）、及び、フッ素添加酸化スズ（ＦＴＯ）などの導電性金属酸化物が挙げられる。透明導電層１２は、単層でも、異なる導電性金属酸化物で構成される複数の層の積層体で構成されてもよい。透明導電層１２が単層で構成される場合、透明導電層１２は、高い耐熱性及び耐薬品性を有することから、ＦＴＯで構成されることが好ましい。透明導電層１２の厚さは例えば０．０１～２μｍの範囲にすればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  ＜第２電極基板＞
+  第２電極基板２０は、上述したように、基板と第２電極を兼ねる導電性基板２１と、導電性基板２１のうち第１電極基板１０側に設けられて電解質５０の還元に寄与する導電性の触媒層２２とを備えるものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  導電性基板２１は、例えばチタン、ニッケル、白金、モリブデン、タングステン、アルミニウム、ステンレス等の耐食性の金属材料で構成される。また、導電性基板２１は、基板と第２電極を分けて上述した透明基板１１に第２電極としてＩＴＯ、ＦＴＯ等の導電性酸化物からなる透明導電層を形成した積層体で構成してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  ここで、導電性基板２１の透明基板１１が、ガラスで構成されるガラス基板である場合、透明基板１１は、電解質５０に接触していなくてもよいが、電解質５０に接触していてもよい。導電性基板２１の透明基板１１が電解質５０に接触している場合、導電性基板２１の透明基板１１は、電解質５０中の卑金属酸化物と共通の卑金属酸化物を含有することが好ましい。この場合、電解質５０中の卑金属酸化物が、ガラス基板で構成される透明基板１１へ吸着してしまうことを抑制でき、その結果、光電変換素子１００の発電特性がより向上する。ここで、透明基板１１中に含まれる卑金属酸化物と電解質５０中に含まれる卑金属酸化物とが同一であることが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  導電性基板２１の厚さは、光電変換素子１００のサイズに応じて適宜決定され、特に限定されるものではないが、例えば０．００５～４ｍｍとすればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  触媒層２２は、白金、炭素系材料又は導電性高分子などから構成される。ここで、炭素系材料としては、カーボンナノチューブが好適に用いられる。なお、第２電極基板２０は、導電性基板２１が触媒機能を有する場合（例えばカーボンなどを含有する場合）には触媒層２２を有していなくてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  ＜酸化物半導体層＞
+  酸化物半導体層３０は、酸化物半導体粒子で構成されている。酸化物半導体粒子は、例えば酸化チタン（ＴｉＯ<base:Sub>２</base:Sub>）、酸化亜鉛（ＺｎＯ）、酸化タングステン（ＷＯ<base:Sub>３</base:Sub>）、酸化ニオブ（Ｎｂ<base:Sub>２</base:Sub>Ｏ<base:Sub>５</base:Sub>）、チタン酸ストロンチウム（ＳｒＴｉＯ<base:Sub>３</base:Sub>）、酸化スズ（ＳｎＯ<base:Sub>２</base:Sub>）、酸化インジウム（Ｉｎ<base:Sub>３</base:Sub>Ｏ<base:Sub>３</base:Sub>）、酸化ジルコニウム（ＺｒＯ<base:Sub>２</base:Sub>）、酸化タリウム（Ｔａ<base:Sub>２</base:Sub>Ｏ<base:Sub>５</base:Sub>）、酸化ランタン（Ｌａ<base:Sub>２</base:Sub>Ｏ<base:Sub>３</base:Sub>）、酸化イットリウム（Ｙ<base:Sub>２</base:Sub>Ｏ<base:Sub>３</base:Sub>）、酸化ホルミウム（Ｈｏ<base:Sub>２</base:Sub>Ｏ<base:Sub>３</base:Sub>）、酸化ビスマス（Ｂｉ<base:Sub>２</base:Sub>Ｏ<base:Sub>３</base:Sub>）、酸化セリウム（ＣｅＯ<base:Sub>２</base:Sub>）、酸化アルミニウム（Ａｌ<base:Sub>２</base:Sub>Ｏ<base:Sub>３</base:Sub>）又はこれらの２種以上で構成される。酸化物半導体層３０の厚さは、例えば０．１～１００μｍとすればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  ＜封止部＞
+  封止部４０としては、例えば変性ポリオレフィン樹脂、ビニルアルコール重合体などの熱可塑性樹脂、及び、紫外線硬化樹脂などの樹脂が挙げられる。変性ポリオレフィン樹脂としては、例えばアイオノマー、エチレン－ビニル酢酸無水物共重合体、エチレン－メタクリル酸共重合体およびエチレン－ビニルアルコール共重合体が挙げられる。これらの樹脂は単独で又は２種以上を組み合せて用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  ＜電解質＞
+  電解質５０は、上述したように、酸化還元対と、卑金属酸化物とを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  ＜酸化還元対＞
+  酸化還元対としては、例えばＩ<base:Sup>－</base:Sup>／Ｉ<base:Sub>３</base:Sub><base:Sup>－</base:Sup>のほか、Ｂｒ<base:Sup>－</base:Sup>／Ｂｒ<base:Sub>３</base:Sub><base:Sup>－</base:Sup>などのハロゲン化物イオンとポリハロゲン化物イオンの組合せ、亜鉛錯体、鉄錯体、コバルト錯体などのレドックス対が挙げられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  酸化還元対が上記ハロゲン化物イオンとポリハロゲン化物イオンの組合せで構成される場合、酸化還元対は、ハロゲンと、ハロゲン化物塩とによって形成される。この場合、上記ハロゲン及び上記ハロゲン化物塩は同一のハロゲン原子を有していることが好ましいが、異なるハロゲン原子を有していてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  ハロゲン化物イオンとポリハロゲン化物イオンの組合せからなる酸化還元対を含む場合、ポリハロゲン化物イオンの濃度が０．００６Ｍ以下であることが好ましい。この場合、電子を運ぶポリハロゲン化物イオンの濃度が低いため、低照度環境下で影響の大きい漏れ電流をより減少させることができる。このため、ポリハロゲン化物イオンの濃度が０．００６Ｍを超える場合に比べて、光電変換素子１００に対してより優れた開放電圧を付与できる。ポリハロゲン化物イオンの濃度は、０Ｍより大きく６×１０<base:Sup>－６</base:Sup>Ｍ以下であることがより好ましく、０Ｍより大きく６×１０<base:Sup>－８</base:Sup>Ｍ以下であることがさらに好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  （卑金属酸化物）
+  卑金属酸化物のうち電解質５０中の濃度が最大である卑金属酸化物の電解質５０中の濃度は１～５００ｐｐｍであればよい。この場合、電解質５０は、卑金属酸化物のうち電解質５０中の濃度が最大である卑金属酸化物の電解質５０中の濃度が上記範囲を外れる場合に比べて、光電変換素子１００の開放電圧及び耐久性を向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  卑金属酸化物のうち電解質５０中の濃度が最大である卑金属酸化物の電解質５０中の濃度は、２～１００質量ｐｐｍであることが好ましく、１０～１００質量ｐｐｍであることがさらに好ましい。この場合、電解質５０は、卑金属酸化物のうち電解質５０中の濃度が最大である卑金属酸化物の濃度が２～１００質量ｐｐｍの範囲を外れる場合に比べて、光電変換素子１００の開放電圧をより向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  卑金属酸化物としては、例えば酸化ビスマス、酸化亜鉛、酸化銅、酸化鉄、酸化マンガン、酸化鉛、酸化錫、酸化ニッケル、酸化アルミニウム、酸化タングステン、酸化モリブデン、酸化マグネシウム、酸化コバルト、酸化カドミウム、酸化チタン、酸化ジルコニウム、酸化アンチモン、酸化ベリリウム、酸化クロム、酸化ゲルマニウム、酸化バナジウム、酸化ガリウム、酸化ハフニウム、酸化インジウム、酸化ニオブ、酸化レニウム及び酸化タリウムが挙げられる。これらは単独で又は２種以上を組み合せて用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  あるいは、卑金属酸化物は、酸化ビスマス、酸化亜鉛及び酸化錫からなる群より選択される少なくとも１種を含むように構成されてもよい。この場合、電解質５０中において、上記酸化ビスマス、酸化亜鉛及び酸化錫からなる群より選択される少なくとも１種以外の卑金属酸化物が、上記酸化ビスマス、酸化亜鉛及び酸化錫からなる群より選択される少なくとも１種と同一濃度で含まれる場合に比べて、電解質５０は、光電変換素子１００の開放電圧をより向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  ここで、卑金属酸化物は、酸化ビスマスを含むように構成されることが好ましい。この場合、電解質５０中において、酸化ビスマス以外の卑金属酸化物が酸化ビスマスと同一濃度で含まれる場合に比べて、光電変換素子１００の開放電圧をより向上させることができる。ここで、卑金属酸化物のうち濃度が最大である卑金属酸化物は酸化ビスマスであることが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  （溶媒）
+  電解質５０は、さらに溶媒として有機溶媒を含んでいてもよい。有機溶媒としては、アセトニトリル、メトキシアセトニトリル、メトキシプロピオニトリル、プロピオニトリル、エチレンカーボネート、プロピレンカーボネート、ジエチルカーボネート、γ－ブチロラクトン、バレロニトリル、ピバロニトリル、グルタロニトリル、メタクリロニトリル、イソブチロニトリル、フェニルアセトニトリル、アクリロニトリル、スクシノニトリル、オキサロニトリル、ペンタニトリル、アジポニトリルなどを用いることができる。これらは１種類を単独で用いても、２種類以上を組み合わせて用いてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  また電解質５０の溶媒として、有機溶媒に代えて、イオン液体を用いてもよい。イオン液体としては、例えばピリジニウム塩、イミダゾリウム塩、トリアゾリウム塩等の既知のヨウ素塩であって、室温付近で溶融状態にある常温溶融塩が用いられる。このような常温溶融塩としては、例えば、１－ヘキシル－３－メチルイミダゾリウムアイオダイド、１－エチル－３－プロピルイミダゾリウムアイオダイド、ジメチルイミダゾリウムアイオダイド、エチルメチルイミダゾリウムアイオダイド、ジメチルプロピルイミダゾリウムアイオダイド、ブチルメチルイミダゾリウムアイオダイド、又は、メチルプロピルイミダゾリウムアイオダイドが好適に用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  酸化還元対が上記ハロゲン及び上記ハロゲン化物塩によって形成される場合、イオン液体をハロゲン化物塩としても機能させることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  また、電解質５０の溶媒として、上記有機溶媒に代えて、上記イオン液体と上記有機溶媒との混合物を用いてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  （その他）
+  また電解質５０には添加剤を加えることができる。添加剤としては、１－メチルベンゾイミダゾール（ＮＭＢ）、１－ブチルベンゾイミダゾール（ＮＢＢ）などのベンゾイミダゾール、ＬｉＩ、Ｉ２、グアニジウムチオシアネートなどが挙げられる。中でも、ベンゾイミダゾールが添加剤として好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  さらに電解質５０としては、上記電解質にＳｉＯ<base:Sub>２</base:Sub>、ＴｉＯ<base:Sub>２</base:Sub>、カーボンナノチューブなどのナノ粒子を混練してゲル様となった擬固体電解質であるナノコンポジットゲル電解質を用いてもよく、また、ポリフッ化ビニリデン、ポリエチレンオキサイド誘導体、アミノ酸誘導体などの有機系ゲル化剤を用いてゲル化した電解質を用いてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  ＜色素＞
+  色素としては、例えばビピリジン構造、ターピリジン構造などを含む配位子を有するルテニウム錯体、ポルフィリン、エオシン、ローダミン、メロシアニンなどの有機色素などの光増感色素や、ハロゲン化鉛系ペロブスカイトなどの有機－無機複合色素などが挙げられる。ここで、色素として、光増感色素を用いる場合には、光電変換素子１００は色素増感光電変換素子となる。上記色素の中でも、ビピリジン構造又はターピリジン構造を含む配位子を有するルテニウム錯体が好ましい。この場合、光電変換素子１００に対してより優れた光電変換特性を付与できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  次に、上述した光電変換素子１００の製造方法について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  まず１つの透明基板１１の上に、透明導電層１２を形成してなる透明導電性基板１５で構成される第１電極基板１０を用意する。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  透明導電層１２の形成方法としては、スパッタリング法、蒸着法、スプレー熱分解法及びＣＶＤ法などが用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  次に、透明導電層１２の上に、酸化物半導体層３０を形成する。酸化物半導体層３０は、酸化物半導体粒子を含む多孔質酸化物半導体層形成用ペーストを印刷した後、焼成して形成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  酸化物半導体層形成用ペーストは、上述した酸化物半導体粒子のほか、ポリエチレングリコールなどの樹脂及び、テレピネオールなどの溶媒を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  酸化物半導体層形成用ペーストの印刷方法としては、例えばスクリーン印刷法、ドクターブレード法、又は、バーコート法などを用いることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  焼成温度は酸化物半導体粒子の材質により異なるが、通常は３５０～６００℃であり、焼成時間も、酸化物半導体粒子の材質により異なるが、通常は１～５時間である。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  こうして作用極が得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  次に、作用極の酸化物半導体層３０の表面に色素を吸着させる。このためには、作用極を、色素を含有する溶液の中に浸漬させ、その色素を酸化物半導体層３０に吸着させた後に上記溶液の溶媒成分で余分な色素を洗い流し、乾燥させることで、色素を酸化物半導体層３０に吸着させればよい。但し、色素を含有する溶液を酸化物半導体層３０に塗布した後、乾燥させることによって色素を酸化物半導体層３０に吸着させてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  次に、電解質５０を準備する。電解質５０は、例えば酸化還元対をを含む電解液に、固体の卑金属酸化物を添加することによって得ることができる。あるいは、電解質５０は、例えばハロゲンと、ハロゲンと酸化還元対を形成するハロゲン化物塩と固体の卑金属酸化物を溶媒中に溶解させることによっても得ることができる。このとき、電解質５０中の卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が１～５００ｐｐｍとなるようにする。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  次に、酸化物半導体層３０の上に電解質５０を配置する。電解質５０は、塗布法によって配置することが可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  次に、環状の封止部形成体を準備する。封止部形成体は、例えば封止用樹脂フィルムを用意し、その封止用樹脂フィルムに１つの四角形状の開口を形成することによって得ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  そして、この封止部形成体を、第１電極基板１０の上に接着させる。このとき、封止部形成体の第１電極基板１０への接着は、例えば封止部形成体を加熱溶融させることによって行うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  次に、第２電極基板２０を用意し、封止部形成体の開口を塞ぐように配置した後、封止部形成体と貼り合わせる。このとき、第２電極基板２０にも予め封止部形成体を接着させておき、この封止部形成体を第１電極基板１０側の封止部形成体と貼り合せてもよい。第２電極基板２０の封止部形成体への貼合せは、大気圧下で行っても減圧下で行ってもよいが、減圧下で行うことが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  以上のようにして１つの光電変換セルで構成される光電変換素子１００が得られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  本発明は、上記実施形態に限定されるものではない。例えば上記実施形態では、第１電極基板１０上に酸化物半導体層３０が設けられているが、光電変換素子は、第２電極基板２０上に酸化物半導体層３０が設けられる構造でも構わない。この場合、触媒層は、第１電極基板１０の透明導電層１２上に設けられ、第２電極基板２０は触媒層を有さない。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  また上記実施形態では、第１電極基板１０が、透明基板１１と、透明基板１１の上に設けられ、第１電極である透明導電層１２とで構成されているが、第１電極基板１０は、絶縁性基板と、絶縁性基板の一面側に設けられ、第１電極である複数本の金属線とで構成されていてもよい。ここで、複数本の金属線はその周囲をそれぞれ酸化物半導体層で覆われていてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  また上記実施形態では、光電変換素子が１つの光電変換セル６０で構成されているが、光電変換素子は、光電変換セル６０を複数備えていてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  さらに上記実施形態では、光電変換素子１００は、透明導電層１２上に、銀などを含む集電配線を有していないが、光電変換素子１００は、透明導電層１２上に集電配線を有していてもよい。ここで、集電配線が電解質５０と接触する場合には、集電配線の腐食を十分に抑制する観点から、集電配線は配線保護層で覆われることが好ましい。配線保護層は例えばガラスや絶縁樹脂などで構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  さらにまた上記実施形態では、第１電極基板１０と第２電極基板２０とが封止部４０によって接合されているが、第１電極基板１０と第２電極基板２０とによって、電解質５０を含浸した多孔性の絶縁層が挟まれている場合には、第１電極基板１０と第２電極基板２０とは封止部４０によって接合されていなくてもよい。この場合は、第２電極基板２０のうち第１電極基板１０と反対側に絶縁性の基材を設け、この絶縁性の基材と第１電極基板１０とを封止部で接合させることが好ましい。
+</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0083">
+  以下、本発明の内容を、実施例を挙げてより具体的に説明するが、本発明は下記の実施例に限定されるものではない。
+</base:Paragraphs>
+        <base:Paragraphs num="0084">
+  （実施例１～７８、比較例１～２６、比較例Ａ及び比較例Ｂ）
+＜光電変換素子用電解質の調製＞
+ヨウ素０．００２Ｍ、１，２－ジメチル－３－プロピルイミダゾリウムヨーダイド（ＤＭＰＩｍＩ）０．６Ｍを含む３－メトキシプロピオニトリル（ＭＰＮ）溶液に、添加剤として、卑金属酸化物又はｔ－ブチルピリジンを表１～１３に示す濃度（単位は質量ｐｐｍ）となるように添加して電解質を調製した。
+</base:Paragraphs>
+        <base:Paragraphs num="0085">
+  ＜光電変換素子の作製＞
+まずガラスからなる３０ｍｍ×２０ｍｍ×２ｍｍ(厚さ)の透明基板の上に、厚さ１μｍのＦＴＯからなる透明導電層を形成してなる透明導電性基板を第１電極基板として準備した。
+</base:Paragraphs>
+        <base:Paragraphs num="0086">
+  次に、第１電極基板の透明導電層上に、チタニアを含む酸化物半導体層形成用ペーストを、５ｍｍ×５ｍｍの寸法となるようにスクリーン印刷して乾燥した後、５００℃で１時間焼成した。こうして５ｍｍ×５ｍｍ×４０μｍ(厚さ)の寸法の酸化物半導体層を有する作用極を得た。
+</base:Paragraphs>
+        <base:Paragraphs num="0087">
+  次に、作用極を、色素溶液中に一昼夜浸漬させた後、取り出して乾燥させ、酸化物半導体層に色素を吸着させた。色素溶液は、１－プロパノール溶媒中に、Ｚ９０７からなる光増感色素をその濃度が０．２ｍＭとなるように溶解させることで作製した。
+</base:Paragraphs>
+        <base:Paragraphs num="0088">
+  次に、酸化物半導体層の上に上記のようにして用意した電解質を塗布した。
+</base:Paragraphs>
+        <base:Paragraphs num="0089">
+  次に、封止部を形成するための封止部形成体を準備した。封止部形成体は、１０ｍｍ×１０ｍｍ×５０μｍのアイオノマー（商品名：ハイミラン、三井・デュポンポリケミカル社製）からなる１枚の封止用樹脂フィルムを用意し、その封止用樹脂フィルムに、四角形状の開口を形成することによって得た。このとき、開口は、６ｍｍ×６ｍｍ×５０μｍの大きさとなるようにした。
+</base:Paragraphs>
+        <base:Paragraphs num="0090">
+  そして、この封止部形成体を、作用極の上に載せた後、封止部形成体を加熱溶融させることによって作用極に接着させた。
+</base:Paragraphs>
+        <base:Paragraphs num="0091">
+  次に、第２電極基板としての対極を用意した。対極は、３０ｍｍ×２０ｍｍ×５０μｍ(厚さ)のチタン箔の上にスパッタリング法によって厚さ１０ｎｍの白金からなる触媒層を形成することによって用意した。また、上記封止部形成体をもう１つ準備し、この封止部形成体を、対極のうち作用極と対向する面に、上記と同様にして接着させた。
+</base:Paragraphs>
+        <base:Paragraphs num="0092">
+  そして、作用極に接着させた封止部形成体と、対極に接着させた封止部形成体とを対向させ、封止部形成体同士を重ね合わせた。そして、この状態で封止部形成体を加圧しながら加熱溶融させた。こうして作用極と対極との間に封止部を形成した。
+</base:Paragraphs>
+        <base:Paragraphs num="0093">
+  こうして１つの光電変換セルからなる光電変換素子を得た。
+</base:Paragraphs>
+        <base:Paragraphs num="0094">
+  ＜特性の評価＞
+（１）開放電圧の評価
+  上記のようにして得られた上記実施例１～７８、比較例１～２６、比較例Ａ及び比較例Ｂの光電変換素子について、作製直後に１０００ルクスの白色光を照射した状態で開放電圧及びＩＶ曲線を測定し、このＩＶ曲線から光電変換効率η１（％）を算出した。開放電圧の結果を表１～１３に示す。なお、ＩＶ曲線の測定に用いた光源、照度計および電源は以下の通りである。
+光源：白色ＬＥＤ（製品名「ＬＥＬ－ＳＬ５Ｎ－Ｆ」、東芝ライテック社製）
+照度計：製品名「ＡＳ  ＯＮＥ  ＬＭ－３３１」、アズワン社製
+電源：電圧／電流 発生器（製品名「ＡＤＶＡＮＴＥＳＴ  Ｒ６２４６」、株式会社アドバンテスト製）
+</base:Paragraphs>
+        <base:Paragraphs num="0095">
+  （２）耐久性の評価
+  上記のようにして得られた上記実施例１～７８、比較例１～２６、比較例Ａ及び比較例Ｂの光電変換素子について、８５℃の環境下に２００時間置いた後、上記と同様にして光電変換効率η２（％）を算出した。そして、下記式に基づいて光電変換効率の維持率を算出した。結果を表１～１３に示す。
+光電変換効率の維持率（％）＝１００×η２／η１
+ 
+</base:Paragraphs>
+        <base:Paragraphs num="0096">
+          <base:TableDetails num="0001">
+            <base:Image id="000002" he="84" wi="154" file="2016127263_000002.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0097">
+          <base:TableDetails num="0002">
+            <base:Image id="000003" he="84" wi="155" file="2016127263_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0098">
+          <base:TableDetails num="0003">
+            <base:Image id="000004" he="84" wi="156" file="2016127263_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0099">
+          <base:TableDetails num="0004">
+            <base:Image id="000005" he="84" wi="156" file="2016127263_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0100">
+          <base:TableDetails num="0005">
+            <base:Image id="000006" he="85" wi="156" file="2016127263_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0101">
+          <base:TableDetails num="0006">
+            <base:Image id="000007" he="84" wi="156" file="2016127263_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0102">
+          <base:TableDetails num="0007">
+            <base:Image id="000008" he="84" wi="155" file="2016127263_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0103">
+          <base:TableDetails num="0008">
+            <base:Image id="000009" he="66" wi="156" file="2016127263_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0104">
+          <base:TableDetails num="0009">
+            <base:Image id="000010" he="66" wi="156" file="2016127263_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0105">
+          <base:TableDetails num="0010">
+            <base:Image id="000011" he="66" wi="156" file="2016127263_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0106">
+          <base:TableDetails num="0011">
+            <base:Image id="000012" he="66" wi="156" file="2016127263_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0107">
+          <base:TableDetails num="0012">
+            <base:Image id="000013" he="66" wi="156" file="2016127263_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0108">
+          <base:TableDetails num="0013">
+            <base:Image id="000014" he="66" wi="156" file="2016127263_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0109">
+  表１～１３に示す結果より、実施例１～７８の光電変換素子では開放電圧及び光電変換効率の維持率のいずれも、比較例Ａよりも高い値を示していた。これに対し、比較例１～２６及びＢでは、開放電圧及び光電変換効率の維持率のうち光電変換効率が比較例Ａよりも低い値を示していた。
+</base:Paragraphs>
+        <base:Paragraphs num="0110">
+  以上より、本発明の光電変換素子用電解質によれば、光電変換素子の開放電圧及び耐久性を向上させることができることが確認された。
+</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0111">
+  １０…第１電極基板
+  １１…透明基板
+  １２…透明導電層
+  ２０…第２電極基板
+  ２１…導電性基板
+  ３０…酸化物半導体層
+  ５０…電解質
+  ６０…光電変換セル
+  １００…光電変換素子
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000015" he="44" wi="65" file="2016127263_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  酸化還元対と、
+  卑金属酸化物とを含み、
+  前記卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が１～５００質量ｐｐｍである光電変換素子用電解質。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記卑金属酸化物が、酸化ビスマス、酸化亜鉛、酸化銅、酸化鉄、酸化マンガン、酸化鉛、酸化錫、酸化ニッケル、酸化アルミニウム、酸化タングステン、酸化モリブデン、酸化マグネシウム、酸化コバルト、酸化カドミウム、酸化チタン、酸化ジルコニウム、酸化アンチモン、酸化ベリリウム、酸化クロム、酸化ゲルマニウム、酸化バナジウム、酸化ガリウム、酸化ハフニウム、酸化インジウム、酸化ニオブ、酸化レニウム及び酸化タリウムからなる群より選択される少なくとも１種で構成される請求項１に記載の光電変換素子用電解質。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記卑金属酸化物が、少なくとも酸化ビスマス、酸化亜鉛及び酸化錫からなる群より選択される少なくとも１種を含む請求項１に記載の光電変換素子用電解質。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記卑金属酸化物が酸化ビスマスを含む請求項３に記載の光電変換素子用電解質。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記卑金属酸化物のうち濃度が最大である卑金属酸化物の濃度が２～１００質量ｐｐｍである請求項１～４のいずれか一項に記載の光電変換素子用電解質。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  少なくとも１つの光電変換セルを備え、
+  前記光電変換セルが、
+  第１電極基板と、
+  前記第１電極基板に対向する第２電極基板と、
+  前記第１電極基板又は前記第２電極基板に設けられる酸化物半導体層と、
+  前記第１電極基板及び前記第２電極基板の間に設けられる電解質とを備え、
+  前記電解質が、請求項１～５のいずれか一項に記載の光電変換素子用電解質からなる光電変換素子。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記第１電極基板及び前記第２電極基板の少なくとも一方が前記電解質に接触するガラス基板を有し、
+  前記ガラス基板が、前記電解質中の前記卑金属酸化物と共通の卑金属酸化物を含有する、請求項６に記載の光電変換素子。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

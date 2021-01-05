@@ -1,0 +1,1510 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000058682JP00020161238860AFULJA20160711JP006.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016123886" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123886</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123886</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000058682</base:DocNumber>
+        <base:Date>20160323</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016058682</base:DocNumber>
+        <base:Date>20160323</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>63</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>7</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A63F   7/02        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A63F7/02 304B</business:FI>
+      <business:FI type="secondary">A63F7/02 320</business:FI>
+      <business:FClass>
+        <business:FTerm>2C088BA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C088BA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C088EB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C088EB28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333AA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333CA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333CA16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333CA30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333CA49</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333CA51</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333CA53</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333FA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333FA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2C333FA17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2C088</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2C333</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">遊技機</business:InventionTitle>
+    <business:RelatedDocuments>
+      <business:Division>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1" lang="ja">
+              <base:DocNumber>2014265820</base:DocNumber>
+              <base:Date>20141226</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Division>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>京楽産業．株式会社</base:Name>
+            <base:RegisteredNumber>000161806</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛知県名古屋市中区錦三丁目２４番４号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>伊藤  合</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛知県名古屋市中区錦三丁目２４番４号  京楽産業．株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>島田  武蔵</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛知県名古屋市中区錦三丁目２４番４号  京楽産業．株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>永縄  卓郎</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛知県名古屋市中区錦三丁目２４番４号  京楽産業．株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>見野  和久</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛知県名古屋市中区錦三丁目２４番４号  京楽産業．株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>桑山  豊</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛知県名古屋市中区錦三丁目２４番４号  京楽産業．株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人  小笠原特許事務所</base:Name>
+            <base:RegisteredNumber>110001276</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>1</business:ClaimsCount>
+      <base:TotalPageCount>60</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】興趣性の高い演出を実行できる遊技機を提供すること。【解決手段】複数の報知演出に亘って継続される特定の演出モード（キャラ紹介演出モード）を実行制御する演出モード制御手段と、遊技者により操作される操作手段とを備え、演出モード制御手段は、特定条件が成立したか否かを判定する条件判定手段と、特定の演出モードを終了させる操作手段への操作が可能であることを示す演出モード終了選択表示を実行する演出モード終了選択表示制御手段とを有する。【選択図】図２９</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="95" wi="70" file="2016123886_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、遊技者によって遊技されるパチンコ遊技機等の遊技機に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  従来、特別図柄抽選で大当りする可能性を示唆する演出を行う遊技機がある（例えば、非特許文献１）。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:NPL>
+        <base:Paragraphs num="0003">
+          <business:NPLCitation num="0001">
+            <base:Text>「パチンコ必勝ガイド」、株式会社白夜書房、２０１１年１２月１７日発行、２０１１年１２月１７日号、ページ１４、ぱちんこＣＲ蒼天の拳、「蒼龍＆天羅モード」</base:Text>
+          </business:NPLCitation>
+        </base:Paragraphs>
+      </business:NPL>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">
+  遊技機には、遊技媒体（遊技球、メダル）を獲得することによる楽しみばかりではなく、演出による楽しみが強く求められている。
+</base:Paragraphs>
+        <base:Paragraphs num="0005">
+  それ故に、本発明の一局面の主要な目的は、興趣性の高い演出を実行できる遊技機を提供することである。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0006">
+  上記の目的を達成するために、本発明の一局面は以下の構成を採用した。なお、括弧内の参照符号、説明文言等は、本発明の一局面の理解を助けるために後述する実施形態との対応関係を示したものであって、本発明の一局面の範囲を何ら限定するものではない。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  遊技機（１）であって、
+  始動条件の成立により遊技情報（乱数のセット）を取得する取得手段（１００、Ｓ２０４、Ｓ２１０）と、
+  前記取得手段により取得された遊技情報に基づいて、特別遊技（大当り遊技）を実行するか否かを判定する特別遊技判定手段（１００、Ｓ４０７）と、
+  前記特別遊技判定手段による判定結果を報知する報知演出（変動演出）を実行制御する報知演出制御手段（４００、５００）と、
+  前記報知演出制御手段により実行制御される複数の報知演出に亘って継続される特定の演出モード（キャラ紹介演出モード）を実行制御する演出モード制御手段（４００）と、
+  遊技者により操作される操作手段（３７）とを備え、
+  前記演出モード制御手段は、
+    特定条件（図２５のＳ７１５参照）が成立したか否かを判定する条件判定手段と、
+    前記条件判定手段により特定条件が成立したと判定された場合、前記特定の演出モードを終了させる前記操作手段への操作が可能であることを示す演出モード終了選択表示（ｂ、ｃ、ｄ）を実行する演出モード終了選択表示制御手段とを有する（図２６、図２８参照）。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  また、前記演出モード終了制御手段は、前記特定条件とは異なる所定の条件が成立しているときには（ＳＰリーチ演出等の特定の演出の実行期間中）、前記演出モード終了選択表示を実行しなくてもよい（図２９参照）。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0009">
+  本発明によれば、興趣性の高い演出を実行できる遊技機を提供することができる。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0010">
+        <base:FigureReference num="0001">本実施形態に係るパチンコ遊技機１の一例を示す概略正面図</base:FigureReference>
+        <base:FigureReference num="0002">図１のパチンコ遊技機１に設けられた表示器４の一例を示す拡大図</base:FigureReference>
+        <base:FigureReference num="0003">図１のパチンコ遊技機１の部分平面図</base:FigureReference>
+        <base:FigureReference num="0004">パチンコ遊技機１に設けられた制御装置の構成の一例を示すブロック図</base:FigureReference>
+        <base:FigureReference num="0005">本実施形態における遊技球通過判定処理の一例を説明するための図</base:FigureReference>
+        <base:FigureReference num="0006">メイン制御部１００によって実行されるメイン処理を示すフローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0007">図６のステップＳ９１１における電源遮断監視処理の詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0008">図６のステップＳ９０９における復旧処理の詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0009">メイン制御部１００によって行われるタイマ割込み処理を示すフローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0010">特図ゲームカウント処理および普図ゲームカウント処理を実行する際に使用されるデータ、および、メイン制御部１００のＲＡＭ１０３の記憶エリア（作業エリア）について説明するための図</base:FigureReference>
+        <base:FigureReference num="0011">特別図柄変動表示の時間をエリア１１Ａに設定するために用いられる変動時間テーブルの概念図の一例</base:FigureReference>
+        <base:FigureReference num="0012">図９のステップＳ２における始動口スイッチ処理の詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0013">図９のステップＳ４における特別図柄処理の詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0014">変動パターン決定テーブルの一例を説明するための図</base:FigureReference>
+        <base:FigureReference num="0015">変動パターン決定テーブルの一例を説明するための図</base:FigureReference>
+        <base:FigureReference num="0016">変動パターン決定テーブルの一例を説明するための図</base:FigureReference>
+        <base:FigureReference num="0017">変動パターン決定テーブルの一例を説明するための図</base:FigureReference>
+        <base:FigureReference num="0018">図９のステップＳ６における大入賞口処理の詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0019">図９のステップＳ６における大入賞口処理の詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0020">演出制御部４００によって行われるタイマ割込み処理を示すフローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0021">図２０のステップＳ１１におけるコマンド受信処理を示す詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0022">図２０のステップＳ１１におけるコマンド受信処理を示す詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="221">図２０のステップＳ１１－１における演出制御処理を示す詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="222">図２２－１のステップＳ１６における報知演出制御処理を示す詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0023">図２１のステップＳ１１５の報知演出実行指示処理を示す詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0024">図２３のステップＳ５０２の演出モード設定処理を示す詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="0025">図２３のステップＳ５０２の演出モード設定処理を示す詳細フローチャートの一例</base:FigureReference>
+        <base:FigureReference num="251">キャラ紹介演出モードに突入させるか否かを判定する際に用いる抽選テーブルの例</base:FigureReference>
+        <base:FigureReference num="0026">本実施形態に特徴的な演出モードの切り替えについて具体的に説明するための図</base:FigureReference>
+        <base:FigureReference num="0027">本実施形態に特徴的な演出モードの切り替えについて具体的に説明するための図</base:FigureReference>
+        <base:FigureReference num="0028">本実施形態に特徴的な演出モードの切り替えについて具体的に説明するための図</base:FigureReference>
+        <base:FigureReference num="0029">本実施形態に特徴的な演出モードの切り替えについて具体的に説明するための図</base:FigureReference>
+        <base:FigureReference num="0030">本実施形態に特徴的な演出モードの切り替えについて具体的に説明するための図</base:FigureReference>
+        <base:FigureReference num="0031">本実施形態に特徴的な演出モードの切り替えについて具体的に説明するための図</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0011">
+  以下、適宜図面を参照しつつ、本発明の一実施形態に係るパチンコ遊技機１について説明する。なお、以下では、パチンコ遊技機１を、単に、遊技機１という場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+［パチンコ遊技機１の概略構成］
+  以下、図１～図３を参照して、本発明の第１の実施形態に係るパチンコ遊技機１の概略構成について説明する。なお、図１は、本発明の一実施形態に係る遊技機１の一例を示す概略正面図である。図２は、遊技機１に設けられた表示器４の一例を示す拡大図である。図３は、遊技機１の部分平面図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  図１において、遊技機１は、例えば遊技者の操作により打ち出された遊技球が入賞すると賞球を払い出すように構成されたパチンコ遊技機である。この遊技機１は、遊技球が打ち出される遊技盤２と、遊技盤２を囲む枠部材５とを備えている。枠部材５は、軸支側に設けられた蝶番を中心に、遊技機１の主部に対して開閉可能に構成されている。そして、枠部材５の前面側となる所定位置（例えば、軸支側とは反対側となる端部）には錠部４３が設けられており、錠部４３を開錠することによって枠部材５を開くことが可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  遊技盤２は、その前面に、遊技球により遊技を行うための遊技領域２０が形成されている。遊技領域２０には、下方（発射装置２１１；図４参照）から発射された遊技球が遊技盤２の主面に沿って上昇して遊技領域２０の上部位置へ向かう通路を形成するレール部材（図示せず）と、上昇した遊技球を遊技領域２０の右側に案内する案内部材（図示せず）とが備えられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  また、遊技盤２には、遊技者により視認され易い位置に、各種演出のための画像を表示する画像表示部６が配設されている。画像表示部６は、遊技者による遊技の進行に応じて、例えば、装飾図柄を表示することによって特別図柄抽選（大当り抽選）の結果を遊技者に報知したり、キャラクタの登場やアイテムの出現等による予告演出を表示したり、特別図柄抽選が保留されている回数を示す保留画像を表示したりする。画像表示部６は、画像表示部６に表示される演出に付随した演出表示等を行う。なお、画像表示部６は、液晶表示装置やＥＬ（Ｅｌｅｃｔｒｏ  Ｌｕｍｉｎｅｓｃｅｎｃｅ：電界発光）表示装置等によって構成されるが、他の任意の表示装置を利用してもよい。さらに、遊技盤２の前面には、各種の演出に用いられる可動役物７および盤ランプ８が設けられている。可動役物７は、遊技盤２に対して可動に構成され、遊技の進行に応じて又は遊技者の操作に応じて、所定の動作を行うことによって演出を行う。また、盤ランプ８は、遊技の進行に応じて発光することによって光による各種の演出を行う。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  遊技領域２０には、遊技球の落下方向を変化させる遊技くぎ及び風車（共に図示せず）等が配設されている。また、遊技領域２０には、入賞や抽選に関する種々の役物が所定の位置に配設されている。なお、図１においては、入賞や抽選に関する種々の役物の一例と
+して、第１始動口２１、第２始動口２２、ゲート２５、大入賞口２３、および普通入賞口２４が遊技盤２に配設されている。さらに、遊技領域２０には、遊技領域２０に打ち出された遊技球のうち何れの入賞口にも入賞しなかった遊技球を、遊技領域２０の外に排出する排出口２６が配設されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  第１始動口２１および第２始動口２２は、それぞれ遊技球が入ると入賞して特別図柄抽選（大当り抽選）が始動する。第１始動口２１は、予め定められた特別電動役物（大入賞口２３）および／または予め定められた特別図柄表示器（後述する第１特別図柄表示器４ａ）を作動させることとなる、遊技球の入賞に係る入賞口である。また、第２始動口２２は、上記特別電動役物および／または予め定められた特別図柄表示器（後述する第２特別図柄表示器４ｂ）を作動させることとなる、遊技球の入賞に係る入賞口である。ゲート２５を遊技球が通過すると普通図柄抽選（下記の電動チューリップ２７の開閉抽選）が始動する。なお、普通入賞口２４に遊技球が入賞しても抽選は始動しない。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  第２始動口２２は、第１始動口２１の下部に設けられ、普通電動役物の一例として、遊技球の入口近傍に電動チューリップ２７を備えている。電動チューリップ２７は、チューリップの花を模した一対の羽根部を有しており、後述する電動チューリップ開閉部１１２（例えば、電動ソレノイド）の駆動によって当該一対の羽根部が左右に開閉する。電動チューリップ２７は、一対の羽根部が閉じていると、第２始動口２２の入口へ案内される開口幅が極めて狭いため、遊技球が第２始動口２２へ入らない閉状態となる。一方、電動チューリップ２７は、一対の羽根部が左右に開くと、第２始動口２２の入口へ案内される開口幅が拡大するため、遊技球が第２始動口２２へ入り易い開状態となる。そして、電動チューリップ２７は、ゲート２５を遊技球が通過して普通図柄抽選に当選すると、一対の羽根部が規定時間（例えば、０．１０秒間）開き、規定回数（例えば、１回）だけ開閉する。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  大入賞口２３は、第２始動口２２の下側中央に位置し、特別図柄抽選の結果に応じて開放する。大入賞口２３は、通常は閉状態であり遊技球が入ることがない状態となっているが、特別図柄抽選の結果に応じて遊技盤２の主面から突出傾斜して開状態となって遊技球が入り易い状態となる。例えば、大入賞口２３は、所定条件（例えば、２９．５秒経過または遊技球１０個の入賞）を満たすまで開状態となるラウンドを、所定回数（例えば、１６回）だけ繰り返す。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  また、遊技盤２の右下には、上述した特別図柄抽選や普通図柄抽選の結果や保留数に関する表示を行う表示器４が配設されている。表示器４の詳細については後述する。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  ここで、賞球の払い出しについて説明する。第１始動口２１、第２始動口２２、大入賞口２３、および普通入賞口２４に遊技球が入る（入賞する）と、遊技球が入賞した場所に応じて、１つの遊技球当たり規定個数の賞球が払い出される。例えば、第１始動口２１および第２始動口２２に遊技球が１個入賞すると３個の賞球、大入賞口２３に遊技球が１個入賞すると１３個の賞球、普通入賞口２４に遊技球が１個入賞すると１０個の賞球がそれぞれ払い出される。なお、ゲート２５を遊技球が通過したことを検出しても、それに連動した賞球の払い出しは無い。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  遊技機１の前面となる枠部材５には、ハンドル３１、レバー３２、停止ボタン３３、取り出しボタン３４、スピーカ３５、枠ランプ３６、演出ボタン３７、演出キー３８、および皿３９等が設けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  遊技者がハンドル３１に触れてレバー３２を時計回りに回転させる操作を行うと、その操作角度に応じた打球力にて所定の時間間隔（例えば、１分間に１００個）で、発射装置
+２１１（図４参照）が遊技球を電動発射する。皿３９（図３参照）は、遊技機１の前方に突出して設けられ、発射装置２１１に供給される遊技球を一時的に溜めておく。また、皿３９には、上述した賞球が払い出される。そして、皿３９に溜められた遊技球は、遊技者のレバー３２による操作と連動したタイミングで、供給装置（図示せず）によって１つずつ発射装置２１１に供給される。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  停止ボタン３３は、ハンドル３１の下部側面に設けられ、ハンドル３１に遊技者が触れてレバー３２を時計回りに回転させている状態であっても、遊技者に押下されることによって遊技球の発射を一時的に停止させる。取り出しボタン３４は、皿３９が設けられた位置近傍の前面に設けられ、遊技者に押下されることによって皿３９に溜まっている遊技球を箱（図示せず）に落下させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  スピーカ３５および枠ランプ３６は、それぞれ遊技機１の遊技状態や状況を告知したり各種の演出を行ったりする。スピーカ３５は、楽曲や音声、効果音による各種の演出を行う。また、枠ランプ３６は、点灯／点滅によるパターンや発光色の違い等によって光による各種の演出を行う。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  次に、図２を参照して、遊技機１に設けられる表示器４について説明する。図２において、表示器４は、第１特別図柄表示器４ａ、第２特別図柄表示器４ｂ、第１特別図柄保留表示器４ｃ、第２特別図柄保留表示器４ｄ、普通図柄表示器４ｅ、普通図柄保留表示器４ｆ、および遊技状態表示器４ｇを備えている。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  第１特別図柄表示器４ａは、第１始動口２１に遊技球が入賞することに対応して表示図柄が変動して表示される。例えば、第１特別図柄表示器４ａは、７セグ表示装置で構成され、第１始動口２１に遊技球が入賞した場合、特別図柄を変動表示した後に停止表示してその抽選結果を表示する。また、第２特別図柄表示器４ｂは、第２始動口２２に遊技球が入賞することに対応して表示図柄が変動して表示される。例えば、第２特別図柄表示器４ｂも同様に、７セグ表示装置で構成され、第２始動口２２に遊技球が入賞した場合、特別図柄を変動表示した後に停止表示してその抽選結果を表示する。普通図柄表示器４ｅは、ゲート２５を遊技球が通過することに対応して表示図柄が変動して表示される。例えば、普通図柄表示器４ｅは、ＬＥＤ表示装置で構成され、遊技球がゲート２５を通過した場合、普通図柄を変動表示した後に停止表示してその抽選結果を表示する。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  第１特別図柄保留表示器４ｃは、第１始動口２１に遊技球が入賞した場合の特別図柄抽選を保留している回数を表示する。第２特別図柄保留表示器４ｄは、第２始動口２２に遊技球が入賞した場合の特別図柄抽選を保留している回数を表示する。普通図柄保留表示器４ｆは、普通図柄抽選を保留している回数を表示する。例えば、第１特別図柄保留表示器４ｃ、第２特別図柄保留表示器４ｄ、および普通図柄保留表示器４ｆは、それぞれ列設されたＬＥＤ表示装置で構成され、その点灯態様によって保留回数が表示される。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  遊技状態表示器４ｇは、遊技機１の電源投入時点における遊技状態（通常遊技状態等）を表示する。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  次に、図３を参照して、遊技機１に設けられる入力装置について説明する。図３において、遊技機１には、入力装置の一例として、演出ボタン３７および演出キー３８が設けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  演出ボタン３７および演出キー３８は、それぞれ遊技者が演出に対する入力を行うために設けられている。演出ボタン３７は、遊技機１の前方に突出した皿３９の上面脇部に設けられる。演出キー３８は、中央キーと略十字に配列された４つの方向キーとを有し、演
+出ボタン３７に隣接して皿３９の上面脇部に設けられる。演出ボタン３７および演出キー３８は、それぞれ遊技者に押下されることによって所定の演出が行われる。例えば、遊技者は、所定のタイミングで演出ボタン３７を押下することによって所定の演出を楽しむことができる。また、遊技者は、演出キー３８の４つの方向キーを操作することにより、画像表示部６に表示されている複数の画像のいずれかを選ぶこと等が可能である。また、遊技者は、演出キー３８の中央キーを操作することにより、選んだ画像を情報として入力することが可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  また、遊技機１の背面側には、払出用の遊技球を溜めておく球タンクや遊技球を皿３９に払い出す払出装置（払出駆動部３１１）が設けられ、各種の基板等が取り付けられている。例えば、遊技盤２の後面には、メイン基板およびサブ基板等が配設されている。具体的には、メイン基板には、内部抽選および当選の判定等を行うメイン制御部１００（図４参照）が構成されたメイン制御基板が配設されている。サブ基板には、遊技球を遊技領域２０の上部へ発射する発射装置２１１を制御する発射制御部２００（図４参照）が構成された発射制御基板、賞球の払出を制御する払出制御部３００が構成された払出制御基板、演出を統括的に制御する演出制御部４００が構成された演出制御基板、画像および音による演出を制御する画像音響制御部５００が構成された画像制御基板、および各種のランプ（枠ランプ３６、盤ランプ８）や可動役物７による演出を制御するランプ制御部６００が構成されたランプ制御基板等が配設されている。また、遊技盤２の後面には、遊技機１の電源オン／オフを切り替えるとともに、遊技機１に供給された２４Ｖ（ボルト）の交流電力を各種電圧の直流電力に変換して、それぞれの電圧の直流電力を上述した各種の基板等に出力するスイッチング電源が配設されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+［パチンコ遊技機１の制御装置の構成］
+  次に、図４を参照して、遊技機１における動作制御や信号処理を行う制御装置について説明する。なお、図４は、遊技機１に設けられた制御装置の構成の一例を示すブロック図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  図４において、遊技機１の制御装置は、メイン制御部１００、発射制御部２００、払出制御部３００、演出制御部４００、画像音響制御部５００、およびランプ制御部６００等を備えている。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  メイン制御部１００は、ＣＰＵ（Ｃｅｎｔｒａｌ  Ｐｒｏｃｅｓｓｉｎｇ  Ｕｎｉｔ；中央処理装置）１０１、ＲＯＭ（Ｒｅａｄ  Ｏｎｌｙ  Ｍｅｍｏｒｙ）１０２、およびＲＡＭ（Ｒａｎｄｏｍ  Ａｃｃｅｓｓ  Ｍｅｍｏｒｙ）１０３を備えている。ＣＰＵ１０１は、内部抽選および当選の判定等の払い出し賞球数に関連する各種制御を行う際の演算処理を行う。ＲＯＭ１０２には、ＣＰＵ１０１により実行されるプログラムや各種データ等が記憶されている。ＲＡＭ１０３は、ＣＰＵ１０１の作業用メモリ等として用いられる。以下、メイン制御部１００の主な機能について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  メイン制御部１００は、第１始動口２１または第２始動口２２に遊技球が入賞すると特別図柄抽選（大当り抽選）を行い、特別図柄抽選で当選したか否かを示す判定結果データを演出制御部４００に送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  メイン制御部１００は、電動チューリップ２７の羽根部が開状態となる開時間や羽根部が開閉する回数、さらには羽根部が開閉する開閉時間間隔を制御する。また、メイン制御部１００は、遊技球が第１始動口２１へ入賞したときの特別図柄抽選の実行保留回数、遊技球が第２始動口２２へ入賞したときの特別図柄抽選の実行保留回数、および遊技球がゲート２５を通過したときの普通図柄抽選の実行保留回数をそれぞれ管理し、これらの保留回数に関連するデータを演出制御部４００に送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  メイン制御部１００は、特別図柄抽選の結果に応じて、大入賞口２３の開閉動作を制御する。例えば、メイン制御部１００は、所定条件（例えば、２９．５秒経過または遊技球１０個の入賞）を満たすまで、大入賞口２３が突出傾斜して開状態となるラウンドを所定回数（例えば、１６回）だけ繰り返すように制御する。また、メイン制御部１００は、大入賞口２３が開閉する開閉時間間隔を制御する。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  メイン制御部１００は、遊技の進行に応じて遊技状態を変化させ、又、遊技の進行に応じて、特別図柄抽選の当選確率、特別図柄抽選の実行間隔（特別図柄が表示器４に変動表示されて停止表示される時間と言ってもよい）、電動チューリップ２７の開閉動作等を変化させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  メイン制御部１００は、第１始動口２１、第２始動口２２、大入賞口２３、および普通入賞口２４に遊技球が入賞すると、遊技球が入賞した場所に応じて１つの遊技球当たり所定数の賞球を払い出すように払出制御部３００に対して指示する。なお、メイン制御部１００は、ゲート２５を遊技球が通過したことを検出しても、それに連動した賞球の払い出しを払出制御部３００に指示しない。払出制御部３００がメイン制御部１００の指示に応じて賞球の払い出しを行った場合、払出制御部３００から払い出した賞球の個数に関する情報がメイン制御部１００へ送られる。そして、メイン制御部１００は、払出制御部３００から取得した情報に基づいて、払い出した賞球の個数を管理する。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  上述した機能を実現するために、メイン制御部１００には、第１始動口スイッチ１１１ａ、第２始動口スイッチ１１１ｂ、電動チューリップ開閉部１１２、ゲートスイッチ１１３、大入賞口スイッチ１１４、大入賞口開閉部１１５、普通入賞口スイッチ１１６、表示器４（第１特別図柄表示器４ａ、第２特別図柄表示器４ｂ、第１特別図柄保留表示器４ｃ、第２特別図柄保留表示器４ｄ、普通図柄表示器４ｅ、普通図柄保留表示器４ｆ、および遊技状態表示器４ｇ）が接続されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  第１始動口スイッチ１１１ａは、第１始動口２１へ遊技球が入賞したことに応じた信号をメイン制御部１００へ送る。第２始動口スイッチ１１１ｂは、第２始動口２２へ遊技球が入賞したことに応じた信号をメイン制御部１００へ送る。電動チューリップ開閉部１１２は、メイン制御部１００から送られる制御信号に応じて、電動チューリップ２７の一対の羽根部を開閉する。ゲートスイッチ１１３は、ゲート２５を遊技球が通過したことに応じた信号をメイン制御部１００へ送る。大入賞口スイッチ１１４は、大入賞口２３へ遊技球が入賞したことに応じた信号をメイン制御部１００へ送る。大入賞口開閉部１１５は、メイン制御部１００から送られる制御信号に応じて、大入賞口２３を開閉する。普通入賞口スイッチ１１６は、普通入賞口２４へ遊技球が入賞したことに応じた信号をメイン制御部１００へ送る。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+［スイッチ処理について］
+  以下では、本実施形態のスイッチ処理（遊技球通過判定処理）について、具体的に説明する。なお、この遊技球通過判定処理は、上記した第１始動口２１、第２始動口２２、ゲート２５、大入賞口２３等に遊技球が入球（又は通過）したことを判定する場合に限らず、例えば、払い出した賞球（賞球数）を払出制御部３００が判定（カウント）する場合等にも実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  図５は、上記した第１始動口２１等への遊技球入賞（通過）を検出するための第１始動口スイッチ１１１ａ等として設置される近接スイッチの出力信号の例、および、この出力信号を通過判定閾値（５Ｖ）を用いてＯＮレベルとＯＦＦレベルとに２値化した２値化信号の例について説明するための図である。なお、近接スイッチは、一例として、長方形の
+プレートに遊技球が通過する円形の貫通孔を有しており、この貫通孔を遊技球が通過する際の磁束の変化に対応した電圧の出力信号を出力する直流２線式電子スイッチである。図５の点線で示すように、近接スイッチの出力信号の電圧レベルは、遊技球が貫通孔の中心に近づくにつれて降下していき、遊技球が貫通孔の中心に達する辺りで最小（極小）となり、遊技球が貫通孔の中心を通り過ぎて離れるにつれて上昇していく。また、図５に示すように、近接スイッチの出力信号は、コンパレータ（図示なし）によって、電圧レベルが通過判定閾値（５Ｖ）よりも大きいときには２値化信号のＯＦＦレベルに変換され、電圧レベルが通過判定閾値（５Ｖ）以下のときには２値化信号のＯＮレベルに変換される。なお、図５の例では、判定に用いる通過判定閾値を１つの通過判定閾値（５Ｖ）として説明したが、例えば、ＯＦＦレベルからＯＮレベルに切り替わる際には第１の通過判定閾値（５Ｖ）を用いる一方で、ＯＮレベルからＯＦＦレベルに切り替わる際には第２の通過判定閾値（６Ｖ）を用いる構成としてもよい。これにより、ノイズの影響等で通過判定閾値を跨いで近接スイッチの出力信号が上下することによって２値化信号が不適切にＯＮ／ＯＦＦ間で行き来することを防止できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  そして、図９を用いて後述するメイン制御部１００により４ミリ秒（４ｍｓ）間隔で実行されるタイマ割り込み処理における各処理の一部として、図５に示す２値化信号を４ミリ秒間隔でＯＮ／ＯＦＦ判定することによって、遊技球の通過判定を行う。以下、具体的に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  図５に示すように、２値化信号に対して、ＯＮレベルであるのかＯＦＦレベルであるのかが４ミリ秒間隔で判定（ＯＮ／ＯＦＦ判定）される。図５では、自然数ｎを用いて、ＯＮ／ＯＦＦ判定の順番を表している。また、図５では、ｎ－２回目からｎ回目のＯＮ／ＯＦＦ判定によってＯＦＦレベルと判定され、その後、ｎ＋１回目のＯＮ／ＯＦＦ判定によってＯＮレベルと判定されている。ここで、本実施形態では、ＯＮレベルと判定された場合には、このＯＮレベルと判定したＯＮ／ＯＦＦ判定の処理において、４ミリ秒間隔よりも短い所定の微小時間（例えば４マイクロ秒）が経過したタイミングで２回目のＯＮ／ＯＦＦ判定を実行する。図５では、ｎ＋１回目のタイマ割り込み処理におけるＯＮ／ＯＦＦ判定で２回ともＯＮレベルと判定されている。その後、ｎ＋２回目からｎ＋４回目のＯＮ／ＯＦＦ判定によってＯＦＦレベルと判定されている。なお、２値化信号のＯＮレベルの期間（ＯＮ期間という）が図５の場合よりも長く（つまり、遊技球が図５の場合よりも遅い速度で通過して）例えばｎ＋２回目のＯＮ／ＯＦＦ判定もＯＮ期間に実行される場合には、ｎ＋２回目のＯＮ／ＯＦＦ判定においても２回の判定を実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  本実施形態では、図５に示すように、ｎ回目のＯＮ／ＯＦＦ判定によってＯＦＦレベルと判定されて、ｎ＋１回目のＯＮ／ＯＦＦ判定によって２回ＯＮレベルと判定されると、近接スイッチの貫通孔を遊技球が１つ通過したと判定する。なお、これらのＯＮ／ＯＦＦ判定は、例えば第１始動口スイッチ１１１ａとして設置された近接スイッチに対しては、メイン制御部１００（より正確にはＣＰＵ１０１）が実行し、例えば払出制御部３００に接続された遊技球の払い出し数を検出するための近接スイッチに対しては、払い出し制御部３００（より正確にはＣＰＵ３０１）が実行する（図４参照）。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  ここで、図５に示すｎ＋１回目のＯＮ／ＯＦＦ判定における上記した所定の微小時間（例えば４マイクロ秒）は、遊技球通過判定の演算処理を実行するためのソフトウエアのプログラミング内容によって予め設定される。つまり、上記した所定の微小時間は、このプログラミング内容によって任意な時間に設定できる可変時間である。遊技機１には微細周期のノイズ（例えば３～１５マイクロ秒周期のノイズ）が発生する場合があり、このノイズの周期は、遊技機の機種に或る程度依存している。例えば、或る機種の遊技機には５マイクロ秒周期のノイズが発生し易く、或る機種の遊技機には９マイクロ秒周期のノイズが発生し易い。そこで、本実施形態では、上記した所定の微小時間をプログラミング内容に
+よって任意な時間に設定できる構成とすることによって、微細周期のノイズによる誤判定を有効に回避することができる。なお、上記した所定の微小時間を設けるための演算処理は、遊技進行には関係しない処理であって時間を稼ぐためだけの処理である。例えば、１マイクロ秒の時間を要する処理を４回繰り返すことによって、上記した所定の微小時間として４マイクロ秒をソフト的に設けることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  ところで、近年の遊技機では、演算処理内容の増大により演算処理の負荷が増大したために、以前の遊技機では２ミリ秒であったタイマ割り込み処理の実行間隔は４ミリ秒に延長され、このため、図５を用いて説明したように、近接スイッチを用いたＯＮ／ＯＦＦ判定も２ミリ秒間隔から延長されて４ミリ秒間隔で実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  ここで、以前の遊技機は、ｎ回目のＯＮ／ＯＦＦ判定でＯＦＦレベルと判定してｎ＋１回目のＯＮ／ＯＦＦ判定でＯＮレベルと判定してｎ＋２回目のＯＮ／ＯＦＦ判定でＯＮレベルと判定したことを持って１つの遊技球が通過したと判定していた（以下、「以前の判定方法」という）。つまり、３回のタイマ割り込み処理による３回のＯＮ／ＯＦＦ判定によって遊技球通過を判定していた。なお、この様にｎ＋１回目およびｎ＋２回目でＯＮレベルと判定するのは、ノイズにより偶然ＯＮレベルと１回判定されたことによって遊技球が通過したと誤判定することを回避するためである。しかしながら、ＯＮ／ＯＦＦ判定の間隔が４ミリ秒間隔に延長された近年の遊技機においては、上記した以前の判定方法では、速い速度で通過する遊技球の通過を判定することはできない。例えば、図５に示すような２値化信号のＯＮレベルの期間（ＯＮ期間）が非常に短くなる（例えば７ミリ秒前後）ほど速い速度で通過する遊技球の通過を判定することは困難となってしまう。そこで、本実施形態では、図５を用いて説明した判定方法により、１つの遊技球が通過したと判定する。このことから、本実施形態によれば、２回のタイマ割り込み処理によるＯＮ／ＯＦＦ判定によって、ノイズによる誤判定を防止しつつ確実に遊技球通過を判定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  ところで、遊技機１には、遊技機１への電源供給が遮断されたことを検知するための電源監視回路、近接スイッチの配線が断線したことを検知するための断線検知回路、および近接スイッチの配線が短絡（ショート）したことを検知するための短絡検知回路等の異常検知回路（何れも図示なし）が設けられている。これらの異常検知回路は、異常発生を判定するための閾値（異常判定レベル）を、図５に示した通過判定閾値（５Ｖ）よりも高い電圧レベルに設けることによって、断線、電源遮断、又は短絡により近接スイッチの出力信号の電圧が低下した場合に、この出力信号の電圧が通過判定閾値まで降下する前に異常を判定して、遊技球が通過したと誤判定することを防止している。この様に、通過判定閾値よりも高い電圧レベルに異常判定レベルを設けているため、通過判定閾値を高い値（例えば１０Ｖ）にすることによってＯＮ期間を長く取ることは困難である（図５参照）。この結果として、遊技機１において、出力信号のＯＮ期間を長く取って、上記した以前の判定方法を用いて遊技球通過を判定することは、現実的ではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  なお、以上に説明したスイッチ処理において、ＯＮ判定されたタイマ割り込み処理の後に実行されるＯＮ判定されるタイマ割り込み処理においては、２回目のＯＮ／ＯＦＦ判定は行わない構成としてもよい。
+  また、以上に説明したスイッチ処理において、２値化信号がＯＮからＯＦＦに切り替わるところを検出して遊技球の通過を判定する構成としてもよい。つまり、図５において、ｎ＋１回目のタイマ割り込み処理で２回ＯＮ判定してｎ＋２回目のタイマ割り込み処理でＯＦＦ判定したことを持って１つの遊技球が通過したと判定してもよい。
+  また、以上に説明したスイッチ処理において、１回のタイマ割り込み処理（ＯＮ検出）において、３回以上ＯＮ／ＯＦＦ判定を行ってもよいし、又、１回のタイマ割り込み処理（ＯＦＦ検出）において、２回以上ＯＮ／ＯＦＦ判定を行ってもよい。
+  また、以上に説明したスイッチ処理において、近接スイッチの出力信号（アナログ信号）を２値化信号（デジタル信号）に変換することなく遊技球通過判定を行う構成としてもよい。つまり、近接スイッチの出力信号（アナログ信号）に対して通過判定閾値（５Ｖ）以下か否かを判定することによって、遊技球通過判定を行ってもよい。
+  また、以上に説明したスイッチ処理において、近接スイッチの出力信号は、遊技球非検出時には低電圧レベルであり遊技球検出時に高電圧レベルになる出力信号であり、この出力信号を反転させる信号反転手段によりこの出力信号を反転させて図５の点線で示すような信号に変換する構成としてもよい。
+  また、以上に説明したスイッチ処理において、近接スイッチ自身がアナログ信号を２値化信号に変換して出力する構成を備えて、近接スイッチから２値化信号が出力される構成としてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  以上で、本実施形態のスイッチ処理（遊技球通過判定処理）についての説明を終わる。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  図４を用いた説明に戻り、メイン制御部１００は、第１始動口２１への遊技球の入賞により始動した特別図柄抽選（以下、第１特別図柄抽選という場合がある）の結果を、第１特別図柄表示器４ａに表示する。メイン制御部１００は、第２始動口２２への遊技球の入賞により始動した特別図柄抽選（以下、第２特別図柄抽選という場合がある）の結果を、第２特別図柄表示器４ｂに表示する。メイン制御部１００は、第１特別図柄抽選を保留している保留回数を、第１特別図柄保留表示器４ｃに表示する。メイン制御部１００は、第２特別図柄抽選を保留している保留回数を、第２特別図柄保留表示器４ｄに表示する。メイン制御部１００は、ゲート２５への遊技球の通過により始動した普通図柄抽選の結果を、普通図柄表示器４ｅに表示する。メイン制御部１００は、普通図柄抽選を保留している保留回数を、普通図柄保留表示器４ｆに表示する。また、メイン制御部１００は、遊技機１の電源投入時にその時点の遊技状態を遊技状態表示器４ｇに表示する。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  発射制御部２００は、ＣＰＵ２０１、ＲＯＭ２０２、およびＲＡＭ２０３を備えている。ＣＰＵ２０１は、発射装置２１１に関連する各種制御を行う際の演算処理を行う。ＲＯＭ２０２は、ＣＰＵ２０１にて実行されるプログラムや各種データ等を記憶している。ＲＡＭ２０３は、ＣＰＵ２０１の作業用メモリ等として用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  レバー３２は、その位置が中立位置にある場合、信号を出力せずに発射停止状態となる。そして、レバー３２は、遊技者によって時計回りに回転操作されると、その回転角度に応じた信号を打球発射指令信号として発射制御部２００に出力する。発射制御部２００は、打球発射指令信号に基づいて、発射装置２１１の発射動作を制御する。例えば、発射制御部２００は、レバー３２の回転角度が増すほど、遊技球が発射される速度が速くなるように、発射装置２１１の動作を制御する。発射制御部２００は、停止ボタン３３が押下された信号が出力された場合、発射装置２１１が遊技球を発射する動作を停止させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  払出制御部３００は、ＣＰＵ３０１、ＲＯＭ３０２、およびＲＡＭ３０３を備えている。ＣＰＵ３０１は、払出球の払い出しを制御する際の演算処理を行う。ＲＯＭ３０２は、ＣＰＵ３０１にて実行されるプログラムや各種データ等を記憶している。ＲＡＭ３０３は、ＣＰＵ３０１の作業用メモリ等として用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  払出制御部３００は、メイン制御部１００から送られたコマンドに基づいて、払出球の払い出しを制御する。具体的には、払出制御部３００は、メイン制御部１００から、遊技球が入賞した場所に応じた所定数の賞球を払い出すコマンドを取得する。そして、コマンドに指定された数だけの賞球を払い出すように払出駆動部３１１を制御する。ここで、払出駆動部３１１は、遊技球の貯留部（球タンク）から遊技球を送り出す駆動モータ等で構成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  演出制御部４００は、ＣＰＵ４０１、ＲＯＭ４０２、ＲＡＭ４０３、およびＲＴＣ（リアルタイムクロック）４０４を備えている。また、演出制御部４００には、遊技者によって操作される演出キー３８が接続され、演出制御部４００は、遊技者による演出キー３８の操作に応じて演出キー３８から出力される操作データを取得する。また、演出制御部４００は、ランプ制御部６００を介して演出ボタン３７から出力される操作データを取得する。ＣＰＵ４０１は、演出を制御する際の演算処理を行う。ＲＯＭ４０２は、ＣＰＵ４０１にて実行されるプログラムや各種データ等を記憶している。ＲＡＭ４０３は、ＣＰＵ４０１の作業用メモリ等として用いられる。ＲＴＣ４０４は、現時点の日時を計測する。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  演出制御部４００は、メイン制御部１００から送られる特別図柄抽選結果等を示すデータに基づいて、演出内容を設定する。また、演出制御部４００は、遊技者によって演出ボタン３７または演出キー３８が押下操作された場合、当該操作入力に応じて演出内容を設定する場合もある。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  画像音響制御部５００は、ＣＰＵ５０１、ＲＯＭ５０２、およびＲＡＭ５０３を備えている。ＣＰＵ５０１は、演出内容を表現する画像および音響を制御する際の演算処理を行う。ＲＯＭ５０２は、ＣＰＵ５０１にて実行されるプログラムや各種データ等を記憶している。ＲＡＭ５０３は、ＣＰＵ５０１の作業用メモリ等として用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  画像音響制御部５００は、演出制御部４００から送られたコマンドに基づいて、画像表示部６に表示する画像およびスピーカ３５から出力する音響を制御する。具体的には、画像音響制御部５００のＲＯＭ５０２には、特別図柄抽選結果を報知等するための装飾図柄画像、予告演出や先読み予告演出を表示するためのキャラクタやアイテム等の画像、特別図柄抽選が保留されていることを示す保留画像、および各種背景画像等を、画像表示部６に表示するための画像データが記憶されている。また、画像音響制御部５００のＲＯＭ５０２には、画像表示部６に表示される画像と同期させて、または表示される画像とは独立に、スピーカ３５から出力させる楽曲や音声等の各種音響データが記憶されている。画像音響制御部５００のＣＰＵ５０１は、ＲＯＭ５０２に記憶された画像データや音響データの中から、演出制御部４００から送られたコマンドに対応したものを選択して読み出す。そして、ＣＰＵ５０１は、読み出した画像データを用いて、背景画像表示、装飾図柄画像表示、およびキャラクタ／アイテム表示等のための画像処理を行って、演出制御部４００から送られたコマンドに対応した各種演出表示を行う。そして、ＣＰＵ５０１は、画像処理された画像データが示す画像を画像表示部６に表示する。また、ＣＰＵ５０１は、読み出した音響データを用いて音声処理を行い、音声処理された音響データが示す音響をスピーカ３５から出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  ランプ制御部６００は、ＣＰＵ６０１、ＲＯＭ６０２、およびＲＡＭ６０３を備えている。ＣＰＵ６０１は、盤ランプ８や枠ランプ３６の発光、および可動役物７の動作を制御する際の演算処理を行う。ＲＯＭ６０２は、ＣＰＵ６０１にて実行されるプログラムや各種データ等を記憶している。ＲＡＭ６０３は、ＣＰＵ６０１の作業用メモリ等として用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  ランプ制御部６００は、演出制御部４００から送られたコマンドに基づいて、盤ランプ８や枠ランプ３６の点灯／点滅や発光色等を制御する。また、ランプ制御部６００は、演出制御部４００から送られたコマンドに基づいて、可動役物７の動作を制御する。具体的には、ランプ制御部６００のＲＯＭ６０２には、演出制御部４００により設定される演出内容に応じた盤ランプ８や枠ランプ３６での点灯／点滅パターンデータおよび発光色パターンデータ（発光パターンデータ）が記憶されている。ＣＰＵ６０１は、ＲＯＭ６０２に記憶された発光パターンデータの中から、演出制御部４００から送られたコマンドに対応
+したものを選択して読み出す。そして、ＣＰＵ６０１は、読み出した発光パターンデータに基づいて、盤ランプ８や枠ランプ３６の発光を制御する。また、ＲＯＭ６０２には、演出制御部４００により設定される演出内容に応じた可動役物７の動作パターンデータが記憶されている。ＣＰＵ６０１は、ＲＯＭ６０２に記憶された動作パターンデータの中から、演出制御部４００から送られたコマンドに対応したものを選択して読み出す。そして、ＣＰＵ６０１は、読み出した動作パターンデータに基づいて、可動役物７の動作を制御する。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  また、ランプ制御部６００には、遊技者によって操作される演出ボタン３７が接続され、ランプ制御部６００は、遊技者による演出ボタン３７の操作に応じて演出ボタン３７から出力される操作データを取得して、当該操作データを演出制御部４００に伝達する。更に、ランプ制御部６００は、演出制御部４００から送られたコマンドに基づいて、演出ボタン３７を突出動作させることによって演出ボタン３７を可動役物として動作制御することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  なお、演出制御部４００は、ランプ制御部６００から伝達される演出ボタン３７の操作データ、および演出キー３８から出力された操作データに基づいて、画像音響制御部５００に対して、演出ボタン３７および演出キー３８の操作状態を通知する。ここで、演出ボタン３７および演出キー３８の操作状態とは、操作が行われているか否かや、どのような操作が行われているか（例えば、演出ボタン３７の長押しや、演出キー３８左方向キーの押下）等を含む情報である。したがって、例えば演出ボタン３７が遊技者によって操作された場合、ランプ制御部６００によって検出された演出ボタン３７の操作状態が、演出制御部４００を介して画像音響制御部５００に伝達される。このため、画像音響制御部５００は、演出制御部４００から伝達される演出ボタン３７の操作状態に基づいて、演出内容を変化させたり、所定の演出を実行したりすることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+［本実施形態における遊技状態の概要］
+  次に、本実施形態における遊技機１の遊技状態について説明する。遊技機１の遊技状態としては、高確状態、低確状態、電サポ状態、非電サポ状態、時短状態、非時短状態、大当り遊技状態が少なくとも存在する。低確状態は、特別図柄抽選の当選確率が通常の低確率（例えば１／３００）に設定されている遊技状態であり、高確状態は、特別図柄抽選の当選確率が、低確状態よりも高確率（例えば１／５０）に設定されている遊技状態である。非電サポ状態は、普通図柄抽選の当選確率が通常の低確率（例えば１／１０）であり、かつ通図柄抽選に当選した場合であっても電動チューリップ２７が短時間（例えば０．１０秒間を１回）しか開放制御されない遊技状態であり、このため、第２始動口２２に遊技球が入球し難い遊技状態である。電サポ状態は、普通図柄抽選の当選確率が非電サポ状態よりも高確率（例えば１０／１０）であり、かつ普通図柄抽選に当選した場合に電動チューリップ２７が長時間（例えば２．００秒間を３回）開放されるように制御される遊技状態であり、このため、電動チューリップ２７が頻繁に長時間開放されて第２始動口２２に遊技球が頻繁に入球（入賞）し易くなる遊技状態である。非時短状態とは、特別図柄抽選の実行時間が通常の所定時間である遊技状態であり（図１４参照）、時短状態とは、特別図柄抽選の実行時間が、非時短状態よりも短縮される遊技状態である（図１７参照）。大当り遊技状態とは、特別図柄抽選に当選して（大当りして）大入賞口２３が開放される大当り遊技が実行されている遊技状態である。なお、本実施形態においては、電サポ状態と時短状態とは同時に制御されるものとするが、この遊技状態においては、第２始動口２２へ遊技球が入賞し易くなることにより遊技球が殆ど減ることなく、かつ短時間で多数の特別図柄抽選を実行できることとなる。また、以下では、低確状態かつ非電サポ状態かつ非時短状態に制御される遊技状態を通常遊技状態といい、高確状態かつ電サポ状態かつ時短状態に制御される遊技状態を確変遊技状態という。なお、本実施形態では、高確状態かつ非電サポ状態かつ非時短状態に制御される遊技状態である潜伏遊技状態は設けていない。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  次に、パチンコ遊技機１が実行する処理フローについて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+［メイン制御部１００によるメイン処理］
+  まず、図６を参照しつつ、メイン制御部１００によって実行されるメイン処理について説明する。なお、このメイン処理は、パチンコ遊技機１の電源が投入されると開始され、メイン制御部１００が起動している間、継続的に実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  図６のステップＳ９０１において、まず、ＣＰＵ１０１は、例えば２０００ｍｓ待機して、処理はステップＳ９０２に移る。なお、図示はしていないが、演出制御部４００のＣＰＵ４０１は、パチンコ遊技機１の電源が投入されると、待機処理を行うことなく、メイン制御部１００からの信号を受信可能な状態となる。すなわち、演出制御部４００のＣＰＵ４０１は、メイン制御部１００のＣＰＵ１０１よりも先に、処理を開始できる状態となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  ステップＳ９０２において、ＣＰＵ１０１は、ＲＡＭ１０３へのアクセスを許可して、処理はステップＳ９０３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  ステップＳ９０３において、ＣＰＵ１０１は、不図示のＲＡＭクリアスイッチが「ＯＮ」であるか否かを判定する。ステップＳ９０３での判定がＹＥＳの場合、処理はステップＳ９０４に移り、この判定がＮＯの場合、処理はステップＳ９０７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  ステップＳ９０４において、ＣＰＵ１０１は、ＲＡＭクリアを行う。ここで、ＲＡＭクリアは、公知の技術であるため詳細な説明は省略するが、ＲＡＭ１０３に格納されている各種情報（例えば遊技状態を示す情報）を所定の初期状態とすることである。その後、処理はステップＳ９０５に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  ステップＳ９０５において、ＣＰＵ１０１は、ＲＡＭクリア時の作業領域を設定し、処理はステップＳ９０６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  ステップＳ９０６において、ＣＰＵ１０１は、周辺部の初期設定を行う。ここで、周辺部とは、演出制御部４００や払出制御部３００等である。周辺部の初期設定は、それぞれの制御部に対して、初期設定の実行を指示する初期設定コマンドを送信することによって行われる。その後、処理はステップＳ９１０に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  ステップＳ９０７において、ＣＰＵ１０１は、バックアップフラグが「ＯＮ」であるか否かを判定する。なお、バックアップフラグとは、電源遮断時にバックアップデータの生成が正常に完了した場合、オンになるフラグであり、生成したバックアップデータに関連付けて、当該バックアップデータが有効であることを示すフラグである。ステップＳ９０７での判定がＹＥＳの場合、処理はステップＳ９０８に移り、この判定がＮＯの場合、処理はステップＳ９０４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  ステップＳ９０８において、ＣＰＵ１０１は、チェックサムが正常であるか否かを判定する。ステップＳ９０８での判定がＹＥＳの場合、処理はステップＳ９０９に移り、この判定がＮＯの場合、処理はステップＳ９０４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  ステップＳ９０９において、ＣＰＵ１０１は、後述する復旧処理（図８参照）を実行し、処理はステップＳ９１０に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  ステップＳ９１０において、ＣＰＵ１０１は、内蔵されているＣＴＣ（タイマカウンタ
+）の周期（４ｍｓ）を設定する。なお、ＣＰＵ１０１は、ここで設定された周期を用いて後述するタイマ割込処理（図９参照）を実行する。その後、処理はステップＳ９１１に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  ステップＳ９１１において、ＣＰＵ１０１は、後述する電源遮断監視処理（図７参照）を実行し、処理はステップＳ９１２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  ステップＳ９１２において、ＣＰＵ１０１は、タイマ割込処理の割り込みを禁止する設定を行い、処理はステップＳ９１３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  ステップＳ９１３において、ＣＰＵ１０１は、初期値乱数を更新し、処理はステップＳ９１４に移る。こで、初期値乱数とは、後述するタイマ割り込み処理（図９参照）においてカウントアップ更新される各種の乱数（大当り乱数、図柄乱数、リーチ乱数、変動パターン乱数）の開始値を決定するための乱数であり、この各種の乱数に対応して複数の初期値乱数が用意されている。なお、初期値乱数は、所定のＣＴＣの周期（４ｍｓ）ごとに発生するタイマ割込み処理（図９参照）と、その残余時間（すなわち、この所定のＣＴＣの周期からタイマ割込み処理に要する処理時間を減じた時間）に処理されるメイン処理（図６参照）の両方でカウントアップ更新され、設定されている乱数の最大値（例えば２９９）に達した後は再び最小値（例えば０）に戻る。また、この残余時間は、ＣＰＵ１０１の処理状況に応じて異なるので、ランダムな時間となっており、この残余時間で更新される初期値乱数の更新回数もランダムとなる。一方、詳細は後述するが、他の各種乱数（大当り乱数、図柄乱数、リーチ乱数、変動パターン乱数）は、タイマ割込み処理（図９参照）でしか更新されないため、初期値乱数とは乱数更新処理の処理周期が相違する。このように、処理周期が相違することにより、例えば、初期値乱数と大当り乱数の乱数範囲が同じ（例えば０～２９９）であったとしても、大当り乱数の開始値として取得される初期値乱数の値は毎回ランダムとなる。そのため、大当たりを発生させる大当たり乱数値が取得されるタイミングを予測することを困難にすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0083">
+  ステップＳ９１４において、ＣＰＵ１０１は、タイマ割込処理の割り込みを許可する設定を行い、処理がステップＳ９１１に戻される。すなわち、ＣＰＵ１０１は、ステップＳ９１１～ステップＳ９１４の処理を繰り返し実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0084">
+［メイン制御部１００による電源遮断監視処理］
+  図７は、図６のステップＳ９１１における電源遮断監視処理の詳細フローチャートである。図７のステップＳ９１１１において、ＣＰＵ１０１は、割込処理を禁止し、処理はステップＳ９１１２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0085">
+  ステップＳ９１１２において、ＣＰＵ１０１は、不図示の電源部から電源遮断信号が入力されたか否かに基づいて、パチンコ遊技機１に対する電源供給が遮断されたか否かを判定する。ステップＳ９１１２での判定がＹＥＳの場合、処理はステップＳ９１１４に移り、この判定がＮＯの場合、処理はステップＳ９１１３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0086">
+  ステップＳ９１１３において、ＣＰＵ１０１は、割込処理を許可し、電源遮断監視処理を終了する（処理は図６のステップＳ９１２に移る）。
+</base:Paragraphs>
+      <base:Paragraphs num="0087">
+  一方、ステップＳ９１１４において、ＣＰＵ１０１は、ＣＰＵ１０１に対して各種情報が入出力される出力ポートをクリアし、処理はステップＳ９１１５に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0088">
+  ステップＳ９１１５において、ＣＰＵ１０１は、現在の遊技機１の遊技状態等に基づいて、バックアップデータをＲＡＭ１０３に作成後、ＲＡＭ１０３の内容からチェックサム
+を作成してＲＡＭ１０３に格納する。なお、この処理は、メイン制御部１００に供給される電源の電源遮断により電源電圧が低下し始めたことを検出してから（ステップＳ９１１２で「ＹＥＳ」と判定されてから）電源電圧が「０」になるまでの期間に行われる。この処理によって、電源が遮断される直前の遊技状態情報等がＲＡＭ１０３に記憶される。その後、処理はステップＳ９１１６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0089">
+  ステップＳ９１１６において、ＣＰＵ１０１は、バックアップフラグを「ＯＮ」に設定し、処理はステップＳ９１１７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0090">
+  ステップＳ９１１７において、ＣＰＵ１０１は、ＲＡＭ１０３へのアクセスを禁止し、電源遮断監視処理を終了する（処理は図６のステップＳ９１２に移る）。
+</base:Paragraphs>
+      <base:Paragraphs num="0091">
+［メイン制御部１００による復旧処理］
+  図８は、図６のステップＳ９０９における復旧処理の詳細フローチャートである。まず、図８のステップＳ９０９１において、ＣＰＵ１０１は、復旧時におけるＲＡＭ１０３の作業領域を設定し、処理はステップＳ９０９２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0092">
+  ステップＳ９０９２において、ＣＰＵ１０１は、ＲＡＭ１０３の情報を参照して、電源遮断時における遊技状態や特別図柄抽選の保留数に関する情報を確認し、当該情報を含めた復旧通知コマンドを演出制御部４００に対して送信する。このように、ＣＰＵ１０１は、パチンコ遊技機１に対する電源供給が復旧したことを通知するために、電源遮断時の状態を示す復旧通知コマンドを演出制御部４００へ送信する。このステップＳ９０９２の処理により、演出制御部４００は、電源遮断前の遊技状態等を確認することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0093">
+  ステップＳ９０９３において、ＣＰＵ１０１は、周辺部の設定を行い、処理はステップＳ９０９４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0094">
+  ステップＳ９０９４において、ＣＰＵ１０１は、バックアップフラグを「ＯＦＦ」に設定し、復旧処理を終了する（処理は図６のステップＳ９１０に移る）。
+</base:Paragraphs>
+      <base:Paragraphs num="0095">
+［メイン制御部のタイマ割り込み処理］
+  次に、メイン制御部１００において実行されるタイマ割込処理について説明する。図９は、メイン制御部１００によって行われるタイマ割込み処理の一例を示すフローチャートである。以下に、図９を参照して、メイン制御部１００において行われるタイマ割込み処理について説明する。メイン制御部１００は、電源投入時や電源断時等の特殊な場合を除く通常の動作時において、図９に示す一連の処理を一定時間（４ミリ秒）毎に繰り返し実行する。なお、図９以降のフローチャートに基づいて説明するメイン制御部１００で行われる処理は、ＲＯＭ１０２に記憶されているプログラムに基づいて実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0096">
+  まず、ステップＳ１において、メイン制御部１００のＣＰＵ１０１は、大当り乱数、図柄乱数、リーチ乱数、及び変動パターン乱数等の各種の乱数の更新、及びこの各乱数がカウントアップ更新される際の開始値となるそれぞれの初期値乱数の更新を行う乱数更新処理を実行する。ここで、大当り乱数は、特別図柄抽選の当選又は落選を判定する（つまり、特別図柄抽選を行う）ための乱数である。図柄乱数は、特別図柄抽選に当選した場合に大当りの種類を決定するための乱数である。大当り乱数及び図柄乱数は、後に説明する図１３のステップＳ４０７の処理で使用される乱数である。リーチ乱数は、特別図柄抽選に落選した場合にリーチ演出を行うか否かを決定するための乱数である。変動パターン乱数は、特別図柄の変動時間（変動パターン）を決定するための乱数である。ここで、特別図柄の変動時間は、この特別図柄の変動に同期して実行される報知演出（変動演出）の実行時間と等しい。リーチ乱数及び変動パターン乱数は、後に説明する図１３のステップＳ４
+０８の処理で使用される。ステップＳ１の乱数更新処理において、大当り乱数、図柄乱数、リーチ乱数、及び変動パターン乱数等および各初期値乱数の値は、それぞれ、１ずつ加算されて更新される。つまり、カウントアップされる。そして、ステップＳ２の始動口スイッチ（ＳＷ）処理やステップＳ３のゲートスイッチ（ＳＷ）処理において各乱数が取得されて、後述するステップＳ４の特別図柄処理やステップＳ５の普通図柄処理で使用される。なお、このステップＳ１の処理を行うカウンタは、典型的にはループカウンタであり、設定されている乱数の最大値（例えば大当り乱数では２９９）に達した後は再び０に戻る（つまり、循環する）。また、ステップＳ１の乱数更新処理において、大当り乱数、図柄乱数、リーチ乱数、変動パターン乱数等の各カウンタは、それぞれ、ループカウンタのカウントが一巡すると、その時点での各乱数に対応する初期値乱数を取得して、当該初期値乱数の値を開始値として、新たにループカウンタのカウントを開始する。なお、大当り乱数、図柄乱数、リーチ乱数、及び変動パターン乱数等の乱数範囲は、任意に設定すればよいが、それぞれを互いに異なる範囲に設定することで（例えば、大当り乱数の範囲は０～２９９としリーチ乱数の範囲は０～９９とする等）、これらの乱数の間でカウンタの値（カウント値）が同期しないように設定することが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0097">
+  次に、ステップＳ２において、ＣＰＵ１０１は、第１始動口スイッチ１１１ａ及び第２始動口スイッチ１１１ｂの状態を監視することにより、第１始動口２１又は第２始動口２２に遊技球が入賞したと判定された時点で、第１特別図柄抽選の保留数Ｕ１や第２特別図柄抽選の保留数Ｕ２に関する処理や各種乱数を取得する処理を行う始動口スイッチ処理を実行する。この始動口スイッチ処理の詳細については、図１２を参照して後に詳述する。
+</base:Paragraphs>
+      <base:Paragraphs num="0098">
+  次に、ステップＳ３において、ＣＰＵ１０１は、ゲートスイッチ１１３の状態を監視することにより、ゲート２５を遊技球が通過したと判定された時点で普通図柄抽選の保留数が上限値（例えば４）未満か否かを判断し、保留数が上限値未満であると判断した場合、後述するステップＳ５の普通図柄処理に使用される乱数を取得するゲートスイッチ処理を実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0099">
+  次に、ステップＳ４において、ＣＰＵ１０１は、第１特別図柄抽選又は第２特別図柄抽選を実行し、第１特別図柄表示器４ａ又は第２特別図柄表示器４ｂに特別図柄を変動表示させた後にこれらの抽選結果を示す停止図柄の表示処理や、演出制御部４００へ各種コマンドを送信等するための特別図柄処理を実行する。この特別図柄処理については、図１３を参照して後に詳述する。
+</base:Paragraphs>
+      <base:Paragraphs num="0100">
+  次に、ステップＳ５において、ＣＰＵ１０１は、ステップＳ３のゲートスイッチ処理で取得された乱数が所定の当たり乱数と一致するか否かを判定する普通図柄処理を実行する。そして、ＣＰＵ１０１は、普通図柄表示器４ｅに普通図柄を変動表示させた後に判定結果を示す普通図柄を停止表示させる。具体的には、ＣＰＵ１０１は、普通図柄を変動表示させた後に停止表示させる普通図柄変動時間を、非時短状態／非電サポ状態では１０秒に設定し、時短状態／電サポ状態では０．５秒に短縮する。また、ＣＰＵ１０１は、普通図柄表示器４ｅに表示された普通図柄が所定の当たり図柄となる確率（つまり、普通図柄抽選の当選確率）を、非時短状態／非電サポ状態では低確率（１／１０）に設定し、時短状態／電サポ状態では高確率（１０／１０）に上昇させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0101">
+  次に、ステップＳ６において、ＣＰＵ１０１は、ステップＳ４の特別図柄処理で特別図柄抽選に当選したと判定された場合（大当りした場合）に、大入賞口開閉部１１５を制御して大入賞口２３に所定の開閉動作を行わせ、また、いわゆる大当り遊技演出等に関する各種コマンドを演出制御部４００に対して送信等するための大入賞口処理を実行する。この処理によって、大当り遊技（特別遊技）が進行され、遊技者は多量の賞球を獲得可能となる。この大入賞口処理については、図１８及び図１９を参照して後に詳述する。
+</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  次に、ステップＳ７において、ＣＰＵ１０１は、ステップＳ５の普通図柄処理によって普通図柄表示器４ｅに表示された普通図柄が所定の当たり図柄である場合（つまり、普通図柄抽選に当選した場合）に、電動チューリップ２７を作動させる電動チューリップ処理を実行する。その際、ＣＰＵ１０１は、非時短状態／非電サポ状態では電動チューリップ２７を極短期間（０．１０秒間を１回）開放制御し、時短状態／電サポ状態では電動チューリップ２７を長期間（２．００秒間を３回）開放制御する。なお、電動チューリップ２７が開放状態に制御されることによって第２始動口２２に遊技球が入賞可能な状態となり、第２始動口２２に遊技球が入賞することで、第２特別図柄抽選が行われることとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0103">
+  次に、ステップＳ８において、ＣＰＵ１０１は、遊技球の入賞個数の管理及び入賞に応じた賞球の払出しを制御する賞球処理を実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0104">
+  次に、ステップＳ９において、ＣＰＵ１０１は、ステップＳ２の始動口スイッチ処理、ステップＳ４の特別図柄処理、ステップＳ６の大入賞口処理、ステップＳ８の賞球処理等でＲＡＭ１０３にセットされた各種コマンドや演出に必要な情報を演出制御部４００又は／及び払出制御部３００へ出力する出力処理を実行する。なお、ＣＰＵ１０１は、第１始動口２１、第２始動口２２、大入賞口２３、普通入賞口２４に遊技球が入賞する毎に、それぞれの入賞口に遊技球が入賞したことを通知するための入賞コマンドをＲＡＭ１０３にセットして、当該入賞コマンドを演出制御部４００又は／及び払出制御部３００へ出力する。
+</base:Paragraphs>
+      <base:Paragraphs num="0105">
+［制御時間カウント処理について］
+  ここで、図９を用いて上述したタイマ割り込み処理では説明を省略したが、このタイマ割り込み処理において、ＣＰＵ１０１は、特別図柄ゲーム側の一連の制御時間を１つのタイマ機能を用いて計測する特別図柄ゲーム側の制御時間カウント処理（「特図ゲームカウント処理」という）、および、普通図柄ゲーム側の一連の制御時間を１つのタイマ機能を用いて計測する普通図柄ゲーム側の制御時間カウント処理（「普図ゲームカウント処理」という）を実行する。特図ゲームカウント処理および普図ゲームカウント処理は、例えば、図９のステップＳ７の処理とステップＳ８の処理との間に、順番に実行される。なお、特別図柄ゲームは、始動口（２１又は２２）への遊技球の入賞を待機し、遊技球が入賞したことに応じて特別図柄抽選を実行してその抽選結果を報知することを繰り返し、特別図柄抽選に当選した場合には大当り遊技を実行するゲームである。また、普通図柄ゲームは、ゲート２５への遊技球の通過を待機し、遊技球が通過したことに応じて普通図柄抽選を実行してその抽選結果を報知することを繰り返し、普通図柄抽選に当選した場合には電動チューリップ２７の開閉制御（電チューの開放遊技）を実行するゲームである。
+</base:Paragraphs>
+      <base:Paragraphs num="0106">
+  以下では、まず、特図ゲームカウント処理について説明する。図１０は、特図ゲームカウント処理および普図ゲームカウント処理を実行する際に使用されるデータ、および、メイン制御部１００のＲＡＭ１０３の記憶エリア（作業エリア）について説明するための図である。
+</base:Paragraphs>
+      <base:Paragraphs num="0107">
+  図１０（１）は、特別図柄ゲーム側のカウント対象の時間を設定（特定）するためのデータ（「特図側設定データ」という）の種類を示している。特図側設定データは、特別図柄ゲームの各期間（時間）のうち何れの期間を計測しているのかを設定するためのデータである。この特別図柄ゲームの各期間（時間）には、図１０（１）に示すように、「始動口入賞待ち中」と、「特別図柄変動表示中」と、「特別図柄停止表示中」と、「オープニング表示中」と、「ラウンド中」と、「大入賞口有効期間中」と、「エンディング表示中」とが含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0108">
+  「始動口入賞待ち中」は、始動口入賞が有ると即時にこの始動口入賞に係る特別図柄抽選を実行して特別図柄の変動表示を開始できる状態（期間）であり、典型的には、大当り遊技中ではなく、特別図柄の変動表示中でも規定時間の停止表示中でもない状態である。「特別図柄変動表示中」は、始動口入賞に応じて特別図柄抽選を実行して表示器４に特別図柄の変動表示を実行している状態（期間）である。「特別図柄停止表示中」は、表示器４に変動表示していた特別図柄を特別図柄抽選結果を報知する表示態様で規定時間（０．５秒間）完全に停止表示している状態（期間）である。「オープニング表示中」は、特別図柄抽選に当選して画像表示部６に大当り遊技が開始したことを報知するオープニング演出を表示している状態（期間）である。「ラウンド中」は、大当り遊技において大入賞口２３が開放されるラウンド（ラウンド遊技）を実行している状態（期間）である。「大入賞口有効期間中」は、各ラウンドの直後に配置され、ラウンドが終了して大入賞口２３が閉塞されたにも関わらず遊技球の大入賞口２３への入賞を有効と認める期間であり、これによって、いわゆるオーバー入賞が認められることとなる（図１８及び図１９を用いて後に詳述する大入賞口処理では、説明の簡単のため、オーバー入賞の処理内容は省略している）。なお、ラウンド中の期間および大入賞口有効期間を除く期間においては、遊技球の大入賞口２３への入賞は有効と認められない。「エンディング表示中」は、画像表示部６に大当り遊技が終了することを報知するエンディング演出を表示している状態（期間）である。
+</base:Paragraphs>
+      <base:Paragraphs num="0109">
+  図１０（１）に示すように、例えば、特図側設定データ「００Ｈ」は「始動口入賞待ち中」であることを設定するデータであり、例えば、特図側設定データ「０１Ｈ」は「特別図柄変動表示中」であることを設定するデータである。なお、これらの特図側設定データは、ＲＯＭ１０２に記憶されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0110">
+  図１０（３）は、ＲＡＭ１０３の記憶エリア（作業エリア）の模式図である。図１０（３）に示すように、ＲＡＭ１０３の記憶エリアには、カウント対象時間設定エリア１０と、時間カウントエリア１１と、単純変動表示用時間カウントエリア１２とが含まれている。カウント対象時間設定エリア１０は、特別図柄ゲーム側のカウント対象時間設定エリア１０Ａ（「エリア１０Ａ」という）と、普通図柄ゲーム側のカウント対象時間設定エリア１０Ｂ（「エリア１０Ｂ」という）とから成る。時間カウントエリア１１は、特別図柄ゲーム側の時間カウントエリア１１Ａ（「エリア１１Ａ」という）と、普通図柄ゲーム側の時間カウントエリア１１Ｂ（「エリア１１Ｂ」という）とから成る。単純変動表示用時間カウントエリア１２は、特別図柄ゲーム側の単純変動表示用時間カウントエリア１２Ａ（「エリア１２Ａ」という）と、普通図柄ゲーム側の単純変動表示用時間カウントエリア１２Ｂ（「エリア１２Ｂ」という）とから成る。
+</base:Paragraphs>
+      <base:Paragraphs num="0111">
+  エリア１１Ａは、上記した特別図柄ゲームの各期間（「特別図柄変動表示中」等）についての時間経過を計測するためのタイマエリアであり、１つの時間データを書き込んで１つの時間経過について計測するためのタイマエリアである。エリア１０Ａは、図１０（１）を用いて説明した特図側設定データの何れか１つが書き込まれることによって、エリア１１Ａで計測する時間の種類を設定するためのエリアである。エリア１２Ａは、第１特別図柄表示器４ａ（又は第２特別図柄表示器４ｂ）に特別図柄が７セグ表示で変動表示される際に、この７セグ表示の３つの表示態様を４８ミリ秒毎に順番に切替えて循環表示させる制御を実行するにあたって、この４８ミリ秒の時間経過を計測するためのタイマエリアであり、１つの時間データを書き込んで１つの時間経過について計測するためのタイマエリアである。なお、上記の７セグ表示の３つの表示態様は、例えば、数字の０を示す表示態様と、数字の７を示す表示態様と、７つのセグ全てが消灯した表示態様である。
+</base:Paragraphs>
+      <base:Paragraphs num="0112">
+  ＣＰＵ１０１は、エリア１０Ａに特図側設定データを書き込むことでエリア１１Ａによる計測対象の期間（時間）の種類を設定すると共に、エリア１１Ａに計測する時間データ
+を書き込み、図９のタイマ割込み処理において４ミリ秒毎に実行される特図ゲームカウント処理によってエリア１１Ａの時間データの値を１ずつ減算することで、１つのタイマ領域（エリア１１Ａ）を順番に用いて特別図柄ゲームの各期間の経過を順番に計測する。
+</base:Paragraphs>
+      <base:Paragraphs num="0113">
+  また、ＣＰＵ１０１は、エリア１１Ａで特別図柄変動表示の時間が計測されているときには、エリア１２Ａに所定の時間データ（「１２」）を書き込んで、図９のタイマ割込み処理において４ミリ秒毎に実行される特図ゲームカウント処理によってエリア１２Ａの時間データの値を１ずつ減算して０になると再び所定の時間データ（「１２」）を書き込むと共に特別図柄の表示態様を切替える。これにより、第１特別図柄表示器４ａ（又は第２特別図柄表示器４ｂ）に特別図柄が７セグ表示で変動表示される際に、この７セグ表示の３つの表示態様が４８ミリ秒毎に順番に切替わって循環表示されることとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0114">
+  なお、図１０（３）では、一例として、エリア１０Ａに「０１Ｈ」が書き込まれていることによって、エリア１１Ａにおいて特別図柄変動表示の時間経過が計測されることを設定している。また、図１０（３）のエリア１１Ａには、一例として、時間を示す値「２５００」が書き込まれているが、この値は図９のタイマ割り込み処理によって４ミリ秒毎に１減算されて更新されるので、この値「２５００」は１０．０００秒を示している。また、図１０（３）のエリア１２Ａには、一例として、時間を示す値「１２」が書き込まれているが、この値も同様に図９のタイマ割り込み処理によって４ミリ秒毎に１減算されて更新されるので、この値「１２」は４８ミリ秒を示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0115">
+  以上のように、本実施形態によれば、特別図柄ゲームの一連の制御時間を１つのタイマ機能（図１０（３）の１１Ａ参照）を用いて計測する。ここで、従来の遊技機においては、特別図柄ゲームを構成する各制御時間（特別図柄変動表示の制御時間、ラウンド実行の制御時間等）をそれぞれ個別のタイマ機能を用いて計測していたので、メイン制御部のＲＡＭの記憶エリアに特別図柄ゲームを構成する制御時間毎に個別の時間カウントエリアを設けていた。一方、本実施形態では、上記のように特別図柄ゲームの一連の制御時間を１つのタイマ機能を用いて計測するので、演算負荷を効果的に低減することができる。また、本実施形態によれば、特別図柄変動表示の実行期間において特別図柄表示器４ａ（又は４ｂ）に７セグ表示の３つの表示態様を４８ミリ秒毎に順番に切替えて循環表示させる際の切替え時間の計測には、上記したタイマ機能（図１０（３）の１１Ａ参照）とは別のタイマ機能（図１０（３）の１２Ａ参照）を用いる。このことから、本実施形態によれば、演算処理の複雑化を効果的に抑制できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0116">
+  図１１は、特別図柄変動表示の時間をエリア１１Ａに設定するために用いられる変動時間テーブルの概念図の一例である。この変動時間テーブルは、ＲＯＭ１０２に記憶されており、ＲＡＭ１０３に読み出されて使用される。図１１に示すように、変動時間テーブルは、変動パターンの識別番号と、基本変動時間（秒）を示すデータと、加算変動時間（秒）を示すデータとから成る。変動パターンの識別番号は、図１４～図１７を用いて後述する変動パターン決定テーブルＨＴ１－１、ＨＴ１－２、ＨＴ２－１およびＨＴ２－２に含まれる変動パターンを識別するための番号である。基本変動時間は、変動パターン（つまり、特別図柄変動時間）を構成する基本の変動時間である。加算変動時間は、変動パターンを構成する加算される変動時間である。基本変動時間と加算変動時間とを加算した時間が、変動パターン（図１４～図１７参照）である。例えば、識別番号１に対応する変動パターンは、基本変動時間９０秒に加算変動時間０．０６秒を加算した９０．０６秒であり、例えば、識別番号２１に対応する変動パターンは、基本変動時間８秒である。
+</base:Paragraphs>
+      <base:Paragraphs num="0117">
+  ＣＰＵ１０１は、図１０（３）のエリア１１Ａで特別図柄変動表示の時間を計測する場合には、後述する図１３のステップＳ４０８の処理で決定された変動パターンに対応する時間データ（「秒」の時間を示すデータ）を、ＲＡＭ１０３の変動時間テーブル（図１１
+）から読み出して、読み出した時間データに２５０を乗算して４ミリ秒周期で実行される時間計測処理に適応する時間データに変換し、変換した時間データをＲＡＭ１０３のエリア１１Ａに書き込む。例えば、識別番号１に対応する変動パターン「９０．０６秒」を示す時間データの値をエリア１１Ａに設定する場合には、ＲＡＭ１０３の変動時間テーブルから基本変動時間９０秒および加算変動時間０．０６秒を示す時間データを読み出して加算し、この加算した時間データに２５０を乗算して４ミリ秒周期の演算処理に適応する時間データ「２２５１５」に変換し、変換した時間データ「２２５１５」をＲＡＭ１０３のエリア１１Ａに書き込む。なお、図１１の変動時間テーブルの横には、参考のために、２５０を乗算して４ミリ秒周期の演算処理に適応させた時間データを記載しているが、２５０を乗算すると自然数ではなくなるものは（括弧書きの値を参照）、四捨五入により自然数に調整して処理している。
+</base:Paragraphs>
+      <base:Paragraphs num="0118">
+  以上のように、本実施形態によれば、ＲＯＭ１０２に記憶されＲＡＭ１０３に読み出される変動時間テーブルの変動パターン（特別図柄変動時間）を示す時間データを「秒」の時間を示すデータ（つまり、除算値の時間データ；図１１の基本変動時間の部分を参照）とし、特別図柄変動時間を設定する際に２５０を乗算して４ミリ秒周期の演算処理に適応する時間データ（つまり、乗算値の時間データ；図１１の変動時間テーブルの右横の部分を参照）に変換する。このことから、本実施形態によれば、変動時間テーブルの特別図柄変動時間を示すデータを１バイト以下のデータ量に押さえられる場合があるので（図１１の識別番号２０～２４参照）、ＲＯＭ１０２およびＲＡＭ１０３の使用メモリ領域を効果的に抑制することができる。また、本実施形態によれば、例えば特別図柄変動時間９０．０６秒のように、除算値の時間データで示してもデータ量が１バイトを超える特別図柄変動時間については、加算変動時間の時間データ（小数点以下の時間を示す時間データ）として分割して変動時間テーブルを構成させている（図１１参照）。ここで、図１１では、加算変動時間の部分のテーブルにおいて、説明の便宜上、同じ時間データ値を変動パターン毎にそれぞれ記載しているが、実際にはこのテーブルにおいて同じ時間データ値は、重複して記憶されず、１つだけ記憶されている。例えば、加算変動時間の部分のテーブルにおいて、０．０１秒の時間データ値は、図１１では説明の便宜上５つ記載しているが、実際は１つだけ記憶されている。このことから、本実施形態によれば、ＲＯＭ１０２およびＲＡＭ１０３の使用モリ領域を効果的に抑制することができる。ここで、本実施形態では、説明の簡単のために、変動パターンを２４個とした（図１１参照）。しかし、実際の遊技機では、変動パターンは１０００個～１００００個と膨大である。このことから、本実施形態による上記した使用メモリ領域抑制の効果は、実際の遊技機において絶大となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0119">
+  次に、普通図柄ゲーム側の一連の制御時間を１つのタイマ機能を用いて計測する普図ゲームカウント処理について、図１０を用いて説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0120">
+  図１０（２）は、普通図柄ゲーム側のカウント対象の時間を設定（特定）するためのデータ（以下、「普図側設定データ」という）の種類を示している。普図側設定データは、普通図柄ゲームの各期間（時間）のうち何れの期間を計測しているのかを設定するためのデータである。この普通図柄ゲームの各期間（時間）には、図１０（２）に示すように、「ゲート通過待ち中」と、「普通図柄変動表示中」と、「普通図柄停止表示中」と、「電チュー開閉制御中」と、「第２始動口有効期間中」とが含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0121">
+  「ゲート通過待ち中」は、ゲート２５を遊技球が通過すると即時にこの通過に係る普通図柄抽選を実行して普通図柄の変動表示を開始できる状態（期間）であり、典型的には、電動チューリップ２７の開閉制御中（電チューの開放遊技中）ではなく、後述する第２始動口有効期間中ではなく、普通図柄の変動表示中でも規定時間の停止表示中でもない状態である。「普通図柄変動表示中」は、遊技球のゲート２５通過に応じて普通図柄抽選を実行して表示器４に普通図柄の変動表示を実行している状態（期間）である。「普通図柄停
+止表示中」は、表示器４に変動表示していた普通図柄を普通図柄抽選結果を報知する表示態様で規定時間（０．５秒間）完全に停止表示している状態（期間）である。「電チュー開閉制御中」は、普通図柄抽選に当選して電動チューリップ２７の開閉制御（電チューの開放遊技）が実行されている状態（期間）である。「第２始動口有効期間中」は、電動チューリップ２７の開閉制御が終了した直後の所定期間について例外的に第２始動口２２への遊技球入賞を有効と認める期間である。なお、電動チューリップ２７の開閉制御中は、一律に（つまり、電動チューリップ２７が閉塞状態であっても）第２始動口２２への遊技球入賞は有効と認められ、電動チューリップ２７の開閉制御中および第２始動口有効期間を除く期間には、第２始動口２２への遊技球入賞は有効と認められない。
+</base:Paragraphs>
+      <base:Paragraphs num="0122">
+  図１０（２）に示すように、例えば普図側設定データ「００Ｋ」は「ゲート通過待ち中」であることを設定するデータである。また、普図側設定データはＲＯＭ１０２に記憶されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0123">
+  以下、図１０（３）を参照して説明する。エリア１１Ｂは、上記した普通図柄ゲームの各期間（「普通図柄変動表示中」等）についての時間経過を計測するためのタイマエリアであり、１つの時間データを書き込んで１つの時間経過について計測するためのタイマエリアである。エリア１０Ｂは、図１０（２）を用いて説明した普図側設定データの何れか１つが書き込まれることによって、エリア１１Ｂで計測する時間の種類を設定するためのエリアである。エリア１２Ｂは、普通図柄表示器４ｅ（図２参照）に普通図柄がマルバツで変動表示される際に、このマルバツ表示の２つの表示態様（マルのみが点灯する表示態様とバツのみが点灯する表示態様）を４８ミリ秒毎に切替えて交互表示させる制御を実行するにあたって、この４８ミリ秒の時間経過を計測するためのタイマエリアであり、１つの時間データを書き込んで１つの時間経過について計測するためのタイマエリアである。
+</base:Paragraphs>
+      <base:Paragraphs num="0124">
+  ＣＰＵ１０１は、エリア１０Ｂに普図側設定データを書き込むことでエリア１１Ｂによる計測対象の期間の種類を設定すると共に、エリア１１Ｂに計測する時間データを書き込み、図９のタイマ割込み処理において４ミリ秒毎に実行される普図ゲームカウント処理によってエリア１１Ｂの時間データの値を１ずつ減算することで、１つのタイマ領域（エリア１１Ｂ）を順番に用いて普通図柄ゲームの各期間の経過を順番に計測する。
+</base:Paragraphs>
+      <base:Paragraphs num="0125">
+  また、ＣＰＵ１０１は、エリア１１Ｂで普通図柄変動表示の時間が計測されているときには、エリア１２Ｂに所定の時間データ（「１２」）を書き込んで、図９のタイマ割込み処理において４ミリ秒毎に実行される普図ゲームカウント処理によってエリア１２Ｂの時間データの値を１ずつ減算して０になると再び所定の時間データ（「１２」）を書き込むと共に普通図柄の表示態様を切替える。これにより、普通図柄表示器４ｅに普通図柄がマルバツで変動表示される際に、このマルバツ表示の２つの表示態様が４８ミリ秒毎に切替わって交互表示されることとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0126">
+  以上のことから、本実施形態によれば、既に説明した特図ゲームカウント処理と同様の効果を、普図ゲームカウント処理においても実現できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0127">
+  なお、以上に説明した特別図柄ゲームの一連の制御時間を１つのタイマ機能を用いて計測する構成において、大当り遊技の制御において大入賞口有効期間の直後に大入賞口２３への入賞を有効とみなさない大入賞口休止期間を設けてもよい。
+  また、第１特別図柄抽選による特別図柄変動表示および特別図柄停止表示と、第２特別図柄抽選による特別図柄変動表示および特別図柄停止表示とを並行して実行可能な制御構成にして、例えば、第１特別図柄抽選による特別図柄変動表示および特別図柄停止表示の制御時間と、第１特別図柄抽選の当選による大当り遊技に関する制御時間とを、１つのタイマ機能を用いて計測し、一方で、第２特別図柄抽選による特別図柄変動表示および特別
+図柄停止表示の制御時間と、第２特別図柄抽選の当選による大当り遊技に関する制御時間とを、１つの他のタイマ機能を用いて計測してもよい。
+  また、特別図柄ゲームおよび普通図柄ゲームの一連の制御時間をそれぞれ１つのタイマ機能を用いて計測する際に、計測対象時間の経過を、「減算」処理ではなく、「加算」処理によって計測する構成としてもよい。この場合、例えば、特別図柄ゲーム側のタイマ（１１Ａ）の値が、計測対象時間（例えば、特別図柄停止表示の時間０．５秒）を示す時間データの値「１２５」に到達したか否かを判定する制御となる。
+  また、上記したように図１１の加算変動時間の部分のテーブルにおいて同じ時間データ値を重複して記憶せずに１つだけ記憶することに加えて、図１１の基本変動時間の部分のテーブルにおいても同じ時間データ値を重複して記憶せずに１つだけ記憶する構成にして、使用メモリ領域抑制の効果を更に高めてもよい。
+  また、以上に説明した方法により、演出制御部４００等によって実行される各種演出の実行時間を計測してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0128">
+  以上で、制御時間カウント処理についての説明を終わる。
+</base:Paragraphs>
+      <base:Paragraphs num="0129">
+［始動口スイッチ処理］
+  図１２は、図９のステップＳ２における始動口スイッチ処理の詳細フローチャートの一例である。以下に、図９のステップＳ２における始動口スイッチ処理について、図１２を参照して説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0130">
+  まず、ステップＳ２０１において、メイン制御部１００のＣＰＵ１０１は、第１始動口スイッチ１１１ａから出力信号に基づいて、第１始動口２１に遊技球が入賞したか否かを判定する。ステップＳ２０１での判定がＹＥＳの場合、処理はステップＳ２０２に移り、この判定がＮＯの場合、処理はステップＳ２０７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0131">
+  ステップＳ２０２において、ＣＰＵ１０１は、ＲＯＭ１０２から第１特別図柄抽選の保留数の上限値Ｕｍａｘ１（本実施形態では「４」）を読み出し、ＲＡＭ１０３に記憶されている第１特別図柄抽選の保留数Ｕ１が上限値Ｕｍａｘ１未満であるか否かを判定する。ステップＳ２０２での判定がＹＥＳの場合、処理はステップＳ２０３に移り、この判定がＮＯの場合、処理はステップＳ２０７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0132">
+  ステップＳ２０３において、ＣＰＵ１０１は、ＲＡＭ１０３に記憶されている保留数Ｕ１の値を、１加算した値に更新する。また、ＣＰＵ１０１は、第１始動口２１に遊技球が入賞したことを演出制御部４００に対して通知するための入賞コマンドをＲＡＭ１０３にセットする。この入賞コマンドは、図９のステップＳ９の出力処理によって演出制御部４００へ送信される。その後、処理はステップＳ２０４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0133">
+  ステップＳ２０４において、ＣＰＵ１０１は、第１特別図柄抽選等に使用される乱数のセット（大当り乱数、図柄乱数、リーチ乱数、及び変動パターン乱数）を取得して、取得した乱数の各セット（遊技情報）を、時系列順でＲＡＭ１０３に格納する。なお、後述する図１１のステップＳ４０６の処理によって第１特別図柄抽選の保留数Ｕ１の値が１減算される度に、ＲＡＭ１０３に格納された上記乱数セットは、格納時期が早いものから順に１セットずつ削除される。このことから、例えば第１特別図柄抽選の保留数Ｕ１の値が「３」の場合、直近３回のステップＳ２０４の処理によって取得された直近３回の上記乱数セットが、時系列順でＲＡＭ１０３に格納されていることとなる。その後、処理はステップＳ２０５に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0134">
+  ステップＳ２０５において、ＣＰＵ１０１は、事前判定処理を行う。具体的には、ＣＰＵ１０１は、直近のステップＳ２０４の処理で取得されてＲＡＭ１０３に格納された大当
+り乱数等の乱数セット（つまり、直近に格納された第１特別図柄抽選用の大当り乱数等の乱数セット）を読み出し、この大当り乱数等がＲＯＭ１０２に記憶されている所定値等と一致するか否かに基づいて、この大当り乱数を用いる第１特別図柄抽選の結果が大当りであるか否かや、リーチ演出を実行するか否か等を事前判定する。つまり、先読み予告演出や保留変化予告演出を実行するために必要な判定を、後述する図１３のステップＳ４０７及びＳ４０８の処理に先立って事前判定する。その後、処理はステップＳ２０６に移る。なお、上記したステップＳ２０４およびＳ２０５の処理内容の実行順序は、これには限らず、例えば、乱数のセットを取得して事前判定してから、この乱数のセットを格納してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0135">
+  ステップＳ２０６において、ＣＰＵ１０１は、第１特別図柄抽選の保留数が１増加したことを通知する第１保留数増加コマンドをＲＡＭ１０３にセットする。ここで、この第１保留数増加コマンドには、ステップＳ２０５の処理で行われた事前判定の結果を示す情報（以下、「事前判定情報」という）が含められている。なお、この事前判定情報を含む第１保留数増加コマンドが、図９のステップＳ９の出力処理によって出力されることにより、第１特別図柄抽選の保留に対する抽選結果が、第１特別図柄抽選における図柄変動が開始されるよりも前にメイン制御部１００から演出制御部４００に通知される。その後、処理はステップＳ２０７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0136">
+  ステップＳ２０７において、ＣＰＵ１０１は、第２始動口スイッチ１１１ｂからの出力信号に基づいて、第２始動口２２に遊技球が入賞したか否かを判定する。ステップＳ２０７での判定がＹＥＳの場合、処理はステップＳ２０８に移り、この判定がＮＯの場合、処理は図９のステップＳ３（ゲートスイッチ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0137">
+  ステップＳ２０８において、ＣＰＵ１０１は、ＲＯＭ１０２から第２特別図柄抽選の保留数の上限値Ｕｍａｘ２（本実施形態では「４」）を読み出し、ＲＡＭ１０３に記憶されている第２特別図柄抽選の保留数Ｕ２が上限値Ｕｍａｘ２未満であるか否かを判定する。ステップＳ２０８での判定がＹＥＳの場合、処理はステップＳ２０９に移り、この判定がＮＯの場合、処理は図９のステップＳ３（ゲートスイッチ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0138">
+  ステップＳ２０９において、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている保留数Ｕ２の値を、１加算した値に更新する。また、ＣＰＵ１０１は、第２始動口２２に遊技球が入賞したことを演出制御部４００に対して通知するための入賞コマンドをＲＡＭ１０３にセットする。この入賞コマンドは、図９のステップＳ９の出力処理によって演出制御部４００へ送信される。その後、処理はステップＳ２１０に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0139">
+  ステップＳ２１０において、ＣＰＵ１０１は、第２特別図柄抽選等に使用される乱数のセット（大当り乱数、図柄乱数、リーチ乱数、及び変動パターン乱数）を取得して、取得した乱数の各セットを、時系列順でＲＡＭ１０３に格納する。なお、後述する図１３のステップＳ４０４の処理によって第２特別図柄抽選の保留数Ｕ２の値が１減算される度に、ＲＡＭ１０３に格納された上記乱数セットは、格納時期が早いものから順に１セットずつ削除される。このことから、例えば第２特別図柄抽選の保留数Ｕ２の値が「３」の場合、直近３回のステップＳ２１０の処理によって取得された直近３回の上記乱数セットが、時系列順でＲＡＭ１０３に格納されていることとなる。その後、処理はステップＳ２１１に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0140">
+  ステップＳ２１１において、ＣＰＵ１０１は、事前判定処理を行う。具体的には、ＣＰＵ１０１は、直近のステップＳ２１０の処理で取得されてＲＡＭ１０３に格納された大当り乱数等の乱数セット（つまり、直近に格納された第２特別図柄抽選用の大当り乱数等の乱数セット）を読み出し、この大当り乱数等がＲＯＭ１０２に記憶されている所定値等と
+一致するか否かに基づいて、この大当り乱数を用いる第２特別図柄抽選の結果が大当りであるか否かや、リーチ演出を実行するか否か等を事前判定する。つまり、先読み予告演出や保留変化予告演出を実行するために必要な判定を、後述する図１３のステップＳ４０７及びＳ４０８の処理に先立って事前判定する。その後、処理はステップＳ２１２に移る。なお、上記したステップＳ２１０およびＳ２１２の処理内容の実行順序は、これには限らず、例えば、乱数のセットを取得して事前判定してから、この乱数のセットを格納してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0141">
+  ステップＳ２１２において、ＣＰＵ１０１は、第２特別図柄抽選の保留数が１増加したことを通知する第２保留数増加コマンドをＲＡＭ１０３にセットする。ここで、この第２保留数増加コマンドには、ステップＳ２１１の処理で行われた事前判定の結果を示す情報（事前判定情報）が含められている。なお、この事前判定情報を含む第２保留数増加コマンドが、図９のステップＳ９の出力処理によって出力されることにより、第２特別図柄抽選の保留に対する抽選結果が、第２特別図柄抽選における図柄変動が開始されるよりも前にメイン制御部１００から演出制御部４００に通知される。その後、処理は図９のステップＳ３（ゲートスイッチ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0142">
+［特別図柄処理］
+  図１３は、図９のステップＳ４における特別図柄処理の詳細フローチャートの一例である。以下に、図１３を参照して、図９のステップＳ４における特別図柄処理について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0143">
+  まず、ステップＳ４０１において、メイン制御部１００のＣＰＵ１０１は、ＲＡＭ１０３に記憶されている情報（典型的にはフラグによる情報）に基づいて、遊技機１の現在の状態が大当り遊技中（大当り遊技状態）であるか否かを判定する。つまり、特別図柄抽選に当選した場合に実行される大当り遊技（特別遊技）の実行中であるか否かを判定する。ステップＳ４０１での判定がＹＥＳの場合、処理は図９のステップＳ５（普通図柄処理）に移り、この判定がＮＯの場合、処理はステップＳ４０２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0144">
+  ステップＳ４０２において、ＣＰＵ１０１は、第１特別図柄表示器４ａ又は第２特別図柄表示器４ｂによる特別図柄の変動表示中であるか否かを判定する。なお、ここでの特別図柄の変動表示中は、図１０を用いて説明した特別図柄停止表示中の期間（規定時間；０．５秒間）を含んだものを意味する。ステップＳ４０２での判定がＹＥＳの場合、処理はステップＳ４１１に移り、この判定がＮＯの場合、処理はステップＳ４０３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0145">
+  ステップＳ４０３において、ＣＰＵ１０１は、ＲＡＭ１０３に記憶されている保留数Ｕ２が１以上であるか否か（つまり第２特別図柄抽選が保留されているか否か）を判定する。ステップＳ４０３での判定がＹＥＳの場合、処理はステップＳ４０４に移り、この判定がＮＯの場合、処理はステップＳ４０５に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0146">
+  ステップＳ４０４において、ＣＰＵ１０１は、ＲＡＭ１０３に記憶されている保留数Ｕ２を、１減算した値に更新する。また、その際、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている図１２のステップＳ２１０によって取得されて格納された乱数セットのうち格納時期が最も早いものを読み出してＲＡＭ１０３から削除する。その後、処理はステップＳ４０７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0147">
+  一方、ステップＳ４０５において、ＣＰＵ１０１は、ＲＡＭ１０３に記憶されている保留数Ｕ１が１以上であるか否か（つまり第１特別図柄抽選が保留されているか否か）を判定する。ステップＳ４０５での判定がＹＥＳの場合、処理はステップＳ４０６に移り、この判定がＮＯの場合、実行されるべき特別図柄抽選は無いので、処理はステップＳ４１５
+に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0148">
+  ステップＳ４０６において、ＣＰＵ１０１は、ＲＡＭ１０３に記憶されている保留数Ｕ１を、１減算した値に更新する。また、その際、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている図１２のステップＳ２０４によって取得されて格納された乱数セットのうち格納時期が最も早いものを読み出してＲＡＭ１０３から削除する。その後、処理はステップＳ４０７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0149">
+  以上のステップＳ４０３～Ｓ４０６の処理によって、第２特別図柄抽選が、第１特別図柄抽選よりも優先して実行されることとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0150">
+  ステップＳ４０７において、ＣＰＵ１０１は、特別図柄抽選が大当りであるかハズレであるかを判定する大当り判定処理を実行する。具体的には、ステップＳ４０４の処理に続いてステップＳ４０７の処理を実行する場合、ＣＰＵ１０１は、このステップＳ４０４の処理でＲＡＭ１０３から読み出した大当り乱数が、ＲＯＭ１０２に記憶されている大当りの当選値と一致するか否かに基づいて、第２特別図柄抽選の結果が大当りであるかハズレであるかを判定する。一方、ステップＳ４０６の処理に続いてステップＳ４０７の処理を実行する場合、ＣＰＵ１０１は、このステップＳ４０６の処理でＲＡＭ１０３から読み出した大当り乱数が、ＲＯＭ１０２に記憶されている大当りの当選値と一致するか否かに基づいて、第１特別図柄抽選の結果が大当りであるかハズレであるかを判定する。そして、ＣＰＵ１０１は、特別図柄抽選の結果がハズレと判定した場合、特別図柄抽選にハズレたことを表すハズレ図柄を、設定情報における特別図柄の停止図柄としてＲＡＭ１０３にセットする。一方、ＣＰＵ１０１は、特別図柄抽選の結果が大当りであると判定した場合、この判定に使用した大当り乱数と共にＲＡＭ１０３から読み出された図柄乱数がＲＯＭ１０２に記憶されている所定値の何れと一致するかに基づいて、今回の大当りの種類を判定する。なお、本実施形態では、一例として、大当り遊技後に次回大当りするまで確変遊技状態に設定される確変大当りと、大当り遊技後に次回大当りするまで通常遊技状態に設定される通常大当りとがある。また、本実施形態では、第２特別図柄抽選の方が、第１特別図柄抽選よりも、遊技者の利益が比較的大きい確変大当りの当選割合が多いものとする。具体的には、第２特別図柄抽選では７割が確変大当りであり３割が通常大当りであり、一方、第１特別図柄抽選では４割が確変大当りであり６割が通常大当りである。そして、ＣＰＵ１０１は、大当りしたこと及び大当りの種類を表す大当り図柄の情報を、設定情報における特別図柄の停止図柄の情報としてＲＡＭ１０３にセットする。その後、処理はステップＳ４０８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0151">
+［変動パターン選択処理］
+  ステップＳ４０８において、ＣＰＵ１０１は、変動パターン選択処理を実行する。具体的には、ステップＳ４０８において、ＣＰＵ１０１は、通常遊技状態（非時短状態）のときには、図１４及び図１５に示す変動パターン決定テーブルＨＴ１－１及びＨＴ１－２を使用し、確変遊技状態（時短状態）のときには、図１６及び図１７に示す変動パターン決定テーブルＨＴ２－１及びＨＴ２－２を使用して、特別図柄抽選毎に変動パターンを決定（選択）する。ここで、この変動パターンは、表示器４に特別図柄が変動表示されてから停止表示されるまでの時間である特別図柄変動時間であり、この特別図柄変動時間は、報知演出の実行時間と同期しており報知演出の実行時間と同じ時間である。なお、以下では、変動パターン決定テーブルＨＴ１－１、ＨＴ１－２、ＨＴ２－１およびＨＴ２－２を、単に、ＨＴ１－１、ＨＴ１－２、ＨＴ２－１およびＨＴ２－２いう場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0152">
+  まず、通常遊技状態（非時短状態）のときに、図１４及び図１５に示すＨＴ１－１及びＨＴ１－２を使用して変動パターンを選択する場合について、説明する。図１４は、通常遊技状態（非時短状態）においてステップＳ４０７の処理で第１特別図柄抽選が実行され
+た場合に、変動パターン決定に使用されるテーブルである。図１５は、通常遊技状態（非時短状態）においてステップＳ４０７の処理で第２特別図柄抽選が実行された場合に、変動パターン決定に使用されるテーブルである。
+</base:Paragraphs>
+      <base:Paragraphs num="0153">
+［非時短状態／第１特別図柄抽選での変動パターン選択処理］
+  以下に、図１４を用いて、通常遊技状態（非時短状態）においてステップＳ４０７の処理で第１特別図柄抽選が実行された場合における変動パターンの決定について、説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0154">
+  ステップＳ４０８において、ＣＰＵ１０１は、ステップＳ４０７の大当り判定処理で第１特別図柄抽選で大当りしたと判定した場合、変動パターン乱数に基づいて変動パターン（特別図柄変動時間）を決定する。具体的には、ＣＰＵ１０１は、ステップＳ４０７の大当り判定処理で使用した大当り乱数と共にＲＡＭ１０３から読み出された変動パターン乱数（０～２９９のうちの何れか１つ）が、ＨＴ１－１の「大当り」の部分の各変動パターンに割り振られた乱数値の何れと一致するかに基づいて、変動パターン（特別図柄変動時間）を決定する。例えば、ＣＰＵ１０１は、ステップＳ４０７の大当り判定処理で使用した大当り乱数と共にＲＡＭ１０３から読み出された変動パターン乱数が「７８」である場合、ＨＴ１－１の「大当り」の部分の変動パターン「９０．０１秒」に割り振られた乱数値「７５～１２４」に一致するので、変動パターンとして「９０．０１秒」を決定する。ここで、ＨＴ１－１に示すように、「大当り」の部分の変動パターン「１５．０１秒」、「２０．０１秒」、「２５．０１秒」、「４０．０１秒」、「４０．０２秒」、「４０．０３秒」、「９０．０１秒」、「９０．０２秒」及び「９０．０３秒」は、それぞれ、報知演出の演出パターンのタイプ「ノーマルリーチ当り」、「擬似変動２回当り」、「擬似変動３回当り」、「第１ＳＰ当り」、「第２ＳＰ当り」、「第３ＳＰ当り」、「第１ＳＰＳＰ当り」、「第２ＳＰＳＰ当り」及び「第３ＳＰＳＰ当り」に対応する。「ノーマルリーチ当り」は、後述する「擬似変動に２回目」～「第３ＳＰＳＰ」の何れも実行されることなく、リーチ成立した後に大当りするタイプである。「擬似変動２回当り」は、最終的に擬似変動の２回目を実行した後に大当りするタイプである。「擬似変動３回当り」は、最終的に擬似変動の３回目を実行した後に大当りするタイプである。「第１ＳＰ当り」～「第３ＳＰ当り」は、最終的にＳＰリーチに発展した後に大当りするタイプである。「第１ＳＰＳＰ当り」～「第３ＳＰＳＰ当り」は、最終的にＳＰＳＰリーチに発展した後に大当りするタイプである。
+</base:Paragraphs>
+      <base:Paragraphs num="0155">
+  なお、リーチ（リーチ成立、リーチ演出）とは、報知演出において例えば複数の装飾図柄列のうち変動中の残りの１つ装飾図柄列が停止したならば既に停止（仮停止）している装飾図柄列との関係で大当りを報知する特定の図柄状態になる演出（大当りを期待させる演出）であり、典型的には、右側と左側の装飾図柄列が同じ図柄（例えば７）で既に停止しており、残りの中央の装飾図柄列が同じ図柄（例えば７）で停止したならばゾロ目（例えば７７７）となる演出である。また、擬似変動（擬似連続変動）とは、１回の報知演出において装飾図柄列が複数回変動したように見せることで大当りを期待させる演出であり、典型的には複数の装飾図柄列が全て擬似的に停止（仮停止）した後に変動を再開することを１回以上行う演出である。そして、上記した擬似変動２回目は擬似変動の演出における装飾図柄列の２回目の変動（擬似変動）であり、上記した擬似変動３回目は擬似変動の演出における装飾図柄列の３回目の変動（擬似変動）である。また、ＳＰリーチとは、一般にスーパーリーチやスペシャルリーチと呼ばれ、リーチよりも大当りすることを更に期待させるリーチ演出であり、例えば主人公のキャラクタが小判をゲットする動画像の演出である。また、ＳＰＳＰリーチとは、一般にスーパースーパーリーチやスペシャルスペシャルリーチと呼ばれ、ＳＰリーチ演出よりも大当りすることを更に期待させるリーチ演出であり、例えば主人公のキャラクタが敵のキャラクタと戦う動画像の演出である。
+</base:Paragraphs>
+      <base:Paragraphs num="0156">
+  また、ステップＳ４０８において、ＣＰＵ１０１は、ステップＳ４０７の大当り判定処理で第１特別図柄抽選でハズレと判定した場合、第１特別図柄抽選の保留数（Ｕ１）、リーチ乱数、及び変動パターン乱数に基づいて変動パターン（特別図柄変動時間）を決定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0157">
+  具体的には、ＣＰＵ１０１は、第１特別図柄抽選の保留数が「１」又は「２」である場合、ステップＳ４０７の大当り判定処理で使用した大当り乱数と共にＲＡＭ１０３から読み出されたリーチ乱数（０～９９のうちの何れか１つ）が、ＨＴ１－１の「ハズレ」の保留数「１、２」の部分のリーチ乱数値範囲「０～６９」に含まれるのかリーチ乱数値範囲「７０～９９」に含まれるのかを判定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0158">
+  そして、ＣＰＵ１０１は、この読み出されたリーチ乱数がリーチ乱数値範囲「０～６９」に含まれる場合、ステップＳ４０７の大当り判定処理で使用した大当り乱数と共にＲＡＭ１０３から読み出された変動パターン乱数（０～２９９のうちの何れか１つ）が、変動パターン乱数値範囲「０～５９」に含まれるのか変動パターン乱数値範囲「６０～２９９」に含まれるのかを判定する。そして、ＣＰＵ１０１は、この変動パターン乱数が変動パターン乱数値範囲「０～５９」に含まれる場合には変動パターンとして「８．００秒」を決定し、この変動パターン乱数が変動パターン乱数値範囲「６０～２９９」に含まれる場合には変動パターンとして「１３．５０秒」を決定する。ここで、ＨＴ１－１に示すように、変動パターン「８．００秒」及び「１３．５０秒」は、何れも、報知演出の演出パターンのタイプ「即ハズレ」に対応する。なお、「即ハズレ」は、リーチ成立もなく即ハズレる演出パターンのタイプである。
+</base:Paragraphs>
+      <base:Paragraphs num="0159">
+  一方、ＣＰＵ１０１は、この読み出されたリーチ乱数がリーチ乱数値範囲「７０～９９」に含まれる場合、ステップＳ４０７の大当り判定処理で使用した大当り乱数と共にＲＡＭ１０３から読み出された変動パターン乱数（０～２９９のうちの何れか１つ）が、ＨＴ１－１の上記したリーチ乱数値範囲「７０～９９」の部分の各変動パターンに割り振られた変動パターン乱数値範囲の何れに含まれるかに基づいて、変動パターン（特別図柄変動時間）を決定する。例えば、ＣＰＵ１０１は、ステップＳ４０７の大当り判定処理で使用した大当り乱数と共にＲＡＭ１０３から読み出された変動パターン乱数が「２６０」である場合、変動パターン「２５．０２秒」に割り振られた変動パターン乱数値範囲「２５６～２７１」に含まれるので、変動パターンとして「２５．０２秒」を決定する。ここで、ＨＴ１－１に示すように、ＨＴ１－１の上記したリーチ乱数値範囲「７０～９９」の部分の変動パターン「１５．０２秒」、「２０．０２秒」、「２５．０２秒」、「４０．０４秒」、「４０．０５秒」、「４０．０６秒」、「９０．０４秒」、「９０．０５秒」及び「９０．０６秒」は、それぞれ、報知演出の演出パターンのタイプ「ノーマルリーチハズレ」、「擬似変動２回ハズレ」、「擬似変動３回ハズレ」、「第１ＳＰハズレ」、「第２ＳＰハズレ」、「第３ＳＰハズレ」、「第１ＳＰＳＰハズレ」、「第２ＳＰＳＰハズレ」及び「第３ＳＰＳＰハズレ」に対応する。「ノーマルリーチハズレ」は、「擬似変動の２回目」～「第３ＳＰＳＰ」の何れも実行されることなく、リーチ成立した後にハズレるタイプである。「擬似変動２回ハズレ」は、最終的に擬似変動の２回目を実行した後にハズレるタイプである。「擬似変動３回ハズレ」は、最終的に擬似変動の３回目を実行した後にハズレるタイプである。「第１ＳＰハズレ」～「第３ＳＰハズレ」は、最終的にＳＰリーチに発展した後にハズレるタイプである。「第１ＳＰＳＰハズレ」～「第３ＳＰＳＰハズレ」は、最終的にＳＰＳＰリーチに発展した後にハズレるタイプである。
+</base:Paragraphs>
+      <base:Paragraphs num="0160">
+  また、ＣＰＵ１０１は、第１特別図柄抽選の保留数が「３」の場合、上記した第１特別図柄抽選の保留数が「１」又は「２」の場合と基本的に同様にして、変動パターンを決定する。但し、第１特別図柄抽選の保留数が「３」の場合には、ＣＰＵ１０１は、ＨＴ１－１に示すように、上記した第１特別図柄抽選の保留数が「１」又は「２」の場合に対して
+、リーチ乱数値範囲「０～６９」を「０～７９」に置き換え、リーチ乱数値範囲「７０～９９」を「８０～９９」に置き換え、又、変動パターン「８．００秒」に割り振られた変動パターン乱数値範囲「０～５９」を「０～２０９」に置き換え、変動パターン「１３．５０秒」に割り振られた変動パターン乱数値範囲「６０～２９９」を「２１０～２９９」に置き換えた乱数値範囲によって、変動パターンを決定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0161">
+  また、ＣＰＵ１０１は、第１特別図柄抽選の保留数が「４」の場合、上記した第１特別図柄抽選の保留数が「１」又は「２」の場合と基本的に同様にして、変動パターンを決定する。但し、第１特別図柄抽選の保留数が「４」の場合には、ＣＰＵ１０１は、ＨＴ１－１に示すように、上記した第１特別図柄抽選の保留数が「１」又は「２」の場合に対して、リーチ乱数値範囲「０～６９」を「０～８４」に置き換え、リーチ乱数値範囲「７０～９９」を「８５～９９」に置き換え、又、変動パターン「８．００秒」に割り振られた変動パターン乱数値範囲「０～５９」を「２１０～２６９」に置き換え、変動パターン「１３．５０秒」に割り振られた変動パターン乱数値範囲「６０～２９９」を「２７０～２９９」に置き換え、更に、演出パターンのタイプ「即ハズレ」に対応し変動パターン乱数値範囲「０～２０９」が割り振られた変動パターン「３．００秒」が加えられた内容の乱数値範囲によって、変動パターンを決定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0162">
+  以上に図１４に示す変動パターン決定テーブルＨＴ１－１を用いて説明したように、通常遊技状態（非時短状態）において第１特別図柄抽選でハズレた場合には、第１特別図柄抽選の保留数が少ないほど、リーチありの変動パターンが選択され易く、又、リーチなしの変動パターンが選択された場合には第１特別図柄抽選の保留数が少ないほど長い変動パターンが選択され易い。
+</base:Paragraphs>
+      <base:Paragraphs num="0163">
+［大当り信頼度］
+  ここで、大当り信頼度（大当り期待度）について説明する。大当り信頼度が高い演出とは、その演出が実行された場合において大当りが報知される可能性が高い演出であり、大当り信頼度が低い演出とは、その演出が実行された場合において大当りが報知される可能性が低い演出である。以下、図１４に示すＨＴ１－１を用いて具体的に説明する。ＨＴ１－１の「大当り」の部分から分かるように、大当りの場合には、「ノーマルリーチ当り」、「擬似変動２回当り」、「擬似変動３回当り」、「第１ＳＰ当り」、「第２ＳＰ当り」、「第３ＳＰ当り」、「第１ＳＰＳＰ当り」、「第２ＳＰＳＰ当り」、「第３ＳＰＳＰ当り」の順で、変動パターン乱数値範囲が大きくなっている（一部同一あり）。一方で、ＨＴ１－１の「ハズレ」の部分から分かるように、ハズレの場合には、「ノーマルリーチハズレ」、「擬似変動２回ハズレ」、「擬似変動３回ハズレ」、「第１ＳＰハズレ」、「第２ＳＰハズレ」、「第３ＳＰハズレ」、「第１ＳＰＳＰハズレ」、「第２ＳＰＳＰハズレ」、「第３ＳＰＳＰハズレ」の順で、変動パターン乱数値範囲が小さくなっている（一部同一あり）。以上から分かるように、大当りの場合に実行され易くハズレの場合に実行され難い演出は大当り信頼度が高い一方で、大当りの場合に実行され難くハズレの場合に実行され易い演出は大当り信頼度が低い。つまり、「ノーマルリーチ演出」、「擬似変動２回演出」、「擬似変動３回演出」、「第１ＳＰリーチ演出」、「第２ＳＰリーチ演出」、「第３ＳＰリーチ演出」、「第１ＳＰＳＰリーチ演出」、「第２ＳＰＳＰリーチ演出」、「第３ＳＰＳＰリーチ演出」の順で大当り信頼度が高くなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0164">
+［非時短状態／第２特別図柄抽選での変動パターン選択処理］
+  以下に、図１５を用いて、通常遊技状態（非時短状態）においてステップＳ４０７の処理で第２特別図柄抽選が実行された場合における変動パターンの決定について、説明する。ステップＳ４０８において、ＣＰＵ１０１は、図１４を用いて説明した変動パターン決定の処理と基本的に同様の処理を行って、変動パターンを決定する。但し、ＣＰＵ１０１は、図１４を用いて説明した変動パターン決定の処理ではＨＴ１－１を用いて第１特別図
+柄抽選に対して処理を行ったのに対して、この変動パターン決定の処理では図１５に示すＨＴ１－２を用いて第２特別図柄抽選に対して処理を行う点で異なる。ここで、図１５に示すＨＴ１－２は、図１４に示したＨＴ１－１に対して、「第１特別図柄抽選の保留数」が「第２特別図柄抽選の保留数」に置き換わった点で異なるのみである。つまり、図１４を用いて説明した変動パターン決定の処理では第１特別図柄抽選の保留数が考慮されたのに対して、この変動パターン決定の処理では第２特別図柄抽選の保留数が考慮される。
+</base:Paragraphs>
+      <base:Paragraphs num="0165">
+［時短状態／第１特別図柄抽選での変動パターン選択処理］
+  以下に、図１６を用いて、確変遊技状態（時短状態）においてステップＳ４０７の処理で第１特別図柄抽選が実行された場合における変動パターンの決定について、説明する。ステップＳ４０８において、ＣＰＵ１０１は、図１４を用いて説明した変動パターン決定の処理と基本的に同様の処理を行って、変動パターンを決定する。但し、ＣＰＵ１０１は、図１４を用いて説明した変動パターン決定の処理ではＨＴ１－１を用いて第１特別図柄抽選に対して処理を行ったのに対して、この変動パターン決定の処理では図１６に示すＨＴ２－１を用いて第１特別図柄抽選に対して処理を行う点で異なる。ここで、図１６に示すＨＴ２－１は、図１４に示したＨＴ１－１に対して、「ハズレ」においてリーチ乱数によってリーチなしが選択された場合において、第１特別図柄抽選の保留数に関わらず一律に変動パターン「１３．５０秒」（即ハズレに対応）が選択される点で異なる。
+</base:Paragraphs>
+      <base:Paragraphs num="0166">
+［時短状態／第２特別図柄抽選での変動パターン選択処理］
+  以下に、図１７を用いて、確変遊技状態（時短状態）においてステップＳ４０７の処理で第２特別図柄抽選が実行された場合における変動パターンの決定について、説明する。ステップＳ４０８において、ＣＰＵ１０１は、図１４を用いて説明した変動パターン決定の処理と基本的に同様の処理を行って、変動パターンを決定する。但し、ＣＰＵ１０１は、図１４を用いて説明した変動パターン決定の処理ではＨＴ１－１を用いて第１特別図柄抽選に対して処理を行ったのに対して、この変動パターン決定の処理では図１７に示すＨＴ２－２を用いて第２特別図柄抽選に対して処理を行う点で異なる。ここで、図１７に示すように、ＨＴ２－２は、図１４に示したＨＴ１－１に対して、「第１特別図柄抽選の保留数」が「第２特別図柄抽選の保留数」に置き換わっている。つまり、図１４を用いて説明した変動パターン決定の処理では第１特別図柄抽選の保留数が考慮されたのに対して、この変動パターン決定の処理では第２特別図柄抽選の保留数が考慮される。また、図１７に示すように、ＨＴ２－２では、「ハズレ」における第２特別図柄抽選の保留数「１」の場合においてリーチ乱数によってリーチなしが選択された場合に、一律に変動パターン「１３．５０秒」が決定される。また、図１７に示すように、ＨＴ２－２では、「ハズレ」における第２特別図柄抽選の保留数「２～４」の場合においてリーチ乱数によってリーチなしが選択された場合に、変動パターン乱数値範囲「０～２３９」において変動パターン「２．００秒」が決定され、変動パターン乱数値範囲「２４０～２６９」において変動パターン「４．００秒」が決定され、変動パターン乱数値範囲「２７０～２９９」において変動パターン「１０．００秒」が決定される。
+</base:Paragraphs>
+      <base:Paragraphs num="0167">
+  ここで、図１３のステップＳ４０３～Ｓ４０６での処理で説明したように、本実施形態では、第２特別図柄抽選の保留が、第１特別図柄抽選の保留よりも優先して消化される。また、確変遊技状態（時短状態）では、図９のステップＳ５及びＳ７での処理で説明したように、電動チューリップ２７が頻繁に長期間開放して第２始動口２２に遊技球が頻繁に入賞するので、第２特別図柄抽選が頻繁に連続して実行される。また、ステップＳ４０７での処理で説明したように、第２始動口２２への遊技球入賞による第２特別図柄抽選の方が、第１始動口２１への遊技球入賞による第１特別図柄抽選よりも、次回大当りするまで確変遊技状態（時短状態）に制御される確変大当り（遊技者の利益が大きい大当り）の当選割合が多い。このことから、逆に言えば、確変遊技状態（時短状態）において、第１特別図柄抽選が実行されると、通常遊技状態に制御されることになる通常大当り（遊技者の
+利益が小さい大当り）に当選してしまう可能性が多くなってしまうと言える。本実施形態では、以上に図１７のＨＴ２－２を用いて説明したように、確変遊技状態（時短状態）においては、第２特別図柄抽選の保留数が２～４でリーチなしの場合には短時間の変動パターン（２．００秒、４．００秒）を選択し易くして第２特別図柄抽選の保留が高速で消化されるようにしてスピード感のある遊技を実行する一方で、第２特別図柄抽選の保留数が１でリーチなしの場合には長時間の変動パターン（１３．５０秒）を必ず選択して遊技者に比較的不利な第１特別図柄抽選が実行され難く制御している。更に、本実施形態では、以上に図１６のＨＴ２－１を用いて説明したように、確変遊技状態（時短状態）においては、遊技者に比較的不利な第１特別図柄抽選が実行されたとしても、第１特別図柄抽選の保留数が１～４の全てにおいて、リーチなしの場合には長時間の変動パターン（１３．５０秒）を必ず選択して、第２始動口２２に遊技球が入賞して遊技者に比較的有利な第２特別図柄抽選が実行されるための時間を稼ぐように制御している。
+</base:Paragraphs>
+      <base:Paragraphs num="0168">
+  以上のようにしてステップＳ４０８において決定された変動パターンの情報（つまり、報知演出の実行時間：報知演出の演出パターンのタイプの情報とも言える）は、設定情報としてＲＡＭ１０３にセットされる。その後、処理はステップＳ４０９に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0169">
+  ステップＳ４０９において、ＣＰＵ１０１は、ステップＳ４０７の大当り判定処理によってセットされた設定情報、及びステップＳ４０８の変動パターン選択処理によってセットされた設定情報を含む報知演出開始コマンドを生成して、ＲＡＭ１０３にセットする。ここで、報知演出開始コマンドは、演出制御部４００に対して、画像表示部６及びスピーカ３５等による報知演出の開始を指示するコマンドである。また、報知演出開始コマンドに含まれる設定情報には、第１特別図柄抽選及び第２特別図柄抽選の何れが実行されたかを示す情報も含まれる。また、ＣＰＵ１０１は、現在の遊技状態（例えば、確変遊技状態）を示す遊技状態通知コマンドをＲＡＭ１０３にセットする。上記した報知演出開始コマンドおよび遊技状態通知コマンドは、図９のステップＳ９における出力処理によって、演出制御部４００へ送信される。その後、処理はステップＳ４１０に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0170">
+  ステップＳ４１０において、ＣＰＵ１０１は、ステップＳ４０９の処理でセットされた報知演出開始コマンドに含まれている設定情報に基づいて、第１特別図柄表示器４ａ又は第２特別図柄表示器４ｂによる特別図柄の変動表示を開始する。その後、処理はステップＳ４１１に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0171">
+  ステップＳ４１１において、ＣＰＵ１０１は、ステップＳ４１０における特別図柄の変動表示の開始時点から、ステップＳ４０８の変動パターン選択処理で設定された変動パターンが示す特別図柄変動時間が経過したか否かを判定する。ステップＳ４１１での判定がＹＥＳの場合、処理はステップＳ４１２に移り、この判定がＮＯの場合、処理は図９のステップＳ５（普通図柄処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0172">
+  ステップＳ４１２において、ＣＰＵ１０１は、画像表示部６による報知演出の終了を指示する報知演出停止コマンドをＲＡＭ１０３にセットする。その後、処理はステップＳ４１３に移る。なお、ステップＳ４１２でセットされた報知演出停止コマンドは、図９のステップＳ９の出力処理によって演出制御部４００へ送信される。
+</base:Paragraphs>
+      <base:Paragraphs num="0173">
+  ステップＳ４１３において、ＣＰＵ１０１は、ステップＳ４１０の処理で開始した第１特別図柄表示器４ａ又は第２特別図柄表示器４ｂによる特別図柄の変動表示を終了して特別図柄抽選結果を報知する図柄の所定時間（０．５秒間）の停止表示を実行する。その後、処理はステップＳ４１４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0174">
+  ステップＳ４１４において、ＣＰＵ１０１は、停止中処理を実行する。具体的には、Ｃ
+ＰＵ１０１は、ステップＳ４０７の大当り判定処理で大当りしたと判定した場合、ＲＡＭ１０３に記憶されている情報（典型的にはフラグによる情報）を大当り遊技中（大当り遊技状態）であることを示すものに変更し、大当り遊技演出の開始を指示するオープニングコマンドをＲＡＭ１０３にセットする。なお、このオープニングコマンドは、ステップＳ４１３の処理で特別図柄の停止表示が開始された時点から所定時間（０．５秒間）経過したタイミングで（つまり、特別図柄停止表示時間０．５秒が経過して大当り遊技が開始するタイミングで）、図９のステップＳ９の出力処理によって演出制御部４００へ送信され、大当り遊技演出が開始される。
+</base:Paragraphs>
+      <base:Paragraphs num="0175">
+  ステップＳ４１５おいて、ＣＰＵ１０１は、客待ちコマンドおよび現在の遊技状態を示す遊技状態通知コマンドを、ステップ４１６の処理（後述）で既に送信済みであるか否かを判定する。ここで、客待ちコマンドとは、ステップＳ４１３の処理において開始された特別図柄の所定時間（０．５秒間）の停止表示が終了した時点において、特別図柄抽選の保留が存在しない場合に送信されるコマンドであり、特別図柄抽選の抽選結果を報知する報知演出が実行されていない客待ち状態になったことを通知するコマンドである。ステップＳ４１５での判定がＹＥＳの場合、処理は図９のステップＳ５（普通図柄処理）に移り、この判定がＮＯの場合、処理はステップＳ４１６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0176">
+  ステップＳ４１６おいて、ＣＰＵ１０１は、客待ちコマンドおよび遊技状態通知コマンドをＲＡＭ１０３にセットする。この客待ちコマンドおよび遊技状態通知コマンドは図９のステップＳ９の出力処理によって演出制御部４００へ送信され、当該客待ちコマンドに基づいて、所定の停止演出（例えば装飾図柄停止表示の演出）が開始される。なお、上記した所定の停止演出が開始されてから所定時間（例えば９０秒）が経過すると、客待ち演出が開始される。ここで、客待ち演出は、例えば、遊技機１の題材となったコンテンツ（アニメや物語等）に関する映像を画像表示部６に表示させる演出や、例えば、遊技中に実行される所定の演出（例えばリーチ演出）の一部を画像表示部６に表示させる演出である。その後、処理は図９のステップＳ５（普通図柄処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0177">
+［大入賞口処理］
+  図１８及び図１９は、図９のステップＳ６における大入賞口処理の詳細フローチャートの一例である。以下に、図９のステップＳ６における大入賞口処理について、図１８及び図１９を参照して説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0178">
+  まず、ステップＳ６０１において、メイン制御部１００のＣＰＵ１０１は、ＲＡＭ１０３に格納されている情報（典型的には、フラグによる情報）に基づいて、遊技機１の状態が大当り遊技中であるか否かを判定する。ステップＳ６０１での判定がＹＥＳの場合、処理はステップＳ６０２に移り、この判定がＮＯの場合、処理は図９のステップＳ７（電動チューリップ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0179">
+  ステップＳ６０２において、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている情報に基づいて、遊技機１の状態が大当り遊技のオープニング演出中であるか否かを判定する。ステップＳ６０２での判定がＹＥＳの場合、処理はステップＳ６０３に移り、この判定がＮＯの場合、処理はステップＳ６０９に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0180">
+  ステップＳ６０３において、ＣＰＵ１０１は、オープニング演出の実行時間を規定する設定オープニング時間が経過したか否かを判定する。ステップＳ６０３での判定がＹＥＳの場合、処理はステップＳ６０４に移り、この判定がＮＯの場合、オープニング演出は終了していないので、処理は図９のステップＳ７（電動チューリップ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0181">
+  ステップＳ６０４において、ＣＰＵ１０１は、大当り遊技の全ラウンド数Ｒｍａｘと大
+当り遊技の大入賞口２３の動作パターンとを設定し、その設定情報をＲＡＭ１０３にセットする。具体的には、ＣＰＵ１０１は、大当り遊技に含まれるラウンドの数量（Ｒｍａｘ：本実施形態では「１６」）と大当り遊技中の大入賞口２３の動作パターンを設定し、その設定情報をＲＡＭ１０３にセットする。ステップＳ６０４の処理によって、大当り遊技の全ラウンド数Ｒｍａｘ、大当り遊技中のラウンドとラウンドとの間のインターバル時間、大当り遊技の最後にエンディング演出を行う時間である設定エンディング時間等が設定される。その後、処理はステップＳ６０５に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0182">
+  ステップＳ６０５において、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている大入賞口２３への遊技球の入賞数Ｃを「０」にリセットする。その後、処理はステップＳ６０６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0183">
+  ステップＳ６０６において、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている大当り遊技のラウンド数Ｒを、１加算した値に更新する。その後、処理はステップＳ６０７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0184">
+  ステップＳ６０７において、ＣＰＵ１０１は、大入賞口開閉部１１５を制御して大入賞口２３の開放制御を開始する。この処理によって、大当り遊技のラウンド（ラウンド遊技）が開始されて大入賞口２３の開放動作（１回の開放動作）が開始される。その後、処理はステップＳ６０８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0185">
+  ステップＳ６０８において、ＣＰＵ１０１は、ラウンド開始（ラウンド遊技開始）を通知するラウンド開始通知コマンドをＲＡＭ１０３にセットする。このラウンド開始通知コマンドは図９のステップＳ９の出力処理によって演出制御部４００へ送信され、ラウンド演出が開始されることとなる。なお、このラウンド開始通知コマンドには、ステップＳ６０４で設定された全ラウンド数Ｒｍａｘを示す情報およびステップＳ６０６の処理により更新された現在のラウンド数Ｒを示す情報が含まれている。その後、処理はステップＳ６１２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0186">
+  ステップＳ６０９において、ＣＰＵ１０１は、ＲＡＭ１０３に格納された情報に基づいて、遊技機１の状態が大当り遊技のインターバル中であるか否かを判定する。ステップＳ６０９での判定がＹＥＳの場合、処理はステップＳ６１０に移り、この判定がＮＯの場合、処理はステップＳ６１１に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0187">
+  ステップＳ６１０において、ＣＰＵ１０１は、大当り遊技中の前回のラウンド終了時に大入賞口２３が閉塞された時点から、ステップＳ６０４の処理で設定された大当り遊技中の設定インターバル時間が経過したか否かを判定する。ステップＳ６１０での判定がＹＥＳの場合、大当り遊技中の次のラウンドを開始するタイミングになっているので処理はステップＳ６０５に移り、この判定がＮＯの場合、大当り遊技中の次のラウンドを開始するタイミングになっていないので、処理は図９のステップＳ７（電動チューリップ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0188">
+  ステップＳ６１１において、ＣＰＵ１０１は、ＲＡＭ１０３に格納された情報に基づいて、遊技機１の状態が大当り遊技のエンディング演出の実行中であるか否かを判定する。ステップＳ６１１での判定がＹＥＳの場合、処理は図１７のステップＳ６２１に移り、この判定がＮＯの場合、処理はステップＳ６１２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0189">
+  ステップＳ６１２において、ＣＰＵ１０１は、遊技機１の状態が大当り遊技のラウンド中であると判断して、大入賞口スイッチ１１４からの出力信号に基づいて、大入賞口２３に遊技球が入賞したか否かを判定する。ステップＳ６１２での判定がＹＥＳの場合、処理
+はステップＳ６１３に移り、この判定がＮＯの場合、処理はステップＳ６１４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0190">
+  ステップＳ６１３において、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている大入賞口２３への遊技球の入賞数Ｃを、１加算した値に更新する。ステップＳ６１３の処理が実行されることで、１つのラウンド中に大入賞口２３に入賞した遊技球の総数（入賞数Ｃ）がＲＡＭ１０３に累積記憶されていく。また、ＣＰＵ１０１は、大入賞口２３に遊技球が入賞したことを演出制御部４００に対して通知するための入賞コマンドをＲＡＭ１０３にセットする。この入賞コマンドは、図９のステップＳ９の出力処理によって演出制御部４００へ送信され、図２０のステップＳ１２３の入賞処理が実行されることとなる。その後、処理はステップＳ６１４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0191">
+  ステップＳ６１４において、ＣＰＵ１０１は、ステップＳ６０７の処理で大入賞口２３の開放制御が開始された時点から規定の開放制御時間（本実施形態では２９．５秒間）が経過したか否かを判定する。ステップＳ６１４での判定がＹＥＳの場合、処理はステップＳ６１６に移り、この判定がＮＯの場合、処理はステップＳ６１５に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0192">
+  ステップＳ６１５において、ＣＰＵ１０１は、今回のラウンドにおける遊技球の入賞数Ｃが、大入賞口２３が閉塞されるタイミングを規定する上限遊技球数Ｃｍａｘ（本実施形態では「１０」）となったか否かを判定する。ステップＳ６１５での判定がＹＥＳの場合、処理はステップＳ６１６に移り、この判定がＮＯの場合、処理は図９のステップＳ７（電動チューリップ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0193">
+  ステップＳ６１６において、ＣＰＵ１０１は、大入賞口開閉部１１５を制御して、ステップＳ６０７で開始した大入賞口２３の開放制御を終了する。このように、ＣＰＵ１０１は、大当り遊技中の各ラウンドにおいて、大入賞口２３を開放してから２９．５秒が経過するまでに大入賞口スイッチ１１４によって検出された遊技球の総数（入賞数Ｃ）が１０個（Ｃｍａｘ）に達したこと、又は大入賞口２３を開放してから１０個の遊技球が入賞することなく２９．５秒が経過したことを条件として大入賞口２３を閉塞する。その後、処理はステップＳ６１７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0194">
+  ステップＳ６１７において、ＣＰＵ１０１は、ラウンド終了（ラウンド遊技終了）を通知するラウンド終了通知コマンドをＲＡＭ１０３にセットする。このラウンド開始通知コマンドは図９のステップＳ９の出力処理によって演出制御部４００へ送信され、ラウンド演出が終了されることとなる。その後、処理はステップＳ６１８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0195">
+  ステップＳ６１８において、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている現在のラウンド数Ｒが、ステップＳ６０４の処理で設定された大当り遊技の最大ラウンド数Ｒｍａｘに達したか否かを判定する。ステップＳ６１８での判定がＹＥＳの場合、処理は図１９のステップＳ６１９に移り、この判定がＮＯの場合、処理は図９のステップＳ７（電動チューリップ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0196">
+  図１９のステップＳ６１９において、ＣＰＵ１０１は、ＲＡＭ１０３に格納されているラウンド数Ｒを「０」にリセットする。その後、処理はステップＳ６２０に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0197">
+  ステップＳ６２０において、ＣＰＵ１０１は、演出制御部４００に対して大当り遊技のエンディング演出の実行を指示するエンディングコマンドを、ＲＡＭ１０３にセットする。この処理でセットされたエンディングコマンドは、図９のステップＳ９（出力処理）によって演出制御部４００へ送信される。なお、このエンディングコマンドとしては、大当り図柄（つまり、大当りの種類）および大当り遊技終了後に制御される遊技状態に対応したコマンドが送信され、演出制御部４００は、このエンディングコマンドに基づいて、エ
+ンディング演出終了後（大当り遊技演出終了後）の演出を制御する。具体的には、確変大当りを示す大当り図柄に対応したエンディングコマンドが送信された場合、演出制御部４００は、当該エンディングコマンドに基づいて大当り遊技演出の終了後、確変遊技状態を示す演出モードで報知演出を実行する。その後、処理はステップＳ６２１に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0198">
+  ステップＳ６２１において、ＣＰＵ１０１は、ステップＳ６２０でエンディングコマンドをＲＡＭ１０３にセットした時点から図１８のステップＳ６０４の処理で設定された設定エンディング時間が経過したか否かを判定する。ステップＳ６２１での判定がＹＥＳの場合、処理はステップＳ６２２に移り、この判定がＮＯの場合、処理は図９のステップＳ７（電動チューリップ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0199">
+  ステップＳ６２２において、ＣＰＵ１０１は、実行していた大当り遊技を終了する。具体的には、ＣＰＵ１０１は、ＲＡＭ１０３に格納されている大当り遊技中であることを示す設定情報（典型的には、フラグによる情報）を解除して、大当り遊技を終了する。その後、処理はステップＳ６２３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0200">
+  ステップＳ６２３において、ＣＰＵ１０１は、遊技状態設定処理を実行する。具体的には、ＣＰＵ１０１は、ステップＳ６２２で大当り遊技を終了した場合に、今回の大当りの種類（大当り図柄）に応じて遊技状態を切り替える（つまり、特別図柄抽選の当選確率設定および電動チューリップ２７の開放設定を切り替える）。より具体的には、今回の大当りが通常大当りの場合は通常遊技状態に制御し、今回の大当りが確変大当りの場合は確変遊技状態に制御する。その後、処理は図９のステップＳ７（電動チューリップ処理）に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0201">
+［演出制御部による演出制御処理］
+  図２０は、演出制御部４００によって行われるタイマ割込み処理の一例を示すフローチャートである。以下に、図２０を参照して、演出制御部４００において行われるタイマ割込み処理について説明する。演出制御部４００は、電源投入時や電源断時等の特殊な場合を除く通常の動作時において、図２０に示す一連の処理を一定時間（４ミリ秒）毎に繰り返し実行する。なお、図２０以降のフローチャートに基づいて説明する演出制御部４００で行われる処理は、ＲＯＭ４０２に記憶されているプログラムに基づいて実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0202">
+  まず、ステップＳ１１において、演出制御部４００のＣＰＵ４０１は、メイン制御部１００から図９のステップＳ９の出力処理により出力された各種コマンドを受信して、受信したコマンドに応じて演出内容を設定し、設定した演出内容の演出を画像音響制御部５００等に実行指示するための各種コマンドをＲＡＭ４０３にセットするコマンド受信処理を実行する。このコマンド受信処理については、図２１及び図２２等を参照して後に詳述する。
+</base:Paragraphs>
+      <base:Paragraphs num="0203">
+  次に、ステップＳ１１－１において、ＣＰＵ４０１は、ステップＳ１１のコマンド受信処理によって実行指示した演出の実行中においてその演出の進行を制御等する演出制御処理を実行する。この演出制御処理については、図２２－１等を参照して後に詳述する。
+</base:Paragraphs>
+      <base:Paragraphs num="0204">
+  次に、ステップＳ１２において、ＣＰＵ４０１は、ステップＳ１１およびＳ１１－１の処理でＲＡＭ４０３にセットされた各種コマンドを画像音響制御部５００等に出力する出力処理を実行する。この処理によって、ステップＳ１１の処理で実行決定された各種演出が、画像音響制御部５００等の実行制御により、画像表示部６、スピーカ３５および盤ランプ８等で実行されることとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0205">
+  なお、上記したタイマ割り込み処理の実行毎に、ＣＰＵ４０１は、演出内容の決定等に
+使用する各種演出乱数を更新する乱数更新処理を行う。この乱数更新処理においても、図９のステップＳ１の乱数更新処理と同様に、典型的にはループカウンタが用いられ、そのカウント値（更新された乱数値）は、最大値（例えば、９９）に達した後は再び０に戻る（つまり、循環する）。また、この乱数更新処理において、各演出乱数のカウンタは、それぞれ、１回循環するとランダムに初期値（循環の起点となる値）を更新する。このことによって、これらの演出乱数の間でカウンタの値（カウント値）が同期することを回避できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0206">
+［コマンド受信処理］
+  図２１および図２２は、図２０のステップＳ１１のコマンド受信処理の詳細フローチャートの一例である。以下に、図２１および図２２を参照して、図２０のステップＳ１１のコマンド受信処理について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0207">
+  まず、ステップＳ１１１において、演出制御部４００のＣＰＵ４０１は、メイン制御部１００から保留増加コマンド（第１保留数増加コマンド又は第２保留数増加コマンド）を受信したか否かを判定する（図１２のステップＳ２０６及びＳ２１２参照）。ステップＳ１１１での判定がＹＥＳの場合、処理はステップＳ１１２に移り、この判定がＮＯの場合、処理はステップＳ１１４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0208">
+  ステップＳ１１２において、ＣＰＵ４０１は、ステップＳ１１１の処理で受信した保留増加コマンドに応じて、画像音響制御部５００に対して、画像表示部６に特別図柄抽選の保留を示す保留画像を追加表示させたり、この保留増加コマンドに含まれる事前判定情報を用いて追加表示させた保留画像を先読み表示態様に変化させる指示を行う。なお、表示された保留画像は、後述するステップＳ１１５の処理で報知演出が開始される際に、早く表示されたものから順番に消化される。また、この画像音響制御部５００への指示は、コマンドをＲＡＭ４０３にセットすることで行われる。また、ＣＰＵ４０１は、第１保留数増加コマンドを受信した場合、ＲＡＭ４０３に、第１特別図柄抽選の保留を示すデータ（保留データ）を時系列順で１つ累積記憶させ、一方、第２保留数増加コマンドを受信した場合、ＲＡＭ４０３に、第２特別図柄抽選の保留を示すデータ（保留データ）を時系列順で１つ累積記憶させる。また、その際に、ＣＰＵ４０１は、保留増加コマンドに含まれる事前判定情報を抽出して上記した各保留データに含めて、ＲＡＭ４０３に記憶する。その後、処理はステップＳ１１３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0209">
+  ステップＳ１１３において、ＣＰＵ４０１は、先読み予告演出設定処理を行う。具体的には、ＣＰＵ４０１は、ＲＡＭ４０３に記憶されている特別図柄抽選の保留数（保留データの数）が、ステップＳ１１２で追加された保留を含めて２以上である場合、直近にＲＡＭ４０３に記憶された（つまり、直近の保留データに含まれる）事前判定情報に基づいて、先読み予告演出を実行するか否かを演出乱数を用いた抽選により決定し、実行する場合には先読み予告演出の内容を設定する。なお、先読み予告演出は、例えば複数の報知演出に亘って大当りの可能性を示唆する予告演出である。その後、処理はステップＳ１１４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0210">
+  ステップＳ１１４において、ＣＰＵ４０１は、図１３のステップＳ４０９でセットされた報知演出開始コマンドおよび遊技状態通知コマンドを受信したか否かを判定する。ステップＳ１１４での判定がＹＥＳの場合、処理はステップＳ１１５に移り、この判定がＮＯの場合、処理はステップＳ１１６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0211">
+  ステップＳ１１５において、ＣＰＵ４０１は、ステップＳ１１４の処理で受信した報知演出開始コマンド等に応じて、画像音響制御部５００等に指示して、画像表示部６等による報知演出の開始を指示する報知演出実行指示処理を行う。ここで、報知演出（変動演出
+）は、特別図柄の変動表示に応じて画像表示部６等において実行されて特別図柄抽選の結果を報知する演出であり、本実施形態では、装飾図柄ＤＩ（後述する図２７参照）が変動表示され、この変動表示された装飾図柄ＤＩが停止表示（確定停止表示）されることにより特別図柄抽選の結果が報知される演出である。なお、この画像音響制御部５００等への指示は、変動開始コマンドをＲＡＭ４０３にセットすることで行われる。この報知演出実行指示処理については、図２３を用いて後に詳述する。その後、処理はステップＳ１１６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0212">
+  ステップＳ１１６において、ＣＰＵ４０１は、図１３のステップＳ４１２の処理でセットされた報知演出停止コマンドを受信したか否かを判定する。ステップＳ１１６での判定がＹＥＳの場合、処理はステップＳ１１７に移り、この判定がＮＯの場合、処理は図２２のステップＳ１１８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0213">
+  ステップＳ１１７において、ＣＰＵ４０１は、画像音響制御部５００等に対して、ステップＳ１１５の処理で実行開始した報知演出を終了して、変動表示させていた装飾図柄を最終的に全て停止させて（規定時間（０．５秒間）確定停止表示させて）特別図柄抽選の結果を演出的に報知する指示を行う。なお、この画像音響制御部５００等への指示は、コマンドをＲＡＭ４０３にセットすることで行われる。その後、処理は図２２のステップＳ１１８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0214">
+  図２２のステップＳ１１８において、ＣＰＵ４０１は、図１３のステップＳ４１４の停止中処理でセットされたオープニングコマンドを受信したか否かを判定する。ステップＳ１１８での判定がＹＥＳの場合、処理はステップＳ１１９に移り、この判定がＮＯの場合、処理はステップＳ１２０に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0215">
+  ステップＳ１１９において、ＣＰＵ４０１は、画像音響制御部５００等に対して、大当り遊技演出のオープニング演出を開始する指示を行う。つまり、大当り遊技演出を開始させる。ここで、大当り遊技演出のオープニング演出は、大当り遊技の開始を報知する演出であり、典型的には、大入賞口２３に向けて遊技球を発射するように遊技者に促す画像演出である。この画像音響制御部５００等への指示は、コマンドをＲＡＭ４０３にセットすることで行われる。その後、処理はステップＳ１２０に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0216">
+  ステップＳ１２０において、ＣＰＵ４０１は、図１８のステップＳ６０８の処理でセットされたラウンド開始通知コマンドを受信したか否かを判定する。ステップＳ１２０での判定がＹＥＳの場合、処理はステップＳ１２１に移り、この判定がＮＯの場合、処理はステップＳ１２２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0217">
+  ステップＳ１２１において、ＣＰＵ４０１は、画像音響制御部５００等に対して、大当り遊技演出のラウンド演出の開始を指示する。ここで、ラウンド演出は、大当り遊技のラウンド遊技中に実行される演出であり、例えば、主人公のキャラクタが敵のキャラクタと戦っている画像等による演出である。なお、この画像音響制御部５００等への指示は、コマンドをＲＡＭ４０３にセットすることで行われる。その後、処理はステップＳ１２２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0218">
+  ステップＳ１２２において、ＣＰＵ４０１は、図１８のステップＳ６１３等の処理でセットされた入賞コマンドを受信したか否かを判定する。ステップＳ１２２での判定がＹＥＳの場合、処理はステップＳ１２３に移り、この判定がＮＯの場合、処理はステップＳ１２４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0219">
+  ステップＳ１２３において、ＣＰＵ４０１は、画像音響制御部５００に指示して入賞処
+理を開始する。ここで、入賞処理は、例えば大当り遊技中（ラウンド中）に開放される大入賞口２３に入賞した遊技球に基づいて払い出された賞球数をカウントする処理であり、入賞処理の開始を指示された画像音響制御部５００のＣＰＵ５０１は、演出制御部４００を介して受信した入賞コマンドのうち、大入賞口２３への遊技球入賞に基づく入賞コマンドを受信する毎に（つまり、大入賞口２３へ遊技球が１つ入賞する毎に）、大入賞口２３入賞に対応する賞球数「１３」をＲＡＭ５０３に記憶された賞球総数に加算して更新し、更新された賞球総数を画像表示部６に表示する。その後、処理はステップＳ１２４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0220">
+  ステップＳ１２４において、ＣＰＵ４０１は、図１８のステップＳ６１７の処理でセットされたラウンド終了通知コマンドを受信したか否かを判定する。ステップＳ１２４での判定がＹＥＳの場合、処理はステップＳ１２５に移り、この判定がＮＯの場合、処理はステップＳ１２６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0221">
+  ステップＳ１２５において、ＣＰＵ４０１は、画像音響制御部５００等に対して、大当り遊技演出のラウンド演出を終了する指示を行う。なお、この画像音響制御部５００等への指示は、コマンドをＲＡＭ４０３にセットすることで行われる。その後、処理はステップＳ１２６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0222">
+  ステップＳ１２６において、ＣＰＵ４０１は、図１９のステップＳ６２０の処理でセットされたエンディングコマンドを受信したか否かを判定する。ステップＳ１２６での判定がＹＥＳの場合、処理はステップＳ１２７に移り、この判定がＮＯの場合、処理はステップＳ１２８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0223">
+  ステップＳ１２７において、ＣＰＵ４０１は、画像音響制御部５００等に対して、大当り遊技演出のエンディング演出を開始する指示を行う。つまり、大当り遊技演出を終了させる。ここで、エンディング演出は、大当り遊技の終了を報知する演出であり、典型的には、遊技機１のメーカー名を表示させる演出である。この画像音響制御部５００等への指示は、コマンドをＲＡＭ４０３にセットすることで行われる。その後、処理はステップＳ１２８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0224">
+  ステップＳ１２８において、ＣＰＵ４０１は、図１３のステップＳ４１６の処理でセットされた客待ちコマンドおよび遊技状態通知コマンドを受信したか否かを判定する。ステップＳ１２８での判定がＹＥＳの場合、処理はステップＳ１２９に移り、この判定がＮＯの場合、コマンド受信処理を終了し、処理は図２０のステップＳ１２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0225">
+  ステップＳ１２９において、ＣＰＵ４０１は、ステップＳ１２８で受信した客待ちコマンドおよび遊技状態通知コマンドに基づいて、画像音響制御部５００に対して、停止状態処理を開始する指示を行う。ここで、停止状態処理は、いわゆる客待ち状態になることを契機に開始される処理であり、停止状態処理の開始を指示された画像音響制御部５００のＣＰＵ５０１は、遊技状態に応じた所定の停止演出（例えば、装飾図柄が停止表示された演出）を画像表示部６に表示する。なお、ＣＰＵ５０１は、上記した所定の停止演出を開始してから、所定時間（例えば９０秒）が経過したときに、ＣＰＵ４０１から、他の演出の指示を受けない場合、客待ち演出を開始する。なお、客待ち演出は、例えば、遊技機１の題材となったコンテンツ（アニメや物語等）に関する映像を画像表示部６に表示させる演出や、例えば、遊技中に実行される所定の演出（例えばリーチ演出）の一部を画像表示部６に表示させる演出である。そして、コマンド受信処理を終了し、処理は図２０のステップＳ１２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0226">
+［演出制御処理］
+  図２２－１は、図２０のステップＳ１１－１の演出制御処理の詳細フローチャートの一例である。以下に、図２２－１を参照して、図２０のステップＳ１１－１の演出制御処理について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0227">
+  まず、ステップＳ１５において、演出制御部４００のＣＰＵ４０１は、図２１のステップＳ１１３で設定した先読み予告演出の内容に基づいて、現在実行中の報知演出において、その先読み予告演出の進行を制御する。例えば、ＣＰＵ４０１は、実行中の報知演出において擬似変動の２回目が実行されるタイミングでカットイン予告画像を表示させる先読み予告演出を実行制御して、後の報知演出で大当りする可能性を示唆する。なお、この制御は、ＲＡＭ４０３にコマンドをセットすることで行われる。その後、処理はステップＳ１６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0228">
+  ステップＳ１６において、ＣＰＵ４０１は、図２１のステップＳ１１５で実行指示して現在実行中の報知演出の進行を制御する報知演出制御処理を実行する。なお、この処理は、ＲＡＭ４０３にコマンドをセットすることで行われる。この報知演出制御処理については、図２２－２を用いて後に詳述する。その後、処理はステップＳ１７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0229">
+  ステップＳ１７において、ＣＰＵ４０１は、図２１のステップＳ１１９、Ｓ１２１、Ｓ１２６で実行指示して現在実行中の大当り遊技演出を構成する各演出（ラウンド演出等）において、その各演出の進行を制御する。例えば、ＣＰＵ４０１は、実行中の５Ｒのラウンド演出の開始から２秒経過したタイミングで所定の画像（例えば、特定の人物の写真画像）を表示させる演出を実行制御する。なお、この制御は、ＲＡＭ４０３にコマンドをセットすることで行われる。その後、処理は図２０のステップＳ１２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0230">
+［報知演出制御処理］
+  図２２－２は、図２２－１のステップＳ１６の報知演出制御処理の詳細フローチャートの一例である。以下に、図２２－２を参照して、図２２－１のステップＳ１６の報知演出制御処理について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0231">
+  まず、ステップＳ２０において、演出制御部４００のＣＰＵ４０１は、キャラ紹介演出モード中であるか否かを判定する。具体的には、ＣＰＵ４０１は、ＲＡＭ４０３に記憶されたキャラ紹介モードフラグがＯＮであるか否かを判定する。キャラ紹介モードフラグは、ＮＯであることで、キャラ紹介演出モードに制御されることを示し、ＯＦＦであることで、キャラ紹介演出モードに制御されないことを示すフラグである。なお、キャラ紹介演出モードは、通常遊技状態において実行される演出モードあり、複数のキャラクタのうちの何れかのキャラクタについて紹介する動画背景の演出モードである。ステップＳ２０での判定がＹＥＳの場合、処理はステップＳ２１に移り、この判定がＮＯの場合、処理はステップＳ２４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0232">
+  ステップＳ２１において、ＣＰＵ４０１は、キャラ紹介演出モード終了／継続選択演出が実行されたキャラ紹介演出モードでの報知演出において、キャラ紹介演出モードの終了が成立したか否かを判定する。ここで、図２８等を用いて具体的に後述するが、キャラ紹介演出モード終了／継続選択演出は、遊技者が演出ボタン３７を押下操作することによってキャラ紹介演出モードの終了又は継続を選択できる演出であり、この演出に係る演出ボタン３７の操作有効期間の終了時点において、［モード終了］画像ｃが選択された状態であればキャラ紹介演出モードの終了が成立する一方で［モード継続］画像ｄが選択された状態であればキャラ紹介演出モードの継続が成立する。なお、他の実施形態としては、遊技者が演出キー３８を操作して［モード終了］画像と［モード継続］画像との間で選択状態を移行させて演出ボタン３７の押下操作により選択状態の操作を決定（確定）する制御構成としてもよい。ステップＳ２１での判定がＹＥＳの場合、処理はステップＳ２２に移
+り、この判定がＮＯの場合、処理は図２２－１のステップＳ１７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0233">
+  ステップＳ２２において、ＣＰＵ４０１は、キャラ紹介モードフラグをＯＦＦに設定する。その後、処理はステップＳ２３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0234">
+  ステップＳ２３において、ＣＰＵ４０１は、ＲＡＭ４０３に記憶されたキャラ紹介モード終了フラグをＯＮに設定する。キャラ紹介モード終了フラグは、通常遊技状態において、実行中の報知演出まででキャラ紹介モードを終了させて次の報知演出から基本演出モードを実行するためのフラグである。その後、処理は図２２－１のステップＳ１７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0235">
+  上記したステップＳ２０～Ｓ２３の処理によって、キャラ紹介演出モードの報知演出の実行中において、基本演出モードに移行するための設定制御が行われる。
+</base:Paragraphs>
+      <base:Paragraphs num="0236">
+  ステップＳ２４において、ＣＰＵ４０１は、基本演出モードの報知演出実行中における演出制御を行う。例えば、ＣＰＵ４０１は、基本演出モードの報知演出において、大当りを期待させる予告演出の実行タイミングにおいてこの予告演出の実行指示を画像音響制御部５００に行う。なお、この指示は、ＲＡＭ４０３にコマンドをセットすることで行われる。その後、処理は図２２－１のステップＳ１７に移る。なお、キャラ紹介演出モードの報知演出においても、大当りを期待させる予告演出の実行タイミングにおいてこの予告演出の実行指示を画像音響制御部５００に行ってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0237">
+［報知演出実行指示処理］
+  図２３は、図２１のステップＳ１１５の報知演出実行指示処理の詳細フローチャートの一例である。以下に、図２３を参照して、図２１のステップＳ１１５の報知演出実行指示処理について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0238">
+  まず、ステップＳ５０１において、演出制御部４００のＣＰＵ４０１は、図２１のステップＳ１１４の処理で受信した報知演出開始コマンドおよび遊技状態通知コマンドを解析する。つまり、報知演出開始コマンドに含まれる設定情報が示す変動パターンの情報（図１４等参照）と、第１特別図柄抽選及び第２特別図柄抽選の何れが実行されたのかを示す情報と、大当りの場合に大当りの種類を示す情報を取得し、又、遊技状態通知コマンドに含まれる遊技状態を示す情報を取得する。その後、処理はステップＳ５０２に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0239">
+  ステップＳ５０２において、ＣＰＵ４０１は、ステップＳ５０１での解析結果に基づいて、今回実行する報知演出の演出モードを決定する演出モード設定処理を実行する。この演出モード設定処理については、図２４および図２５を用いて後に詳述する。その後、処理はステップＳ５０３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0240">
+  ステップＳ５０３において、ＣＰＵ４０１は、ステップＳ５０１での解析結果に基づいて、今回実行する報知演出の演出パターンを決定する。具体的には、ＣＰＵ４０１は、ステップＳ５０１で取得した変動パターンに対応する報知演出の演出パターンのタイプの演出パターンを、演出乱数を用いた抽選によって構築して設定する。例えば、ステップＳ５０１で取得した変動パターンが４０．０４秒の場合（図１４等参照）、ＣＰＵ４０１は、この変動パターンに対応する報知演出の演出パターンのタイプ（「第１ＳＰハズレ」；第１ＳＰリーチ演出まで実行してハズレを報知するタイプ）をベースとして、第１ＳＰリーチ演出までに実行する演出（例えば、カットイン予告演出、擬似変動演出、ミニキャラ演出）およびその演出の実行順序を決定する。また、その際に、ＣＰＵ４０１は、図２１のステップＳ１１３の処理によって今回実行する報知演出において先読み予告演出を実行することが設定されている場合、その先読み予告演出の実行を設定する。また、ＣＰＵ４０１は、ステップＳ５０２で設定した演出モード（典型的には、設定した演出モードの背景
+画像）を、今回実行する報知演出の演出モードとして設定する。具体的には、ステップＳ５０２での設定に基づいて、通常遊技状態では基本演出モード又はキャラ紹介演出モードの何れかを今回実行する報知演出の演出モードとして設定し、確変遊技状態では確変演出モードを今回実行する報知演出の演出モードとして設定する。基本演出モードは、青色背景の演出モードであり、キャラ紹介演出モードは、複数のキャラクタのうちの何れかのキャラクタについて紹介する動画背景の演出モードであり、確変演出モードは、赤色背景の演出モードである。その後、処理はステップＳ５０４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0241">
+  ステップＳ５０４において、ＣＰＵ４０１は、画像音響制御部５００等に対して、ステップＳ５０２で決定された内容で報知演出を実行するように指示を行う。この指示は、コマンドをＲＡＭ４０３にセットすることで行われる。
+</base:Paragraphs>
+      <base:Paragraphs num="0242">
+  以上のように、演出制御部４００による図２０のコマンド受信処理において、メイン制御部１００から受信した各種コマンドに基づいて演出内容が決定され、その決定内容が図２０の出力処理によって画像音響制御部５００等に通知される。これにより、画像音響制御部５００等によって画像表示部６等を用いた演出が実行制御されることとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0243">
+［演出モード設定処理］
+  図２４および図２５は、図２３のステップＳ５０２の演出モード設定処理の詳細フローチャートの一例である。以下に、図２４および図２５を参照して、図２３のステップＳ５０２の演出モード設定処理について説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0244">
+  まず、図２４のステップＳ７０１において、演出制御部４００のＣＰＵ４０１は、図２１のステップＳ１１４で受信した遊技状態通知コマンドが示す遊技状態が通常遊技状態であるか否かを判定する。ステップＳ７０１での判定がＹＥＳの場合、処理はステップＳ７０２に移り、この判定がＮＯの場合、処理はステップＳ７０６に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0245">
+  ステップＳ７０２において、ＣＰＵ４０１は、ＲＡＭ４０３に記憶されたキャラ紹介モード終了フラグがＯＮであるか否かを判定する。つまり、今回実行する報知演出から基本演出モードを実行するか否かを判定する。ステップＳ７０２での判定がＹＥＳの場合、処理はステップＳ７０３に移り、この判定がＮＯの場合、処理は図２５のステップＳ７０９に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0246">
+  ステップＳ７０３において、ＣＰＵ４０１は、基本演出モードで今回の報知演出を実行することを決定する。その後、処理はステップＳ７０４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0247">
+  ステップＳ７０４において、ＣＰＵ４０１は、キャラ紹介モードフラグをＯＦＦに設定する。その後、処理は図２３のステップＳ５０３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0248">
+  以上のステップＳ７０１～Ｓ７０５の処理によって、キャラ紹介演出モードの終了直後の基本演出モードでの報知演出が実行されることとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0249">
+  ステップＳ７０６において、ＣＰＵ４０１は、ＲＡＭ４０３に記憶されたキャラ紹介モードフラグがＯＮであるか否かを判定する。ステップＳ７０６での判定がＹＥＳの場合、処理はステップＳ７０７に移り、この判定がＮＯの場合、処理はステップＳ７０８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0250">
+  ステップＳ７０７において、ＣＰＵ４０１は、キャラ紹介モードフラグをＯＦＦに設定する。その後、処理はステップＳ７０８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0251">
+  ステップＳ７０８において、ＣＰＵ４０１は、確変演出モードで今回の報知演出を実行することを決定する。その後、処理は図２３のステップＳ５０３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0252">
+  以上のステップＳ７０６～Ｓ７０８の処理によって、通常遊技状態から確変遊技状態になった場合において、キャラ紹介モードフラグをＯＦＦにしてキャラ紹介演出モードの終了を設定すると共に確変演出モードを開始することとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0253">
+  図２５のステップＳ７０９において、ＣＰＵ４０１は、基本演出モード中であるか否かを判定する。具体的には、ＣＰＵ４０１は、ＲＡＭ４０３に記憶されたキャラ紹介モードフラグがＯＦＦであるか否かを判定する。ステップＳ７０９での判定がＹＥＳの場合、処理はステップＳ７１０に移り、この判定がＮＯの場合、処理はステップＳ７１５に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0254">
+  ステップＳ７１０において、ＣＰＵ４０１は、図２１のステップＳ１１４で受信した変動開始通知コマンドに含まれる設定情報が示す変動パターンが特定の変動パターンであるか否かを判定する。具体的には、ＣＰＵ４０１は、上記の設定情報が示す変動パターンが「１３．５０秒」の変動パターン（つまり、実行時間１３．５０秒の即ハズレの報知演出の演出パターンに対応する変動パターン；図１４等参照）であるか否かを判定する。ステップＳ７１０での判定がＹＥＳの場合、処理はステップＳ７１１に移り、この判定がＮＯの場合、処理はステップＳ７１８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0255">
+  ステップＳ７１１において、ＣＰＵ４０１は、演出乱数による抽選によって、今回の報知演出からキャラ紹介演出モードに突入させるか否かを決定する。具体的には、ＣＰＵ４０１は、直近の基本演出モードでの報知演出の連続実行回数（連続変動数）が多いほどキャラ紹介演出モードに突入させ易く、この連続実行回数が少ないほどキャラ紹介演出モードに突入させ難く設定された抽選テーブルを用いた演出乱数による抽選によって、今回の報知演出でキャラ紹介演出モードに突入させるか否かを決定する。例えば、ＲＯＭ４０３には図２５－１に示す第１抽選テーブル～第３抽選テーブルが記憶されており、ＣＰＵ４０１は、直近の基本演出モードでの報知演出の連続実行回数（直近のキャラ紹介演出モードが終了してからの基本演出モードでの回転数）が１～１００回転の場合には第１抽選テーブルを用い、この連続実行回数が１０１～２００回転の場合には第２抽選テーブルを用い、の連続実行回数が２０１回転以上の場合には第３抽選テーブルを用いて、演出乱数による抽選を行うことで、今回の報知演出でキャラ紹介演出モードに突入させるか否かを決定する。これにより、キャラ紹介演出モードに突入するまでの変動数のバラツキを適度に調整できる。なお、図２５－１に示す第１抽選テーブル～第３抽選テーブルを用いてキャラ紹介演出モードに突入させるか否かを決定する場合において、直近の基本演出モードでの報知演出の連続実行回数が例えば１～５０回転の場合には第１抽選テーブルを用いた抽選によってキャラ紹介演出モードに突入させると決定されても、キャラ紹介演出モードに突入させないように制御してもよい。又は、図２５－１に示す第１抽選テーブル～第３抽選テーブルを用いてキャラ紹介演出モードに突入させるか否かを決定する場合において、直近の基本演出モードでの報知演出の連続実行回数が例えば１～５０回転の場合には抽選を行うことなく一律にキャラ紹介演出モードに突入させないと決定し、この連続実行回数が５１～１００回転の場合に第１抽選テーブルを使用する制御を行ってもよい。これにより、５０回転まではキャラ紹介演出モードに突入しないようにできる。また、以上のように回転数に応じてキャラ紹介演出モードに突入させる割合を変化させるのではなく、例えば図２５－１の第２抽選テーブルだけを常に用いて（つまり、１つの抽選テーブルだけを記憶しておいて）一律の確率でキャラ紹介演出モードに突入させるか否かを決定してもよい。ステップＳ７１１での判定がＹＥＳの場合、処理はステップＳ７１２に移り、この判定がＮＯの場合、処理はステップＳ７１８に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0256">
+  ステップＳ７１２において、ＣＰＵ４０１は、演出乱数を用いた抽選により、キャラ紹
+介演出モードに突入させる今回の報知演出において表示するキャラクタを３つ選択する。図２７を用いて後述するが、キャラ紹介演出モードにおいて紹介されるキャラクタは多数（キャラＡ～Ｉ）あり、ＣＰＵ４０１は、キャラ紹介演出モードに突入させる報知演出において表示するキャラクタを３つ選択する。具体的には、キャラ紹介演出モードにおいて紹介される多数のキャラクタは、キャラＡ～Ｃの第１グループと、キャラＤ～Ｆの第２グループと、キャラＧ～Ｉの第３グループとに分けられており、ＣＰＵ４０１は、演出乱数を用いた抽選により、何れかのグループを選択することによって、キャラ紹介演出モードにおいて紹介されるキャラクタを３つ選択する。なお、この選択において、前回選択されたグループは選択され難くなるように制御してもよい。また、例えば、キャラ紹介演出モードにおいて紹介される多数のキャラクタは、１つずつ抽選によって選択されてもよい。この場合、既に選択されたキャラは、次の選択対象（抽選対象）から除外される制御が行われる。また、例えば、ＲＯＭ４０３に上記したキャラＡ～Ｉの情報が記憶されており、ＲＴＣ４０４による時間計測に基づいて、ステップＳ７０５で選択可能なキャラの範囲が当初のキャラＡ～Ｃから所定時間経過毎に（例えば、１週間経過毎に）所定数ずつ（例えば１つずつ）追加されるように制御されてもよい。また、例えば、ＲＯＭ４０３に上記したキャラＡ～Ｉの情報が記憶されており、ＲＴＣ４０４による時間計測に基づいて、ステップＳ７０５で選択する３つのキャラが、所定時間経過毎に（例えば、１週間経過毎に）、最も早い時期に選択可能になったキャラに代わって新たなキャラクタが選択可能となるように制御されてもよい（例えば、或る週にはキャラＡ～Ｃが選択される３つのキャラであり、次の週には最も早い時期に選択可能になったキャラＡの代わりにキャラＤが選択可能になるように、毎週、最先のキャラ１つが新しいキャラに更新されるように制御されてもよい）。この場合、ステップＳ７１２では、キャラを３つ選択するための抽選は実行されない制御構成となる。その後、処理はステップＳ７１３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0257">
+  ステップＳ７１３において、ＣＰＵ４０１は、キャラ紹介演出モードで今回の報知演出を実行し、又、ステップＳ７１２で決定した３つのキャラを用いてキャラ紹介演出モードへの突入を報知するモード突入演出（図２７参照）をこの報知演出で実行することを決定する。その後、処理はステップＳ７１４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0258">
+  ステップＳ７１４において、ＣＰＵ４０１は、キャラ紹介モードフラグをＯＮに設定する。その後、処理は図２３のステップＳ５０３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0259">
+  以上のステップＳ７１０～Ｓ７１４の処理によって、キャラ紹介演出モードが開始することとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0260">
+  ここで、図２７を用いて後述するが、キャラ紹介演出モードに突入する報知演出では３人のキャラが順番に登場して遊技者の操作によってキャラ紹介演出モードで紹介されるキャラが選択される。このため、キャラ紹介演出モードに突入する報知演出の実行時間は、或る程度長い必要がある。そこで、本実施形態では、１３．５０秒の変動パターンの場合に（ステップＳ７１０参照）キャラ紹介演出モードに突入し得る制御を行っている。また、今回の報知演出で大当りした場合には、今回の報知演出でキャラ紹介演出モードへの突入が報知されてから大当り遊技演出が実行されて、キャラ紹介演出モードに突入直後からキャラ紹介演出モードが中断してしまうので、本実施形態では、ハズレの場合に（ステップＳ７１０参照）キャラ紹介演出モードに突入し得る制御を行っている。なお、図２７を用いて具体的に後述するが、遊技者が演出ボタン３７を押下操作することによって３人のキャラ間で選択状態が切替わり、この選択演出に係る操作有効期間の終了時点において選択状態のキャラが、キャラ紹介演出モードで紹介されるキャラとして決定される。なお、他の実施形態としては、遊技者が演出キー３８を操作して３人のキャラ間で選択状態を移行させて演出ボタン３７の押下操作により紹介されるキャラを決定（確定）する制御構成としてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0261">
+  ステップＳ７１８において、ＣＰＵ４０１は、基本演出モードで今回の報知演出を実行することを決定する。その後、処理は図２３のステップＳ５０３に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0262">
+  ステップＳ７１５において、ＣＰＵ４０１は、今回のキャラ紹介演出モード開始から特定回転目の変動（報知演出）であるか否かを判定する。具体的には、ＣＰＵ４０１は、キャラ紹介演出モードが開始した変動からの回転数（変動数）をカウントしており、図２６を用いて後述するが、５変動目の報知演出、キャラ紹介演出モードが実行されている場合におけるその後の１０変動目毎の報知演出を、特定回転目の変動（報知演出）であると判定する。ステップＳ７１５での判定がＹＥＳの場合、処理はステップＳ７１６に移り、この判定がＮＯの場合、処理はステップＳ７１７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0263">
+  ステップＳ７１６において、ＣＰＵ４０１は、今回の報知演出において、キャラ紹介演出モード終了／継続選択演出の実行を決定する。図２８等を用いて具体的に後述するが、キャラ紹介演出モード終了／継続選択演出は、遊技者が演出ボタン３７を押下操作することによってキャラ紹介演出モードの終了又は継続を選択できる演出である。その後、処理はステップＳ７１７に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0264">
+  ステップＳ７１７において、ＣＰＵ４０１は、今回の報知演出をキャラ紹介演出モードで実行することを決定する。その後、処理はステップＳ７１４に移る。
+</base:Paragraphs>
+      <base:Paragraphs num="0265">
+  以上のステップＳ７１５～Ｓ７１７の処理によって、キャラ紹介演出モードにおいて、上記した特定回転目の変動で、キャラ紹介演出モード終了／継続選択演出が実行されてキャラ紹介演出モードの終了又は継続の選択が可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0266">
+  なお、以上では、上記した特定回転目の変動では必ずキャラ紹介演出モード終了／継続選択演出を実行する制御とした。しかし、他の実施形態では、上記した特定回転目の変動であっても、この変動の演出パターンが特定の演出パターン（例えば、ノーマルリーチ以上まで実行する演出パターン；図１４等参照）である場合には、キャラ紹介演出モード終了／継続選択演出を実行せずキャラ紹介演出モードの終了又は継続を選択できない制御構成としてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0267">
+  ここで、図２７～図２８を用いて具体的に後述するが、ステップＳ７１３で実行が決定されたキャラ紹介演出モードへの突入演出、および、ステップＳ７１６で実行が決定されたキャラ紹介演出モード終了／継続選択演出では、報知演出の実行中において、遊技者による演出ボタン３７の押下操作に応じて表示画像を選択（強調表示）する制御が行われる。この制御は、ランプ制御部６００および演出制御部４００を介して入力される演出ボタン３７の操作信号に応じて画像音響制御部５００が実行し、又、画像音響制御部５００その制御結果（何れの表示画像が選択されているかの情報を含む）を演出制御部４００に通知する（図４参照）。この様な制御によって、図２７～図２８等を用いて具体的に後述するように、報知演出の実行中の演出ボタン３７の押下操作に応じた制御が実現される。
+</base:Paragraphs>
+      <base:Paragraphs num="0268">
+［本実施形態において特徴的な演出モード切替え処理］
+  以下では、以上に説明した制御により実行される本実施形態において特徴的な演出モード切替え処理について、図２６～図３１を用いて具体的に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0269">
+  図２６は、通常遊技状態において、基本演出モードとキャラ紹介演出モードとの切り替えタイミングを説明するためのフローチャートである。なお、本実施形態において、報知演出のことを変動という場合がある。図２６に示すように、基本演出モードの変動から、キャラ紹介演出モードの変動に切替わった１回目の変動を、突入変動という。この突入変
+動において、キャラ紹介演出モードに突入したことを報知する演出（紹介キャラ選択演出；モード突入演出）が実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0270">
+  図２７は、キャラ紹介演出モードへの突入変動における紹介キャラ選択演出について具体的に説明するための図である。以下に、図２７を用いて、キャラ紹介演出モードへの突入変動における紹介キャラ選択演出について具体的に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0271">
+  まず、図２７（１）に示すように、キャラ紹介演出モードへの突入変動が開始されて、画像表示部６に装飾図柄ＤＩの変動表示が開始される。なお、図２７以降の図面では、下向きの矢印によって、装飾図柄ＤＩが変動表示されていることを示している。また、図２７以降の図面では、特別図柄抽選の保留を示す保留画像は省略している。
+</base:Paragraphs>
+      <base:Paragraphs num="0272">
+  次に、装飾図柄ＤＩが画面左下に縮小表示されて、図２７（２）に示すように１人目のキャラＡが表示され、その後、図２７（３）に示すように２人目のキャラＢが追加表示され、その後、図２７（４）に示すように３人目のキャラＣが追加表示される。
+</base:Paragraphs>
+      <base:Paragraphs num="0273">
+  次に、図２７（５）に示すように、遊技者に演出ボタン３７の押下操作を促すボタン画像ｂが表示されると共に、キャラＡ～Ｃのうちの１つが選択状態であることを示す強調表示態様で表示され、この強調表示態様での表示が演出ボタン３７の押下操作に応じてキャラＡ～Ｃの順番で循環的に切替わる。
+</base:Paragraphs>
+      <base:Paragraphs num="0274">
+  次に、この強調表示を切替える演出ボタン３７の押下操作を有効とする操作有効期間が終了すると、図２７（６）に示すように、この操作有効期間が終了したタイミングで演出ボタン３７を非表示にして強調表示されているキャラが選択されたことを示す演出を行う。図２７（６）では、キャラＢのみが表示されて、キャラＢが選択されたことが示されている。なお、ボタン画像ｂの近くには、上記した操作有効期間の残りが一目で分かる画像（ゲージ画像等）が表示されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0275">
+  次に、図２７（７）に示すように、キャラＢの選択に応じて、キャラＢを紹介するキャラ紹介演出モード（キャラＢを紹介する動画背景）の表示が開始される。なお、このタイミングで、画面左下に縮小表示されていた装飾図柄ＤＩは、画面中央に拡大表示されて、元の表示態様に戻る。
+</base:Paragraphs>
+      <base:Paragraphs num="0276">
+  次に、図２７（８）に示すように、装飾図柄ＤＩが全て完全に停止表示（確定停止）されて、突入変動において特別図柄抽選にハズレたことが演出的に報知される。なお、この装飾図柄ＤＩが全て完全に停止表示されている期間にも、キャラ紹介演出モード（キャラＢを紹介する動画背景）の表示は継続される。
+</base:Paragraphs>
+      <base:Paragraphs num="0277">
+  上記のように、突入変動では３人のキャラが順番に登場してから遊技者の操作によってキャラ紹介演出モードで紹介されるキャラが選択される。このため、既に説明したが、キャラ紹介演出モードに突入する報知演出の実行時間は、或る程度長い必要がある。そこで、本実施形態では、１３．５０秒の変動パターンの場合に（図２５のステップＳ７１０参照）キャラ紹介演出モードに突入し得る制御を行っている。また、仮に突入変動で大当りし得る制御構成にした場合には、この突入変動でキャラ紹介演出モードへの突入が報知されてから大当り遊技演出が実行されて、キャラ紹介演出モードに突入直後からキャラ紹介演出モードが中断してしまうので、本実施形態では、ハズレの場合に（図２５のステップＳ７１０参照）キャラ紹介演出モードに突入し得る制御を行っている。
+</base:Paragraphs>
+      <base:Paragraphs num="0278">
+  図２６の説明に戻り、突入変動からキャラ紹介演出モードが開始し、キャラ紹介演出モード開始から５変動目およびその後の１０変動目毎に（キャラ紹介演出モードにおける「
+特定回転目の変動」で）、キャラ紹介演出モード終了／継続選択演出を実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0279">
+  図２８は、キャラ紹介演出モード終了／継続選択演出を具体的に説明するための図である。図２９は、キャラ紹介演出モード終了／継続選択演出を具体的に説明するための図であり、ＳＰリーチ演出（特定の演出）が開始されてキャラ紹介演出モード終了／継続選択演出が終了する場合の具体例に説明するための図である。図３０は、図２８および図２９の具体例について示すタイムチャートである。以下に、図２８～図３０を用いて、キャラ紹介演出モード終了／継続選択演出について具体的に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0280">
+  まず、図２８（１）に示すように、キャラ紹介演出モードにおける特定回転目の変動（報知演出）の開始時から、演出ボタン３７の押下操作を促すボタン画像ｂと、［モード終了］画像ｃと、［モード継続］画像ｄとが表示される。ここで、これらの画像の表示開始時点において、［モード終了］画像ｃは、選択状態であることを示す強調表示態様で表示されている。そして、演出ボタン３７が押下操作された場合、この押下操作に応じて、強調表示態様の表示が［モード終了］画像ｃと［モード継続］画像ｄとの間で交互に切替わる。
+</base:Paragraphs>
+      <base:Paragraphs num="0281">
+  そして、図２８（２－１）に示すように、変動終了時点（報知演出終了時点）において、上記の強調表示態様を切替える操作を有効とする操作有効期間が終了し、このタイミングで［モード終了］画像ｃが選択状態（強調表示態様）である場合、図２８（３－１）に示すように、キャラ紹介演出モードを終了して、次の変動から基本演出モードに切替える。
+</base:Paragraphs>
+      <base:Paragraphs num="0282">
+  一方、図２８（２－２）に示すように、変動終了時点（報知演出終了時点）において、上記の強調表示態様を切替える操作を有効とする操作有効期間が終了し、このタイミングで［モード継続］画像ｄが選択状態（強調表示態様）である場合、図２８（３－２）に示すように、キャラ紹介演出モードを継続して次の変動を実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0283">
+  ここで、図２９を用いて、ＳＰリーチ演出が開始されてキャラ紹介演出モード終了／継続選択演出が終了する場合の具体例に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0284">
+  まず、図２９（１）に示すように、図２８（１）と同様に、キャラ紹介演出モードにおける特定回転目の変動（報知演出）の開始時に、演出ボタン３７の押下操作を促すボタン画像ｂと、強調表示態様の［モード終了］画像ｃと、［モード継続］画像ｄとが表示される。そして、演出ボタン３７が押下操作された場合、この押下操作に応じて、強調表示態様の表示が［モード終了］画像ｃと［モード継続］画像ｄとの間で交互に切替わる。
+</base:Paragraphs>
+      <base:Paragraphs num="0285">
+  その後、図２９（１）に示した変動において、リーチ成立してから第１ＳＰリーチ演出に発展して第１ＳＰリーチ演出が画面中央で大きく実行されると共に、装飾図柄ＤＩが画面左下に縮小表示される。このタイミングで、キャラ紹介演出モード終了／継続選択演出は終了してボタン画像ｂと［モード終了］画像ｃと［モード継続］画像ｄは非表示になって強調表示態様を切替える操作を有効とする操作有効期間が終了する。そして、この操作有効期間の終了タイミングで、［モード終了］画像ｃが選択状態（強調表示態様）である場合はキャラ紹介演出モードを終了して次の変動から基本演出モードに切替え、一方、［モード継続］画像ｄが選択状態（強調表示態様）である場合はキャラ紹介演出モードを継続して次の変動を実行する。
+</base:Paragraphs>
+      <base:Paragraphs num="0286">
+  次に、図３０を用いて、上記した図２８および図２９の場合のタイムチャートについて説明する。図３０（１）は、図２８の場合のタイムチャートであり、１３．５０秒の変動パターンに対応する即ハズレの報知演出の演出パターン（図１４等参照）においてキャラ
+紹介演出モード終了／継続選択演出が実行された場合について示している。この場合、図３０（１）に示すように、変動開始から変動停止（確定停止）まで、ボタン画像ｂと［モード終了］画像ｃと［モード継続］画像ｄが表示されて、キャラ紹介演出モード終了／継続選択演出が実行される。ここで、変動停止後において装飾図柄を規定時間（０．５秒）確定停止させる期間には、キャラ紹介演出モード終了／継続選択演出は実行されない。図３０（２）は、図２９の場合のタイムチャートであり、４０．０１秒の変動パターンに対応する第１ＳＰ当りの報知演出の演出パターン（図１４等参照）においてキャラ紹介演出モード終了／継続選択演出が実行された場合について示している。この場合、図３０（２）に示すように、変動開始からボタン画像ｂと［モード終了］画像ｃと［モード継続］画像ｄが表示されてキャラ紹介演出モード終了／継続選択演出が実行され、遊技者に大当りを期待させる第１ＳＰリーチ演出が開始されたタイミングでキャラ紹介演出モード終了／継続選択演出を終了している。
+</base:Paragraphs>
+      <base:Paragraphs num="0287">
+  以上に説明したように、本実施形態では、キャラ紹介演出モードを遊技者の操作によって終了させることができる。ここで、従来の遊技機では、抽選結果や遊技状態に応じて演出モードを切替える制御構成であったが、この制御では、遊技者が演出モードに飽きても自己の操作によって演出モードを終了することはできなかった。本実施形態によれば、キャラ紹介演出モードを遊技者の操作によって終了させることができるので、この問題を効果的に解消できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0288">
+  また、本実施形態では、キャラ紹介演出モード終了／継続選択演出の開始時において、［モード終了］画像ｃが強調表示されて選択状態に設定されている（図２８（１）参照）。このことから、キャラ紹介演出モード終了／継続選択演出の開始時から遊技者が演出ボタン３７を１回も押下操作しなかった場合、キャラ紹介演出モードは終了することになる。この様な制御構成とすることで、本実施形態によれば、キャラ紹介演出モードを継続したい遊技者だけが操作を行ってキャラ紹介演出モードを継続できるので、キャラ紹介演出モードに興味のない遊技者に操作の手間をかけさせることがない。
+</base:Paragraphs>
+      <base:Paragraphs num="0289">
+  また、本実施形態では、キャラ紹介演出モードが開始してから、特定回転目の報知演出において、キャラ紹介演出モード終了／継続選択演出を実行して遊技者がモード終了又はモード継続を選択可能に制御する（図２６参照）。この様な制御構成とすることで、本実施形態によれば、モード終了又はモード継続を選択可能な演出を各変動（全ての変動）で実行して遊技者に煩わしさを感じさせることを回避できる。一方で、本実施形態によれば、所定の回転毎にキャラ紹介演出モード終了／継続選択演出を実行して、遊技者がキャラ紹介演出モードを終了させることができる変動を設けて、キャラ紹介演出モードを終了させる機会を設けている。また、本実施形態では、キャラ紹介演出モードが開始してから４変動目までは、キャラ紹介演出モードの終了又は継続を選択できない構成として（図２６参照）、キャラ紹介演出モードがどの様な演出なのかを遊技者に十分見せてからキャラ紹介演出モードの終了又は継続を選択させる制御を行っている。
+</base:Paragraphs>
+      <base:Paragraphs num="0290">
+  また、本実施形態では、キャラ紹介演出モード終了／継続選択演出を実行する報知演出において、ＳＰリーチ演出等の遊技者の関心が高い演出を実行する場合には、ボタン画像ｂと、［モード終了］画像ｃおよび［モード継続］画像ｄを非表示にしてキャラ紹介演出モード終了／継続選択演出を終了する制御を行っている（図２９参照）。この様な制御構成とすることで、本実施形態によれば、ＳＰリーチ演出等の遊技者の関心が高い演出を妨げることを防止している。
+</base:Paragraphs>
+      <base:Paragraphs num="0291">
+［変形例］
+  なお、上記した本実施形態では、図２８（１）を用いて説明したように、キャラ紹介演出モード終了／継続選択演出の開始時において、［モード終了］画像ｃが強調表示されて
+選択状態に設定されている。しかし、例えば、図３１に示すように、キャラ紹介演出モード終了／継続選択演出の開始時において、［モード継続］画像ｄが強調表示されて選択状態に設定されているように制御してもよい。この様に制御することで、キャラ紹介演出モード終了／継続選択演出の開始時から遊技者が演出ボタン３７を１回も押下操作しなかった場合、キャラ紹介演出モードは継続することになるので、キャラ紹介演出モードを終了したい遊技者だけが操作を行ってキャラ紹介演出モードを終了することとなり、キャラ紹介演出モードを遊技者に長く見せたい場合には有効である。
+</base:Paragraphs>
+      <base:Paragraphs num="0292">
+  また、上記した本実施形態では、図３０（１）を用いて説明したように、装飾図柄の確定停止期間（０．５秒）は演出ボタン３７の操作有効期間にはしない構成例とした。しかし、装飾図柄の確定停止期間も演出ボタン３７の操作有効期間にしてもよい。このようにすることで、非常に短い変動パターン（例えば３秒；図１４参照）の報知演出においてキャラ紹介演出モード終了／継続選択演出が実行される場合に、遊技者が演出ボタン３７を操作可能な時間を少しでも長く確保できる。
+</base:Paragraphs>
+      <base:Paragraphs num="0293">
+  また、上記した本実施形態では、キャラを選択させるために或る程度の演出時間が必要なモード突入演出（紹介キャラ選択演出）をキャラ紹介演出モードの１回目の変動で実行するために、この１回目の変動の変動パターンを１３．５秒の変動パターン（即ハズレ）とした（図２４のＳ７０３参照）。しかし、例えば、この１回目の変動の変動パターンを、例えば、ノーマルリーチ以上の演出パターンに対応する変動パターンにして、演出時間を確保してもよい（図１４等参照）。更には、この１回目の変動の変動パターンを、例えば、ノーマルリーチ以上のハズレの演出パターンに対応する変動パターンにして、キャラ紹介演出モードに突入した直後にキャラ紹介演出モードが中断しないようにしてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0294">
+  また、上記した本実施形態において、例えば、キャラ紹介演出モードの５変動目（及び１５変動目）のキャラ紹介演出モード終了／継続選択演出の開始時には［モード継続］画像ｄが強調表示されて選択状態に設定され、その後のキャラ紹介演出モード終了／継続選択演出の開始時には［モード終了］画像ｃが強調表示されて選択状態に設定される制御を行ってもよい。これにより、キャラ紹介演出モードの継続される期間（変動数）の平均をコントロールできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0295">
+  また、上記した本実施形態において、キャラ紹介演出モード終了／継続選択演出の開始時には［モード終了］画像ｃが強調表示されて選択状態に設定され、キャラ紹介演出モード終了／継続選択演出において遊技者の操作によってモード継続が選択された場合には、その後のキャラ紹介演出モード終了／継続選択演出の開始時には［モード継続］画像ｄが強調表示されて選択状態に設定される制御を行ってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0296">
+  また、上記した本実施形態において、キャラ紹介演出モード終了／継続選択演出は、遊技者の関心の高いＳＰリーチ演出等の特定の演出（図２９（２）参照）が終了すると、再開されて、再び遊技者がキャラ紹介演出モードの終了又は継続を選択できるものとしてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0297">
+  また、上記した本実施形態において、キャラ紹介演出モードの５変動目以降の全ての変動において、キャラ紹介演出モード終了／継続選択演出を実行してキャラ紹介演出モードの終了又は継続を選択できるものとしてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0298">
+  また、上記した本実施形態において、キャラ紹介演出モード終了／継続選択演出を終了（又は中断）させる特定の演出は、カットイン予告演出、ノーマルリーチ演出、擬似変動演出における擬似変動実行を示唆する特定の図柄停止演出（又は特定の図柄停止を期待させる煽り演出）、ＳＰリーチ演出、ＳＰＳＰリーチ演出、大当りを報知する演出、ハズレ
+を報知する演出など、遊技者の興味の高い演出であればよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0299">
+  また、上記した本実施形態において、キャラ紹介演出モード終了／継続選択演出における操作有効期間は（図３０参照）、変動開始されてから所定時間経過後（例えば０．５秒後）から開始されてもよいし、又、変動停止前に終了してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0300">
+  また、上記した本実施形態において、キャラ紹介演出モード終了／継続選択演出が実行される特定回転数目の変動の実行時間を一定時間にするために、この特定回転数目の変動専用の変動パターン（例えば、２０秒の専用変動パターン）を設けてもよい（図１４等参照）。この場合には、図１３のステップＳ４０８の変動パターン選択処理においてこの特定回転数目の変動では、上記の専用の変動パターンが必ず選択される制御となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0301">
+  また、以上に説明した本実施形態及び変形例等に記載された様々な特徴を任意に組み合わせてもよいことは言うまでもない。
+</base:Paragraphs>
+      <base:Paragraphs num="0302">
+  また、上述したパチンコ遊技機１に設けられている各構成要素の形状、数、および設置位置等は、単なる一例に過ぎず他の形状、数、および設置位置であっても、本発明の範囲を逸脱しなければ本発明を実現できることは言うまでもない。また、上述した処理で用いられている数値等は、単なる一例に過ぎず他の数値であっても、本発明を実現できることは言うまでもない。
+</base:Paragraphs>
+      <base:Paragraphs num="0303">
+  以上、本発明を実施形態を用いて詳細に説明してきたが、前述の説明はあらゆる点において本発明の例示にすぎず、その範囲を限定しようとするものではない。本発明の範囲を逸脱することなく種々の改良や変形を行うことができることは言うまでもない。また、本明細書において使用される用語は、特に言及しない限り、当該分野で通常用いられる意味で用いられることが理解されるべきである。したがって、他に定義されない限り、本明細書中で使用される全ての専門用語および技術用語は、本発明の属する分野の当業者によって一般的に理解されるのと同じ意味を有する。矛盾する場合、本明細書（定義も含めて）が優先する。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0304">
+１…遊技機
+２…遊技盤
+４…表示器
+５…枠部材
+６…画像表示部
+７…可動役物
+８…盤ランプ
+２０…遊技領域
+２１…第１始動口
+２２…第２始動口
+２３…大入賞口
+２４…普通入賞口
+２５…ゲート
+２６…排出口
+２７…電動チューリップ
+３１…ハンドル
+３２…レバー
+３３…停止ボタン
+３４…取り出しボタン
+３５…スピーカ
+３６…枠ランプ
+３７…演出ボタン
+３８…演出キー
+３９…皿
+４３…錠部
+１００…メイン制御部
+１０１、２０１、３０１、４０１、５０１、６０１…ＣＰＵ
+１０２、２０２、３０２、４０２、５０２、６０２…ＲＯＭ
+１０３、２０３、３０３、４０３、５０３、６０３…ＲＡＭ
+１１１ａ…第１始動口スイッチ
+１１１ｂ…第２始動口スイッチ
+１１２…電動チューリップ開閉部
+１１３…ゲートスイッチ
+１１４…大入賞口スイッチ
+１１５…大入賞口開閉部
+１１６…普通入賞口スイッチ
+２００…発射制御部
+２１１…発射装置
+３００…払出制御部
+３１１…払出駆動部
+４００…演出制御部
+４０４…ＲＴＣ
+５００…画像音響制御部
+６００…ランプ制御部
+ＤＩ…装飾図柄
+ｂ…ボタン画像
+ｃ…［モード終了］画像
+ｄ…［モード継続］画像
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="108" wi="77" file="2016123886_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="33" wi="72" file="2016123886_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="49" wi="69" file="2016123886_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="119" wi="85" file="2016123886_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="43" wi="81" file="2016123886_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="87" wi="64" file="2016123886_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="57" wi="58" file="2016123886_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="103" wi="72" file="2016123886_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="87" wi="31" file="2016123886_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="121" wi="64" file="2016123886_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="66" wi="65" file="2016123886_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="123" wi="48" file="2016123886_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="120" wi="83" file="2016123886_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="104" wi="76" file="2016123886_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="103" wi="77" file="2016123886_000017.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="101" wi="74" file="2016123886_000018.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="81" wi="75" file="2016123886_000019.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0018">
+      <base:Image id="000020" he="101" wi="84" file="2016123886_000020.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0019">
+      <base:Image id="000021" he="55" wi="45" file="2016123886_000021.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0020">
+      <base:Image id="000022" he="96" wi="70" file="2016123886_000022.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0021">
+      <base:Image id="000023" he="92" wi="44" file="2016123886_000023.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0022">
+      <base:Image id="000024" he="90" wi="84" file="2016123886_000024.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0023">
+      <base:Image id="000025" he="97" wi="81" file="2016123886_000025.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0024">
+      <base:Image id="000026" he="78" wi="70" file="2016123886_000026.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0025">
+      <base:Image id="000027" he="58" wi="43" file="2016123886_000027.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0026">
+      <base:Image id="000028" he="74" wi="82" file="2016123886_000028.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0027">
+      <base:Image id="000029" he="96" wi="85" file="2016123886_000029.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0028">
+      <base:Image id="000030" he="116" wi="74" file="2016123886_000030.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0029">
+      <base:Image id="000031" he="99" wi="19" file="2016123886_000031.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0030">
+      <base:Image id="000032" he="120" wi="84" file="2016123886_000032.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0031">
+      <base:Image id="000033" he="93" wi="85" file="2016123886_000033.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0032">
+      <base:Image id="000034" he="68" wi="50" file="2016123886_000034.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0033">
+      <base:Image id="000035" he="48" wi="85" file="2016123886_000035.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0034">
+      <base:Image id="000036" he="32" wi="49" file="2016123886_000036.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  所定の領域を遊技球が通過することにより遊技情報を取得する取得手段と、
+  前記取得手段により取得された遊技情報に基づいて、特別遊技を実行するか否かを判定する特別遊技判定手段と、
+  演出図柄を変動表示させてから当該演出図柄を所定時間停止表示させ、当該停止表示させた演出図柄によって前記判定の結果を報知する報知演出を実行制御する報知演出制御手段と、
+  前記報知演出制御手段により実行制御される複数の報知演出に亘って継続可能である特定の演出モードを実行制御する演出モード制御手段と、
+  遊技者により操作される操作手段とを備え、
+  前記演出モード制御手段は、
+    特定条件が成立したか否かを判定する条件判定手段と、
+    前記条件判定手段により特定条件が成立したと判定された場合、当該特定条件が成立した前記報知演出において、前記特定の演出モードを終了させる前記操作手段への操作が可能であることを示す演出モード終了選択表示を表示する演出モード終了選択表示制御手段とを有し、
+  前記演出モード終了選択表示制御手段は、前記演出モード終了選択表示を表示する報知演出において前記演出図柄を停止表示している前記所定時間では、前記演出モード終了選択表示を非表示にし、
+  前記所定の領域に対する遊技球の通過状態に応じたレベルの信号を出力するスイッチ手段と、
+  前記スイッチ手段により出力される信号に基づいて、予め定められた間隔で繰り返し実行される反復処理により、前記所定の領域を遊技球が通過したか否かを判定する判定手段とを備え、
+  前記判定手段は、
+    前記スイッチ手段により出力された信号のレベルが所定の閾値レベルよりも第１方向に位置すると判定する第１判定、又は、当該信号のレベルが当該所定の閾値レベルまたは当該所定の閾値レベルよりも前記第１方向と反対の第２方向に位置すると判定する第２判定の何れかの判定を行う信号レベル判定手段と、
+    前記信号レベル判定手段により、第ｎ（ｎは自然数）回目の反復処理において前記第１判定が行われてから、第ｎ＋１回目の反復処理において前記第２判定が複数回行われると、前記所定の領域を遊技球が通過したと判定する通過判定手段とを有し、
+  前記信号レベル判定手段は、
+    １回の反復処理において前記第１判定を行うと、当該反復処理で更なる判定は行わず、
+    第ｎ回目の反復処理において前記第１判定を行ってから第ｎ＋１回目の反復処理において前記第２判定を行うと、当該反復処理で更に１回の判定を行う、遊技機。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000532179JP0002018504952A5FULJA20200611JP00J.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2018504952" kind="A5" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018504952</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018504952</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">特許法第17条の2の規定による補正の掲載</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>2018007</business:GazetteNumber>
+        <base:Date>00000000</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000532179</base:DocNumber>
+        <base:Date>00000000</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017532179</base:DocNumber>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>172</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M   5/172       20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61B   5/00        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>168</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M   5/168       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61M5/172 500</business:FI>
+      <business:FI type="secondary">A61B5/00 102A</business:FI>
+      <business:FI type="secondary">A61B5/00 G</business:FI>
+      <business:FI type="secondary">A61M5/168 550</business:FI>
+    </business:JPClassification>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T5</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+  </business:BibliographicData>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <base:Paragraphs num="0020">存储在存储器30中的处理器可执行指令的参考信号模块48控制在输液负荷测试期间在给予输液26之前从患者10的监测器40、42、44和46接收生理信号。 如下面更详细描述的,图2提供了经由监测器40、42、44、46接收的参考生理信号39、41、43、45的图示。 处理器可执行指令的参考特征计算器52便于根据参考生理信号48从与呼吸循环相关联的ABP、ECG或PPG的变化性导出或计算动态指标,即脉压变化性(PPV)、心搏量变化性(SVV)和收缩压变化性(SPV)。 根据一个实施例,动态指标计算如下：</base:Paragraphs>
+        <base:Paragraphs num="0027">处理器可执行指令的输液负荷测试特征计算器58便于从同步的输液负荷测试生理信号50从伴随呼吸循环的ABP、ECG或PPG的变化推导或计算动态指标,例如PPV、SVV、SPV、RRV和PVI。 输液负荷测试特征计算器58还可以从经由同步单元56输出的同步生理信号50计算各种特征,例如,体积测量二氧化碳描记图、从二氧化碳描记图导出的呼吸末CO2、从ABP导出的心输出量等。 输注液负荷测试特征计算器58被适当地配置成计算在输注液负荷测试的施用期间发生的呼吸循环的吸入部分82期间和呼吸循环的呼出部分80期间的动态测量值和/或特征。 在一个实施例中,所利用的动态指标和/或特征仅涉及在输注液负荷测试的给药期间的循环的吸气部分82或呼吸循环的呼气部分80。 也就是说,使用反映相关患者10的呼吸循环的吸入部分82的相应生理信号48和50来计算动态指标和/或特征52和58。 根据二氧化碳描记监测器40的操作来确定患者10的呼吸循环。</base:Paragraphs>
+      </business:Description>
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>至少一个处理器； 输注泵,其与所述至少一个处理器通信； 多个生理监测器,所述多个生理监测器可操作以从相关联的患者接收生理信号； 所述至少一个处理器被配置为： 根据在接收指示由所述输注泵输注输液的定时信号之前从所述患者获得的参考生理信号来计算一个或多个动态指标和/或特征； 从将用于输液负荷测试的输液输注到相关患者中的输液泵接收指示由输液泵输注输液的定时信号,使从相关患者获得的生理信号与输液泵的定时信号同步,根据同步的生理信号计算一个或多个动态指标和/或特征,并且基于来自同步的生理信号的一个或多个动态指标和/或特征以及来自参考生理信号的一个或多个动态指标和/或特征来计算所述患者的输液反应性概率值。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>根据权利要求1所述的系统,其中,所述至少一个处理器还被编程为响应于所述输注响应性概率值指示所述患者不响应于所述输注复苏而终止所述输注泵的操作。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>根据权利要求1所述的系统,其中,计算所述输液反应性概率值还包括将来自同步的生理信号的所述一个或多个动态指标和/或特征以及来自参考生理信号的所述一个或多个动态指标和/或特征输入到分类算法中。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>根据权利要求1至3中任一项所述的系统,其中,所述输液反应性概率值在表示无反应性的0与表示反应的1之间。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>根据权利要求4所述的系统,其中,所述至少一个处理器还被编程为将所计算的输液响应性概率值与预选阈值进行比较,并且其中,当所述输液响应性概率值大于或等于所述阈值时,确定相关患者对输液复苏做出响应。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>根据权利要求1所述的系统,其中,所述多个生理监测器包括二氧化碳描记监测器,并且其中,所述至少一个处理器被编程为基于来自所述二氧化碳描记监测器的生理信号来确定呼吸循环,并且在所述相关联的患者的呼吸循环的呼气部分期间计算来自同步的所述生理信号的所述一个或多个动态指标和/或特征以及来自所述参考生理信号的所述一个或多个动态指标和/或特征。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>根据权利要求1-6中的任一项所述的系统,其中,所述至少一个处理器被编程为响应于所计算的输液响应性概率值指示相关联的患者对输液复苏没有响应而生成警报。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>根据权利要求6所述的系统,其中,所述输注泵是快速输注泵,所述快速输注泵与所述生理信号同步并且仅在相关联的患者的呼吸循环的呼气部分期间输注输注。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>根据权利要求1-8中的任一项所述的系统,其中,所述多个生理监测器包括二氧化碳描记监测器、动脉血压(ABP)监测器、心电图(ECG)监测器、体积描记(PPG)监测器中的一个或多个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>根据权利要求1至9中任一项所述的系统,其中,所述动态指标包括脉压变动(PPV)、每搏输出量变动(SVV)、收缩压变动(SPV)、RR变动(RRV)和脉搏波变动指标(PVI)中的至少一个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>根据权利要求10所述的系统,其中,所述特征包括体积测量二氧化碳描记术、从二氧化碳描记术导出的呼吸末CO<base:Sub>2</base:Sub>和从ABP导出的心输出量中的至少一个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>如权利要求1～11中任一项所述的系统,其中,所述输液负荷试验是注入100ml的胶体1分钟以上的少量输液负荷试验。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>控制计算机和显示器, 根据在接收指示通过输注泵输注输液的定时信号之前从相关患者获得的参考生理信号来计算一个或多个动态指标和/或特征； 存储有指令的计算机介质,所述指令可执行以从相关患者的多个生理监测器接收多个生理信号,从输注泵接收指示由输注泵输注输注的定时信号,所述输注泵将输注输注用于相关患者的输注负荷测试,使定时信号与接收到的生理信号同步以生成同步生理信号,根据同步生理信号计算一个或多个动态指标和/或特征,以及基于来自同步生理信号的一个或多个动态指标和/或特征以及来自参考生理信号的一个或多个动态指标和/或特征来计算所述患者的输注响应性概率值。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>根据在接收指示通过输注泵输注输液的定时信号之前从相关患者获得的参考生理信号来计算一个或多个动态指标和/或特征； 从相关联的患者的多个生理监测器接收多个生理信号； 处理器,所述处理器被编程为从输注泵接收指示由所述输注泵输注所述输注的定时信号,所述输注泵将用于对所述相关患者的输注负荷测试的输注输注,使所述定时信号与所接收的生理信号同步以生成同步生理信号,根据同步生理信号计算一个或多个动态指标和/或特征,并且基于来自同步生理信号的一个或多个动态指标和/或特征以及来自参考生理信号的一个或多个动态指标和/或特征来计算所述患者的输注响应性概率值。</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

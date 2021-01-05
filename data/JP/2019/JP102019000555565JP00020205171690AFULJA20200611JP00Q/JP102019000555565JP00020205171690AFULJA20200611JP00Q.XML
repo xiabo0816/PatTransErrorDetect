@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000555565JP00020205171690AFULJA20200611JP00Q.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020517169" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020517169</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020517169</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000555565</base:DocNumber>
+        <base:Date>20180416</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019555565</base:DocNumber>
+        <base:Date>20180416</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>GB</base:WIPOST3Code>
+        <base:DocNumber>1706132.6</base:DocNumber>
+        <base:Date>20170418</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>GB</base:WIPOST3Code>
+        <base:DocNumber>002017001706132</base:DocNumber>
+        <base:Date>20170418</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>9</business:MainGroup>
+        <business:Subgroup>32</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04L   9/32        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>60</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F  21/60        20130101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>62</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F  21/62        20130101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>64</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F  21/64        20130101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H04L9/00 675Z</business:FI>
+      <business:FI type="secondary">G06F21/60 340</business:FI>
+      <business:FI type="secondary">G06F21/62 309</business:FI>
+      <business:FI type="secondary">G06F21/64</business:FI>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">安全なブロックチェーンベースのコンセンサス</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エヌチェーン  ホールディングス  リミテッド</base:Name>
+            <base:RegisteredNumber>318001991</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>AG</base:WIPOST3Code>
+              <base:Text>アンティグア・バーブーダ、  セントジョンズ、  ４４  チャーチ  ストリート、  フィッツジェラルド  ハウス</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ヒメネス－デルガド，ペドロ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>GB</base:WIPOST3Code>
+              <base:Text>イギリス国  シーエフ１０  ２エイチエイチ  カーディフ  チャーチル  ウェイ  チャーチル  ハウス  ７ス  フロア  アーカート－ダイクス  アンド  ロード  エルエルピー  内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>伊東  忠重</base:Name>
+            <base:RegisteredNumber>100107766</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>伊東  忠彦</base:Name>
+            <base:RegisteredNumber>100070150</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>大貫  進介</base:Name>
+            <base:RegisteredNumber>100091214</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>IB2018052619</base:DocNumber>
+        <base:Date>20180416</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018193355</base:DocNumber>
+        <base:Date>20181025</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>36</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>  コンピュータで実施される方法を提供することができる。コンピュータで実施される方法は、ｉ）ブロックチェーン・ネットワーク内のノードによって、トランザクションをコングレスプールにブロードキャストして、ノードのグループで形成されるコングレスに参加するステップと；ｉｉ）コングレスが要求者からのスクリプトを起動する要求を受け入れた後に、ノードによって、コングレスプールに関連する公開キーで暗号ロックされたブロックチェーン・トランザクションを準備するステップと；ｉｉｉ）グループの他のノードと協力するノードによって、トランザクションに関するトランザクションを使うための有効な暗号署名を協力して生成するステップと；ｉｖ）ブロックチェーン・トランザクションがロック解除された後に、複数の情報提供システムからデータを受信するステップと；ｖ）複数の情報提供システムから受信したデータの中心点を決定するステップと；ｖｉ）コングレスの他のノードと協力するノードによって、中心点に基づいてスクリプトを起動するステップと；を含む。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="66" wi="69" file="2020517169_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、概して、分散型台帳に関し、より具体的には、そのような分散型台帳に関連するスクリプトを起動するための方法及びシステムに関する。本発明は、分散型台帳で利用できない情報に基づいて、そのようなスクリプトを起動するのに特に適しているが、これに限定されるものではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0002">
+  この文書では、あらゆる形態の電子的なコンピュータベースの分散型台帳を含めるために「ブロックチェーン」という用語を使用している。これらの形態には、ブロックチェーン及びトランザクションチェーン技術、アクセス許可された台帳及びアクセス許可されていない台帳、共有台帳、及びそれらのバリエーションが含まれるが、これらに限定されるものではない。ブロックチェーン技術の最も広く知られている用途はビットコイン台帳であるが、他のブロックチェーン実施態様が提案され開発されている。本明細書では、便宜上及び例示の目的でビットコインについて参照しているが、本発明は、ビットコイン・ブロックチェーンでの使用に限定されるものではなく、代替のブロックチェーン実施態様及びプロトコルが本発明の範囲内にあることに留意されたい。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  ブロックチェーンはコンセンサスベースの電子台帳であり、この台帳はブロックで構成されるコンピュータベースの非中央型の分散システムとして実施され、ブロックはトランザクション及び他の情報で構成される。ビットコインの場合に、各トランザクションは、ブロックチェーン・システムの参加者同士の間でデジタル資産の制御（control：管理）の転送（transfer：移転）を符号化するデータ構造であり、各トランザクションには、少なくとも１つの入力と少なくとも１つの出力とが含まれる。各ブロックには以前のブロックのハッシュが含まれているため、これらブロックは、一緒にチェーンで繋がれており、その開始からブロックチェーンに書き込まれた全てのトランザクションの永続的な変更不可能なレコードを作成する。トランザクションには、それらの入力及び出力に埋め込まれたスクリプトとして知られている小さなプログラムが含まれており、スクリプトは、トランザクションの出力に誰がどの様にアクセスできるかを指定する。ビットコイン・プラットフォームでは、これらのスクリプトは、スタックベースのスクリプト言語を使用して記述される。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  トランザクションをブロックチェーンに書き込むためには、「検証」する必要がある。いくつかのネットワークノードはマイナー（採掘者：miners）として機能し、各トランザクションが有効であることを確認する作業を行い、無効なトランザクションはネットワークから拒否される。例えば、ノードにインストールされたソフトウェア・クライアントは、未使用（unspent）トランザクション出力（ＵＴＸＯ）を参照するトランザクションでこの検証作業を行う。検証は、そのロック及びロック解除スクリプトを実行することにより行われ得る。ロック及びロック解除スクリプトの実行がＴＲＵＥと評価され、且つ他の特定の条件（十分なマイニング料金を含める等）が満たされた場合に、トランザクションは有効であり、そのトランザクションをブロックチェーンに書き込むことができる。こうして、トランザクションをブロックチェーンに書き込むためには、そのトランザクションは、ｉ）トランザクションを受信するノードによって検証する（トランザクションが検証されると、ノードはその検証したトランザクションをネットワーク内の他のノードに中継する）；ｉｉ）マイナーによって構築された新しいブロックに追加する；ｉｉｉ）採掘する、つまり過去のトランザクションの公的な台帳に追加する必要がある。トランザクションは、トランザクションを実質的に不可逆にするために十分な数のブロックがブロックチェーンに追加されたときに確認されたとみなされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  ブロックチェーン技術は暗号通貨の実施態様の使用で最も広く知られているが、デジタル起業家は、ビットコインがベースとする暗号セキュリティシステムと、ブロックチェーンに保存して新しいシステムを実施できるデータとの両方の使用を模索し始めている。暗号通貨の領域に限定されない自動化されたタスク及びプロセスにブロックチェーンを使用できれば、非常に有利になろう。このようなソリューションによって、ブロックチェーンの利点（例えば、イベントの永続的な改ざん防止記録、分散処理等）を活用しながら、アプリケーションの用途を広げることができるだろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  ブロックチェーン技術は、スマートコントラクト（smart  contracts：契約の自動化）のプラットフォームを提供するために使用されてきた。スマートコントラクトは、契約の条件を実行するコンピュータ化されたトランザクション・プロトコルである。スマートコントラクトは、ブロックチェーンに実装されると、ブロックチェーンに保存され、且つブロックチェーン・トランザクションによってトリガーされるコンピュータ化されたプロトコルであり、このプロトコルは、実行時に、データをブロックチェーンに書き込むことができる。スマートコントラクトは、ブロックチェーンに実装されると、ブロックチェーン・ネットワークの全てのユーザに表示され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  スマートコントラクトは、大抵の場合、メッセージ又はトランザクションによってアクティブにする必要がある。つまり、スマートコントラクトは、典型的に、実行されるコードに関して外部エージェントによって突く（poked）必要がある。さらに、スマートコントラクトは、典型的に、ブロックチェーン自体の外部にある情報にアクセスすることができない。そのような情報へのアクセスの無い状態では、スマートコントラクトは、契約のどの条項を実行／施行すべきかを決定できない場合がある。このような外部情報を取得するために、信頼できる外部エージェントが、ブロックチェーンの外部にあり且つスマートコントラクトで必要とされる情報へのアクセスを提供するために時には使用される。信頼できる外部エージェントに依存すると、スマートコントラクトの自律性及び自己実施的な性質が低下する。信頼できる外部エージェントに依存すると、スマートコントラクトのセキュリティ及び有用性が低下する可能性がある。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:InventionSummary>
+      <base:Paragraphs num="0008">
+  こうして、本発明によれば、添付の特許請求の範囲に規定される方法が提供される。
+</base:Paragraphs>
+      <base:Paragraphs num="0009">
+  以下でより詳細に説明するように、ブロックチェーン・ネットワーク上でコングレス（congress：会議）を形成することができる。コングレスは、十分な出資金（stake）をコングレスに関連するプールに提出すると、ブロックチェーン・ネットワーク内の任意のノードが参加できるオープンメンバーシップ・グループである。例えば、ノードは、デジタル通貨（ビットコイン等）、トークン、又は他の出資金や対価等のデジタル資産を、コングレスに関連するアカウントに転送することで、コングレスに参加することができる。有利なことに、コングレスは、スマートコントラクト等のスクリプトを安全に起動するために使用され得る。例えば、コングレスは、外部ソースからのデータをスクリプトに確実に提供するために使用され得る。コングレスは、ノード同士の間のメッセージ交換が安全でない分散システムでコンセンサスに安全に達するために使用され得る。例えば、コングレスは、外部ソースからのデータをスクリプトに確実に提供することができ、コングレス内のノード同士の間の通信が安全でない場合でも、データを安全に提供することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+  従って、本発明によれば、コンピュータで実施される方法を提供することができる。コンピュータで実施される方法は、ｉ）ブロックチェーン・ネットワーク内のノードによって、トランザクションをコングレスプールにブロードキャストして、ノードのグループで形成されるコングレスに参加するステップと；ｉｉ）コングレスが要求者からのスクリプトを起動する要求を受け入れた後に、ノードによって、コングレスプールに支払うトランザクションを準備するステップであって、トランザクションは、複数の情報提供システムがトランザクションに入力を追加できるように構成される、準備するステップと；ｉｉｉ）入力がトランザクションに追加された後に、グループの他のノードと協力するノードによって、トランザクションに関するトランザクションを使う（spend）ための有効な署名を協力して生成するステップと；ｉｖ）トランザクションが使われた後に、複数の情報提供システムからデータを受信するステップと；ｖ）複数の情報提供システムから受信したデータの中心点（centre  point）を決定するステップと；ｖｉ）コングレスの他のノードと協力するノードによって、中心点に基づいてスクリプトを起動するステップと；を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  いくつかの実施態様では、コンピュータで実施される方法が提供される。コンピュータで実施される方法は、ｉ）ブロックチェーン・ネットワーク内のノードによって、トランザクションをコングレスプールにブロードキャストして、ノードのグループで形成されるコングレスに参加するステップと；ｉｉ）コングレスが要求者からのスクリプトを起動する要求を受け入れた後に、ノードによって、コングレスに関連する公開キーで暗号ロックされたブロックチェーン・トランザクションを準備するステップであって、ブロックチェーン・トランザクションは、複数の情報提供システムがブロックチェーン・トランザクションに入力を追加できるように構成される、準備するステップと；ｉｉｉ）入力がブロックチェーン・トランザクションに追加された後に、グループの他のノードと協働するノードによって、ブロックチェーン・トランザクションの有効な暗号署名を協力して生成し、ブロックチェーン・トランザクションをロック解除するステップと；ｉｖ）トランザクションがロック解除された後に、複数の情報提供システムからデータを受信するステップと；ｖ）複数の情報提供システムから受信したデータの中心点を決定するステップと；ｖｉ）コングレスの他のノードと協力するノードによって、中心点に基づいてスクリプトを起動するステップと；を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  いくつかの実施態様では、コンピュータで実施される方法は、ｉ）中心点に基づいて、ノードによって、中心点付近のデータを提供した情報提供システムのサブセットを特定するステップと；ｉｉ）グループの他のノードと協力するノードによって、サブセット内の各情報プロバイダー（つまり、サブセット内の各情報提供システム）へのデジタル資産（つまり、トークン）の転送を許可するステップと；を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  いくつかの実施態様では、転送に含まれるデジタル資産（つまり、トークン）には、要求者からコングレスプールに受け取られた１つ又は複数のデジタル資産（つまり、トークン）が含まれる。いくつかの実施態様では、要求にはしきい値インジケータが含まれ、サブセットは、しきい値インジケータに基づいて特定される。しきい値インジケータは、要求者から受信することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  いくつかの実施態様では、トランザクションへの入力（つまり、ブロックチェーン・トランザクションへの入力）には、それぞれのプルーフオブソリューションデータ（proof  of  solution  data）が含まれ、方法は、プルーフオブソリューションデータに基づいて、情報提供システムの少なくとも１つから受信したデータが、コミットされたソリューションに対応することを判定するステップを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  いくつかの実施態様では、トランザクションへの入力（つまり、ブロックチェーン・トランザクションへの入力）には、それぞれのプルーフオブソリューションデータが含まれ、方法は、ｉ）情報提供システムの少なくとも１つから受信したデータが、その情報提供システムから受信したプルーフオブソリューションデータと対応（一致）していないと判定するステップと；ｉｉ）情報提供システムの少なくとも１つから受信したデータが、プルーフオブソリューションデータに基づいて、コミットされたソリューションに対応していないと判定された場合に、データを破棄するステップと；をさらに含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  いくつかの実施態様では、トランザクションへの入力には、保証金として保持される（つまり、保証のためにロックされる）デジタル資産（つまり、トークン）が含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  いくつかの実施態様では、情報提供システムは、トランザクション（つまり、ブロックチェーン・トランザクション）に、公開キー、要求に対するソリューション、及びソルト（salt）に基づくハッシュを含む。いくつかの実施態様では、複数の情報提供システムから受信したデータには、公開キー、要求に対するソリューション、ソルトが含まれる。この方法は、ｉ）公開キー、要求に対するソリューション、及びソルトに基づいてハッシュを生成するステップと；ｉｉ）生成されたハッシュと、トランザクション（つまり、ブロックチェーン・トランザクション）に含まれるハッシュとを比較するステップと；をさらに含むことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  いくつかの実施態様では、コンピュータで実施される方法は、ｉ）悪意のある関係者による悪意のある活動を検出するステップであって、悪意のある関係者はコングレスのノードのうちの１つである、検出するステップと；ｉｉ）秘密キーシェアを使用して、悪意のある関係者によってコングレスプールに以前に転送されたデジタル資産（つまり、トークン）の少なくとも一部を没収するステップと；をさらに含む。没収するステップには、支出不能（unsepndable）アカウントに転送するステップが含まれ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  本発明によれば、電子装置を提供することができる。電子装置は、インターフェイス装置、インターフェイス装置に結合されたプロセッサ、及びプロセッサに結合されたメモリを含む。メモリは、実行されると、本明細書で説明する方法を実行するようにプロセッサを構成するコンピュータ実行可能命令を格納している。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  本発明によれば、コンピュータ可読記憶媒体を提供することができる。コンピュータ可読記憶媒体は、実行されると、本明細書で説明する方法を実行するようにプロセッサを構成するコンピュータ実行可能命令を含む。
+</base:Paragraphs>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0021">
+  本発明のこれら及び他の態様は、本明細書で説明する実施形態から明らかとなり、この実施形態を参照して説明される。ここで、本発明の実施形態を、単なる例として、添付の図面を参照して説明する。
+
+<base:FigureReference num="0001">例示的なブロックチェーン・ネットワークのブロック図である。</base:FigureReference><base:FigureReference num="0002">ブロックチェーン・ネットワーク内のノードとして機能し得る例示的な電子装置のブロック図である。</base:FigureReference><base:FigureReference num="0003">コングレスを開始する例示的な方法のフローチャートである。</base:FigureReference><base:FigureReference num="0004">コングレスに参加する例示的な方法のフローチャートである。</base:FigureReference><base:FigureReference num="0005">デジタル資産を没収する例示的な方法のフローチャートである。</base:FigureReference><base:FigureReference num="0006">キーシェアを再配信する例示的な方法のフローチャートである。</base:FigureReference><base:FigureReference num="0007">キーシェアを再配信する更なる例示的な方法のフローチャートである。</base:FigureReference><base:FigureReference num="0008">預入金を返却する例示的な方法のフローチャートである。</base:FigureReference><base:FigureReference num="0009">例示的なブロックチェーン・ネットワークのブロック図である。</base:FigureReference><base:FigureReference num="0010">スクリプトの起動を要求する例示的な方法のフローチャートである。</base:FigureReference><base:FigureReference num="0011">スクリプトの起動を要求する例示的な方法のフローチャートである。</base:FigureReference></base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0022">
+  ブロックチェーン・ネットワーク
+
+  最初に図１を参照すると、この図は、ブロックチェーンに関連する例示的なブロックチェーン・ネットワーク１００をブロック図形式で示す。ブロックチェーン・ネットワークは、パブリック・ブロックチェーン・ネットワークとすることができ、このネットワークは、招待を受けずに又は他のメンバーの同意なしに、誰でも参加できるピアツーピアのオープンメンバーシップ・ネットワークである。ブロックチェーン・ネットワーク１００が動作するブロックチェーン・プロトコルのインスタンスを実行する分散型電子装置は、ブロックチェーン・ネットワーク１００に参加することができる。そのような分散型電子装置は、ノード１０２と呼ばれ得る。ブロックチェーン・プロトコルは、例えば、ビットコイン・プロトコルであってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  ブロックチェーン・プロトコルを実行し、且つブロックチェーン・ネットワーク１００のノード１０２を形成する電子装置は、例えば、デスクトップコンピュータ、ラップトップコンピュータ、タブレットコンピュータ、サーバ等のコンピュータ、スマートフォン等のモバイル装置、スマートウォッチ等のウェアラブルコンピュータ、又は他の電子装置等を含む様々なタイプの装置であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  ブロックチェーン・ネットワーク１００のノード１０２は、有線及び無線通信技術を含み得る適切な通信技術を使用して互いに結合される。このような通信は、ブロックチェーンに関連するプロトコルに準拠している。例えば、ブロックチェーンがビットコイン・ブロックチェーンである場合に、ビットコイン・プロトコルを使用することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  ノード１０２は、ブロックチェーンの全てのトランザクションのグローバル台帳を維持する。こうして、グローバル台帳は分散型台帳である。各ノード１０２は、グローバル台帳の完全なコピー又は部分的なコピーを保存することができる。プルーフオブワーク（proof  of  work：作業証明）により保証されたブロックチェーンの場合に、グローバル台帳に影響を与えるノード１０２によるトランザクションは、グローバル台帳の有効性が維持されるように他のノード１０２によって検証される。ブロックチェーンがプルーフオブワークベースのブロックチェーンである場合に、ブロックとともに送信されたプルーフオブワークをチェックすることでブロックも検証される。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  ノード１０２の少なくともいくつかは、ブロックチェーン・ネットワーク１００のマイナー１０４として動作する。図１のブロックチェーン・ネットワーク１００は、マイナー１０４がブロックチェーン上でのトランザクションを促進するために費用のかかる計算を行うプルーフオブワーク・ブロックチェーンである。例えば、プルーフオブワーク・ブロックチェーンでは、マイナーが暗号問題を解く必要があり得る。ビットコインでは、マイナー１０４は、ブロックヘッダーをＳＨＡ－２５６でハッシュして、現在の困難性により規定される値よりも小さい数になるようにナンス（nonce）を見つける。プルーフオブワーク・アルゴリズムに必要なハッシュ能力は、トランザクションが、特定の数のブロックがその上部でマイニングされた後に、実質的に不可逆とみなされることを意味する。暗号問題を解くマイナー１０４は、ブロックチェーンに新しいブロックを作成し、この新しいブロックを他のノード１０２にブロードキャストする。他のノード１０２は、マイナー１０４が実際に暗号問題を解き、従って、ブロックをブロックチェーンに追加すべきことを受け入れる前に、十分なプルーフオブワーク（作業証明）を実証したことを検証する。ブロックは、ノード１０２のコンセンサスによってブロックチェーン（つまり、グローバル分散型台帳）に追加される。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  マイナー１０４によって作成されたブロックは、ノード１０２によってブロックチェーンにブロードキャストされたトランザクションを含む。例えば、ブロックは、あるノード１０２に関連するアドレスから別のノード１０２に関連するアドレスへのトランザクションを含み得る。このように、ブロックはあるアドレスから別のアドレスへのトランザクションの記録として機能する。トランザクションをブロックに含めるように要求する関係者（party）は、公開キー（public  key）に対応する秘密キー（private  key）を使用してその要求に署名することにより、転送を開始する（例えば、ビットコインの場合に、ビットコインを使う等）権限があることを証明する。その要求が有効に署名されている場合にのみ、その転送（トランザクション）がブロックに追加され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  ビットコインの場合に、公開キーとアドレスとの間には１対１の対応関係がある。つまり、各公開キーは単一のアドレスに関連付けられる。こうして、ここでの公開キーとの間のデジタル資産の移転（例えば、公開キーへの支払い）及びその公開キーに関連するアドレスとの間のデジタル資産の移転への言及は、一般的な動作を指す。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  ノード１０２のいくつかは、マイナーとして動作せず、代わりに検証ノードとして参加し得る。トランザクションの検証には、署名の照合、有効なＵＴＸＯへの参照の確認等が含まれ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  図１の例は、６つのノード１０２を含み、そのうちの２つがマイナー１０４として参加している。実際には、ノード１０２又はマイナー１０４の数は異なっていてもよい。多くのブロックチェーン・ネットワークでは、ノード１０２及びマイナー１０４の数は、図１に示されている数よりはるかに多くてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  以下で説明するように、様々なノード１０２が協力して、本明細書でコングレス１１０と呼ばれるグループを形成することができる。図示の例では、３つのノード１０２がコングレス１１０に参加するものとして示されている。しかしながら、コングレス１１０の実際のメンバーははるかに多くてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  コングレス１１０は、コングレス１１０に関連するプールに十分な出資金を提出すると、ノード１０２が参加することができるオープンメンバーシップ・グループである。例えば、ノードは、デジタル通貨（ビットコイン等）、トークン、又は他の出資金や対価等のデジタル資産を、コングレス１１０に関連するアカウントに転送することで、コングレスに参加することができる。コングレスに参加するノード１０２は、マイニングノードと非マイニングノードとの両方を含む、ブロックチェーン・ネットワーク内のノードであり得る。コングレスの少なくともいくつかのアプリケーションでは、コングレス・メンバーとして機能するノードは、完全なブロックチェーンをダウンロードする（ただし、必ずしも保持する必要はない）という意味でブロックチェーンを監視する。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  コングレス１１０への加入、退会、及び参加の手法については、以下でより詳細に説明する。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  ノードとして動作する電子装置
+
+  図２は、ピアツーピア・ブロックチェーン・ネットワーク１００（図１）においてノード１０２（図１）として機能し得る例示的な電子装置２００のコンポーネントを示すブロック図である。例示的な電子装置２００は、処理装置とも呼ばれ得る。電子装置は、例えば、デスクトップコンピュータ、ラップトップコンピュータ、タブレットコンピュータ、サーバ、スマートフォン等のモバイル装置、スマートウォッチ等のウェアラブルコンピュータ、又は別のタイプの形式を含む様々な形態を取ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  電子装置２００は、プロセッサ２１０、メモリ２２０、及びインターフェイス装置２３０を含む。これらのコンポーネントは、互いに直接又は間接的に結合してもよく、互いに通信してもよい。例えば、プロセッサ２１０、メモリ２２０、及びインターフェイス装置２３０は、バス２４０を介して互いに通信することができる。メモリ２２０は、本明細書で説明する機能を実行するための機械可読命令及びデータを含むコンピュータソフトウェアプログラムを格納する。例えば、メモリは、プロセッサ２１０によって実行されると、電子装置に本明細書で説明する方法を実行させるプロセッサ実行可能命令を含み得る。プロセッサ実行可能命令は、プロセッサ２１０によって実行されると、電子装置にブロックチェーン・ネットワーク１００（図１）に関連するプロトコルを実装させる命令を含み得る。例えば、命令には、ビットコイン・プロトコルを実装するための命令が含まれ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  メモリ２２０は、ブロックチェーン・ネットワーク１００（図１）のグローバル台帳又はその一部を格納してもよい。つまり、メモリ２２０は、ブロックチェーンの全てのブロック、又は最新のブロック等のブロックの一部、又はいくつかのブロックにおける情報の一部を格納することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  図２では、メモリ２２０が単一のブロックで示されているが、実際には、電子装置２００は、複数のメモリ・コンポーネントを含んでもよい。メモリ・コンポーネントは、例えば、ＲＡＭ、ＨＤＤ、ＳＳＤ、フラッシュドライブ等を含む様々なタイプのものであってもよい。異なるタイプのメモリが異なる目的に適している場合がある。さらに、メモリ２２０がプロセッサ２１０とは別に示されているが、プロセッサ２１０は埋込み型メモリを含んでもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  図２に示されるように、プロセッサ２１０は、信頼できる実行環境（ＴＥＥ）２５０等の安全な領域を含むことができる。ＴＥＥ２５０は、隔離され状態での実行、信頼できるアプリケーションの統合、資産の機密性等の追加のセキュリティを電子装置２００に提供する隔離された実行環境である。ＴＥＥ２５０は、ＴＥＥ２５０内にロードされたコンピュータ命令及びデータが機密性及び完全性の観点から保護されることを保証する実行空間を提供する。ＴＥＥ２５０は、キー等の重要なリソースの完全性及び機密性を保護するために使用され得る。ＴＥＥ２５０は、少なくとも部分的にハードウェアレベルで実装されるため、ＴＥＥ２５０内で実行される命令及びデータは、電子装置２００の残りの部分からの及び電子装置の所有者等の外部関係者からのアクセス及び操作に対して保護される。ＴＥＥ２５０内のデータ及び計算は、ＴＥＥ２５０を含むノード１０２を操作する関係者からセキュリティ保護される。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  ＴＥＥ２５０は、累積的にハッシュしながら、エンクレーブ（enclave：飛び地）をインスタンス化し、メモリのページを一度に１つずつ追加するように動作し得る。同様の動作をリモートマシン（開発マシン又は別のマシンであり得る）でも実行することができるので、リモートマシンは、予想されるハッシュを決定して保存する。従って、エンクレーブの内容をリモートマシンで検証して、エンクレーブが承認済みアルゴリズムを実行していることを確認することができる。この検証は、ハッシュを比較することで行うことができる。エンクレーブが完全に構築されると、そのエンクレーブはロックダウン（locked  down）される。ＴＥＥ２５０でコードを実行し、コードにシークレットを送信することは可能であるが、コードを変更することはできない。最終的なハッシュは、認証キーによって署名され、データ所有者がエンクレーブにシークレットを送信する前に検証するためにデータ所有者がその認証キーを利用できるようにし得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  ＴＥＥ２５０は、コングレス１１０（図１）によって使用されるコングレス公開キーに関連する秘密キーシェアの機密性及び完全性を保護するために使用され得る。例えば、ＴＥＥ２５０は、秘密キーシェアの生成及び保存に使用され得る。ＴＥＥ２５０は、ＴＥＥ２５０エンクレーブ内に保持されている秘密キーシェア、又はメンバー間通信又はエンクレーブ間通信から他の秘密キーシェアに関する情報を、メンバーが直接的に取得できないようにすることを目的としている。このプロトコルは、エンクレーブのしきい値の危殆化（compromise）に対しても堅牢である。さらに、ＴＥＥ２５０は、ノード１０２（図１）によって使用され得るリモート認証を可能にし、ＴＥＥ２５０が真正であり、コングレス１１０によって実施されるプロトコル用の承認されたコンピュータ実行可能命令を実行していることを他のノード１０２に証明することができる。コードの特定の一部を実行し、エンクレーブの内部認証キーで署名されたエンクレーブの内部のコードのハッシュを送信することにより、ＴＥＥ２５０によってリモート認証が提供され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  ＴＥＥ２５０は、電子装置２００上で秘密キーシェアを以前に使用したコングレス１１０のメンバーがコングレスを退会することを選択したときに、秘密キーシェアの削除を保証するために使用され得る。電子装置２００は、ＴＥＥ２５０で提供されるリモート認証プロトコルを介して削除の証明を他のコングレス・メンバーに提供することができる。メンバーが自分のメンバー預入金（deposit）を引き出すことを許可される前に、削除の証明が必要とされ得る。つまり、預入金の返却は、メンバーのエンクレーブ内に保持されている秘密キーシェアの削除の証明を条件とする場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  ＴＥＥ２５０は、ＴＥＥのエンクレーブの内部にある安全な（secure）乱数発生器を装備することができ、この乱数発生器を使用して、秘密キー、ランダムチャレンジ（random  challenges）、又は他のランダムデータを生成することができる。ＴＥＥ２５０は、外部メモリからデータを読み出すように構成することもでき、且つ外部メモリにデータを書き込むように構成することができる。このようなデータは、エンクレーブ内でのみ保持される秘密キーで暗号化され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  ＴＥＥ２５０は、Trusted  Platform  Module（ＴＰＭ）やIntel  Software  Guard  Extensions（ＳＧＸ）等の様々なプラットフォームを使用して実装することができる。例えば、ＳＧＸはリモート認証をサポートする。これにより、エンクレーブが、特定のエンクレーブを実行しているプロセッサからクォート（quote）と呼ばれる所与のメンバーが有している署名付きステートメントを取得することができる。Intel  Attestation  Service（ＩＡＳ）等の第三者認証サービスは、これらの署名付きステートメントがＳＧＸ仕様に準拠した真正のＣＰＵからのものであることを証明し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  電子装置２００は、ブロックチェーン・ネットワーク１００（図１）内のノード１０２（図１）として機能し、コングレス１１０（図１）に参加し、そうでなければ加わることができる。コングレス１１０は、デジタル資産所有者のグループが、ブロックチェーン・ネットワーク１００（図１）によってサポートされるデジタル通貨、トークン、又は他の出資金や対価等のデジタル資産をプールするときに形成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  コングレス及びしきい値署名
+
+  コングレス１１０は、認可されたグループでも認可されていないグループでもよい。つまり、コングレス１１０には、ブロックチェーン・ネットワーク１００（図１）内の任意のノード１０２（図１）が（すなわち、ブロックチェーン内の情報の少なくとも一部を監視及び格納する任意のノードが）参加することができる。コングレス１１０に参加するために、ノード１０２は、１つ又は複数のデジタル資産をコングレス１１０に関連するデジタル資産プールに（すなわち、１つ又は複数のデジタル資産に関連付けられ、次にコングレスの他のメンバーに関連付けられた公開グループアドレスに）転送する。このデジタル資産プールは、コングレスプールと呼ばれ得る。例えば、ノード１０２は、そのようなデジタル資産をコングレスプールに関連するアドレス（すなわち、公開グループアドレスとも呼ばれ得る「コングレスアドレス」）に転送する（すなわち、預け入れる）ことにより、コングレス１１０に参加することができる。デジタル資産は、コングレス公開キーと呼ばれる単一の公開キーを有するグループしきい値署名の管理下に置かれる。コングレス・メンバーは、分配的に生成された秘密キーシェアを保持している。保持シェア数は、プールに預け入れられた金額に比例し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  コングレス１１０によって管理されるデジタル資産は、コングレスアドレスに転送されるデジタル資産を含み、しきい値署名方式の管理下に置かれる。しきい値署名方式では、デジタル資産をコングレス１１０の管理から離すように転送するのを可能にする有効な署名を生成するためには、秘密キーシェアの合計保有量がしきい値を超えるメンバーのグループが必要である。つまり、少なくともしきい値数の秘密キーシェアを使用して、コングレス１１０が管理するデジタル資産の支出（outgoing）転送のための有効な署名を生成する必要がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  コングレス公開キーは、秘密キーシェアと引き換えに、コングレス１１０のメンバーによってコングレスプールに預け入れられたデジタル資産、及びコングレス１１０のメンバー又は非メンバーによってコングレスプールに関連するアドレスに預け入れられた（つまり、コングレスの完全、部分、又は条件付き管理下に置かれた）（秘密キーシェアの取得以外の理由で預け入れられた）デジタル資産を制限する（encumber）。非メンバー又はメンバーは、様々な理由でコングレスに関連するアドレスにデジタル資産を預け入れることができる。以下でより詳細に説明する一例では、メンバー又は非メンバーは、デジタル資産をコングレス１１０に預け入れて、そのような資産を別のブロックチェーン（サイドチェーン等の代替チェーン（alt-chain）と呼ばれ得る）に移動させることができる。サイドチェーンは、メインブロックチェーンと並行して（つまり、メインチェーンと並行して）実行されるブロックチェーンであり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  同じコングレス公開キーが、メンバー預入金（すなわち、秘密キーシェアと引き換えにコングレス・メンバーによって提供されるデジタル資産）と、他の目的でメンバー又は非メンバーによって提供されるデジタル資産との両方を管理する場合があるため、預入金の種類を示すために、コングレスに関連するアドレスに対する少なくとも一部の預入金に特別なフラグを立てる場合がある。例えば、デジタル資産をコングレスアドレスに転送するトランザクションには、行われている預入金の性質を示すフラグ、識別子、又は他の属性が含まれる場合がある。例として、コングレスへの参加又はコングレス構成員の出資金を増やす目的で行われていないデジタル資産をコングレスアドレスに転送するトランザクションには、別の目的で預け入れが行われていることを示す特別な識別子が含まれる場合がある。そのような識別子は、秘密キー生成を管理するときに、コングレス１１０に関連するノード１０２によって使用され得る。より具体的には、グループに参加する目的でデジタル資産を預け入れるノード１０２には、コングレス１１０の秘密キーシェアが（デジタル資産の預け入れの結果として）割り当てられる一方、他の目的で（例えば、サイドチェーンに転送するために）デジタル資産を預け入れた他のノード１０２は、コングレスのコングレス秘密キーシェア（つまり、コングレス公開キーに対応する）を保持していない可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  コングレス１１０は、メンバー預入金の全部又は一部を没収するという脅しによって協力的な行動が実施される自治グループとして機能を果たすことができる。多くの誠実なメンバーが協力的なプロトコルに参加することにより、非協力的な又は悪意のあるメンバーのそのようなデジタル資産を没収することができる。すなわち、全てのノード１０２が予め規定されたプロトコル又は基準に準拠して動作することを保証するために、コングレスプールへのメンバー預入金は没収の対象となり得る。没収とは、没収されたとみなされるメンバー預入金の返却を永久に阻止することを意味する。悪意のある活動のために返却されない、メンバー預入金を形成するデジタル資産は、コングレスプールに残され得るが、返却されず（例えば、返却すべきでないというコンセンサスが（Ａｌｔチェーンで）得られた場合に）、即時又は将来的に支出不能アドレスに転送され、又はそうでなければ没収され場合がある。没収の性質は、コングレスがサイドチェーンの留め置き検証（bonded  validator）セットとして機能するかどうかによって異なり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  さらに、コングレス・メンバーがコングレス１１０から退会したい場合に、メンバーは自分のメンバー預入金を引き出すことができる（つまり、コングレス１１０がメンバー預入金をそのメンバーの個人アドレスに戻すことを要求する）。ただし、資金の引出しは、有効なデジタル署名を生成するために必要なしきい値を超える数の秘密キーシェアが、引出しを承認するグループ（つまり、コングレス）のメンバーによって使用される場合にのみ、実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  コングレス１１０によって実施されるしきい値署名方式は、様々なタイプのものであり得る。しきい値署名方式は、有効な署名の生成に少なくともしきい値数の秘密キーシェアが寄与している限り、ｎ人の関係者の間で署名能力を共有することを可能にする。しきい値より小さいサブセットは、有効な署名を生成することができない。より具体的には、各関係者は秘密署名キーの共有を管理し、部分的な署名を組み合わせて有効な署名を生成するには、しきい値数のキーシェアを使用しなければならない。しきい値未満のキーシェアのサブセットは、有効な署名を生成することができない。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  しきい値署名方式は、楕円曲線デジタル署名アルゴリズム（ＥＣＤＳＡ）方式であり得る。例えば、ＥＣＤＳＡ方式は、Ibrahimらによって、“A  robust  threshold  elliptic  curve  digital  signature  providing  a  new  verifiable  secret  sharing  scheme”,  2003  EIII  46<base:Sup>th</base:Sup>  Midwest  Symposium  on  Circuits  and  Systems,  1:  276-280  (2003)に提案されたタイプのものであり得る。このしきい値署名方式は、楕円曲線暗号ベースのアルゴリズムであるデジタル署名方式の拡張であり、この方式では、秘密キーを再構築するためにｎ個のキーシェア保有者からのｔ＋１個のキーシェアが必要である。この方式を使用して、秘密キーを再構築する必要がなく、ある関係者が自分のキーシェアを他の関係者に明らかにする必要なく、有効な署名を構築することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  ｔ＋１個のキーシェアはシークレットを再構築するのに十分であるため、この手法による許容される敵（adversary）の最大数はtである。Ibrahimらのモデルにおける敵は、シークレットシェアを保持している関係者を買収し、且つそのシークレットシェアにアクセスできるエンティティである。敵には様々な種類があり得る。例えば、ビザンチン（Byzantine）の敵は、プロトコルに参加するふりをしているが、実際には不正な情報を送信している敵である。Ibrahimによって提案されたＥＣＤＳＡ方式は、最大ｔ＜＝ｎ／４の悪意のある敵に対して堅牢である。この堅牢性はｔ＜＝ｎ／３まで上がる可能性があるが、複雑性のコストが増す。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  IbrahimらのＥＣＤＳＡ方式は、ｔ＜＝ｎ／３の敵を食い止める（halting）のに堅牢である。敵の食止めによって、買収された関係者がプロトコルに参加するのを阻止するか、途中参加を食い止めることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  このＥＣＤＳＡ方式は、ノード１０２が悪意のある又は非協力的な関係者を特定するために使用できる様々なメカニズムを含む。例えば、検証可能な秘密分散（ＶＳＳ：verifiable  secret  sharing）を使用して、Shamirの秘密分散（ＳＳＳ）に必要な多項式を共有することができる。ＳＳＳは、シークレット（秘密）が複数の部分に分割され、各参加者にそれ自体の固有の部分で提供される秘密分散の形式である。これらの部分は、シークレットを再構築するために使用され得る。一貫性のないシェアが異なるノード１０２に提供される場合、又は全てのノードにブロードキャストされるブラインドシェア（blinded  share）とは異なるシェアがノードに秘密裏に送信される場合に、ＶＳＳは、ノード１０２によって悪意のあるノード１０２又はメンバーを特定するために使用され得る。一貫性のないシェアは、ノード１０２のいずれか１つによって識別され得る。シークレットのシェア（sharing）は、ノード１０２がそのシェアを一貫したものとして検証することを可能にする補助情報を含めることによって検証可能になり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+  個々のノードへの誤ったシェア（つまり、ブロードキャストされるブラインドシェアとは異なるシェア）の送信は、シェアの目的の受信ノードによって識別することができる。ノードに秘密裏に送信される誤ったシェアの識別は、公開される検証可能な秘密分散（ＰＶＳＳ：Publically  Verifiable  Secret  Sharing）の手法を使用して、公開検証可能にすることができる。そのような手法は、ＰＶＳＳが使用されておらず、且つ誤ったシェアの受信者がオフラインであるか、又は誤ったシェアが送信されたときにその受信者がネットワークの実質的な部分から切り離されている場合に発生し得る不正送信者の特定の遅延の可能性を回避することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  異なるノードに一貫性のないシェアを提供する等の不正行為は、悪意のある行為を阻止するためにコングレス１１０によって対処され得る。例えば、あるノード１０２（図１）が他のノード１０２によって悪意のある関係者として特定されると、しきい値（例えば、ｔ＋１）を超える数のノード１０２（すなわち、コングレス・メンバーに関連するノード）が協力して悪意のある関係者を罰することができる。例えば、ノード１０２は、悪意のある関係者によってコングレスに預け入れられたデジタル資産（デジタル通貨、トークン、又は他の出資金や対価等）に関係して行動をとることができる。例えば、コングレスは、デジタル通貨、トークン、出資金や対価を支出不能アドレスに転送して焼却し（burn）、又はコングレスは、他のノードとのコンセンサスを得て悪意のある関係者への返却承認を拒否することにより、そのようなデジタル資産を没収し得る。不正行為を行っているノードではないノード１０２は、不正行為を行っているノードを排除するように協力することにより（例えば、キーシェアを効果的に無効にすることにより、例えば、コングレス・プロトコルへの参加からノードを除外することにより、又は秘密キーを再共有し且つ不正行為を行っているノードにシェアを割り当てないようにすることにより）、不正行為を阻止することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  上述したＥＣＤＳＡ技術は、ＴＥＥを使用して強化することができる。例えば、Ibrahimらに基づくしきい値ＥＣＤＳＡ署名技術は、ここではビザンチンの敵と呼ばれる強力な敵を想定している。このタイプの敵は、署名プロセスに参加するのを拒否し、且つ関係者に割って入って食い止めるのを拒否するだけでなく、誠実に参加するふりをして誤った情報を送信する等、恣意的に振る舞い得る。ただし、ＴＥＥを使用し、シークレット秘密キーシェアが格納されるＴＥＥのエンクレーブ内で署名に使用されるデータを生成することにより、エンクレーブがかなりの数で危険に曝される可能性が非常に低いため、追加のセキュリティを提供してもよい。例えば、各ＴＥＥにキーシェアが１つしか割り当てられていない場合に、ｎが十分に大きいと仮定すると、危険に曝される可能性のあるＴＥＥの数は、ビザンチンの敵に対する堅牢性のしきい値に到達しないことが合理的に予想され得る。これにより、キーシェアの総数に対して、悪意のある敵の僅かな割合に耐性がある場合に、プロトコルを安全にすることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  例えば、全てのノードにＴＥＥがある場合に、エンクレーブ内に格納されたシークレットの取得は、ＴＥＥの製造元が買収されてない限り、ノードへの物理アクセスのみによって多大な労力と費用をかけて達成され得る。このような製造元レベルの買収は管理可能であると予想される。例えば、製造元が複数の公開キーが正規のＴＥＥに対応していると不誠実に主張した場合に、悪意のあるノードは、秘密キーシェアに直接的にアクセスして攻撃を開始する可能性がある。ただし、このような攻撃には、製造元が他のノードによる支援なしで有効な署名を作成できるようにするために、相当な数のキーシェアが必要となる。これは、出資総額の大部分を蓄積することを意味し、かなりの費用がかかる。さらに、攻撃を行うことにより、保有している出資金の大部分が破壊されるだろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  ＴＥＥを使用する場合に、「不正に関与する（corrupted：買収された）ノード」に対するプロトコルの堅牢性を熟慮することが有用である。不正に関与するノードとは、ＴＥＥの外部のハードウェアが不正に関与するが、ＴＥＥの完全性が損なわれていないノードである。不正に関与するノードは、エンクレーブが受信する情報と受信しない情報を制御することができる。特に、不正に関与するノードは、一時停止する可能性がある、つまり、プロトコルへの参加を控える可能性がある。プロトコルに提供される情報が、エンクレーブにおいて秘密裏に保持された秘密キーによって署名される必要がある場合（証明中に対応する公開キーが認証された場合）に、秘密キーはエンクレーブ自体と同じ位信頼できる。こうして、不正に関与するノードは、恣意的な（認証された）情報をプロトコルに送信できず、エンクレーブを一時停止又は不正に動作するようにだまして、例えば古い情報をエンクレーブに提供する等して干渉のみを試み得る。従って、不正に関与するノードの場合に、攻撃を成功させるには、完全な署名を生成するために十分な数の部分的な署名を集める必要があることになる。ＴＥＥでは、Ibrahimらのプロトコルは、２tの不正に関与するノードに対して堅牢である。ｎ－２ｔ＞＝２ｔ＋１の場合に署名を生成することができるため、サイズ２ｔ＋１＜＝（ｎ＋１）／２のキーシェアの有資格サブセットで十分である。従って、ＴＥＥを使用する場合に、不正に関与するノードが存在する場合に有効な署名を生成するために、しきい値署名方式のしきい値をキーシェアの５０％以上の数になるように構成することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  他のしきい値署名方式も使用することができる。例えば、しきい値署名方式は、Goldfederらの、“Securing  Bitcoin  Wallets  Via  a  New  DSA/EDCSA  threshold  signature  scheme”,  (2015)によって提案されたタイプのＥＣＤＳＡしきい値方式である。このプロトコルにより、ｔ＋１の関係者が有効な署名を生成することができる。その結果、敵が有効な署名を生成するために制御（管理）しなければならないキーシェアの数は、敵が秘密キーを再構築するために所有しなければならないキーシェアの数に等しくなる。この手法は、有効な署名を生成するために全会一致が必要な場合に効率的な方式を提供することができる。最も一般的なケースでは、この方式は、任意のしきい値に対して、ｎの中からｔ＋１プレーヤーの可能なサブセットに対してプロトコル全体を繰り返す必要があるため、コングレス・メンバーの数に応じて指数関数的にスケーリングするスペース要件を課す。こうして、ｎとｔとの両方の値が大きい場合に、多数のキーシェアを保存する必要がある。このようなストレージ要件を緩和するために、標準のビットコインのマルチ署名をしきい値署名と組み合わせることができる。特に、複数の署名を使用してデジタル資産をロックすると、各秘密キーがシェアに分割される。この手法は、スペース要件の観点から、より大きなコングレスをより効率的にする。スケーリング特性は、小規模な関係者サイズの中から複数のレベルで多数の参加者向けの方式を反復的に構成することによっても改善され得る。例えば、しきい値署名方式は、Cohenらの、Efficient  Multiparty  Protocols  via  Log-Depth  Threshold  Formulas  (2013),  Advances  in  Cryptology  －  CRYPTO  2013  pp  185-202の手法と組み合わせることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  非ＥＣＤＳＡ署名方式を含む他のしきい値方式を使用してもよい。例えば、ノード１１０が、シュノア（Schnorr）方式に基づくしきい値方式を使用して、コングレス１１０を実施することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  ブロックチェーン・ネットワーク１００（図１）内のノード１０２（図１）は、選択されたしきい値署名方式に基づいてコングレス・プロトコルを実装することができる。そのようなノード１０２は、コングレス・プロトコルを実施する、メモリ２２０（図２）に格納されたコンピュータ実行可能命令を含むことができる。そのような命令は、プロセッサ２１０（図２）によって実行されると、ノード１０２（図２を参照して説明したタイプの電子装置２００等）にコングレス・プロトコルの１つ又は複数の方法を実行させる。そのような方法は、図４～図８及び図１０の方法３００、４００、５００、６００、７００、８００、１０００のいずれか１つ又は組合せを含むことができる。こうして、コングレス・プロトコルは、図４～図８及び図１０の方法３００、４００、５００、６００、７００、８００、１０００の１つ又は複数を含むことができる。これらの方法は、ノードが他のコングレス・メンバーに関連する他のノードと協力して実行してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  コングレスの開始
+
+  ここで図３を参照すると、コングレス１１０を開始する方法３００が示されている。方法３００は、コングレス１１０をセットアップするために最初に信頼される関係者によって実行され得る。すなわち、最初に信頼される関係者に関連するノード１０２が、方法３００を実行し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  方法３００は、動作３０２において、コングレス公開キーを提供するステップを含む。コングレス公開キーは、他のノード１０２に提供され、これら他のノードがコングレスへの参加を希望する場合に他のノードがコングレス公開キーに支払を行うことを可能にし得る。つまり、他のノードは、コングレスに参加するために、コングレス公開キーに関連するアドレスにデジタル資産を転送し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+  方法３００を実行するノード１０２は、動作３０４において、１つ又は複数の条件が満たされるまで公開キーへの支払いを許可する。例えば、ノードは、決められた期間又は決められたブロック数の間に、公開キーへの支払いを許可し得る。条件が満たされた後（例えば、この期間の満了後又はブロック数のマイニング後）に、方法３００を実行するノード１０２は、動作３０６において、コングレスの初期メンバーを特定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+  コングレスの初期構成員を構成する関係者が特定された後に、動作３０７において、しきい値署名方式に従って秘密キーが秘密キーシェアに分割される。次に、動作３０８において、秘密キーシェアが、方法３００を実行するノード１０２から特定された関係者に配信される。秘密キーシェアは、本明細書で説明するタイプのものであり得るしきい値署名方式に関連付けられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  動作３０８中に、コングレス・メンバーとして特定されたノード１０２は協力して、新しい秘密キーシェアと新しい公開キーとを生成する。最初に信頼される関係者によってそのようなノードに送信された元の（original）キーシェアは、コングレスプール内の全てのデジタル資産を新しい公開キーに送信するトランザクションに署名してブロードキャストするために使用され得、次にコングレス公開キーになる。すなわち、動作３０８中に、新しい公開グループアドレスが確立され、コングレスの管理下にあるデジタル資産がこの新しいアドレスに転送され、このアドレスが、グループの新しいアドレスとなり、且つコングレス公開キーに関連付けられる。この転送が確認された後に、コングレスはトラストレス（trustlessly：システム内の全当事者が何を正当な真実とするかについてコンセンサスを得るための仕組みが存在する）な運営を行うことができる。新しい公開グループアドレスは、コングレスへの参加を希望する他のノードから、又は上述したような他の目的のために、将来デジタル資産の預入金を受け取ることができるように形成される。ここで、コングレス・メンバーは、コングレスに登録されているとみなされ、これらのノードは、最初に信頼される関係者の支援なしで動作することができる。さらに、最初に信頼される関係者は、もはやコングレスの運営のあらゆる部分に関与しない。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  コングレスが開始された後のコングレスへの参加
+
+  ここで図４を参照すると、この図は、コングレスに参加する方法４００を示している。図４の方法４００は、図３の方法３００と関連して動作し得るが、図４の方法４００は、図３の方法３００を実行するノードが運営する同じブロックチェーン・ネットワーク１００（図１）で動作するノード１０２のうちの異なる１つによって実行される。図４の方法４００は、動作４０２において、コングレス公開キーを取得するステップを含む。コングレス公開キーは、図３の方法３００を実行するノード等の、コングレスを開始する関係者から直接的に取得することができる、或いは、例えばブロックチェーン・ネットワーク１００（図１）の外部で動作する第三者システムを含む第三者から取得することができる。例えば、コングレス公開キーは、公衆インターネットを介してアクセス可能な公開Ｗｅｂサーバから取得することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  方法４００を実行するノード１０２は、動作４０４において、ノード１０２に関連するプライベートアカウントからコングレスアドレス（すなわち、コングレス公開キーに関連するアドレス）にデジタル資産のトランザクションをブロードキャストすることにより、コングレス公開キーに支払を行う。より具体的には、ノード１０２は、１つ又は複数のデジタル資産をコングレス公開キーに関連する公開グループアドレスに転送するトランザクションをブロードキャストする。公開グループアドレスは、コングレスプールのためのアドレスである。コングレスプールには、コングレスの他のメンバーに関連する他のデジタル資産が含まれる。こうして、動作４０４におけるトランザクションは、マイナー１０４（図１）によってブロックに追加されると、デジタル資産を、他のメンバーからのデジタル資産を含むコングレスプールに転送する。公開グループアドレスは、コングレスへの参加を希望する関係者からの転送と、コングレスへの参加を希望しない関係者からの転送との両方を受信する場合がある。コングレスへの参加を希望しない関係者は、デジタル資産をコングレスプールに転送し、そのようなデジタル資産は、コングレスが採用するしきい値署名方式を使用して、コングレスによる全体的、部分的、又は条件付き管理下に置かれ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  動作４０４におけるトランザクションは、デジタル資産を転送する関係者がコングレスへの参加を希望し、そのような目的のために預け入れが行われていることを示すフラグ、識別子、又は他の属性を含み得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  デジタル資産をコングレスプールに預け入れた後に、動作４０６において、方法４００を実行するノード１０２は、秘密キーシェアを受け取る。次に、ノード１０２は、動作４０８において、プロトコルの単一のインスタンスを実行することにより、秘密キーシェアを再生成する。秘密キーシェアの生成は、ノード１０２のＴＥＥ内で実行され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  動作４０８において、ノード１０２は、しきい値署名方式で使用される秘密キーシェアを生成し、しきい値署名方式において、コングレスに代わってトランザクションの有効な署名を生成するために、少なくともしきい値の秘密キーシェアを使用しなければならない。秘密キーシェアの他の所有者は、それぞれのデジタル資産を公開グループアドレスに転送することにより、許可ベース又は非許可ベースでコングレスに参加したコングレスの他のメンバーである。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+  秘密キーシェアを再生成するために、動作４０８において、既存のコングレス・メンバーは協力してキーシェアを更新することができる。例えば、ノード１０２は、次数ｔのランダム多項式を生成することができ、定数項はゼロ
+
+<base:MathDetails num="0001"><base:Image id="000003" he="10" wi="115" file="2020517169_000003.TIF" imgContent="drawing" imgFormat="TIFF" /></base:MathDetails>
+である。次に、ノード１０２は、ポイント
+
+<base:MathDetails num="0002"><base:Image id="000004" he="10" wi="115" file="2020517169_000004.TIF" imgContent="drawing" imgFormat="TIFF" /></base:MathDetails>
+を計算し、これを秘密キーシェアとして設定することができる。次に、ノード１０２は、この多項式
+
+<base:MathDetails num="0003"><base:Image id="000005" he="10" wi="115" file="2020517169_000005.TIF" imgContent="drawing" imgFormat="TIFF" /></base:MathDetails>
+上の点を既存の各コングレス・メンバーｉ＝１，…，ｎに配信することができる。既存の各コングレス・メンバー（ｉ＝１，…，ｎ）は、受信した値を自分の既存の秘密キーシェアに追加して、新しい秘密キーシェアを取得する。ここで、ノード１０２は、他の全てのメンバーと同等の秘密キーシェアを有しており、対応する公開キーは変更されないままである。上述したように、しきい値署名方式は、楕円曲線デジタル署名アルゴリズム又はシュノア方式に基づくしきい値方式を含む様々なタイプのものであり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  秘密キーシェアは、ＴＥＥ２５０（図２）内で生成してもよく、且つノード１０２に安全に格納され得る。例えば、秘密キーシェアは、ＴＥＥ２５０に格納してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  秘密キーシェアがそれぞれのノードによって生成された後に、以前のコングレス公開キーの管理下にある資金（例えば、元のコングレス公開キーに関連する公開グループアドレスに転送された資金）が、（しきい値署名方式の下で有効な署名を生成するのに十分な数のグループノードの協力によって、）新しい秘密キーシェアに関連する新しいコングレス公開キーに転送される。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  動作４０８において、秘密キーシェアが生成された後に、その秘密キーシェアを方法４００の動作４１０において使用してもよい。秘密キーシェアを使用して、（あるメンバーによってブロードキャストされ得る）公開グループアドレスからのトランザクションの有効な署名を協力して生成することができる。つまり、しきい値署名方式で秘密キーシェアを使用して、署名生成に寄与することができる。しきい値署名方式では、コングレスのしきい値数の秘密キーシェアをそれぞれのメンバーが使用して、デジタル資産をコングレスとは別の場所に（away  from）転送できるようにする有効な署名を生成する必要がある。方法４００を実行するノード１０２は、署名生成に寄与するために、ストレージから秘密キーシェアを検索し、この秘密キーシェアを使用することができる。十分な数の他のコングレス・メンバーもそれぞれの秘密キーを使用して署名の生成に寄与する場合に、署名が生成され、有効な支出トランザクションがブロードキャストされ得る。ブロックチェーン・ネットワーク１００のマイナー１０４（図１）が、（ブロックチェーン・ネットワーク１００内のノード１０２のコンセンサスによってブロックチェーンに追加される）マイニングされたブロックにトランザクションを追加し、ブロックが確認されると、支出トランザクションが完了する。この時点で、トランザクションにおいて表されるデジタル資産は、もはやコングレスの管理下にない可能性がある。つまり、そのようなデジタル資産は、コングレス公開キーによってもはや制限されなくなる可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  動作４０８における秘密キーシェアの使用は、ノード１０２のＴＥＥ内で実行され得る。ＴＥＥは、システムの他の部分もメンバー自体も、エンクレーブに格納された秘密キーシェア等のあらゆるデータにアクセスできないように秘密キーシェアを保護する。さらに、ＴＥＥは、メンバーが預入金の引出しを望み、預入金を受け取る場合に、メンバーがメンバー預入金を返却する前に秘密キーの削除を証明する必要があるため、ＴＥＥが秘密キーのコピーを保持できないという点で、秘密キーを保護する。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  図４の方法４００は、初期セットアップ段階中又はその後に実行することができる。すなわち、方法４００は、初期キーシェアが配信される前（例えば、図３の方法３００の動作３０８中）又はその後（例えば、以下でより詳細に議論する再バランス中）に実行され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  動作４１０におけるトランザクションは、デジタル資産を、元々それらのデジタル資産をコングレスプールに預け入れた関係者に戻すように転送することができる。つまり、転送（移転）はデジタル資産を預入者に返却する場合がある。転送は、デジタル資産を他の場所に転送することもある。例えば、デジタル資産は、第三者又は支出不能アドレスに転送される場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+  デジタル資産の没収
+
+  ここで図５を参照すると、デジタル資産を没収する例示的な方法５００が示されている。図５の方法５００は、ノード１０２によって実行してもよく、ノード１０２は、図４の方法４００を実行するノードと同じであってもよい。方法５００は、図４の方法４００の動作４０８の後に実行され得る。そのため、ノード１０２は、図５の方法５００が実行されたときに、秘密キーシェアに既にアクセスしている。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  動作５０２において、ノード１０２は、悪意のある関係者による悪意のある活動を検出する。悪意のある関係者は、コングレスの別のメンバーである可能性がある。悪意のある活動は、コングレス・メンバーが予め規定されたプロトコル又は基準に違反しているとノード１０２が判定したときに検出される。例えば、コングレスのメンバーであるノードが偽の情報（つまり、虚偽の、一貫性のない、又は容認できない情報）をコングレスの他のメンバーに報告する場合に、そのメンバーは悪意のあるメンバーとみなされ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0083">
+  動作５０３において、悪意のある活動の検出に応答して、ノード１０２は、コングレス内の他のノードと協力して、悪意のある関係者であるメンバーを一時保留状態にする（suspend）ことができる。つまり、コングレスは、悪意のある関係者をコングレスへの更なる参加から排除することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0084">
+  全てのノード１０２が予め規定されたプロトコル又は基準に準拠して動作することを保証するために、コングレスプールへのメンバー預入金は没収の対象となり得る。没収とは、没収されたとみなされるメンバー預入金の返却を永久に阻止することを意味する。悪意のある活動のために返却されない、メンバー預入金を形成するデジタル資産は、コングレスプールに残され得るが、（この措置を取るべきであるというコンセンサスに応じて）返却されない場合があり、別の支出不能アドレスに直ちに又は将来的に転送され、又は没収され得る。没収の性質は、コングレスがサイドチェーンの留め置き検証セットとして機能するかどうかに依存し得る。例えば、動作５０４において、悪意のある関係者による悪意のある活動を検出することに応じて、方法５００を実行するノード１０２は、秘密キーシェアを使用して、没収トランザクション（デジタル資産を支出不能アドレス又は悪意のある活動を曝露する報酬として別のノードに転送するトランザクション）に関する部分的な署名を提供することができる。すなわち、ノードは、コングレスの他のノードと協力して、悪意のある関係者によって公開グループアドレス（つまり、コングレスプール）に以前転送されたデジタル資産の少なくとも一部を没収する。つまり、グループメンバーが予め規定されたプロトコル又は基準に違反していることを確認したことに応じて、秘密キーシェアは、そのグループメンバーに関連付けられ且つコングレスプール内に保持されている１つ又は複数のデジタル資産のトランザクションの承認に寄与するために利用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0085">
+  しきい値署名方式がコングレス公開キーとともに使用されるため、単独で行動する個々のノードは、別のコングレス・メンバーのデジタル資産の預入金をコングレスプールとは別の場所（例えば、支出不能アドレスに）転送することができない。むしろ、デジタル資産は、デジタル資産を別のアドレスに転送するための有効な署名を生成するために、それぞれのメンバーがしきい値の数の秘密キーシェアを使用する場合に、又は少なくともしきい値の数の秘密キーシェアとなるグループのメンバーが、（動作５０３において）あるメンバーを一時保留状態にするコンセンサスに達した場合にのみ、転送によって没収され、保留状態されたメンバーからの引出し要求は自動的に無視される。デジタル資産が転送によって没収された場合に、デジタル資産が転送され得る他のアドレスは、支出不能アドレスに関連付けられ得る。例えば、この他のアドレスは、秘密キーが存在しないアドレスであってもよく、このアドレスの公開キーに結び付けられたデジタル資産に誰もアクセスできないようにすることができる。デジタル資産を支出不能アドレスに転送するトランザクションが確認された場合、又はデジタル資産を没収すべきというコンセンサスがサイドチェーンで得られた場合に、デジタル資産は、もはやコングレスの任意のメンバーによって又は実際にブロックチェーン・ネットワーク１００内の任意のノードによって保留状態ではないので、デジタル資産は焼却されたとみなされ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0086">
+  従って、動作５０４において、ノードは、コングレスの他のメンバーと協力して秘密キーシェアを使用してトランザクションの支出不能アドレスへの有効な署名を生成することにより、デジタル資産を没収することができ、いくつかの実施態様では、あるメンバー預入金の全部又は一部を永久に取り上げるべきであるコンセンサスの達成を第２のブロックチェーンで伴うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0087">
+  さらに、いくつかの実施態様では、コングレスは、プルーフオブステーク（proof-of-stake）のサイドチェーンを保護する留め置き検証セットとして機能し、このサイドチェーンは、ブロードキャストチャネルとして使用され得る。例えば、サイドチェーンのコングレス・メンバーが、あるメンバーが悪意を持って行動したというコンセンサスに達する場合がある。このコンセンサスは、悪意のある活動の犯罪的証拠を含むサイドチェーン・トランザクションの確認に対応する場合がある。コンセンサスが得られると、悪意のあるメンバーによって行われたメンバー預入金の引出し要求は拒否され、預入金は没収されたとみなされる。没収されたデジタル資産は、将来のある時点で焼却され得る。つまり、しばらくすると、しきい値数のメンバー（悪意のあるメンバーを含まない）が協力して、没収されたデジタル資産の支出不可能等レスへの転送を承認することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0088">
+  コングレスは、デジタル資産の預け入れによってブロックチェーン・ネットワーク１００のノード１０２が参加できるオープングループであるため、グループ構成員は定期的に変更され得る。このような変更が発生すると、秘密キーシェアの配信が更新され得る。ここで図６を参照すると、秘密キーシェア配信を更新する例示的な方法６００が示されている。方法６００は、ブロックチェーン・ネットワーク１００の他のノードと協力して、ブロックチェーン・ネットワーク１００のノード１０２によって実行され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0089">
+  新しい公開アドレスを使用した秘密キーシェア配信の更新
+
+  方法６００の動作６０２において、ノード１０２は、再配信要求を検出し、これは要求であり、その履行は、キーシェアの再配信を伴う。例えば、ノード１０２は、新しい見込みメンバーがデジタル資産を公開グループアドレスに移転したこと、又は既存のメンバーがメンバー預入金の引出しを要求したことを検出することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0090">
+  デジタル資産は、コングレスへの参加又はコングレスへの参加を増やすことを要求するノードと、コングレスへの参加を要求しないが、代わりに別の目的で（以下で説明するように、デジタル資産をサイドチェーンに転送する等で）デジタル資産をコングレスに転送する他のノードとによって、公開グループアドレスに転送され得る。動作６０２において、ノード１０２は、デジタル資産の公開グループアドレスへのトランザクションの少なくとも一部に含まれる１つ又は複数の属性を使用して、コングレス・メンバー（すなわち、コングレスに参加するためにデジタル資産をコングレス公開キーに転送する関係者であり、別の目的の関係者ではない）を識別することができる。例えば、特定のトランザクションは、トランザクションの属性を使用して特別なトランザクションとしてフラグが付けられる場合がある。このような属性（又は、その属性の有無）は、転送を行う目的を示している場合がある。例えば、転送者がコングレスへの参加を要求していない場合に、トランザクションにフラグを含めてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0091">
+  動作６０２における要求の検出に応じて、その履行はキーシェアの再配信を伴い、動作６０４において、秘密キーシェアが図４の方法４００の動作４０８において生成された方法と同様に、新しい秘密キーシェアがノード１０２によって生成される。コングレスの他のメンバーノードも、それぞれの秘密キーシェアを生成する。これらの秘密キーシェアは、新しいコングレス公開キーのしきい値署名方式で使用することができる。この時点でコングレスを退会するメンバーは、動作６０４中に新しい秘密キーシェアを生成せず、退会するメンバーには新しいコングレス公開キーで使用する秘密キーシェアが割り当てられないため、退会するメンバーは、コングレスに参加する能力を失い、もはらコングレス・メンバーとはみなされなくなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0092">
+  さらに、再配信要求（これは、その履行がキーシェアの再配信を伴う要求である）の検出に応じて、動作６０６において、ノード１０２は、他のコングレス・メンバーと協力して、公開グループアドレス内の全てのデジタル資産を、新しい公開キーに関連する新しい公開アドレス（これが新しいコングレス公開キーになる）に転送する。
+</base:Paragraphs>
+      <base:Paragraphs num="0093">
+  こうして、図６の方法６００によれば、預入金の配信が変更されたとき、又はあるメンバーから預入金を引き出す要求を受け取ったとき、秘密キーシェアが再生成され、コングレスの管理下にある全てのデジタル資産が新しい公開キーに移動され得る。コングレスの構成員を更新できる頻度は、ブロックチェーン・ネットワーク１００のブロック時間によって制限され得る。多くのアプリケーションでは、低頻度での再バランスのみが必要であり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0094">
+  既存の公開グループアドレスを保持しながら秘密キーシェア配信を更新する
+
+  ここで図７を参照すると、秘密キーシェアの配信を更新する更なる例示的な方法７００が示されている。方法７００は、ブロックチェーン・ネットワーク１００の他のノードと協力して、ブロックチェーン・ネットワーク１００のノード１０２によって実行され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0095">
+  図７の方法７００では、コングレス公開キーは、メンバー預入金の配信が変更される度に変更されない。（動作７０２において、デジタル資産の公開グループアドレスへの預け入れによって発生する可能性のある）新しいキーシェアを割り当てる要求が検出されると、ノード１０２は、コングレスの他のメンバーと協力して、（動作７０４において）同じ公開キーの新しい秘密キーシェアをグループの新しいメンバーに発行する。協力するノードの数は、少なくともしきい値署名方式でデジタル署名を生成するために必要なしきい値数のノードである。動作７０４において、追加のキーシェアが割り当てられる一方、他のキーシェアは同じままである。これは、（しきい値署名方式の）しきい値の変更を伴う場合があるが、実際にはその変更は小さい。あるいはまた、動作７０４において、他のキーシェアが更新されている間に、追加のキーシェアを割り当ててもよい。そのような更新には、以前生成したあらゆるキーシェアの削除の証明を伴う必要がある。この場合に、同じしきい値を維持しながら新しいシェアを割り当てることができる（ＳＳＳの文脈では、これには、次数が増加した新しい多項式での分散（sharing）が含まれる）。
+</base:Paragraphs>
+      <base:Paragraphs num="0096">
+  動作７０２において、ノード１０２は、デジタル資産の公開グループアドレスへのトランザクションの少なくとも一部に含まれる１つ又は複数の属性を使用して、コングレス・メンバー（すなわち、コングレスに参加するためにデジタル資産をコングレス公開キーに転送する関係者であり、別の目的の関係者ではない）を識別することができる。例えば、特定のトランザクションは、トランザクションの属性を使用して特別なトランザクションとしてフラグが付けられる場合がある。このような属性（又は、その属性の有無）は、転送を行う目的を示している場合がある。例えば、転送者がコングレスへの参加を要求していない場合に、トランザクションにフラグを含めてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0097">
+  メンバーが方法７００を使用するコングレスを退会するときに、メンバーは、自分の秘密キーシェアを安全に削除することができる。古いメンバーの秘密キーシェアが使用できないことを保証するために、コングレスのメンバーは、特別なＴＥＥを有するノード１０２を使用することを要求される場合がある。ＴＥＥは、ハードウェアレベルで実装されるアーキテクチャであり、ＴＥＥ内で実行される命令及びデータが、システムの残りの部分からのアクセス及び操作から保護されることを保証する。ＴＥＥは、ハードウェアメカニズムを使用して、コングレスの他のノード等の外部関係者に対してシステムの完全性を検証するために使用できるリモート認証の課題に対応することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0098">
+  各メンバーノードは、集積回路レベルでハードウェアを損なうことなくホストシステムにアクセスできないままである１つ又は複数のランダムシークレット値を生成するように構成された認定ＴＥＥを使用することができる。このようにして生成されたシークレット値は、（例えば、図４の方法４００の動作４１０において）秘密キーシェアの配信生成で使用される。このシークレット値は、コングレスのセットアップ段階でシェアされる（shared）公開キーを確立するために使用することもできる。セットアッププロトコルに関連付けられた計算はＴＥＥのエンクレーブ内で実行されるため、メンバー又は以前のメンバーは、メンバー間通信又は他の方法から自分又は他の秘密キーシェアに関する情報を得ることができない。ＴＥＥ内のエンクレーブは、ＴＥＥエンクレーブが真正であり、承認されたコンピュータ可読命令を実行していることを他のノードに証明するために使用され得るリモート認証プロトコルを実行できるようにする。
+</base:Paragraphs>
+      <base:Paragraphs num="0099">
+  グループの変更に関連する計算は、ＴＥＥのエンクレーブ内で実行される。例えば、ＳＳＳの目的で新しい多項式を計算する際に使用され得る新しい安全なアランダムシークレットの生成は、ＴＥＥのエンクレーブ内で実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0100">
+  ＴＥＥのエンクレーブは、メンバー預入金を返却する前に、使用されなくなった以前のキーシェア及び以前のシークレットを安全に削除するのを保証することも目的としている。より具体的には、メンバー預入金を返却するために、認証プロトコルでは、ＴＥＥのエンクレーブがキーシェアの削除を証明することを要求する場合がある。各ノード１０２は、そのような証明を、必要な削除がリモート認証プロトコルを介して他のノードで発生したことの確認として解釈することができる。こうして、方法７００は、コングレスを退会したメンバーのＴＥＥ内に以前保持されていた秘密キーシェアが、そのメンバーに関連するノードから削除されたことを確認するステップも含み得る。この確認は、秘密キーシェアの削除の証明を受信することで行うことができる。従って、リモート認証プロトコルを使用して、コングレスを退会したメンバーのＴＥＥ内に以前保持されていた秘密キーシェアの削除に対する認証を取得することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0101">
+  図６の方法６００及び図７の方法７００には、それぞれ様々な利点がある。例えば、図６の方法６００は、安全な削除に依存せず、信頼できるハードウェアに依存する必要もない。しかしながら、図６の方法６００は、状況によっては、このようなハードウェアによってキーシェアの悪意のあるプーリングをより起こりにくくし得るため、このようなハードウェアの恩恵を受け得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  図７の方法７００は、構成員が変更される度に新しいコングレス公開キーの下でデジタル資産を再ロックする必要性を回避する。さらに、状況によっては、方法７００は、図６の方法６００よりも速く構成員を更新する場合がある。なぜなら、図７の方法７００の下では、デジタル資産が新しい公開キーに移動されないため、全てのデジタル資産を新しい公開キーに移動するためにトランザクションをブロックチェーンに追加する必要はないからである。すなわち、公開キーが変更されないため、デジタル資産の新しい公開キーへの転送を確認するためにいくつかのブロックが生成されるのを待たずに、図７の方法７００を使用して構成員を更新することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0103">
+  コングレスからの登録解除
+
+  上述したように、グループメンバーは時々コングレスからの退会を要求する場合があり、グループメンバーをコングレスから登録解除するときに、コングレスプールに預け入れたデジタル資産がそのグループメンバーに返却される場合がある。ここで図８を参照すると、預入金を返却する例示的な方法８００がフローチャート形式で示されている。この方法は、コングレスの他のノード１０２と協力して、ノード１０２によって実行され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0104">
+  方法８００の動作８０２において、ノード１０２は、コングレス・メンバーである要求者から引出し要求を受信する。引出し要求は、登録解除要求とも呼ばれ得る。引出し要求は、要求者によって以前預け入れられ、コングレスによって現在管理されているデジタル資産を引き出す要求である。要求は、要求者によって全てのコングレス・メンバーにブロードキャストされ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0105">
+  要求の受信に応じて、ノード１０２は、動作８０４において、決定された基準に対して要求を評価する。そのような基準は、予め規定された基準であり得る。コングレスが、グループの構成員が変更される度にコングレス公開キーが変更されないコングレス・プロトコルに従って動作する場合に、動作８０４において、ノード１０２は、秘密キーシェアが要求者によって削除されたことを確認することができる。このような確認は、ＴＥＥに関連するリモート認証プロトコルを使用して得ることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0106">
+  コングレス・プロトコルが、構成員が変更されたときにコングレス公開キーが変更されるものである場合に、秘密キーシェアはもはや有効ではないため、ノード１０２は、秘密キーシェアの削除を確認しない場合がある。代わりに、新しいコングレスキーが使用され、コングレスの管理下の他のデジタル資産が新しいコングレスキーに転送される場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0107">
+  ノード１０２が評価に基づいて引出し要求を承認する場合に、動作８０６において、ノードはデジタル資産の引出しを容易にする。すなわち、ノード１０２は、その秘密キーシェアを使用してデジタル署名を協力して生成し、このデジタル署名を使用して、要求者によって以前に預け入れられたデジタル資産を要求者に戻す。例えば、デジタル資産は、デジタル資産を以前に受け取ったアドレスに送り返され得る。動作８０６は、しきい値署名方式に従って実行され、それにより、少なくともしきい値数のコングレス・メンバーが引出しを承認した場合にのみ引出しが行われる。動作８０６は、登録解除を希望するメンバーが一定期間活動を停止した後に実行される。この待機期間によって、メンバー預入金の返却のためのプロトコルを実行している間に、メンバーが不正行為に関与するのを防止する。
+</base:Paragraphs>
+      <base:Paragraphs num="0108">
+  スマートコントラクトに関してトラストレスな（trustless：中央主権型システムに頼らない）エージェント
+
+  コングレスは、様々な機能を実行するための安全なメカニズムを提供し、コングレス・プロトコルは様々な目的に使用することができる。一般的に、コングレスは、トラストレスの運営を行い、デジタル資産の所有権を管理する。
+</base:Paragraphs>
+      <base:Paragraphs num="0109">
+  コングレス・プロトコルは、例えば、スマートコントラクトに関してトラストレスなエージェントを提供するように使用することができる。より具体的には、コングレス・プロトコルを使用して、スマートコントラクト等のスクリプトを起動することができる。スマートコントラクトのアクティブ化は、スマートコントラクトの１つ又は複数の機能を実行させるためにスマートコントラクトを「突く（poke：アクティブにする）」ことができ、又はスマートコントラクトのアクティブ化は、スマートコントラクトに外部データを提供することができる。つまり、スマートコントラクトが実行されるブロックチェーン・ネットワークの外部にあるデータを、安全に取得し、且つコングレス・プロトコルを使用してスマートコントラクトと組み合わせて使用することができる。従って、コングレス・プロトコルを使用して、スマートコントラクトに関連するブロックチェーン・スクリプトの自律的な起動を提供する（つまり、このようなブロックチェーン・スクリプトを「突く」）か、又はそのようなブロックチェーン・スクリプトに外部データ（つまり、以前はブロックチェーンで利用可能でなかったデータ）へのアクセスを提供することができる。以下で詳細に説明するように、コングレス・プロトコルを使用して、ブロックチェーン・ネットワーク上のスマートコントラクトを突く人（pokers）及びスマートコントラクトのデータフィード（data  feeds）を提供することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0110">
+  ここで図９を参照すると、ブロックチェーン・ネットワーク９００上でスクリプトを起動するためのシステムがブロック図形式で示されている。このシステムは、図１のブロックチェーン・ネットワーク等のブロックチェーン・ネットワークのノードであり得る複数のノード１０２ａ、１０２ｂ、１０２ｃを含む。ノード１０２は、複数のコングレス・ノード１０２ａを含む。コングレス・ノードは、本明細書でコングレス１１０と呼ばれる、ブロックチェーン・ネットワーク９００のグループに参加したノードである。コングレス・ノードは、図４を参照して上述した方法でグループに参加している場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0111">
+  図９のシステム内のノードのうちの少なくとも１つは、要求者ノード１０２ｂである。要求者ノード１０２ｂは、スクリプトの起動要求を発するノードである。このような要求には、報奨金として機能するデジタル資産の預け入れが伴う場合がある。より具体的には、デジタル資産は、分配のためにノード同士の間で保持され、要求の履行を容易にすることができる。例えば、報奨金は、要求の履行を支援する情報提供システム同士の間に、及び参加によってプロトコルにセキュリティ及び信頼性を提供するコングレス・メンバー同士の間で分配される。
+</base:Paragraphs>
+      <base:Paragraphs num="0112">
+  要求は、外部データ（つまり、ブロックチェーン・ネットワークで未だ利用できないデータ）を取得し、且つそのようなデータをスマートコントラクト等のスクリプトに提供するための要求であり、又はそうでなければ、そのようなスクリプトを起動する要求であり得る。例えば、要求は、指定された条件が満たされたときにスマートコントラクトを突く（例えば、特定の時間に又は外部データが指定された条件を満たしたとき等に、スマートコントラクトをアクティブにする）ための要求である。
+</base:Paragraphs>
+      <base:Paragraphs num="0113">
+  ブロックチェーン・ネットワーク９００のノードは、情報提供ノード１０２ｃとも呼ばれ得る複数の情報提供システムも含む。これらの情報提供ノード１０２ｃは、要求者ノード１０２ｂによって発せられた要求を履行する又はその履行を支援することを目的とする電子装置である。例えば、情報提供ノード１０２ｃは、ウェブサーバ等の外部データソースからデータを検索するように動作することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0114">
+  以下でより詳細に説明するように、情報提供ノードが一般に要求者ノードによって発せられた要求を満たすように機能するが、コングレス・ノードは協力してセキュリティ及び信頼性を提供する。例えば、コングレス・ノードは、要求の履行を目的として、情報提供ノードによって実行又は提供される情報又は行動の精度を高めるように動作することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0115">
+  従って、ブロックチェーン・ネットワーク１００（図１）内のノード１０２（図１）は、スマートコントラクト等のスクリプトを起動する又はスクリプトの起動を容易にするために、トラストレスなエージェントプロトコルを実装することができる。そのようなノード１０２は、そのようなプロトコルを実装するメモリ２２０（図２）に格納されたコンピュータ実行可能命令を含むことができる。そのような命令は、プロセッサ２１０（図２）によって実行されると、ノード１０２（図２を参照して説明したタイプの電子装置２００等）にプロトコルの１つ又は複数の方法を実行させる。そのような方法は、図３～図８、図１０及び図１１の方法３００、４００、５００、６００、７００、８００、１０００、又は１１００のいずれか１つ又はこれらの組合せを含むことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0116">
+  ここで図１０を参照すると、この図は、要求者ノード１０２ｂ（図９）によって実行され得る方法を示している。図１０の方法は、要求者による方法（requester  method）１０００と呼ばれ得る。要求者ノード１０２ｂは、ブロックチェーン・ネットワーク上のスマートコントラクトの関係者等の、スクリプトに関連するノードであり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0117">
+  要求者による方法１０００（図１０）の動作１００２において、要求者ノード１０２ｂは要求を発する。要求は、スマートコントラクト等のスクリプトを起動する要求である。要求は、スクリプトを安全且つ確実にアクティブにする代わりに、ブロックチェーン・ネットワーク１００に関連するデジタル資産の形態で報奨金を提供する。要求には、スクリプト状態に関連する公開キー等の、要求に関連するスクリプトの識別子；スクリプトを起動するために使用される情報提供システムの最小数を指定し得る最小参加者情報；スクリプトの起動を容易にするためにコングレスに提供されるマイニング料金等の料金情報；及び／又はコンセンサスデータからの許容可能な変動量及び／又はスクリプトの起動で使用される外部データに関する情報を規定するしきい値インジケータ；の１つ又は複数を含む様々な情報が含まれ得る。上述したデータの代わりに、又はこのデータに加えて、他のデータを要求に含めることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0118">
+  要求は、ブロックチェーンの外部（つまり、「チェーン外」）から発せれる場合がある。例えば、インターネット経由でアクセス可能なＷｅｂサーバで要求を発することができる。例えば、取引所で要求を発することができる。取引所は、複数の要求者ノードからの複数の要求が公表されるサーバであり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0119">
+  要求者による方法１０００の動作１００４において、要求者ノード１０２ｂは、１つ又は複数のコングレスが要求を受け入れたことを判定する。すなわち、要求者ノード１０２ｂは、（複数のコングレス・ノード１０２ａから構成される）コングレスが要求に従ってスクリプトを起動することを申し出たことを判定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0120">
+  要求者ノード１０２ｂは、動作１００６において、要求を受け入れた１つ又は複数のコングレスを選択することができる。要求者ノード１０２ｂは、例えば、各コングレスの評判データを１つ又は複数のしきい値に対して評価してもよい。評判データは、例えば、要求の完了を容易にするために関連するコングレスに以前参加した他の要求者ノード１０２ｂによって提供されるレーティング又は他のメトリックに基づいてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0121">
+  要求者ノード１０２ｂは、要求を受け入れたコングレスのうちの単一のコングレスを選択してもよく、或いは要求者ノード１０２ｂは、複数のそのようなコングレスを選択してもよい。要求者ノード１０２ｂは、要求を受け入れた全てのコングレス又はそのようなコングレスのサブセットを選択してもよい。複数のコングレスを選択することにより、選択されたコングレスを互いに効果的に競争させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0122">
+  要求者による方法の動作１００８において、要求者ノードは、選択されたコングレスに関連するコングレスプールに支払われるトランザクション（ブロックチェーン・トランザクションと呼ばれ得る）をブロードキャストする。トランザクションには、要求を受け入れ、且つ動作１００６で選択されたコングレスに関連する公開グループアドレスに支払われる報奨金がデジタル資産の形態で含まれている。トランザクションには、要求に関連するデータへのリンクが含まれ得る。例えば、リンクは、要求に関する情報を保存するサーバへのリンクであり得る。そのような情報には、例えば、スクリプト状態に関連する公開キー等の要求に関連するスクリプトの識別子；スクリプトを起動するために使用される情報提供システムの最小数を指定し得る最小参加者情報；スクリプトの起動を容易にするためにコングレスに提供されるマイニング料金等の料金情報；コンセンサスデータからの許容可能な変動量及び／又はスクリプトの起動で使用される外部データに関する情報、又は他の情報、条件、要件を規定するしきい値インジケータが含まれ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0123">
+  報奨金を含むトランザクションは時間ロックされるため、トランザクションは将来の指定された時間においてのみ有効になる。時間ロックにより、指定された時間が経過するまで、トランザクションがブロックチェーンに追加されない場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0124">
+  要求の完了を容易にするために複数のコングレスが（動作１００６において）選択された場合に、トランザクションは報奨金をロックし、それによって要求を最も早く完了したコングレスのみが報奨金を請求できるようにする。
+</base:Paragraphs>
+      <base:Paragraphs num="0125">
+  ここで図１１を参照すると、コングレスの方法１１００が示されている。コングレスの方法１１００は、コングレスの他のノードと協力して、コングレスのノードによって実行され得る。すなわち、コングレスのノードは、コングレスの他のノードと協力して方法１１００を実行するためのコンピュータ実行可能命令で構成してもよい。つまり、コングレスの方法１１００は、コングレスに参加してコングレス・ノードになっている１つ又は複数のノードによって実行され得る。より具体的には、ブロックチェーン・ネットワーク内のノードは、トランザクションをコングレスプールにブロードキャストすることにより、コングレス・ノードのグループで形成されるコングレスに参加することができる。トランザクションは、１つ又は複数のデジタル資産の制御（管理）をコングレスに転送（移転）する。そのようなデジタル資産は、預け入れ行うメンバーのメンバー預入金として機能し、且つ図５を参照して上述したように没収の対象となる。コングレスに参加するための技術は、特に図４を参照して、上記でより詳細に説明している。
+</base:Paragraphs>
+      <base:Paragraphs num="0126">
+  ノードがコングレスに参加してコングレス・ノードになった後に、図１１の方法１１００は、そのコングレス・ノードが同じコングレスの他のコングレス・ノードと協力して、実行され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0127">
+  動作１１０２において、コングレス・ノードは要求を識別する。要求は、図１０の要求者による方法１０００の動作１００２において発せられた要求であり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0128">
+  動作１１０４において、コングレス・ノードは、コングレスの他のノードと協力して、要求を受け入れる。要求の受け入れは、要求を発した要求者ノードに通知され得る。コングレス・ノードは、要求を受け入れる前に互いに協力して、要求を受け入れるかどうかを決定するように構成することができる。例えば、コングレス・ノードは、要求を受け入れるかどうかについてコンセンサスを得る場合がある。例えば、秘密キーシェアを使用することにより、コンセンサスを得る場合がある。つまり、コングレス・メンバーは秘密キーシェアを使用して、要求を受け入れるかどうかについて実際上投票することができる。少なくともしきい値数の秘密キーシェアが要求を受け入れるために実際上投票するように使用される場合に、要求はコングレスによって受け入れられる。この投票手順は、例えば、サイドチェーン（つまり、メインブロックチェーンではないブロックチェーン）で発生し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0129">
+  コングレスが要求者からの要求を受け入れてスクリプトを起動した後に、コングレス・ノードは、動作１１０６において、要求に関連する報奨金を含む、要求者からのトランザクションを検出することができる。すなわち、コングレス・ノードは、要求者による方法１０００の動作１００８においてブロードキャストされたトランザクションがブロックチェーンに追加されたことを判定することができる。前述したように、動作１００８においてブロードキャストされたトランザクションは、特定の時間までそのトランザクションをブロックチェーンに追加しないように、時間ロックされる場合がある。そのような場合に、動作１１０６は、その時間の後に実行される。
+</base:Paragraphs>
+      <base:Paragraphs num="0130">
+  動作１００８においてブロードキャストされたトランザクション（「第１のトランザクション」と呼ばれ得る）が、コングレス・ノードによって確認済みと判定されると（少なくともしきい値数のブロックがその第１のトランザクションの上部に作成された後に発生し得る）、ノードは、コングレスプール（つまり、コングレスに関連する公開グループアドレス）に支払われるトランザクション（「第２のトランザクション」と呼ばれ得る）を（動作１１０８において）準備し、そのトランザクションを発行（publish）する。
+</base:Paragraphs>
+      <base:Paragraphs num="0131">
+  第２のトランザクションは、複数の情報提供システム（例えば、図９の情報提供ノード１０２ｃ）がトランザクションに入力を追加できるように構成され得る。例えば、第２のトランザクションは、ＳＩＧＨＡＳＨ＿ＡＬＬ｜ＳＩＧＨＡＳＨ＿ＡＮＹＯＮＥＣＡＮＰＡＹに署名することができる。ＳＩＧＨＡＳＨ＿ＡＬＬは、署名スクリプトを除くトランザクション全体に署名するデフォルトの署名ハッシュタイプであり、署名された部分の変更を防止する。ＳＩＧＨＡＳＨ＿ＡＮＹＯＮＥＣＡＮＰＡＹは、現在の入力のみに署名する署名ハッシュタイプである。
+</base:Paragraphs>
+      <base:Paragraphs num="0132">
+  次に、情報提供ノード１０２ｃ等の情報提供システムは、要求の完了をコミット（commit）することができる。そのために、情報提供システムは第２のトランザクションに追加する。例えば、情報提供システムは、情報提供システムが保持するデジタル資産を第２のトランザクションへの入力として追加する。そのようなデジタル資産は、情報提供システムが要求に従って、且つプロトコルに従って動作することを保証するために、セキュリティとして情報提供システムによって提供される（つまり、それらデジタル資産は保証金（security  deposit）として保持される）。
+</base:Paragraphs>
+      <base:Paragraphs num="0133">
+  また、情報提供システムは、プルーフオブソリューションデータ（proof  of  solution  data）をメタデータとして第２のトランザクションに追加する。例えば、要求に対するソリューションに基づいたハッシュを第２のトランザクションに追加することができる。ソリューションは、例えば、インターネット経由で、又はスクリプトの操作に必要な別のデータソースから利用可能なデータ等の外部データであり得る。そのような場合に、プルーフオブソリューションデータは、外部データに基づくハッシュであり得る。ハッシュは、情報提供システムの公開キー及び／又はセキュリティのためのソルト（salt）に基づいてもよい。ソルトは、ハッシュ関数への追加入力として使用されるランダムデータである。例として、第２のトランザクションは、情報提供システムによって、ＨＡＳＨ（ｑ＋ＰＫ＋ｓ）として決定されるメタデータを含むように更新され、ここで、ｑはソリューションであり、ＰＫは情報提供システムの公開キーであり、ｓはソルトである。
+</base:Paragraphs>
+      <base:Paragraphs num="0134">
+  コングレスは、１つ又は複数の予め規定された条件が満たされるまで、第２のトランザクションへの参加をオープンにしたままにしてもよい。予め決定された条件は、例えば、時間ベースの条件であってもよい。例えば、予め規定された条件には、第２のトランザクションの発行から少なくともしきい値の時間が経過したときに参加を終了する場合がある。すなわち、情報提供システムには、参加できる一定の時間が提供され得る。その期間が満了すると、情報提供システム（ノード）は、もはや参加が許可されなくなる場合がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0135">
+  予め規定された条件は、少なくともしきい値数の情報提供システムの参加を必要とし得る。すなわち、第２のトランザクションへの参加は、少なくともしきい値数の情報提供システムが、それぞれの預入金を第２のトランザクションへの入力として追加することにより要求を完了することにコミットするまでオープンのままにされ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0136">
+  参加をオープンのままにするための予め規定された条件は、コングレスによって規定してもよいし、又は要求者によって規定してもよい。例えば、要求者は、要求に予め規定された条件を含めることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0137">
+  動作１１１０において、予め規定された条件が満たされたと判定した後（例えば、情報提供システムによって入力がトランザクションに追加された後）に、コングレスは、情報提供システムの参加をロックする。すなわち、方法１１００を実行するコングレス・ノードは、他のコングレス・ノードと協力して、更なるコミットメントを第２のトランザクションに追加するのを防ぐことができる。コングレス・ノードは、他のコングレス・ノードと協力して第２のトランザクションを使う（つまり、第２のトランザクションのロックを解除する）ことにより、そうすることができる。より具体的には、コングレス・ノードは、そのような他のコングレス・ノードと協力して、そのコングレス・ノードが保持する秘密キーシェアを使用して、トランザクションに関するトランザクションを使うための有効な暗号署名を協力して生成することができる。そのようなコングレス・ノードは、しきい値署名方式に従って有効な署名が生成されるまで、それぞれの秘密キーシェアに基づいて生成された部分的な署名を追加することにより協力してもよい。第２のトランザクションがマイニングされ、且つその第２のトランザクションの上部に十分な数のブロックが追加され、それが確認されると、トランザクションは使われた（spent）とみなされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0138">
+  第２のトランザクションは、要求の完了をコミットした情報提供システムのレジスタとして機能する。つまり、第２のトランザクションは、要求に対するソリューションがあることを示し、且つソリューションを提供することにコミットした情報提供システムのレジスタとして機能する。第２のトランザクションは、参加している各情報提供システムから預入金を収集し、且つ情報提供システムが送信しようとしているプルーフオブソリューションを提供するようにも機能し、それによって後で値が変更できなくなり、他の参加者により値をコピーできないようにする。
+</base:Paragraphs>
+      <base:Paragraphs num="0139">
+  第２のトランザクションが使われた後に、動作１１１２において、コングレス・ノードが、入力を第２のトランザクションに追加した複数の情報提供システムからデータを受信することができる。例えば、各情報提供システムによって提案されたソリューションは、ここで、情報提供システムによってコングレス・ノードに提供される。ソリューションｑは、情報提供システムによって第２のトランザクションに追加されたハッシュで使用される他の情報とともに送信され得る。例えば、ソリューションｑは、情報提供システムの公開キーＰＫ及びソルトｓとともに提供され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0140">
+  動作１１１２でデータを受信した後に、コングレス・ノードは、ソリューションｑがコミットされたソリューション（すなわち、第２のトランザクションのプルーフオブソリューションデータによって特定されたソリューション）に対応することを確認してもよい。例えば、コングレス・ノードは、ソリューションｑ、公開キーＰＫ、及びソルトｓに対してハッシュ（つまり、ＨＡＳＨ（ｑ＋ＰＫ＋ｓ））を実行することができる。このハッシュを第２のトランザクションのハッシュと比較して、ソリューションがコミットされたソリューションに対応しているかどうかを判定することができる。ソリューションがコミットされたソリューションに対応していない場合（例えば、生成されたハッシュが第２のトランザクションのハッシュに対応していない場合）に、ソリューション（つまり、そのソリューションを表すデータ）は破棄され、方法１０００の以下の動作は使用されない。
+</base:Paragraphs>
+      <base:Paragraphs num="0141">
+  動作１１１４において、コングレス・ノードは、他のコングレス・ノードと協力して、要求に対する正しいデータ（例えば、正しいソリューション）を特定する。コングレス・ノードは、例えば、複数の情報提供システムから受信したデータの中心点を決定することができる。例えば、データが数値を表す場合に、中心点は、動作１１１２において情報提供システムから受信した全ての値の平均値であり得る（すなわち、中心点は、受信した全ての値の平均として決定され得る）。更なる例として、いくつかの実施形態では、中心点は、情報提供システムから受信した最も一般的な値又は解であり得る（すなわち、中心点は、受信した全ての値のモード（最頻値）として決定され得る）。更なる例として、いくつかの実施形態では、中心点は、情報提供システムから受信した中間値であり得る（すなわち、中心点は、受信した全ての値の中央値として決定され得る）。中心点は、要求者から受信したデータに基づいて決定され得る。例えば、要求者は、中心点を特定するために使用される技術を指定することができ、動作１１１４において、コングレスは、指定された技術を使用することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0142">
+  中心点は、コングレス・ノードのコンセンサスによって選択され得る。一例として、中心点の決定はサイドチェーンで行われ得、コングレス・ノードは、それぞれの秘密キーシェアを使用して、中心点を表すトランザクションの有効な署名を協同して生成することができる。有効な署名が生成されると、これは、コングレスが中心点に関して合意に達したことを示している。
+</base:Paragraphs>
+      <base:Paragraphs num="0143">
+  動作１１１６において、コングレス・ノードは、コングレスの他のノードと協力して、正しいデータを提供した情報提供システムを特定する。すなわち、コングレス・ノードは、要求の履行を意図してデータを提供した情報提供システムのサブセットを特定することができる。サブセットは、動作１１１４において特定された正しいデータに十分に近いデータを提供した情報提供システムで構成される。例えば、ノードは、サブセットとして、動作１１１４において特定された中心点付近のデータを提供した情報提供システムを特定することができる。状況によっては、データを提供した全ての情報提供システムが正しいデータを提供した可能性があり、他の状況では、そのような情報提供システムの一部のみが正しいデータを提供した可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0144">
+  正しいデータに十分に近いデータを提供した情報提供システムを特定するために、しきい値を使用してもよい。しきい値は、要求者が指定することができる。例えば、要求者によって発せられた要求には、しきい値インジケータが含まれる場合がある。しきい値インジケータは、要求自体に含めることも、要求にリンク付けすることもできる。つまり、要求は、しきい値インジケータを規定する、サーバ上のデータ等のデータにリンク付けしてもよい。しきい値インジケータは、要求される精度を規定し、正しい情報を送信したとみなされる情報プロバイダーのサブセットを特定するために使用することができる。例えば、しきい値インジケータは、与えられたデータが正しいと判定すべき正しいデータに十分に近いかどうかを判定するために使用されるパーセンテージ又は他のメトリックを指定してもよい。正しいデータからしきい値量以内のデータを提供した情報提供システムは、動作１１１６において十分に正しいデータを提供したと判定され、且つ正しいデータを提供したと特定される。
+</base:Paragraphs>
+      <base:Paragraphs num="0145">
+  場合によっては、正しいデータと一致するデータのみが正しいとみなされる。すなわち、場合によっては、正しいデータに一致するデータのみが、正しいと判定すべき正しいデータに十分に近いとみなされるように、しきい値インジケータをゼロに設定してもよい。つまり、しきい値インジケータがゼロに設定されている場合に、データは、有効とみなされるように正しいデータと同じでなければならない。
+</base:Paragraphs>
+      <base:Paragraphs num="0146">
+  動作１１１８において、コングレス・ノードは、他のコングレス・ノードと協力して、要求に関連するスクリプトを起動する。コングレス・ノードは、正しいデータに基づいてスクリプトを起動することができる。例えば、コングレス・ノードは、動作１１１４において決定されたデータの中心点に基づいてスクリプトを起動することができる。コングレス・ノードは、要求に関連するスクリプトをロック解除するトランザクションをブロックチェーン・ネットワークに送信するために協力する。トランザクションには正しいデータが含まれ、トランザクションは、スクリプト内のコードに従ってこのデータを使用し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0147">
+  動作１１２０において、コングレス・ノードは、コングレスの他のノードと協力して、動作１１０６において検出されたトランザクションで受信した報奨金を分配する。より具体的には、トランザクションは、報奨金の一部を、十分に正しいデータを提供したと判定された各情報提供システム（要求に応じてデータを提供する全ての情報提供システムのサブセット、又は要求に応じて全てのそのようなシステムが正しいデータを提供する場合の全ての情報提供システムであり得る）にブロードキャスト転送することができる。例えば、コングレス・ノードは、コングレスを形成するノードのグループの他のコングレス・ノードと協力して、サブセット内の各情報提供システムへのデジタル資産の転送を許可してもよい。トランザクションは、コングレス公開キーによって制限されたデジタル資産を、十分に正しいデータを送信した情報提供システムに関連する公開キーに転送する。トランザクションに署名するために、コングレス・ノードは、その秘密キーシェアを使用して、（しきい値署名方式に従って有効な署名を生成するのに十分なそれぞれの秘密キーシェアを使用する）他のコングレス・ノードと協力して有効な署名を生成する。トランザクションは、１人又は複数のコングレス・メンバーに報奨金の一部を分配することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0148">
+  コングレス・ノードは、コングレスの他のノードと協力して、情報提供システムによって提供された預入金の少なくとも一部を返却する場合もある。例えば、コングレス・ノードは、しきい値署名方式に従って他のコングレス・ノードと協力して生成された有効な署名が含まれるトランザクションをブロードキャストすることができる。要求によって、十分に正しいデータを提供した情報提供システムに預入金を返却する場合がある。十分に正確なデータを提供しなかった情報提供システムの預入金は没収される場合がある。つまり、そのような預入金は返却されない場合がある。例えば、十分に正しいデータを提供しなかったノードの預入金は、十分に正しい値を提供したノード同士の間で分配され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0149">
+  上述した方法は、一般にノードで実行されるものとして説明しているが、この方法の機能は、他のノードとの協力に依存しており、他の場所で実行することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0150">
+  上述した実施形態は、本発明を限定するのではなく例示するものであり、当業者は、添付の特許請求の範囲によって規定されるように本発明の範囲から逸脱することなく、多くの代替実施形態を設計できることに留意されたい。特許請求の範囲において、括弧内に置かれた参照符号は、特許請求の範囲を限定するものとして解釈してはならない。「備える、有する、含む（comprising,  comprises）」等の語は、請求項又は明細書全体に列挙されているもの以外の要素又はステップの存在を排除するものではない。本明細書において、「備える、有する、含む（comprises,  comprising）」は、「含む、有する（includes,  including）」又は「から構成される（consists  of,  consisting  of）」を意味する。要素の単数形の参照は、そのような要素の複数形の参照を除外するものではなく、その逆も同様である。本発明は、いくつかの別個の要素を含むハードウェアによって、及び適切にプログラムされたコンピュータによって実施され得る。いくつかの手段を列挙する装置クレームでは、これらの手段のいくつかは、ハードウェアの同一のアイテムによって具現化され得る。特定の手段が互いに異なる従属請求項に記載されているという単なる事実は、これらの手段の組合せが有利に使用できないことを示すものではない。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000006" he="63" wi="68" file="2020517169_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000007" he="52" wi="60" file="2020517169_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000008" he="58" wi="57" file="2020517169_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000009" he="57" wi="57" file="2020517169_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000010" he="40" wi="57" file="2020517169_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000011" he="45" wi="57" file="2020517169_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000012" he="29" wi="57" file="2020517169_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000013" he="40" wi="57" file="2020517169_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000014" he="58" wi="71" file="2020517169_000014.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000015" he="40" wi="57" file="2020517169_000015.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000016" he="94" wi="57" file="2020517169_000016.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  コンピュータで実施される方法であって、当該コンピュータで実施される方法は、
+
+  ブロックチェーン・ネットワーク内のノードによって、トランザクションをコングレス（congress）プールにブロードキャストして、ノードのグループで形成されるコングレスに参加するステップと、
+
+  前記コングレスが要求者からのスクリプトを起動する要求を受け入れた後に、前記ノードによって、前記コングレスプールに関連する公開キーで暗号ロックされたブロックチェーン・トランザクションを準備するステップであって、前記ブロックチェーン・トランザクションは、複数の情報提供システムが前記ブロックチェーン・トランザクションに入力を追加できるように構成される、準備するステップと、
+
+  前記入力が前記ブロックチェーン・トランザクションに追加された後に、前記グループの他のノードと協力する前記ノードによって、前記ブロックチェーン・トランザクションの有効な暗号署名を協力して生成し、前記ブロックチェーン・トランザクションをロック解除するステップと、
+
+  前記トランザクションがロック解除された後に、前記複数の情報提供システムからデータを受信するステップと、
+
+  前記複数の情報提供システムから受信した前記データの中心点を決定するステップと、
+
+  前記コングレスの他のノードと協力する前記ノードによって、前記中心点に基づいて前記スクリプトを起動するステップと、を含む、
+
+  コンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記中心点に基づいて、前記ノードによって、前記中心点付近のデータを提供した前記情報提供システムのサブセットを特定するステップと、
+
+  前記グループの他のノードと協力する前記ノードによって、前記サブセット内の各情報提供システムへのトークンの転送を許可するステップと、をさらに含む、請求項１に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記転送に含まれる前記トークンには、前記要求者から前記コングレスプールに受け取られた１つ又は複数のトークンが含まれる、請求項２に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記要求にはしきい値インジケータが含まれ、前記サブセットは、前記しきい値インジケータに基づいて特定される、請求項２又は３に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記しきい値インジケータは前記要求者から受信される、請求項４に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記入力には、それぞれのプルーフオブソリューションデータ（proof  of  solution  data）が含まれ、
+
+  当該方法は、前記プルーフオブソリューションデータに基づいて、前記情報提供システムの少なくとも１つから受信した前記データが、コミットされたソリューションに対応することを判定するステップをさらに含む、請求項１乃至５のいずれか一項に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記入力には、それぞれのプルーフオブソリューションデータが含まれ、
+
+  当該方法は、
+
+  前記情報提供システムの少なくとも１つから受信した前記データが、その情報提供システムから受信した前記プルーフオブソリューションデータと対応していないと判定するステップと、
+
+  前記情報提供システムの前記少なくとも１つから受信した前記データが、前記プルーフオブソリューションデータに基づいて、コミットされたソリューションに対応していないと判定された場合に、前記データを破棄するステップと、をさらに含む、請求項１乃至５のいずれか一項に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記入力には、保証のためにロックされるトークンが含まれる、請求項１乃至７のいずれか一項に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記情報提供システムは、前記ブロックチェーン・トランザクションに、公開キー、前記要求に対するソリューション、及びソルト（salt）に基づくハッシュを含む、請求項１乃至８のいずれか一項に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記複数の情報提供システムから受信した前記データには、公開キー、前記要求に対するソリューション、及びソルトが含まれ、
+
+  当該方法は、
+
+  前記公開キー、前記要求に対するソリューション、及び前記ソルトに基づいて、ハッシュを生成するステップと、
+
+  該生成されたハッシュと、前記ブロックチェーン・トランザクションに含まれる前記ハッシュとを比較するステップと、をさらに含む、請求項９に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  悪意のある関係者による悪意のある活動を検出するステップであって、前記悪意のある関係者は前記コングレスの前記ノードのうちの１つである、検出するステップと、
+
+  秘密キーシェアを使用して、前記悪意のある関係者によって前記コングレスプールに以前に転送されたトークンの少なくとも一部を没収するステップと、をさらに含む、請求項１乃至１０のいずれか一項に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記没収するステップには、支出不能アカウントに転送するステップが含まれる、請求項１１に記載のコンピュータで実施される方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  実行されると、請求項１乃至１２のいずれか一項に記載の方法を実行するようにプロセッサを構成するコンピュータ実行可能命令を含む、コンピュータ可読記憶媒体。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  電子装置であって、当該電子装置は、
+
+  インターフェイス装置と、
+
+  該インターフェイス装置に結合されたプロセッサと、
+
+  該プロセッサに結合されたメモリであって、実行されると、請求項１乃至１２のいずれか一項に記載の方法を実行するようにプロセッサを構成するコンピュータ実行可能命令を格納したメモリと、を有する、
+
+  電子装置。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  前記プロセッサは、信頼できる実行環境を含み、前記コンピュータ実行可能命令は、前記信頼できる実行環境内で実行される、請求項１４に記載の電子装置。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000017" file="2020517169_000017.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000018" file="2020517169_000018.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000019" file="2020517169_000019.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000235457JP00020161260040AFULJA20160711JP00T.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126004" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126004</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126004</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000235457</base:DocNumber>
+        <base:Date>20151202</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015235457</base:DocNumber>
+        <base:Date>20151202</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>EP</base:WIPOST3Code>
+        <base:DocNumber>102014000200380</base:DocNumber>
+        <base:Date>20141229</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>EP</base:WIPOST3Code>
+        <base:DocNumber>14200380.5</base:DocNumber>
+        <base:Date>20141229</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>19</business:MainGroup>
+        <business:Subgroup>253</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G04B  19/253       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G04B19/253 E</business:FI>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">真の万年暦デバイス</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>モントレー  ブレゲ・エス  アー</base:Name>
+            <base:RegisteredNumber>504341564</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス国・ラバエ・１３４４</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エリック・ゲラー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス国・２０１３・コロンビエ・アヴェニュ  ロングヴィル・１５</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>山川  政樹</base:Name>
+            <base:RegisteredNumber>100064621</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>山川  茂樹</base:Name>
+            <base:RegisteredNumber>100098394</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>19</business:ClaimsCount>
+      <base:TotalPageCount>11</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】真の万年暦デバイスを提供する。【解決手段】計時器のための暦機構７００であって、暦機構７００は、当月の期間を表示し、月カム９を備え、月カム９の周縁部９０は、当月の期間を得るために、万年暦デバイスのフィーラ・スピンドル３０１に接近可能であり、暦機構７００及び月カム９は、万年暦デバイスによる当月への各変更に基づき月ごとに更新し、月カム９は、それぞれが仮想の２月２８日を含む整数年に一般化し、暦機構７００は、月カム９の外部に閏年機構９００を含み、閏年機構９００は、４年ごとの２月に、第１の修正器フィンガ９０１を周縁部９０とフィーラ・スピンドル３０１との間に径方向に挿入するように構成して、フィーラ・スピンドル３０１に現在の２月は、２８日ではなく２９日となることを知らせる。【選択図】図１</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="31" wi="68" file="2016126004_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、計時器の万年暦デバイスのための暦機構に関し、前記暦機構は、当月の期間を表示するように構成し、月カムを含み、月カムの周縁部は、当月の期間に関する情報を得るために、万年暦デバイスのフィーラ・スピンドルに接近可能であり、前記暦機構及び前記月カムは、前記万年暦デバイスによる当月への各変更に基づき月ごとに更新するように構成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0002">
+  本発明は、１つのそのような暦機構、及び当月の期間を測定するフィーラ・スピンドルを含む日数計算器機構、及び月末修正機構を備える、計時器のための万年暦デバイスにも関し、前記フィーラ・スピンドルは、前記月カムの前記周縁部から当月の期間に関する情報を得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  本発明は、計時器機構にも関し、この計時器機構は、日付変更の瞬間に、そのような万年暦デバイスを作動する機構の日単位の解放を制御するように構成した計時器ムーブメントを含み、且つ前記暦機構によって制御する日付表示手段を少なくとも含む表示機構を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  本発明は、そのような計時器機構を含む計時器にも関する。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  本発明は、機械式時計における暦表示機構の分野に関し、より詳細には、万年暦表示機構に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0006">
+  最も従来的な暦計時器は、Ｆｒａｎｃｏｉｓ  Ｌｅｃｏｕｌｔｒｅ著、Ｂｉｅｎｎｅ編、時計学版、「Ｌｅｓ  ｍｏｎｔｒｅｓ  ｃｏｍｐｌｉｑｕｅｅｓ（複雑時計の案内書（Ａ  Ｇｕｉｄｅ  ｔｏ  Ｃｏｍｐｌｉｃａｔｅｄ  Ｗａｔｃｈｅｓ））」という名称の出版物に具体的に記載されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  いわゆる万年暦デバイスの機能は、当月、より詳細には２月の日数を決定することである。万年機構とは、おおよその概念であり、最も市場で入手可能な機構は、４８個の切欠き付き月カム又は１２個の位置を有する月カムのいずれかを使用する単純な閏年機構であり、この機構において、２月の位置は、最も一般的なデバイスを挙げると、マルタ・クロス又は同様の要素を備える閏年機構を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0008">
+  グレゴリオ暦により加えられる世紀末の年及び４００年目の年といった極めて特殊な管理により、これらの適用を極めて希少にしており、世紀末の年は、実際にいくつかの時計で見出されるにすぎず、非常に高度な複雑時計とみなされている。４００年目の年及び４０００年目の年は、Ｓｃｈｗｉｌｇｕｅが１９世紀に完成させたストラスブール大聖堂の時計を含む天文時計でのみ見られる。
+</base:Paragraphs>
+      <base:Paragraphs num="0009">
+  万年暦デバイスの設計には、２つの困難：
+  －関係する暦の種類の特殊性をどのように考慮に入れ、この特殊性を計時器機構の形態にどのように変換するかということ、及び
+  －そのような機構が停止した場合にどのように更新するかということ
+がある。更新は、建物の天文時計の場合のように、計時器を決して停止してはならないほど非常に複雑であることが多い。閏年を４年サイクルで単に管理する、最も基本版の万年グレゴリオ暦の場合でさえ、あらゆる更新は、正確な年及び正確な月に到達させるために最大４７回の操作という多数の操作によって達成され、こうした操作は、機構の磨耗をもたらす。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0010">
+  本発明は、その複雑度に関わらず、万年暦デバイスの修正を容易にすることを提案する。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  構成要素の数の低減を伴う単純な解決策により、世紀末の年、４００年目の年又は更には４０００年目の年を実際に組み込む、真の万年暦をより容易に作成することが可能にもなる。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0012">
+  この目的で、本発明は、計時器の万年暦デバイスのための暦機構であって、前記暦機構は、当月の期間を表示するように構成し、月カムを含み、月カムの周縁部は、当月の期間に関する情報を得るために、万年暦デバイスのフィーラ・スピンドルに接近可能であり、前記暦機構及び前記月カムは、前記万年暦デバイスによる当月への各変更に基づき月ごとに更新するように構成する、暦機構に関し、前記月カムは、それぞれが仮想の２月２８日を含む整数年に一般化すること、並びに前記暦機構は、前記月カムの外部に閏年機構を含み、閏年機構は、４年ごとの２月に、第１の修正器フィンガを前記月カムの周縁部と前記フィーラ・スピンドルとの間に径方向に挿入するように構成して、フィーラ・スピンドルに現在の２月は２８日ではなく２９日となることを知らせることを特徴とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  本発明は、そのような暦機構、及び当月の期間を測定するフィーラ・スピンドルを含む日数計算器機構、及び月末修正機構を含む、計時器のための万年暦デバイスであって、前記フィーラ・スピンドルは、前記月カムの前記周縁部から月の期間に関する情報を得る、万年暦デバイスにも関し、前記日数計算器機構は、現在の月日を決定し、日付表示を制御し、当月への各変更時に前記月カムの動きを制御して、前記暦機構、及び月カムが駆動する前記閏年機構を更新することを特徴とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  本発明は、計時器機構にも関し、計時器機構は、日付変更の瞬間に、そのような万年暦デバイスを作動する機構の日単位の解放を制御するように構成した計時器ムーブメントを含み、且つ前記暦機構によって制御する日付表示手段を少なくとも含む表示機構を備える。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  本発明は、そのような計時器機構を含む計時器にも関する。
+</base:Paragraphs>
+        <base:Paragraphs num="0016">
+  本発明の他の特徴及び利点は、添付の図面を参照しながら以下の詳細な説明を読めば明らかになるであろう。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0017">
+        <base:FigureReference num="0001">閏年の管理のための簡略化実施形態において、機構が２月２９日に対応する修正を行う位置にある、本発明による万年暦デバイスの概略部分上面図である。</base:FigureReference>
+        <base:FigureReference num="0002">同じ位置にある図１の機構の底面図である。</base:FigureReference>
+        <base:FigureReference num="0003">２月２８日に対応する位置にある同じ機構を図２と同様に示す図であり、修正機構を分離している。</base:FigureReference>
+        <base:FigureReference num="0004">図２の位置にある同じ機構の方向Ｄにおける側面図である。</base:FigureReference>
+        <base:FigureReference num="0005">グレゴリオ暦における閏年、世紀末の年、４００年目の年及び４０００年目の年を管理することを含む複雑な実施形態において、本発明による万年暦デバイスを図４と同様に示す図である。</base:FigureReference>
+        <base:FigureReference num="0006">図５の機構の平面図であり、各修正要素は、Ａで示す位置（修正が作動していない）及びＢで示す位置（修正が作動している）で示す。</base:FigureReference>
+        <base:FigureReference num="0007">図１の機構の部分概略斜視図である。</base:FigureReference>
+        <base:FigureReference num="0008">計時器機構を含む計時器、特に時計を示すブロック図であり、計時器機構は、計時器ムーブメント及び１つのそのような万年暦デバイスを含む。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0018">
+  本発明は、万年暦デバイスの暦機構のための修正機構を提示する。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  本発明は、グレゴリオ暦における世紀末の年、４００年目の年及び４０００年目の年の複雑形態を実際に組み込む真の万年暦デバイスも提示する。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  本発明は、欧州におけるグレゴリオ暦への好ましい適用において説明する。しかし、年ごとに異なる長さの月を含むあらゆる種類の暦に適用可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  本明細書は、表示機構全体を例示するものではなく、フィーラ・スピンドルが、現在の周期間隔に関する１つの正確な情報の読出しを移動要素上でどのように可能であるかということに限定して示す。移動要素とは、ここでは月カムであり、現在の間隔とは、当月である。この特定の適用例は非限定的ではなく、当業者は、太陰暦、修正期間を有する暦等、他の暦型にこの特定の適用例をどのように置き換えるのかわかるだろう。フィーラ・スピンドルも特定の適用例であり、あらゆる他の表示制御機構と代えることができる。本発明は、レトログレード、即ちジャンピング・アワー表示であっても、そうではなくてもよいあらゆる暦表示に適用可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  図示のように、万年暦デバイスは、本質的にカム及びレバーである構成要素を含み、これらの形態は、本明細書では単に例示として示し、計時器内に構成する他の複雑な構成要素によって本質的に規定するものであり、あらゆる干渉を防止する要件によって、実際の機能で必要とされる形態よりも複雑な形態をもたらすことができる。当然、これらの構成要素は、同様の機能を満たす他の構成要素、特に、車、スター・ホイール又は他の要素によって置換え又は補うことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  本明細書に示す一部の移動要素は、最大数世紀となり得る非常に長い周期を有する。そのような要素の制御は、本明細書では詳述しないが、複雑要素を収容する計時器内で利用可能な空間に本質的に依存するものである。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  より具体的には、本発明は、計時器の万年暦デバイス１００のための暦機構７００に関する。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  この暦機構７００は、当月の期間を表示するように構成し、月カム９を含み、月カム９の周縁部９０は、当月の期間に関する情報を得るために万年暦デバイス１００のフィーラ・スピンドル３０１に接近可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  暦機構７００及びその月カム９は、そのような万年暦デバイス１００による当月への各変更に基づき月ごとに更新するように構成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  本発明によれば、月カム９は、それぞれが仮想の２月２８日を含む整数年に一般化し、暦機構７００は、閏年機構９００を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  この閏年機構９００は、月カム９の外部にあり、４年ごとの２月に、一方の月カム９の周縁部９０と、他方のそのようなフィーラ・スピンドル３０１との間に第１の修正器フィンガ９０１を径方向に挿入するように構成し、月カム９に現在の２月が２８日ではなく２９日となることを知らせる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  より具体的には、図に示すように、閏年機構９００は、４年レバー９２を制御する４年カム９１を含む。この４年レバー９２の動きは、直接又は間接的に第１の修正器フィンガ９０１に永続的に伝達される。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  図１から図６の特定の実施形態では、４年レバー９２は、第１の修正器フィンガ９０１を保持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  図７の特定の実施形態では、４年レバー９２は、４年カム９１の反対側に第１の歯付き区分９２２を含む引上げ部品であり、第１の歯付き区分９２２は、アーム９２３内に構成した第２の歯付き区分９２２と噛み合い、このアーム９２３は、第１の修正器フィンガ９０１を保持する。より一層具体的には、図７からわかるように、４年カム９１は、アーム９２３の第２の歯付き区分９２２と同軸である。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  好ましくは、月カム９の月ごとの動きは、適切な伝達速度で４年カム９１に伝達される。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  特定の一実施形態、及び特に図１から図６の特有の実施形態では、４年カム９１は、平坦であり、４年レバー９２は、フィーラ・スピンドル３０１と共に協働させるために、月カム９の平面に平行な平面内を移動可能であり、月カム９と並置する。好ましくは、このフィーラ・スピンドル３０１の幅は、互いに並置した４年レバー９２及び月カム９の合計厚さよりも大きいか又はそれに等しい。とはいえ、フィーラ・スピンドル３０１の幅が４年レバー９２及び月カム９両方の上に載るのに十分であるという条件で、動作が引き続き可能であることは理解されよう。図５及び図６は、４年レバー９２及び月カム９、更には少なくとも１つの更なる制御手段と同時に協働するように、フィーラ・スピンドル３０１の幅がより一層大きいより複雑な機構を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  特定の一実施形態では、月カム９は、それぞれが２月２８日を含む４年間に及び、同期回転で直接的に又は１の比率を有する逆転器を介して、４年カム９１を駆動する。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  その簡単さ及び小型さにおいて有利である図示の特定の実施形態では、月カム９は１年間のみに及ぶ。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  図２と図３とを比較すると、図５の４年レバー９２の非作動位置Ｂにおいて、その端部９０１は、フィーラ・スピンドル３０１が周縁部９０の切欠きの底部に触れるのを防止しない（２８日の月に対応する）ことを明らかに示しており、フィーラ・スピンドル３０１は、次に、必要な日数を飛び越すことによって、対応する修正を行い、適切な表示を生成する。図１の作動位置Ａでは、端部９０１は、フィーラ・スピンドル３０１の完全な下降を防止し、これにより径方向位置に停止させ（２９日の月に対応する）、対応する更新及び表示を開始する。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  本発明の原理は、２月の期間における特定の有利な適用を見出すことであるが、明らかに、４年カム９１を異なる修正器レバー制御部と置き換えることによって、３０日若しくは３１日の月、又は２８日若しくは２９日の朔望月、或いはあらゆる他の組合せ若しくは順序の可変期間周期に適用可能であることに留意されたい。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  図５及び図６は、なお一層正確な万年暦のための暦機構７００を示し、「真の」万年暦と称することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  まず、第１の機構は、２月２９日を有する４００年目の年を管理する。したがって、暦機構７００は、月カム９の外部に４００年目機構９５０を含み、この４００年目機構９５０は、４００年ごとの２月に、月カム９の周縁部９０とフィーラ・スピンドル３０１との間に第２の修正器フィンガ９５１を挿入するように構成して、フィーラ・スピンドル３０１に現在の２月は２８日ではなく２９日となることを知らせる。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  より具体的には、図５及び図６からわかるように、４００年目機構９５０は、４００年カム９１５を含み、４００年カム９１５は、第２の修正器フィンガ９５１を保持する４００年レバー９２４００を制御する。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  より高度な複雑形態では、暦機構７００は、理論上は閏年であるが２月２８日を有する世紀末の年を制御する。この目的で、暦機構７００は、月カム９の外部に世紀末機構９８０を含み、世紀末機構９８０は、第１の修正器フィンガ９０１が月カム９の周縁部９０とフィーラ・スピンドル３０１との間に挿入されるのを防止することによって、１００年ごとの２月に閏年機構９００を分離するように構成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  より詳細には、この世紀末機構９８０は、１００年カム９１００を含み、１００年カム９１００は、１００年に一度、４年レバー９２が傾くのを防止するように構成した１００年レバー９２００を制御する。位置Ｂは、１００年ごとに、４年レバー９２をその非作動位置Ａに強制的に留まらせる。というのは、１００年レバー９２００が、４年レバー９２をその作動位置Ｂに戻さないようにするためである。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  一変形形態では、４年レバー９２は、格納式停止部材の近傍にヒンジを含み、格納式停止部材の格納動作は、世紀末機構９８０によって制御し、格納式停止部材が動作すると、４年レバーを折り畳み、分離可能にし、その残りの時間では、前記格納式停止部材は、４年レバー９２が折り畳まれるのを防止する停止位置にあり、４年レバー９２を展開位置で保持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  特に、非常に長い周期で歯車の減速を制御するために達成がより困難である、より一層高度な複雑形態では、暦機構７００は、理論上は閏年であるが２月２８日を有する４０００年目の年を管理する。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  より具体的には、この場合、暦機構７００は、月カム９の外部に４０００年機構９９０を含み、４０００年機構９９０は、第１の修正器フィンガ９０１が月カム９の周縁部９０とフィーラ・スピンドル３０１との間に挿入されるのを防止することによって、４０００年ごとの２月に閏年機構９０を分離するように構成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  より詳細には、４０００年機構９９０は、４０００年カム４０００を含み、４０００年カム４０００は、４０００年に一度、４年レバー９２が傾くのを防止するように構成した４０００年レバー９２０００を制御する。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  一変形形態では、４年レバー９２は、格納式停止部材の近傍にヒンジを含み、格納式停止部材の格納動作は、４０００年機構９９０によって制御し、格納式停止部材が動作すると、４年レバーを折り畳み、分離可能にし、その残りの時間では、前記格納式停止部材は、４年レバー９２が折り畳まれるのを防止する停止位置にあり、４年レバー９２を展開位置で保持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  本発明は、計時器のための万年暦デバイス１００にも関し、この万年暦デバイス１００は、１つのそのような暦機構７００、及び当月の期間を測定するフィーラ・スピンドル３０１を含む日数計算器機構３００、及び月末修正機構６００を含む。フィーラ・スピンドル３０１は、当月の期間に関する情報を月カム９の周縁部９０から得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  本発明によれば、日数計算器機構３００は、現在の月日を決定し、日付表示を制御し、当月への各変更時に月カム９の動きを制御して、暦機構７００、及び月カム９が駆動する少なくとも閏年機構９００を更新する。より具体的には、日数計算器機構３００は、場合により、４００年機構９５０の駆動、世紀末機構９８０の駆動、４０００年機構９９０の駆動も確実にする。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  この万年暦デバイス１００は、好ましくは、修正器機構５００を含み、この修正器機構５００は、ユーザが制御のためにアクセス可能な制御手段を備え、現在の表示に対して、一方で最大３回の動作で閏年機構９００を更新し、もう一方で最大１１回の動作で月カム９を更新する。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  より具体的には、日数計算器機構３００は、４００年機構９５０、年末機構９８０、４０００年機構９９０及び、それらの機構内に構成されるそれぞれのカム９１５、９１００、４０００の更新を制御するようにも構成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  本発明は、計時器機構８００にも関し、計時器機構８００は、日付変更の瞬間に、そのような万年暦デバイス１００を作動する機構の日単位の解放を制御するように構成した計時器ムーブメント２００を含み、且つ暦機構７００によって制御する日付表示手段４１２を少なくとも含む表示機構４００を備える。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  本発明は、そのような計時器機構８００を含む計時器１０００にも関する。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0054">
+  ９  月カム
+  ９０  周縁部
+  ９１  ４年カム
+  ９２  ４年レバー
+  １００  万年暦デバイス
+  ３０１  フィーラ・スピンドル
+  ７００  暦機構
+  ９００  閏年機構
+  ９５０  ４００年機構
+  ９８０  世紀末機構
+  ９９０  ４０００年機構
+</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="36" wi="80" file="2016126004_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="39" wi="80" file="2016126004_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="37" wi="75" file="2016126004_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="30" wi="80" file="2016126004_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="119" wi="72" file="2016126004_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="119" wi="57" file="2016126004_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="114" wi="83" file="2016126004_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="37" wi="80" file="2016126004_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  計時器の万年暦デバイス（１００）のための暦機構（７００）であって、前記暦機構（７００）は、当月の期間を表示するように構成し、月カム（９）を含み、前記月カム（９）の周縁部（９０）は、当月の期間に関する情報を得るために、前記万年暦デバイス（１００）のフィーラ・スピンドル（３０１）に接近可能であり、前記暦機構（７００）及び前記月カム（９）は、前記万年暦デバイス（１００）による当月への各変更に基づき月ごとに更新するように構成する、暦機構（７００）において、前記月カム（９）は、それぞれが仮想の２月２８日を含む整数年に一般化すること、並びに前記暦機構（７００）は、前記月カム（９）の外部に閏年機構（９００）を含み、前記閏年機構（９００）は、４年ごとの２月に、前記月カム（９）の前記周縁部（９０）と前記フィーラ・スピンドル（３０１）との間に第１の修正器フィンガ（９０１）を径方向に挿入するように構成して、前記フィーラ・スピンドル（３０１）に現在の２月は、２８日ではなく２９日となることを知らせることを特徴とする、暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記閏年機構（９００）は、４年レバー（９２）を制御する４年カム（９１）を含み、前記４年レバー（９２）の動きは、直接又は間接的に前記第１の修正器フィンガ（９０１）に永続的に伝達することを特徴とする、請求項１に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記４年レバー（９２）は、前記第１の修正器フィンガ（９０１）を保持することを特徴とする、請求項２に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記４年レバー（９２）は、前記４年カム（９１）の反対側に第１の歯付き区分（９２２）を含む引上げ部品であり、前記第１の歯付き区分（９２２）は、アーム（９２３）内に構成した第２の歯付き区分（９２２）と噛み合い、前記アーム（９２３）は、前記第１の修正器フィンガ（９０１）を保持することを特徴とする、請求項２に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記４年レバー（９１）は、前記アーム（９２３）の前記第２の歯付き区分（９２２）と同軸であることを特徴とする、請求項４に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記月カム（９）の月ごとの動きは、適切な伝達速度で前記４年カム（９１）に伝達することを特徴とする、請求項２に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記４年カム（９１）は、平坦であること、並びに前記４年レバー（９２）は、前記フィーラ・スピンドル（３０１）と共に協働させるために、前記月カム（９）の平面に平行な平面内を移動可能であり、前記月カム（９）と並置し、前記フィーラ・スピンドル（３０１）の幅は、互いに並置した前記４年レバー（９２）及び前記月カム（９）の合計厚さよりも大きいか又は前記合計厚さに等しいことを特徴とする、請求項２に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記月カム（９）は、それぞれが２月２８日を含む４年間に及び、同期回転で直接的に又は１の比率を有する逆転器を介して、前記４年カム（９１）を駆動することを特徴とする、請求項２に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記月カム（９）は、１年間のみに及ぶことを特徴とする、請求項１に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記暦機構（７００）は、前記月カム（９）の外部に４００年目機構（９５０）を含み、前記４００年目機構（９５０）は、４００年ごとの２月に、前記月カム（９）の前記周縁部（９０）と前記フィーラ・スピンドル（３０１）との間に第２の修正器フィンガ（９５１）を挿入するように構成して、前記フィーラ・スピンドル（３０１）に現在の２月は２８日ではなく２９日となることを知らせることを特徴とする、請求項１に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記４００年機構（９５０）は、４００年カム（９１５）を含み、前記４００年カム（９１５）は、前記第２の修正器フィンガ（９５１）を保持する４００年レバー（９２４００）を制御することを特徴とする、請求項１０に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記暦機構（７００）は、前記月カム（９）の外部に世紀末機構（９８０）を含み、前記世紀末機構（９８０）は、１００年ごとの２月に、前記第１の修正器フィンガ（９０１）が前記月カム（９）の前記周縁部（９０）と前記フィーラ・スピンドル（３０１）との間に挿入されるのを防止することによって、前記閏年機構（９００）を分離するように構成することを特徴とする、請求項１に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記暦機構（７００）は、前記月カム（９）の外部に世紀末機構（９８０）を含み、前記世紀末機構（９８０）は、１００年ごとの２月に、前記第１の修正器フィンガ（９０１）が前記月カム（９）の前記周縁部（９０）と前記フィーラ・スピンドル（３０１）との間に挿入されるのを防止することによって、前記閏年機構（９００）を分離するように構成すること、及び前記世紀末機構（９８０）は、１００年カム（９１００）を含み、前記１００年カム（９１００）は、１００年に一度、前記４年レバー（９２）が傾くのを防止するように構成した１００年レバー（９２００）を制御することを特徴とする、請求項２に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記暦機構（７００）は、前記月カム（９）の外部に４０００年目機構（９９０）を含み、前記４０００年目機構（９９０）は、４０００年ごとの２月に、前記第１の修正器フィンガ（９０１）が前記月カム（９）の前記周縁部（９０）と前記フィーラ・スピンドル（３０１）との間に挿入されるのを防止することによって、前記閏年機構（９００）を分離するように構成することを特徴とする、請求項９から１１のうちいずれか一項に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  前記暦機構（７００）は、前記月カム（９）の外部に世紀末機構（９８０）を含み、前記世紀末機構（９８０）は、１００年ごとの２月に、前記第１の修正器フィンガ（９０１）が前記月カム（９）の前記周縁部（９０）と前記フィーラ・スピンドル（３０１）との間に挿入されるのを防止することによって、前記閏年機構（９００）を分離するように構成すること、及び前記４０００年目機構（９９０）は、４０００年カム（４０００）を含み、前記４０００年カム（４０００）は、４０００年に一度、前記４年レバー（９２）が傾くのを防止するように構成した４０００年レバー（９２０００）を制御することを特徴とする、請求項２に記載の暦機構（７００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  請求項１に記載の暦機構（７００）、及び当月の期間を測定するフィーラ・スピンドル（３０１）を含む日数計算器機構（３００）、及び月末修正機構（６００）を含む計時器のための万年暦デバイス（１００）であって、前記フィーラ・スピンドル（３０１）は、前記月カム（９）の前記周縁部（９０）から月の期間に関する情報を得る、万年暦デバイス（１００）において、前記日数計算器機構（３００）は、現在の月日を決定し、日付表示を制御し、当月への各変更時に前記月カム（９）の動きを制御して、前記暦機構（７００）、及び前記月カム（９）が駆動する前記閏年機構（９００）を更新することを特徴とする、万年暦デバイス（１００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  前記万年暦デバイスは、修正器機構（５００）を含み、前記修正器機構（５００）は、ユーザが制御のためにアクセス可能な制御手段を備え、現在の表示に対して、一方で最大３回の動作で前記閏年機構（９００）を更新し、もう一方で最大１１回の動作で前記月カム（９）を更新することを特徴とする、請求項１６に記載の万年暦デバイス（１００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  計時器機構（８００）であって、日付変更の瞬間に、請求項１６に記載の万年暦デバイス（１００）を作動する機構の日単位の解放を制御するように構成した計時器ムーブメント（２００）を含み、且つ前記暦機構（７００）によって制御する日付表示手段を少なくとも含む表示機構（４００）を備える計時器機構（８００）。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>
+  請求項１８に記載の計時器機構（８００）を含む計時器ムーブメント（１０００）。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

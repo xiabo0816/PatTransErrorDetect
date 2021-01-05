@@ -1,0 +1,853 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000516288JP00020165199510AFULJA20160711JP00S.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519951" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519951</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519951</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000516288</base:DocNumber>
+        <base:Date>20140528</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016516288</base:DocNumber>
+        <base:Date>20140528</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002013000829451</base:DocNumber>
+        <base:Date>20130531</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="2">
+        <base:WIPOST3Code>EP</base:WIPOST3Code>
+        <base:DocNumber>102013000169980</base:DocNumber>
+        <base:Date>20130531</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>61/829,451</base:DocNumber>
+        <base:Date>20130531</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="2">
+        <base:WIPOST3Code>EP</base:WIPOST3Code>
+        <base:DocNumber>13169980.3</base:DocNumber>
+        <base:Date>20130531</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>24</business:MainClass>
+        <business:Subclass>D</business:Subclass>
+        <business:MainGroup>3</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A24D   3/16        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A24D3/16</business:FI>
+      <business:FClass>
+        <business:FTerm>4B045BA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B045BB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B045BB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B045BC15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B045BC16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B045</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">煙成分の選択的な除去のための官能性を持たせた材料</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>フィリップ・モーリス・プロダクツ・ソシエテ・アノニム</base:Name>
+            <base:RegisteredNumber>596060424</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス国セアシュ－２０００  ヌシャテル、ケ、ジャンルノー  ３</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>クーデルク  ゲタン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス  ツェーハー２０３４  ペソー  シェネ  ３２アー</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ボー  ギヨーム</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス  ツェーハー１０１５  ローザンヌ  ステーション  ６  ツェーハー  ハー３  ６３５  （バティモン  ツェーハー）  エスジェ  イエスイセー  エルジェアールセー  ラボラトリー  オブ  ケミカル  リアクション  エンジニアリング  エコール  ポリテクニーク  フェデラーレ  ド  ローザンヌ  エペエフエル</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>イオウラノフ  イゴール</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス  ツェーハー１０１５  ローザンヌ  ステーション  ６  ツェーハー  ハー３  ６３５  （バティモン  ツェーハー）  エスジェ  イエスイセー  エルジェアールセー  ラボラトリー  オブ  ケミカル  リアクション  エンジニアリング  エコール  ポリテクニーク  フェデラーレ  ド  ローザンヌ  エペエフエル</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>キウイ  リュボフ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>スイス  ツェーハー１０１５  ローザンヌ  ステーション  ６  ツェーハー  ハー３  ６３５  （バティモン  ツェーハー）  エスジェ  イエスイセー  エルジェアールセー  ラボラトリー  オブ  ケミカル  リアクション  エンジニアリング  エコール  ポリテクニーク  フェデラーレ  ド  ローザンヌ  エペエフエル</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>西島  孝喜</base:Name>
+            <base:RegisteredNumber>100086771</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>弟子丸  健</base:Name>
+            <base:RegisteredNumber>100088694</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>田中  伸一郎</base:Name>
+            <base:RegisteredNumber>100094569</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>箱田  篤</base:Name>
+            <base:RegisteredNumber>100084663</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>浅井  賢治</base:Name>
+            <base:RegisteredNumber>100093300</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="6" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>山崎  一夫</base:Name>
+            <base:RegisteredNumber>100119013</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="7" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>市川  さつき</base:Name>
+            <base:RegisteredNumber>100123777</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>IB2014061780</base:DocNumber>
+        <base:Date>20140528</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2014191932</base:DocNumber>
+        <base:Date>20141204</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>19</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>  煙成分の選択的な除去のための官能性を持たせた材料  喫煙物品は、金属酸化物官能性を持たせた活性炭材料を含むフィルタを含む。金属酸化物官能性を持たせた活性炭材料は、主流煙におけるアルデヒドの量を選択的に減少させる。MgOおよびCaO官能性を持たせた活性炭材料は、アセトアルデヒドを選択的に捕獲するのに特に有効である。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本開示は、煙成分の選択的な除去のための官能性を持たせた材料を含むフィルタを有する喫煙物品に関する。
+</base:Paragraphs>
+      <base:Paragraphs num="0002">
+  紙巻たばこなどの可燃性喫煙物品は一般に、たばこロッドを形成する紙ラッパーによって囲まれた細かく切られたたばこを持つ。紙巻たばこは、紙巻たばこの一方の端に点火し、およびたばこロッドを燃焼することにより、喫煙者によって使用される。次いで、喫煙者は、典型的にフィルタを含む紙巻たばこの反対の端または口側の端で吸い込むことにより、主流煙を受け入れる。フィルタは、典型的には酢酸セルローストウまたはその他の濾過材料を含む、または本質的にそれらから作製される。酢酸セルローストウは、選択的でない様式で粒子相におけるたばこ成分を濾過するように作用する。活性炭を含むフィルタは公知であり、および特に気体相煙成分について、濾過効率を増加させるために使用される。しかし、また、活性炭は、相対的に選択的でない様式で気体相煙成分を濾過する傾向がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  また、その他の公知の喫煙物品は、濾過エレメントを含んでいてもよい。例えば、電気的な加熱によって、または可燃性燃料エレメントもしくは熱源からエアロゾル生成基体への熱の伝達によってエアロゾルを生成する喫煙物品は、濾過エレメントを含んでいてもよい。さらなる例として、また、ニコチン含有エアロゾルがたばこ材料、たばこ抽出物またはその他のニコチン供与源から燃焼することなく、および一部の場合には加熱することなく、例えば化学反応によって生成される喫煙物品は、濾過エレメントを含んでいてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  煙成分の選択的でない濾過は、喫煙と関連するフレーバーまたはその他の感覚効果を提供する成分の濾過を引き起こし得るし、従って、喫煙経験を弱める。従って、使用者に送達される主流煙における一定の煙成分の濃度を選択的に減少させるフィルタを含む喫煙物品を提供することは、望ましいだろう。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:InventionSummary>
+      <base:Paragraphs num="0005">
+  本開示の一つの態様に従って、たばこ基体が燃焼する時に、たばこ基体および1つまたは複数の成分を捕獲するためのフィルタを含む喫煙物品が提供される。フィルタは、金属酸化物で官能性を持たせた活性炭材料を含む。好ましくは、金属酸化物は、2族金属酸化物である。下により詳細に記述するように、活性炭材料の2族金属酸化物官能性付与は、主流煙におけるアルデヒド（例えば、アセトアルデヒド）などの一定の成分のレベルを選択的に減少させる材料を含むフィルタの能力を増強する。主流煙のその他の成分を選択的に除去するその他のフィルタまたはフィルタ材料と組み合わせて使用される時、本明細書に記述した金属酸化物官能性を持たせた活性炭材料は、非選択的よりはむしろ、目的に合わせた煙成分の除去を可能にし得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  もう一つの態様に従って、喫煙物品のフィルタにおける使用のための金属酸化物官能性を持たせた活性炭材料を作成するための方法が提供される。方法は、金属酸化物で活性炭材料に官能性を持たせるのに十分な様式および程度で、金属酸化物またはその前駆体と活性炭材料を接触させること、および接触した金属酸化物またはその前駆体と活性炭を加熱することを含む。本明細書に使用される「官能性を持たせた」活性炭材料は、活性炭に官能性を持たせる化合物、組成物、粒子または同様のものが活性炭材料と統合することを意味する。理論によって制約されることを意図しないが、金属酸化物粒子が活性炭材料内に含浸されて、金属酸化物官能性を持たせた活性炭材料を製造すると考えられる。金属酸化物官能性を持たせた活性炭材料は、喫煙物品のフィルタにおける濾過材料において分散されてもよく、または材料は、フィルタの一部、例えばフィルタのセグメントを形成してもよい。
+</base:Paragraphs>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0007">
+        <base:FigureReference num="0001">部分的に広げられた喫煙物品の実施形態の概略斜視図である。</base:FigureReference>
+        <base:FigureReference num="0002">官能性を持たせていないACF、2.5重量％のMgO官能性を持たせたACF、5重量％のMgO官能性を持たせたACFおよび10重量％のMgO官能性を持たせたACFの窒素等温線を示すグラフである。</base:FigureReference>
+        <base:FigureReference num="0003">金属酸化物官能性を持たせた活性炭繊維のアセトアルデヒド吸着能力におけるCO<base:Sub>2</base:Sub>の効果を示す棒グラフである。</base:FigureReference>
+        <base:FigureReference num="0004">アセトアルデヒドの吸着能力における金属酸化物充填の効果を示す棒グラフである。</base:FigureReference>
+        <base:FigureReference num="0005">MgOの異なる量で官能性を持たせた活性炭繊維のアセトアルデヒド吸着能力におけるCO<base:Sub>2</base:Sub>の効果を示す棒グラフである。</base:FigureReference>
+        <base:FigureReference num="0006">アセトアルデヒドの吸収における種々のフィルタ材料の効果を示す。</base:FigureReference>
+        <base:FigureReference num="0007">ベンゼンの吸収における種々のフィルタ材料の効果を示す。</base:FigureReference>
+      </base:Paragraphs>
+      <base:Paragraphs num="0008">
+  本明細書に記述した喫煙物品は、たばこ基体の下流にフィルタを含む。本明細書に使用される「下流」は、物品の口末端が空気および煙が使用者によってそれを通って吸い込まれる下流末端であって、喫煙物品の使用の間に気流に対して定義される。口末端の反対側末端は、上流末端である。フィルタは、単一のセグメントを含んでいてもよく、またはそれは、サイズ、形状、材料および同様のものに関して同じでも、または異なってもよい2つ以上のセグメントを含んでいてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0009">
+  本明細書に使用される「たばこ基体」は、たばこまたはたばこの成分を含む材料である。「たばこ」の非限定的な例は、たばこの葉、たばこの茎、たばこの花、たばこ葉脈の断片、ホモジナイズされたたばこ、再構成されたたばこ、加工されたたばこ、押し出し成形されたたばこおよび広がったたばこを含む。たばこ基体は、紙巻たばこまたはその他の可燃性喫煙物品におけるたばこロッドでもよく、もしくは燃焼のない、またはいくつかの場合において加熱のないエアロゾルの生成のための基体でもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+  フィルタへの組み入れのための金属酸化物官能性を持たせた活性炭材料は、任意の適切な形態であってもよい。活性炭は、粒状活性炭、珠状活性炭、活性炭繊維または任意のその他の適切な形態もしくは任意の形態の組み合わせでもよい。好ましくは、金属酸化物官能性を持たせた活性炭は、活性炭繊維の形である。活性炭繊維は、例えばシートまたはフェルト材料の形で織られた、または不織繊維でもよく、または繊維は、フィルタの一部の形状、例えばさらに後述するように、フィルタセグメントに形成されてもよい。繊維は、フィルタの長手方向において実質的に整列させられてもよく、およびいくつかの場合において、これらが位置する繊維の濾過材料のプラグの全長に実質的に沿って伸びてもよい。あるいは、繊維の濾過材料における繊維は、ランダムに配向されても、および繊維の濾過材料のプラグの全長より短く伸びてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  官能性を持たせた活性炭材料は、任意の適切な様式でフィルタに組み込まれてもよい。例えば、それは、喫煙物品のフィルタのセグメントにおける濾過材料において分散してもよく、または材料は、フィルタの一部、例えばフィルタのセグメントを形成してもよい。実施形態において、フィルタは、濾過材料として酢酸セルローストウを含み、および官能性を持たせた活性炭材料は、トウの繊維の間に分散する。官能性を持たせた活性炭繊維、顆粒または繊維および顆粒の両方は、トウの繊維の間に分散してもよい。実施形態において、官能性を持たせた活性繊維、顆粒または繊維および顆粒の両方などの官能性を持たせた活性炭材料は、フィルタの部分のくぼみ内に提供される。官能性を持たせた活性炭材料がフィルタのくぼみにおいて提供される時、フィルタは、特に官能性を持たせた活性炭材料が顆粒を含む時に、くぼみの上流にフィルタセグメントおよびくぼみの下流にフィルタセグメントを含んで、くぼみ内で官能性を持たせた活性炭材料を含むのを助けることができる。実施形態において、官能性を持たせた活性炭材料（例えば、繊維、顆粒または繊維および顆粒の両方）は、喫煙物品の包み紙またはその部分の中に、またはその上に組み込まれる。その中に、または上に官能性を持たせた活性炭材料が組み込まれ得る包み紙の例は、紙巻たばこ、チッピング紙およびプラグラップである。好ましくは、官能性を持たせた活性炭材料は、チッピング紙、プラグラップまたはチッピング紙およびプラグラップの両方の中に、またはその上に組み込まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  喫煙物品の包み紙または紙成分の中に、またはその上に組み込まれる時に、官能性を持たせた活性炭材料は、紙製造プロセスの間、喫煙物品製造プロセスの間または喫煙物品製造プロセスにおける任意のその他の適切な工程にて適用され得る。官能性を持たせた活性炭工程は、紙の中に組み込まれても、その上に被覆されても、または別途紙または同様のものに適用されてもよい。好ましくは、官能性を持たせた活性炭材料は、紙成分が喫煙物品に構築される時に、内側表面として役立つだろう紙成分の表面の中に、またはその上に組み込まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  加えて、または代わりに、官能性を持たせた活性炭繊維は、任意のその他の適切な形態で喫煙物品に組み込まれてもよい。例えば、官能性を持たせた活性炭繊維は、繊維、糸、ディスク、シートまたは同様のものに形成されてもよく、または官能性を持たせた活性炭顆粒は、繊維、糸、ディスク、シートまたは同様のものに含まれてもよい。活性炭材料を含む糸は、フィルタのセグメントに、例えばセグメントの中心に組み込まれる糸として酢酸セルローストウまたはその他のフィルタ材料に組み込まれてもよい。活性炭材料を含むシートは、酢酸セルローストウまたはその他のフィルタ材料の周りを包んでもよく、フィルタのためのプラグラップとして役立ってもよい。活性炭材料を含むシート材料のディスクは、1つまたは複数のフィルタセグメント、例えば2つのフィルタセグメントの間に隣接するフィルタに含まれてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  喫煙物品のフィルタにおける使用のための金属酸化物官能性を持たせた活性炭材料は、任意の適切な孔径、孔径分布またはブルナウアー‐エメット‐テラー（BET）表面積を有してもよい。理論によって制約されることを意図しないが、活性炭材料の孔径、孔径分布およびBET表面積が、濾過効率に影響を及ぼし得ると考えられる。実施形態において、金属酸化物官能性を持たせた活性炭材料のBET表面積は、1000m<base:Sup>2</base:Sup>/g以上である。好ましくは、BET表面積は、1100m<base:Sup>2</base:Sup>/g以上である。より好ましくは、BET表面積は、1200m<base:Sup>2</base:Sup>/g以上である。さらにより好ましくは、BET表面積は、1400m<base:Sup>2</base:Sup>/g以上である。加えて、または別の方法では、BET表面積は、2100m<base:Sup>2</base:Sup>/g以下である。例えば、BET表面積は、約1800m<base:Sup>2</base:Sup>/g未満または約1500m<base:Sup>2</base:Sup>/g未満など、約2000m<base:Sup>2</base:Sup>/g未満でもよい。実施形態において、金属酸化官能性を持たせた活性炭材料のBET表面は、好ましくは約1000m<base:Sup>2</base:Sup>/g～約2000m<base:Sup>2</base:Sup>/g、より好ましくは約1000m<base:Sup>2</base:Sup>/g～約1800m<base:Sup>2</base:Sup>/g、最も好ましくは約1000m<base:Sup>2</base:Sup>/g～約1500m<base:Sup>2</base:Sup>/gである。実施形態において、金属酸化官能性を持たせた活性炭材料のBET表面は、好ましくは約1000m<base:Sup>2</base:Sup>/g～約2100m<base:Sup>2</base:Sup>/g、より好ましくは、約1200m<base:Sup>2</base:Sup>/g～約2100m<base:Sup>2</base:Sup>/g、最も好ましくは約1400m<base:Sup>2</base:Sup>/g～約2000m<base:Sup>2</base:Sup>/gである。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  実施形態において、金属酸化物官能性を持たせた活性炭材料の平均孔径は、約20nm以下である。好ましくは、金属酸化物官能性を持たせた活性炭材料の平均孔径は、約10nm以下である。より好ましくは、金属酸化物官能性を持たせた活性炭材料の平均孔径は、約5nmである。一般に、金属酸化物官能性を持たせた活性炭材料の平均孔径は、約0.3nm以上、好ましくは約0.5nm以上、より好ましくは約1nm以上である。実施形態において、金属酸化物官能性を持たせた活性炭材料の平均孔径は、好ましくは約0.3nm～約20nm、より好ましくは約0.5nm～約10nmである。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  実施形態において、金属酸化物官能性を持たせた活性炭材料におけるミクロ細孔対メソ細孔の比は、約2：1以下である。本開示の目的のために「ミクロ細孔」は、2nm以下の孔径を有することを意味し、「メソ細孔」は、2nm～50nmの孔径を有することを意味し、および「マクロ孔」は、50nmを上回った孔径を有することを意味する。好ましくは、金属酸化物官能性を持たせた活性炭材料におけるミクロ細孔対メソ細孔の比は、約1.5：1以下である。加えて、または別の方法では、ミクロ細孔対メソ細孔の比は、好ましくは約0.1：1以上、より好ましくは約0.25：1以上および最も好ましくは0.5：1以上である。ミクロ細孔対メソ細孔の比は、約0.25：1～約2：1、好ましくは約0.5：1～約1.5：1であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  活性炭材料の金属酸化物官能性付与のプロセスは、活性炭出発材料に対して、減少した孔径またはBET表面積、異なる孔径分布またはこれらの組み合わせを生じ得る。従って、活性炭出発材料が、生じる金属酸化物官能性を持たせた活性炭材料と比較して、異なるBET表面積、平均孔径、異なる孔径分布またはこれらの組み合わせを有することは望ましいかもしれない。実施形態において、出発材料のBET表面積は、約1000m<base:Sup>2</base:Sup>/g以上；好ましくは約1500m<base:Sup>2</base:Sup>/g以上；より好ましくは、約1700m<base:Sup>2</base:Sup>/g以上；さらにより好ましくは約2100m<base:Sup>2</base:Sup>/g以上である。加えて、または別の方法では、出発材料のBET表面積は、好ましくは約2500m<base:Sup>2</base:Sup>/g未満；より好ましくは約2400m<base:Sup>2</base:Sup>/g未満；最も好ましくは約2200m<base:Sup>2</base:Sup>/g未満である。実施形態において、出発材料のBET表面積は、約1900m<base:Sup>2</base:Sup>/g未満である。実施形態において、出発材料のBET表面積は、約1000m<base:Sup>2</base:Sup>/g～約2500m<base:Sup>2</base:Sup>/gである。好ましくは、出発材料のBET表面積は、約1500m<base:Sup>2</base:Sup>/g～約2200m<base:Sup>2</base:Sup>/gである。より好ましくは、出発材料のBET表面積は、約1700m<base:Sup>2</base:Sup>/g～約1900m<base:Sup>2</base:Sup>/gであり、または約1700m<base:Sup>2</base:Sup>/g～約2200m<base:Sup>2</base:Sup>/gである。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  実施形態において、活性炭出発材料は、約1700m<base:Sup>2</base:Sup>/g～約1900m<base:Sup>2</base:Sup>/gのBET表面積を有し、および生じる金属酸化物官能性を持たせた活性炭材料は、約1100m<base:Sup>2</base:Sup>/g～約1600m<base:Sup>2</base:Sup>/gのBET表面積を有する。実施形態において、生じる金属酸化物官能性を持たせた活性炭材料は、約1200m<base:Sup>2</base:Sup>/g～約1400m<base:Sup>2</base:Sup>/gのBET表面積を有する。好ましくは、生じる金属酸化物官能性を持たせた活性炭材料は、約1400m<base:Sup>2</base:Sup>/g～約2000m<base:Sup>2</base:Sup>/gのBET表面積を有する。生じる金属酸化物官能性を持たせた活性炭出発材料は、活性炭出発材料のBET表面積より少なくとも200m<base:Sup>2</base:Sup>/g小さいBET表面積を有してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  実施形態において、活性炭出発材料の平均孔径は、約10nm以下である。好ましくは、活性炭出発材料の平均孔径は、約5nm以下である。より好ましくは、活性炭出発材料の平均孔径は、約1.5nm以下など、約2nm以下である。一般に、活性炭出発材料の平均孔径は、約0.5nm以上など、約0.3nm以上または約1nm以上である。実施形態において、活性炭出発材料の平均孔径は、約0.5nm～約5nmなど、約0.3nm～約10nmである。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  実施形態において、微孔性対メソ多孔性活性炭出発材料の比は、約0.5：1以上である。好ましくは、微孔性対メソ多孔性活性炭出発材料の比は、約1：1以上、約1.5：1以上または約2：1以上である。一般に、微孔性対メソ多孔性活性炭出発材料の比は、10：1未満である。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  活性炭材料は、任意の適切な金属酸化物材料で官能性を持たせられてもよい。実施形態において、金属酸化物は、2族金属酸化物である。例えば、金属酸化物は、MgO、CaO、SrOおよびBaOから成る群より選ばれてもよい。好ましくは、金属酸化物は、MgOまたはCaOである。また、活性炭材料は、酸化鉄、La<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、ZnO、Al<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、TiO<base:Sub>2</base:Sub>などのその他の金属酸化物で官能性を持たせられてもよい。金属酸化物は、任意の適切な重量パーセントにて官能性を持たせた材料において存在してもよい。例えば、官能性を持たせた材料は、約1重量%～約20重量%の金属酸化物を好ましくは含む。より好ましくは、官能性を持たせた材料は、約2重量％～約10重量％の金属酸化物を含む。最も好ましくは、官能性を持たせた材料は、約3重量％～約8重量％の金属酸化物を含む。実施形態において、官能性を持たせた材料は、約5重量％の金属酸化物を含む。下に提示された実施例に示したように、いくつかの状況において、発明者は、金属酸化物のより多い量が選択された煙成分のより多い除去量を必ずしも生じるわけではないことを見いだした。官能性を持たせた材料における金属酸化物の量は、官能性を持たせた材料の製造プロセスの物質収支を行うことによって特徴付けられ得る。また、金属酸化物の量は、官能性を持たせた材料において元素分析、例えば、材料が完全に燃焼し、および金属酸化物の量が灰において定量化される熱重量分析を行うことによって決定することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  活性炭材料は、任意の適切なプロセスによって金属酸化物で官能性を持たせられ得る。実施形態において、活性炭材料は、活性炭材料を金属酸化物またはその前駆体と接触させることおよび金属酸化物で活性炭材料に官能性を持たせるのに十分な様式および程度で、活性炭および金属酸化物またはその前駆体を加熱することによって官能性を持たせられる。本明細書に使用される「金属酸化物の前駆体」は、適切な様式および程度で加熱される時に、金属酸化物に変化する任意の金属含有化合物である。適切な金属酸化物前駆体の例は、Mが金属であり、xおよびyは同じまたは異なり、および金属の原子価に依存し、OAcはアセテートであり、およびzは水和度であり、それは安定な前駆体材料を得る任意の適切な数であり得る場合、M<base:Sub>x</base:Sub>(NO<base:Sub>3</base:Sub>)<base:Sub>y</base:Sub>、M<base:Sub>x</base:Sub>(OAc)<base:Sub>y</base:Sub>およびM<base:Sub>x</base:Sub>(C<base:Sub>2</base:Sub>O<base:Sub>4</base:Sub>)<base:Sub>y</base:Sub>を、いくつかの場合においてこれらの水和した形態(M<base:Sub>x</base:Sub>(NO<base:Sub>3</base:Sub>)<base:Sub>y</base:Sub>・z(H<base:Sub>2</base:Sub>O)、M<base:Sub>x</base:Sub>(OAc)<base:Sub>y</base:Sub>・z(H<base:Sub>2</base:Sub>O)およびM<base:Sub>x</base:Sub>(C<base:Sub>2</base:Sub>O<base:Sub>4</base:Sub>)<base:Sub>y</base:Sub>・z(H<base:Sub>2</base:Sub>O)) で含む。当業者は、その他の金属含有化合物が金属酸化物前駆体として使用され得ることを理解するだろう。好ましくは、金属酸化物前駆体は、M<base:Sub>x</base:Sub>(OAc)<base:Sub>y</base:Sub>またはM<base:Sub>x</base:Sub>(NO<base:Sub>3</base:Sub>)<base:Sub>y</base:Sub>もしくはそれらの水化物の形態、またはそれらの混合物である。より好ましくは、金属酸化物前駆体は、M<base:Sub>x</base:Sub>(NO<base:Sub>3</base:Sub>)<base:Sub>y</base:Sub>またはその水和した形態である。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  活性炭に官能性を持たせるのに使用される金属酸化物またはその前駆体の量は、当業者によって一般に理解されるであろう通り、金属酸化物官能性を持たせた活性炭材料における金属酸化物の所望の重量またはモルパーセントを達成するように異なってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  実施形態において、金属酸化物で活性炭材料に官能性を持たせるためのプロセスは、活性炭材料の重量に対して、約1重量％～約20重量％の範囲で、活性炭材料を金属酸化物またはその前駆体と接触させることを含む。官能性付与の複数のラウンドまたはサイクルは、官能性を持たせた材料における金属酸化物のより高い重量パーセントを達成するのに使用され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  実施形態において、活性炭材料および金属酸化物またはその前駆体は、約250℃～750℃の温度にて加熱される。より好ましくは、活性炭および金属酸化物またはその前駆体は、300℃～600℃、最も好ましくは約350℃～500℃の温度にて加熱されてもよい。活性炭材料および金属酸化物またはその前駆体が使用される金属および使用される前駆体に応じて異なってもよい温度。活性炭材料および金属酸化物またはその前駆体は、加熱される時に溶媒において存在してもよい。任意の適切な溶媒は、使用されてもよい。例えば、溶媒は、水およびエタノールまたは水およびエタノールの混合物を含んでも、本質的にそれらから成っても、またはそれらから成ってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  活性炭材料および金属酸化物またはその前駆体は、溶媒において存在してもよく、金属酸化官能性を持たせた活性炭材料を製造するのに十分な時間、適切な温度にて加熱される。実施形態において、活性炭材料および金属酸化物またはその前駆体は、約15分間以上；より好ましくは、約30分以上、最も好ましくは1時間以上適切な温度にて加熱される。一般に、活性炭材料および接触した金属酸化物またはその前駆体は、12時間未満；好ましくは約6時間未満；より好ましくは約3時間未満の適切な温度にて加熱される。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  実施形態において、活性炭材料および金属酸化物またはその前駆体が加熱される温度は、所望の最高温度が到達されるまで傾斜をつけられる。任意の適切な温度傾斜プロフィールは、使用されてもよい。例えば、おそらく温度は、毎分約6℃または毎分約8℃などの、毎分約5℃～毎分約10℃の割合にて周囲温度から最大所望の温度まで傾斜をつけられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  活性炭材料および金属酸化物またはその前駆体は、不活性な雰囲気下で加熱されてもよい。例えば、活性炭材料および金属酸化物またはその前駆体は、アルゴン流下でなどの希ガス雰囲気下で加熱されてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  金属酸化物官能性を持たせた活性炭材料は、1つまたは複数の煙成分を選択的に除去する、または捕獲するのに使用されてもよい。例えば、金属酸化物官能性を持たせた活性炭材料は、アセトアルデヒドなどのアルデヒドを選択的に捕獲してもよい。実施形態において、金属酸化物官能性を持たせた活性炭材料は、少なくとも約1重量%、好ましくは少なくとも約2.5重量%、より好ましくは少なくとも約4重量%のアセトアルデヒドを捕獲する。典型的には、官能性を持たせた活性炭材料は、20重量パーセント未満のアセトアルデヒドを捕獲するだろう。本明細書に使用される、特定の煙成分のための官能性を持たせた活性炭材料の「吸着能力」は、重量パーセントあたりにおいて官能性を持たせた材料が捕獲する煙成分の量である（金属酸化物官能性を持たせた活性炭材料の重量あたりの捕獲される成分の重量）。吸着能力を決定するのに使用され得る系および分析方法の例は、実施例において下により詳細に記述される。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  金属酸化物官能性を持たせた活性炭材料の選択性は、対応する官能性を持たせていない材料と比較される時に、官能性を持たせた材料が1つまたは複数のその他の成分に対して第1の成分の増加した量またはパーセンテージを捕獲する能力によって評価されてもよい。例えば、金属酸化物官能性を持たせた活性炭材料は、官能性付与による第1の成分の捕獲における増加が官能性付与による1つまたは複数のその他の成分捕獲における増加を上回る場合、1つまたは複数のその他の煙成分に対して第1の煙成分を「選択的に」捕獲すると考えられ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  例として、官能性を持たせた材料が官能性を持たせていない材料より1.2倍多い第1の成分を捕獲する場合および官能性を持たせた材料が官能性を持たせていない材料より1.05倍多いもう一つの成分を捕獲する場合、官能性を持たせた材料は、その他の成分に対して第1の成分を選択的に捕獲すると考えられ得る。官能性付与により増加した捕獲の比は、選択性の尺度として使用されてもよい。例えば、上に提示した例において、官能性付与による増加の比は、1.2対1.05または約1.15対1であるだろう。好ましくは、官能性付与による1つまたは複数のその他の煙成分における増加に対して官能性付与による1つまたは複数のアルデヒドの捕獲における増加の比は、約1.2対1以上または約1.3対1以上など、約1.1対1以上である。一般に、官能性付与による1つまたは複数のその他の煙成分の捕獲における増加に対する官能性付与による1つまたは複数のアルデヒドの捕獲における増加の比は、約10対1以下、約5対1または約2対1以下など、約20対1以下だろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  実施形態において、活性炭材料の金属酸化物官能性付与によるベンゼンの捕獲における増加の比に対する活性炭材料の金属酸化物官能性付与によるアセトアルデヒドの捕獲における増加の比は、少なくとも約1.1対1；好ましくは少なくとも約1.2対1；およびより好ましくは少なくとも約1.3対1である。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  好ましくは、金属酸化物官能性を持たせた活性炭材料は、官能性を持たせた活性炭材料を形成するための出発材料として使用される活性炭材料などの対応する官能性を持たせていない活性炭材料よりアセトアルデヒドなどの多くの1つまたは複数のアルデヒドを捕獲する。例えば、金属酸化物官能性を持たせた活性炭材料は、対応する官能性を持たせていない活性炭材料より少なくとも約1.1倍の1つまたは複数のアルデヒドを捕獲し得る。好ましくは、金属酸化物官能性を持たせた活性炭材料は、対応する官能性を持たせていない活性炭材料より少なくとも約1.2倍の1つまたは複数のアルデヒドを捕獲する。より好ましくは、金属酸化物官能性を持たせた活性炭材料は、対応する官能性を持たせていない活性炭材料より少なくとも約1.3倍の1つまたは複数のアルデヒドを捕獲する。好ましくは、金属酸化物官能性を持たせた活性炭材料は、対応する官能性を持たせていない活性炭材料より少なくとも約1.1倍以上、約1.2倍以上または1.3倍以上のアセトアルデヒドを捕獲する。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  官能性を持たせた活性炭材料または官能性を持たせていない活性炭材料が煙成分を捕獲する能力は、任意の適切な様式で評価され得る。使用され得る一つの例の実験系は、不活性ガスの流れを含み、それに煙成分が添加されてもよい。官能性を持たせた、または官能性を持たせていない活性炭材料は、気体の流路に配置され、それは質量分析計と連通する。また、気体流は、活性炭材料を迂回して、質量分析計に入ってもよい。活性炭材料によって捕獲される煙成分の量は、活性炭材料を回避する流れに存在する成分の量に対する活性炭材料を通る流れに存在する成分の量に関して質量分析計結果を比較することによって決定され得る。このような決定を実施するための系および分析方法の例は、実施例において下により詳細に記述される。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  官能性を持たせた活性炭材料が、材料が喫煙物品に組み込まれた後で1つまたは複数の煙成分を捕獲する能力を決定する1つの方法は、喫煙物品から材料を除去し、および上記のように、または下の実施例に記載されているように、除去された官能性を持たせた活性炭材料を評価することである。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  好ましくは、金属酸化官能性を持たせた活性炭材料は、フィルタまたはその一部として喫煙物品に組み込まれる時に、および喫煙物品が喫煙される時に、特定の煙成分を選択的に除去する。官能性を持たせた活性炭材料は、上で議論したように、任意の適切な喫煙物品のフィルタまたはその一部として含まれてもよい。例えば、喫煙物品は、紙巻たばこなどの可燃性喫煙物品でもよい。金属酸化官能性を持たせた活性炭材料を有するフィルタを含み得るその他の公知の喫煙物品は、例えば、エアロゾルが電気的な加熱により、または可燃性燃料要素または熱源からエアロゾル生成基体への熱の伝達により生成される喫煙物品を含む。喫煙中、揮発性化合物は、熱源からの熱伝達によりエアロゾル生成基質から放出され、喫煙物品を通して引き出された空気中に混入される。放出された化合物が冷めるにつれて凝結してエアロゾルを形成し、これが消費者によって吸い込まれる。官能性を持たせた活性炭材料を有するフィルタを含み得るその他の喫煙物品は、ニコチン含有エアロゾルがたばこ材料、たばこ抽出物またはその他のニコチン源から、燃焼することなく、およびいくつかの場合には加熱することなく、例えば化学反応を通して生成されるものである。好ましくは、金属酸化物官能性を持たせた活性炭材料は、可燃性喫煙物品に含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  実施形態において、1つまたは複数の煙成分を捕獲するための方法は、（i）金属酸化物で官能性を持たせた活性炭材料を含むフィルタエレメントを提供すること；および（ii）少なくともアルデヒドの一部を捕獲するフィルタエレメントを通してアルデヒドを含む気体流を通過させることを含む。金属酸化物で官能性を持たせた活性炭材料を含むフィルタは、上記のように、または下の実施例に記述されるように、フィルタまたはフィルタエレメントでもよい。例えば、フィルタは、上記のように、活性炭材料に対して金属酸化物の重量パーセントを含んでいてもよい；フィルタは、アセトアルデヒドなどのアルデヒドを選択的に捕獲してもよい；官能性を持たせた活性炭材料は、本明細書において記述したようにBET表面積または本明細書において記述した任意のその他の特徴もしくは機能性を有してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  すべての学術的および技術的な用語は本明細書で使用される場合、別途指定のない限り、当該技術分野において一般に使用される意味を持つ。本明細書で提供した定義は、本明細書で頻繁に使用される一定の用語の理解を促進するために提供されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  単数形（「一つの」および「その」）は本明細書で使用される場合、複数形の対象を持つ実施形態を含蓄するが、その内容によって明らかに別途定められている場合はその限りではない。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  「または」は本明細書で使用される場合、その内容によって明らかに別途定められていない限り、「および／または」を含めた意味で一般的に使用される。「および／または」は、列挙された要素の一つまたはすべて、または列挙された要素のうち任意の二つ以上の組み合わせを意味する。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  「持つ」、「含む」、「備える」またはこれに類する表現は本明細書で使用される場合、制約のない意味で使用され、一般的に「含むが、これに限定されない」を意味する。「実質的に構成される」、「構成される」およびこれに類する表現は、「含む」およびこれに類する表現に包摂されることが理解される。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+  「好ましい」および「好ましくは」という語は、ある一定の状況下である一定の利益をもたらしうる本発明の実施形態を言及する。ただし、また、その他の実施形態は、その他の状況下で好ましいものであり得る。その上、一つ以上の好ましい実施形態の列挙は、その他の実施形態が有用ではないことを暗に意味するものではなく、請求の範囲を含めて、本開示の範囲からその他の実施形態を除外する意図はない。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  喫煙物品に組み込まれないフィルタまたはフィルタエレメントに関してこの明細書において提供される任意の考察は、喫煙物品におけるフィルタまたはフィルタエレメントに適用されてもよい。同様に、喫煙物品におけるフィルタまたはフィルタエレメントに関する任意の考察は、喫煙物品に含まれないフィルタまたはフィルタエレメントに適用されてもよい。例えば、喫煙物品に組み込まれるフィルタの吸着能力の考察は、喫煙物品に組み込まれないフィルタに適用されるだろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  図1は、部分的に広げられた喫煙物品の実施形態の概略斜視図である。図1に示した喫煙物品は、上記の喫煙物品の1つまたは複数の実施形態または喫煙物品の成分を図示する。概略図は、必ずしも測ったものではなく、図解の目的で提示されるものであり、限定するものではない。図は本開示で記述した一つまたは複数の態様を示す。ただし、図に示されていないその他の態様が本開示の範囲および精神に則るものと理解される。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  ここで図1を参照して、喫煙物品10、この場合では、紙巻たばこを示す。喫煙物品10は、たばこロッドなどのロッド20および口末端フィルタセグメント30を含む。金属酸化物官能性を持たせた活性炭フィルタセグメント70は、ロッド20の下流および口末端フィルタセグメント30の上流に配置された。示された喫煙物品10は、フィルタセグメント30、70の少なくとも一部分を囲むプラグラップ60およびたばこロッド20の少なくとも一部分を囲む紙巻たばこ用紙40を含む。チッピングペーパー50またはその他の適切なラッパーは、一般的に当該技術分野において公知の通り、プラグラップ60および紙巻たばこ用紙40の一部を囲む。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  図2～7は、煙成分を捕獲するために金属酸化物官能性を持たせた能力を試験するために実施した種々の実験から得られるデータを示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  実施例
+  活性炭繊維を金属酸化物またはその前駆体の存在下で繊維を加熱することによって多数の金属酸化物で官能性を持たせた。金属酸化物官能性を持たせた活性炭繊維が種々のアルデヒドを捕獲する能力を煙成分が気体生成によって添加された不活性ガスの流れを含んだテスト系によって決定した。試験材料を気体の流路に配置し、それは質量分析計と連通した。バイパスを気体が質量分析計に直接入ることができるように、試験材料を迂回するように使用した。活性炭材料によって捕獲される煙成分の量を活性炭材料を回避する流れにおいて存在する成分の量に対する活性炭材料を通して流れにおいて存在する成分の量に関する質量分析計結果を比較することによって決定した。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+  アセトアルデヒドなどの揮発性有機化合物（VOC）吸着質を約10分間、質量分析計にバイパスラインを通して不活性ガスにおいて実施して、VOCベースラインを得た。次いで、弁を、VOC（担体気体とともに）を生じさせて活性炭繊維全体に流れるように切り替えた。質量分析計のディスプレイにおいてほぼ瞬間的な減少を観察した。吸着が完了した場合、検出レベルはゼロに到達した。吸着が飽和に近づいた時、検出レベルは増加し、およびバイパスを通して確立されたベースラインに戻った。VOCを飽和の後にさらに15～20分間、活性炭繊維全体に流した。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+  生データをそれぞれの選ばれた分子量について、毎秒のカウント対時間において質量分析計で得た。反応レベルは、解析された異なる質量の濃度と比例する。従って、例えば80 ppmvのVOCの入口濃度を知ることによって、質量分析計から得た生じるベースラインにそれをリンクすることが可能である。従って、注入されるVOCの総量は、注入の始めおよび終わりによって区切られるベースラインの下の領域に対応する。吸着剤によって保持される吸着質の量を吸着曲線より上の領域を積分することによって算出する。強い曲線は、相対的に雑音が多いことを見いだし、およびいくつかの処理を適当な積分を行うためにデータに適用した。吸着剤の能力を得るのに使用されるプロセスの概略を下に提供する：
+  1.滑らかな曲線を得るための生データにおける平均。
+  2.台形方法を使用することによって滑らかにされた曲線の数値積分。吸着曲線下の総面積は、吸着の間に吸着されなかった注入されたVOCの量に相当する。
+  3.注入されるVOCの総量は、最後の吸着値（従って、上のベースライン値）の反応に吸着の時間（一旦曲線が上に上がる第1の位置にて）を乗ずることによって算出される。
+  4.注入される総VOCと吸着されない総VOCとの間の相違は、吸着されたVOCの量を示す。
+  5.注入されるVOCのモル数を吸着の流量、濃度および時間を知ることによって、理想気体の法則で算出する。
+  6.吸着化合物のモル質量を知って、吸着された質量を決定する。
+最終的に吸着質質量を吸着剤質量で割ることによって、吸着能力を算出した。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+  活性炭繊維をLa<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、ZnO、Al<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、TiO<base:Sub>2</base:Sub>、MgOおよびCaOで官能性を持たせた。これらの金属酸化物を上記の系において試験した。MgOおよびCaOは、この試験におけるアルデヒドの相対的に高い量を捕獲し、およびさらなる解析のために選択した。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  実施した多数の研究について、5重量％のMgO官能性を持たせた活性炭繊維を以下の通りに作成した：活性炭繊維（「ACF」、K-20、Kynol Europa GmbH）を受けられるように使用した。工業用エタノールを溶媒として使用した。10gのACF（K-20）を24.5g（29.2ml）の12.8重量％のMg(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>・6H<base:Sub>2</base:Sub>O（Merck、99%）エタノール溶液で含浸させた。材料を室温（3時間）にて空気中で乾燥し、および次いで、Ar流において（200ml/分）1時間400℃にて（傾斜-6°/分）電熱式管状オーブンにおいて熱処理した。理論によって制約されることを意図しないが、Mg(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>が不活性な雰囲気下でこのような温度にて分解を受けてMgOを与えると考えられる。作成された吸着剤を環境条件下でプラスチックジッパーバッグに保存する。金属酸化物の重量パーセントを出発活性炭材料と生じる金属酸化物官能性を持たせた活性炭材料との間の物質収支によって決定した。結果を750℃にて3時間金属酸化物官能性を持たせた活性炭材料の空気焼成の後の鉱物質（MgO）の重さを量ることによって確認した。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  実施した多数の研究について、5重量％のCaO官能性を持たせた活性炭繊維を以下の通りに作成した：10gの（K-20、Kynol Europa GmbH）を24.6g（29.7ml）の8.6重量％のCa(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>・4H<base:Sub>2</base:Sub>O（Fluka、98%）エタノール溶液で含浸した。材料を室温にて（3時間）空気中で乾燥し、および次いで、1時間Ar流において（200ml/分）500℃にて（傾斜-8°/分）電熱式管状のオーブンにおいて熱処理した。理論によって制約されることを意図しないが、Ca(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>が不活性な雰囲気下でこのような温度にて分解を受けてCaOを与えると考えられる。作成された吸着剤を環境条件下でプラスチックジッパーバッグにおいて保存する。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+  その他の重量パーセントMgOおよびCaO官能性を持たせた繊維をMg(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>・6H<base:Sub>2</base:Sub>OまたはCa(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>・4H<base:Sub>2</base:Sub>Oの開始量または濃度を変化させることによって作成した。ACFK-20以外の繊維を使用し、および上記の手順に従って、しかし異なる繊維で一般に作成した。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  BET表面積解析を定義された窒素分圧を使用して行った。目的は、異なる分圧にて吸着剤の窒素吸着能力を測定することである。解析の前に、吸着剤を真空下で2時間523Kにてガス放出した。N<base:Sub>2</base:Sub>吸着/脱着等温線を相対圧力範囲0.05≦P/P<base:Sub>0</base:Sub>≦0.98にわたって77Kにて行った。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  下の表1は、生じる繊維のいくつかの特徴を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+        <base:TableDetails num="0001">
+          <base:Image id="000002" he="36" wi="143" file="2016519951_000002.TIF" imgContent="drawing" imgFormat="TIFF" />
+        </base:TableDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0057">
+  表1に示したように、活性炭繊維を加熱することは、多孔度においてあまり効果を有さない。しかし、金属酸化物の沈着は、繊維の特定の表面積を一般に減少させた。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  図2は、官能性を持たせていないACF、2.5重量％のMgO官能性を持たせたACF、5重量％のMgO官能性を持たせたACFおよび10重量％のMgO官能性を持たせたACFの窒素等温線を示すグラフであり、官能性を持たせたものおよび官能性を持たせていないものの微孔性質を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+  ここで図3を参照して、金属酸化物官能性を持たせた活性炭繊維のアセトアルデヒド吸着能力におけるCO<base:Sub>2</base:Sub>の効果を示す棒グラフを提示する。図3に提示した結果をヘリウムおよびアセトアルデヒドまたはヘリウム、アセトアルデヒドおよび二酸化炭素の混合物を5%のMgOまたは5%のCaOで官能性を持たせた活性炭繊維全体に通過させた上記のようなテスト系から得た。図3に示したように、CO<base:Sub>2</base:Sub>は、官能性を持たせた繊維が用量依存的様式でアセトアルデヒドを吸着する能力を減少させる。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  ここで図4を参照して、アセトアルデヒドの吸着能力における金属酸化物充填の効果を示す棒グラフを提示する。図4に提示した結果をヘリウムおよびアセトアルデヒドの混合物を2.5%、5%または10%のMgOで官能性を持たせた活性炭繊維全体に通過させた上記のようなテスト系から得た。図4に示したように、アセトアルデヒドに対する繊維の吸着能力は、増加したMgO充填であまり増加しない。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  ここで図5を参照して、MgOの異なる量で官能性を持たせた活性炭繊維のアセトアルデヒド吸着能力におけるCO<base:Sub>2</base:Sub>の効果を示す棒グラフを提示する。図5に提示した結果を活性炭繊維が2.5%、5%または10%のMgOで官能性を持たせられた場合を除いて、上の図3に関して記述したように、一般に実施した実験から得た。図5に示したように、二酸化炭素の非活性化効果は、より低いMgO充填で最も大きかった。驚くべきことに、二酸化炭素の非活性化効果は、5%のMgOでより10%のMgOで大きかった。これは、相当な量のCO<base:Sub>2</base:Sub>が主流煙において存在する場合、紙巻たばこなどの喫煙物品の状況において関連し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+  総じて、図3～5に提示したデータは、一定の位置に金属酸化物のより多い量で活性炭材料に官能性を持たせることが有益であることを示唆するだろうが、この位置の増加は、より低い性能または少なくとも最小の性能改善を導き得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  図3～5に提示した結果は、関心対象の煙成分を含む気体が官能性を持たせた活性炭材料全体に通過された実験的テスト系から生じた。また、官能性を持たせた活性炭材料（5%のMgOおよび5%のCaO）の効果を喫煙物品において評価した。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  簡潔には、手製の紙巻たばこを巻いた。紙巻たばこは、長さ27mmのフィルタ部分を含んだ。紙巻たばこの1つのセットにおいて、全長27mmのフィルタ部分を酢酸セルローストウ（白）から形成した。その他の紙巻たばこにおいて、フィルタは、酢酸セルローストウから形成される18mmの口末端部分、活性炭材料で満たされる3mmの中心のくぼみおよび酢酸セルローストウから形成した隣接する6mmのロッド末端部分を含む。3mmの中心のくぼみを（i）活性炭顆粒（GCN）、（ii）活性炭繊維（ACFK20）、（iii）MgO官能性を持たせた活性炭繊維（MgO/ACF）または（iv）CaO官能性を持たせた活性炭繊維（CaO/ACF）で満たした。紙巻たばこを喫煙装置に配置し、およびカナダ保健省基準に従って試験した。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  下の表2は、紙巻たばこ、吸着剤および吸い込みへの抵抗性（RTD）に関しての情報を提供する。図6～7は、ベンゼンおよびアセトアルデヒドの吸収における種々のフィルタ材料の効果を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+        <base:TableDetails num="0002">
+          <base:Image id="000003" he="41" wi="145" file="2016519951_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+        </base:TableDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0067">
+  表2に示したように、活性炭材料または官能性を持たせた活性炭材料をもつフィルタを有する紙巻たばこを観察された適度の増加のみを伴って、吸い込みへの抵抗性に有意に逆に影響を与えない様式で形成してもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  図6～7は、フィルタの全長がアセトアルデヒド（図6）およびベンゼン（図7）のために酢酸セルローストウで構成された「白い」紙巻たばこ構造に対する%減少を示す。図6に示したように、フィルタにおける金属酸化物官能性を持たせた材料を含む紙巻たばこは、CaO官能性を持たせた材料がMgO官能性を持たせた材料よりわずかによい性能をもって、官能性を持たせていない活性炭より主流煙におけるアセトアルデヒドを減少させることに有効であった。使用される官能性を持たせていない粒状活性炭の2倍多いにもかかわらず、活性炭繊維が官能性を持たせていない粒状活性炭よりも、よく行ったことは注目に値する。類似の傾向は、アクロレイン（acroleine）で、しかしより高い減少を伴って見られた（例えば、CaO/ACFで約55%の減少、データ示さず）。ホルムアルデヒドレベルで、MgO/ACFはACFK20よりも、よく行った一方で、CaOはACFK20に類似の様式で行った（データ示さず）。全ての場合において、官能性を持たせていない活性炭繊維は、官能性を持たせていない活性炭顆粒を上回った。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  図7に示したように、金属酸化物官能性を持たせた活性炭繊維は、官能性を持たせていない活性炭繊維とほぼ同じ程度にベンゼンレベルを減少させた。図6と比較される時に、図7に示した結果は、金属酸化官能性を持たせた活性炭材料がアセトアルデヒド（および拡張その他のアルデヒドによって）を捕獲する選択的な能力を明らかにする。
+</base:Paragraphs>
+    </business:DrawingsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000004" he="41" wi="75" file="2016519951_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000005" he="41" wi="85" file="2016519951_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000006" he="46" wi="56" file="2016519951_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000007" he="50" wi="63" file="2016519951_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000008" he="20" wi="49" file="2016519951_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000009" he="45" wi="85" file="2016519951_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000010" he="43" wi="85" file="2016519951_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  喫煙物品であって：
+  たばこ基体；および
+  前記たばこ基体の１つまたは複数の成分を捕獲するためのフィルタ、
+を含み、
+  前記フィルタは金属酸化物で官能性を持たせた活性炭材料を含み、前記金属酸化物は2族金属酸化物であり、および前記官能性を持たせた活性炭材料は、官能性を持たせていない活性炭より大きな程度に主流煙におけるアセトアルデヒドのレベルを減少させる、喫煙物品。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  請求項1に記載の喫煙物品であって、前記2族金属酸化物は、MgO、CaO、SrOおよびBaOから成る群から選択される、喫煙物品。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  請求項1に記載の喫煙物品であって、前記金属酸化物は、MgOまたはCaOである、喫煙物品。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  請求項1～3のいずれか1項に記載の喫煙物品であって、前記金属酸化物は、約1重量％～約20重量％、より好ましくは約2重量％～約10重量％の範囲で前記活性炭材料において存在する、喫煙物品。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  請求項1～4のいずれか1項に記載の喫煙物品であって、前記活性炭材料は、約1000m<base:Sup>2</base:Sup>/g以上のBET表面積を有する多孔性材料である、喫煙物品。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  請求項1～5のいずれか1項に記載の喫煙物品であって、前記活性炭材料は、活性炭繊維を含む、喫煙物品。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  請求項1～6のいずれか1項に記載の喫煙物品であって、前記官能性を持たせた活性炭材料は、約5w/w%以上のアセトアルデヒドのための吸着能力を有する、喫煙物品。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  喫煙物品における使用のためのフィルタであって：
+  金属酸化物で官能性を持たせた活性炭材料を含み、前記金属酸化物は2族金属酸化物であり、および前記官能性を持たせた活性炭材料は、官能性を持たせていない活性炭より大きな程度に、たばこ基体の下流に喫煙物品に組み込まれる時、主流煙におけるアセトアルデヒドのレベルを減少させる、フィルタ。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  喫煙物品のフィルタにおける使用のために金属酸化物官能性を持たせた活性炭材料を作成するためのプロセスであって：
+  活性炭材料を2族金属酸化物またはその前駆体に接触させること；および
+  前記金属酸化物またはその前駆体とともに前記活性炭材料を加熱して、前記金属酸化物で前記活性炭材料に官能性を持たせ、および前記金属酸化物官能性を持たせた活性炭材料を製造すること、
+を含む、プロセス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  請求項9に記載のプロセスであって、前記金属酸化物は、MgOまたはCaOである、もしくは前駆体は、MgOまたはCaOを生じるように構成されている、プロセス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  請求項9に記載のプロセスであって、金属酸化物前駆体は、Mg(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>、Ca(NO<base:Sub>3</base:Sub>)<base:Sub>2</base:Sub>またはそれらの水和物である、プロセス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  請求項9～11のいずれか1項に記載のプロセスであって、加熱は、約300℃～500℃の間の温度にて加熱することを含む、プロセス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  請求項9～12のいずれか1項に記載のプロセスであって、前記活性炭材料は、1000m<base:Sup>2</base:Sup>/g以上のBET表面積を有する多孔性材料である、プロセス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  請求項9～13のいずれか1項に記載のプロセスであって、前記官能性を持たせた活性炭材料を喫煙物品のためのフィルタに組み込むことをさらに含む、プロセス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  1つまたは複数の煙成分を捕獲するための方法であって、方法は：
+  2族金属酸化物で官能性を持たせた活性炭材料を含むフィルタエレメントを提供すること；および
+  前記フィルタエレメントを通してアルデヒドを含む気体流を通過して、前記アルデヒドの少なくとも一部を捕獲すること、
+を含み、
+  前記官能性を持たせた活性炭材料は、官能性を持たせていない活性炭より多くの前記アルデヒドを捕獲する、方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000011" file="2016519951_000011.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000012" file="2016519951_000012.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000013" file="2016519951_000013.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

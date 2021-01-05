@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000025748JP00020161238760AFULJA20160711JP00X.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016123876" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123876</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016123876</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000025748</base:DocNumber>
+        <base:Date>20160215</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016025748</base:DocNumber>
+        <base:Date>20160215</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>15</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F  13/15        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>49</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F  13/49        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>53</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F  13/53        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A41B13/02 S</business:FI>
+      <business:FI type="secondary">A41B13/02 B</business:FI>
+      <business:FClass>
+        <business:FTerm>3B200AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200AA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200BA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200CA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200CA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200DB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200DB05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200DB11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3B200EA30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>3B200</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">折叠装置和折叠方法</business:InventionTitle>
+    <business:RelatedDocuments>
+      <business:Division>
+        <business:DocumentsRelation>
+          <business:ParentDocument>
+            <base:DocumentID sequence="1" lang="ja">
+              <base:DocNumber>2014266234</base:DocNumber>
+              <base:Date>20141226</base:Date>
+            </base:DocumentID>
+          </business:ParentDocument>
+          <business:ChildDocument>
+            <base:DocumentID>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:ChildDocument>
+        </business:DocumentsRelation>
+      </business:Division>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ユニ・チャーム株式会社</base:Name>
+            <base:RegisteredNumber>000115108</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>愛媛県四国中央市金生町下分182番地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>藤原  智弘</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>香川県観音寺市豊浜町和田浜1531－7  ユニ・チャーム株式会社テクニカルセンター内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>フェリシテ特許業務法人</base:Name>
+            <base:RegisteredNumber>110001564</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>7</business:ClaimsCount>
+      <base:TotalPageCount>12</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明提供一种能够在维持包含高单位面积重量区域和低单位面积重量区域的吸收体的形状的同时折叠吸收性物品的折叠装置和折叠方法。 折叠装置涉及一种用于折叠吸收性物品10的装置,该吸收性物品10包括吸收体40,该吸收体40具有由第1单位面积重量的吸收材料形成的第1区域42和由比第1单位面积重量小的第2单位面积重量的吸收材料形成且至少沿着第1方向W延伸的第2区域44。 该折叠装置具有折叠板260,该折叠板260具有沿一个方向延伸的前端262。 折叠板260构成为在折叠板260的顶端262沿着第一方向W取向且折叠板260的顶端262的至少一部分位于第二区域44上的状态下被按压于吸收性物品10。 图5</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="84" wi="69" file="2016123876_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及折叠例如一次性尿布那样的吸收性物品的折叠装置和折叠方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">已知一次性尿布、生理用卫生巾等一次性穿着物品。 专利文献1公开了一次性穿着物品的制造方法。 一次性穿着物品被制造为应成为各个一次性穿着物品的多个区域相连而成的带状体。 然后,带状体被切成各个一次性穿着物品。 被切开的各个一次性穿着物品在被包装于产品出货用的包装材料之前被折叠。 在专利文献1中,一次性穿着物品以配置于穿着者的背侧的前部与配置于穿着者的前侧的后部重叠的方式被双重折叠。</base:Paragraphs>
+      <base:Paragraphs num="0003">专利文献2公开了一种用于纸尿布、生理用卫生巾等吸收性物品的吸收体。 该吸收体具有在纵向上连续地形成的低单位面积重量区域和在低单位面积重量区域的两侧以沿着低单位面积重量区域的方式形成的高单位面积重量区域。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">           <business:ApplicationCitation num="0001">
+            <base:Text>国際公開第2006／068081号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開2008－23311号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">本申请的发明人发现了以下这样的课题。 吸收体的弯曲容易度、强度在低单位面积重量区域和高单位面积重量区域不同。 因此,在折叠包含低单位面积重量区域和高单位面积重量区域的吸收体时,根据与吸收体相关的折痕的位置、角度,有可能导致吸收体的形状走样。</base:Paragraphs>
+        <base:Paragraphs num="0006">本发明是鉴于上述的课题而完成的,其目的在于提供一种能够在维持包含高单位面积重量区域和低单位面积重量区域的吸收体的形状的同时折叠吸收性物品的折叠装置和折叠方法。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0007">本公开的折叠装置涉及一种折叠装置,该折叠装置用于折叠包含吸收体的吸收性物品,该吸收体具有由第1单位面积重量的吸收材料形成的第1区域和由比第1单位面积重量小的第2单位面积重量的吸收材料形成且至少沿着第1方向延伸的第2区域。 该折叠装置具有折叠板,该折叠板具有沿着一个方向延伸的前端。 折叠板构成为在折叠板的顶端沿着第1方向取向、或者折叠板的顶端的至少一部分位于第2区域上的状态下按压于吸收性物品。</base:Paragraphs>
+        <base:Paragraphs num="0008">本公开的折叠方法涉及一种折叠包含吸收体的吸收性物品的折叠方法,该吸收体具有由第1单位面积重量的吸收材料形成的第1区域和由比第1单位面积重量小的第2单位面积重量的吸收材料形成且至少沿着第1方向延伸的第2区域。 该折叠方法包括如下工序：在使沿着一个方向延伸的折叠板的顶端沿着第1方向取向、或者使折叠板的顶端的至少一部分位于第2区域上的状态下,将折叠板按压于吸收性物品。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0009">采用本发明,能够提供一种能够在维持包含高单位面积重量区域和低单位面积重量区域的吸收体的形状的同时折叠吸收性物品的折叠装置和折叠方法。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0010">
+        <base:FigureReference num="0001">图0001是一个实施方式的吸收性物品的俯视图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是吸收性物品所具有的吸收体的吸收芯的俯视图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是根据一实施例的折叠装置的示意图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004的(a)～图4的(f)是说明折叠吸收性物品的情形的示意图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是表示吸收性物品与折叠板之间的位置关系的示意图。</base:FigureReference>
+        <base:FigureReference num="0006">图6是表示变形例的吸收体的吸收芯的俯视图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是变形例的折叠装置的示意图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008的(a)和图8的(b)是从图7的箭头8A方向观察到的折叠板的示意图,是说明折叠吸收性物品的情形的示意图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是表示变形例的折叠装置的折叠板与吸收性物品的位置关系的示意图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0011">以下,参照附图对实施方式的吸收性物品进行说明。 在以下的实施方式中,作为吸收性物品的一个例子,对一次性尿布进行说明。 然而,本发明的吸收性物品包括生理用卫生巾、卫生护垫、失禁垫和一次性尿布那样的各种物品。</base:Paragraphs>
+      <base:Paragraphs num="0012">此外,在以下的附图的记载中,对相同或类似的部分标注相同或类似的附图标记。 但是,应注意的是,附图是示意性的,各尺寸的比率等与现实不同。 因此,具体的尺寸等应参考以下的说明来判断。 另外,在附图相互之间也可能包含彼此的尺寸的关系、比率不同的部分。</base:Paragraphs>
+      <base:Paragraphs num="0013">图1是作为本实施方式的吸收性物品10的一次性尿布的展开俯视图。 吸收性物品10具有前腰围区域20、下裆区域25以及后腰围区域30。 前腰围区域20是与穿着者的前腰围部（腹部分）接触的部分。 另外,后腰围区域30是与穿着者的后腰围部（背部分）接触的部分。 下裆区域25位于前腰围区域20与后腰围区域30之间。 另外,在吸收性物品10形成有一对腿围开口部35。 腿围开口部35设于后腰围区域30的两侧端部。 腿围开口部35是在吸收性物品10被穿着者穿着的状态下沿着穿着者的腿围配置的部分。</base:Paragraphs>
+      <base:Paragraphs num="0014">吸收性物品10包括跨下裆区域25且从下裆区域25朝向前腰围区域20和后腰围区域30中的至少任一者延伸的吸收体40。 在本实施方式中,将吸收体40的长度方向称为“吸收体的长度方向L”。 另外,将与吸收体的长度方向L正交的方向称为“吸收体的宽度方向W”（也参照图2）。</base:Paragraphs>
+      <base:Paragraphs num="0015">在吸收体40的表面侧（肌肤抵接面侧）配置有肌肤面侧片。 肌肤面侧片包含透液性的正面片51和疏水性的侧片52。 正面片51以覆盖吸收体40的大致整体的方式配置。 侧片52在吸收体40的宽度方向W的侧部以覆盖吸收体40和正面片51的方式配置。 此外,肌肤面侧片也可以不由正面片51和侧片52这两层构成,也可以由任一者构成,还可以具有其他片。</base:Paragraphs>
+      <base:Paragraphs num="0016">在吸收体40的背面侧（非肌肤抵接面侧）配置有不透液性的非肌肤面侧片。 非肌肤面侧片也可以包括在穿着时构成吸收性物品10的外表面的外装片和配置于吸收体40与外装片之间的背面片。 需要说明的是,非肌肤面侧片可以不由外装片和背片构成,可以由任一方构成,也可以具备其他片。</base:Paragraphs>
+      <base:Paragraphs num="0017">在一对侧片52分别具备粘扣带90。 粘扣带90设于后腰围区域30。 粘扣带90通过固着于前腰围区域20的非肌肤抵接面而将吸收性物品10保持于穿着者的身体。</base:Paragraphs>
+      <base:Paragraphs num="0018">也可以在侧片52的吸收性物品10的宽度方向W的内缘部具有沿着吸收性物品10的长度方向延伸的一对袖带80。 袖带80也可以是立起性的伸缩褶裥。</base:Paragraphs>
+      <base:Paragraphs num="0019">侧片52也可以在吸收性物品10的宽度方向W的内缘部向正面片51侧折回,层叠成两层。 也可以在该两层侧片52之间以在长度方向上伸长的状态设置弹性构件。 此外,图1表示袖带80所具有的弹性部件收缩的状态下的吸收性物品的展开俯视图。 袖带80也可以具有通过弹性构件而在吸收性物品的长度方向上收缩的收缩部84。</base:Paragraphs>
+      <base:Paragraphs num="0020">吸收性物品10以沿着折叠线F折叠的状态收纳于包装材料内。 折线F沿着吸收体的宽度方向W,横穿吸收体40所存在的区域。 取而代之,折叠线F也可以沿着吸收体的长度方向L。 在图1中仅示出了一条折线F。 然而,根据吸收性物品10的折叠方式,折线F也可以存在多条。 在该情况下,多条折线F中的至少一条折线横穿吸收体40所存在的区域。</base:Paragraphs>
+      <base:Paragraphs num="0021">图2表示吸收性物品10所具备的吸收体40的吸收芯的一个实施例。 吸收体40包括吸收芯46和包覆吸收芯46的片状的包覆片48（参照图1）。 吸收芯46能够使用粉碎纸浆、高吸收聚合物等公知的构件、材料适当地构成。 包覆片48的至少肌肤面侧的一部分由具有透液性的各种纤维无纺布或薄纸构成。</base:Paragraphs>
+      <base:Paragraphs num="0022">吸收芯46具有由第1单位面积重量的吸收材料形成的第1区域42和由比第1单位面积重量小的第2单位面积重量的吸收材料形成的第2区域44。 第2区域44包括在吸收性物品的折线F上至少沿着吸收体的宽度方向W（第1方向）延伸的区域。 具体而言,第2区域44在吸收性物品的折叠线F上在吸收芯46的一部分直线地延伸。 取而代之,第2区域44也可以在吸收性物品的折叠线F上在从吸收芯46的一端到另一端的整体范围内直线地延伸。</base:Paragraphs>
+      <base:Paragraphs num="0023">在图2所示的实施例中,第2区域44沿着吸收体的长度方向L和吸收体的宽度方向W这两个方向延伸,将第1区域42划分为多个块。 另外,以下,有时将第1区域42称为“高单位面积重量区域”,将第2区域44称为“低单位面积重量区域”。 另外,吸收芯46的周边部也可以成为单位面积重量比第2区域44的单位面积重量高的高单位面积重量区域。 低单位面积重量区域44也可以由厚度比高单位面积重量区域42的厚度小的凹部形成。 另外,低单位面积重量区域44也包含单位面积重量为零的区域、即不存在吸收材料的区域。</base:Paragraphs>
+      <base:Paragraphs num="0024">另外,吸收芯的单位面积重量和密度例如能够通过以下的测定方法进行测定。 在由包装体包装起来的吸收性物品中,将包装体开封,将折叠起来的吸收性物品展开,测量要测量单位面积重量和密度的部分的厚度和面积。 接着,从吸收性物品切出要测定单位面积重量和密度的部分,测定切出的部分的重量。 接着,从切出的部分去除肌肤面侧片和非肌肤面侧片等吸收芯以外的部分,测定吸收芯的重量。 基于吸收芯的重量和测定单位面积重量和密度的部分的面积算出单位面积重量。 基于单位面积重量及厚度,算出密度。</base:Paragraphs>
+      <base:Paragraphs num="0025">（3）吸收性物品的折叠装置和折叠方法基于图3和图4说明吸收性物品的折叠装置200和折叠方法。 另外,图3是示意性地表示吸收性物品的折叠装置200的一部分的主视图。</base:Paragraphs>
+      <base:Paragraphs num="0026">吸收性物品的折叠装置200具有输送机构210和折叠机构250。 折叠装置200也可以具有控制输送机构210及折叠机构250的控制单元。</base:Paragraphs>
+      <base:Paragraphs num="0027">输送机构210也可以具有第一辊211、架设于第一辊211的第一输送带221、与第一辊211分离地配置的第二辊212、以及架设于第二辊212的第二输送带222。 第一辊211和第二辊212彼此相对配置,向相反方向旋转。</base:Paragraphs>
+      <base:Paragraphs num="0028">吸收性物品10被第一输送带221朝向折叠机构250沿着方向D1输送。 吸收性物品10在被折叠机构250沿着折线F折叠后,被第一输送带221以及第二输送带222沿着方向D2输送。</base:Paragraphs>
+      <base:Paragraphs num="0029">折叠机构250包括旋转体251和随着旋转体251的旋转而沿着旋转体251的外周移动的折叠板260。 折叠板260被构造成在沿着转子251的外周移动的同时相对于转子251旋转。 图4是示意性地表示折叠板260的轨迹的图。</base:Paragraphs>
+      <base:Paragraphs num="0030">折叠板260的一端接合到转子251的外周表面。 折叠板260被配置为能够围绕与转子251接合的折叠板260的一端旋转。 由于折叠板260的旋转,折叠板的前端262（即,未接合到转子251的端部）定位在转子251的外周表面的内侧,或者突出到转子251的外周表面的外侧。</base:Paragraphs>
+      <base:Paragraphs num="0031">在折叠吸收性物品10时,首先,利用输送机构210将吸收性物品10朝向折叠机构250输送（参照图4的(a)）。 此时,折叠板260的前端262位于旋转体251的中心附近。</base:Paragraphs>
+      <base:Paragraphs num="0032">接着,吸收性物品10成为跨越第一输送带221和第二输送带222的状态（参照图4(b)）。 在该状态下,吸收性物品10位于折叠机构250的正下方。 随着旋转体251的旋转,折叠板260的前端262与输送带221、222上的吸收性物品10接触。</base:Paragraphs>
+      <base:Paragraphs num="0033">接着,通过旋转体251从图4(b)所示的状态进一步逆时针旋转,折叠板260的前端262按压吸收性物品10（参照图4(c)）。 接着,旋转体251进一步逆时针旋转,由此折叠板260的前端262进一步按压吸收性物品10,折叠吸收性物品10（参照图4(d)）。</base:Paragraphs>
+      <base:Paragraphs num="0034">接着,旋转体251进一步逆时针旋转,由此折叠板260的前端262从吸收性物品10退避（参照图4(e)）。 折叠后的吸收性物品10在被第一输送带221和第二输送带222夹着的状态下沿着输送方向D2被输送。</base:Paragraphs>
+      <base:Paragraphs num="0035">接着,参照图5对折叠吸收性物品10时的折叠板260相对于吸收性物品10的位置进行详细说明。 图5表示折叠板260与吸收性物品10接触的状态下的、吸收性物品10与折叠板260的位置关系。 另外,为了方便,在图5中,未图示吸收性物品10的袖带。</base:Paragraphs>
+      <base:Paragraphs num="0036">如图5所示,折叠板260的前端262向一个方向延伸。 在折叠板260的顶端262与吸收性物品10接触时,折叠板260的顶端262沿着吸收体40的低单位面积重量区域44延伸的第1方向、在此是吸收体的宽度方向W取向。 该第1方向相当于沿着吸收性物品10的折叠线F的方向。 折叠板260以折叠板的顶端262的至少一部分位于低单位面积重量区域44上的状态按压于吸收性物品10。 即,折叠板260沿着吸收体的宽度方向W取向,以折叠板的顶端262的至少一部分位于低单位面积重量区域44上的状态按压于吸收性物品10。 优选的是,折叠板的顶端262的厚度宽度L1小于低单位面积重量区域44的沿着与吸收体的宽度方向W正交的方向的宽度L2。</base:Paragraphs>
+      <base:Paragraphs num="0037">优选的是,折叠板的顶端262的长度W1比将吸收性物品10折叠的折叠线F上的吸收体40的宽度方向长度W2长。 由此,在折叠吸收性物品10时,能够在吸收体40的两个外缘部之间按压折叠板260。</base:Paragraphs>
+      <base:Paragraphs num="0038">更优选的是,折叠板的顶端262的长度W1比将吸收性物品10折叠的折叠线F上的吸收性物品10的宽度方向的长度W3长。 由此,在折叠吸收性物品10时,折叠板260在吸收性物品10的两个外缘部之间整体地被按压。</base:Paragraphs>
+      <base:Paragraphs num="0039">折叠装置200也可以具有使折叠板260与吸收性物品10的相对位置对准的定位装置400（参照图3）。 作为一个例子,定位装置400也可以包括对第一输送带221上的吸收性物品10进行拍摄的拍摄单元和对由拍摄单元得到的图像进行解析的解析单元。 通过利用分析部件对由拍摄部件获得的图像进行分析,能够准确地确定低单位面积重量区域44的位置或吸收性物品10的折线F的位置。 控制搬送机构210及折叠机构250的控制单元基于图像解析的结果来控制搬送带221、222。 由此,能够以折叠板260的顶端262能够按压低单位面积重量区域44的方式使折叠板260与吸收性物品10之间的相对位置准确地对准。</base:Paragraphs>
+      <base:Paragraphs num="0040">另外,吸收性物品10优选在吸收性物品10的折线F上的位置具备伸缩褶裥那样的具有弹性构件的袖带80。 具有弹性构件的袖带80在折叠板260被按压于吸收性物品10时作为缓冲材料,缓和折叠板260与吸收性物品10碰撞时的冲击力。 由此,能够抑制吸收体40的形状的变形。 因此,上述实施方式的折叠装置和折叠方法适于折叠具备具有弹性体的袖带80的吸收性物品10。 不过,上述实施方式的折叠装置和折叠方法也能够用于折叠不具备具有弹性体的袖带80的吸收性物品10。</base:Paragraphs>
+      <base:Paragraphs num="0041">图6表示吸收性物品10所具备的吸收体的吸收芯的另一实施例。 图6所示的吸收芯46除了高单位面积重量区域42和低单位面积重量区域44的配置之外,也可以具有与图2所示的吸收体同样的结构。</base:Paragraphs>
+      <base:Paragraphs num="0042">吸收芯46具有由第1单位面积重量的吸收材料形成的第1区域42和由比第1单位面积重量小的第2单位面积重量的吸收材料形成的第2区域44。 第2区域44至少包含沿着吸收体的宽度方向W（第1方向）延伸的区域。</base:Paragraphs>
+      <base:Paragraphs num="0043">在图6所示的实施例中,低单位面积重量区域44沿着吸收体的长度方向L和吸收体的宽度方向W这两个方向延伸,将高单位面积重量区域42划分成多个块。 更具体地讲,低单位面积重量区域44在吸收性物品10的折线F上在吸收芯46的至少一部分呈虚线状延伸。 在该情况下,也可以说吸收性物品的折线F沿着低单位面积重量区域44延伸的方向（宽度方向W）延伸。 并不限于图2和图6所示的实施例,低单位面积重量区域44包括沿着吸收性物品10的折线F延伸的任意的区域即可。</base:Paragraphs>
+      <base:Paragraphs num="0044">图7是变形例的折叠装置的示意图。 折叠装置300包括输送机构310及折叠机构350。 输送机构310也可以具有架设于多个辊的第一输送带321、架设于多个辊的第二输送带322、架设于多个辊的第三输送带323、以及架设于多个辊的第四输送带324。 第一输送带321和与第一输送带321对置的第二输送带322的部分规定了比折叠机构350靠输送方向上游侧的第一输送路径4M。 第二输送带322和与第二输送带322对置的第四输送带324的部分规定比折叠机构350靠输送方向下游侧的第二输送路径4B。 第三输送带323构成为与第四输送带324一起把持输送到折叠机构350处的吸收性物品10的一端部。</base:Paragraphs>
+      <base:Paragraphs num="0045">吸收性物品10被第一输送带321和第二输送带322沿着第一输送路径4M的输送方向D1朝向折叠机构350输送。 吸收性物品10被输送至横跨第一输送带321和第三输送带323的位置。 折叠机构350沿着折叠线F折叠吸收性物品10。 以下,使用图8对折叠机构350的结构和折叠吸收性物品10的工序进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0046">图8(a)及图8(b)是从图7的箭头8A方向观察的折叠机构350的示意图。 折叠机构350包括一对折叠板360及使折叠板360绕旋转轴361旋转的马达364。 此外,为了方便,在图8中未图示马达。 一对折叠板360彼此相邻地配置,构成为彼此向相反方向旋转。</base:Paragraphs>
+      <base:Paragraphs num="0047">折叠机构350的一对折叠板360绕旋转轴361旋转。 一对折叠板360具有从旋转轴361向一个方向延伸的前端362。 通过折叠板360的旋转,一对折叠板的顶端362碰到配置于折叠机构350的正下方、即图7所示的位置的吸收性物品10（参照图8的(b)）。 通过使折叠板360从该状态进一步旋转,折叠板360将折叠板360所抵接的位置作为折线F来折叠吸收性物品10。 吸收性物品10一边被一对折叠板360沿着折叠线F对折,一边被向第二输送带322与第四输送带324之间的输送路径4B压入（也参照图7）。 折叠后的吸收性物品10被沿着第2输送路径4B的输送方向D2进一步输送。</base:Paragraphs>
+      <base:Paragraphs num="0048">图9是表示折叠装置300的折叠板、吸收性物品以及折叠板的位置关系的示意图。 在折叠吸收性物品时,一对折叠板360配置于吸收性物品10的宽度方向W的两外侧。 在本变形例中,折叠板360也沿着吸收体的宽度方向W取向,在折叠板的顶端362的至少一部分位于低单位面积重量区域44上的状态下按压于吸收性物品10。 优选的是,一对折叠板的顶端362的厚度小于低单位面积重量区域44的沿着与第1方向正交的第2方向（吸收体的长度方向L）的宽度。</base:Paragraphs>
+      <base:Paragraphs num="0049">在本变形例中,一对折叠板360构成为按压将吸收性物品10折叠的折叠线F上的吸收体40的至少宽度方向的两外缘部。 优选的是,折叠板360构成为至少按压吸收体的宽度方向W的两外缘部和比两外缘部靠宽度方向W外侧的吸收性物品10。 换言之,一对折叠板360除了吸收体40的宽度方向W的中央之外呈直线状地按压吸收性物品10。 不过,一对折叠板360也可以沿着吸收性物品10的折叠线F从吸收性物品10的一端到另一端整体地按压吸收性物品10。</base:Paragraphs>
+      <base:Paragraphs num="0050">（6）作用·效果低单位面积重量区域44比高单位面积重量区域42易于弯曲。 上述实施方式的折叠装置200、300的折叠板260、360构成为,在折叠板的顶端262、362沿着第1方向（低单位面积重量区域44延伸的方向）取向且折叠板的顶端262、362的至少一部分位于低单位面积重量区域44上的状态下,该折叠板260、360按压于吸收性物品10。 同样地,上述实施方式的折叠方法包括如下工序：在使沿着一个方向延伸的折叠板的顶端262、362沿着第1方向取向、或使折叠板的顶端262、362的至少一部分位于低单位面积重量区域44上的状态下,将折叠板260、360按压于吸收性物品10。 由此,吸收体40以比较易于弯曲的低单位面积重量区域44所延伸的第1方向为轴线弯折。 其结果,能够在维持吸收体40的形状的同时折叠吸收性物品。</base:Paragraphs>
+      <base:Paragraphs num="0051">根据一实施方式,折叠板的顶端262、362的厚度L1小于第2区域（低单位面积重量区域）44的沿着与第1方向正交的第2方向的宽度L2。 由此,能够在与折叠板的顶端262、362延伸的方向正交的方向上将折叠板的顶端262、362仅按压于低单位面积重量区域44。 由此,吸收体40在低单位面积重量区域44处弯曲,因此能够防止与弯曲相伴的吸收体40的形状的走样。</base:Paragraphs>
+      <base:Paragraphs num="0052">根据一个实施方式,折叠板260、360构成为按压将吸收性物品10折叠的折叠线F上的吸收体40的至少宽度方向W的两外缘部。 由此,在折叠吸收性物品10时,折叠板260、360至少被按压于吸收体40的宽度方向W的两外缘部。 在折叠板260、360仅按压吸收体40的中央部或仅按压吸收体40的一个外缘部的情况下,负荷仅集中于吸收体40的中央部或一个外缘部。 其结果,吸收体40的形状有可能走样。 在本实施方式中,折叠板260、360在折叠吸收性物品10的折叠线F上至少按压吸收体40的宽度方向W的两外缘部,因此,能够以折叠线F为轴将吸收体40整齐地折叠。</base:Paragraphs>
+      <base:Paragraphs num="0053">根据一个实施方式,折叠板260、360构成为至少按压吸收体40的宽度方向W的两外缘部和比该两外缘部靠宽度方向W外侧的吸收性物品10。 由此,在折叠吸收性物品10时,折叠板260、360不仅按压于吸收性物品10的两外缘部,还按压于比吸收体40的两外缘部靠外侧的吸收性物品10。 此时,比吸收体40的两外缘部靠外侧的吸收性物品10缓和因折叠板260、360的接触而施加于吸收体40的冲击力。 由此,能够防止吸收体40的形状的变形。 另外,能够防止折叠板260、360的角与吸收性物品10接触,因此能够防止损伤吸收性物品10。 特别是,吸收性物品10的表面大多由无纺布形成。 在该情况下,通过使折叠板260、360的角部不与无纺布抵接,能够防止无纺布的破损。</base:Paragraphs>
+      <base:Paragraphs num="0054">根据一个实施方式,折叠板260由具有顶端262的板形成,该顶端262比将吸收性物品10折叠的折叠线F上的吸收体40的至少宽度方向W的长度长。 由此,在折叠吸收性物品10时,折叠板260在吸收体40的两个外缘部之间被按压。 在折叠板260的顶端未延伸至吸收体40的两端的情况下,仅吸收体40的宽度方向W上的一部分区域被向下方按压。 其结果,负荷仅集中于吸收体40的宽度方向W的一部分区域,吸收体40的形状有可能走样。 在本实施方式中,折叠板260在吸收体40的两个外缘部之间延伸,因此,能够以折叠板的顶端262所延伸的直线为轴将吸收体40整齐地折叠。</base:Paragraphs>
+      <base:Paragraphs num="0055">根据一个实施方式,折叠装置300还具有使折叠板260、360与吸收性物品10的相对位置对准的定位装置。 由此,能够在与折叠板的顶端262、362延伸的方向正交的方向上将折叠板的顶端262、362准确地定位于低单位面积重量区域44、更详细而言准确地定位于折线F。</base:Paragraphs>
+      <base:Paragraphs num="0056">使用上述的实施方式对本发明详细地进行了说明,但对于本领域技术人员而言,本发明并不限定于在本说明书中说明的实施方式是显而易见的。 本发明在不脱离由权利要求书的记载所确定的本发明的主旨以及范围的情况下,能够作为修正以及变更方式来实施。 因此,本说明书的记载以例示说明为目的,对本发明不具有任何限制性的含义。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0057">10：吸收性物品20：前腰围区域25：下裆区域30：后腰围区域35：腿围开口部40：吸收体42：第1区域（高单位面积重量区域） 
+44：第2区域（低单位面积重量区域） 
+200：折叠装置260：折叠板262：折叠板的前端300：折叠装置360：折叠板361：旋转轴362：折叠板的前端F：折线W：吸收体的宽度方向（第一方向） 
+W1：折叠板的顶端的长度W2：折叠线上的吸收体的宽度方向的长度W3：折叠线上的吸收性物品的宽度方向的长度L：吸收体的长度方向（第二方向） 
+L1：折叠板的顶端的厚度宽度L2：低单位面积重量区域的宽度 </base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="101" wi="85" file="2016123876_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="107" wi="85" file="2016123876_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="103" wi="85" file="2016123876_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="105" wi="85" file="2016123876_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="103" wi="85" file="2016123876_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="103" wi="85" file="2016123876_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="103" wi="85" file="2016123876_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="102" wi="85" file="2016123876_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="99" wi="85" file="2016123876_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种折叠装置,折叠包含吸收体的吸收性物品,所述吸收体具有由第1单位面积重量的吸收材料形成的第1区域和由比所述第1单位面积重量小的第2单位面积重量的吸收材料形成且至少沿着第1方向延伸的第2区域,所述折叠装置具有折叠板,所述折叠板具有沿着一个方向延伸的顶端,所述折叠板构成为在所述折叠板的所述顶端沿着所述第1方向取向且所述折叠板的所述顶端的至少一部分位于所述第2区域上的状态下被按压于所述吸收性物品。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的折叠装置,其特征在于,所述折叠板的所述前端的厚度小于所述第二区域的沿着与所述第一方向正交的第二方向的宽度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的折叠装置,其特征在于,所述折叠板构成为按压将所述吸收性物品折叠的折叠线上的所述吸收体的至少宽度方向的两外缘部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求3所述的折叠装置,其特征在于,所述折叠板构成为至少按压所述吸收体的宽度方向的所述两外缘部和比所述两外缘部靠宽度方向外侧的所述吸收性物品。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1至4中任一项所述的折叠装置,其特征在于,所述折叠板由具有比折叠所述吸收性物品的折叠线上的所述吸收体的至少宽度方向长度长的前端的板形成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1至5中任一项所述的折叠装置,其特征在于,还具有使所述折叠板与所述吸收性物品的相对位置对准的定位装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>一种折叠方法,是折叠包含吸收体的吸收性物品的折叠方法,所述吸收体具有由第1单位面积重量的吸收材料形成的第1区域和由比所述第1单位面积重量小的第2单位面积重量的吸收材料形成且至少沿着第1方向延伸的第2区域,所述折叠方法包括如下工序：在使沿着一个方向延伸的折叠板的顶端沿着所述第1方向取向且使所述折叠板的所述顶端的至少一部分位于所述第2区域上的状态下,将所述折叠板按压于所述吸收性物品。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

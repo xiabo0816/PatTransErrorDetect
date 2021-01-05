@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000516272JP00020165199770AFULJA20160711JP00Z.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519977" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519977</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519977</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000516272</base:DocNumber>
+        <base:Date>20140526</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016516272</base:DocNumber>
+        <base:Date>20140526</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002013000827811</base:DocNumber>
+        <base:Date>20130528</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>61/827,811</base:DocNumber>
+        <base:Date>20130528</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>39</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61N   1/39        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61N1/39</business:FI>
+      <business:FClass>
+        <business:FTerm>4C053JJ23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C053</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">体外除颤器的自动功率管理</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>コーニンクレッカ  フィリップス  エヌ  ヴェ</base:Name>
+            <base:RegisteredNumber>590000248</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>オランダ国  5656  アーエー  アインドーフェン  ハイテック  キャンパス  5</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <base:AddressBook lang="en">
+            <base:Name>KONINKLIJKE  PHILIPS  N.V.</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>High  Tech  Campus  5，NL－5656  AE  Eindhoven</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>デライスル  ノーマン  モーリス</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>オランダ国  5656  アーエー  アインドーフェン  ハイ  テック  キャンパス  ビルディング  5</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ウスリッチ  スコット  アラン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>オランダ国  5656  アーエー  アインドーフェン  ハイ  テック  キャンパス  ビルディング  5</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>コージン  サイモン  エドワード</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>オランダ国  5656  アーエー  アインドーフェン  ハイ  テック  キャンパス  ビルディング  5</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>津軽  進</base:Name>
+            <base:RegisteredNumber>100087789</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>笛田  秀仙</base:Name>
+            <base:RegisteredNumber>100122769</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>五十嵐  貴裕</base:Name>
+            <base:RegisteredNumber>100163809</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>IB2014061706</base:DocNumber>
+        <base:Date>20140526</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2014191888</base:DocNumber>
+        <base:Date>20141204</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>16</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>紧急医疗设备包括电源12,电源12被配置为给设备的一个或多个子系统供电。 用户活动检测模块56被配置为检测一个或多个子系统中的用户活动,并且临床活动检测模块54被配置为检测一个或多个子系统中的临床活动。 控制模块30被耦合到一个或多个子系统并且被配置为基于在用户活动检测模块和临床活动检测模块中的至少一个中检测到的活动来改变一个或多个子系统的功率状态。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="45" wi="69" file="2016519977_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本公开涉及医疗器械,并且更具体地,涉及具有自动功率管理的除颤器/监测器,其改善了电池寿命、降低了功率消耗并且减少了临床使用的启动时间。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">体外除颤器可以由电池电源或经由外部AC或DC电源供应的电源操作。 在当前产品中,用户通过手动打开/关闭设备来直接控制电源。 通常,系统处理器具有至少5至10秒的通电时间来启动、初始化和执行启动自测试。 此外,可能需要几分钟来预热一些子系统以实现完全精度。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0003">更新颖的除颤器/监控设备在功率控制方面增加了复杂性。 模块化概念可以应用于除颤器/监测器系统,从而提供需要由用户打开/关闭的多个电池供电的模块。 这为用户创建了大量步骤并且省略了一些步骤的可能性。 例如,如果模块中的一个或多个未被通电,则在用户尝试确定系统为什么不工作时可能会损失宝贵的时间。 此外,如果模块中的一个未被无意地断电,则它会减少电池,并且当需要紧急护理时不能使用。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0004">根据本原理,紧急医疗装置包括电源,该电源被配置为给装置的一个或多个子系统供电。 用户活动检测模块被配置为检测一个或多个子系统中的用户活动,并且临床活动检测模块被配置为检测一个或多个子系统中的临床活动。 控制模块被耦合到一个或多个子系统并且被配置为基于在用户活动检测模块和临床活动检测模块中的至少一个中检测到的活动来改变一个或多个子系统的功率状态。</base:Paragraphs>
+        <base:Paragraphs num="0005">紧急医疗设备包括电源和控制模块,电源被配置为给设备的一个或多个子系统供电,一个或多个子系统包括具有待机模式的至少一个模块,控制模块耦合到一个或多个子系统并且包括自动电源管理模块。 控制模块被配置为控制参数以改变一个或多个子系统的电源状态。 可以基于在用户活动检测模块和临床活动检测模块中的至少一个中检测到的活动来改变一个或多个子系统的功率状态。 其中,用户活动检测模块被配置为检测一个或多个子系统中的用户活动,并且临床活动检测模块被配置为检测一个或多个子系统中的临床活动。</base:Paragraphs>
+        <base:Paragraphs num="0006">与医疗设备的功率管理相关的方法包括：将控制模块配置为响应于在设备上执行的一个或多个用户活动和/或一个或多个临床活动,检测用户活动和临床活动以确定是否满足用于改变设备和/或设备的一个或多个子系统的功率状态的条件,以及基于检测到的用户活动和/或临床活动来改变整个设备和/或一个或多个子系统的功率状态。</base:Paragraphs>
+        <base:Paragraphs num="0007">电源状态可以包括电源关闭状态、电源开启状态和待机模式中的任何一个。 所述一个或多个子系统可以包括测量模块、打印机和显示器中的一个或多个。 用户活动可以包括用户与设备之间的物理交互,并且临床活动可以包括与患者的临床交互、为患者准备设备、测量患者参数。 配置控制模块可以包括允许用户设置参数以改变电源状态。 设备可以包括监测器、除颤器或其组合。</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0008">
+        <base:FigureReference num="0001">图0001是根据一个实施例的除颤器/监控设备的方框/流程图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是示出根据一个实施例的用于除颤器的功率控制模块和由其供电的模块的方框/流程图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是图示了根据示例性实施例的用于操作除颤器的系统/方法的方框/流程图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0009">通过以下结合附图对其说明性实施例的详细描述,本公开的这些和其他目的、特征和优点将变得显而易见,其中：</base:Paragraphs>
+      <base:Paragraphs num="0010">本公开参考以下附图详细提供了优选实施例的以下描述,其中：</base:Paragraphs>
+      <base:Paragraphs num="0011">根据本原理,提供了自动化电源管理功能,以减轻对除颤器或监测器通电的可用性问题。 这使得整个系统更易于使用,并且提高了用于紧急护理的系统准备性。 目前用于自动化电源管理的技术不能很好地适应除颤器或监测器的使用模式。 用户不活动是许多家用电器设备用于进入省电模式的主要触发因素。 省电模式使显示屏断电,该显示屏是设备中最大的电力消耗者之一。 在除颤器或监测器中,可能需要在屏幕上显示的生命体征数据,即使用户不活动明显持续长时间段。 此外,用户依赖于除颤器/监测器来连续地检查生理警报条件,例如高心率、低血压或更复杂的条件,诸如在患者的ECG中检测到的心律失常。 因此,不能依赖于简单的用户不活动度量来执行除颤器/监测器的自动电源管理。</base:Paragraphs>
+      <base:Paragraphs num="0012">根据一个有用的实施例,除了用户活动之外,还使用临床活动来触发自动省电模式切换。 临床活动装置可以包括以下中的一个或多个： 1）将治疗垫或桨从设备附接到患者,2）将心电图(ECG)导联从设备附接到患者,从垫、桨或ECG导联接收有效ECG数据,从Sp02传感器接收有效Pleth波信号,从EtC02传感器接收有效二氧化碳描记图,在连接到设备的心肺复苏(CPR)辅导传感器处检测压缩,激活测量系统等。</base:Paragraphs>
+      <base:Paragraphs num="0013">用于触发特定子系统的断电的临床活动水平需要不同于使那些子系统通电的临床活动水平。 为了防止错误的不活动检测,该规则需要提供用于断电的高阈值。 重新启动子系统的规则使用较低的阈值来确保检测到所有活动状态。 例如,将ECG导联连接到设备是足以使ECG监测功能通电的条件。 然而,关闭ECG监测功能可能需要移除ECG引线和其他ECG源,例如焊盘或桨。 用户活动包括对装置的任何直接或积极控制,诸如转动旋钮、按下按钮或释放模块的对接以供远程使用。</base:Paragraphs>
+      <base:Paragraphs num="0014">仅当在预定时间段内不存在用户活动和临床活动两者时,设备才进入省电模式。 当处于省电操作模式时,设备继续感测用户活动和特定类型的临床活动,以确定设备是否需要自动重启。</base:Paragraphs>
+      <base:Paragraphs num="0015">用于检测用户或临床活动的机构被设计成具有超低的功率消耗。 注意,在设备可以立即被激活的待机操作模式下,处理器和存储器需要继续通电。 因此,用户和临床活动检测机构可以在操作期间利用这些处理元件。 例如,装置可以通过使用检测负载何时连接在特定治疗端口引脚之间的简单输入/输出方法来检测焊盘电缆何时连接到装置。</base:Paragraphs>
+      <base:Paragraphs num="0016">根据本原理的系统在省电模式下操作时提供立即接通功能。 因此,如果系统恰好在用户活动或临床活动的新发生之前进入省电模式,则恢复是瞬时的。 自动化电源管理提供了紧急医疗装置所需的高水平的鲁棒性。 这是因为由设备执行的自动节能处理可以由用户通过立即接通功能立即反转。 在某些实施例中,可以使用基于特定类型的不活跃的多个省电模式和开关。 例如,如果没有打印请求（来自用户或来自自动打印功能,例如心律失常警报）,则关闭打印机。 如果发生对用户完全透明的打印请求,则恢复打印机的电源。 在诸如患者运输的长期患者监测中,在省电模式下节省了大量的电池电量,在该省电模式下,关闭显示器和打印机,但继续监测患者警报状态,并且如果检测到警报状态,则自动重启系统。</base:Paragraphs>
+      <base:Paragraphs num="0017">虽然本发明是关于医疗器械来描述的,但是应当理解,本发明的教导非常广泛,并且可以应用于需要降低功耗的任何电池装置。 在一些实施例中,在医院或紧急车辆中、在家中、在公共场所等中使用的除颤器/监测器中采用本原理。 附图中示出的元件可以以硬件和软件的各种组合来实现,并且可以提供可以在单个元件或多个元件中组合的功能。</base:Paragraphs>
+      <base:Paragraphs num="0018">附图中所示的各种元件的功能不仅可以通过使用专用硬件来提供,而且可以通过使用能够执行与适当软件相关联的软件的硬件来提供。 当由处理器或控制器提供时,该功能可以由单个专用处理器、由单个共享处理器或由多个单独的处理器提供。 各个处理器中的一些可以是共享的。 此外,术语“处理器”或“控制器”的明确使用不应被解释为排他性地指代能够执行软件的硬件,并且隐含地包括但不限于数字信号处理器（“DSP”）硬件、存储软件的只读存储器（“ROM”）、随机存取存储器（“RAM”）和非易失性存储器。</base:Paragraphs>
+      <base:Paragraphs num="0019">此外,本文中阐述本发明的原理、方面和实施例及其具体实施例的所有描述旨在包括其结构和功能等同物的范围。 此外,这样的等同物不仅包括当前已知的等同物,而且包括将来开发的等同物。 即,无论结构如何,包括被开发为执行相同功能的任何元件。 因此,例如,本领域技术人员应当理解,本文给出的框图表示体现本公开的原理的说明性电路的概念表示。 类似地,应当理解,任何流程图、流程图、状态转换图、伪代码等表示基本上在计算机可读介质中表示并且因此由计算机或处理器执行的各种过程,无论是否明确示出这样的计算机或处理器。</base:Paragraphs>
+      <base:Paragraphs num="0020">此外,本发明的实施例可以采取计算机程序的形式或包括计算机程序,该计算机程序可从计算机可用或计算机可读存储介质访问,该计算机可用或计算机可读存储介质提供用于由计算机或任何指令执行系统使用或与计算机或任何指令执行系统结合使用的程序代码。 出于本说明书的目的,计算机可用或计算机可读存储介质可以是能够包含、存储、通信、传播或传输程序以供指令执行系统、装置或设备使用或与其结合使用的任何装置。 介质可以是电、磁、光、电磁、红外或半导体系统（或装置或设备）或传播介质。 计算机可读介质的示例包括半导体或固态存储器、磁带、可移动计算机磁盘、随机存取存储器(RAM)、只读存储器(ROM)、刚性磁盘和光盘。 光盘的当前示例包括只读光盘（CD-ROM）、读/写光盘（CD-R/W）、蓝光和DVD。</base:Paragraphs>
+      <base:Paragraphs num="0021">现在参考附图,其中相似的数字表示相同或相似的元件,并且首先参考图1,方框/流程图示出了根据一个实施例的紧急医疗设备10,例如,除颤器、监测器或其组合。 除颤器/监控设备10包括电源12,例如电池或电池、DC电源或AC电源。 治疗供给回路20控制供给到电击供给装置24的能量的量和脉冲的形状。 这可以包括垫或桨。 治疗供给电路20提供对治疗电容器22的接入,以允许充电和放电。 除颤器/监控设备10可以包括其他电子设备或软件程序18。 电子设备18可以包括其他特征,例如时钟、计时器、功率测量装置、灯、显示器等。 监测装置功能36可以包括心电图(ECG)装置、氧饱和装置（Sp02）、无创血压装置(NBP)、二氧化碳描记装置（EtC02）、温度装置等。</base:Paragraphs>
+      <base:Paragraphs num="0022">当除颤器/监控设备10需要递送电击时,治疗供给电路20通过从电池或电池12（或AC或DC电源）传输电流来对治疗电容器22充电。 当用户启动释放能量时,存储在治疗电容器22中的能量通过放置在患者胸部上的垫或桨24释放。</base:Paragraphs>
+      <base:Paragraphs num="0023">除颤器/监控设备10包括控制电路或模块30。 这可以包括一个或多个处理器34和存储器32。 控制模块30控制除颤器/监测器10的其他模块或功能的操作和功能。</base:Paragraphs>
+      <base:Paragraphs num="0024">除颤器/监控设备10包括自动电源管理机构40的组合,其简化了除颤器/监控系统的使用并且节省了能量以延长电池操作时间。 除颤器/监控设备10为具有立即通电能力的所选子系统提供省电待机模式,以避免冗余的处理器启动时间（例如,在系统处理器或计算机处理单元(CPU)34上启动实时操作系统）（如果适用的话）。 除颤器/监控设备10避免或减少冗余的预热时间（例如,呼气末C02测量模块）（如果适用的话）,并且提供低功率机构40以使用感测电路或设备16来监控用户或临床活动。 除颤器/监控设备10为所选择的模块（例如,打印机、非侵入式血压测量模块等）提供独立的功率控制,其可以在没有显著的激活或预热时间的情况下被通电。</base:Paragraphs>
+      <base:Paragraphs num="0025">用于检测用户或临床活动的低功率机构40可以包括用户活动,诸如按下按钮、触摸触摸屏、转动旋钮、将治疗或测量电缆连接到装置、断开可分离系统模块的对接等。 临床活动可以包括将ECG导联放置在患者身上、将治疗垫或桨24放置在患者身上、获得有效ECG信号、经由心肺复苏(CPR)传感器检测心脏按摩等。</base:Paragraphs>
+      <base:Paragraphs num="0026">除颤器/监控设备10被配置成当检测到用户和/或临床活动时自动切换到待机模式（立即接通）并且接通模块。 除颤器/监控设备10被配置为在用户不活动和临床不活动之间的间隔之后自动切换到待机模式并关闭模块。 在其他实施例中,对于某些有限类型的用户不活动和临床不活动,在系统的部分上选择性地执行断电或切换到待机。 例如,当没有打印请求时,打印机被断电,当没有活动时,手动控制的生命体征测量模块被断电（例如,非侵入性血压模块）,当没有连接到患者时,生命体征测量模块被切换到省电待机模式（例如,如果没有连接到呼气末TidalC02模块的传感器电缆）,并且当设备在不能输送治疗的模式下操作时,治疗输送电路被断电（例如,在监测模式下,不能输送电击）。</base:Paragraphs>
+      <base:Paragraphs num="0027">这些自动功率管理特征40的组合确保装置可以在需要时被立即激活,并且装置在使用时不会意外地断电,并且电池功率消耗减少。</base:Paragraphs>
+      <base:Paragraphs num="0028">参考图2,框图示出了根据本原理的控制模块30和电源管理模块/自动电源管理模块40的示例性硬件实施例。 控制模块30提供处理器、存储器和软件,以控制设备功能,特别是控制操作状态以实现从“打开”到“待机”的转换。 电源控制44包括用于接通/断开某些子系统（例如,开关和连接器）的硬件。</base:Paragraphs>
+      <base:Paragraphs num="0029">控制模块30包括自动电源管理模块40。 自动电源管理模块40接收来自多个不同模块的输入,以确定电源控制模块44是否应当被激活以使任何数量的独立供电设备的子系统46或其他设备（例如,打印机64、治疗供应20、显示器58等）通电。</base:Paragraphs>
+      <base:Paragraphs num="0030">这的说明性示例包括检测用户活动,诸如按压前面板按钮。 用户界面控件60检测按钮按压并向控制模块30发送信号。 该信号由除颤器/监测功能控制模块62处理。 此外,信号被传递到用户活动监测模块56以确定按钮按压是否激活装置的一个或多个子系统（如果装置处于待机状态）或重置不活动计时器。</base:Paragraphs>
+      <base:Paragraphs num="0031">临床活动监测的说明性示例包括测量子系统46,其采集和处理生命体征测量数据并且将该数据发送到除颤器/监测功能控件62以用于显示等。 此外,可以向临床活动监测模块54发信号通知临床过程,诸如有效ECG信号的初始采集,以确定采集是否激活设备的一个或多个子系统（如果设备处于待机状态）或重置不活动定时器。</base:Paragraphs>
+      <base:Paragraphs num="0032">使用功能控制模块62来控制具有待机模式的模块50和/或具有独立电源控制的模块。 电源控制模块44控制模块50的待机模式,并且独立地接通或断开每个子系统46、显示器58、打印机64等的电源。 自动电源管理模块40提供用于用户活动和临床活动的计时器,并且接收来自用户活动检测装置或电路56以及来自临床活动监测装置或电路54的输入。 当超过不活动周期阈值时,子系统46基于子系统46的功能而被切换到待机模式或被断电。 类似地,当在框56和/或54处检测到新的用户或临床活动时,自动打开对应的子系统46或其他设备。</base:Paragraphs>
+      <base:Paragraphs num="0033">除颤器/监控设备10的子系统46可以包括例如呼气末CO2测量模块、打印机64、无创血压测量模块、显示器58、生命体征测量模块、治疗供应电路等。 每个子系统46可以包括局部传感器,其测量特定于该子系统46的用户或临床活动。 当子系统46被确定为不活动时,子系统46基于其功能和这样做对子系统46的益处而被断电或进入待机模式。 可以基于附加用户或临床活动或两者的组合来反转断电或待机模式。 例如,可能需要用户活动（例如,插入桨的引线）和临床活动（例如,将治疗垫或桨24放置在患者上）两者来从待机模式切换。</base:Paragraphs>
+      <base:Paragraphs num="0034">在某些实施例中,断电和待机模式的组合和方面（例如,不活动时间等）可以由用户使用用户界面60编程。 接口60可以包括显示器58（其可以包括触摸屏）和/或另一数据输入设备60,例如按钮、旋钮、键盘、鼠标、操纵杆等。 应当注意,显示器58、处理器34等也可以包括断电模式,并且可以基于自动电源管理模块40来控制。</base:Paragraphs>
+      <base:Paragraphs num="0035">数据结构35可以存储在存储器32（图1）中,以允许设置特定于每个子系统的不同条件和警报。 这些条件和警报可以由用户定制,或者可以使用默认参数。 参数可包括一种类型的活动、使用或不活动的持续时间、使用频率、或有助于确定设备10的活动状态的任何其他相关信息,作为设备10的整体或作为子系统中的任何一个或多个。 也同样地设想其他参数。</base:Paragraphs>
+      <base:Paragraphs num="0036">除了控制各个子系统46的电源之外,装置10的整体操作状态可以作为单元来控制。 例如,具有备用功能的所有子系统可以基于任何系统级别的活动或不活动而同时通电或断电。</base:Paragraphs>
+      <base:Paragraphs num="0037">参考图3,框/流程图描绘了根据本原理的与除颤器/监测器的功率管理有关的方法。 在框102处,控制模块被配置成响应于在除颤器上执行的一个或更多个用户活动和/或一个或更多个临床活动。 这可包括在存储器（32）中设置数据结构（35）,例如查找表等,以相对于采取的动作索引检测到的活动。 以这种方式,可以为整个除颤器或者为一个或多个子系统设置多个断电、通电和/或待机模式。 在框104处,允许用户设置参数或修改默认设置以改变电源状态。</base:Paragraphs>
+      <base:Paragraphs num="0038">在框106处,感测用户活动和临床活动以确定是否满足改变除颤器和/或除颤器的一个或多个子系统的电源状态的条件。 一个或多个子系统可以包括测量模块、打印机、显示器等。 可以设想其他子系统。 电源状态可以包括断电、通电和待机模式中的任何一个。 该状态还可以包括例如以百分比的形式的电源被减少多少的度量。</base:Paragraphs>
+      <base:Paragraphs num="0039">在框108处,可以基于感测到的用户活动和临床活动来改变或修改除颤器和/或一个或多个子系统的电源状态。 用户活动包括用户与除颤器之间的物理交互,并且临床活动包括与患者的交互、患者的设备的准备、患者的参数的测量。 还设想了其他活动。</base:Paragraphs>
+      <base:Paragraphs num="0040">在解释所附权利要求时,应当理解以下几点。</base:Paragraphs>
+      <base:Paragraphs num="0041">a）词语“包括”不排除存在给定权利要求中列出的元件或动作之外的其他元件或动作。</base:Paragraphs>
+      <base:Paragraphs num="0042">b）元件前面的词语“一”或“一个”不排除存在多个这样的元件。</base:Paragraphs>
+      <base:Paragraphs num="0043">c）权利要求中的任何附图标记不限制其范围。</base:Paragraphs>
+      <base:Paragraphs num="0044">d）多个“装置”可以由相同的项目或硬件或软件实现的结构或功能来表示。</base:Paragraphs>
+      <base:Paragraphs num="0045">e）除非另有说明,否则不旨在需要特定的动作序列。</base:Paragraphs>
+      <base:Paragraphs num="0046">应当注意的是,虽然已经关于外部除颤器的自动电源管理描述了优选实施例（这是为了说明的目的而不是为了限制的目的）,但是本领域技术人员可以根据上述教导进行修改和改变。 因此,应当理解,可以在本公开的某些实施例中进行改变,如在所附权利要求所概述的和所公开的实施例的范围内。 因此,尽管已经在专利法所要求的范围内详细描述了本公开的内容,但是希望由专利证书保护的保护要求在所附权利要求中阐述。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="69" wi="69" file="2016519977_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="94" wi="69" file="2016519977_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="65" wi="74" file="2016519977_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>被配置为给所述设备的一个或多个子系统供电的电源、被配置为检测所述一个或多个子系统中的用户活动的用户活动检测模块、被配置为检测所述一个或多个子系统中的临床活动的临床活动检测模块、以及被耦合到所述一个或多个子系统并且被配置为基于在所述用户活动检测模块和所述临床活动检测模块中的至少一个中检测到的活动来改变所述一个或多个子系统的电源状态的控制模块。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的设备,其中,所述电源状态包括断电模式、通电模式和待机模式中的任一个。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1所述的设备,其中,所述控制模块包括自动电源管理模块,所述自动电源管理模块被配置为控制参数以改变所述一个或多个子系统的电源状态。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的设备,还包括电源控制模块,所述电源控制模块被配置为基于来自所述自动电源管理模块的输入来修改所述一个或多个子系统的电源状态。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的装置,其中所述一个或多个子系统包括测量模块、打印机和显示器中的一个或多个。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1所述的设备,其中所述用户活动检测模块检测包括用户与所述设备之间的物理交互的用户活动。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1所述的设备,其中,所述临床活动检测模块检测临床相关活动,所述临床相关活动包括与患者的交互、与所述患者相关的设备的准备、患者参数的测量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1所述的设备,还包括被配置为允许用户设置参数以改变所述一个或多个子系统的电源状态的界面。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求1所述的设备,其中所述设备的整体操作状态能够作为单元控制,并且所有具有待机功能的子系统基于任何系统级活动或不活动而同时通电或断电。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1所述的装置,其中所述装置包括监测器、除颤器或其组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>紧急医疗装置,包括： 电源,所述电源被配置为为所述设备的一个或多个子系统供电,所述电源被配置为： 所述一个或多个子系统被配置为： 至少一个具有待机模式的模块。 电源和控制模块,所述控制模块耦合到所述一个或多个子系统并且包括自动电源管理模块,所述控制模块被配置为控制参数以改变所述一个或多个子系统的电源状态,所述一个或多个子系统的电源状态基于在用户活动检测模块和临床活动检测模块中的至少一个中检测到的活动而改变,所述用户活动检测模块被配置为检测所述一个或多个子系统中的用户活动,所述临床活动检测模块被配置为检测所述一个或多个子系统中的临床活动。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求11所述的装置,其中,所述自动化功率管理模块被配置为基于在所述用户活动检测模块和所述临床活动检测模块中的至少一个中检测到的不活动来控制所述一个或多个子系统独立地断电。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求11所述的设备,还包括电源控制模块,所述电源控制模块被配置为基于来自所述自动电源管理模块的输入来修改所述一个或多个子系统的电源状态。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>根据权利要求11所述的装置,其中所述一个或多个子系统包括测量模块、打印机和显示器。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>根据权利要求11所述的设备,其中所述用户活动检测模块检测包括用户与所述设备之间的物理交互的用户活动。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>根据权利要求11所述的设备,其中,所述临床活动检测模块检测临床相关活动,所述临床相关活动包括与患者的交互、与所述患者相关的设备的准备、患者参数的测量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>根据权利要求11所述的设备,还包括被配置为允许用户设置参数以改变所述一个或多个子系统的电源状态的接口。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>根据权利要求11所述的设备,其中,所述设备的整体操作状态能够作为单元控制,并且所有具有待机功能的子系统基于任何系统级活动或不活动而同时通电或断电。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>根据权利要求11所述的设备,其中,所述设备包括监视器、除颤器或它们的组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>将控制模块配置为响应于在所述设备上执行的一个或多个用户活动和/或一个或多个临床活动,检测用户活动和临床活动以确定是否满足用于改变所述设备和/或所述设备的一个或多个子系统的电源状态的条件,以及基于所检测到的用户活动和/或临床活动来改变整个设备和/或所述一个或多个子系统的电源状态。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000006" file="2016519977_000006.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000007" file="2016519977_000007.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000008" file="2016519977_000008.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102018000226920JP00020200904010AFULJA20200611JP00K.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020090401" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090401</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090401</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102018000226920</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018226920</base:DocNumber>
+        <base:Date>20181203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>B</business:Subclass>
+        <business:MainGroup>39</business:MainGroup>
+        <business:Subgroup>36</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C01B  39/36        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>29</business:MainGroup>
+        <business:Subgroup>46</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B01J  29/46        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">C01B39/36</business:FI>
+      <business:FI type="secondary">B01J29/46 Z</business:FI>
+      <business:FClass>
+        <business:FTerm>4G073BA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BA40</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BA63</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BA69</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BA75</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BA82</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BB07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BB28</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BB48</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BB58</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073BC02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073CZ49</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073CZ53</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073DZ02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073FA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073FB30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073FC13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073FC19</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073FC30</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073FD07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073GA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073GA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073GA13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073GA40</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073GB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073GB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073GB10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G073UA04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169AA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BA07A</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BA07B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BB04B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BC16B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BC67B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BD02B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BD05A</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169BD05B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169CA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169CB59</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169CC23</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169DA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169EA02Y</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169EC12Y</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169ED05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169FA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169FB14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169ZA10B</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169ZB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169ZD06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4G169ZE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4G073</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4G169</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">制造功能结构的方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>国立大学法人北海道大学</base:Name>
+            <base:RegisteredNumber>504173471</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>北海道札幌市北区北8条西5丁目</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+        <business:Applicant sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>古河電気工業株式会社</base:Name>
+            <base:RegisteredNumber>000005290</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目2番3号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>西井  麻衣</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目2番3号  古河電気工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>馬場  祐一郎</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目2番3号  古河電気工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>関根  可織</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目2番3号  古河電気工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中井  祐賀子</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目2番3号  古河電気工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>福嶋  將行</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目2番3号  古河電気工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="6" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>加藤  禎宏</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>東京都千代田区丸の内二丁目2番3号  古河電気工業株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="7" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>増田  隆夫</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>北海道札幌市北区北8条西5丁目  国立大学法人北海道大学内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="8" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中坂  佑太</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>北海道札幌市北区北8条西5丁目  国立大学法人北海道大学内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="9" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>吉川  琢也</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:Text>北海道札幌市北区北8条西5丁目  国立大学法人北海道大学内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>齋藤  拓也</base:Name>
+            <base:RegisteredNumber>100205659</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>来間  清志</base:Name>
+            <base:RegisteredNumber>100114292</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>6</business:ClaimsCount>
+      <base:TotalPageCount>21</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明提供一种功能性结构体的制造方法,其能够在不使用有机结构导向剂的情况下以低成本容易地制造能够抑制功能性物质的功能降低并实现长寿命化的功能性结构体。 功能性结构体的制造方法具有烧成工序和水热处理工序,在所述烧成工序中,对在用于得到由沸石型化合物构成的多孔质结构的载体的前体材料(A)中浸渗有含金属溶液的前体材料(B)进行烧成,在所述水热处理工序中,在对所述前体材料(B)进行烧成而得到的前体材料(C)中添加结构导向剂并进行水热处理,所述结构导向剂包含无机碱性化合物。 图1</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="95" wi="59" file="2020090401_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及具备多孔质结构的载体（骨架体）和功能性物质的功能性结构体的制造方法,特别涉及使用无机碱性化合物作为结构导向剂的功能性结构体的制造方法。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">在石油联合企业的炼油厂中,由原油制造被称为石脑油的石油化学原料、重油、轻油、煤油、汽油、LP气体等各种燃料。 原油是除了上述的石油化学原料、各种燃料以外还混合有各种杂质的混合物,因此需要对原油中所含的各成分进行蒸馏、分离的工序。</base:Paragraphs>
+      <base:Paragraphs num="0003">因此,在石油精制工艺中,利用各成分的沸点差,在常压蒸馏装置中的塔内的塔板对原油进行加热而按成分分离,将分离后的各物质浓缩。 由此,LP气体、石脑油等低沸点物质在常压蒸馏装置的上部塔板段被取出,并且重油等高沸点物质从常压蒸馏装置的底部被取出。 然后,通过对分离、浓缩后的各物质实施脱硫等二次处理,制造各种燃料产品。</base:Paragraphs>
+      <base:Paragraphs num="0004">通常,石油重整用催化剂用于在上述石油精制工艺中将低沸点的石脑油等高效地重整而制造辛烷值高的汽油等。 原油中的石脑油馏分直接辛烷值低,不适合作为使车辆行驶的汽油,因此,通过使用石油重整用催化剂将石脑油馏分中的辛烷值低的链烷烃成分和环烷烃成分重整为辛烷值高的芳香族成分,从而制造适于车辆的燃料的性状的重整汽油。</base:Paragraphs>
+      <base:Paragraphs num="0005">此外,伴随原油的重质化,进行如下的加氢裂化处理：将重质油用直脱装置、间脱装置等加氢脱硫装置进行加氢脱硫处理而得到脱硫重油、脱硫重质轻油等,将该脱硫重油、脱硫重质轻油等进一步裂化,增产脱硫石脑油、脱硫煤油、脱硫轻油等。 例如,通过对常压蒸馏残渣油进行加氢裂化处理,从而增大脱硫灯轻油馏分、脱硫石脑油馏分的收率,减少脱硫重油,并且将该脱硫重油用催化裂化装置生产LPG馏分、FCC汽油馏分、LCO馏分,由此减少残渣油,增大轻质油馏分。 此时,提出了包含作为代表性的沸石的结晶性铝硅酸盐载体的催化剂、以特定的比例包含沸石和多孔性无机氧化物的加氢裂化催化剂。</base:Paragraphs>
+      <base:Paragraphs num="0006">例如,作为加氢裂化催化剂,公开了在包含Y型沸石的载体的表面沉积包含选自Pd、Pt、Co、Fe、Cr、Mo、W和它们的混合物中的材料的金属而成的催化剂（专利文献1）。</base:Paragraphs>
+      <base:Paragraphs num="0007">另外,在汽车领域中,作为搭载有柴油发动机的车辆的废气用催化剂结构体,提出了在基材陶瓷表面配置陶瓷载体、在该陶瓷载体负载主催化剂成分和助催化剂成分这两者而成的陶瓷催化剂体。 在该陶瓷催化剂体中,在由γ-氧化铝构成的陶瓷载体的表面形成有由晶格中的晶格缺陷等构成的多个细孔,具有由Ce-Zr、Pt等构成的主催化剂成分直接担载于陶瓷载体的表面附近的构成（专利文献2）。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0008">           <business:ApplicationCitation num="0001">
+            <base:Text>米国特許出願公開第2016／0030934号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>米国特許出願公開第2003／0109383号明細書</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0009">然而,在上述那样的催化剂结构体中,催化剂粒子被担载于载体的表面或表面附近,因此在改性处理中,由于从被改性物质等流体受到的力、热等的影响,催化剂粒子在载体内移动,容易发生催化剂粒子彼此的凝聚（烧结）。 若发生催化剂粒子彼此的凝聚,则作为催化剂的有效表面积减少,从而催化剂活性降低,因此寿命变得比通常短,因此必须在短时间内对催化剂结构体自身进行更换、再生,存在更换作业繁杂,并且无法实现省资源化的问题。 另外,石油重整用催化剂通常连接于常压蒸馏装置的下游侧而在石油精制工艺中被连续使用,因此难以应用催化剂的再活化技术,即使能够应用再活化技术,作业也变得非常繁杂。 另外,这样的功能的经年降低的抑制或防止不仅作为催化剂领域中的课题,而且作为各种技术领域中的课题而被列举,为了实现功能的长期维持而期望解决对策。</base:Paragraphs>
+        <base:Paragraphs num="0010">另一方面,在上述那样的多孔质结构的骨架体的制造工序中,为了形成细孔,通常使用例如由胺类等有机化合物构成的结构导向剂（有机结构导向剂）。 然而,有机结构导向剂通常昂贵,成为工业上使制造成本增大的主要原因。 此外,该有机结构导向剂还需要在催化剂结构体的合成后进行烧成而除去有机化合物的结构导向剂的工艺,在这一点上也成为使制造成本增大的主要原因。 另外,由于通过该烧成而排出NOx等可能对环境造成影响的物质,因此期望能够在不使用有机结构导向剂的情况下合成催化剂结构体的方法。</base:Paragraphs>
+        <base:Paragraphs num="0011">本发明的目的在于提供一种功能性结构体的制造方法,其能够在不使用有机结构导向剂的情况下以低成本容易地制造能够抑制功能性物质的功能降低而实现长寿命化的功能性结构体。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0012">本发明人等发现： 为了实现上述目的而反复进行了深入研究,结果发现：具备由沸石型化合物构成的多孔质结构的骨架体、和存在于所述骨架体内部的至少1种功能性物质,所述骨架体具有相互连通的通路,所述功能性物质通过被所述骨架体的至少所述通路保持的功能性结构体,能够抑制功能性物质的功能降低,实现长寿命化；<base:Sup>－</base:Sup>）的无机碱性化合物的制造方法,能够在不使用有机结构导向剂的情况下以低成本制造,基于该见解完成了本发明。</base:Paragraphs>
+        <base:Paragraphs num="0013">即,本发明的主旨构成如下所述。 [1]一种功能性结构体的制造方法,其特征在于,具有烧成工序和水热处理工序,在所述烧成工序中,对用于得到由沸石型化合物构成的多孔质结构的载体的前体材料(A)中浸渗有含金属溶液的前体材料(B)进行烧成,在所述水热处理工序中,向对所述前体材料(B)进行烧成而得到的前体材料(C)中添加结构导向剂并进行水热处理,所述结构导向剂包含无机碱性化合物。 [2]根据[1]～[3]中任一项所述的水热处理工序,其中,在所述水热处理工序中,至少包含所述前体材料(C)和所述结构导向剂,<base:Sup>－</base:Sup>[1]所述的功能性结构体的制造方法,其特征在于,对浓度为0.1 mol/L以上的范围的混合溶液进行水热处理。 [3]根据[1]或[2]所述的功能性结构体的制造方法,其特征在于,在前述烧成工序之前,添加相对于前述前体材料(A)为50～500质量%的非离子性表面活性剂。 [4]根据[1]～[3]中任一项所述的功能性结构体的制造方法,其特征在于,在前述烧成工序之前,通过在前述前体材料(A)中分多次添加前述含金属溶液,从而使前述含金属溶液含浸于前述前体材料(A)。 [5]根据[1]～[4]中任一项所述的功能性结构体的制造方法,其特征在于,在所述烧成工序之前使所述含金属溶液含浸于所述前体材料(A)时,将添加于所述前体材料(A)中的所述含金属溶液的添加量以换算为构成所述前体材料(A)的硅（Si）相对于添加于所述前体材料(A)中的所述含金属溶液中所含的金属元素(M)的原子数比（Si/M比）而成为10～1000的方式进行调整。 [6]根据[1]～[5]中任一项所述的功能性结构体的制造方法,其特征在于,前述水热处理工序在碱性气氛下进行。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0014">根据本发明,可以提供能够以低成本容易地制造能够抑制功能性物质的功能降低而实现长寿命化的功能性结构体的功能性结构体的制造方法。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0015">
+        <base:FigureReference num="0001">图0001图1是为了了解本发明的实施方式的功能性结构体的内部结构而概略地表示的图,图1(a)是立体图（以横截面表示一部分。 图1(b)是局部放大剖视图。</base:FigureReference>
+        <base:FigureReference num="0002">图2是用于说明图1的功能性结构体的功能的一例的局部放大截面图,图2(a)是说明筛功能的图,图2(b)是说明催化剂功能的图。</base:FigureReference>
+        <base:FigureReference num="0003">图3为表示本发明的实施方式涉及的功能性结构体的制造方法的一例的流程图。</base:FigureReference>
+        <base:FigureReference num="0004">图4是表示图1的功能性结构体的变形例的示意图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0016">以下,参照附图对本发明的实施方式进行详细说明。</base:Paragraphs>
+      <base:Paragraphs num="0017">[功能性结构体的构成]图1为概略性地表示利用本发明的实施方式涉及的功能性结构体的制造方法（详细内容在后面叙述）制造的功能性结构体的构成的图,(a)为立体图（以横截面表示一部分。 (b)是局部放大剖视图。 需要说明的是,图1中的功能性结构体表示其一例,本发明的各构成的形状、尺寸等不限于图1。</base:Paragraphs>
+      <base:Paragraphs num="0018">如图1(a)所示,功能性结构体1具备：作为由沸石型化合物构成的多孔质结构的载体的骨架体10、和存在于该骨架体10中的至少1种功能性物质20。</base:Paragraphs>
+      <base:Paragraphs num="0019">功能性物质20是单独或通过与骨架体10协作而发挥一种或多种功能的物质。 另外,作为上述功能的具体例,可举出催化剂功能、发光（或荧光）功能、吸光功能、识别功能等。 功能性物质20例如优选为具有催化功能的催化物质。 需要说明的是,功能性物质20为催化剂物质时,骨架体10为负载催化剂物质的载体。</base:Paragraphs>
+      <base:Paragraphs num="0020">在功能性结构体1中,多个功能性物质20、20、……包接于骨架体10的多孔质结构的内部。 作为功能性物质20的一例的催化剂物质优选为金属氧化物微粒和金属微粒中的至少一者。 关于金属氧化物微粒和金属微粒,将在后面详细叙述。 另外,功能性物质20可以是包含金属氧化物、金属的合金、或它们的复合材料的颗粒。</base:Paragraphs>
+      <base:Paragraphs num="0021">骨架体10为多孔质结构,如图1(b)所示,优选通过形成多个孔11a、11a、…而具有相互连通的通路11。 在此,功能性物质20存在于骨架体10的至少通路11,优选保持于骨架体10的至少通路11。</base:Paragraphs>
+      <base:Paragraphs num="0022">通过这样的构成,功能性物质20在骨架体10内的移动被限制,功能性物质20、20彼此的凝聚被有效地防止。 其结果,能够有效地抑制作为功能性物质20的有效表面积的减少,功能性物质20的功能长期持续。 即,根据功能性结构体1,能够抑制由功能性物质20的凝聚导致的功能的降低,能够实现作为功能性结构体1的长寿命化。 另外,通过功能性结构体1的长寿命化,能够降低功能性结构体1的更换频率,能够大幅降低使用过的功能性结构体1的废弃量,能够实现节约资源。</base:Paragraphs>
+      <base:Paragraphs num="0023">通常,在流体（例如,重油、NOx等改性气体等）中使用功能性结构体的情况下,有可能受到来自流体的外力。 在该情况下,如果功能性物质仅以附着状态保持于骨架体10的外表面,则存在由于来自流体的外力的影响而容易从骨架体10的外表面脱离的问题。 与此相对,在功能性结构体1中,功能性物质20被骨架体10的至少通路11保持,因此即使受到由流体产生的外力的影响,功能性物质20也不易从骨架体10脱离。 即,认为在功能性结构体1处于流体内的情况下,流体从骨架体10的孔11a流入通路11内,因此在通路11内流动的流体的速度由于流路阻力（摩擦力）而与在骨架体10的外表面流动的流体的速度相比变慢。 由于这样的流路阻力的影响,保持在通路11内的功能性物质20从流体受到的压力比在骨架体10的外部功能性物质从流体受到的压力低。 因此,能够有效地抑制骨架体11内在的功能性物质20脱离,能够长期稳定地维持功能性物质20的功能。 据认为,随着骨架体10的通道11具有多个弯曲和分支并且骨架体10的内部具有更复杂的三维三维结构,如上所述的流路阻力变得更大。</base:Paragraphs>
+      <base:Paragraphs num="0024">另外,通路11优选具有由沸石型化合物的骨架结构划定的一维孔、二维孔及三维孔中的任一者、以及与上述一维孔、上述二维孔及上述三维孔中的任一者均不同的扩径部12,此时,功能性物质20优选至少存在于扩径部12,更优选至少包接于扩径部12。 这里所说的一维孔是指形成一维通道的隧道型或笼型的孔、或者形成多个一维通道的隧道型或笼型的多个孔（多个一维通道）。 另外,二维孔是指多个一维通道二维连结而成的二维通道,三维孔是指多个一维通道三维连结而成的三维通道。 由此,功能性物质20在骨架体10内的移动被进一步限制,能够进一步有效地防止功能性物质20的脱离、功能性物质20、20彼此的凝聚。 包接是指功能性物质20内包于骨架体10的状态。 此时,功能性物质20与骨架体10不一定需要彼此直接接触,也可以在功能性物质20与骨架体10之间存在其他物质（例如,表面活性剂等）的状态下,功能性物质20间接地保持于骨架体10。</base:Paragraphs>
+      <base:Paragraphs num="0025">在图1(b)中示出了功能性物质20包接于扩径部12的情况,但并不仅限定于该结构,功能性物质20也可以以其一部分向扩径部12的外侧突出的状态保持于通路11。 另外,功能性物质20也可以部分地埋设于扩径部12以外的通路11的部分（例如通路11的内壁部分）,或者通过固定等而被保持。 另外,扩径部12优选将构成上述一维孔、上述二维孔以及上述三维孔中的任一个的多个孔11a、11a彼此连通。 由此,在骨架体10的内部设置与一维孔、二维孔或三维孔不同的另外的通路,因此能够进一步发挥功能性物质20的功能。</base:Paragraphs>
+      <base:Paragraphs num="0026">另外,优选的是,通路11在骨架体10的内部包含分支部或合流部而三维地形成,扩径部12设置于通路11的上述分支部或合流部。</base:Paragraphs>
+      <base:Paragraphs num="0027">形成于骨架体10中的通道11的平均内径D<base:Sub>F</base:Sub>由构成一维孔、二维孔和三维孔中的任一者的孔11a的短径和长径的平均值计算,并且例如为0.1 nm至1.5 nm,优选为0.5 nm至0.8 nm。 另外,扩径部12的内径D<base:Sub>E</base:Sub>例如为0.5 nm～50nm,优选为1.1 nm～40nm,更优选为1.1 nm～3.3 nm。 扩径部12的内径D<base:Sub>E</base:Sub>例如依赖于后述的前体材料(A)的细孔径、及所包接的功能性物质20的平均粒径D<base:Sub>C</base:Sub>。 扩径部12的内径D<base:Sub>E</base:Sub>是能够包接功能性物质20的大小。</base:Paragraphs>
+      <base:Paragraphs num="0028">骨架体10由沸石型化合物构成。 作为沸石型化合物,例如可以举出沸石（铝硅酸盐）、阳离子交换沸石、硅沸石等硅酸盐化合物、铝硼酸盐、铝砷酸盐、锗酸盐等沸石类似化合物、磷酸钼等磷酸盐系沸石类似物质等。 其中,沸石型化合物优选为硅酸盐化合物。</base:Paragraphs>
+      <base:Paragraphs num="0029">沸石型化合物的骨架结构选自FAU型（Y型或X型）、MTW型、MFI型（ZSM-5）、FER型（镁碱沸石）、LTA型（A型）、MWW型（MCM-22）、MOR型（丝光沸石）、LTL型（L型）、BEA型（β型）等中,优选为MFI型。 沸石型化合物中形成有多个具有与各骨架结构相应的孔径的孔,例如MFI型的最大孔径为平均孔径为。</base:Paragraphs>
+      <base:Paragraphs num="0030">以下,功能性物质20包含金属氧化物微粒和金属微粒中的至少一者（以下,有时总称为“微粒”。 的情况进行详细说明。</base:Paragraphs>
+      <base:Paragraphs num="0031">在功能性物质20为上述微粒的情况下,微粒20有时为一次粒子,有时为一次粒子凝聚而形成的二次粒子,微粒20的平均粒径D<base:Sub>C</base:Sub>优选大于通路11的平均内径D<base:Sub>F</base:Sub>且为扩径部12的内径D<base:Sub>E</base:Sub>以下（D<base:Sub>F</base:Sub>&lt;D<base:Sub>C</base:Sub>≤D<base:Sub>E</base:Sub>）。 这样的微粒20在通路11内优选包接于扩径部12,骨架体10内的微粒20的移动被限制。 因此,即使在微粒20从流体受到外力的情况下,骨架体10内的微粒20的移动也被抑制,能够有效地防止分散配置于骨架体10的通路11的扩径部12、12、··各自所包接的微粒20、20、··彼此接触。</base:Paragraphs>
+      <base:Paragraphs num="0032">在功能性物质20为金属氧化物微粒的情况下,金属氧化物微粒20的平均粒径D<base:Sub>C</base:Sub>在一次粒子和二次粒子的任一种情况下均优选为0.1 nm～50nm,更优选为0.1 nm以上且小于30nm,进一步优选为0.4 nm～14.0 nm,特别优选为1.0 nm～3.3 nm。 另外,金属氧化物微粒20的平均粒径D<base:Sub>C</base:Sub>相对于通路11的平均内径D<base:Sub>F</base:Sub>的比例（D<base:Sub>C</base:Sub>/D<base:Sub>F</base:Sub>）优选为0.06～500,更优选为0.1～36,进一步优选为1.1～36,特别优选为1.7～4.5。 此外,在功能性物质20为金属氧化物微粒的情况下,金属氧化物微粒的金属元素(M)优选相对于功能性结构体1以0.5～2.5质量%含有,更优选相对于功能性结构体1以0.5～1.5质量%含有。 例如,金属元素(M)为Co时,Co元素的含量（质量%）用（Co元素的质量）/（功能性结构体1的全部元素的质量）×100表示。</base:Paragraphs>
+      <base:Paragraphs num="0033">上述金属氧化物微粒只要由金属氧化物构成即可,例如可以由单一的金属氧化物构成,或者也可以由2种以上的金属氧化物的混合物构成。 需要说明的是,在本说明书中,构成金属氧化物微粒的（作为材质的）“金属氧化物”是包含含有1种金属元素(M)的氧化物和含有2种以上的金属元素(M)的复合氧化物的意思,是含有1种以上的金属元素(M)的氧化物的总称。</base:Paragraphs>
+      <base:Paragraphs num="0034">作为这样的金属氧化物,例如可以举出氧化钴（CoO<base:Sub>x</base:Sub>）、氧化镍（NiO<base:Sub>x</base:Sub>）、氧化铁（FeO<base:Sub>x</base:Sub>）、氧化铜（CuO<base:Sub>x</base:Sub>）、氧化锆（ZrO<base:Sub>x</base:Sub>）、氧化铈（CeO<base:Sub>x</base:Sub>）、氧化铝（AlO<base:Sub>x</base:Sub>）、氧化铌（NbO<base:Sub>x</base:Sub>）、氧化钛（TiO<base:Sub>x</base:Sub>）、氧化铋（BiO<base:Sub>x</base:Sub>）、氧化钼（MoO<base:Sub>x</base:Sub>）、氧化钒（VO<base:Sub>x</base:Sub>）、氧化铬（CrO<base:Sub>x</base:Sub>）等,优选以上述中的任意1种以上为主成分。</base:Paragraphs>
+      <base:Paragraphs num="0035">另外,在功能性物质20为金属微粒的情况下,金属微粒20的平均粒径D<base:Sub>C</base:Sub>在一次粒子和二次粒子的任一种情况下均优选为0.08～30nm,更优选为0.08 nm以上且低于25nm,进一步优选为0.4 nm～11.0 nm,特别优选为0.8～2.7 nm。 另外,金属微粒20的平均粒径D<base:Sub>C</base:Sub>相对于通路11的平均内径D<base:Sub>F</base:Sub>的比例（D<base:Sub>C</base:Sub>/D<base:Sub>F</base:Sub>）优选为0.05～300,更优选为0.1～30,进一步优选为1.1～30,特别优选为1.4～3.6。 功能性物质20为金属微粒的情况下,金属微粒的金属元素(M)优选相对于功能性结构体1以0.5～2.5质量%含有,更优选相对于功能性结构体1以0.5～1.5质量%含有。</base:Paragraphs>
+      <base:Paragraphs num="0036">上述金属微粒只要由未被氧化的金属构成即可,例如,可以由单一的金属构成,或者也可以由2种以上的金属的混合物构成。 需要说明的是,在本说明书中,构成金属微粒的（作为材质的）“金属”是包含含有1种金属元素(M)的单质金属和含有2种以上的金属元素(M)的金属合金的意思,是含有1种以上的金属元素的金属的总称。 另外,金属元素与金属微粒相同的金属氧化物在使用环境中被还原,结果金属微粒成为组成的情况下,上述金属氧化物实质上可以视为金属微粒。</base:Paragraphs>
+      <base:Paragraphs num="0037">作为这样的金属,例如可列举出铂（Pt）、钯（Pd）、钌（Ru）、镍（Ni）、钴（Co）、钼（Mo）、钨(W)、铁（Fe）、铬（Cr）、铈（Ce）、铜（Cu）、镁（Mg）、铝（Al）等,优选以上述的任一种以上为主成分。</base:Paragraphs>
+      <base:Paragraphs num="0038">需要说明的是,从耐久性的观点出发,功能性物质20优选为金属氧化物微粒。</base:Paragraphs>
+      <base:Paragraphs num="0039">另外,构成骨架体10的硅（Si）相对于构成微粒20的金属元素(M)的比例（原子数比Si/M）优选为10～1000,更优选为50～200。 上述比例大于1000时,活性低等,有可能无法充分得到作为功能性物质的作用。 另一方面,上述比例小于10时,微粒20的比例变得过大,骨架体10的强度有降低的倾向。 需要说明的是,此处所说的微粒20是指保持或负载于骨架体10的内部的微粒,不包括附着于骨架体10的外表面的微粒。</base:Paragraphs>
+      <base:Paragraphs num="0040">如上所述,功能性结构体1具备多孔质结构的骨架体10和骨架体中内在的至少1种功能性物质20。 功能性结构体1通过骨架体中内在的功能性物质20与流体接触而发挥与功能性物质20相应的功能。 具体而言,与功能性结构体1的外表面10a接触的流体从形成于外表面10a的孔11a流入骨架体10内部而被引导至通路11内,在通路11内通过而移动,通过其它孔11a而向功能性结构体1的外部流出。 在流体在通路11内通过而移动的路径中,通过与保持于通路11的功能性物质20接触,从而产生与功能性物质20的功能相应的反应（例如,催化反应）。 另外,功能性结构体1通过骨架体为多孔质结构,从而具有分子筛能力。</base:Paragraphs>
+      <base:Paragraphs num="0041">首先,关于功能性结构体1的分子筛能力,使用图2(a),以流体为包含苯、丙烯及均三甲苯的液体的情况为例进行说明。 如图2(a)所示,由具有孔11a的孔径以下、换言之通路11的内径以下的大小的分子构成的化合物（例如苯、丙烯）能够浸入骨架体10内。 另一方面,由具有超过孔11a的孔径的大小的分子构成的化合物（例如,均三甲苯）无法浸入骨架体10内。 当流体含有多种类型的化合物时,不能进入骨架体10的化合物的反应受到限制,并且可以使能够进入骨架体10的化合物反应。</base:Paragraphs>
+      <base:Paragraphs num="0042">在通过反应在骨架体10内生成的化合物中,只有由具有孔11a的孔径以下的大小的分子构成的化合物能够通过孔11a排出到骨架体10的外部,作为反应产物得到。 另一方面,如果不能从孔11a排出到骨架体10的外部的化合物被转化为由具有能够排出到骨架体10的外部的尺寸的分子构成的化合物,则不能从孔11a排出到骨架体10的外部的化合物能够排出到骨架体10的外部。 这样,通过使用功能性结构体1,能够选择性地获得特定的反应产物。</base:Paragraphs>
+      <base:Paragraphs num="0043">在功能性结构体1中,如图2(b)所示,优选在通路11的扩径部12中包接有功能性物质20。 功能性物质20为金属氧化物微粒时,在金属氧化物微粒的平均粒径D<base:Sub>C</base:Sub>大于通路11的平均内径D<base:Sub>F</base:Sub>且小于扩径部12的内径D<base:Sub>E</base:Sub>的情况下（D<base:Sub>F</base:Sub>&lt;D<base:Sub>C</base:Sub>&lt;D<base:Sub>E</base:Sub>）,在金属氧化物微粒与扩径部12之间形成小通路13。 因此,如图2(b)中的箭头所示,浸入小通路13的流体与金属氧化物微粒接触。 各金属氧化物微粒由于包接于扩径部12,因此在骨架体10内的移动受到限制。 由此,防止骨架体10内的金属氧化物微粒彼此的凝聚。 其结果,能够稳定地维持金属氧化物微粒与流体的大的接触面积。</base:Paragraphs>
+      <base:Paragraphs num="0044">接着,对功能性物质20具有催化剂功能的情况进行说明。 具体而言,在功能性物质20为铁（Fe）微粒的情况下,功能性结构体1例如可以作为费托反应用催化剂使用。 该费-托反应是使用催化反应由一氧化碳和氢合成液体烃的反应,大致由下式表示。 （2n+1）H<base:Sub>2</base:Sub>+nCO→C<base:Sub>n</base:Sub>H<base:Sub>2n＋2</base:Sub>+nH<base:Sub>2</base:Sub>O</base:Paragraphs>
+      <base:Paragraphs num="0045">图3是表示本发明的实施方式涉及的功能性结构体1的制造方法的流程图。 以下,以载体（骨架体）中内在的功能性物质为金属氧化物微粒的情况为例,对功能性结构体的制造方法的一例进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0046">（步骤S1：准备工序） 
+如图3所示,首先,准备用于得到由沸石型化合物构成的多孔质结构的骨架体的前体材料(A)。 前体材料(A)优选为规整性中孔物质,可根据构成功能性结构体的骨架体的沸石型化合物的种类（组成）而适当选择。 </base:Paragraphs>
+      <base:Paragraphs num="0047">在此,在构成功能性结构体的骨架体的沸石型化合物为硅酸盐化合物的情况下,有序中孔物质优选为包含细孔径1～50nm的细孔在一维、二维或三维上均匀的大小且有序地发展的Si-O骨架的化合物。 这样的规律性中孔物质根据合成条件而以各种合成物的形式得到,作为合成物的具体例,例如可以举出SBA-1、SBA-15、SBA-16、KIT-6、FSM-16、MCM-41等,其中优选MCM-41。 需要说明的是,SBA-1的细孔径为10～30nm,SBA-15的细孔径为6～10nm,SBA-16的细孔径为6nm,KIT-6的细孔径为9nm,FSM-16的细孔径为3～5nm,MCM-41的细孔径为1～10nm。 另外,作为这样的规整性介孔物质,可列举出例如介孔二氧化硅、介孔铝硅酸盐、介孔金属硅酸盐等。</base:Paragraphs>
+      <base:Paragraphs num="0048">前体材料(A)可以是市售品和合成品中的任一种。 在合成前体材料(A)的情况下,可以通过公知的有序中孔物质的合成方法来进行。 例如,制备包含含有前体材料(A)的构成元素的原料、和用于规定前体材料(A)的结构的铸型剂的混合溶液,根据需要调整pH,进行水热处理（水热合成）。 然后,将通过水热处理得到的沉淀物（产物）回收（例如,过滤分离）,根据需要进行清洗和干燥,进一步进行烧成,由此得到粉末状的作为规整性中孔物质的前体材料(A)。 在此,作为混合溶液的溶剂,例如可以使用水、或醇等有机溶剂、或者它们的混合溶剂等。 另外,原料根据骨架体的种类来选择,例如可举出四乙氧基硅烷(TEOS)等二氧化硅剂、气相二氧化硅、石英砂等。 另外,作为模板剂,可以使用各种表面活性剂、嵌段共聚物等,优选根据规整性中孔物质的合成物的种类进行选择,例如在制作MCM-41的情况下,十六烷基三甲基溴化铵等表面活性剂是适合的。 水热处理例如可以在密闭容器内在80～800℃、5小时～240小时、0～2000kPa的处理条件下进行。 烧成处理例如可以在空气中在350～850℃、2～30小时的处理条件下进行。</base:Paragraphs>
+      <base:Paragraphs num="0049">（步骤S2：含浸工序） 
+接着,使含金属溶液含浸于所准备的前体材料(A)中,获得前体材料(B)。 </base:Paragraphs>
+      <base:Paragraphs num="0050">含金属溶液只要是含有与构成功能性结构体的金属氧化物微粒的金属元素(M)对应的金属成分（例如,金属离子）的溶液即可,例如,可以通过使含有金属元素(M)的金属盐溶解于溶剂中来制备。 作为这样的金属盐,例如可以举出氯化物、氢氧化物、氧化物、硫酸盐、硝酸盐等金属盐,其中优选硝酸盐。 作为溶剂,例如可以使用水、或醇等有机溶剂、或者它们的混合溶剂等。</base:Paragraphs>
+      <base:Paragraphs num="0051">使含金属的溶液含浸于前体材料(A)的方法没有特别限定,例如,优选在后述的烧成工序之前,一边搅拌粉末状的前体材料(A),一边分多次少量地添加含金属的溶液。 另外,就含金属溶液更容易浸入至前体材料(A)的细孔内部的观点而言,优选为在添加含金属溶液之前,在前体材料(A)中预先添加表面活性剂作为添加剂。 认为此种添加剂具有被覆前体材料(A)的外表面的作用,抑制其后添加的含金属溶液附着于前体材料(A)的外表面,含金属溶液更容易浸入前体材料(A)的细孔内部。</base:Paragraphs>
+      <base:Paragraphs num="0052">作为这样的添加剂,例如可列举出聚氧乙烯油基醚、聚氧乙烯烷基醚、聚氧乙烯烷基苯基醚等非离子性表面活性剂。 这些表面活性剂的分子尺寸大,无法浸入前体材料(A)的细孔内部,因此认为不会附着于细孔的内部,不会妨碍含金属溶液浸入细孔内部。 作为非离子性表面活性剂的添加方法,例如优选在后述的烧成工序之前,相对于前体材料(A)添加50～500质量%的非离子性表面活性剂。 若非离子性表面活性剂相对于前体材料(A)的添加量小于50质量%,则难以表现出上述抑制作用,若相对于前体材料(A)添加多于500质量%的非离子性表面活性剂,则粘度过度上升,故不优选。 因此,使非离子性表面活性剂相对于前体材料(A)的添加量为上述范围内的值。</base:Paragraphs>
+      <base:Paragraphs num="0053">另外,前体材料(A)中添加的含金属溶液的添加量优选考虑含浸于前体材料(A)的含金属溶液中所含的金属元素(M)的量（即,前体材料(B)中内在的金属元素(M)的量）而适当调整。 例如,在后述的煅烧步骤之前,将添加至前体材料(A)中的含金属溶液的添加量换算为构成前体材料(A)的硅（Si）相对于添加至前体材料(A)中的含金属溶液中所含的金属元素(M)之比（原子数比Si/M）,优选以成为10～1000的方式进行调整,更优选以成为50～200的方式进行调整。 例如,在将含金属溶液添加于前体材料(A)之前,将表面活性剂作为添加剂添加于前体材料(A)的情况下,通过将添加于前体材料(A)的含金属溶液的添加量换算成原子数比Si/M而设为50～200,从而能够相对于功能性结构体以0.5～2.5质量%含有金属氧化物微粒的金属元素(M)。 在前体材料(B)的状态下,若含金属溶液的金属浓度、上述添加剂的有无、其他温度、压力等各条件相同,则存在于其细孔内部的金属元素(M)的量与前体材料(A)中添加的含金属溶液的添加量大致成比例。 另外,前体材料(B)中内在的金属元素(M)的量与功能性结构体的骨架体中内在的构成金属氧化物微粒的金属元素的量成比例关系。 因此,通过将添加至前体材料(A)中的含金属溶液的添加量控制为上述范围,可使含金属溶液充分含浸于前体材料(A)的细孔内部,进而,可调整功能性结构体的骨架体中内在的金属氧化物微粒的量。</base:Paragraphs>
+      <base:Paragraphs num="0054">使含金属溶液含浸于前体材料(A)后,也可以根据需要进行清洗处理。 作为清洗溶液,可以使用水、或醇等有机溶剂、或者它们的混合溶液。 另外,优选使前体材料(A)含浸含金属溶液,根据需要进行清洗处理后,进一步实施干燥处理。 作为干燥处理,可举出一夜左右的自然干燥、150℃以下的高温干燥。 需要说明的是,若在含金属溶液中所含的水分、清洗溶液的水分大量残留于前体材料(A)的状态下进行后述的烧成处理,则前体材料(A)的作为有序介孔物质的骨架结构有可能被破坏,因此优选充分地进行干燥。</base:Paragraphs>
+      <base:Paragraphs num="0055">（步骤S3：烧成工序） 
+接着,对在用于得到由沸石型化合物构成的多孔质结构的骨架体的前体材料(A)中浸渗有含金属溶液的前体材料(B)进行烧成,得到前体材料(C)。 </base:Paragraphs>
+      <base:Paragraphs num="0056">烧成处理例如优选在空气中在350～850℃、2～30小时的处理条件下进行。 通过这样的烧成处理,含浸于规整性介孔物质的孔内的金属成分进行结晶生长,在孔内形成金属氧化物微粒。</base:Paragraphs>
+      <base:Paragraphs num="0057">（步骤S4：水热处理工序） 
+接着,在对前述前体材料(B)进行烧成而得到的前体材料(C)中添加结构导向剂,制备混合溶液,对前述前体材料(C)进行水热处理,得到功能性结构体。 </base:Paragraphs>
+      <base:Paragraphs num="0058">结构导向剂是用于规定功能性结构体的骨架体的骨架结构的模板剂,优选根据功能性结构体的骨架体的骨架结构来选择结构导向剂的种类。 在此,结构导向剂包含表面活性剂等,以往在水热处理时使用的有机结构导向剂、氢氧化物离子（OH；<base:Sup>－</base:Sup>并且,在本发明中,作为结构导向剂,可以将氢氧根离子（OH）作为结构导向剂。<base:Sup>－</base:Sup>）的无机碱性化合物。</base:Paragraphs>
+      <base:Paragraphs num="0059">氢氧根离子（OH）<base:Sup>－</base:Sup>）的无机碱性化合物,例如代表性的是碱金属和碱土金属的氢氧化物,例如氢氧化锂（LiOH）、氢氧化钠（NaOH）、氢氧化钾(KOH)、氢氧化铷（Rb(OH)）、氢氧化钙（Ca(OH)）。<base:Sub>2</base:Sub>）、氢氧化锶（Sr(OH)<base:Sub>2</base:Sub>）等。</base:Paragraphs>
+      <base:Paragraphs num="0060">如上所述,结构导向剂由无机碱性化合物构成。 因此,作为结构导向剂,不包含以往公知的由表面活性剂等构成的有机结构导向剂。 有机结构导向剂的实例包括四甲基溴化铵（TMABr）、四乙基溴化铵（TEABr）和四丙基溴化铵（TPABr）。</base:Paragraphs>
+      <base:Paragraphs num="0061">至少包含前体材料(C)和结构导向剂的混合溶液中的氢氧根离子（OH；<base:Sup>－</base:Sup>水热处理时的混合溶液中的氢氧化物离子（OH）浓度、即水热处理时的混合溶液中的氢氧化物离子（OH；<base:Sup>－</base:Sup>浓度优选为0.1 mol/L以上。<base:Sup>－</base:Sup>通过调整浓度,可以制造结晶性优异的骨架体。 另外,氢氧根离子（OH；<base:Sup>－</base:Sup>浓度更优选为0.2 mol/L以上且2mol/L以下。<base:Sup>－</base:Sup>通过调整浓度,能够制造结晶性特别优异的功能性结构体。</base:Paragraphs>
+      <base:Paragraphs num="0062">在水热处理工序S4中,无机碱性化合物的氢氧化物离子（OH；<base:Sup>－</base:Sup>）/SiO<base:Sub>2</base:Sub>的摩尔比优选为0.1以上。 如果该摩尔比在上述范围内,则沸石结晶化。 若该摩尔比小于0.1,则沸石的结晶生长不会充分进行,无法充分发挥功能性结构体的功能。</base:Paragraphs>
+      <base:Paragraphs num="0063">前体材料(C)与结构导向剂的混合可以在本水热处理工序时进行,也可以在水热处理工序之前进行。 另外,上述混合溶液的制备方法没有特别限定,可以将前体材料(C)、结构导向剂和溶剂同时混合,也可以在形成使前体材料(C)和结构导向剂分别分散于各溶液中的状态后,将各分散溶液混合。 作为溶剂,例如可以使用水、或醇等有机溶剂、或者它们的混合溶剂等。</base:Paragraphs>
+      <base:Paragraphs num="0064">水热处理可以利用公知的方法进行,例如优选在密闭容器内、在80～800℃、5小时～240小时、0～2000kPa的处理条件下进行。 另外,水热处理优选在碱性气氛下进行。 此处的反应机理未必明确,但通过以前体材料(C)为原料进行水热处理,前体材料(C)的作为有序介孔物质的骨架结构逐渐崩塌,但在前体材料(C)的细孔内部的金属氧化物微粒的位置被大致维持的状态下,通过结构导向剂的作用,形成作为功能性结构体的骨架体的新的骨架结构（多孔质结构）。 这样操作而得到的功能性结构体具备多孔质结构的骨架体和骨架体中内在的金属氧化物微粒,进而骨架体通过该多孔质结构而具有多个孔相互连通而成的通路,金属氧化物微粒的至少一部分被骨架体的通路保持。</base:Paragraphs>
+      <base:Paragraphs num="0065">本发明的实施方式的功能性结构体的制造方法与通常的沸石型化合物的合成工艺不同,在作为实施水热处理的对象的混合溶液中,添加作为有序中孔物质等多孔质结构的骨架体且在其内部浸渗有金属元素的前体材料(B)。 如上所述,该反应机理尚不明确,但从在前体材料(C)的细孔内部的金属氧化物微粒的位置大致维持的状态来看,可以说是以与仅通过原料的溶解-再析出的机理而形成骨架体的通常的沸石型化合物的合成工艺不同的机理形成了骨架体。 在本发明中,令人惊讶的是,在这样的机理中,不使用有机结构导向剂而得到目标功能性结构体。</base:Paragraphs>
+      <base:Paragraphs num="0066">而且,在这样的利用水热处理的功能性结构体的制造方法中,通过使氢氧化物离子（OH；<base:Sup>－</base:Sup>）的无机碱性化合物作为结构导向剂,从而不需要在通常的沸石型化合物的合成工艺中所需的有机结构导向剂。由此,能够在不使用通常昂贵的有机结构导向剂的情况下制造功能性结构体,另外,能够省略基于烧成的有机结构导向剂的除去工艺,因此,可期待其制造中的成本的大幅削减。进而,这样得到的功能性结构体不含有有机结构导向剂,因此,不会排出NOx等可能对环境造成影响的物质。</base:Paragraphs>
+      <base:Paragraphs num="0067">水热处理后得到的沉淀物（功能性结构体）优选在回收（例如过滤分离）后,根据需要进行清洗、干燥。 作为清洗溶液,可以使用水、或醇等有机溶剂、或者它们的混合溶液。 作为干燥处理,可举出一夜左右的自然干燥、150℃以下的高温干燥。</base:Paragraphs>
+      <base:Paragraphs num="0068">以上,以功能性物质为金属氧化物微粒时的功能性结构体的制造方法为例进行了说明,但功能性物质为金属微粒时也可以大致与上述同样地制作功能性结构体。 例如,在如上所述地操作而得到具有金属氧化物粒子的功能性结构体后,在氢气等还原气体气氛下进行还原处理,由此能够得到在骨架体中存在金属微粒的功能性结构体。 在该情况下,骨架体中内在的金属氧化物微粒被还原,形成与构成金属氧化物微粒的金属元素(M)对应的金属微粒。 或者,通过将含浸于前体材料(A)的含金属的溶液中所含的金属元素(M)设为难以被氧化的金属种（例如贵金属）,能够在烧成工序（步骤S3）中使金属微粒结晶生长,之后通过进行水热处理,能够得到在骨架体中内含金属微粒的功能性结构体。</base:Paragraphs>
+      <base:Paragraphs num="0069">图4为表示图1的功能性结构体1的变形例的示意图。 图1的功能性结构体1示出了具备骨架体10和骨架体10中内在的功能性物质20的情况,但并不仅限定于该构成,例如,如图4所示,功能性结构体2可以进一步具备保持于骨架体10的外表面10a的其他功能性物质30。</base:Paragraphs>
+      <base:Paragraphs num="0070">该功能性物质30是发挥一种或多种功能的物质。 其他功能性物质30所具有的功能可以与功能性物质20所具有的功能相同,也可以不同。 其它功能性物质30所具有的功能的具体例与针对功能性物质20所说明的相同,其中,优选具有催化剂功能,此时功能性物质30为催化剂物质。 另外,功能性物质20、30这两者为具有相同功能的物质时,其它功能性物质30的材料可以与功能性物质20的材料相同,也可以不同。 根据本构成,能够增大保持于功能性结构体2的功能性物质的含量,能够进一步促进功能性物质的功能发挥。</base:Paragraphs>
+      <base:Paragraphs num="0071">在这种情况下,骨架体10中固有的功能性物质20的含量优选大于骨架体10的外表面10a所保持的其他功能性物质30的含量。 由此,保持于骨架体10的内部的功能性物质20的功能成为支配性的,功能性物质的功能稳定地发挥。</base:Paragraphs>
+      <base:Paragraphs num="0072">以上,对本发明的实施方式的功能性结构体进行了说明,但本发明并不限定于上述实施方式,可基于本发明的技术思想进行各种变形及变更。</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0073">（实施例1～7） 
+[前体材料(A)的合成]制作将二氧化硅剂（四乙氧基硅烷(TEOS)、和光纯药工业株式会社制）与作为铸型剂的表面活性剂混合而成的混合水溶液,适当地进行pH调整,在密闭容器内,进行80～350℃、100小时的水热处理。 然后,滤出生成的沉淀物,用水和乙醇清洗,进一步在600℃、空气中烧成24小时,得到表1所示的种类和孔径的前体材料(A)。 需要说明的是,表面活性剂根据前体材料(A)的种类（“前体材料(A)的种类：表面活性剂”）而使用以下的表面活性剂。 ·MCM-41：十六烷基三甲基溴化铵(CTAB)（和光纯药工业株式会社制） </base:Paragraphs>
+        <base:Paragraphs num="0074">接着,根据构成表1所示的种类的金属氧化物微粒的金属元素(M),使含有该金属元素(M)的金属盐溶解于水,制备含有金属的水溶液。 需要说明的是,金属盐根据金属氧化物微粒的种类（“金属氧化物微粒：金属盐”）而使用以下的金属盐。 ·CoO<base:Sub>x</base:Sub>：硝酸钴(II)六水合物（和光纯药工业株式会社制）</base:Paragraphs>
+        <base:Paragraphs num="0075">接着,在粉末状的前体材料(A)中分多次少量地添加含金属的水溶液,在室温（20℃±10℃）下干燥12小时以上,得到前体材料(B)。</base:Paragraphs>
+        <base:Paragraphs num="0076">需要说明的是,在表1所示的任一实施例中,均对添加含金属的水溶液之前的前体材料(A)进行添加作为添加剂的聚氧乙烯（15）油基醚（NIKKOL BO-15V、日光化学株式会社制）的水溶液的前处理,然后,如上所述添加含金属的水溶液。</base:Paragraphs>
+        <base:Paragraphs num="0077">另外,添加至前体材料(A)中的含金属水溶液的添加量以换算为构成前体材料(A)的硅（Si）相对于该含金属水溶液中所含的金属元素(M)之比（原子数比Si/M）时的数值成为表1的值的方式进行调整。</base:Paragraphs>
+        <base:Paragraphs num="0078">接着,将如上述那样得到的含金属水溶液所含浸的前体材料(B)在600℃、24小时、空气中烧成,得到前体材料(C)。</base:Paragraphs>
+        <base:Paragraphs num="0079">将如上述那样操作而得到的前体材料(C)和具有氢氧根离子的无机碱性化合物作为结构导向剂进行混合而制作混合水溶液,在密闭容器内,在170℃、表1所示的pH及时间的条件下进行水热处理。 需要说明的是,此时,未添加有机结构导向剂。 然后,将生成的沉淀物过滤分离,进行水洗,在100℃下干燥12小时以上,得到表1所示的具有骨架体和作为功能性物质的金属氧化物微粒的功能性结构体（实施例1～7）。</base:Paragraphs>
+        <base:Paragraphs num="0080">（比较例1） 
+比较例1中,使用作为有机化合物的TPABr作为结构导向剂,另外,使水热处理的温度为150℃,除此以外,利用与实施例1同样的方法合成功能性结构体C1。 （比较例2） 
+比较例2中,在MFI型硅石中混合平均粒径50nm以下的氧化钴粉末（II,III）（Sigma-Aldrich Japan合同会社制）,得到在作为骨架体的硅石的外表面附着有作为功能性物质的氧化钴微粒的功能性结构体C2。 MFI型硅石除了添加金属的工序以外,通过与实施例1同样的方法合成。 </base:Paragraphs>
+        <base:Paragraphs num="0081">对于上述实施例的功能性结构体、比较例1的功能性结构体C1、及比较例2的功能性结构体C2（附着有功能性物质的硅来石）,在以下所示的条件下进行各种特性评价。</base:Paragraphs>
+        <base:Paragraphs num="0082">对于上述实施例的功能性结构体、比较例1的功能性结构体C1和比较例2的功能性结构体C2（附着有氧化钴微粒的硅石）,利用粉碎法制作观察试样,使用透射电子显微镜(TEM)（TITAN G2、FEI公司制）,进行了截面观察。 其结果,确认了在上述实施例的功能性结构体和比较例1的功能性结构体C1中,在由沸石形成的骨架体的内部内在并保持有功能性物质。 另一方面,在比较例2的功能性结构体C2中,功能性物质仅附着于骨架体的外表面,而不存在于骨架体的内部。 另外,对于上述中金属氧化物为氧化钴微粒（CoOx）的功能性结构体,通过FIB（聚焦离子束）加工切出截面,使用SEM（SU8020、Hitachi High-Technologies Corporation制）、EDX（X-Max、堀场制作所制）进行截面元素分析。 结果,从骨架体内部检测到Co元素。 根据上述利用TEM和SEM/EDX的截面观察的结果,确认了在骨架体内部存在氧化钴微粒。</base:Paragraphs>
+        <base:Paragraphs num="0083">在通过上述评价[A]中进行的截面观察而拍摄的TEM图像中,任意选择500个骨架体的通道,测定各自的长径和短径,由其平均值算出各自的内径（N=500）,进一步求出内径的平均值,作为骨架体的通道的平均内径D<base:Sub>F</base:Sub>。 另外,对于功能性物质也同样地,从上述TEM图像中任意选择500个功能性物质,测定各自的粒径（N=500）,求出其平均值,作为功能性物质的平均粒径D<base:Sub>C</base:Sub>。 将结果示于表1。 另外,为了确认功能性物质的平均粒径和分散状态,使用SAXS（小角X射线散射）进行分析。 利用SAXS的测定使用Spring-8的光束线BL19B2进行。 得到的SAXS数据通过Guinier近似法用球形模型进行拟合,算出粒径。 关于粒径,对金属氧化物为氧化钴微粒的功能性结构体进行了测定。 另外,作为比较对象,利用SEM对作为市售品的氧化钴微粒（Wako制）进行观察、测定。 其结果可知,在市售品中,在粒径约50nm～400nm的范围内随机存在各种尺寸的氧化钴微粒,与此相对,在各实施例的功能性结构体和比较例1的功能性结构体C1中,在骨架体内部,粒径10nm以下的功能性物质以粒径一致且非常高的分散状态存在。</base:Paragraphs>
+        <base:Paragraphs num="0084">以Si/M=100（M=Co）的添加量,制作使金属氧化物微粒包接于骨架体内部的功能性结构体,然后,测定以上述添加量制作的功能性结构体的包接于骨架体内部的金属量（质量%）。 Si和金属(M)的元素量的定量通过ICP（高频电感耦合等离子体）单体、或者将ICP和XRF（荧光X射线分析）组合来进行。 XRF（能量色散型荧光X射线分析装置“SEA1200VX”、SSI Nano Technology公司制）在真空气氛、加速电压15kV（使用Cr过滤器）或加速电压50kV（使用Pb过滤器）的条件下进行。 XRF是以荧光强度算出Si和金属(M)的元素的存在量的方法,XRF单体无法算出定量值（质量%换算）。 因此,以Si/M=100添加了金属(M)的功能性结构体的金属量通过ICP分析进行定量,以Si/M=50及小于100添加了金属的功能性结构体的金属量基于XRF测定结果和ICP测定结果这两者的结果算出。 需要说明的是,虽然表1的实施例中未示出,但确认到：至少在原子数比Si/M为50～1000的范围内,随着含金属溶液的添加量的增加,功能性结构体中包接的金属氧化物微粒中的金属(M)的含量增大。</base:Paragraphs>
+        <base:Paragraphs num="0085">对于上述实施例1～7和比较例1的功能性结构体C1以及比较例2的功能性结构体C2（附着有氧化钴微粒的硅来石）,评价功能性物质（催化剂物质）所具有的催化能力（性能）。 将结果示于表1。</base:Paragraphs>
+        <base:Paragraphs num="0086">催化剂活性在以下的条件下进行评价。 首先,在常压流通式反应装置中填充70mg功能性结构体,供给氢（8ml/分钟）和一氧化碳（4ml/分钟）,一边在100～700℃、0.1 MPa下加热1小时,一边进行费托合成。 常压流通式反应装置使用单一微反应器（Frontier Lab公司、Rx-3050SR）。</base:Paragraphs>
+        <base:Paragraphs num="0087">反应结束后,通过气相色谱质谱法（GC/MS）对回收的生成气体和生成液进行成分分析。 需要说明的是,生成气体的分析装置使用TRACE 1310GC（Thermo Fisher Scientific株式会社制、检测器：热导率检测器）。</base:Paragraphs>
+        <base:Paragraphs num="0088">将在250℃下能够确认到烃（除了CH<base:Sub>4</base:Sub>,以下相同）的生成的情况（即,反应开始温度为250℃以下的情况）判定为FT合成反应中的催化活性优异而判定为“◎”,将在300℃下能够确认到烃的生成的情况（即,反应开始温度高于250℃且为300℃以下的情况）判定为催化活性良好而判定为“○”,将在350℃下能够确认到烃的生成的情况（即,反应开始温度高于300℃且为350℃以下的情况）判定为催化活性差而判定为“△”,将在400℃下能够确认到烃的生成的情况（即,反应开始温度高于350℃且为400℃以下的情况）或未发生FT合成反应的情况判定为催化活性非常差（不合格）。</base:Paragraphs>
+        <base:Paragraphs num="0089">实施例1～7的功能性结构体均获得了与使用有机化合物作为结构导向剂的比较例1同等水平的催化活性。 另一方面,仅在骨架体的外表面附着有功能性物质的比较例2的功能性结构体C2与实施例1～7的功能性结构体相比,作为催化剂的耐久性差。</base:Paragraphs>
+        <base:Paragraphs num="0090">即,可知即使不使用有机结构导向剂,也能够廉价且容易地制造达到合格水平的功能性结构体。</base:Paragraphs>
+        <base:Paragraphs num="0091">需要说明的是,比较例1的功能性结构体C1虽然作为催化剂的性能达到合格水平,但由于使用有机结构导向剂,因此与实施例1～7的功能性结构体相比,制造需要高成本。</base:Paragraphs>
+        <base:Paragraphs num="0092">另外,对上述评价[C]中测定的功能性结构体的骨架体内部所包接的金属量（质量%）与上述评价（1）的催化活性的关系进行评价。 评价方法与上述[D]“性能评价”中的“（1）催化剂活性”中进行的评价方法相同。 其结果,虽然表1中未示出,但可知：若前体材料(A)中添加的含金属溶液的添加量换算成原子数比Si/M为50～200（金属微粒的金属元素(M)相对于功能性结构体的含量为0.5～2.5质量%）,则存在FT合成反应中催化活性提高的倾向。</base:Paragraphs>
+        <base:Paragraphs num="0093">
+          <base:TableDetails num="0001">
+            <base:Image id="000003" he="224" wi="134" file="2020090401_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0094">1-功能性结构体,10-骨架体,10a-外表面,11-通道,11a-孔,12-扩径部,20-功能性物质,30-功能性物质,D<base:Sub>C</base:Sub>-平均粒径,D<base:Sub>F</base:Sub>-平均内径,D<base:Sub>E</base:Sub>-内径。</base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000004" he="117" wi="72" file="2020090401_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000005" he="117" wi="69" file="2020090401_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000006" he="71" wi="67" file="2020090401_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000007" he="57" wi="67" file="2020090401_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种功能性结构体的制造方法,其特征在于,具有烧成工序和水热处理工序,所述烧成工序对在用于得到由沸石型化合物构成的多孔质结构的载体的前体材料(A)中浸渗有含金属溶液的前体材料(B)进行烧成,所述水热处理工序在对所述前体材料(B)进行烧成而得到的前体材料(C)中添加结构导向剂并进行水热处理,所述结构导向剂包含无机碱性化合物。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>在所述水热处理工序中,至少包含所述前体材料(C)和所述结构导向剂,使氢氧化物离子（OH；<base:Sup>－</base:Sup>根据权利要求1所述的功能性结构体的制造方法,其特征在于,对浓度为0.1 mol/L以上的范围的混合溶液进行水热处理。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的功能性结构体的制造方法,其特征在于,在所述烧成工序之前,添加相对于所述前体材料(A)为50～500质量%的非离子性表面活性剂。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1～3中任一项所述的功能性结构体的制造方法,其特征在于,在所述烧成工序之前,通过在所述前体材料(A)中分多次添加所述含金属溶液,从而使所述含金属溶液浸渗于所述前体材料(A)。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1～4中任一项所述的功能性结构体的制造方法,其特征在于,在所述烧成工序之前使所述含金属溶液含浸于所述前体材料(A)时,将添加于所述前体材料(A)中的所述含金属溶液的添加量以换算为构成所述前体材料(A)的硅（Si）相对于添加于所述前体材料(A)中的所述含金属溶液中所含的金属元素(M)的原子数比（Si/M比）而成为10～1000的方式进行调整。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求1～5中任一项所述的功能性结构体的制造方法,其特征在于,所述水热处理工序在碱性气氛下进行。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

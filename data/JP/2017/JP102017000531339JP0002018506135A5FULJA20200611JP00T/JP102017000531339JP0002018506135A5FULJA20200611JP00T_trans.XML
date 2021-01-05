@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000531339JP0002018506135A5FULJA20200611JP00T.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2018506135" kind="A5" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018506135</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2018506135</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">特許法第17条の2の規定による補正の掲載</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>2018008</business:GazetteNumber>
+        <base:Date>00000000</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000531339</base:DocNumber>
+        <base:Date>00000000</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017531339</base:DocNumber>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>J</business:Subclass>
+        <business:MainGroup>37</business:MainGroup>
+        <business:Subgroup>317</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01J  37/317       20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>265</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  21/265       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01J37/317 C</business:FI>
+      <business:FI type="secondary">H01L21/265 603B</business:FI>
+      <business:FI type="secondary">H01L21/265 T</business:FI>
+    </business:JPClassification>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T5</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+  </business:BibliographicData>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:InventionTitle>提高扫描光束注入器的光束轮廓速度</business:InventionTitle>
+        <base:Heading>发明详述</base:Heading>
+        <base:Paragraphs num="0001">本申请要求于2014年12月26日提交的标题为“BEAM PROFILINGSPEED ENHANCEMENT FOR SCANNED BEAM IMPLANTERS”的美国临时申请No.62/096,963的优先权和权益。 该申请的全部内容通过引用并入本文,如同在本文中完全公开一样。</base:Paragraphs>
+        <base:Paragraphs num="0002">本发明总体上涉及离子注入系统,并且更具体地涉及用于方便地确定离子束的电流分布的剂量测量系统和方法。</base:Paragraphs>
+        <base:Paragraphs num="0003">在半导体器件的制造中,使用离子注入来用杂质掺杂半导体。 为了实现n型或p型材料的掺杂或在集成电路的制造中形成钝化层,离子注入系统通常用于用由离子束提供的离子掺杂工件（例如,半导体晶片）。 当用于掺杂半导体晶片时,离子注入系统在工件内部注入选定的离子物质以产生所需的外来材料。</base:Paragraphs>
+        <base:Paragraphs num="0004">在离子注入中,通常优选的是确定供应到工件的掺杂剂的量。 注入晶片或工件内部的离子的测量被称为剂量测量。 在离子注入应用中,通常通过测量电流（例如,离子束电流）来进行剂量测量。 当控制离子的注入量时,通常使用闭环反馈控制系统来动态地调节注入,以便实现注入所发生的工件内的注入量的均匀性。 控制系统监测离子束的电流,以控制工件被扫描通过离子束的速度。 因此,该系统在工件上提供均匀的离子注入。</base:Paragraphs>
+        <base:Paragraphs num="0005">在具有带状离子束（例如,具有宽度大于高度的横截面的静电扫描的离子束）的离子注入系统中,为了适当地调节工件通过束的行进速度和路径,通常需要离子束的轮廓（即,形状）以实现均匀掺杂。 在这种情况下,法拉第杯通常被移动并扫描通过离子束。 另一方面,以与注入工件时使用的频率相同的频率静电扫描离子束。 因此,法拉第杯的狭缝测量与离子束相关联的射束电流,其逐渐增加。 然后,法拉第杯将在其相应的空间位置放置足够长的时间,以在足够的束轮廓上累积电流。</base:Paragraphs>
+        <base:Paragraphs num="0006">以这种方式,法拉第杯穿过离子束提供了离子束的时间相关分布。 而且,一般认为,通过这样使离子束通过法拉第杯,能够充分地推定离子束的整体的分布。 然而,时间相关分布通常使用与在实际将离子束注入工件内时使用的离子束的扫描频率相同的频率来执行。 此外,在许多情况下,需要两个或更多个分布以减少噪声的影响。 因此,剖析通常需要过长的时间,吞吐量降低。</base:Paragraphs>
+        <base:Paragraphs num="0007">本公开提供了用于通过以离子束扫描速度执行剖析操作来充分且快速地剖析离子束的系统和方法,所述离子束扫描速度显著高于当前在实际注入期间使用的速度。 因此,下面给出本发明的简要概述,以便提供对本发明的各方面的基本理解。 本发明内容不是本发明的广泛概述。 其既不旨在标识本发明的关键或重要要素,也不旨在限定本发明的范围。 本发明内容的目的是以简化的形式呈现本发明的多个概念,作为下面给出的更详细描述的序言。</base:Paragraphs>
+        <base:Paragraphs num="0008">在扫描射束离子注入系统（例如,二维扫描射束或具有一维机械扫描的一维扫描射束）中,通常通过以用于将离子注入工件内的扫描频率扫描离子束来进行注入体积均匀性的修改、角度的测量和修改以及“带状”射束的其他测量。 在扫描频率非常低的情况下（例如：约1～2Hz）,为了得到规定的处理的效果,测定时间可能变得非常长（例如：1～2分钟或更多的量级）。 这是因为测量装置需要累积足够数量的扫描。</base:Paragraphs>
+        <base:Paragraphs num="0009">例如,通常使用穿过“带状”光束轮廓移动的狭缝法拉第杯来进行剂量均匀性的测量。 该杯需要在相应的空间位置放置足够长的时间,以便在足够的束轮廓上累积电流。 通常,在至少多个足够的轮廓上测量和积分大约300个空间点以降低噪声。 即使对于一对轮廓,在1Hz的情况下,这种操作将花费大约300秒（例如,300*1个完整循环（跨越杯的两个波束路径）*1s/循环=300秒）。 通常使用至少两种分析途径。 因此,测量时间可能变得不可接受地长。 其结果,与更高的扫描频率的情况相比,吞吐量大幅减少。 因此,本公开描述了用于减少与慢速光束扫描相关联的测量时间的装置和方法。</base:Paragraphs>
+        <base:Paragraphs num="0010">在本公开中,在当前时刻,认为瞬间的光束轮廓形状不会强烈地影响感兴趣的范围的扫描频率（例：1～1000Hz）。 因此,本公开可以有利地提供可以在高频下执行的波束测量。 其结果,能够减少测定所需的时间。 一旦测量完成,就可以将扫描频率降低到注入所需的低频率。 如果需要,可以在注入频率下进行最终检查。</base:Paragraphs>
+        <base:Paragraphs num="0011">因此,提供了一种用于注入离子的方法。 在该方法中,根据期望的电流来调整离子束。 这种离子束的调整例如可以在使射束的扫描停止的状态下执行,也可以在通过注入扫描频率或其他频率进行扫描的状态下执行。 然后,根据与注入时使用的频率不同的频率来调整扫描,使得为了更快的测量时间而优化新的频率。 例如,用于测量的频率显著高于用于注射的频率。 进一步进行离子束的测定（例如：注入量的均匀性的测定以及射束角度的测定）。 然后,将扫描频率改变为注入扫描频率。 如果需要,可以在注入扫描频率下进行射束测量的最终检查。</base:Paragraphs>
+        <base:Paragraphs num="0012">如果发现两个不同频率处的测量之间的变化,则可以基于两个测量集之间的频率差异来应用修改。 例如,在低频率下,如果波束角在边缘处增加,则考虑到这一点,可以修改高频率下的测量。 例如,可以在每个配方的基础上存储修改（例如,类似于自动调节的历史）。</base:Paragraphs>
+        <base:Paragraphs num="0013">此外,提供了使用这种修改的另一种方法。 在该方法中,根据期望的电流来调整离子束。 这样的离子束的调整可以在停止扫描的状态下进行,也可以在进行基于注入扫描频率或其他频率的扫描的状态下执行。 然后,根据与用于注入的频率不同的频率来调整扫描,使得为了更快的测量时间而优化新的频率。 例如,用于测量的频率显著高于用于注射的频率。 进一步进行射束的测量（例如：注入量的均匀性的测量以及射束角度的测量）。</base:Paragraphs>
+        <base:Paragraphs num="0014">然后将扫描频率切换到注入扫描频率。 然后,可以对测定和搜查波形进行修正。 如果需要,可以在注入扫描频率下进行射束测量的最终检查。</base:Paragraphs>
+        <base:Paragraphs num="0015">两个频率下的测量之间的变化的可能原因之一是扫描或放大系统的频率响应的差异。 在这种情况下,以比比较光束分析仪的路径更快的某种方式匹配两个频率的波形将是有益的。 作为示例,可以使用与高带宽无关的电场或磁场的测量来测量每个频率处的实际波形。 接着,可以在低速的扫描频率下修正扫描波形,直到扫描波形与更高频率下的扫描中的波形的形状精度良好地一致为止。 作为示例,代替直接测量,频率响应误差的理论模型也可以完全用于修改波形。 在任一种情况下,本公开可以减少分布测量的迭代次数并减少总校正时间。</base:Paragraphs>
+        <base:Paragraphs num="0016">本发明总体上涉及用于快速确定离子束轮廓的离子注入系统和方法。 在一个示例性方面,离子注入系统包括被配置为产生离子束的离子源。 离子束具有与该离子束相关联的离子束电流。 离子束包括例如扫描的笔形束或带状束。 如果还设置有质量分析器,则该质量分析器构成为对离子束进行质量分析。</base:Paragraphs>
+        <base:Paragraphs num="0017">作为一例,设置有射束扫描仪。 射束扫描器构造成沿着扫描平面扫描离子束。 其结果,规定扫描离子束。 射束扫描仪例如还构成为以第1频率和第2频率扫描离子束。 此外,第一频率比第二频率高。 作为一例,第一频率的量级比第二频率大。 第一频率用于对离子束进行剖析。 第二频率用于将离子注入工件的内部。 终端站被配置为例如当射束扫描器以第二频率扫描离子束时在与工件相关联的工件平面处接收扫描的离子束。</base:Paragraphs>
+        <base:Paragraphs num="0018">在一个方面,束分布设备被配置成至少在以第一频率扫描离子束的情况下沿着扫描平面移动通过扫描的离子束。 例如,束分布设备还被配置为测量扫描的离子束的一个或多个特性（例如,扫描的离子束的电流和角方向）。 该测定与波束剖析装置的移动一起进行。</base:Paragraphs>
+        <base:Paragraphs num="0019">此外,控制器被配置为当以第二频率扫描离子束时确定扫描的离子束的轮廓。 当以第一频率扫描离子束时,该确定至少部分地基于所扫描的离子束的一个或多个特性。 作为另一示例,控制器还被配置成基于(i)以第一频率测量的离子束的一个或多个特性和(ii)当以第二频率扫描离子束时离子束的期望的一个或多个特性来调节离子束。 控制器被配置成通过控制离子源、质量分析器和射束扫描器中的一个或多个来调节离子束。</base:Paragraphs>
+        <base:Paragraphs num="0020">根据本公开的另一个方面,提供了一种用于注入离子的方法。 在该方法中,基于第一工艺配方调节离子束。 以第一频率沿着扫描平面扫描离子束。 其结果,第1扫描离子束被规定。 然后,使射束剖析装置以使第1扫描离子束通过的方式移动。 第1扫描离子束的1个以上的特性与射束轮廓装置的移动一起相对于第1扫描离子束的宽度方向进行测定。 因此,限定了与第一扫描离子束相关联的第一束轮廓。 第1射束轮廓例如包含第1扫描频率下的时间和位置相关（time and position dependent）的离子束的轮廓。</base:Paragraphs>
+        <base:Paragraphs num="0021">离子束还被设置成沿着扫描平面以第二频率进行扫描,以执行对工件内部的注入。 其结果,第2扫描离子束被规定。 第二频率低于第一频率。 以这种方式,至少部分地基于第一束轮廓来确定与第二扫描离子束相关联的第二束轮廓。 例如,第2束轮廓包含第2扫描频率下的时间和位置相关的离子束的轮廓。 再次,第二光束轮廓基于第一光束轮廓。 作为示例,根据第二工艺配方进一步调节离子束。 第二工艺配方基于第二分布曲线。 作为另一示例,第二分布的确定还基于与离子束的扫描相关联的扫描生成和放大系统的频率响应。</base:Paragraphs>
+        <base:Paragraphs num="0022">因此,为了实现上述目的和相关目的,本发明包括在下文中充分描述并且在权利要求中具体示出的特征。 以下描述和附图详细公开了本发明的某些示例性实施例。 这些实施例说明了可以在本发明的原理中采用的各种方法中的一些。 本发明的其他目的、优点以及新的结构通过与附图一起考虑,从以下的本发明的详细的说明中会变得明确。</base:Paragraphs>
+        <base:Paragraphs num="0023">图1是示出根据本公开的一个示例性方面的离子注入系统的框图。</base:Paragraphs>
+        <base:Paragraphs num="0024">图2是示出根据本公开的用于剖析离子束的示例性方法的框图。</base:Paragraphs>
+        <base:Paragraphs num="0025">本发明总体上涉及用于快速确定扫描离子束的分布的系统、设备和方法。 以下,参照附图对本发明进行说明。 相同的附图标记可以用于始终指代相同的部件。 各个方面的描述应被理解为仅是说明性的,而不应被解释为具有限制性意义。 在以下描述中,出于解释的目的,阐述了各种具体细节以提供对本发明的透彻理解。 然而,对于本领域技术人员显而易见的是,可以在没有这些具体细节的情况下实践本发明。</base:Paragraphs>
+        <base:Paragraphs num="0026">参照附图。 图1示出了示例性离子注入系统100。 离子注入系统100包括终端102、束线组件104和终端站106。 端子102包括例如由高压电源110供电的离子源108。 离子源产生离子束112并引导离子束112通过束线组件104并最终朝向终端站106。 离子束112可以采用例如点束、笔形束、带状束或任何其他形状的束的形式。 束线组件104还包括束引导件114和质量分析器116。 在射束线组件114内形成偶极磁场,使得仅具有适当荷质比的离子被引导通过位于射束引导件114的输出端处的开口118并到达位于终端站106处的工件120（例如,半导体晶片、显示面板等）。</base:Paragraphs>
+        <base:Paragraphs num="0027">作为示例,离子束扫描机构122（例如,静电或电磁扫描仪（通常称为“扫描仪”））被配置为相对于工件120至少在第一方向123（例如,也称为+/-y方向、第一扫描路径或“快速扫描”轴、路径或方向）上扫描离子束112。 其结果,规定带状的离子束124或扫描离子束。 此外,在该示例中,提供了工件扫描机构126。 工件扫描机构被配置为至少在第二方向125（例如,+/-x方向、第二扫描路径或“慢扫描”轴、路径或方向）上选择性地扫描工件120以接收离子束112。 例如,离子束扫描机构122和工件扫描机构126可以被单独地配置或彼此相关地配置,以提供工件相对于离子束112的期望扫描。</base:Paragraphs>
+        <base:Paragraphs num="0028">作为另一示例,在第一方向123上静电扫描离子束112,从而产生扫描的离子束124。 然后,在第二方向125上机械地扫描工件120以接收扫描的离子束124。 离子束112和工件120的这种静电扫描和机械扫描的组合导致所谓的“混合扫描”。 本发明适用于工件120相对于离子束112的扫描的所有组合,反之亦然。</base:Paragraphs>
+        <base:Paragraphs num="0029">作为另一示例,沿着离子束112的路径提供束轮廓设备128,以测量离子束的一个或多个特性（例如,离子束电流）。 光束轮廓设备128可以设置在工件120的上游或下游。 束分布设备被配置为当离子束不与工件相交时检测离子束112的一个或多个特性（例如,离子束电流）。 例如,束轮廓设备128被配置为沿着轮廓平面130移动（在第一方向上）离子束一段时间。 该射束轮廓设备还被配置成在移动时测量相对于离子束112的宽度132的射束电流。 因此,射束分布设备限定了离子束的时间和位置相关电流分布134（也称为时间相关分布或时间相关测量）。</base:Paragraphs>
+        <base:Paragraphs num="0030">波束剖析装置128例如具备法拉第杯136。 在一个示例中,法拉第杯包括朝向上游（例如,面向离子束112）的窄狭缝138。 而且,为了取得离子束的轮廓,该法拉第杯构成为相对于离子束的整个宽度沿着第1方向123移动。 因此,法拉第杯136构造用于将时间和位置相关的射束电流分布134提供给控制器140。 例如,控制器140被配置为控制离子源108、高压电源110、束引导器114、质量分析器116、离子束扫描机构122、工件扫描机构126和束轮廓设备128中的至少一个和/或向这些部件中的至少一个发送信号和从这些部件中的至少一个接收信号。 具体地,控制器140被配置为控制离子束112的扫描频率,如下面进一步详细描述的。</base:Paragraphs>
+        <base:Paragraphs num="0031">根据本发明的另一方面,图2示出了用于快速确定离子束的分布的示例性方法200。 应当注意,虽然示例性方法在本文中被示出和描述为一系列动作或事件,但是应当理解,本发明不限于这些示出的动作或事件的顺序。 因此,在本发明中,一些步骤可以以不同的顺序执行,或者可以与本文未示出和描述的其他步骤一起执行。 此外,并非所有示出的步骤都必须被执行以执行根据本发明的方法。 此外,该方法可以结合本文示出或描述的系统来执行,或者结合本文未示出的其他系统来执行。</base:Paragraphs>
+        <base:Paragraphs num="0032">如图2所示,方法200开始于操作202。 在操作202中,使用第一工艺配方形成离子束。 例如,第一工艺配方包括用于处理工件的各种设置。 在操作204中,以第一频率沿着扫描平面扫描离子束以形成第一扫描离子束。 例如,使用离子束扫描系统122以第一频率静电扫描图1的离子束112。 因此,定义图2的操作204的第一扫描离子束。 在操作206处,通过移动束轮廓设备穿过离子束来测量第一扫描离子束的一个或多个特性。 因此,作为示例,定义了与第一扫描离子束相关联的时间和位置相关的第一分布。</base:Paragraphs>
+        <base:Paragraphs num="0033">第1扫描离子束的1个以上的特性例如与射束剖析装置的移动一起相对于第1离子束的宽度方向进行测定。 因此,限定了与第一扫描离子束相关联的第一束轮廓。 第一扫描离子束的一个或多个特性包括例如离子束的电流、离子束的均匀性和入射在工件平面上的离子束的角度中的一个或多个。</base:Paragraphs>
+        <base:Paragraphs num="0034">在操作208中,以第二频率沿着扫描平面扫描离子束以形成第二扫描离子束。 在该示例中,第二频率低于第一频率。 作为一例,第一频率的量级比第二频率大。 作为另一示例,第一频率是第二频率的至少两倍。</base:Paragraphs>
+        <base:Paragraphs num="0035">在操作210中,确定与第二扫描离子束相关联的时间和位置相关的第二分布。 该确定至少部分地基于第一简档。 因此,在操作212中,使用以第二频率扫描的第二扫描离子束将离子注入工件的内部。 因此,例如,在图1的离子束112以与离子注入时使用的频率相比足够高的频率进行扫描的情况下,该离子束112被轮廓化。 因此,通过减少离子束的剖析所需的时间,生产量增加。</base:Paragraphs>
+        <base:Paragraphs num="0036">作为另一示例,在图2的操作214中,根据第二工艺配方进一步调整离子束。 所述第二工艺配方至少部分地基于所述第二分布曲线。 例如,可以通过根据第二工艺配方调整离子束来补偿以第一频率扫描与以第二频率扫描之间的变化。 另外,第二分布的确定还可以基于与离子束的扫描相关联的扫描生成和放大系统的频率响应。</base:Paragraphs>
+        <base:Paragraphs num="0037">虽然已经参考一个或多个特定优选实施例示出和描述了本发明,但是显而易见的是,本领域技术人员在阅读和理解本说明书和附图后将想到等同的变化和修改。 特别是,关于由上述的构件（组件、设备以及电路等）实现的各种功能,为了说明这些构件而使用的术语（包括对“手段”（means）的参照）,除非特别明示,否则意图对应于实现所说明的构件的特定功能的任意构件（即,功能上等同的构件）。 这也适用于任何部件在结构上不等同于本文公开的用于实现本发明的示例性实施例中描述的功能的结构的情况。 此外,可以仅关于多个实施例中的一个实施例公开本发明的特定特征。 然而,如果对于任何或特定应用是期望的和有益的,则这样的配置可以与其他实施例的一个或多个配置组合。</base:Paragraphs>
+        <business:DrawingsDescription>
+          <base:Paragraphs num="0038">
+            <base:FigureReference num="0001">图0001是示出根据本公开的一个示例性方面的离子注入系统的框图。</base:FigureReference>
+            <base:FigureReference num="0002">图0002是示出根据本公开的用于对离子束进行剖析的示例性方法的框图。</base:FigureReference>
+          </base:Paragraphs>
+        </business:DrawingsDescription>
+      </business:Description>
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>一种用于将离子注入工件中的离子注入系统,所述离子注入系统包括： 离子源,其产生离子束； 质量分析器,其对上述离子束进行质量分析； -沿着扫描平面扫描所扫描的离子束,以限定所述离子束； 并且,用于波束剖析的第一频率； 射束扫描仪,其进一步以用于注入的第2频率扫描上述离子束； 在上述射束扫描仪以第2频率扫描上述离子束的情况下, 终端站,所述终端站在与所述工件相关联的工件平面处接收所述扫描离子束； 在以所述第1频率扫描所述离子束的情况下, 束分布装置,其沿着上述扫描平面以通过上述扫描离子束的方式移动； 控制器； 其中, 所述第一频率包括： 比所述第二频率高, 其中,所述束分布设备还测量所扫描的离子束的一个或多个特性以及所述移动,其中,所述控制器部分地基于当以所述第一频率扫描所述离子束时所扫描的离子束的所述一个或多个特性来确定当以所述第二频率扫描所述离子束时将获得的所扫描的离子束的分布,并且其中,所述控制器还基于(i)在所述第一频率下测量的所述离子束的所述一个或多个特性以及(ii)在以所述第二频率扫描所述离子束时将获得的所述离子束的所需的一个或多个特性来调节所述离子束。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>根据权利要求1所述的离子注入系统,其中所述离子束的所述一个或多个特性包括所述离子束的电流和入射在所述工件平面上的所述离子束的角度中的一个或多个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>根据权利要求1所述的离子注入系统,其特征在于,所述第一频率为所述第二频率的至少2倍。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>根据权利要求1所述的离子注入系统,其特征在于,所述第一频率比所述第二频率高至少一个数量级。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>根据权利要求1所述的离子注入系统,其特征在于,所述束分布装置具备使所述离子束沿着所述扫描平面通过的法拉第杯。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>根据权利要求5所述的离子注入系统,其特征在于,所述法拉第杯具备允许所述离子束的一部分侵入的狭窄的狭缝。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>根据权利要求1所述的离子注入系统,其中,所述控制器通过控制所述离子源、所述质量分析器和所述射束扫描仪中的一个或多个来调节所述离子束。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>一种用于注入离子的方法,所述方法包括： 根据第一工艺配方调整离子束； 为了限定第一扫描离子束： 通过用于波束剖析的第一频率： 沿着扫描平面扫描所述离子束； 以使上述第1扫描离子束通过的方式, 移动光束轮廓设备； 为了限定与所述第一扫描离子束相关联的第一束轮廓, 与所述波束剖析设备的所述移动一起, 相对于该第1扫描离子束的宽度方向, 测量所述第一扫描离子束的一个或多个特性； 部分地基于所述第一光束轮廓： 根据比所述第一频率低的第二频率, 确定将用于沿着所述扫描平面扫描所述离子束的第二束轮廓； 根据第二工艺配方调节所述离子束,所述第二工艺配方基于所述第二束轮廓并且基于(i)以所述第一频率测量的所述第一扫描离子束的所述一个或多个特性,以及(ii)当以所述第二频率扫描所述离子束时将获得的所述离子束的所需的一个或多个特性,所述方法包括以所述第二频率沿着所述扫描平面扫描所述离子束以限定第二扫描离子束,以及使用所述第二扫描离子束将离子注入工件中。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>根据权利要求8所述的方法,其中,所述第一扫描离子束的所述一个或多个特性包括所述离子束的电流、所述离子束的均匀性和所述离子束的角度中的一个或多个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>根据权利要求8所述的方法,其特征在于,所述波束分布装置具备法拉第杯。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>根据权利要求8所述的方法,其中,确定所述第二束轮廓的步骤还基于与所述离子束的扫描相关联的扫描产生和放大系统的频率响应。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>根据权利要求8所述的方法,其中,所述第一频率是所述第二频率的至少两倍。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>根据权利要求8所述的方法,其中,所述第一频率比所述第二频率高至少一个数量级。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>一种用于在离子注入系统中执行剂量控制的方法,所述方法包括： 使用第一工艺配方形成离子束； 为了形成用于束轮廓的第一扫描离子束, 根据第一频率： 沿着扫描平面扫描所述离子束； 为了限定与所述第一扫描离子束相关联的时间和位置相关的第一分布, 通过使射束分布装置移动以使上述离子束通过, 测量所述第一扫描离子束的一个或多个特性； 部分地基于所述第一简档： 根据比所述第一频率低的第二频率, 确定与时间和位置相关的第二分布,所述第二分布将用于沿着所述扫描平面扫描所述离子束； 根据第二工艺配方调节所述离子束,所述第二工艺配方基于所述第二分布并且基于(i)以所述第一频率测量的所述第一扫描离子束的所述一个或多个特性,以及(ii)当以所述第二频率扫描所述离子束时将获得的所述离子束的所需的一个或多个特性,所述方法包括以所述第二频率沿着所述扫描平面扫描所述离子束,以形成用于注入的第二扫描离子束,以及使用所述第二扫描离子束将离子注入工件中。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0015">
+          <business:ClaimText>根据权利要求14所述的方法,其中,测量所述离子束的所述一个或多个特性包括测量所述离子束的电流和所述离子束在所述扫描平面中的入射角。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0016">
+          <business:ClaimText>根据权利要求14所述的方法,其中,测量所述离子束的所述一个或多个特性的步骤包括使法拉第杯从所述第一扫描离子束的第一侧脊移动到第二侧脊的步骤,以及使用所述法拉第杯测量所述射束的电流的步骤。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0017">
+          <business:ClaimText>根据权利要求14所述的方法,其中,所述第一频率比所述第二频率高至少一个数量级。</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

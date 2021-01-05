@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000218700JP00020200903940AFULJA20200611JP00N.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020090394" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090394</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090394</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000218700</base:DocNumber>
+        <base:Date>20191203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019218700</base:DocNumber>
+        <base:Date>20191203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>DE</base:WIPOST3Code>
+        <base:DocNumber>10 2018 009 586.0</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>DE</base:WIPOST3Code>
+        <base:DocNumber>102018000009586</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20181206</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>65</business:MainClass>
+        <business:Subclass>H</business:Subclass>
+        <business:MainGroup>54</business:MainGroup>
+        <business:Subgroup>72</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B65H  54/72        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>65</business:MainClass>
+        <business:Subclass>H</business:Subclass>
+        <business:MainGroup>67</business:MainGroup>
+        <business:Subgroup>048</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B65H  67/048       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">B65H54/72</business:FI>
+      <business:FI type="secondary">B65H67/048 A</business:FI>
+      <business:FClass>
+        <business:FTerm>3F112AA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F112BA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F112EA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F112TA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>3F112</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">卷取机</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エーリコン  テクスティル  ゲゼルシャフト  ミット  ベシュレンクテル  ハフツング  ウント  コンパニー  コマンディートゲゼルシャフト</base:Name>
+            <base:RegisteredNumber>307031976</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ連邦共和国  レムシャイト  レーヴァークーザー  シュトラーセ  65</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アブデラティ  ハミド</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ連邦共和国  ボーフム  ミューザーシュトラーセ  15</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ライナルト  フォス</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ連邦共和国  ヴェアメルスキルヒェン  ヴィルヘルム－イーデル－シュトラーセ  7</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>アインゼル・フェリックス＝ラインハルト</base:Name>
+            <base:RegisteredNumber>100114890</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>森田  拓</base:Name>
+            <base:RegisteredNumber>100098501</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>前川  純一</base:Name>
+            <base:RegisteredNumber>100116403</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>二宮  浩康</base:Name>
+            <base:RegisteredNumber>100135633</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>上島  類</base:Name>
+            <base:RegisteredNumber>100162880</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>8</business:ClaimsCount>
+      <base:TotalPageCount>23</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>在非常长地突出的卷绕锭子的情况下,确保了在完成卷绕的筒子的更换区域中,解开的纱头不会到达新卷绕的筒子的运行区域。 护罩12具有至少一个可移动的护罩13,用于将在一个卷绕锭子上卷绕到最后的卷装10覆盖到另一个卷绕锭子3.2上。 屏蔽装置13由保持在可旋转的卷绕辊15上的缠绕屏蔽装置14形成。 为了以最小的自由空间可靠地引导,至少一个旋转器引导件18.2与缠绕护罩14配属,该旋转器引导件附接到卷绕旋转器2。 该旋转器引导件18.2与设置在机架1上的至少一个框架引导件20共同作用,以便引导缠绕护罩14。 图5</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="50" wi="69" file="2020090394_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及一种根据权利要求1的前序部分所述的类型的卷绕机。</base:Paragraphs>
+      <base:Paragraphs num="0002">为了卷绕合成纱,通常使用卷绕机。 卷绕机允许连续地卷绕纱线以形成卷装。 为此,卷绕机具有两个卷绕锭子。 这些卷绕锭子保持在可旋转地支承的卷绕旋转器上,并且因此交替地保持在用于卷绕至少一根纱线的操作区域和用于取出卷绕完成的筒子的更换区域中。 因此,例如可以将一根或多根纱线连续地容纳在熔纺设备中并卷绕成卷装。 卷绕锭子优选地突出地保持在卷绕回转器中,使得最终卷绕的筒子可以在卷绕锭子的一个自由端处取出。 在这种情况下,必须确保在更换区域中保持在筒子上的解开的纱头不会到达新卷绕的筒子的运行区域。 就此而言,已知在更换阶段期间在卷绕锭子之间引导屏蔽元件。 为此,在现有技术中已知许多不同的护罩。</base:Paragraphs>
+      <base:Paragraphs num="0003">例如从DE 100 16 161 A1中已知一种具有护罩的卷绕机。 在该卷绕机中,护罩具有多个可枢转的护罩板。 屏蔽板从侧向静止位置枢转到卷绕锭子之间的运行位置中。 然而,这种屏蔽装置需要大的安装空间,以便允许板件的枢转运动。</base:Paragraphs>
+      <base:Paragraphs num="0004">从DE 198 18 715 A1中已知一种具有护罩的卷绕机。 在该屏蔽装置中,屏蔽装置由柔性的分隔壁形成,该分隔壁由多个单独的部件形成。 这些部件能够伸缩地相互进出。 但是,这样的屏蔽机构在伸出状态下缺乏稳定性。 这种稳定性的缺乏尤其在具有多个卷装的长的突出的卷绕锭子中是明显的。</base:Paragraphs>
+      <base:Paragraphs num="0005">然而,在过去,也使用了柔性的屏蔽装置,该屏蔽装置从卷绕辊拉出以到达运行位置。 这种卷绕机例如由US 3165274 A1已知。 然而,这种卷起屏蔽件非常柔性并且适用于具有小屏蔽效果的局部盖。 因此,在已知的卷绕机中,缠绕护罩从卷绕辊拉出并且被引导到压紧辊和最终卷绕的卷装之间的区域中。</base:Paragraphs>
+      <base:Paragraphs num="0006">本发明的目的是改进开头所述的具有护罩的卷绕机,使得该卷绕机特别适用于非常长地突出的卷绕锭子。</base:Paragraphs>
+      <base:Paragraphs num="0007">本发明的另一个目的是通过护罩实现最终卷绕的包装的可能的隔离。</base:Paragraphs>
+      <base:Paragraphs num="0008">根据本发明,该目的通过以下方式实现：缠绕护罩与至少一个旋转器引导件相关联,该旋转器引导件附接到卷绕旋转器,该旋转器引导件与设置在机架上的用于引导缠绕护罩的至少一个框架引导件配合。</base:Paragraphs>
+      <base:Paragraphs num="0009">本发明的有利的改进方案通过在相应的从属权利要求中描述的特征和特征组合来限定。</base:Paragraphs>
+      <base:Paragraphs num="0010">本发明基于以下认识：在更换区域中引导的卷绕锭子在卷绕旋转器中被固定在其位置,直到包装被取出并更换为新的空管。 在这种卷绕机中,该时间段被称为所谓的驻车时间,在该驻车时间期间,在没有卷绕旋转器的旋转运动的情况下进行新的卷装的卷绕。 因此,在其具有保持在交换区域中的卷绕锭子的位置中,卷绕回转器可以有利地通过回转器引导件用于引导卷绕屏蔽装置在其伸出运动中直至到达操作位置。 此外,卷绕回转器的位置适合于通过回转器引导件与设置在机架上的框架引导件共同作用来确保卷绕护罩的稳定引导。 本发明具有特别的优点,即卷绕机中的非常小的中间空间可以用于卷绕和覆盖最终卷绕的筒子。 通过旋转器引导件和相关联的框架引导件来控制和确保缠绕护罩的运动。</base:Paragraphs>
+      <base:Paragraphs num="0011">为了在使用非常小的中间空间的情况下在每个卷绕锭子上实现相同的屏蔽作用,提出了本发明的另一种设计方案,其中,第二旋转器引导件镜像对称地与设置在卷绕旋转器上的旋转器引导件相关联,所述第二旋转器引导件交替地与框架引导件配合,以便通过卷绕旋转器的旋转来引导卷绕屏蔽装置。 因此,每个卷绕锭子在与卷绕的筒子一起到达更换位置之后彼此独立地与位于运行区域中的卷绕锭子完全屏蔽和隔离。</base:Paragraphs>
+      <base:Paragraphs num="0012">为了一方面改善卷扬护罩的引导并且另一方面尽可能完全地分离筒子,本发明的另一种设计方案是特别有利的,其中框架引导件具有进入区段和离开区段,所述进入区段和离开区段相对于收卷回转器布置并且与设置在收卷回转器上的相应的回转器引导件配合。 这使得在到达更换位置时,缠绕护罩在框架引导件和旋转器引导件之间的进入和引导变得容易。</base:Paragraphs>
+      <base:Paragraphs num="0013">为了完全隔离,根据本发明的绕线机的另一个实施方式被证明是有利的,在该实施方式中,旋转器引导件和框架引导件构造成使得卷绕护罩在运行位置中以大于或等于90°的最小角度围绕卷绕锭子的筒子。 由此,卷绕锭子的更换区域在卷绕机内被完全隔离。</base:Paragraphs>
+      <base:Paragraphs num="0014">为了能够在更换区域中可靠地覆盖非常长地突出的卷绕锭子,设置了本发明的另一个实施方式,其中,卷绕护罩沿着卷绕锭子平行地延伸直至卷绕锭子的突出的自由端部。 在这种情况下,在卷绕锭子的突出的自由端部附近设置有另外的框架引导装置,该框架引导装置布置在机架上,以便引导卷绕护罩。 就此而言,卷起护罩不仅在卷绕机的驱动器侧上而且在卷绕机的突出侧上都被可靠地引导。</base:Paragraphs>
+      <base:Paragraphs num="0015">此外,卷起护罩的引导件允许卷起护罩的通过压入力形成的伸出运动。 就此而言,根据本发明的另一设计方案是有利的,在该设计方案中,用于展开和卷起卷起护罩的卷绕辊可以通过电驱动装置来控制。 因此,卷绕辊的伸出运动通过由驱动装置产生的推力来实现,并且卷起护罩的卷起通过由电驱动装置产生的拉力来实现。</base:Paragraphs>
+      <base:Paragraphs num="0016">由于旋转器引导件和框架引导件的柔性构造,卷绕机的如下构造是特别有利的,在该构造中,卷绕护罩构造为具有多个可运动地彼此连接的条带的构件盖。 由此有利地实现了缠绕护罩的简单引导。 缠绕护罩在旋转器引导件或框架引导件中的钩挂是不可能的。</base:Paragraphs>
+      <base:Paragraphs num="0017">在下文中,根据本发明的卷绕机的实施例,参照附图更详细地解释本发明,在附图中：</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0018">
+        <base:FigureReference num="0001">图0001是根据本发明的卷绕机的实施例的示意性侧视图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是图1中的实施例的示意性前视图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是图1所示的实施例的卷取旋转器的概略的主视图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是图1中所示的实施例的示意性侧视图,其中卷起护罩伸出。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是图4中所示的实施例的示意性前视图。</base:FigureReference>
+      </base:Paragraphs>
+      <base:Paragraphs num="0019">图1和图2以多个视图示出了根据本发明的卷绕机的实施方式。 在图1中示出侧视图,在图2中示出实施例的主视图。 根据本发明的卷绕机的实施例在运行状态下示出,在该运行状态下,由多根纱线组成的纱线组被同时卷绕以形成筒子。 图1和图2中所示的实施例的以下描述涉及附图中的一个,除非与附图中的一个明确相关。</base:Paragraphs>
+      <base:Paragraphs num="0020">该实施例具有机架1。 在该机架1中可转动地支承有卷绕回转器2。 卷绕回转器2在机架1上的旋转运动通过回转器驱动器5进行。 两个彼此错开180°布置的卷绕锭子3.1、3.2突出地保持在卷绕回转器2上。 卷绕锭子3.1、3.2分别配设有两个锭子驱动器4.1、4.2。 通过旋转器驱动器5,卷绕旋转器2与卷绕锭子3.1、3.2一起运动。 因此,卷绕锭子3.1、3、2交替地在交换区域和运行区域中被引导。 在图1和图2所示的运行状态下,卷绕锭子3.1位于运行区域中,在该运行区域中,多根纱线9卷绕在卷绕锭子3.1的圆周上以形成筒子10。 第二卷绕锭子3.2位于交换区域中并且设置有多个筒管11。</base:Paragraphs>
+      <base:Paragraphs num="0021">卷绕锭子3.1、3.2沿着在机架1上并排布置的卷绕点延伸,并且每个卷绕点分别具有一个卷绕管11。 该实施例在此示例性地以总共四个卷绕点来实施。 原则上,卷绕点的数量仅是示例性的。 这种卷绕机同时具有多达16个卷绕点,其中,卷绕锭子3.1、3.2达到例如1.8 m的突出长度。</base:Paragraphs>
+      <base:Paragraphs num="0022">在该卷绕机中形成的卷绕点分别在进入区域中具有头导纱器8,以便分离和引导纱线9。 为了在卷装10的周面敷设纱线9,设置有横动装置7和接触辊（接触辊）6。 接触辊6在卷绕锭子3.1、3.2的长度上延伸。 接触辊6保持在可移动的辊支架21上并且可旋转地支承。 横动装置7针对每个卷绕点分别具有一个被驱动的横动单元。 横动单元往复引导纱线,由此在筒子10的周面上产生横动。</base:Paragraphs>
+      <base:Paragraphs num="0023">特别是为了防止解开的纱头或纱线屑在新卷绕的筒子10上缠绕,在机架1上布置有护罩12。 护罩12具有缠绕护罩14形式的可移动的屏蔽装置13。 卷起式遮蔽部14卷起在卷取辊15上。 卷取辊15可旋转地支承并保持在壳体17中,并且与卷取驱动装置16连接。 在壳体出口17处,相对于卷绕屏蔽装置14,在卷绕回转器2的区域中的驱动端部处布置有框架引导件19,并且在卷绕锭子的突出端部处布置有第二框架引导件20。 框架引导件19、20固定在机架1上。</base:Paragraphs>
+      <base:Paragraphs num="0024">为了说明缠绕护罩14在收卷回转器2的区域的驱动端处的引导,另外参考图3。</base:Paragraphs>
+      <base:Paragraphs num="0025">在图3中图示了卷取旋转器2的主视图。 在卷绕锭子3.1、3.2之间,卷绕旋转器2分别具有用于每个卷绕锭子3.1、3.2的旋转器引导件18.1、18.2。 旋转器引导件18.1、18.2镜像对称地构造在卷绕旋转器2的中间区域中。 在所示的运行状态下,旋转器引导件18.1配属有机架1上的框架引导件19。 为此,框架引导件19由入口区段19.1和出口区段19.2形成。 输入区段19.1和输出区段19.2相对于卷绕回转器2布置。 在此,在卷绕回转器2的所示位置中,输入区段19.1和输出区段19.2对应于回转器引导件18.1,使得在操作卷绕驱动装置16时,卷扬护罩经由输入区段19.1被引导到回转器引导件18.1中并且随后被引导到输出区段19.2中。 因此,旋转器引导件18.1用于在更换区域中屏蔽卷绕锭子3.2时引导卷绕屏蔽装置14。 旋转器引导件18.2相应地用于在更换区域中屏蔽卷绕锭子3.1。</base:Paragraphs>
+      <base:Paragraphs num="0026">卷取辊15的壳体17侧向地布置在机架1的高度上,该高度高于卷取屏蔽装置14的下运行位置。</base:Paragraphs>
+      <base:Paragraphs num="0027">为了说明护罩12的功能,参考图4和图5的附图。 图4以侧视图示出了在运行状态中改变的根据图1的实施例,并且图5以前视图示出了该实施例。 除非明确地与附图中的一个相关联,否则以下描述涉及这两个附图。</base:Paragraphs>
+      <base:Paragraphs num="0028">在图4和图5所示的运行状态中,卷绕锭子3.1由卷绕回转器2从运行区域引导到更换区域中。 同时,卷绕锭子3.2从交换区域枢转到运行区域中。 在卷绕锭子3.2上,在纱线断开之后分别卷绕新的筒子10。</base:Paragraphs>
+      <base:Paragraphs num="0029">在所谓的停车时间内,在卷装10在卷绕锭子3.2上卷绕时,通过可移动的接触辊6进行用于增大卷装直径的缩回运动。 为此,接触辊6优选地保持在可移动的摇杆21或辊支撑件上。 在停车时间期间,保持在更换区域中的卷绕锭子3.1被保持在更换位置中,在该更换位置中可以进行卷绕完成的筒子10的取出。 收卷旋转器2的运动在驻车时间期间不进行。</base:Paragraphs>
+      <base:Paragraphs num="0030">一旦收卷回转器2到达其更换位置,就启动卷取驱动器16,并且卷取屏蔽装置14从卷取辊15退绕并且被压入框架引导件19和回转器引导件18.2以及框架引导件20中。 提升屏蔽装置14移动到其端部位置并因此到达其驾驶位置。 在该运行位置中,卷绕锭子3.1的筒子10与卷绕锭子3.2完全隔离和屏蔽。</base:Paragraphs>
+      <base:Paragraphs num="0031">如尤其从图5所示的图中可以看出,卷起屏蔽装置14构造为由多个可运动地连接的条带22组成的构件盖。</base:Paragraphs>
+      <base:Paragraphs num="0032">缠绕屏蔽装置14在操作位置中的端部位置通过缠绕驱动装置16或替代地通过设置在框架引导件19、20的端部上的止挡件来实现。</base:Paragraphs>
+      <base:Paragraphs num="0033">一旦在卷绕锭子3.1上卷绕的筒子被取出并更换为新的筒管11,则上条驱动装置16被致动并且上条护罩14可以返回到静止位置。 在该情况下,卷起式遮蔽部14卷绕于卷绕辊15上,并被拉回到壳体17内。</base:Paragraphs>
+      <base:Paragraphs num="0034">根据本发明的卷绕机尤其适合于遮盖具有多个筒子的长伸出的卷绕锭子。 由于实现了完全隔离,因此完全消除了线头进入交换区域。 由此,在卷绕锭子的更换区域中产生高质量价值的筒子。</base:Paragraphs>
+    </business:DrawingsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="96" wi="84" file="2020090394_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="62" wi="84" file="2020090394_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="69" wi="84" file="2020090394_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="96" wi="84" file="2020090394_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="62" wi="84" file="2020090394_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种卷绕机,用于卷绕纱线,其特征在于,具备： -交替地卷绕纱线以形成包装（10）； -具有可旋转的卷取旋转器（2）的卷取旋转器（2）,卷取旋转器（2）承载两个长伸出的卷取锭子（3.1、3.2）,以及具有至少一个可移动的屏蔽装置（13）的屏蔽装置（12）,屏蔽装置（12）用于相对于另一个卷取锭子（3.1、3.2）覆盖在其中一个卷取锭子（3.1、3.2）上卷绕完的卷装（10）,屏蔽装置（13）由保持在可旋转的卷取滚轮（15）上的卷取屏蔽装置（14）形成,其中,至少一个安装在卷取旋转器（2）上的旋转器引导装置（18.1、18.2）与卷取屏蔽装置（14）相关联,其中,卷取屏蔽装置（18）包括：</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>根据权利要求1所述的绕线机,其特征在于,第二绕线机引导件（18.1、18.2）镜像对称地配属于所述绕线机（2）的所述绕线机引导件（18.1、18.2）,所述绕线机引导件（18.1、18.2）交替地与所述框架引导件（19）共同作用,以便通过所述绕线机（2）的转动来引导所述提升护罩（14）。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的卷绕机,其特征在于,所述框架引导件（19）具有输入区段（19.1）和输出区段（19.2）,其中,所述输入区段（19.1）和所述输出区段（19.2）相对于所述卷绕回转器（2）布置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1至3中任一项所述的卷绕机,其特征在于,所述旋转器引导件（18.1、18.2）和所述框架引导件（19）这样构造,使得所述卷绕护罩（14）在运行位置中以大于或等于90°的最小角度围绕所述卷绕锭子（3.1、3.2）的卷装（10）。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1至4中任一项所述的卷绕机,其特征在于,所述卷起护罩（14）平行于所述卷绕锭子（3.1、3.2）延伸直至所述卷绕锭子（3.1、3.2）的突出的自由端部。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求5所述的卷绕机,其特征在于,在所述卷绕锭子（3.1、3.2）的突出的自由端部附近布置有用于在所述机架（1）上引导所述缠绕护罩（14）的另一框架引导件（20）。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1至6中任一项所述的卷绕机,其特征在于,用于退绕或卷起卷帘（14）的卷取辊（15）能够通过电卷取驱动装置（16）控制。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1至7中任一项所述的卷绕机,其特征在于,所述卷起护罩（14）构造为具有多个可运动地彼此连接的条带（22）的构件盖。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

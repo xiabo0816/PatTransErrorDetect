@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102014000265854JP00020161246550AFULJA20160711JP00G.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016124655" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016124655</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016124655</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102014000265854</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014265854</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>65</business:MainClass>
+        <business:Subclass>H</business:Subclass>
+        <business:MainGroup>31</business:MainGroup>
+        <business:Subgroup>36</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B65H  31/36        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>65</business:MainClass>
+        <business:Subclass>H</business:Subclass>
+        <business:MainGroup>31</business:MainGroup>
+        <business:Subgroup>26</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B65H  31/26        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">B65H31/36</business:FI>
+      <business:FI type="secondary">B65H31/26</business:FI>
+      <business:FClass>
+        <business:FTerm>3F054AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F054AC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F054BA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F054BB13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F054BH07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F054BH13</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F054BH25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F054CA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>3F054</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">片材装载装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ニスカ株式会社</base:Name>
+            <base:RegisteredNumber>000231589</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>山梨県南巨摩郡富士川町小林430番地1</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>杉山  明</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>山梨県南巨摩郡富士川町小林430番地1  ニスカ株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>4</business:ClaimsCount>
+      <base:TotalPageCount>12</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>本发明的一个目的是提供一种片材收集装置,其能够提高收集在收集托盘上的片材的对准性,并且防止片材的折断和损坏。 设置有移动机构,该移动机构使限制片材的端部的限制部件移动到限制在堆积托盘上堆积的片材的端部的第一位置和从堆积在堆积托盘上的片材的端部离开规定距离的第二位置,移动移动机构在片材被排出到堆积托盘后使限制部件从第一位置移动到第二位置,然后使限制部件从第二位置再次移动到第一位置,从而对齐片材的端部。 图8</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="97" wi="69" file="2016124655_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本发明涉及一种堆叠由复印机或打印机等图像形成装置形成有图像的片材的片材集聚装置。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">以往,已知有用于将由图像形成装置进行了打印等图像形成的片材大量地排列、堆叠的片材堆叠装置（例如,专利文献1）。</base:Paragraphs>
+      <base:Paragraphs num="0003">该片材集聚装置由片材输送部和片材集聚部构成,该片材输送部输送从图像形成装置主体排出的片材,片材集聚部集聚由输送部输送的片材。</base:Paragraphs>
+      <base:Paragraphs num="0004">片材输送部具备接收从图像形成装置排出的片材的搬入口、配置于搬入口的搬入辊对、以及配置于搬入辊对的下游的搬出辊对。 然后,利用搬入辊对输送从搬入口接收到的片材,利用搬出辊对将来自搬入辊对的片材排出到片材收集部。</base:Paragraphs>
+      <base:Paragraphs num="0005">片材堆积部包括：堆积片材的堆积托盘、把持来自排出辊对的片材的前端并在堆积托盘的上方移动的夹持器、以及在由夹持器把持的状态下在堆积托盘的上方输送的片材的前端所抵接的止动件。 然后,由排出辊对排出的片材的前端被夹持器夹持而在堆积托盘的上方移动。 在由夹持器夹持的状态下移动的片材最终与止动件抵接。 当片材的前端与止动件抵接时,夹持器继续移动,但片材的移动被止动件限制,因此片材从夹持器脱离,把持状态被解除。 把持状态被解除的片材成为自由状态,落到堆积托盘上而被堆积。</base:Paragraphs>
+      <base:Paragraphs num="0006">在此,作为片材堆叠部的堆积托盘成为能够通过驱动装置上下移动的结构,被驱动控制为所堆叠的片材的最上表面的高度恒定。 另外,夹持器安装于沿片材排出方向旋转的环形带,通过夹持器一张一张地把持由排出辊对排出的片材的前端部,在把持的状态下使环形带旋转,从而片材移动。</base:Paragraphs>
+      <base:Paragraphs num="0007">另外,近年来,片材的输送速度的高速化变得显著。 而且,为了应对高速化的装置,也有构成为在止动件位置的上游侧解除夹持器的把持状态而使片材与止动件抵接,从而将片材堆积于堆积托盘的结构。 在该装置中,解除夹持器的把持状态而利用惯性与止动件抵接,因此与止动件抵接时的速度被减速,能够减少片材的前端的损伤,防止片材的损伤（例如,专利文献2）。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0008">           <business:ApplicationCitation num="0001">
+            <base:Text>特開2006－124052号公報</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特開2010－168218号公報</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0009">在上述现有的片材集聚装置中,通过与止动件抵接来进行片材前端的对准。 然而,在以往的片材集聚装置中,使片材与止动件抵接后落下而集聚在集聚托盘上。 此时,片材不一定沿着止动件的限制面（抵接面）落下,因此无法充分地获得装载托盘上的片材的整齐性。</base:Paragraphs>
+        <base:Paragraphs num="0010">特别是,在刚性弱的片材中,片材弯曲而聚集,在弯曲的片材上依次聚集下一片材,因此产生片材的弯折等。 具体而言,在由夹具把持的状态下使片材的前端与止动件抵接的装置中,在夹具把持片材的前端的状态下片材的后端开始落下。 因此,片材以后端向下方倾斜的状态落下。 由此,片材的前端侧向上方或下方弯曲而集聚。 另外,在解除了夹持器的把持的状态下使片材的前端与止动件抵接的装置中,在片材与前端止动件抵接时,片材前端朝向装载托盘向下方弯曲。 而且,片材前端以弯曲的状态落下到装载托盘上,因此片材前端以向下方弯曲的状态集聚。</base:Paragraphs>
+        <base:Paragraphs num="0011">本发明是鉴于上述问题点而完成的,其目的在于提供一种能够提高堆积在堆积托盘上的片材的整齐性并且防止片材的折断或损伤的片材堆积装置。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0012">本发明为了实现上述目的,设置有限制片材的端部的限制单元和使该限制单元移动到限制在堆积托盘上堆积的片材的端部的第一位置和从堆积在堆积托盘上的片材的端部离开规定距离的第二位置的移动单元,移动移动单元在片材被排出到堆积托盘后使限制部件从第一位置移动到第二位置,然后使限制部件从第二位置再次移动到第一位置。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0013">通过使对集聚在集聚托盘上的片材的端部进行限制的限制单元从限制片材的端部的第一位置移动到从端部退避的第二位置,能够消除弯曲而集聚的片材的弯曲。 此外,通过从第2位置移动到第1位置,对片的端部进行匹配,能够提高集聚片的整齐性。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0014">
+        <base:FigureReference num="0001">图0001是表示具备本发明的片材集聚装置的图像形成系统的整体结构的图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示本发明中的片材集聚装置的集聚部的剖视图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是表示本发明中的片材集聚装置的集聚部的俯视图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是表示本发明中的片材集聚装置的控制系统的结构的框图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是表示使本发明的片材集聚装置的装饰部件50向与片材尺寸对应的限制位置移动的动作的动作流程图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是表示本发明的片材集聚装置的片材按压动作和片材对准动作的动作流程图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是表示本发明中的片材集聚装置的片材排出机构的送出动作的示意图。</base:FigureReference>
+        <base:FigureReference num="0008">图0008是表示本发明中的片材集聚装置的片材按压动作和片材对准动作的示意图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0015">以下,参照附图对本发明所涉及的片材集聚装置的实施方式进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0016">图1是表示具备片材集聚装置的图像形成系统的整体结构的图。 如该图所示,图像形成系统由在片材上印刷图像的图像形成装置1、读取原稿的原稿读取装置2、将片材输送到原稿读取装置2的读取部的原稿输送装置3、向图像形成装置1供给片材的片材供纸装置4、以及与图像形成装置1的排纸口连结并堆积从图像形成装置1排出的片材的片材堆积装置5构成。</base:Paragraphs>
+      <base:Paragraphs num="0017">图像形成装置1具备能够收纳100张左右的片材的2个供纸盒6a、6b。 然后,从两个供纸盒6a、6b和片材供纸装置4中的任一个取出片材,在取出的片材上印刷从原稿读取装置2传送的图像数据,并通过排纸辊对10排出到片材堆积装置5。</base:Paragraphs>
+      <base:Paragraphs num="0018">图像形成装置1进行静电印刷,具备在感光鼓11上形成静电潜像的射束投光器12、在静电潜像上附着调色剂油墨的显影器13、以及转印充电器14。 而且,构成为利用转印充电器14将形成于感光鼓51的图像油墨转印到片材上,利用配置于其下游侧的定影辊15将片材上的图像加热定影,并向片材集聚装置5输送。</base:Paragraphs>
+      <base:Paragraphs num="0019">片材供纸装置4具备能够收纳比供纸盒6a、6b多的3000张片材的收纳部4a,按照来自图像形成装置1的供纸指令将片材一张一张地供给到图像形成装置1。</base:Paragraphs>
+      <base:Paragraphs num="0020">原稿读取装置2在装置的上部沿水平方向并排设置有由透明的玻璃形成的第一台板16和第二台板17。 第一台板16用于读取通过手放置而放置的原稿,形成为能够使用的原稿的最大尺寸尺寸。 而且,第二台板17用于读取以规定速度移动的原稿。</base:Paragraphs>
+      <base:Paragraphs num="0021">在图像读取装置2的内部具备第一、第二读取托架18、19、以及具有聚光透镜20和光电转换元件21(CCD)的光电转换单元。 第一、第二读取托架18、19由未图示的托架马达驱动,在第一台板16的下方沿副扫描方向（水平方向）往复移动。 在第一读取托架18上设置有向原稿照射光的灯和反射从原稿反射的光的反射镜,在第二读取托架19上设置有将来自第一读取托架18的反射镜的光引导至聚光透镜20和光电转换元件21的两个反射镜。 然后,第一读取托架18和第二读取托架19移动以用光照射设置在第一台板16上的原稿,并通过光电转换元件21对从原稿反射的光进行光电转换以读取原稿。 然后,由光电转换元件21读取的原稿的图像数据以图像信号的形式被发送到图像形成装置1的光束投光器12。</base:Paragraphs>
+      <base:Paragraphs num="0022">原稿输送装置3利用片材输送机构24使设置在供纸托盘22上的原稿通过第二台板17,并向排纸托盘23排出。 在原稿馈送装置3读取经过第二台板17的原稿的情况下,第一读取托架18和第二读取托架19在第二台板17下方静止,并且读取移动的原稿。</base:Paragraphs>
+      <base:Paragraphs num="0023">片材集聚装置5集聚由图像形成装置1印刷并排出的片材。 而且,片材集聚装置5由第一集聚部28（集聚单元）和第二集聚部29构成,该第一集聚部28集聚大容量的例如最大3千张片材,该第二集聚部29集聚少数张的例如最大100张左右的片材,能够由操作者从外部直接取出片材。</base:Paragraphs>
+      <base:Paragraphs num="0024">片材堆积装置5具备接收来自图像形成装置1的排出辊对10的片材的入口辊对32。 然后,从入口辊对32送出的片材通过切换挡板25被引导至第一集聚部28和第二集聚部29中的任一方。</base:Paragraphs>
+      <base:Paragraphs num="0025">图2是从侧方观察第一集聚部28的剖视图,图3是从上方观察第一集聚部28的薄片体排出机构的剖视图。 第一集聚部28（以后,简称为集聚部。 以及升降板31,其支撑升降托盘30并通过在上下方向上移动而使堆积托盘30升降。 虽未图示,但升降板31与形成于装置的壁面的滑动槽嵌合而上下移动。 另外,成为如下结构：所安装的线通过与升降马达M3连结的卷取部件的正转而被卷取,从而向上方移动,通过卷取部件的反转而线松弛,从而因自重而向下方移动。</base:Paragraphs>
+      <base:Paragraphs num="0026">入口辊对32由排出马达M2驱动,以将片材朝向片材排出机构送出。 片材排出机构由整合单元构成,该整合单元具备配置在堆积托盘的上方的排出带33、安装在排出带33上的夹持部件36、以及限制送出的片材的前端的止动部件50。</base:Paragraphs>
+      <base:Paragraphs num="0027">排出带33架设于两个旋转体34、35,一个旋转体34由带马达M1驱动。 如图3所示,排出带33在与片材的输送方向正交的方向上排列配置有三个,在各排出带33的外周面设置有彼此等间隔地配置且向左右相反的方向移动的两个夹持部件36。</base:Paragraphs>
+      <base:Paragraphs num="0028">该夹持部件36把持片材的前端并向排出方向送出。 另外,夹持部件36构成为一端固定于排出带33,另一端以一端侧为支点摆动自如。 此外,在夹持部件36的一端侧的支点设置有扭转弹簧,夹持部件36的另一端侧始终被该扭转弹簧（未图示）向排出带33的外周面施力。 而且,当从入口辊对32送出的片材的前端从夹持部件36的另一端侧进入时,通过片材的前端,夹持部件36的另一端侧克服扭转弹簧的作用力而向远离排出带33的外周面的方向移动,在与排出带33之间夹持并把持片材的前端。</base:Paragraphs>
+      <base:Paragraphs num="0029">在环状的排出带33的内周的内侧配设有匹配单元40。 在整合单元40具备平板状的支承部件41,在该支承部件41安装有用于将片材集聚于规定的集聚位置的止动部件50和对集聚的片材的上表面进行按压的按压部件60。 而且,如后所述,止动部件50向与片材尺寸对应的位置移动而限制被排出的片材的前端。 另外,构成为在片材被排出后从集聚片的端部离开一次后返回,由此进行片材的整合。</base:Paragraphs>
+      <base:Paragraphs num="0030">平板状的支承部件41在其底部的座椅宽度方向的两端部形成有凸部41a。 支承部件41的凸部41a沿着片材的送出方向形成,与架设于装架于装置的侧板的两根撑条38的两根轨道部件39的槽部39a嵌合。 换句话说,通过将支撑构件41的突出部41a装配到轨道构件39的凹槽39a中,轨道构件39可移动地支撑支撑构件41。</base:Paragraphs>
+      <base:Paragraphs num="0031">接着,对止动部件50及按压部件60的结构进行说明。 止动部件50由一端支承于固定轴51且另一端向片材的输送方向延伸的臂部50b、和被输送的片材的前端部抵接的抵接部50a构成。 固定轴51由固定安装于支承部件41的上表面的轴承52支承。 即,限位部件50经由固定轴51固定安装于支承部件。</base:Paragraphs>
+      <base:Paragraphs num="0032">按压构件60由按压片材的上表面的按压部60a和沿片材的移送方向延伸的臂部60b、60c构成。 按压部60a形成为细长的棒状,臂部60b、60c分别形成于按压部60a的两端部。 两个臂部60b、60a固定安装于转动轴61,旋转轴61转动自如地支承于轴承62,该轴承62固定安装于支承部件41的上表面。 转动轴61通过第一螺线管SOL1向正反方向旋转,使按压构件60向按压片材的按压位置和从片材上表面退避的退避位置转动。</base:Paragraphs>
+      <base:Paragraphs num="0033">对转动按压构件60的转动轴61进行驱动的第1螺线管SOL1安装于支承构件41的上表面,第1螺线管SOL1的柱塞通过连结销与转动轴61的突片65连结。 拉伸弹簧64架设在形成于转动轴61的安装片66与固定设置于支承部件41的上表面的突出片69之间,向与第1螺线管SOL1的柱塞的吸引方向相反的方向施力。</base:Paragraphs>
+      <base:Paragraphs num="0034">通过这样的结构,当使第一螺线管SOL1工作而将柱塞向壳体内吸引时,按压构件60克服拉伸弹簧64的拉伸力而向图中顺时针方向转动,向退避位置移动。 另一方面,当使第一螺线管SOL1的工作停止时,按压构件60在拉伸弹簧64的拉伸力的作用下向图中逆时针方向转动,移动到与片材的上表面接触的按压位置。</base:Paragraphs>
+      <base:Paragraphs num="0035">接着,对用于使止动部件50移动的移动机构进行说明。 移动机构由架设于两根撑条38的两根导轨、分别设置于各撑条38的带轮70、架设于带轮间且安装有支承部件41的环状的移动带71、作为使移动带旋转的驱动源的移动马达M4、以及将移动马达M4的驱动向移动带71传递的带轮72、73、同步带74等驱动传递单元构成。 另外,支承部件41与移动带71的连结方法是将从移动带71延伸设置的连结部41b固定连结于移动带71。</base:Paragraphs>
+      <base:Paragraphs num="0036">通过这样的结构,当移动马达M4正转或反转驱动时,经由驱动传递单元传递到带轮70,移动带71通过带轮70的旋转而旋转。 伴随着该移动带71的旋转,支承部件41、即匹配单元40沿着导轨部件39的槽部39a移动。</base:Paragraphs>
+      <base:Paragraphs num="0037">另外,图3所示的符号支承部件41与移动带71的连结方法是将从移动带71延伸设置的连结部41b固定连结于移动带71。</base:Paragraphs>
+      <base:Paragraphs num="0038">接着,使用图4的框图对片材集聚装置5的控制系统的结构进行说明。 控制部100是包括CPU、ROM、RAM等的单片机。 控制部100接收包含来自图像形成装置1的片材尺寸信息的各种信息、动作指令等。 而且,CPU基于各种信息、动作指令执行存储于ROM的程序,由此控制片材集聚装置5的各部而进行片材的送出以及集聚。 另外,还进行后述的限制位置切换动作、片材推压动作、片材整合动作。</base:Paragraphs>
+      <base:Paragraphs num="0039">在构成控制单元的控制基板101上安装有作为控制部100的单片机、带马达驱动电路102、排出马达驱动电路103、升降马达驱动电路104、移动马达电路105以及第一螺线管驱动电路106、第二螺线管驱动电路107。 在此,带马达驱动电路102对作为排出带33的驱动源的带马达M1进行驱动。 排出马达驱动电路103驱动作为入口辊对32的驱动源的排出马达M2。 升降马达驱动电路104驱动作为使升降板31升降的驱动源的升降马达M3。 第1螺线管驱动电路106控制用于使按压构件60移动的第1螺线管SOL1的通电。 第二螺线管驱动电路107控制第二螺线管SOL2的通电,该第二螺线管SOL2将切换挡板25切换到将片材向第一、第二集聚部28、29中的任一者引导的位置。</base:Paragraphs>
+      <base:Paragraphs num="0040">图5是表示使止动部件50移动到与片材尺寸对应的限制位置的动作的动作流程图,图6是表示通过按压部件60按压堆积托盘30上的片材的片材按压动作和通过止动部件50整合片材的片材整合动作的动作的流程图。 另外,图7是表示片材排出机构的送出动作的示意图,图8是表示片材推压动作和片材整合动作的示意图。</base:Paragraphs>
+      <base:Paragraphs num="0041">本实施方式所示的片材集聚装置5能够集聚多个尺寸的片材,基于按每个任务从图像形成装置1发送的片材尺寸信息切换止动部件50的位置来变更片材的前端限制位置。 基于图5的动作流程图及图7的模式图,对使止动部件50移动至与片材尺寸相应的限制位置的限制位置切换动作进行说明。 首先,确认初始位置传感器45的状态（ST1）,如果初始位置传感器45不是断开,则设为匹配单元40以及限位部件50不处于初始位置,对移动马达M4进行正转驱动（ST2）。 然后,如果初始位置传感器45成为断开(OFF),则使移动马达M4停止（ST3～ST4）。 由此,匹配单元40以及止动部件50成为移动到起始位置的状态。 然后,在匹配单元40和止动部件50位于起始位置的状态下,从图像形成装置1取得与片材尺寸相关的信息（ST5）。 接着,根据所取得的尺寸信息来设定止动部件50的移动量,对移动马达M4进行反转驱动（ST6～ST7）。 由此,止动部件50向与片材的送出方向相反的方向移动。 然后,如果止动部件50移动了所设定的移动量,则使移动马达M4停止（ST8～ST9）。 由此,止动部件50限制移动到适合片材尺寸的位置。</base:Paragraphs>
+      <base:Paragraphs num="0042">此外,上述的限位部件50的移动量是按每个尺寸确定的移动马达M4的驱动脉冲数。 即,将与从起始位置至按每个尺寸确定的限制位置的距离相当的移动马达M4的驱动脉冲数设定为限位部件50的移动量,如果移动马达M4的驱动脉冲达到设定的脉冲数,则使移动马达M4停止。</base:Paragraphs>
+      <base:Paragraphs num="0043">接着,对片材排出机构的送出动作和止动部件50的片材整合动作进行说明。 首先,在使夹持部件36停止在面向排出口27的位置的状态下,通过入口辊对32使片材进入夹持部件36与排出带33之间。 由此,夹持器部件36把持片材。 当夹持部件36把持片材时,驱动带马达M1,使排出带33旋转。 由此,如图7(a)所示,夹持部件36及片材移动。 此外,如上所述,夹持部件36的把持力是在由入口辊对32输送的片材的前端可动的程度的力,与入口辊对32的夹持力相比设定得非常小。</base:Paragraphs>
+      <base:Paragraphs num="0044">当夹持构件36到达预定位置时,控制带马达M1以加速排出带33的速度。 由此,抓手部件36的移动速度比入口辊对32的输送速度快,如图7(b)所示,抓手部件36从片材的前端脱离。 而且,如图7(c)所示,夹持部件36的把持状态被解除的片材的前端因惯性而与止动部件50抵接。</base:Paragraphs>
+      <base:Paragraphs num="0045">与止动部件50抵接的片材因自重而落下并堆积在堆积托盘30上。 然后,执行由止动部件50进行的片材对准动作。</base:Paragraphs>
+      <base:Paragraphs num="0046">基于图6的动作流程图和图8的示意图对用于按压堆积托盘30上的片材的上表面的片材按压动作和用于片材匹配的片材匹配动作进行说明,首先,入口传感器26关闭,即从入口传感器26检测到片材的前端的时刻起经过了规定时间t1后,停止向第一螺线管SOL1的通电,停止第一螺线管SOL1的通电而切断励磁（ST11～ST13）。 由此,按压部件60通过拉伸弹簧64的作用力向下方转动,按压堆积在堆积托盘30上的片材的比中央靠前端侧的部分。 通过该动作,在如图8(a)所示片材的前端侧以向上方挠曲的状态集聚的情况下,按压构件60按压片材的挠曲的部分,如图8(b)所示以消除挠曲的方式发挥作用。 另外,上述的规定时间t1是从入口传感器26检测到片材的前端起片材堆积在堆积托盘30上所需的时间。 在本实施方式中,将从入口传感器26检测到片材的前端到带马达M1驱动为止的预先确定的时间、计算出从带马达M1的驱动开始到夹持部件36通过带马达M1而通过止动部件50为止的时间的时间、以及测量出片材由于自重而落到堆积托盘30上为止的时间的时间相加的时间设定为规定时间t1。 另外,在本实施方式中,拉伸弹簧64采用弹性力非常小的拉伸弹簧,按压构件60构成为以大致自重按压片材的上表面。</base:Paragraphs>
+      <base:Paragraphs num="0047">停止对第1螺线管SOL1的通电,以按压构件60按压片材的上表面的方式工作后,将移动马达M4正转驱动预先设定的离开移动量（ST14～ST17）。 由此,止动部件50从限制位置（第一位置）向片材的排出方向、即从集聚片的端部离开的方向移动,在离开位置（第二位置）停止。 此时,由于片材的前端的限制被解除,因此片材通过其硬度和按压构件60的按压作用而完全消除片材的挠曲。</base:Paragraphs>
+      <base:Paragraphs num="0048">然后,再次进行向第1螺线管SOL1的通电（ST18）。 由此,按压构件60从片材的上表面离开而向退避位置移动。 与此同时,使移动马达M4反转驱动离开移动量的量（ST19～ST21）。 由此,止动部件50一边使片材移动一边向限制位置移动并停止。 通过该止动部件50的移动,如图8(c)所示,止动部件50的抵接部50a与片材的前端抵接而使片材移动,将片材的前端可靠地对准限制位置。</base:Paragraphs>
+      <base:Paragraphs num="0049">此外,上述的离开驱动量是相当于从限制位置到离开位置的距离的移动马达M4的驱动脉冲数,在本实施方式中,将从限制位置到离开位置的距离设定为20mm。 因此,在本实施方式中,预先计算使限位部件50移动20mm的驱动脉冲数并存储于ROM等存储介质,设定为分离移动量。</base:Paragraphs>
+      <base:Paragraphs num="0050">在本实施方式中,对排出带33的速度进行加速而解除夹持部件50的把持状态,以利用惯性使片材与止动部件50抵接的方式进行控制,但也可以不对排出带33的速度进行加速,而以在由夹持部件36把持的状态下与止动部件50抵接的方式进行控制。 在该情况下,片材与止动部件50抵接而停止,从夹持部件63的把持状态被解除,并被堆积在堆积托盘上。</base:Paragraphs>
+      <base:Paragraphs num="0051">在上述的实施方式中,对排出带33的速度进行加速而解除夹持部件50的把持状态,以利用惯性使片材与止动部件50抵接的方式进行控制,但也可以不对排出带33的速度进行加速,而以在由夹持部件36把持的状态下与止动部件50抵接的方式进行控制。 在该情况下,片材与止动部件50抵接而停止,从夹持部件63的把持状态被解除,并被堆积在堆积托盘上。</base:Paragraphs>
+      <base:Paragraphs num="0052">另外,在实施方式中,使限制片材的前端的限制部件（止动部件50）进行片材整合动作,从而对片材的前端进行整合,但也可以使限制与片材的排出方向正交的宽度方向的端部的部件或限制片材的后端的部件进行片材整合动作,从而对宽度方向的端部或片材的后端进行整合。</base:Paragraphs>
+      <base:Paragraphs num="0053">例如,将限制托盘上的片材的宽度方向的一端的端部限制板构成为能够移动到限制片材的端部的限制位置和从片材的一端部分离的分离位置,在将片材排出到托盘上之后,使端部限制板从限制位置移动到分离位置,再次移动到限制位置,由此能够得到与上述的实施方式同样地消除挠曲的片材的挠曲并进行整合,能够提高片材的整齐性的作用、效果。 另外,关于后端的对齐,通过使后端限制板从限制片材的后端的限制位置移动到与片材的后端分离的分离位置并再次移动到限制位置,能够消除挠曲的片材的挠曲而进行对齐,能够提高片材的对齐性。</base:Paragraphs>
+      <base:Paragraphs num="0054">并且,在上述的实施方式中,说明了适用于最多能够堆积3000张的堆积部的一例,但本发明不限于此,当然也可以适用于最大的堆叠张数为20张左右的堆积部、用于对堆积的纸张实施后处理的堆积部（处理托盘）、对读取的纸张进行堆积的堆积部（排纸托盘）等各种堆积部（堆积装置）。</base:Paragraphs>
+      <base:Paragraphs num="0055">根据本实施方式,在将片材堆积在堆积托盘30上之后,通过进行使止动部件50从限制位置移动到分离位置,并从分离位置再次返回到限制位置的片材整合动作,能够消除堆积的片材的挠曲,并且整合片材,提高堆积托盘30上的片材的整齐性。</base:Paragraphs>
+      <base:Paragraphs num="0056">此外,根据本实施方式,由于在止动部件50的片材整合动作的同时用按压部件60按压堆积托盘30片材的上表面,因此容易消除挠曲而堆积的片材的挠曲。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0057">1-图像形成装置,2-原稿读取装置,3-原稿送给装置,4-纸张供纸装置,5-纸张堆积装置,28-第一堆积部（堆积单元）。 
+29第二堆积部,30堆积托盘,31升降板,32入口辊对,33排出带,34旋转体,35旋转体,36抓取部件,40匹配单元,50止动部件,50a-抵接部,60按压部件,60a-按压部,M1带马达。 </base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="99" wi="70" file="2016124655_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="98" wi="70" file="2016124655_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="99" wi="70" file="2016124655_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="99" wi="70" file="2016124655_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="99" wi="70" file="2016124655_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="99" wi="70" file="2016124655_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="99" wi="70" file="2016124655_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="99" wi="70" file="2016124655_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>一种片材集聚装置,其包括集聚片材的集聚托盘、将片材排出到所述集聚托盘上的片材排出单元、以及限制由所述片材排出单元排出的片材端部的限制部件,所述片材集聚装置的特征在于,设置移动单元,所述移动单元使所述限制单元移动到第一位置和第二位置,所述第一位置限制集聚在所述集聚托盘上的片材的端部,所述第二位置与集聚在所述集聚托盘上的片材相距规定距离,所述移动单元在片材被排出到所述集聚托盘后,使所述限制单元从所述第一位置移动到所述第二位置,然后使所述限制单元从该第二位置再次移动到所述第一位置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>堆积托盘,其堆积片材； 以及控制单元,其控制所述第一移动单元,以执行从所述第一位置移动到第二位置的整合动作,所述第一位置是限制片材的前端的位置,所述第二位置是从该第一位置向片材排出方向离开的位置,所述控制单元控制所述第一移动单元,以执行从所述第一位置移动到第二位置后,再次移动到该第一位置的整合动作,所述控制单元在片材排出单元使片材的前端与位于所述第一位置的所述限制单元抵接后,控制所述第一移动单元执行整合动作。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求2所述的片材集聚装置,其特征在于,具备取得片材的纸种信息的纸种信息单元,所述控制单元根据所述纸种信息单元的纸种,控制所述移动单元来执行整合动作。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1或2所述的片材集聚装置,其特征在于,具备按压构件和第二移动单元,所述按压构件对集聚在所述集聚托盘上的片材的最上面进行按压,所述第二移动单元使该按压构件移动到按压片材的最上面的按压位置和远离片材的最上面的退避位置,所述控制单元控制所述第二移动单元,以执行使所述按压构件从所述退避位置移动到所述按压位置后再次移动到所述退避位置的按压动作,并且控制所述第二移动单元,以在通过所述第二移动单元使所述限制构件移动到所述第二位置后执行所述按压动作。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

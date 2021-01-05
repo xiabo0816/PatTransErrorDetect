@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000516656JP00020165199540AFULJA20160711JP00#.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519954" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519954</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519954</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000516656</base:DocNumber>
+        <base:Date>20140424</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016516656</base:DocNumber>
+        <base:Date>20140424</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102013130904889</base:DocNumber>
+        <base:Date>20130529</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>13/904,889</base:DocNumber>
+        <base:Date>20130529</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20160101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>23</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>19</business:MainGroup>
+        <business:Subgroup>18</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A23L  19/18        20160101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A23L19/18</business:FI>
+      <business:FClass>
+        <business:FTerm>4B016LC07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B016LE01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B016LG06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B016LP03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B016LP07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B016LT01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B016</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">ポテトチップス</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>フリト－レイ  ノース  アメリカ  インコーポレイテッド</base:Name>
+            <base:RegisteredNumber>500208519</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ７５０２４－４０９９  テキサス州  プラノ  レガシー  ドライブ  ７７０１</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <base:AddressBook lang="en">
+            <base:Name>ＦＲＩＴＯ－ＬＡＹ  ＮＯＲＴＨ  ＡＭＥＲＩＣＡ，ＩＮＣ．</base:Name>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>バーバー、キース  アラン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ７５０３４  テキサス州  フリスコ  クレストビュー  ドライブ  ８８１０</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>フレンチ、ジャスティン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ７５０３４  テキサス州  フリスコ  シェル  リッジ  ドライブ  ９８９８</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ガンジャル、ギリシュ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ９９１６３  ワシントン州  プルマン  エスダブリュ  センター  ストリート  １２８５  コテージ  アール</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>コー、クリストファー  ジェームズ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ７６０９２  テキサス州  サウスレイク  イースト  チャペル  ダウンズ  ドライブ  ２０３</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>サリバン、スコット  エル．</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ７５０３４  テキサス州  フリスコ  ショーション  ドライブ  ５３１７</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>恩田  誠</base:Name>
+            <base:RegisteredNumber>100105957</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>恩田  博宣</base:Name>
+            <base:RegisteredNumber>100068755</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>本田  淳</base:Name>
+            <base:RegisteredNumber>100142907</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2014035275</base:DocNumber>
+        <base:Date>20140424</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2014193568</base:DocNumber>
+        <base:Date>20141204</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>13</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>内部よりも外表面付近により多くの油分を含み、且つ固有のＲＶＡプロファイルを有するポテトチップスを開示している。本発明のポテトチップスの官能特性は、既知及び市販のポテトチップスに引けを取らない。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="24" wi="69" file="2016519954_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、フライドポテトチップスの製造のための改良された方法及びシステムに関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  従来のポテトチップス製品は、皮を剥いた生のじゃがいもをスライスし、表面の澱粉を除去するためにスライスを水洗浄し、水分含有量が約１質量％～２質量％になるまで熱油でポテトスライスを揚げるという基本的な工程によって調理される。その後、フライドスライスには塩が加えられ、あるいは味付けされて包装される。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  生のポテトスライスは通常、じゃがいもの種類や環境成長条件に応じて７５質量％～８５質量％の水分を含んでいる。ポテトスライスを熱油で揚げると、この水分が沸騰する。その結果、細胞壁の破壊を引き起こし、ポテトスライスに有意な量の油分を吸収させ得る穴及び空間を生じさせる。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  ポテトチップスに含まれる油分は、多くの理由で重要である。最も重要なのは、ポテトチップスの望まれる官能特性全体に対する貢献である。油含有量が多過ぎるとチップスは油っこくなり、従って消費者に好ましいものでなくなる。一方、チップスの油の量を少なくすることも可能であるが、味気がなくなり、食感が悪くなる。また、いくつかの栄養ガイドラインでは、油や脂肪の少ない食事を維持することが望ましいと示されている。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0005">
+  先行技術において、ポテトチップスの油含有量を制御するために多くの試みがなされてきた。しかしながら、これまでの試みは望ましい脱油滞留時間よりも長い時間を要する高価な利用技術となってしまうか、従来のポテトチップスの消費者に親しまれている風味や食感等の望まれる官能特性を維持することができなかった。
+</base:Paragraphs>
+        <base:Paragraphs num="0006">
+  従って、専門家がフライドポテトチップスの油含有量を制御し、且つ従来のポテトチップスと同様の望まれる官能特性を維持する新規な最終製品の製造を可能にする工程が必要とされている。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0007">
+  提案された発明は、フライドポテトチップスを製造するための方法及びシステムを提供する。一実施形態において、洗浄されたポテトスライスは第一温度で熱油に浸漬されることによってパーフライングされ、その後、より高温である第二温度で熱油に接触させることによって揚げ終えられる。好ましい実施形態においては、最終フライ工程は第二浸漬フライ工程により達成される。
+</base:Paragraphs>
+        <base:Paragraphs num="0008">
+  本発明に従って製造されたフライドポテトチップスは従来のフライドポテトチップスよりも油含有量が少ないが、従来のフライドポテトチップスの望まれる見た目、風味、及び食感の品質を維持している。
+</base:Paragraphs>
+        <base:Paragraphs num="0009">
+  添付の図面と併せて考慮することによって、本発明についての以下の詳細な説明から本願の他の態様、実施形態、及び特徴が明らかとなるであろう。添付の図面は概略であり、一定の縮尺で描かれることは意図していない。図面において、様々な図面に示される同一の、又は実質的に類似の構成要素の各々は、単一の数字又は記号で表されている。明確性のため、必ずしも全ての構成要素が全ての図面において符号付けされている訳ではない。本発明の各実施形態の全ての構成要素について、当業者が本発明を理解する際に必要でない場合は図示されない。本明細書に参考として組み込まれた全ての特許出願及び特許は、その全体が参考として援用される。矛盾が生じる場合には、定義を含めて、本明細書が優先する。
+</base:Paragraphs>
+        <base:Paragraphs num="0010">
+  本発明に特有であると考えられる新規な特徴が、添付の特許請求の範囲に記載されている。しかしながら本発明自体は、好ましい使用モード、さらにはその目的及び利点と同様に、例示的な実施形態についての以下の詳細な説明を添付の図面と併せて参照することによって、最もよく理解することができる。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0011">
+        <base:FigureReference num="0001">本発明のポテトチップスを製造するために用いられる方法及びシステムの一実施形態の概略図である。</base:FigureReference>
+        <base:FigureReference num="0002">本発明のポテトチップスを製造するために用いられる方法及びシステムの別の実施形態の概略図である。</base:FigureReference>
+        <base:FigureReference num="0003">本発明のポテトチップスを製造するために用いられる方法及びシステムの別の実施形態の概略図である。</base:FigureReference>
+        <base:FigureReference num="0004">様々なポテトチップスのサンプルのＲＶＡプロファイルを示すグラフである。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0012">
+  本発明の目的は、フライドポテトチップスを製造するための方法及びシステムにある。本発明のポテトチップスは一実施形態において、既知及び市販のポテトチップスよりも油含有量が少ない。一般に、ポテトスライスを熱油で揚げると、水分が蒸気として食品から蒸発し、スライスはそれ自体がその中で揚げられている油の一部を吸収する。以下に説明する実施形態は、特定の範囲の厚さを有し、且つ揚げる前に洗浄されたフライドポテトスライスを対象とする。このようなフライドポテトスライスは当該技術分野において「ポテトチップス」と呼ばれ、より厚く、洗浄されていないポテトスライスであって当該技術分野において「ケトルチップス」又は釜揚げチップスと呼ばれる揚げられたポテトスライスから区別することができる。本発明は一実施形態において、完成したポテトスライスの油含有量全体を低減するが、完全に除去することはないように設計される。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  図１は、本発明のポテトチップスを製造するために用いることのできる好適なシステムを示す。ホッパー２に貯蔵された全てのじゃがいもは、水洗浄機６内にポテトスライスを落とすスライス装置４に分配される。ポテトチップスを製造するため、じゃがいもは狙い値を０．０５３インチ（０．１３５センチメートル）として０．０４０インチ～０．０８０インチ（０．１０２センチメートル～０．２０３センチメートル）の間となるような厚さを有するポテトスライスを製造するようにスライスされる。好ましい実施形態においては、ポテトチップスのためのスライスの厚さの範囲は０．０４０インチ～０．０６３インチ（０．１０２センチメートル～０．１６０センチメートル）である。この範囲を超える厚さのポテトスライスは当該技術分野における「ケトルチップス」や他のより厚いポテト製品に用いられ、当業者はこれらを「ポテトチップス」とは呼ばない。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  好ましい実施形態においては、フライヤーに入れられる揚げ油は約３２０°Ｆ～約３８０°Ｆ（約１６０．０℃～約１９３．３℃）、より好ましくは約３３５°Ｆ～約３７０°Ｆ（約１６８．３℃～約１８７．８℃）の間の初期温度に維持される。本発明の様々な実施形態に従って、消化性油及び非消化性油の少なくとも一方を有するフライ用媒体を含む任意の従来のフライ用媒体を用いることができる。一実施形態においてフライヤーは、フライヤー１０を通したポテトスライス（図示なし）の流れを制御するためのパドルホイール１４Ａ、１４Ｂ及び浸漬コンベアベルト１６のような装置を用いた連続的シングルフロー、又はマルチゾーンフライヤーである。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  本発明の一実施形態において、ポテトスライスは中間水分含有量までパーフライングされた後、好ましくは（時に、取出コンベアと呼ばれる）有孔無端ベルトコンベア１８によってフライヤーから取り除かれる。熱油が揚げ油に追加されない場合、あるいは油がフライ中に加熱されない場合、有孔無端ベルトコンベア１８が揚げ油に接触する位置において、揚げ油は約２９０°Ｆ～約３３０°Ｆ（約１４３．３℃～約１６５．６℃）、より好ましくは約３００°Ｆ～約３２０°Ｆ（約１４８．９℃～約１６０．０℃）の間の最終パーフライング温度となる。最終パーフライング油温という用語は本明細書で用いられる場合、第一浸漬フライ工程の取出手段の位置における油温のことをいう。連続的なフライ工程のため、取出手段には一般に図１に示すような取出コンベア１８が含まれ、バッチ処理のため、取出手段は一般に有孔バスケット又は取出コンベアとなるであろう。何れの場合においても、最終パーフライング油温は取出手段によって油から取り除かれたポテトスライスの位置における油の温度のことをいう。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  一実施形態において、ポテトスライスは約３０質量％～約４５質量％の間の油含有量と、２質量％を超える、あるいは別の実施形態においては３質量％を超える中間水分含有量とを含んだ状態でフライヤーから排出される。一実施形態において中間水分含有量は約１．５質量％～約１５質量％の間であり、別の実施形態においては約３質量％～約１０質量％の間、あるいは上記範囲の組み合わせである。好ましい実施形態においては、パーフライングされたポテトスライスは約２質量％～１０質量％の間、最も好ましくは約３質量％～６質量％の間の中間水分含有量を有している。好ましくは、ポテトスライスの最終水分含有量はポテトスライスの内の約１０質量％未満、より好ましくは約５質量％未満であり、ポテトスライスの中間水分含有量以下である。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  図１に示すように、パーフライングされたスライスはその後、好ましい実施形態においてはそれらを第二浸漬フライ槽２２に移送することによって達成されるような、熱油の最終フライ工程にかけられる。第一浸漬フライ工程と第二浸漬フライ工程との間の移送は、取出コンベア１８と、必要に応じて移送コンベア２０とを用いることによって実現することができる。最も好ましい実施形態においては、移送コンベア２０は取出コンベア１８よりも速い速度で運転し、従って、ポテトチップス層の厚さを薄くし、あるいは移送コンベア上でポテトチップスを実質的に単層化する。第二浸漬槽２２は浸漬ベルト２４を含んでもよく、完成したポテトチップスはフロントリップ３０を越えて流れ、あるいは別の取出コンベア（図示なし）によって取り除くことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  図２は、取出コンベア上に配置された少なくとも一つの熱油カーテンを含む熱油の最終フライ方法及びシステムの別の実施形態を示す。熱油カーテン４６は、取出コンベア１８上のオイルディスペンサ４４から取出コンベア上のポテトスライス及び取出コンベアを通して流れる油のことをいう。好ましくは、熱油カーテン４６は実質的に取出コンベアの幅全体に及ぶ。熱油カーテン４６からの油は浸漬フライに用いられる熱油から分離したそれ自身の容器内であって取出コンベアの下に集めるか、あるいは浸漬フライに用いられる熱油内に流すことができる。熱油カーテンに用いられる油は必要に応じて熱交換器４２を介して、オイル供給源４０から取出コンベア１８上のオイルディスペンサ４４内へ供給される。一実施形態においてオイル供給源４０は新鮮な油又は再生油の供給源であるが、別の実施形態においてオイル供給源４０は浸漬フライヤー１０で用いるのと同じ油である。一実施形態において、熱油カーテンの温度は第一浸漬フライ工程の最終パーフライング油温よりも高い。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  図３に示すさらに別の実施形態において、熱油による浸漬により揚げられた製品は、揚げ油１０に浸漬された熱油カーテンを提供することによって熱油の最終フライ工程にかけることができる。浸漬された熱油カーテンの一例は、図３の網掛け領域５６によって示されている。図３に示す実施形態において、浸漬された熱油カーテン５６は、浸漬装置１６の下を通過する時に製品層５０の上に配置された少なくとも一つの熱油ディスペンサ５４によって提供することができる。好ましい実施形態においては、浸漬された熱油カーテン５６は、それが浸漬装置１６から取出コンベア１８へ移動する時に、製品層５０の下に配置された少なくとも一つのオイルディスペンサ５４によって補充される。オイルディスペンサ５４は熱交換器４２によって加熱された新鮮な油の供給源４０によって給油されることができるが、その全部又は一部について、フライヤーからの再利用された油の供給を受けることもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  本発明の利点を実現するためには熱油の最終フライ時間を短くすることが求められるため、浸漬された熱油カーテンは、浸漬装置１６と取出コンベア１８との間の油についての狭帯域又は狭領域を表すことができる。再循環システム排水路６２がフライヤーの製品出口端近くに配置されているため、熱油はオイルディスペンサ５４の近くのフライヤー内の領域に制限される。再循環システムは油をフライヤーの製品入口端に循環させるため、少なくとも一つのポンプ５８及び熱交換器６０を用いる。これにより、浸漬された熱油カーテン５６を構成する浸漬装置１６及び取出コンベア１８に近接する熱油の明確に定義された領域を維持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  本出願人は、製品温度及び水分含有量が異なることによってポテトスライス内の水分の蒸気圧が変化することを特定した。ポテトチップス内の蒸気圧を１４．７ｐｓｉａ（０．１０１４ＭＰａ）（あるいは、大気圧とほぼ同じ圧力）より高くに維持するため、製品温度は１％～２％の範囲の水分含有量において約２７０°Ｆ～３１０°Ｆ（約１３２．２℃～１５４．４℃）より高くしなければならないことが発見された。従って本出願人は、毛管作用を介した油の吸収に抵抗するポテトチップス内の水蒸気のため、製品温度は少なくともこの高さにしなければならないということを理論化した。実際には、油の吸収を有利にし得る重力及び毛管力に抵抗するため、製品温度はおそらくこれらの温度よりもさらに高くする必要があるであろうし、ポテトチップス内の空間から油を排出するために水蒸気を利用する場合は確実に、より高くする必要があるであろう。また、油と製品との間の熱伝達について商業的に必要とされる高い効率を実現するため、油温は所望の製品温度よりも高くしなければならない。実際には、本出願人は３４０°Ｆ（１７１．１℃）の温度の油が最終フライ工程において用いられる時、一回のフライ工程で最終水分含有量になるまで揚げられた製品と比較して、最終製品において油が全く除去されておらず、全く吸収されてもいないことを発見した。対照的に、２９０°Ｆ（１４３．３℃）の最終フライ油温においては最終製品に吸収される油がより多くなり、３９０°Ｆ（１９８．９℃）の最終フライ油温においては最終製品に吸収される油がより少なくなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  一実施形態において、第二浸漬フライ工程における油温は少なくとも約３５０°Ｆ（約１７６．７℃）であり、好ましい実施形態においては少なくとも約３８５°Ｆ（約１９６．１℃）である。好ましい実施形態においては、第二浸漬フライ工程における油温は３４０°Ｆ（１７１．１℃）よりも高く、４１５°Ｆ（２１２．８℃）よりも低い。別の実施形態においては、第一フライ工程における最終パーフライング油温と、最終フライ工程における初期揚げ終え油温との間の差は少なくとも３０°Ｆ（１６．７℃）である。好ましい実施形態においては、その差は少なくとも５０°Ｆ（２７．８℃）である。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  一実施形態において、ポテトスライスは第一温度の油に浸漬させることによって第一フライ工程にかけられ、続いて第一温度より高い第二温度の熱油で浸漬フライすることによって第二フライ工程にかけられる。ポテトスライスの連続的な浸漬フライのための既知の工程において、初期油温は３５０°Ｆ～３６０°Ｆ（１７６．７℃～１８２．２℃）であり、最終油温は約２５０°Ｆ～３２０°Ｆ（約１２１．１℃～１６０．０℃）であり、滞留時間は約１９０秒である。熱油がシステムに追加されない場合は、食品片が揚げられるにつれて油は冷却される。ポテトスライスは約１．４質量％の水分含有量でこのフライ工程を終了する。本明細書に記載された本発明の工程の一実施形態において、ポテトスライスは同じ連続的フライ機器においてほぼ同じ初期油温で浸漬フライされるが、滞留時間は約８０秒～１８０秒に短縮され、あるいは好ましい実施形態においては、滞留時間は約８０秒～１３０秒に短縮される。その後、上述のように、スライスは好ましくは取出コンベア上に製品層として熱油から取り除かれ、スライスが第二浸漬フライ工程へ移送されることによって最終フライにかけられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  好ましい実施形態においては、第二浸漬フライ工程は短時間且つ高温の浸漬フライ工程である。この実施形態において、第一工程からの取出コンベアは第一浸漬フライ工程に用いられる油温よりも高い温度に維持された第二の油内に、パーフライングされたポテトスライスを移送することができる。これらのフライ工程の間において、複数のコンベア、あるいは異なる移送手段を用いてもよい。ポテトスライスの水分含有量を２質量％未満の最終水分含有量とするため、パーフライングされたポテトスライスのための第二浸漬フライヤーにおける滞留時間は好ましくは約１０秒未満であり、より好ましくは約５秒未満である。最終フライされたポテトスライスは、第二取出コンベア、有孔バスケット、又はフライヤーの端部におけるせきを越えて流れること等の任意の便利な手段によって第二の油から取り除くことができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  本出願人は、本発明の工程は既知のフライ方法と比較していくつかの驚くべき利点があることを発見した。
+  第一に、本発明により製造される揚げ物製品は、既知の浸漬フライ工程が施された食品と比較して油含有量を少なくすることができる。一般に、本明細書に記載された方法は最終的に従来のフライドポテトスライスと同等の、あるいは別の実施形態においては従来のフライドポテトスライスよりも低い最終油含有量となるように油含有量を制御するために用いることができる。一実施形態において、本発明の方法により製造されたポテトスライスは約３０％の油含有量となるが、従来の浸漬フライ工程のみを用いて製造されたポテトスライスは約３５％の油含有量となるであろう。本発明の揚げ物製品はまた、既知のフライ方法により製造された揚げ物製品と同様の風味、色合い、及び食感の特徴を有しており、この結果は驚くべきものであった。本発明が理論により制限されないとしても、本出願人は熱油の最終フライ工程がいくつかの方法によって油含有量を制御すると考えている。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  揚げ油の粘度は一般に、温度の上昇とともに減少する。本出願人は、本発明の最終フライ工程において用いられる油をより高温とすることで、油が取出コンベア上のスライスからより効率的に排出されると考えている。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  熱油はまた、ポテトスライス内に残留する水分のほとんどを蒸気に変化させ、スライスから排出させるような、チップス温度の急激な上昇を引き起こす可能性がある。本出願人は、この蒸気への急激な変化がまた、浸漬フライ中にスライスに吸収された油の一部を排出すると考えている。実際、本出願人は従来の方法に従って揚げられたポテトチップスの内部及び表面上における油の位置を分析し、これを本明細書に記載された本発明の方法に従って揚げられたものと比較し、従来のポテトチップスに対する利点になると考えられている油の位置という点において顕著な違いを発見した。本出願人は、市販されているサンプルや既知の方法に従った実験室条件下の工程で揚げられたサンプルから、本明細書に記載された本発明の方法に従って製造されたサンプルまでの範囲にわたり、ポテトチップスを試験した。本発明のポテトチップスは既知の従来のスライスと比較して、その内部よりも外表面付近により多くの油分を含むことが発見された。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  油の位置分析をするため、本出願人は既知のポテトチップスのサンプル及び本発明のポテトチップスのサンプルにＣＴ（コンピュータ断層撮影）スキャンを実行した。各サンプルについてまずサンプルのソースを選択することにより、ＣＴスキャンの準備を行った。市販されているサンプルには、ＬＡＹ’Ｓ（登録商標）クラシック、ウォーカーズ、ウォーカーズライト、低脂肪タイプのＲＵＦＦＬＥＳ（登録商標）、及びＬＡＹ’Ｓ（登録商標）ライトという商標で販売されているポテトチップスが含まれる。ここで分析された市販の低脂肪タイプのポテトチップスは、従来通りにポテトスライスを揚げ、熱油のフライ工程から取り除かれた後、チップスから油を機械的に（一般には、それらの上に高速の空気又は蒸気をかけることにより）除去することによって製造される。ＬＡＹ’Ｓ（登録商標）クラシックとほぼ同等の値から上述の市販の低脂肪タイプのポテトチップスとほぼ同等の値までの範囲にわたる質量当たりの総油含有量を実現するため、本発明のポテトチップスには様々な条件で揚げられたサンプルが含まれる。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  各サンプルから比較的平坦なポテトチップスを選択し、一辺が約２センチメートルのほぼ正方形の四角片に砕いた。次に２センチメートルの四角片を試料ホルダーに接着してＣＴスキャナ内に配置し、密度により色分けされた画像を得た。ＣＴスキャナはコンピュータ断層撮影Ｘ線スキャナであるＳｋｙＳｃａｎ１１７２であり、生画像を生成するためにＳｋｙＳｃａｎ１１７２のソフトウェアが用いられた。スキャナの設定は、ミディアムカメラピクセルが２Ｋ、ピクセルサイズが５マイクロメートル～７マイクロメートル、回転分離が０．３°、平均７フレーム、ランダム動作５であった。生画像はまた、ＮＲｅｃｏｎソフトウェアを用いて再構成された。画像解析はＣＴＡｎ、ＣＴＶｏｌソフトウェア、及びマイクロソフト・エクセルを用いて実行した。画像が密度により色分けされる時、油及びじゃがいも澱粉は異なる色で表示され、ＣＴスキャナソフトウェアは全体積と、各成分のパーセント量とを特定することができる。各スライスのデータは、各々が（２センチメートル）×（２センチメートル）×（１／３スライス厚さ）からなる三つの領域に分割した。すなわち、外側の三分の一となる二つの領域はサンプル片の４平方センチメートルの外表面二つの内の一つをそれぞれ含み、内側の三分の一となる領域はサンプル片の４平方センチメートルの外表面の何れも含まないように分割した。その後、三分されたスライスの各々にどの程度油が含まれているかを特定するため、コンピュータアルゴリズムによりデータを分析した。各サンプルについて、内側の三分の一となる領域よりも外側の三分の一となる領域により多くの油が検出された。しかしながら、本発明のポテトスライスは内側の三分の一となる領域よりも外側の三分の一となる領域に驚くほど多くの油を含んでいた。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  ポテトスライスの内側と外側との間の油の分布は、外側の三分の一となる領域における油含有量の平均から中間の三分の一となる領域における油含有量を減算し、それを外側の三分の一となる領域における油含有量の平均で割ることによって定量化することができる。本明細書で用いる場合、ポテトチップスの「表面油差」という用語は、（（外側の三分の一となる領域における油含有量の平均）－（内側の三分の一となる領域における油含有量））／（外側の三分の一となる領域における油含有量の平均）のように定義される。表面油差の算出に用いられる油含有量は全て、上述のＣＴスキャンの手順及び方法を用いて特定された総油量における割合として測定される。すなわち、本発明のサンプルの一つは外側の三分の一となる領域の内の一方に総油含有量の４０．５％を含み、外側の三分の一となる領域の内の他方に総油含有量の４６％を含み、内側の三分の一となる領域に総油含有量の１３．５％を含んでいた。試験した全てのサンプルについて、表面油差は約０．１５～約０．７の範囲にわたっていた。ウォーカーズライト、低脂肪タイプのＲＵＦＦＬＥＳ（登録商標）、及びＬＡＹ’Ｓ（登録商標）ライトという商標で販売されている低油シリーズは、０．１５～０．２５の表面油差を示していた。ＬＡＹ’Ｓ（登録商標）クラシックの表面油差は０．４５であった。本明細書に記載された本発明のポテトチップスの四つのサンプルはそれぞれ、０．５を越えた０．５２～０．６９の範囲にわたる表面油差を示していた。従って、本明細書における本発明のポテトチップスは一実施形態において０．５以上の表面油差を有し、別の実施形態においては０．５～０．７の間の表面油差を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  本出願人はまた、本発明のポテトチップスとなるポテトスライスが従来の、あるいは既知のポテトスライスとは異なる熱履歴を受けることによって、最終製品におけるじゃがいも澱粉についてもまた、既知のポテトチップスとは異なる特性を示し得ることを理論化した。実際、本出願人は本発明のチップスのじゃがいも澱粉が、既知の、あるいは市販のポテトチップスと比較して固有のＲＶＡ（ラピッド・ビスコ・アナライザ）曲線を示すことを発見した。この澱粉特性を分析するため、本出願人は以下のようにＲＶＡ分析のためのポテトチップスのサンプルを用意した。すなわち、ポテトチップスのサンプルは微粒子に細断され、残留揚げ油は各サンプルからビュッヒ・ソックスレー抽出装置Ｂ－８１１を用いて抽出した。ポテトチップスのサンプルの脱脂については、サンプル間で油含有量が異なることによるＲＶＡ結果への影響を実質的に排除することによって、じゃがいも澱粉の分析に注目されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  次に、３グラムの脱脂されたポテトチップスのサンプルと２５グラムの水分とをＲＶＡ容器内で混合し、直ちにＲＶＡ機内に挿入する。ＲＶＡ分析の開始温度は３０℃とした。ＲＶＡパドルは分析の最初の１０秒間は９６０ｒｐｍで回転し、その後、残りの時間は１６０ｒｐｍで回転する。分析の最初の３分間は３０℃の温度を維持し、その後、次の７分間をかけて９５℃まで上昇し、次の４分間は９５℃を維持し、次の４分間をかけて５０℃まで低下し、試験の最後の１分間は５０℃を維持する。分析の総時間は１９分である。上述の試料調整及びＲＶＡ分析プロトコルは本明細書において「ＲＶＡプロトコル」と称され、特定のＲＶＡ特性を有するポテトチップスに関する請求項について、そのようなＲＶＡ特性はＲＶＡプロトコルを用いて測定されていることを意図する。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  結果として得られたＲＶＡ曲線を図４に示す。本発明のポテトチップスについての曲線４０２及び４０４は、第一ピーク４１２及び４１０と、第二ピーク４１６及び４１４とをそれぞれ含む。（第二ピーク／第一ピーク）の値をｙ軸、（第一ピーク）の値をｘ軸としてプロットすると、本発明のポテトチップスは試験された他のサンプルのデータ点の存在しないグラフ領域を占める。特に、本出願人によって分析された本発明の全てのサンプルについて、ＲＶＡ曲線の（第二ピーク／第一ピーク）の値は０．２５～０．４５の間であり、ＲＶＡ曲線の第一ピークの値は６０００～８１００の間であった。試験された他の全てのサンプルのデータ点が、これらの範囲外であった。従って一実施形態において、本発明のポテトチップスは第一ＲＶＡピーク及び第二ＲＶＡピークを含み、（第二ＲＶＡピーク／第一ＲＶＡピーク）の値は０．２５～０．４５の間であり、第一ＲＶＡピークの値は６０００～８１００の間である。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  既知のスライスと本発明のスライスとの間の油の位置及びＲＶＡの違いは、官能特性に関する熟練の研究員によって既知のポテトチップスと本発明のポテトチップスとに実行された分析の結果に照らしてみると、特に驚くべきものである。基準となるポテトチップスと試験用ポテトチップスとの間の違いを定義し、説明するために特に訓練された官能特性分析の研究員は、３５％及び３８％の油分の二つの市販のＬＡＹ’Ｓ（登録商標）のポテトチップスのサンプルと、油のポストフライという機械的除去方法により製造された二つの市販の低油ポテトチップスと、プロセスラボにおいて既知のフライ方法に従って製造された３５％及び３６％の油分の二つの従来のポテトチップスのサンプルとともに、３５％、３３％、及び２８％の油分を含む本発明のポテトチップスを含むポテトチップスのサンプルについて、いくつかの異なるポテトチップスのサンプルを基準のものと比較して評価するよう依頼された。官能特性の研究員は３３％及び３５％の油分の本発明のサンプルについてそれぞれ、基準のサンプルからわずかに、及び非常にわずかに異なると評価した。２８％の油分の本発明のポテトチップスのサンプルは決定的に異なると評価されたが、市販されている低油のサンプルの何れと比較してもより少ない差異であった。しかしながら、２８％の油分のサンプルにおける差異の主な要因は、油に異臭がすることであった。本発明の全てのサンプルに対して得られた食感についての評価は、基準のサンプルに引けを取らないものであった。わずかに少ない油分を含む本発明のサンプルが非常にわずかに、又はわずかにしか異ならないと認識された事実は、これらのチップスの中央付近に見られる油分と比較してより多くの油分がその表面に存在するということによって説明することができる。表面付近の油分はチップスを食べる時、直ちに知覚することができる。しかしながら、非常に少ない油分を含む本発明のポテトチップスも、油の臭味が異なると示されなければ、基準のものからわずかに、又は非常にわずかにしか異ならないと認識されていたであろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+  本出願人は、一般的なポテトスライスを従来の浸漬フライ方法を用いて揚げた時、油中における約８０秒～１３０秒の滞留時間の後に、フライヤー内部のポテトスライスの泡立ちが実質的に遅くなることを観察した。このポイントは、バブルエンドポイントと呼ばれる。バブルエンドポイントはポテトスライスの特性や油温に従って変化するが、条件に関係なく当業者によって視覚的に知覚可能である。本出願人は、このポイントにおいてポテトスライス内部の残留水分のそれまでのような効率的な蒸気への変化が停止し、バブルエンドポイントの後に油分がポテトスライスに吸収され始めると考えている。本明細書で上述したように、一実施形態において、本出願人はバブルエンドポイントの前又は直後にポテトスライスを第一フライ工程から取り除くことと、残留水分を除去し、最終製品の油含有量を低減するため、ポテトスライスを短時間且つ高温の最終フライ工程にかけることとを提案する。一実施形態において、ポテトスライスはバブルエンドポイント（前後）の約１０秒以内に第一フライ工程から取り除かれる。ポテトスライスは別の実施形態においてバブルエンドポイント後の約５０秒未満の時間で、好ましい実施形態においてはバブルエンドポイント後の約３０秒未満の時間で、第一フライ工程から取り除かれる。本出願人は、その後、ポテトスライスがより高温の熱油の最終フライ工程に移送された時、スライス内の残留水分が蒸気に変化するように、ポテトスライスが急速に泡立つことを発見した。また、食品片は第二フライ工程の間は高温に保たれるため、より長い時間ポテトチップス内に存在する水蒸気は蒸気の状態を維持し、冷却中に生じると考えられている油分の吸収に抵抗するであろう。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  第二に、本発明の方法を実施するために用いられる装置は、既存のフライ装置に容易に後付けすることができる。後付け可能な装置によって、本発明の方法を実施するための資本コストが削減される。おそらくより重要なことは、本発明の方法が既存のフライ装置の容量及びスループットを劇的に増加できることにある。上述のように、ポテトチップスの浸漬フライ時間を約１９０秒から８０秒～１３０秒（好ましくは、約１００秒～１２０秒）に短縮することができる。このようなフライ時間の短縮により、毎時６０００ポンド（２７２２キログラム）の揚げた食品片を生産する能力のある既存のフライヤーは、本発明に従って改変した場合、毎時１００００ポンド（４５３６キログラム）までの揚げた食品片を生産することが可能になる。食品が揚げ油内にある時間が短くなり、フライヤーによるスループットが増加するため、使用率が低くなり、新鮮な油の補充率が高くなる可能性があることによって、油の質が一貫して高くなるであろう。最後に、より大きな容量で製造された本発明のポテトチップスは、基準のポテトチップス及び市販のポテトチップスと同様の食感及び風味の特性を示すが、解析的に調べると、異なる油の位置、及びじゃがいも澱粉についての異なるＲＶＡ曲線を示す。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+  油含有量が制御されているが、従来の揚げた食品片の所望の特性を維持するポテトチップスを製造するために用いることができる方法及びシステムが本明細書に記載されていることは、当業者にとって明らかであろう。本明細書において本発明は好ましい実施形態によって説明されているが、その意図及び範囲から逸脱することなく、他の適応及び修正を行い得ることは明らかであろう。本明細書で用いられる用語及び表現は説明のためのものであって、限定のために用いられるものではない。従って、均等物を排除する意図はなく、むしろ本発明の意図及び範囲から逸脱することなく使用可能な任意の全ての均等物を包含することを意図する。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  要するに、本発明は特に好ましい実施形態を参照して図示及び説明がされているが、本発明の意図及び範囲から逸脱することなく、その形態及び詳細について様々な変更を行い得ることが当業者に理解されるであろう。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="89" wi="29" file="2016519954_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="71" wi="37" file="2016519954_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="85" wi="67" file="2016519954_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="83" wi="66" file="2016519954_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  ポテトチップスであって、０．０４０インチ～０．０８０インチ（０．１０２センチメートル～０．２０３センチメートル）の間の厚さを有するポテトスライスからなり、前記ポテトスライスは洗浄され、且つ前記ポテトチップスを製造するために水分含有量が約２質量％未満となるまで揚げられ、前記ポテトチップスは０．５以上の表面油差を有するポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  請求項１に記載のポテトチップスにおいて、前記厚さは０．０４０インチ～０．０６３インチ（０．１０２センチメートル～０．１６０センチメートル）の間であるポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  請求項１に記載のポテトチップスにおいて、前記表面油差は０．５～０．７の間であるポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  請求項１に記載のポテトチップスにおいて、前記ポテトチップスは第一ＲＶＡピーク及び第二ＲＶＡピークをさらに有し、（第二ＲＶＡピーク／第一ＲＶＡピーク）の値は０．２５～０．４５の間であり、第一ＲＶＡピークの値は６０００～８１００の間であるポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  ポテトチップスであって、０．０４０インチ～０．０８０インチ（０．１０２センチメートル～０．２０３センチメートル）の間の厚さを有するポテトスライスからなり、前記ポテトスライスは洗浄され、且つ前記ポテトチップスを製造するために水分含有量が約２質量％未満となるまで揚げられ、前記ポテトチップスは第一ＲＶＡピーク及び第二ＲＶＡピークを有し、（第二ＲＶＡピーク／第一ＲＶＡピーク）の値は０．２５～０．４５の間であり、第一ＲＶＡピークの値は６０００～８１００の間であるポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  請求項５に記載のポテトチップスにおいて、前記厚さは０．０４０インチ～０．０６３インチ（０．１０２センチメートル～０．１６０センチメートル）の間であるポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  請求項５に記載のポテトチップスにおいて、前記ポテトチップスは０．５以上の表面油差をさらに有するポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  請求項７に記載のポテトチップスにおいて、前記表面油差は０．５～０．７の間であるポテトチップス。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000007" file="2016519954_000007.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

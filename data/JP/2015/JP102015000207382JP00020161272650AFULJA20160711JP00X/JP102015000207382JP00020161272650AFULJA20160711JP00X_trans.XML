@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000207382JP00020161272650AFULJA20160711JP00X.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016127265" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127265</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016127265</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000207382</base:DocNumber>
+        <base:Date>20151021</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015207382</base:DocNumber>
+        <base:Date>20151021</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>002014000264697</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2014264697</base:DocNumber>
+        <base:Date>20141226</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>27</business:MainGroup>
+        <business:Subgroup>146</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H01L  27/146       20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20110101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>363</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N   5/363       20110101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20110101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>5</business:MainGroup>
+        <business:Subgroup>374</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04N   5/374       20110101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">H01L27/14 E</business:FI>
+      <business:FI type="secondary">H01L27/14 A</business:FI>
+      <business:FI type="secondary">H04N5/335 630</business:FI>
+      <business:FI type="secondary">H04N5/335 740</business:FI>
+      <business:FClass>
+        <business:FTerm>4M118AA05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118AB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118BA07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CA15</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118CB20</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118DD04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118FA06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118FA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118GC07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4M118GD04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024CX05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024CY47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024GX07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024GX16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024GX18</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>5C024HX47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4M118</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>5C024</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">成像设备</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>パナソニックIPマネジメント株式会社</base:Name>
+            <base:RegisteredNumber>314012076</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府大阪市中央区城見2丁目1番61号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>佐藤  好弘</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府門真市大字門真1006番地  パナソニック株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>平瀬  順司</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>大阪府門真市大字門真1006番地  パナソニック株式会社内</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>奥田  誠司</base:Name>
+            <base:RegisteredNumber>100101683</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>喜多  修市</base:Name>
+            <base:RegisteredNumber>100155000</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>梶谷  美道</base:Name>
+            <base:RegisteredNumber>100180529</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>三宅  章子</base:Name>
+            <base:RegisteredNumber>100125922</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>岡部  英隆</base:Name>
+            <base:RegisteredNumber>100135703</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="6" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>川喜田  徹</base:Name>
+            <base:RegisteredNumber>100188813</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="7" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>田中  悠</base:Name>
+            <base:RegisteredNumber>100184985</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>13</business:ClaimsCount>
+      <base:TotalPageCount>32</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>提供一种能够进一步降低kTC噪声的影响的成像装置。 本发明的摄像装置具备半导体基板、包含对入射光进行光电转换的光电转换部以及检测由光电转换部生成的信号的信号检测电路的单位像素单元、使信号检测电路的输出负反馈的反馈电路、以及设置在半导体基板与光电转换部之间的布线层。 在半导体基板设置有蓄积由光电变换部生成的信号电荷的电荷蓄积区域。 配线层在单位像素单元内包含形成反馈电路的至少一部分的信号线的至少一部分,在从半导体基板的法线方向观看时,信号线在单位像素单元中,隔着与信号线延伸的方向平行的中心线而位于与电荷蓄积区域相反的一侧。 图3</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="70" wi="69" file="2016127265_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本申请涉及一种摄像装置。 本申请特别涉及具有包含层叠于半导体基板的光电转换膜的光电转换部的摄像装置。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">作为MOS（Metal Oxide Semiconductor：金属氧化物半导体）型的摄像装置,提出了层叠型的摄像装置。 在层叠型的摄像装置中,在半导体基板的最表面层叠有光电转换膜,将在光电转换膜内通过光电转换而产生的电荷蓄积于电荷蓄积区域（称为“浮动扩散”）。 摄像装置在半导体基板内使用CCD（Charge Coupled Device：电荷耦合器件）电路或CMOS（Complementary MOS：互补金属氧化物半导体）电路读出该蓄积的电荷。 例如专利文献1公开了这样的摄像装置。</base:Paragraphs>
+      <base:Paragraphs num="0003">在摄像装置的领域中,存在降低噪声的要求。 特别地,存在减少在复位时产生的kTC噪声（也称为“复位噪声”）的需求。 上述的专利文献1在图1中公开了设置有使单位像素单元（20）中的放大晶体管（21）的输出负反馈的反馈电路的摄像装置。 专利文献1提出了通过在电荷蓄积节点（25）的复位时形成反馈电路来降低kTC噪声的影响（0033段）。</base:Paragraphs>
+      <base:Paragraphs num="0004">在专利文献1所记载的摄像装置中,在与反馈放大器（31）的输出端子连接的反馈信号线（30）、和电荷蓄积节点（25）中的与该反馈信号线（30）同层的金属布线（40）之间配置有电源布线（27）。 由此,降低了反馈信号线（30）与金属布线（40）之间的耦合电容。 为了参考,在本说明书中引用国际公开第2014/002367号的全部公开内容。</base:Paragraphs>
+      <base:Paragraphs num="0005">专利文献2公开了在输出线之间配置由销连接的多层屏蔽件。 记载了通过这样的结构,能够减少彼此相邻的输出线间的串扰。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0006">           <business:ApplicationCitation num="0001">
+            <base:Text>国際公開第2014／002367号</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>特許第3793202号明細書</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0007">存在希望进一步降低kTC噪声等噪声的影响的要求。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0008">根据本申请的非限定性的某例示性的实施方式,提供以下内容。</base:Paragraphs>
+        <base:Paragraphs num="0009">半导体基板； 以及设置在所述半导体基板与所述光电转换部之间的布线层,在所述半导体基板设置有电荷蓄积区域,所述电荷蓄积区域蓄积由所述光电转换部生成的信号电荷,所述布线层在所述单位像素单元内包含形成所述反馈电路的至少一部分的信号线的至少一部分,在从所述半导体基板的法线方向观察时,所述信号线在所述单位像素单元中隔着与所述信号线延伸的方向平行的中心线而位于与所述电荷蓄积区域相反的一侧。</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0010">根据本公开的一个方式,提供一种能够进一步降低噪声的影响的摄像装置。</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0011">
+        <base:FigureReference num="0001">图0001是表示第1实施方式的摄像装置的例示性的电路结构的示意图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是表示图1所示的单位像素单元10的例示性的电路结构的示意图。</base:FigureReference>
+        <base:FigureReference num="0003">图0003是示意性地表示单位像素单元10中的各元件以及布线的布局的一个例子的俯视图。</base:FigureReference>
+        <base:FigureReference num="0004">图0004是示意性地表示图3所示的A-A’线剖面的剖视图。</base:FigureReference>
+        <base:FigureReference num="0005">图0005是示意性地表示单位像素单元10中的各元件的布局的另一例的俯视图。</base:FigureReference>
+        <base:FigureReference num="0006">图0006是示意性地表示图5所示的B-B’线截面的截面图。</base:FigureReference>
+        <base:FigureReference num="0007">图0007是表示单位像素单元10的另一例示性的电路结构的示意图。</base:FigureReference>
+        <base:FigureReference num="0008">图8是表示第2实施方式的摄像装置的例示性的电路结构的示意图。</base:FigureReference>
+        <base:FigureReference num="0009">图0009是示出图8所示的摄像装置200中的单位像素单元50的例示性的电路结构的示意图。</base:FigureReference>
+        <base:FigureReference num="0010">图0010是示意性地表示单位像素单元50中的各元件和配线的布局的一例的俯视图。</base:FigureReference>
+        <base:FigureReference num="0011">图0011是示意性地表示图10所示的C-C’线截面的截面图。</base:FigureReference>
+        <base:FigureReference num="0012">图0012是示出第三实施方式的摄像装置中的单位像素单元的器件结构的一例的示意性截面图。</base:FigureReference>
+        <base:FigureReference num="0013">图13是示出图12所示的单位像素单元60A中的上部电极62u、电介质层62d以及下部电极62b的配置的一例的示意性俯视图。</base:FigureReference>
+        <base:FigureReference num="0014">图0014是示出第三实施方式的摄像装置中的单位像素单元的器件结构的另一例的示意性截面图。</base:FigureReference>
+        <base:FigureReference num="0015">图0015是示出图14所示的单位像素单元60B中的上部电极62u、电介质层62d以及下部电极62b的配置的一例的示意性俯视图。</base:FigureReference>
+        <base:FigureReference num="0016">图0016是示出第三实施方式的摄像装置中的单位像素单元的器件结构的又一例的示意性截面图。</base:FigureReference>
+        <base:FigureReference num="0017">图17是示出图16所示的单位像素单元60C中的上部电极62u、电介质层62d以及下部电极62b的配置的一例的示意性俯视图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0012">在详细说明本公开的实施方式之前,对本发明人的见解进行说明。</base:Paragraphs>
+      <base:Paragraphs num="0013">层叠型的摄像装置典型地具有通过由金属形成的配线和/或配线层将光电转换膜与形成于半导体基板的电路元件连接的结构（例如参照专利文献1的图3A）。 因此,层叠型的摄像装置中的电荷蓄积节点一般包含形成在半导体基板上的电荷蓄积区域。</base:Paragraphs>
+      <base:Paragraphs num="0014">在上述的专利文献1所记载的技术中,通过使电源布线介于反馈信号线与构成电荷蓄积节点的一部分的金属布线之间,降低了反馈信号线与金属布线之间的耦合电容。 即,在专利文献1中,考虑了金属配线间的耦合电容。 本发明人着眼于存在于光电转换膜-半导体基板间的布线与形成于半导体基板的电荷蓄积区域之间的耦合电容,完成了本申请发明。</base:Paragraphs>
+      <base:Paragraphs num="0015">以下,参照附图对本公开的实施方式进行详细说明。 另外,以下说明的实施方式均表示总括性或具体的例子。 在以下的实施方式中示出的数值、形状、材料、构成要素、构成要素的配置以及连接方式、步骤、步骤的顺序等是一个例子,并不是限定本公开的主旨。 在本说明书中说明的各种方式只要不产生矛盾就能够相互组合。 另外,关于以下的实施方式中的构成要素中的、未记载于表示最上位概念的独立权利要求的构成要素,作为任意的构成要素进行说明。 在以下的说明中,实质上具有相同功能的构成要素用共同的附图标记表示,有时省略说明。</base:Paragraphs>
+      <base:Paragraphs num="0016">（第1实施方式） 
+图1示意性地表示第1实施方式的摄像装置的例示性的电路结构。 图1所示的摄像装置100具备多个单位像素单元10和周边电路。 多个单位像素单元10通过在半导体基板上二维地排列而形成感光区域（像素区域）。 半导体基板并不限定于其整体为半导体的基板。 半导体基板也可以是在形成感光区域的一侧的表面设置有半导体层的绝缘性基板等。 </base:Paragraphs>
+      <base:Paragraphs num="0017">在图示的例子中,多个单位像素单元10在行方向和列方向上排列。 在本说明书中,行方向和列方向是指行和列分别延伸的方向。 即,附图中,纸面中的垂直方向为列方向,水平方向为行方向。 多个单位像素单元10也可以一维地排列。 换言之,摄像装置100可以是线传感器。</base:Paragraphs>
+      <base:Paragraphs num="0018">各个单位像素单元10与电源布线22连接。 经由电源布线22向各单位像素单元10供给规定的电源电压。 如后面详细说明的那样,单位像素单元10分别包括具有层叠于半导体基板的光电转换膜的光电转换部。 如后面参照附图详细说明的那样,光电转换部隔着布线层设置在半导体基板之上。 另外,如图所示,摄像装置100具有用于对所有的光电转换部施加相同的恒定电压的蓄积控制线17。</base:Paragraphs>
+      <base:Paragraphs num="0019">摄像装置100的周边电路包括垂直扫描电路（也称为“行扫描电路”）16、负载电路19、列信号处理电路（也称为“行信号蓄积电路”）20、水平信号读出电路（也称为“列扫描电路”）21以及反转放大器24。 在图示的结构中,列信号处理电路20、负载电路19以及反转放大器24按二维排列的单位像素单元10的每一列配置。 即,在该例中,周边电路包含多个列信号处理电路20、多个负载电路19及多个反相放大器24。</base:Paragraphs>
+      <base:Paragraphs num="0020">垂直扫描电路16与地址信号线30及复位信号线26连接。 垂直扫描电路16通过对地址信号线30施加规定的电压,以行为单位选择配置于各行的多个单位像素单元10。 由此,执行所选择的单位像素单元10的信号电压的读出和像素电极的复位。</base:Paragraphs>
+      <base:Paragraphs num="0021">在图示的例子中,垂直扫描电路16也与反馈控制线28以及灵敏度调整线32连接。 通过垂直扫描电路16对反馈控制线28施加规定的电压,能够形成使单位像素单元10的输出负反馈的反馈电路。 另外,垂直扫描电路16能够经由灵敏度调整线32向多个单位像素单元10供给规定的电压。 如后面详细说明的那样,在本公开中,单位像素单元10分别在像素内具有一个以上的电容元件。 在本说明书中,“电容元件（capacitor）”是指在电极之间夹有绝缘膜等电介质的结构。 本说明书中的“电极”不限定于由金属形成的电极,可解释为广泛包含多晶硅层等。 本说明书中的“电极”可以是半导体基板的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0022">配置于各列的单位像素单元10经由与各列对应的垂直信号线18与列信号处理电路20电连接。 在垂直信号线18上电连接有负载电路19。 列信号处理电路20进行以相关双采样为代表的噪声抑制信号处理以及模拟-数字转换（AD转换）等。 在与单位像素单元10的列对应地设置的多个列信号处理电路20电连接有水平信号读出电路21。 水平信号读取电路21将信号从多个列信号处理电路20顺序地读取到水平公共信号线23。</base:Paragraphs>
+      <base:Paragraphs num="0023">在图1所例示的结构中,与各列对应地设置有多个反转放大器24。 反转放大器24的负侧的输入端子与对应的垂直信号线18连接。 向反转放大器24的正侧的输入端子供给规定的电压（例如1V或1V附近的正电压）Vref。 另外,反相放大器24的输出端子经由与各列对应地设置的反馈线25,与具有与该反相放大器24的负侧的输入端子的连接的多个单位像素单元10连接。 反转放大器24构成使来自单位像素单元10的输出负反馈的反馈电路的一部分。 也可以将反转放大器24称为反馈放大器。</base:Paragraphs>
+      <base:Paragraphs num="0024">图2表示图1所示的单位像素单元10的例示性的电路结构。 单位像素单元10包括对入射光进行光电转换的光电转换部15和检测由光电转换部生成的信号的信号检测电路SC。</base:Paragraphs>
+      <base:Paragraphs num="0025">光电变换部15典型地具有在第1电极15a与第2电极（像素电极）15c之间夹着光电变换膜15b的构造。 如后面参照附图说明的那样,光电变换膜15b层叠于形成单位像素单元10的半导体基板。 光电转换膜15b由有机材料或非晶硅等无机材料形成。 光电转换膜15b也可以包含由有机材料构成的层和由无机材料构成的层。</base:Paragraphs>
+      <base:Paragraphs num="0026">在光电变换膜15b的受光面侧设置有第1电极15a。 第1电极15a由ITO等透明的导电性材料形成。 在隔着光电变换膜15b与第1电极15a对置的一侧设置有第2电极15c。 第2电极15c收集在光电变换膜15b中通过光电变换而产生的电荷。 第2电极15c由铝、铜等金属、金属氮化物或通过掺杂杂质而被赋予了导电性的多晶硅等形成。</base:Paragraphs>
+      <base:Paragraphs num="0027">如图示那样,第1电极15a被连接在蓄积控制线17上,第2电极15c被连接在电荷蓄积节点（也被称为“浮动扩散节点”）44上。 通过经由蓄积控制线17控制第1电极15a的电位,能够将由光电变换产生的空穴-电子对中的空穴及电子的某一方由第2电极15c收集。 在作为信号电荷而利用空穴的情况下,只要使第1电极15a的电位比第2电极15c高即可。 以下,例示利用空穴作为信号电荷的情况。 例如10V左右的电压经由蓄积控制线17被施加到第1电极15a。 由此,信号电荷被蓄积到电荷蓄积节点44中。 当然,也可以利用电子作为信号电荷。</base:Paragraphs>
+      <base:Paragraphs num="0028">单位像素单元10具有的信号检测电路SC包括放大晶体管34、复位晶体管（第一复位晶体管）36、第一电容元件41以及第二电容元件42。 在图示的结构中,第2电容元件42具有比第1电容元件41大的电容值。 在图2中例示的结构中,复位晶体管36的源极及漏极中的一方及第1电容元件41的一方的电极连接在电荷蓄积节点44上。 即,它们具有与第2电极15c的电连接。 复位晶体管36的源极及漏极中的另一方及第1电容元件41的另一方的电极与第2电容元件42的一方的电极连接。 换言之,第1电容元件41连接在复位晶体管36的源极及漏极之间。 因而,通过复位晶体管36中的接通及断开的切换,能够切换是经由复位晶体管36将第2电容元件42连接在电荷蓄积节点44上、还是经由第1电容元件41将第2电容元件42连接在电荷蓄积节点44上。 以下,有时将包含第1电容元件41与第2电容元件42的连接点的节点称为复位漏极节点46。</base:Paragraphs>
+      <base:Paragraphs num="0029">第2电容元件42的电极中的未与复位漏极节点46连接的一方的电极与灵敏度调整线32连接。 灵敏度调整线32的电位例如被设定为0V。 灵敏度调整线32的电位在摄像装置100的动作时不需要固定。 例如,也可以从垂直扫描电路16（参照图1）供给脉冲电压。 如后述那样,灵敏度调整线32能够利用于电荷蓄积节点44的电位的控制。 当然,在摄像装置100的动作时,灵敏度调整线32的电位也可以被固定。</base:Paragraphs>
+      <base:Paragraphs num="0030">如图示那样,放大晶体管34的栅极连接在电荷蓄积节点44上。 换言之,放大晶体管34的栅极具有与第2电极15c的电连接。 放大晶体管34的源极和漏极中的一个（如果是N沟道MOS,则为漏极）与电源配线（源极跟随器电源）22连接,另一个与垂直信号线18连接。 由放大晶体管34和负载电路19（参照图1）形成源极跟随器电路。 放大晶体管34放大由光电转换器15生成的信号。</base:Paragraphs>
+      <base:Paragraphs num="0031">如图所示,单位像素单元10包括地址晶体管（行选择晶体管）40。 寻址晶体管40的源极或漏极与放大晶体管34的源极和漏极中的未与电源布线22连接的一侧连接。 地址晶体管40的栅极与地址信号线30连接。 在图2所例示的结构中,寻址晶体管40构成信号检测电路SC的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0032">与蓄积在电荷蓄积节点44中的信号电荷的量对应的电压被施加到放大晶体管34的栅极。 放大晶体管34放大该电压。 由放大晶体管34放大的电压作为信号电压经由寻址晶体管40被选择性地读出。</base:Paragraphs>
+      <base:Paragraphs num="0033">在图2所例示的结构中,单位像素单元10还包括第二复位晶体管38,该第二复位晶体管38的源极和漏极中的一方与复位漏极节点46连接,另一方与反馈线25连接。 即,在图示的结构中,复位晶体管36的源极及漏极中的与复位漏极节点46连接的一侧和反馈线25经由第2复位晶体管38连接。 第2复位晶体管38的栅极与反馈控制线28连接。 通过控制反馈控制线28的电压,如果将第2复位晶体管38设为ON,则形成包含电荷蓄积节点44和第2复位晶体管38的反馈环。 即,能够形成使信号检测电路SC的输出负反馈的反馈电路。 对共用反馈线25的多个单位像素单元10中的一个单位像素单元10执行反馈电路的形成。</base:Paragraphs>
+      <base:Paragraphs num="0034">此外,放大晶体管34、第1复位晶体管36、寻址晶体管40以及第2复位晶体管38分别可以是N沟道MOS,也可以是P沟道MOS。 它们也不需要全部统一为N沟道MOS或P沟道MOS中的某一个。 以下,例示放大晶体管34、第1复位晶体管36、寻址晶体管40及第2复位晶体管38为N沟道MOS的情况。 作为晶体管,除了场效应晶体管(FET)以外,还可以使用双极型晶体管。</base:Paragraphs>
+      <base:Paragraphs num="0035">（单位像素单元10的器件结构） 
+接下来,参照图3和图4对单位像素单元10的器件构造进行说明。 </base:Paragraphs>
+      <base:Paragraphs num="0036">图3示意性地示出单位像素单元10中的各元件以及配线的布局的一个例子。 图4示意性地示出图3所示的A-A’线截面。如已经说明的那样,单位像素单元10排列在半导体基板上。在此,说明使用p型硅（Si）基板作为半导体基板2（参照图4）的例子。</base:Paragraphs>
+      <base:Paragraphs num="0037">在图3所例示的结构中,在单位像素单元10内配置有四个晶体管、即放大晶体管34、第一复位晶体管36、第二复位晶体管38以及寻址晶体管40。 各个单位像素单元10被形成于半导体基板2的元件分离区域2s分离。 在该例中,第1复位晶体管36和第2复位晶体管38的组与放大晶体管34和寻址晶体管40的组被元件分离区域2s分离。</base:Paragraphs>
+      <base:Paragraphs num="0038">这里,放大晶体管34和第一复位晶体管36都形成在半导体基板2上。 另外,在这里说明的例子中,第2复位晶体管38及寻址晶体管40也形成在半导体基板2上。 另外,在该例中,在半导体基板2上还形成有第1电容元件41及第2电容元件42。 即,在此,在半导体基板2形成有信号检测电路SC。</base:Paragraphs>
+      <base:Paragraphs num="0039">如果关注第2复位晶体管38,则第2复位晶体管38包含形成在半导体基板2内的杂质区域（在此为N型区域）2d。 这些杂质区域2d作为第2复位晶体管38的源极或漏极发挥功能。 杂质区域2d典型地是在半导体基板2内形成的扩散层。 以下,有时将半导体衬底2内的杂质区域2d称为“源极/漏极扩散层2d”。</base:Paragraphs>
+      <base:Paragraphs num="0040">在图3所例示的结构中,构成第2复位晶体管38的源极及漏极的2个源极/漏极扩散层2d的一方经由多晶硅插塞sp1、多晶硅层s1及接触插塞cp1与反馈线25连接。 在图示的例子中,第1复位晶体管36及第2复位晶体管38共用源极/漏极扩散层2d中的1个。</base:Paragraphs>
+      <base:Paragraphs num="0041">在图示的结构中,放大晶体管34的栅极电极34e与第一复位晶体管36的源极和漏极中的一方经由上部电极41w电连接。 上电极41w经由布线6m（通常是金属布线）连接到光电转换器15。 在该例中,电荷蓄积节点44包含布线6m、上部电极41w、第1复位晶体管36的源极及漏极中的连接在上部电极41w上的一侧的杂质区域2d。 以下,将杂质区域2d中的构成电荷蓄积节点44的一部分的部分（这里是第1复位晶体管36的源极及漏极中的连接在上部电极41w上的一侧）称作“电荷蓄积区域2fd”。 电荷蓄积区域2fd具有蓄积在光电变换部15中生成的电荷（信号电荷）的功能。</base:Paragraphs>
+      <base:Paragraphs num="0042">如图示那样,在第1实施方式中,电荷蓄积区域2fd没有形成在从半导体基板2的法线方向观看时与反馈线25重叠的位置。 由此,形成于半导体基板2的电荷蓄积区域2fd与反馈线25之间的耦合电容降低。 由此,可降低起因于电荷蓄积区域2fd与反馈线25之间的耦合的噪声的影响。 此外,通过在与反馈线25重叠的位置形成第2电容元件42,能够进一步降低电荷蓄积区域2fd与反馈线25之间的耦合电容。</base:Paragraphs>
+      <base:Paragraphs num="0043">如后面参照附图说明那样,在第1实施方式中,第2电容元件42包含形成于半导体基板2的电极区域42c、和隔着电介质层与电极区域42c的至少一部分对置的上部电极42e。 如图所示,第2电容元件42在单位像素单元10内占据比较大的面积。 由此,实现比较大的电容值。 另外,在此,将第1复位晶体管36的源极或漏极（电荷蓄积区域2fd）与放大晶体管34的栅极电极34e电连接的上部电极41w的至少一部分延伸至上部电极42e上。 如后所述,通过在上部电极41w与上部电极42e之间配置电介质层,形成第1电容元件41。 即,在该实施方式中,如图3所示,在从半导体基板2的法线方向观察时与第2电容元件42重叠的位置形成第1电容元件41。</base:Paragraphs>
+      <base:Paragraphs num="0044">在图3所例示的结构中,单位像素单元10具有第1电容元件41和第2电容元件42这2个电容元件。 在此,在从半导体基板2的法线方向观察时,第2电容元件42在设置于单位像素单元10的电容元件中具有最大的电极面积。 单位像素单元10也可以具有三个以上的电容元件。</base:Paragraphs>
+      <base:Paragraphs num="0045">在图3中示出了与反馈线25的延伸方向平行的假想的中心线P。 在第一实施方式中,在从半导体基板2的法线方向观察时,反馈线25在单位像素单元10中隔着中心线P配置在电荷蓄积区域2fd的相反侧。 在图示的例子中,反馈线25在单位像素单元10中位于中心线P的右侧的区域,电荷蓄积区域2fd位于中心线P的左侧的区域。 这样,通过在单位像素单元10中将电荷蓄积区域2fd与反馈线25分离配置,能够防止起因于电荷蓄积区域2fd与反馈线25之间的耦合的串扰。 反馈线25传送加入了噪声的信号,所以通过抑制电荷蓄积区域2fd与反馈线25之间的串扰,能够降低噪声的影响。 此外,在本说明书中,单位像素单元是指输出与入射的光的量对应的信号（像素值）的单位构造。 单位像素单元10是将摄像面以电荷蓄积节点44的数量（也可以称为像素的数量）均等地分割而得到的单位构造,从半导体基板2的法线方向观察时的形状典型地是四边形。 因而,在该例中,各单位像素单元10包括至少一个第2电极15c。</base:Paragraphs>
+      <base:Paragraphs num="0046">并且,如图3所例示,也可以在单位像素单元10中隔着中心线P,在与构成复位漏极节点46的一部分的源极/漏极扩散层2d相反的一侧配置反馈线25。 即,当从半导体基板2的法线方向观看时,也可以在既不与电荷蓄积区域2fd重叠也不与复位漏极节点46中的杂质区域2d重叠的位置配置反馈线25。 由此,能够抑制复位漏极节点46中的杂质区域2d与反馈线25之间的耦合,能够进一步降低噪声的影响。</base:Paragraphs>
+      <base:Paragraphs num="0047">在图示的例子中,反馈线25配置在与设置于单位像素单元10内的电容元件中的、从半导体基板2的法线方向观察时具有最大的电极面积的电容元件（在此为第二电容元件42）重叠的位置。 根据这样的结构,能够使电容元件的电极作为屏蔽电极发挥功能。 因此,能够抑制沿着连结电荷蓄积区域2fd、电容元件和反馈线25的路径的、电荷蓄积区域2fd与反馈线25之间的耦合。</base:Paragraphs>
+      <base:Paragraphs num="0048">通过在与第2电容元件42重叠的位置配置反馈线25,能够遍及反馈线25中的包含于单位像素单元10的部分的整体,在反馈线25与半导体基板2之间形成第2电容元件42的上部电极42e。 如后所述,第2电容元件42的上部电极42e能够作为屏蔽电极发挥功能,因此从耦合电容降低的观点来看,如果能够以与反馈线25中的单位像素单元10所包含的部分的整体重叠的方式形成上部电极42e,则是有益的。</base:Paragraphs>
+      <base:Paragraphs num="0049">参照图4。 如图4所示,单位像素单元10在半导体基板2上具有光电变换部15。 在图示的例子中,在半导体基板2上层叠有例如由二氧化硅（SiO<base:Sub>2</base:Sub>）形成的层间绝缘层4s、4a、4b以及4c。 另外,在半导体基板2与光电变换部15之间配置有布线层6。 在图4所例示的结构中,布线层6具有包含形成于层间绝缘层4s内的布线层6s、形成于层间绝缘层4a内的布线层6a、以及形成于层间绝缘层4b内的布线层6b的多层布线构造。 上述的复位信号线26以及反馈控制线28等沿行方向延伸的布线（参照图3）能够与布线层6s为同层。 两个布线层之间通过过孔va或vb电连接。 配线层及层间绝缘层的数量能够任意地设定,并不限定于图示的例子。</base:Paragraphs>
+      <base:Paragraphs num="0050">在图4所例示的结构中,在层间绝缘层4c上层叠有光电变换部15的光电变换膜15b。 在光电变换膜15b中,在来自被摄体的光入射的一侧的受光面15h上设置有第1电极15a。 在受光面15h的相反侧的面上配置有第2电极15c。 第2电极15c在空间上分离,从而在多个单位像素单元10之间电分离。</base:Paragraphs>
+      <base:Paragraphs num="0051">在图4所例示的结构中,反馈线25是布线层6的一部分。 换言之,配置于半导体基板2与光电变换部15之间的布线层6在单位像素单元10内包含反馈线25的至少一部分。 该反馈线25在多个单位像素单元10上延伸,构成反馈电路FC（参照图2）的一部分。 在此,反馈线25与布线层6a为同层。 这样,如果反馈线25被设置在多层布线构造所包含的多个布线层中的最下层（在此为布线层6s）以外的布线层,则能够增大电荷蓄积区域2fd与反馈线25之间的距离,因此能够更有效地抑制电荷蓄积区域2fd与反馈线25之间的耦合。 此外,在本说明书中,“最下层”是指2个以上的布线层中的最靠近半导体基板2的层。</base:Paragraphs>
+      <base:Paragraphs num="0052">在图4所例示的结构中,在反馈线25的左右配置有与布线层6a同层的屏蔽电极sh1以及sh2。 这样,也可以在反馈线25的周围配置屏蔽电极（屏蔽用布线）。 通过在反馈线25的周围配置屏蔽电极,能够进一步降低电荷蓄积区域2fd与反馈线25之间的耦合。 屏蔽电极sh1在单位像素单元10内配置在电源布线22与反馈线25之间,屏蔽电极sh2配置在反馈线25与相邻的单位像素单元10的垂直信号线18之间。 每个屏蔽电极被配置为例如通过电连接到垂直扫描电路16（参见图1）或电源供给电路（未示出）而能够供给恒定电压。 在本说明书中,“屏蔽电极”是指在工作时被供给恒定电压的电极或配线。</base:Paragraphs>
+      <base:Paragraphs num="0053">另外,如图所示,也可以在比反馈线25靠下层配置屏蔽电极。 在图4所例示的结构中,在反馈线25与半导体基板2之间配置有屏蔽电极sh3。 屏蔽电极sh3配置于在从半导体基板2的法线方向观察时与反馈线25的至少一部分重叠的位置。 通过在与反馈线25重叠的位置设置电位被固定的屏蔽电极sh3,能够更有效地抑制电荷蓄积区域2fd与反馈线25之间的耦合。 此外,本说明书中的“下层”以及“上层”的用语是为了表示部件间的相对配置而使用的,并不意图限定本公开的摄像装置的姿势。 关于本说明书中的“上部”以及“下部”的用语也是同样的。</base:Paragraphs>
+      <base:Paragraphs num="0054">在图4所例示的结构中,在反馈线25的上层也配置有屏蔽电极。 即,在图示的例子中,在反馈线25与第2电极15c之间配置有屏蔽电极sh4。 屏蔽电极sh4与屏蔽电极sh3同样地配置于在从半导体基板2的法线方向观看时与反馈线25的至少一部分重叠的位置。 通过在反馈线25与第2电极15c之间配置屏蔽电极sh4,能够抑制起因于第2电极15c与反馈线25之间的耦合的串扰,所以能够进一步降低噪声的影响。</base:Paragraphs>
+      <base:Paragraphs num="0055">此外,屏蔽电极的形成不是必须的。 在不形成屏蔽电极的情况下,设计上的限制小,因此能够得到容易使像素微细化的优点。 另外,通过在反馈线25的周围不配置金属电极/金属配线,能够降低反馈线25与金属电极/金属配线之间的耦合电容而防止信号的延迟。 在层叠型的摄像装置中,参照图3可知,能够在多层配线结构的多个层中形成各种控制用配线。 因此,有时无法在反馈线25的上层和/或下层的所希望的位置配置屏蔽电极。 即使在这样的情况下,根据本公开的实施方式,由于反馈线25被配置在相对于电荷蓄积区域2fd离开的位置,所以也能够降低它们之间的耦合而抑制噪声的影响。</base:Paragraphs>
+      <base:Paragraphs num="0056">在图4所例示的结构中,半导体基板2具有：具有比较高的受主浓度的阱2w（在此为P型区域）、和杂质区域2d（在此为N型区域）。 如图所示,作为电荷蓄积区域2fd的杂质区域2d经由多晶硅插塞sp2而与上部电极41w电连接。 在此,电荷蓄积区域2fd是第1复位晶体管36的源极及漏极的一方（参照图3）。 而且,作为与电荷蓄积区域2fd的接触,通过使用由多晶硅形成的插塞,能够避免使用金属插塞时那样的起因于金属/半导体界面的结晶缺陷的影响,因此能够得到抑制暗电流的优点。 在图4所例示的结构中,上部电极41w与放大晶体管34的栅极电极34e经由多晶硅插塞sp2而电连接。 在该实施方式中,构成第1电容元件41的一部分的上部电极41w是将第1复位晶体管36的源极或漏极（源极/漏极扩散层2d）与放大晶体管34的栅极电极34e电连接的布线（导电层）的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0057">放大晶体管34包括两个源极/漏极扩散层2d、形成在半导体衬底2上的栅极绝缘膜34g（典型地为二氧化硅膜）、以及形成在栅极绝缘膜34g上的栅极电极34e。 在此,栅极电极34e是由多晶硅形成的电极。 在图4中,未示出放大晶体管34中的2个源极/漏极扩散层2d,示出了栅极绝缘膜34g、栅极电极34e、以及在2个源极/漏极扩散层2d之间形成的沟道区域34c。 沟道区域34c可以是在规定的注入条件下离子注入有受主或施主的区域。 通过使用离子注入,可以实现期望的阈值电压。 第1复位晶体管36、第2复位晶体管38及寻址晶体管40（参照图3）也可以具有与放大晶体管34大致同样的结构。</base:Paragraphs>
+      <base:Paragraphs num="0058">在该实施方式中,半导体基板2具有电极区域42c。 该电极区域42c通过被元件分离区域2s包围而与单位像素单元10的四个晶体管（放大晶体管34、第一复位晶体管36、第二复位晶体管38以及寻址晶体管40）电分离。 电极区域42c例如可以是通过离子注入而具有比阱2w的部分高的杂质浓度的区域。 或者,可以是与阱2w的导电型不同的导电型的区域。 在此,电极区域42c是通过使用在半导体基板2的规定的区域具有开口的抗蚀剂掩模,向半导体基板2的规定的区域离子注入施主（例如砷（As））而形成的区域。</base:Paragraphs>
+      <base:Paragraphs num="0059">如图4所示,第2电容元件42包含设置在电极区域42c上的电介质层（第1电介质层）42g和隔着电介质层42g与半导体基板2的一部分对置的上部电极42e。 电介质层42g典型地由二氧化硅形成。 上部电极42e与第1复位晶体管36的源极及漏极中的没有连接在电荷蓄积节点44上的一侧电连接。</base:Paragraphs>
+      <base:Paragraphs num="0060">在图4所例示的结构中,第2电容元件42是所谓的MIS电容器。 即,在该例中,半导体基板2中的与上部电极42e对置的部分作为第2电容元件42中的电极之一发挥功能。 另外,这里,第2电容元件42的上部电极42e不是由金属形成的电极,而是由多晶硅形成的电极。 因此,通过将二氧化硅膜和多晶硅膜堆积在半导体基板2上并执行它们的图案化,能够与包括放大晶体管34的4个晶体管的栅极绝缘膜和栅电极的形成并行地形成第2电容元件42的电介质层42g和上部电极42e。 这样,不增加工序就能够在单位像素单元10内形成第2电容元件42。 通过将第2电容元件42形成为所谓的MIS电容器,能够抑制像素内的元件数量的增加,并且能够以简单的结构扩大动态范围。</base:Paragraphs>
+      <base:Paragraphs num="0061">电极区域42c与灵敏度调整线32（参照图2）电连接。 从电压源（在此为垂直扫描电路16）经由灵敏度调整线32向电极区域42c施加规定的电压。 通过控制电极区域42c的电位,能够控制电荷蓄积节点44的电位。 换言之,通过调整经由灵敏度调整线32向电极区域42c供给的电压,能够调整摄像装置100的灵敏度。 另外,通过向电极区域42c供给恒定的电压,能够将上部电极42e的电位保持为恒定的电位。 由此,能够使具有比较大的电容值的第2电容元件42的上部电极42e作为屏蔽电极发挥功能。 通过使第2电容元件42的上部电极42e作为屏蔽电极发挥功能,能够进一步降低电荷蓄积区域2fd与反馈线25之间的耦合电容。</base:Paragraphs>
+      <base:Paragraphs num="0062">此外,在从半导体基板2的法线方向观看时,电介质层42g的形状以及面积不需要与电极区域42c的形状以及面积一致。 电介质层42g不需要覆盖电极区域42c的整体。 电介质层42g也可以形成在包围电极区域42c的元件隔离区域2s上。</base:Paragraphs>
+      <base:Paragraphs num="0063">在图4所例示的结构中,上部电极41w经由接触插塞cpa、配线层6s、通孔va、配线层6a、通孔vb、配线层6b及通孔vc而与第2电极15c电连接。 在该例中,由接触插塞cpa、配线层6s、通孔va、配线层6a、通孔vb、配线层6b及通孔vc形成配线6m（参照图3）。 典型而言,接触插塞cpa、配线层6s、6a及6b、以及通孔va～vc由铜等金属形成。 多晶硅插塞sp2、上部电极41w、接触插塞cpa、配线层6s、6a及6b、过孔va～vc、以及第1复位晶体管36的源极及漏极的一方（在此为漏极）具有蓄积在光电变换部15中生成的电荷的功能。</base:Paragraphs>
+      <base:Paragraphs num="0064">如图所示,在位于布线层6的多层布线构造的最下层的布线层6s与上部电极41w之间,形成有将它们电连接的接触插塞cpa。 接触插塞cpa具有与布线层6s及上部电极41w之间的物理接触。 图4示意性地示出以与反馈线25的延伸方向垂直且包含接触插塞cpa的截面切断单位像素单元10时的单位像素单元10的截面。 如图4所示,这里,反馈线25配置在半导体衬底2中的夹着接触插塞cpa而位于与电荷蓄积区域2fd相反侧的区域上、且比接触插塞cpa靠近第2电极15c的位置。 反馈线25也可以以关于接触插塞cpa与电荷蓄积区域2fd成为点对称的方式配置。 这样,通过在相对于电荷蓄积区域2fd二维地和三维地都远离的位置配置反馈线25,可进一步降低起因于电荷蓄积区域2fd与反馈线25之间的耦合的串扰。</base:Paragraphs>
+      <base:Paragraphs num="0065">在图4所例示的结构中,上部电极41w延伸到第2电容元件42的上部电极42e之上。 由上部电极41w、上部电极42e和夹在它们之间的绝缘膜（第2电介质层）41g形成第1电容元件41。 换言之,第1电容元件41包含第2电容元件42的上部电极42e、形成在上部电极42e上的电介质层41g、以及连接在光电变换部15的第2电极15c上的上部电极41w。 电介质层41g可以是层间绝缘层4s的一部分。 第1电容元件41的上部电极41w的至少一部分在从半导体基板2的法线方向观看时,具有隔着电介质层41g与上部电极42e的重叠。</base:Paragraphs>
+      <base:Paragraphs num="0066">在该例中,第1电容元件41和第2电容元件42共用用来形成电容元件的2个电极中的1个。 此外,电介质层41g可以是层间绝缘层4s的一部分。 这样,电介质层41g可以是形成在半导体基板2上的层间绝缘层的一部分,也可以是与层间绝缘层不同的单独的绝缘膜（或绝缘层）。</base:Paragraphs>
+      <base:Paragraphs num="0067">这里,第1电容元件41的上部电极41w与第2电容元件42的上部电极42e同样,由多晶硅形成。 具有在由多晶硅形成的两个电极之间夹着电介质层的结构的电容元件的CV曲线在比较宽的电压范围内具有平坦的部分。 随着电荷蓄积节点44的电压根据光量而变化,第1电容元件41的电极间的电压表示比较大的变动。 如果将构成第1电容元件41的2个电极由多晶硅形成,则能够在抑制元件尺寸的增大的同时实现具有平坦的CV特性的高精度的电容元件,所以是有益的。 另外,在该例中,上部电极41w是将电荷蓄积区域2fd与放大晶体管34的栅极电极34e连接的导电部的一部分。 因而,通过以该导电部（这里是多晶硅层）的至少一部分经由电介质层41g与第2电容元件42的上部电极42e重叠的方式执行图案化,能够在形成将电荷蓄积区域2fd与放大晶体管34的栅极电极34e连接的导电部的同时形成第1电容元件41。 这样,不增加工序就能够在单位像素单元10内形成第1电容元件41。</base:Paragraphs>
+      <base:Paragraphs num="0068">在图2所例示那样的电路结构中,以行为单位选择单位像素单元10来执行噪声消除的动作。 即,典型地,依次选择沿着列方向排列的多个单位像素单元10中的一个来进行噪声消除。 然而,噪声消除的方法不限于该示例。 例如,也可以通过按单位像素单元10的每列配置多条反馈线,来选择两个以上的行来执行噪声消除。 根据这样的结构,能够更高速地完成噪声消除。 例如,如果在单位像素单元10的每一列配置两条反馈线,在其中的一方连接奇数行的单位像素单元10,在另一方连接偶数行的单位像素单元10,则能够实现两行单位的噪声消除的动作。 这样,单位像素单元10内的反馈线25的条数不限于一条。</base:Paragraphs>
+      <base:Paragraphs num="0069">接下来,将参照图5至图7描述根据本公开的第一实施例的成像装置的变形例。</base:Paragraphs>
+      <base:Paragraphs num="0070">图5示意性地示出单位像素单元10中的各元件的布局的另一例。 图6示意性地示出图5所示的B-B’线截面。图5和图6所例示的结构与参照图3和图4说明的结构的不同点在于,图5和图6所示的单位像素单元10还具有第3电容元件43。</base:Paragraphs>
+      <base:Paragraphs num="0071">如图5所示,第3电容元件43包括配置在第2电容元件42的上部电极42e上的上部电极43e。 如图所示,上部电极43e在从半导体基板2的法线方向观看时,与第2电容元件42的上部电极42e具有重叠。 此外,在图5所例示的结构中,上部电极43e经由接触插塞cp3与构成第2电容元件42的一部分的半导体基板2的电极区域42c电连接。 与参照图3说明的结构同样地,在该例子中,电极区域42c也与灵敏度调整线32电连接。 因此,能够经由灵敏度调整线32,例如从垂直扫描电路16（参照图1）对电极区域42c以及上部电极43e施加期望的电压。</base:Paragraphs>
+      <base:Paragraphs num="0072">如图6所示,第3电容元件43的上部电极43e隔着形成在第2电容元件42的上部电极42e上的电介质层43g而与第2电容元件42的上部电极42e对置。 即,第3电容元件43和第2电容元件42共用用于形成电容元件的2个电极中的1个,并且并联地电连接。 因此,能够使连接在复位漏极节点46与灵敏度调整线32之间的电容元件的电容值增大（参照图2）。 因此,可以更有效地减小kTC噪声。 第3电容元件43具有的电介质层43g与第1电容元件41具有的电介质层41g同样,可以是层间绝缘层4s的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0073">第3电容元件43的上部电极43e典型地由多晶硅形成。 上部电极43e通过将用来形成第1电容元件41的上部电极41w的多晶硅膜图案化,能够与上部电极41w的形成同时形成。 这样,不附加专用的工序,就能够在单位像素单元10内形成在比较宽的电压范围内示出平坦的CV特性的第3电容元件43。 此外,能够在抑制像素尺寸的扩大的同时增大第2电容元件42和第3电容元件43的合成电容。</base:Paragraphs>
+      <base:Paragraphs num="0074">在图6所例示的结构中,与参照图4所说明的结构同样地,在反馈线25与半导体基板2之间配置有屏蔽电极sh3。 此外,如上所述,复位信号线26以及反馈控制线28等沿行方向延伸的布线（参照图3）能够与布线层6s为同层。 在该情况下,为了避免与沿行方向延伸的布线的物理干涉,无法遍及反馈线25的延伸方向的整体地形成与布线层6s同层的屏蔽电极sh3。</base:Paragraphs>
+      <base:Paragraphs num="0075">在图6所示的结构中,在比屏蔽电极sh3靠下层的位置配置有上部电极43e。 该上部电极43e不需要考虑与沿行方向延伸的配线的物理干扰。 因此,能够遍及反馈线25的延伸方向的整体地形成上部电极43e。 另外,在此,在摄像装置100动作时,能够经由灵敏度调整线32对上部电极43e施加恒定的电压。 即,能够使上部电极43e作为屏蔽电极发挥功能。 因此,与在单位像素单元10内不形成第3电容元件43的情况相比,能够进一步降低由电荷蓄积区域2fd与反馈线25之间的耦合引起的串扰。 由此,能够进一步降低噪声的影响。</base:Paragraphs>
+      <base:Paragraphs num="0076">图7示意性地示出单位像素单元10的其他例示性的电路结构。</base:Paragraphs>
+      <base:Paragraphs num="0077">图7所例示的结构与图2所例示的结构的不同点是,第1复位晶体管36的源极及漏极中的没有连接在电荷蓄积节点44上的一侧不是连接在复位漏极节点46上而是连接在反馈线25上。</base:Paragraphs>
+      <base:Paragraphs num="0078">在图7所例示的结构中,将第1复位晶体管36的源极及漏极中的没有连接在电荷蓄积节点44上的一侧直接连接在反馈线25上,所以得到用于确保第1复位晶体管36的驱动力的杂质分布的设计的自由度提高的优点。</base:Paragraphs>
+      <base:Paragraphs num="0079">图7所示的单位像素单元10中的各元件的布局和器件结构与参照图3和图5说明的布局以及参照图4和图6说明的器件结构大致相同,因此省略说明。 此外,图5、图6以及图7所示的单位像素单元10能够通过与图2～图4所示的单位像素单元10相同的方法来制造。</base:Paragraphs>
+      <base:Paragraphs num="0080">（第二实施方式） 
+图8示意性地表示第2实施方式的摄像装置的例示性的电路结构。 图9示意性地示出图8所示的摄像装置200中的单位像素单元50的例示性的电路结构。 第二实施方式与第一实施方式的不同点在于,各单位像素单元50包含具有反馈电路FC2的信号检测电路SC2。 以下,不重复与第1实施方式重复的说明。 </base:Paragraphs>
+      <base:Paragraphs num="0081">如图9所示,第二实施方式的摄像装置200的单位像素单元50包含具有反馈电路FC2的信号检测电路SC2。 该信号检测电路SC2包含放大晶体管34。 放大晶体管34的栅极经由未图示的配线层（参照后述的图11）连接在光电变换部15的第2电极15c上。 放大晶体管34的源极和漏极中的一方与电源布线22连接,另一方与寻址晶体管40和垂直信号线18连接。 垂直信号线18是用于读出信号检测电路SC2的信号的信号线。 垂直信号线18典型地是信号检测电路SC2的输出线。 这里,垂直信号线18经由第2复位晶体管38连接在第1复位晶体管36的源极及漏极中的没有连接在第2电极15c上的一侧。</base:Paragraphs>
+      <base:Paragraphs num="0082">如图所示,在第2实施方式中,第2复位晶体管38的源极或漏极中的未与复位漏极节点46连接的一侧和放大晶体管34的源极及漏极中的未与电源布线22连接的一侧连接。 即,反馈电路FC2形成使放大晶体管34的输出负反馈的反馈环。 换言之,在第二实施例中,由光电转换器15生成的信号经由放大晶体管34被负反馈。 此外,在图9所例示的结构中,放大晶体管34的输出被用作复位时的基准电压。</base:Paragraphs>
+      <base:Paragraphs num="0083">在第二实施方式中,能够在各单位像素单元50内执行用于噪声消除的反馈。 由此,能够不受垂直信号线18的时间常数的影响而高速地执行噪声消除。 此外,在图9所例示的电路结构中,将放大晶体管34的源极或漏极的电压（输出电压）施加于第一复位晶体管36。 根据这样的结构,能够减小将第1复位晶体管36截止前后的电荷蓄积节点44的电压的变化,所以能够实现更高速的噪声抑制。</base:Paragraphs>
+      <base:Paragraphs num="0084">在图示的结构中,在电源布线22连接有电压切换电路54。 电压切换电路54具有第一开关51和第二开关52的组。 电压切换电路54切换对电源布线22供给第一电压Va1和第二电压Va2中的哪一个。 第1电压Va1例如为0V（接地）,第2电压Va2例如为电源电压。 电压切换电路54可以针对每个像素设置,也可以在多个像素之间共用。 通过这样的电路结构,也能够与第一实施方式同样地缩小kTC噪声的影响。</base:Paragraphs>
+      <base:Paragraphs num="0085">在第二实施方式中,省略了反转放大器24（参照图2和图7）。 在第二实施方式中,按每个单位像素单元50执行噪声消除。 在这样的构成中,混入到作为信号检测电路SC2的输出线的垂直信号线18的噪声容易对电荷蓄积区域2fd的电压造成影响。 因此,抑制电荷蓄积区域2fd与垂直信号线18之间的耦合是有益的。</base:Paragraphs>
+      <base:Paragraphs num="0086">图10示意性地示出单位像素单元50中的各元件和配线的布局的一例。 如图10所示,在从半导体基板2的法线方向观看时,作为信号检测电路SC2的输出线的垂直信号线18在单位像素单元50中夹着中心线P配置在电荷蓄积区域2fd的相反侧。 即,在垂直信号线18的下层,没有配置电荷蓄积区域2fd。 由此,能够防止起因于电荷蓄积区域2fd与垂直信号线18之间的耦合的串扰,降低噪声的影响。</base:Paragraphs>
+      <base:Paragraphs num="0087">另外,如图所示,也可以在单位像素单元50中隔着中心线P,在与构成复位漏极节点46的一部分的源极/漏极扩散层2d相反的一侧配置垂直信号线18。 由此,能够抑制复位漏极节点46中的杂质区域2d与垂直信号线18之间的耦合,能够进一步降低噪声的影响。 在图示的例子中,垂直信号线18在单位像素单元50内配置在与具有最大的电极面积的第2电容元件42重叠的位置。 因此,能够进一步抑制电荷蓄积区域2fd与垂直信号线18之间的耦合。</base:Paragraphs>
+      <base:Paragraphs num="0088">在图9以及图10所例示的结构中,不存在跨越多个单位像素单元而延伸的反馈线,因此不需要考虑反馈线中的信号延迟的影响。</base:Paragraphs>
+      <base:Paragraphs num="0089">图11示意地表示图10所示的C-C’线截面。在该例中,垂直信号线18是将放大晶体管34的栅极与光电变换部15的第2电极15c连接的布线层6的一部分。即,布线层6在单位像素单元50内能够包含垂直信号线18的至少一部分。在图11所例示的结构中,垂直信号线18是布线层6所具有的多层布线构造的最下层（这里是布线层6s）以外的布线层（这里是布线层6a）的一部分。如果垂直信号线18设置在多层布线构造所包含的多个布线层中的最下层以外的布线层中,则能够更有效地抑制电荷蓄积区域2fd与垂直信号线18之间的耦合,所以是有利的。</base:Paragraphs>
+      <base:Paragraphs num="0090">如图所示,也可以在垂直信号线18与半导体基板2之间形成屏蔽电极sh3。 该屏蔽电极sh3可以是布线层6的一部分。 屏蔽电极sh3配置在从半导体基板2的法线方向观看时与垂直信号线18重叠的位置。 通过屏蔽电极sh3的配置,能够更有效地抑制电荷蓄积区域2fd与垂直信号线18之间的耦合。</base:Paragraphs>
+      <base:Paragraphs num="0091">图11示意性地示出以与垂直信号线18的延伸方向垂直且包含接触插塞cpa的截面切断单位像素单元50时的单位像素单元50的截面。 如图11所示,也可以在半导体衬底2中的夹着接触插塞cpa而位于与电荷蓄积区域2fd相反侧的区域上且比接触插塞cpa靠近第2电极15c的位置配置垂直信号线18。 通过在相对于电荷蓄积区域2fd二维地和三维地都远离的位置配置垂直信号线18,可进一步降低起因于电荷蓄积区域2fd与垂直信号线18之间的耦合的串扰。</base:Paragraphs>
+      <base:Paragraphs num="0092">在第1实施方式中对反馈线25进行的说明对于第2实施方式中的垂直信号线18也大致同样地成立。 例如,如参照图6所说明的那样,也可以使上部电极43e作为屏蔽电极发挥功能。 此外,例如,与图7所示的例子同样,也可以将第1复位晶体管36的源极及漏极中的没有连接在电荷蓄积节点44上的一侧直接连接在垂直信号线18上。 通过这样的连接,能够得到用于确保第1复位晶体管36的驱动力的杂质分布的设计的自由度提高这样的优点。</base:Paragraphs>
+      <base:Paragraphs num="0093">此外,能够由上述的摄像装置100或摄像装置200、和使被摄体的像成像于光电变换膜15b的受光面15h上的光学系统构成照相机系统。 也可以在光电变换部15的第1电极15a上进一步配置保护膜、彩色滤光片以及透镜（微透镜）等。</base:Paragraphs>
+      <base:Paragraphs num="0094">（第三实施方式） 
+在上述的实施方式中,在半导体基板2设置电极区域42c,作为所谓的MIS电容器而形成第2电容元件42。 然而,信号检测电路中的高电容的电容元件的结构并不限定于上述的例子。 如以下说明的那样,也可以与第2电容元件42一起或者代替第2电容元件42,将具有在由金属或金属化合物形成的2个电极之间夹着电介质的构造的电容元件配置在设置于半导体基板2与光电变换部15之间的层间绝缘层内。 以下,有时将在由金属或金属化合物形成的两个电极之间夹着电介质的结构称为“MIM（Metal-Insulator-Metal）结构”。 通过将配置在半导体基板2与光电变换部15之间的层间绝缘层内的电容元件形成为具有所谓的MIM构造的电容元件,容易得到更大的电容值。 即,能够以简单的结构扩大动态范围。 </base:Paragraphs>
+      <base:Paragraphs num="0095">图12示意性地表示第三实施方式所涉及的摄像装置中的单位像素单元的器件构造的一个例子。 此外,图12所示的单位像素单元60A中的半导体基板2上的各元件的布局能够与例如图3所例示的单位像素单元10中的布局相同。 图12是与图3所示的A-A’线剖视图对应的图。</base:Paragraphs>
+      <base:Paragraphs num="0096">图12所示的单位像素单元60A具有配置在半导体基板2与第2电极15c之间的电容元件62。 电容元件62包含上部电极62u、下部电极62b、以及配置在上部电极62u与下部电极62b之间的电介质层62d。 如图示那样,下部电极62b配置在比上部电极62u更远离第2电极15c（即,比上部电极62u更靠近半导体基板2）。</base:Paragraphs>
+      <base:Paragraphs num="0097">在此,在层间绝缘层4c上形成有下部电极62b,电容元件62被设置在层间绝缘层4c与光电变换膜15b之间的层间绝缘层4d覆盖。 这样,通过在光电变换部15与放大晶体管34的栅极电极34e之间配置下部电极62b及上部电极62u,能够抑制包含放大晶体管34的栅极电极34e的布线层与下部电极62b及上部电极62u之间的干涉。 因此,可以形成具有比较大的电极面积的电容元件62。</base:Paragraphs>
+      <base:Paragraphs num="0098">下部电极62b典型的是金属电极或金属氮化物电极。 用于形成下部电极62b的材料的例子是Ti、TiN、Ta、TaN、Mo、Ru以及Pt。 下部电极62b也可以是设置于层间绝缘层4d内的布线层的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0099">在下部电极62b上层叠有电介质层62d。 在该例中,电介质层62d将下部电极62b中与第2电极15c对置的一侧的表面和侧面覆盖。</base:Paragraphs>
+      <base:Paragraphs num="0100">电介质层62d也可以由与构成层间绝缘层4d的材料（典型地为二氧化硅）不同的材料（例如金属氧化物或金属氮化物）形成。 若在设置于半导体基板2与光电变换部15之间的层间绝缘层内配置电容元件62,则作为用于形成电介质层62d的材料,比较容易采用具有比较高的介电常数的材料。 因此,容易实现比较大的电容值。 用于形成电介质层62d的材料的例子是含有从由Zr、Al、La、Ba、Ta、Ti、Bi、Sr、Si、Y以及Hf构成的组中选择的1种以上的氧化物或氮化物。 用于形成电介质层62d的材料可以是2元系化合物,也可以是3元系化合物或4元系化合物。 作为用于形成电介质层62d的材料,例如能够使用HfO<base:Sub>2</base:Sub>、Al<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>、ZrO<base:Sub>2</base:Sub>、TiO<base:Sub>2</base:Sub>、SrTiO<base:Sub>3</base:Sub>等具有比较高的介电常数的材料。 电介质层62d也可以包含由相互不同的材料形成的2个以上的层。</base:Paragraphs>
+      <base:Paragraphs num="0101">在电介质层62d上层叠有上部电极62u。 在该例中,上部电极62u将电介质层62d中与第2电极15c对置的一侧的表面和侧面覆盖。 上部电极62u典型地是金属电极或金属氮化物电极。 即,在此,电容元件62具有所谓的MIM结构。 作为用于形成上部电极62u的材料,能够使用与用于形成下部电极62b的材料相同的材料。 上部电极62u也可以是设置于层间绝缘层4d内的布线层的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0102">也可以在上部电极62u与电介质层62d之间配置由Cu、Al等金属或者多晶硅等形成的保护层。 通过在上部电极62u与电介质层62d之间配置保护层,能够抑制制造工序中的电介质层62d的损伤,因此能够抑制上部电极62u与下部电极62b之间的漏电流的产生。</base:Paragraphs>
+      <base:Paragraphs num="0103">上部电极62u具有开口AP。 在开口AP内配置有通孔vd、连接部66u以及连接部66b。 连接部66u和连接部66b与上部电极62u和下部电极62b分别为同层。 如图所示,经由过孔vd、连接部66u及连接部66b,将光电变换部15的第2电极15c与具有与放大晶体管34的栅极电极34e的连接的过孔vc连接。 通孔vd可以由诸如铜的金属形成。 通孔vd、连接部66u及连接部66b构成单位像素单元60A中的电荷蓄积区域的一部分。</base:Paragraphs>
+      <base:Paragraphs num="0104">在图12所例示的结构中,下部电极62b中的通孔vd的右侧所示的部分经由设置在通孔vc1、布线层6b、通孔vb1、布线层6a、通孔va1、布线层6s以及层间绝缘层4s内的接触插塞cpb,与第2电容元件42的上部电极42e连接。 即,下部电极62b具有与在图12中未图示的复位漏极节点46的连接。 在此,下部电极62b是按每个单位像素单元60A设置的单一的电极（参照后述的图13）,在图12中在开口AP的左右分离表示的下部电极62b的两个部分为等电位。</base:Paragraphs>
+      <base:Paragraphs num="0105">在该例中,上部电极62u覆盖与下部电极62b形成于同一层的连接部64b。 耦合部分64b经由过孔vc3、布线层6b、过孔vb3、布线层6a和过孔va3耦合到作为布线层6s的一部分的布线6z。 该布线6z具有与图12中未图示的灵敏度调整线32的连接。 即,电容元件62与上述的第2电容元件42电并联连接,与第2电容元件42同样地发挥功能。</base:Paragraphs>
+      <base:Paragraphs num="0106">通过在单位像素单元60A内形成电容元件62,能够省略第2电容元件42。 在省略了第2电容元件42的情况下,不需要在半导体基板2中确保用于电极区域42c的区域。 因此,半导体基板2中的元件布局的设计的自由度提高。 例如,通过省略电极区域42c,能够减小像素尺寸。 可替代地,可以增加半导体衬底2上的晶体管（例如,放大晶体管34）的尺寸。 通过晶体管的尺寸的扩大,能够降低晶体管的特性的偏差,因此能够降低单位像素单元间的灵敏度偏差。 另外,通过晶体管的尺寸的扩大,驱动能力提高（也可以称为跨导g<base:Sub>m</base:Sub>的提高）,因此能够进一步降低噪声。</base:Paragraphs>
+      <base:Paragraphs num="0107">另外,在该例中,上部电极62u在光电变换部15的与第2电极15c对置的面的相反侧的面中,与过孔vc3电连接。 这样,通过将用于上部电极62u与灵敏度调整线32之间的电连接的触点设置在靠近半导体基板2一侧的面,能够避免布线的复杂化。 此外,由于能够缩小上部电极62u与光电变换部15的第2电极15c之间的距离,所以能够减小相互邻接的像素间的电荷蓄积区域彼此的寄生电容。</base:Paragraphs>
+      <base:Paragraphs num="0108">在摄像装置（摄像装置100或摄像装置200）动作时,经由灵敏度调整线32对上部电极62u施加规定的电压。 此外,在此,上部电极62u与下部电极62b同样,是按每个单位像素单元60A设置的单一的电极（参照后述的图13）,在图12中在开口AP的左右分离表示的上部电极62u的两个部分为等电位。</base:Paragraphs>
+      <base:Paragraphs num="0109">图13示出从半导体基板2的法线方向观察单位像素单元60A时的上部电极62u、电介质层62d以及下部电极62b的配置的一个例子。 在图13中,与图3同样地还示出了A-A’切断线、假想的中心线P以及反馈线25.如图13所示,从半导体基板2的法线方向观察时的上部电极62u的形状与下部电极62b的形状不需要一致。在从半导体基板2的法线方向观察时,上部电极62u包含与下部电极62b的至少一部分相对的部分即可。</base:Paragraphs>
+      <base:Paragraphs num="0110">在该例中,下部电极62b和上部电极62u在单位像素单元60A中占据较大的区域。 电容元件62可以是设置于单位像素单元60A内的电容元件中的、从半导体基板2的法线方向观察时具有最大的电极面积的电容元件。</base:Paragraphs>
+      <base:Paragraphs num="0111">在图示的例子中,反馈线25配置在与电容元件62重叠的位置。 如上所述,在该例子中,上部电极62u具有与灵敏度调整线32的连接。 因此,如果在光电转换部15与上部电极62u之间配置反馈线25,在摄像装置动作时经由灵敏度调整线32向上部电极62u供给恒定的电压,则能够使在单位像素单元60A内具有最大的电极面积的电容元件的电极（例如电容元件62的上部电极62u）作为屏蔽电极发挥功能。 如果在与电容元件62重叠的位置配置反馈线25,则能够遍及反馈线25中的单位像素单元60A所包含的部分的整体,在反馈线25与半导体基板2之间形成上部电极62u（或者下部电极62b）。 通过采用这样的配线的配置,也能够降低电荷蓄积区域2fd与反馈线25之间的耦合电容。 此外,如果在与电容元件62重叠的位置配置垂直信号线18,则能够降低电荷蓄积区域2fd与垂直信号线18之间的耦合电容。</base:Paragraphs>
+      <base:Paragraphs num="0112">另外,下部电极62b和上部电极62u在单位像素单元60A中占据较大的区域,因此通过将下部电极62b和/或上部电极62u中的至少一方形成为遮光性的电极,能够使下部电极62b或上部电极62u作为遮光层发挥功能。 例如通过使上部电极62u作为遮光层发挥功能,能够将穿过形成在第2电极15c间的间隙的光由上部电极62u遮挡。 由此,能够抑制通过了形成在第2电极15c间的间隙的光向半导体衬底2上的晶体管（例如放大晶体管34）的沟道区域入射。 例如,通过形成厚度为100nm的TaN电极作为上部电极62u,能够实现充分的遮光性。</base:Paragraphs>
+      <base:Paragraphs num="0113">根据第3实施方式,能够抑制杂散光向半导体基板2上的晶体管的沟道区域的入射而抑制晶体管的特性的偏移（例如阈值电压的变动）。 通过抑制杂散光向半导体基板2上的晶体管的沟道区域的入射,各像素的晶体管的特性稳定化,能够降低多个像素间的晶体管的动作的偏差。 这样,抑制杂散光向半导体基板2上的晶体管的沟道区域的入射有助于摄像装置的可靠性的提高。</base:Paragraphs>
+      <base:Paragraphs num="0114">在图13所例示的构成中,通过使上部电极62u在空间上分离,从而在单位像素单元60A之间使上部电极62u电分离。 即,在该例中,在相互邻接的上部电极62u之间存在微小的间隙。 然而,在此,上部电极62u分别构成为经由灵敏度调整线32被供给规定的电压。 因此,能够使相互邻接的上部电极62u间的距离比相互邻接的第2电极15c间的距离充分小。 因而,能够将穿过形成在第2电极15c间的间隙的光的大部分由上部电极62u遮挡。 此外,在图1所例示的电路结构中,对属于同一行的单位像素单元（在此为单位像素单元60A）中的上部电极62u施加共用的电压。 因此,也可以将遍及多个列而沿行方向延伸的多个带状的电极用作上部电极62u。 当然,如图13所示,也可以将上部电极62u按每个单位像素单元60A在空间上分离,按每个上部电极62u供给独立的电压。</base:Paragraphs>
+      <base:Paragraphs num="0115">在该例中,上部电极62u的开口AP在附图中形成于单位像素单元60A的下方。 然而,开口AP的配置并不限定于该例。 例如,也可以在单位像素单元60A的中央配置开口AP,以包围连接部66u及连接部66b的方式形成上部电极62u。 如果在单位像素单元60A的中央配置开口AP,将上部电极62u的形状设为关于连接部66u对称性高的形状,则能够减少单位像素单元60A内的电容的不均,因此是有益的。 从半导体基板2的法线方向观看时的上部电极62u的形状并不限定于图13所示的形状。 例如,上部电极62u也可以包含多个部分。 电介质层62d和下部电极62b也是同样的。</base:Paragraphs>
+      <base:Paragraphs num="0116">如上所述,在该例子中,上部电极62u具有与灵敏度调整线32的连接,因此通过经由灵敏度调整线32向上部电极62u供给恒定的电压,能够使摄像装置动作时的上部电极62u的电位恒定。 因此,以包围连接部66u以及连接部66b的方式形成上部电极62u,通过向上部电极62u施加一定的电压,能够使上部电极62u作为屏蔽电极发挥功能。 通过上部电极62u作为屏蔽电极发挥功能,能够抑制向电荷蓄积节点44的噪声混入。</base:Paragraphs>
+      <base:Paragraphs num="0117">如以上说明那样,在第3实施方式中,作为连接在复位漏极节点46与灵敏度调整线32之间的电容元件,将电容元件62配置在上部电极41w与光电变换部15的第2电极15c之间。 如图12所例示,该电容元件62配置在单位像素单元60A的层间绝缘层（例如层间绝缘层4d）内。 因此,可以将电容元件62形成为具有所谓的MIM结构的电容元件。 换言之,在电容元件62中容易得到较大的电容值。 利用这种配置,类似于上述第一和第二实施例,可以减小由复位引起的kTC噪声。 另外,若电容元件62为高电容,则能够增大信号电荷的蓄积区域整体的电容,因此有利于高照度下的拍摄。</base:Paragraphs>
+      <base:Paragraphs num="0118">（电容元件62的形成方法） 
+以下,对用来形成电容元件62的制造工序的概要进行说明。 </base:Paragraphs>
+      <base:Paragraphs num="0119">在形成过孔vc、vc1以及vc3之后,在层间绝缘层4c上形成下部电极62b、连接部66b以及连接部64b。 作为用于形成下部电极62b、连接部66b以及连接部64b的材料,在此使用TaN。 下部电极62b、连接部66b以及连接部64b向层间绝缘层4c上的形成能够应用在一般的半导体工艺中导入的光刻。 之后,通过堆积电介质层62d的材料而形成电介质膜,执行电介质膜的图案化。</base:Paragraphs>
+      <base:Paragraphs num="0120">电介质膜的形成例如能够应用原子层沉积法（Atomic Layer Deposition(ALD)）。 根据ALD,能够将相互不同的原子以几个原子为单位进行层叠。 在此,作为电介质膜,形成Hf的氧化物的膜。 在Hf的氧化物的膜的形成中,使用四乙基甲基酰胺铪作为前体,在前体的导入后进行等离子体放电。 通过在氧气氛中进行等离子体放电,可促进Hf的氧化。 通过重复上述工序,将HfO<base:Sub>2</base:Sub>逐层层叠。 例如,通过重复250次气体状的前体的导入和等离子体放电,形成具有22nm的厚度的膜。</base:Paragraphs>
+      <base:Paragraphs num="0121">在电介质膜的图案化中,能够应用在一般的半导体工艺中导入的光刻。 通过电介质膜的图案化,形成电介质层62d。 电介质层62d可以是连续的单一的膜,也可以包含配置于下部电极62b上的互不相同的部位的多个部分。</base:Paragraphs>
+      <base:Paragraphs num="0122">在形成电介质层62d后,与下部电极62b同样地形成上部电极62u和连接部66u。 之后,形成层间绝缘层4d和通孔vd,在层间绝缘层4d上形成光电变换部15,从而得到图12所示的器件构造。</base:Paragraphs>
+      <base:Paragraphs num="0123">也可以使用TiN、TaN、WN等的金属氮化物形成光电变换部15的第2电极15c。 金属氮化物的致密性优异,具有即使在高温下也不易引起杂质元素的移动和/或混入的性质。 因此,通过使用金属氮化物（这里是TaN）形成位于电介质层62d的上方的上部电极62u,并且使用金属氮化物形成第2电极15c,能够抑制由杂质引起的载流子向电介质层62d的混入。 通过抑制杂质向电介质层62d的混入,能够降低电容元件62中的上部电极62u与下部电极62b之间的漏电流。</base:Paragraphs>
+      <base:Paragraphs num="0124">另外,金属氮化物在溅射中不易产生迁移,因此容易形成平坦的表面。 如果使用金属氮化物形成光电变换部15的第2电极15c,则能够实现经由平坦的界面的接合。 通过抑制第2电极15c的表面的凹凸,能够实现第2电极15c与光电变换膜15b之间的顺畅的电荷输送。 另外,能够抑制由界面缺陷引起的能级的产生,抑制暗电流。 这样,如果将电容元件62的上部电极62u及光电变换部15的第2电极15c的双方由金属氮化物形成,则从漏电流及暗电流减少的观点来看是有益的。 进而,如果使用金属氮化物形成电容元件62的下部电极62b,则能够进一步提高上部电极62u的平坦性,因此是有益的。 另外,能够抑制电介质层62d的氧化,因此是有益的。</base:Paragraphs>
+      <base:Paragraphs num="0125">在此,例示出对图4所示的结构附加电容元件62的结构。 当然,也可以是在图6所示的结构及图11所示的结构中附加上述电容元件62的结构。 例如,当然也可以是代替图13所示的反馈线25而配置有垂直信号线18的结构。</base:Paragraphs>
+      <base:Paragraphs num="0126">（第三实施方式的第一变形例） 
+图14示意性地表示第三实施方式所涉及的摄像装置中的单位像素单元的器件构造的另一例。 图15示出从半导体基板2的法线方向观察图14所示的单位像素单元60B时的、上部电极62u、电介质层62d以及下部电极62b的配置的一个例子。 图14是与图15所示的A-A’线剖视图对应的图。图14及图15所示的单位像素单元60B与参照图12及图13说明的单位像素单元60A之间的主要不同点在于,上部电极62u及下部电极62b分别与复位漏极节点46及灵敏度调整线32连接。 </base:Paragraphs>
+      <base:Paragraphs num="0127">如图14所示,在该例子中,上部电极62u经由连接部64b、过孔vc2、布线层6b、过孔vb2、布线层6a以及过孔va2而与作为布线层6s的一部分的布线6w连接。 该布线6w具有与复位漏极节点46的连接。 即,上部电极62u具有与复位漏极节点46的连接。 另一方面,下电极62b通过过孔vc3、布线层6b、过孔vb3、布线层6a和过孔va3耦合到布线6z。 即,下部电极62b具有与灵敏度调整线32的连接。 即,在该例子中,电容元件62也连接在复位漏极节点46与灵敏度调整线32之间。 因此,电容元件62与上述的第2电容元件42同样地发挥功能。 另外,在该例中,下部电极62b具有与灵敏度调整线32的连接,因此能够经由灵敏度调整线32控制下部电极62b的电位。 通过控制下部电极62b的电位,能够控制电荷蓄积节点44的电位,调整摄像装置的灵敏度。 如果在摄像装置动作时经由灵敏度调整线32向下部电极62b供给恒定的电压,则能够使下部电极62b作为屏蔽电极发挥功能。</base:Paragraphs>
+      <base:Paragraphs num="0128">如图14所示,在该例中,将电荷蓄积区域2fd（第1复位晶体管36的源极或漏极）和放大晶体管34的栅极电极34e连接的上部电极41x没有延伸到第2电容元件42的上部电极42e之上。 换言之,在从半导体基板2的法线方向观看时,上部电极41x与上部电极42e不具有重叠。 因而,单位像素单元60B在层间绝缘层4s内不具有由相互对置的2个多晶硅层和被它们夹着的绝缘膜构成的第1电容元件41。</base:Paragraphs>
+      <base:Paragraphs num="0129">这里,如果关注光电变换部15及电容元件62,则光电变换部15的第2电极15c与电容元件62的上部电极62u隔着层间绝缘层4d对置。 如上所述,在该例中,上部电极62u具有与复位漏极节点46的连接。 即,由第2电极15c、上部电极62u及层间绝缘层4d形成的电容元件41B能够视为连接在电荷蓄积节点44与复位漏极节点46之间的电容元件。 例如根据图2所示的电路结构可知,该电容元件41B与上述的第1电容元件41同样地发挥功能。</base:Paragraphs>
+      <base:Paragraphs num="0130">这样,也可以代替第1电容元件41,而将形成在光电变换部15的第2电极15c与电容元件62的上部电极62u之间的电容用作低电容的电容元件。 在这样的结构中,只要通过电容元件62得到充分大的电容值,就能够省略作为所谓的MIS电容器而形成的第2电容元件42。</base:Paragraphs>
+      <base:Paragraphs num="0131">此外,例如也可以如图12所示的上部电极41w那样,使上部电极41x延伸到第2电容元件42的上部电极42e之上。 但是,从噪声的缩小以及变换增益的降低的抑制的观点来看,上部电极41x不具有与第2电容元件42的上部电极42e的重叠是有利的。</base:Paragraphs>
+      <base:Paragraphs num="0132">单位像素单元60B的制造方法除了用于形成上部电极41x的抗蚀剂掩模的图案以及用于形成布线层6s的抗蚀剂掩模的图案不同这一点以外,可以与单位像素单元60A的制造方法大致相同。 因此,省略单位像素单元60B的制造方法的说明。</base:Paragraphs>
+      <base:Paragraphs num="0133">（第三实施方式的第二变形例） 
+图16示意性地表示第三实施方式所涉及的摄像装置中的单位像素单元的器件构造的又一例。 图17表示从半导体基板2的法线方向观察图16所示的单位像素单元60C时的上部电极62u、电介质层62d以及下部电极62b的配置的一个例子。 图16是与图17所示的A-A’线截面图对应的图。图16及图17所示的单位像素单元60C与参照图12及图13说明的单位像素单元60A之间的主要的不同点在于,代替第1电容元件41,在层间绝缘层内形成有具有下部电极62b作为一方的电极的低电容的电容元件41C。 </base:Paragraphs>
+      <base:Paragraphs num="0134">在图16所例示的单位像素单元60C中,与参照图12说明的单位像素单元60A同样地,下部电极62b及上部电极62u分别与复位漏极节点46及灵敏度调整线32连接。 单位像素单元60C与参照图14说明的单位像素单元60B同样地,在层间绝缘层4s内不具有第1电容元件41。</base:Paragraphs>
+      <base:Paragraphs num="0135">在图16所例示的结构中,形成于层间绝缘层4b内的布线层6b包含配置于通孔vc与通孔vb之间的电极6bx。 如在图16以及图17中示意性地示出的那样,在从半导体基板2的法线方向观看时,该电极6bx具有与下部电极62b重叠的部分。 即,电极6bx的至少一部分隔着层间绝缘层4c的至少一部分与下部电极62b的至少一部分相对。 由此,在电容元件62与配置在层间绝缘层（在此为层间绝缘层4c）内的布线层（在此为电极6bx）之间形成电容元件41C。 层间绝缘层4c中的被下部电极62b和电极6bx夹着的部分作为电容元件41C中的电介质层发挥功能。 由于下部电极62b具有与复位漏极节点46的连接,电极6bx具有与第2电极15c的连接,所以电容元件41C与上述的第1电容元件41同样地发挥功能。</base:Paragraphs>
+      <base:Paragraphs num="0136">这样,也可以在电容元件62与配置在层间绝缘层内的布线层之间形成电容元件。 根据这样的构成,能够比较容易地将低电容（例如0.5 fF左右）的电容元件配置于单位像素单元内。 在该例子中,将布线层6b的一部分（在此为电极6bx）用作低电容的电容元件中的一个电极,但低电容的电容元件中的一个电极也可以是布线层6a或6s等其他布线层的一部分。 在参照图16和图17说明的结构中,只要通过电容元件62得到充分大的电容值,就能够省略形成为所谓的MIS电容器的第2电容元件42。</base:Paragraphs>
+      <base:Paragraphs num="0137">单位像素单元60C的制造方法除了用于形成上部电极41x的抗蚀剂掩模的图案及用于形成电极6bx的抗蚀剂掩模的图案不同这一点以外,可以与单位像素单元60A的制造方法大致相同。 因此,省略单位像素单元60C的制造方法的说明。</base:Paragraphs>
+    </business:EmbodimentsDescription>
+    <business:IndustrialApplicability>
+      <base:Paragraphs num="0138">根据本公开的实施例,可以减少kTC噪声的影响。 本公开的实施方式对于数码相机等是有用的。</base:Paragraphs>
+    </business:IndustrialApplicability>
+    <business:ReferenceSignsList>
+      <base:Paragraphs num="0139">2半导体基板,2s元件分离区域,2d杂质区域,2fd电荷蓄积区域,2w阱,4a、4b、4c、4d、4s层间绝缘层,6bx电极,6m、6w、6z布线,6、6s、6a、6b布线层,8恒流源,10、50单位像素单元,15光电转换部,15a第1电极,15b光电转换膜,15c第2电极（像素电极）。 
+15h受光面16垂直扫描电路17蓄积控制线18垂直信号线19负载电路20列信号处理电路21水平信号读出电路22电源布线23水平共用信号线24反转放大器25反馈线26复位信号线28反馈控制线30地址信号线32灵敏度调整线34放大晶体管36第1复位晶体管38第2复位晶体管34e栅极电极34g栅极绝缘膜34c沟道区域40地址晶体管41、41B、41C电容元件（第1电容元件）。 
+41g电介质层41w、41x上部电极42、62电容元件（第2电容元件） 
+42c电极区域（第四电极） 
+42e、62u上部电极（第三电极） 
+42g、62d电介质层（第1电介质层） 
+43电容元件（第三电容元件） 
+43e上部电极（第五电极） 
+43g电介质层（第二电介质层） 
+44电荷蓄积节点46复位漏极节点50单位像素单元51第一开关52第二开关54电压切换电路60A～60C单位像素单元62b下部电极（第四电极） 
+64、66b、66u连接部AP开口FC、FC2反馈电路SC、SC2信号检测电路100、200摄像装置sp1、sp2多晶硅插塞s1多晶硅层cp1、cp3、cpa、cpb接触插塞va、vb、vc过孔va1～va3、vb1～vb3、vc1～vc3过孔sh1～sh4屏蔽电极Va1第一电压Va2第二电压 </base:Paragraphs>
+    </business:ReferenceSignsList>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="84" wi="85" file="2016127265_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="76" wi="85" file="2016127265_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="86" wi="85" file="2016127265_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="65" wi="85" file="2016127265_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="78" wi="85" file="2016127265_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000008" he="65" wi="85" file="2016127265_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000009" he="75" wi="85" file="2016127265_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000010" he="86" wi="85" file="2016127265_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0009">
+      <base:Image id="000011" he="105" wi="85" file="2016127265_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0010">
+      <base:Image id="000012" he="79" wi="85" file="2016127265_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0011">
+      <base:Image id="000013" he="64" wi="85" file="2016127265_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0012">
+      <base:Image id="000014" he="70" wi="85" file="2016127265_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0013">
+      <base:Image id="000015" he="80" wi="85" file="2016127265_000015.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0014">
+      <base:Image id="000016" he="69" wi="85" file="2016127265_000016.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0015">
+      <base:Image id="000017" he="79" wi="85" file="2016127265_000017.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0016">
+      <base:Image id="000018" he="70" wi="85" file="2016127265_000018.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0017">
+      <base:Image id="000019" he="83" wi="85" file="2016127265_000019.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>半导体基板； 以及设置在所述半导体基板与所述光电转换部之间的布线层,在所述半导体基板设置有电荷蓄积区域,所述电荷蓄积区域蓄积由所述光电转换部生成的信号电荷,所述布线层在所述单位像素单元内包含形成所述反馈电路的至少一部分的信号线的至少一部分,在从所述半导体基板的法线方向观察时,所述信号线在所述单位像素单元中隔着与所述信号线延伸的方向平行的中心线而位于与所述电荷蓄积区域相反的一侧。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>半导体基板； 单位像素单元,其包含对入射光进行光电转换的光电转换部以及检测由所述光电转换部生成的信号的信号检测电路； 配线层,其设置在所述半导体基板与所述光电转换部之间,所述信号检测电路具有与所述配线层电连接的放大晶体管和使所述放大晶体管的输出负反馈的反馈电路,在所述半导体基板设置有蓄积由所述光电转换部生成的信号电荷的电荷蓄积区域,所述配线层在所述单位像素单元内包含读出所述信号检测电路的信号的信号线的至少一部分,在从所述半导体基板的法线方向观察时,所述信号线在所述单位像素单元中隔着与所述信号线延伸的方向平行的中心线而位于与所述电荷蓄积区域相反的一侧。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>根据权利要求1或2所述的摄像装置,其特征在于,所述信号检测电路包含多个电容元件,所述信号线配置在从所述半导体基板的法线方向观看时与所述多个电容元件中具有最大的电极面积的电容元件重叠的位置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>所述光电转换部具有光电转换膜、形成在所述光电转换膜的受光面侧的第1电极、以及隔着所述光电转换膜与所述第1电极对置的第2电极,所述信号检测电路包含：栅极与所述第2电极连接的放大晶体管、源极及漏极中的一方与所述第2电极连接的复位晶体管、一方的电极与所述第2电极连接的第1电容元件、以及具有比所述第1电容元件大的电容值的第2电容元件,所述第2电容元件配置在所述半导体基板与所述第2电极之间的第3电极、比所述第3电极远离所述第2电极配置的第4电极、以及配置在所述第3电极与所述第4电极之间。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>所述光电转换部具有光电转换膜、形成在所述光电转换膜的受光面侧的第1电极、以及隔着所述光电转换膜与所述第1电极对置的第2电极,所述信号检测电路包含源极和漏极中的一方与所述第2电极连接的复位晶体管、一方的电极与所述第2电极连接的第1电容元件、以及具有比所述第1电容元件大的电容值的第2电容元件,所述放大晶体管的所述栅极与所述第2电极连接,所述第2电容元件具有配置在所述半导体基板与所述第2电极之间的第3电极、配置得比所述第3电极远离所述第2电极的第4电极、以及所述第3电极和所述第4电极的第2电极</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>根据权利要求4或5所述的摄像装置,其中,所述信号线配置在从所述半导体基板的法线方向观看时与所述第二电容元件重叠的位置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求6所述的成像装置,其中,所述第二电容元件的所述第四电极是形成在所述半导体基板中的杂质区域。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求7所述的摄像装置,还包括第三电容元件,所述第三电容元件包括形成在所述第三电极上的第二介电层和隔着所述第二介电层与所述第三电极重叠的第五电极,其中,所述第四电极和所述第五电极连接到提供灵敏度调节电压的电压源。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>根据权利要求4至8中任一项所述的成像装置,其中,所述信号线连接到所述复位晶体管的源极和漏极中的另一个。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求4至9中任一项所述的摄像装置,其中,所述第一电容元件连接在所述复位晶体管的源极与漏极之间。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求4至10中任一项所述的摄像装置,其特征在于,在所述放大晶体管的所述栅极与所述第2电极之间还具备接触插塞,所述接触插塞与所述布线层及所述第1电容元件的所述一方的电极物理接触,且将它们电连接,在与所述信号线的延伸方向垂直且包含所述接触插塞的所述单位像素单元的截面中,所述信号线配置在所述半导体基板中的夹着所述接触插塞而位于与所述电荷蓄积区域相反侧的区域上,且配置在比所述接触插塞更靠近所述第2电极的位置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>根据权利要求1至11中任一项所述的摄像装置,其中,所述布线层具有多层布线结构,并且所述信号线是除了所述多层布线结构的最下层之外的布线层的一部分。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>根据权利要求1至12中任一项所述的成像装置,其中,所述布线层包括屏蔽电极,所述屏蔽电极布置在所述信号线和所述半导体基板之间,并且布置在当从所述半导体基板的法线方向观看时与所述信号线重叠的位置处。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

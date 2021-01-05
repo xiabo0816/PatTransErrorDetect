@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102020000506294JP00020205164320AFULJA20200611JP00R.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020516432" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516432</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020516432</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102020000506294</base:DocNumber>
+        <base:Date>20180405</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020506294</base:DocNumber>
+        <base:Date>20180405</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>15/489,109</base:DocNumber>
+        <base:Date>20170417</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102017000489109</base:DocNumber>
+        <base:Date>20170417</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>25</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M  25/00        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>25</business:MainGroup>
+        <business:Subgroup>098</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M  25/098       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61M25/00 504</business:FI>
+      <business:FI type="secondary">A61M25/00 630</business:FI>
+      <business:FI type="secondary">A61M25/098</business:FI>
+      <business:FClass>
+        <business:FTerm>4C267AA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB07</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB12</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB39</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB40</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267BB52</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267CC08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267GG05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267GG32</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267GG34</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267GG36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267HH04</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267HH08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C267HH17</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C267</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">具有定制系数响应的导管管体</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ベクトン・ディキンソン・アンド・カンパニー</base:Name>
+            <base:RegisteredNumber>595117091</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ニュー・ジャージー  07417－1880  フランクリン・レイクス  ベクトン・ドライブ  1</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>リサ  リム</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  84094  ユタ州  サンディ  サウス  トゥエルブ  パインズ  ドライブ  7908</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>テレサ  ハーメル－ダビドック</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  07806  ニュージャージー州  ニュートン  ハンターズ  ウェイ  4</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マーク  ダブリュ.ヴァイマー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  84095  ユタ州  サウス  ジョーダン  サウス  サドルブルック  サークル  10894</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ジョナサン  カール  バークホルツ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  84108  ユタ州  ソルト  レーク  シティ  サウス  ワサッチ  ドライブ  1971</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>特許業務法人  谷・阿部特許事務所</base:Name>
+            <base:RegisteredNumber>110001243</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DJ</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JO</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KH</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KW</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2018026250</base:DocNumber>
+        <base:Date>20180405</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2018194840</base:DocNumber>
+        <base:Date>20181025</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>29</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>导管管体可以包括：细长主体,其包括基材热塑性聚氨酯； 和复合热塑性聚氨酯,所述复合热塑性聚氨酯与基材热塑性聚氨酯共挤出以提供与细长主体分开的导管管体的区段,其中所述复合热塑性聚氨酯包含热塑性聚氨酯和不透射线的材料； 导管管体在进入患者之前在第一条件下具有第一弹性模量； 并且当暴露于包括两种或更多种体内刺激的第二条件一段时间时,导管管体包括小于或等于第一模量的50%的第二弹性模量。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="77" wi="69" file="2020516432_000002.TIF" imgFormat="TIFF" imgContent="drawing"/>
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">本公开总体上涉及医疗领域中的装置、系统和方法,其包括包含热塑性聚氨酯的导管管体,所述热塑性聚氨酯具有软化曲线,其中管仅在暴露于体内刺激时软化。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">热塑性聚氨酯材料是用于各种医疗应用的一些最常用的生物材料聚合物。 一些热塑性聚氨酯材料是刚性的,并且其柔韧性不可控。 这限制了许多类型的聚氨酯在医疗应用中的使用,特别是用于长期药物应用。 在一些情况下,这些材料不能保持初始刚度或其他物理性质,并且这些物理性质变化非常快。</base:Paragraphs>
+      <base:Paragraphs num="0003">对于药物输注或注射,侵入性医疗装置通常用于产生从药物储库到患者、通常到血管或皮下组织的流体通道。 为了确保成功地插入作为目标部位的身体组织中,装置的侵入部分需要足够刚性以产生最小的疼痛。 例如,血管内导管目前用于各种微创医疗手术中。 通常,血管内导管允许临床医生通过将导管插入患者的脉管系统来远程执行医疗程序。 通常,实施方式是将柔性导管管体插入血管中,并将导管管体留在适当位置以用于例如定期施用流体、输注液和药物、收集血液样品等目的。 同时,导管的管可以保持不变几天至几周。 在导管的管体的远侧部分进入患者的脉管系统之后,临床医生可以通过向导管的近侧部分施加纵向力来向前推进远侧尖端,从而使导管的管体上的力弯曲。 对于用于有效地传递这些纵向力的导管管体,期望导管管体具有高水平的推动性,这可以转化为导管管体的高刚度的材料特性。 在一些国家,在插入IV导管之前的护理实践包括在25℃（或室内温度）的盐水中预制备IV导管,这可能软化管并使其难以插入。 一旦到达组织（诸如血管）,留在组织中的装置的一部分需要足够柔软以使潜在的并发症（诸如机械性静脉炎）最小化并改善患者的舒适度。 在一些情况下,导管可能导致静脉炎,这是由于导管插入的血管的局部创伤引起的血管炎症。 刚性导管可能倾向于在血管中产生这种创伤。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0004">           <business:ApplicationCitation num="0001">
+            <base:Text>米国特許第5，545，708号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0002">
+            <base:Text>米国特許第5，226，899号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0003">
+            <base:Text>米国特許第5，281，677号明細書</base:Text>
+          </business:ApplicationCitation>            <business:ApplicationCitation num="0004">
+            <base:Text>米国特許第5，266，669号明細書</base:Text>
+          </business:ApplicationCitation> </base:Paragraphs>
+      </business:PatentDocumentation>
+      <business:NPL>
+        <base:Paragraphs num="0005">           <business:NPLCitation num="0001">
+            <base:Text>C.Hepburn”Polyurethane  Elastomers”2nd  Edition，Springer，pages  42－43，（1992）</base:Text>
+          </business:NPLCitation> </base:Paragraphs>
+      </business:NPL>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0006">仍然需要聚氨酯来制造导管,其在用于插入导管的环境条件下是刚性的,但是仅当暴露于多于一种体内刺激时才变得柔软且易于弯曲以用于定位和放置。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0007">提供医疗装置,例如导管管体。 导管管体的非限制性实例包括外周静脉(IV)导管； 血管内导管； 中心静脉导管,包括三管、双管和单管导管； 中线导管； 和导尿管。 血管进入设备可以使用与一个或多个部件（诸如针和/或导丝）耦合的本文公开的导管管体。</base:Paragraphs>
+        <base:Paragraphs num="0008">在实施方案中,导管管体包括细长主体,该细长主体包括基材热塑性聚氨酯； 和复合热塑性聚氨酯,所述复合热塑性聚氨酯与基材热塑性聚氨酯共挤出以提供与细长主体分开的导管管体的区段,其中所述复合热塑性聚氨酯包含热塑性聚氨酯和不透射线的材料； 导管管体在进入患者之前在第一条件下具有第一弹性模量； 并且当暴露于包括两种或更多种体内刺激的第二条件一段时间时,导管管体包括小于或等于第一模量的50%的第二弹性模量。</base:Paragraphs>
+        <base:Paragraphs num="0009">复合热塑性聚氨酯的热塑性聚氨酯可以是与基材热塑性聚氨酯不同的配合。 与细长主体分离的区段可以包括一个或多个细长条带,所述一个或多个细长条带包括复合热塑性聚氨酯并且与细长主体一体地形成。 导管管体可具有包含60%至80%量的基础热塑性聚氨酯和20%至40%量的复合热塑性聚氨酯的横截面。</base:Paragraphs>
+        <base:Paragraphs num="0010">第一条件可以包括20至30℃范围内的温度和0至90%范围内的相对湿度。 第一弹性模量可以是至少1300MPa。 第一弹性模量可以在1300MPa至2200MPa的范围内。</base:Paragraphs>
+        <base:Paragraphs num="0011">两种或更多种第二条件的体内刺激可包括在约36℃至约40℃范围内的温度下,在盐水、血浆、白细胞、血小板、红细胞、水、不存在光的情况下,抗体和酶中的一种或多种。 第二弹性模量可高达650MPa、400MPa、200MPa或100MPa。 第二弹性模量可以在10至650MPa、10至400MPa、10至200MPa或10至100MPa的范围内。 可以在暴露于第二条件约30分钟或更短时间之后实现第二弹性模量。 可以在暴露于第二条件约5至约10分钟之后实现第二弹性模量。</base:Paragraphs>
+        <base:Paragraphs num="0012">复合热塑性聚氨酯的不透射线材料可包含氯氧化铋（BiOCl）、三氧化铋（Bi<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>）、碱式碳酸铋（Bi<base:Sub>2</base:Sub>O<base:Sub>2</base:Sub>CO<base:Sub>3</base:Sub>）、硫酸钡（BaSO<base:Sub>4</base:Sub>）、钨(W)或其组合。</base:Paragraphs>
+        <base:Paragraphs num="0013">基础热塑性聚氨酯、复合热塑性聚氨酯或两者还可包含抗血栓形成剂、抗微生物剂、润滑剂、着色剂、活性药物或其组合。</base:Paragraphs>
+        <base:Paragraphs num="0014">在一个具体实施方案中,导管管体包括细长主体,该细长主体包含基础热塑性聚氨酯,该基础热塑性聚氨酯是二异氰酸酯、二醇扩链剂、至少一种聚二醇和任选的胺封端的聚醚的反应的产物,该基础热塑性聚氨酯任选地还包含抗血栓形成剂、抗微生物剂、润滑剂、着色剂、活性药物或其组合； 和与基材热塑性聚氨酯共挤出的一个或多个细长条带,其中所述细长条带包含复合热塑性聚氨酯,所述复合热塑性聚氨酯包含热塑性聚氨酯和不透射线的材料； 其中所述导管管体在进入患者之前在第一条件下具有第一弹性模量； 并且当暴露于包括两种或更多种体内刺激的第二条件一段时间时,导管管体包括小于或等于第一模量的50%的第二弹性模量。</base:Paragraphs>
+        <base:Paragraphs num="0015">第一条件可以包括在20℃至30℃的范围内的温度和在0%至90%的范围内的相对湿度,并且两种或更多种第二条件的体内刺激包括在约36℃至约40℃的范围内的温度以及在盐水、血浆、白细胞、血小板、红细胞、水、不存在光的情况下的抗体和酶中的一种或多种。</base:Paragraphs>
+        <base:Paragraphs num="0016">第一弹性模量可以在1300至2200MPa的范围内,并且第二弹性模量在10至650MPa、10至400MPa、10至200MPa或10至100MPa的范围内。</base:Paragraphs>
+        <base:Paragraphs num="0017">可以在暴露于第二条件约30分钟或更短时间之后实现第二弹性模量。 可以在暴露于第二条件约5至约10分钟之后实现第二弹性模量。</base:Paragraphs>
+        <base:Paragraphs num="0018">一个实施例是一种血管进入装置,其包括与一个或多个部件组合的本文所公开的任何导管管体,所述血管进入装置选自由中央静脉导管、外周-中央静脉插入导管、中线导管和外周静脉导管组成的组。</base:Paragraphs>
+        <base:Paragraphs num="0019">一个方面是一种制造包括导管管体的医疗装置的方法,该方法包括：设计具有与细长主体分开的导管管体的区段的细长主体,以形成导管管体,使得导管管体在进入患者之前在第一条件下具有第一弹性模量,并且其中当导管管体暴露于包括两种或更多种体内刺激的第二条件一段时间时,导管管体具有不超过第一弹性模量的50%的第二弹性模量。</base:Paragraphs>
+        <base:Paragraphs num="0020">具有与细长主体分开的导管管体区段的细长主体的设计可以包括：提供基材聚氨酯； 提供包含热塑性聚氨酯和不透射线材料的复合聚氨酯； 和共挤出基础聚氨酯和复合聚氨酯以形成基础聚氨酯的细长主体和与复合热塑性聚氨酯的细长主体分开的部分。 该方法还可以包括将导管管体与一个或多个部件组合以形成医疗装置。 一个或多个部件可以包括针,并且医疗装置可以是血管进入装置。 血管进入装置可以选自由中央静脉导管、外周-中央静脉插入导管、中线导管和外周静脉导管组成的组。</base:Paragraphs>
+        <base:Paragraphs num="0021">另一方面是一种向患者递送医疗流体的方法,所述方法包括：获得导管管体； 当导管管体包括第一弹性模量时,在第一条件下将导管管体插入患者体内； 以及当所述导管管体暴露于两种或更多种体内刺激并且所述导管管体包括第二弹性模量时,将所述导管管体在第二条件下放置一段时间,所述第二弹性模量小于或等于所述第一弹性模量的50%。 导管管体可以包括：细长主体,其包括基材热塑性聚氨酯； 和包含热塑性聚氨酯和不透射线材料的复合聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0022">第一条件可以包括在20℃至30℃的范围内的温度和在0%至90%的范围内的相对湿度,并且两种或更多种第二条件的体内刺激可以包括在约36℃至约40℃的范围内的温度以及在盐水、血浆、白细胞、血小板、红细胞、水、不存在光的情况下的抗体和酶中的一种或多种。</base:Paragraphs>
+        <base:Paragraphs num="0023">第一弹性模量可以在1300至2200MPa的范围内,并且第二弹性模量可以在10至650MPa、10至400MPa、10至200MPa或10至100MPa的范围内。 可以在暴露于第二条件约5至约10分钟之后实现第二弹性模量。</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0024">
+        <base:FigureReference num="0001">图0001是示例性血管进入设备的示意性截面图。</base:FigureReference>
+        <base:FigureReference num="0002">图0002是示例性导管的平面图。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0025">在描述本发明的一些示例性实施例之前,应理解,本发明不限于以下描述中阐述的结构或方法步骤的细节。 本发明能够具有其他实施例并且能够以各种方式实践或执行。</base:Paragraphs>
+      <base:Paragraphs num="0026">提供了一种医疗装置,例如导管,其赋予聚氨酯在环境条件下的固有高刚度和暴露于两种或更多种体内刺激后的柔韧性。 该装置是复合组件,其包括基材热塑性聚氨酯和与基材热塑性聚氨酯共挤出的复合热塑性聚氨酯。 基材热塑性聚氨酯和复合热塑性聚氨酯形成管的离散部分。 复合热塑性聚氨酯可以在由基材聚氨酯构成的主体上或其中形成一个或多个细长条带。 复合热塑性聚氨酯的热塑性聚氨酯可以与基材热塑性聚氨酯为相同的配方,也可以根据应用而不同。 通过使用复合系统,本文中的管以单一系统不可能的方式提供细微的软化曲线。</base:Paragraphs>
+      <base:Paragraphs num="0027">弹性模量是热塑性材料的特性,其指示材料的刚度或柔软度。 刚性材料的导管降低了IV导管插入失败的可能性,所述IV导管插入失败是由于导管破裂而导致的,例如在插入期间导管尖端被撕开和导管管体被压碎。 至少约400MPa的弹性模量是有效插入的非限制性目标。 在插入时,期望材料软化以获得舒适性和最小的潜在并发症。 约400MPa的弹性模量可允许放置,但期望低于400MPa的弹性模量用于放置。 例如,可能需要在小于约100MPa的非限制性范围内的相对低的弹性模量值。 如所解释的,期望将用于插入的高模量与用于放置的低模量组合。</base:Paragraphs>
+      <base:Paragraphs num="0028">有利地,本公开的具有与主体组合的离散区段（例如条带）的基于聚氨酯的导管管体在插入并暴露于两种或更多种体内刺激后软化至与插入前的弹性模量相比降低50%或更多的弹性模量。 在一个或多个实施方案中,在插入IV导管期间遇到的所有环境条件下,管具有500MPa或更大或1300MPa或更大的模量； 当存在于血管中时,当暴露于多种刺激（身体温度、盐水、血浆、白细胞和血小板、红细胞、水、不存在光、抗体、某些酶等）时,在相对短的持续时间（例如,30分钟或更短、10分钟或更短、或约5分钟）内,系数将降低（例如,降低至650MPa或更短、或400MPa或更短、或200MPa或更短、或100MPa或更短）,从而减少导管相关的并发症,例如静脉炎、浸润和外渗。 在一些国家,在插入IV导管之前的护理实践包括在25℃（或室内温度）的盐水中预制备IV导管。 本公开的导管管体保持高弹性模量（例如,500MPa或更高或1300MPa或更高）,这比目前市售的材料具有更高的模量,以确保IV导管的成功插入,用于插入的预期预准备时间范围（0-10分钟）。 也就是说,当仅暴露于单一体内条件时,如例如用盐水模拟的,本公开的管仍然是刚性的并且足以插入。 当进入身体环境并暴露于第二体内条件时,管变软。</base:Paragraphs>
+      <base:Paragraphs num="0029">导管管体材料中的现有技术历史上已经集中在聚氨酯材料的组成上,并且没有认识到促进临床医生成功放置和监测IV导管的材料性质的某些性质。 在本公开之前,没有考虑各种环境温度和湿度或预准备情况下的材料特性。 本公开证实,聚氨酯材料系数仅在组合多种刺激时降低,这些刺激在身体环境（例如,血管）中是独特的,这有助于临床医生成功放置和监测IV导管。</base:Paragraphs>
+      <base:Paragraphs num="0030">如本文所用,弹性模量是导管管体弯曲的压力,并且通过本领域已知的技术测量为MPa。 也可以使用动态粘弹性分析装置（Dynamic Mechanical Analyzer）(DMA)、TA Instrument制型号Q800来测定弹性模量。</base:Paragraphs>
+      <base:Paragraphs num="0031">体内刺激是指存在于身体环境中的实际或模拟条件,包括但不限于在约36℃至约40℃范围内的温度； 暴露于盐水、血浆、白细胞、血小板、红细胞、水、抗体和酶； 以及在不存在光的情况下。 体内刺激可以通过离体实验模拟,离体实验接近于存在于身体环境中的刺激。 这可以例如通过在约36℃至约40℃范围内的温度下将管暴露于盐水浴来完成。 当管安全地放入体内并达到身体环境温度时,开始暴露于体内刺激。 为了模拟目的,当管在体内条件下处于稳态时,开始暴露于体内刺激。</base:Paragraphs>
+      <base:Paragraphs num="0032">不透射线的材料可以包含在复合聚氨酯中以允许X射线检测。 最常用的不透射线填料是氯氧化铋（BiOCl）、三氧化铋（Bi<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>）、碱式碳酸铋（Bi<base:Sub>2</base:Sub>O<base:Sub>2</base:Sub>CO<base:Sub>3</base:Sub>）、硫酸钡（BaSO<base:Sub>4</base:Sub>）和钨(W)中的一种或多种。</base:Paragraphs>
+      <base:Paragraphs num="0033">本文公开的聚氨酯材料具有受控且期望的刚度和柔韧性。 该聚氨酯的刚度和柔韧性可以定制并有意地改变,以适应各种实际要求。 由这些聚氨酯材料形成的医疗装置用于产生从药物储库到有需要的患者的流体通道,其中流体通道可以插入血管或皮下组织中并与其流体连通,其中侵入性医疗装置包含本文所述的任何聚氨酯材料。</base:Paragraphs>
+      <base:Paragraphs num="0034">适用于医疗装置的热塑性聚氨酯(TPU)通常由以下三种基本组分合成：二异氰酸酯、聚二醇和扩链剂,通常是低分子量二醇、二胺或水。 当扩链剂是二醇时,聚氨酯全部由氨基甲酸酯键组成。 当扩链剂是水或二胺时,氨基甲酸酯键和脲键都存在,其产生聚氨酯脲(PUU)。 聚氨酯合成中还包括胺封端的聚醚,得到聚氨酯脲(PUU)。 热塑性聚氨酯的装置应用包括中心静脉导管(CVC)、外周插入中心导管(PICC)和外周静脉导管(PIVC)。 用于医疗装置的二醇延伸的热塑性聚氨酯链公开于以下共同拥有的专利中：WO 2015/14787； 专利文献2； 专利文献3； 和专利文献4。</base:Paragraphs>
+      <base:Paragraphs num="0035">聚氨酯和聚脲的化学性质基于异氰酸酯与其它含氢化合物的反应,其中异氰酸酯是具有一个或多个异氰酸酯基团（-N=C=O）的化合物。 异氰酸酯化合物可以与水（H<base:Sub>2</base:Sub>O）、醇（R-OH）、羧酸（R-COOH）、胺（R<base:Sub>x</base:Sub>-NH<base:Sub>(3-x)</base:Sub>）、脲（R-NH-CONH<base:Sub>2</base:Sub>）和酰胺（R-CONH<base:Sub>2</base:Sub>）反应。 某些聚氨酯可以是热塑性弹性体(TPE),而其它组合物可以是高度交联的。</base:Paragraphs>
+      <base:Paragraphs num="0036">热塑性聚氨酯包含两个相或微域,通常称为硬链段和软链段,因此通常称为嵌段聚氨酯。 通常,具有高结晶度的硬链段通过包含二异氰酸酯和扩链剂的聚合物分子的一部分的局部化而形成。 通常无定形或低结晶度的软链段由聚二醇或任选的胺封端的聚醚形成。 硬链段含量通过聚氨酯组合物中二异氰酸酯和扩链剂的重量百分比测定,软链段含量是聚二醇或聚二胺的重量百分比。 热塑性聚氨酯可以是部分结晶的和/或部分弹性体的,取决于硬链段与软链段的比率。 决定聚合物性质的因素之一是硬链段和软链段的比率。 通常,硬链段有助于硬度、拉伸强度、抗冲击性、刚度和模量,而软链段有助于吸水率、伸长率、弹性和柔软性。</base:Paragraphs>
+      <base:Paragraphs num="0037">聚氨酯材料可以通过挤出成型或铸造用作导管管体的原料,其中所形成的导管管体可以由于初始管体刚度的增加和/或导管管体放置的显著延长而改善成功插入,并且由于其优异的柔性和抗微生物活性而减少导管管体引起的临床并发症。 医疗装置可以具有用于插入的刚性和用于穿过血管的柔性之间的预定平衡。</base:Paragraphs>
+      <base:Paragraphs num="0038">响应于环境变化的刚度、柔韧性和软化取决于聚氨酯的分子结构以及通过调节材料的疏水性和亲水性的平衡而控制的聚合方法。 控制聚氨酯的刚度和柔韧性的一种解决方案是确定疏水性和亲水性之间的适当平衡。 这可以通过选择特定类型的异氰酸酯、多元醇、扩链剂及其组合物以产生适合于特定应用的预期性质组合来实现。</base:Paragraphs>
+      <base:Paragraphs num="0039">热塑性聚氨酯可以通过二异氰酸酯、二醇扩链剂、至少一种聚二醇和任选的胺封端的聚醚的反应来制备。 热塑性聚氨酯可任选地进一步包含抗血栓形成剂、抗微生物剂、润滑剂、着色剂、活性药物或其组合。 聚氨酯可以具有约50重量%至约70重量%的硬链段含量,其中硬链段是包含二异氰酸酯和扩链剂组分的聚合物分子的一部分,由于偶极-偶极相互作用和/或氢键,它们通常是高结晶的。 相比之下,软链段由聚合物链的二异氰酸酯之间的聚二醇部分形成,并且由于聚二醇的性质,软链段通常是无定形的或仅部分结晶的。</base:Paragraphs>
+      <base:Paragraphs num="0040">聚氨酯的聚合可以是一步本体聚合,并且不需要催化剂或其它添加剂。</base:Paragraphs>
+      <base:Paragraphs num="0041">聚二醇是衍生自包含醚-二醇键的环氧烷的聚合物,其包含重复单元的链并具有多个重复单元的分布。 聚二醇包括聚醚二醇。</base:Paragraphs>
+      <base:Paragraphs num="0042">扩链剂是单独的羟基和/或胺封端的化合物,并且用于在聚合期间赋予聚合物所需的性能。</base:Paragraphs>
+      <base:Paragraphs num="0043">关于聚氨酯的化学性质：</base:Paragraphs>
+      <base:Paragraphs num="0044">
+        <base:MathDetails num="0001">
+          <base:Image id="000003" he="13" wi="150" file="2020516432_000003.TIF" imgContent="drawing" imgFormat="TIFF"/>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0045">异氰酸酯当量被定义为待与1g等重量的芳族二异氰酸酯结合的样品的重量。 样品通常是多元醇、胺或具有能够与异氰酸酯反应的基团的其他化合物。 参见非专利文献1。 通常,聚氨酯随着异氰酸酯指数的增加而变硬。 然而,高于该点,硬度不会增加,并且存在其他物理性质开始劣化的点。 本文提供的聚氨酯材料的异氰酸酯指数为1-1.4。</base:Paragraphs>
+      <base:Paragraphs num="0046">二异氰酸酯可以是芳香族二异氰酸酯。 在各种实施方案中,芳族异氰酸酯可选自4,4'-二苯基甲烷二异氰酸酯(MDI)（式I）、2,2'-二甲基-4,4'-联苯二异氰酸酯（式II）、3,3'-二甲基-4,4'-二苯基二异氰酸酯(TODI)（式III）、2,4-甲苯二异氰酸酯、2,6-甲苯二异氰酸酯(TDI)、1,5-萘二异氰酸酯(NDI)、4,6'-苯二甲基二异氰酸酯(XDI)、3,3'-二甲基-二苯基甲烷4,4'-二异氰酸酯(DMMDI)、联茴香胺二异氰酸酯(DADI)及其共混物。</base:Paragraphs>
+      <base:Paragraphs num="0047">
+        <base:Chemistry num="0001">
+          <base:Image id="imag000004" he="19" wi="150" file="2020516432_000004.TIF" imgContent="drawing" imgFormat="TIFF"/>
+        </base:Chemistry>
+      </base:Paragraphs>
+      <base:Paragraphs num="0048">至少一种聚二醇可以是聚四亚甲基醚二醇。 聚四亚甲基醚二醇(PTMEG)可以是PTMEG250、PTMEG650、PTMEG1000、PTMEG1450、PTMEG1800、PTMEG2000和PTMEG2900。 具有式HO（CH<base:Sub>2</base:Sub>CH<base:Sub>2</base:Sub>CH<base:Sub>2</base:Sub>CH<base:Sub>2</base:Sub>-O-）<base:Sub>n</base:Sub>H的PTMEG可具有在3至40范围内的n的平均值。 可以使用PTMEG250、PTMEG650、PTMEG1000、PTMEG1450、PTMEG1800、PTMEG2000和PTMEG2900中的两种或更多种的共混物。 组合的优选平均分子量为约1000Da。 在一个或多个实施方案中,多元醇是两种或更多种具有式HO（CH<base:Sub>2</base:Sub>CH<base:Sub>2</base:Sub>CH<base:Sub>2</base:Sub>CH<base:Sub>2</base:Sub>-O-）<base:Sub>n</base:Sub>H的PTMEG的共混物,其中n是在3至40范围内的平均值和小于或等于1000Da的组合的平均分子量。</base:Paragraphs>
+      <base:Paragraphs num="0049">另外的聚二醇可存在于聚氨酯材料中,所述聚二醇包括但不限于聚环氧乙烷二醇(PEG)、聚环氧丙烷二醇(PPG)、聚酯二醇、有机硅二醇、聚碳酸酯二醇及其组合。 另外的聚二醇可选自PEG 8000、PPG PT3000或其组合。 PEG8000是具有7,000～9,000的式量的聚乙二醇。 PPG PT3000是平均分子量为3,000的聚丙二醇。 可以使用平均分子量为350至1000的聚碳酸酯二醇。</base:Paragraphs>
+      <base:Paragraphs num="0050">二醇可以是直链的,并且包括丁二醇(BDO)、乙二醇、二乙二醇、三乙二醇、1,2-丙二醇、1,3-丙二醇、1,5-戊二醇、1,6-己二醇、1,4-双羟甲基环己烷、氢醌二羟乙基醚中的一种或多种。 二醇可以是侧链支链的,包括2,2-二甲基-1,3-丙二醇(NPG)、2-甲基-1,3-丙二醇、2-丁基-2-乙基-1,3-丙二醇(BEPD)、1,3-二溴-2,2-二羟甲基丙烷(BBMPD)中的一种或多种。</base:Paragraphs>
+      <base:Paragraphs num="0051">聚氨酯可以进一步包含聚醚胺。 合适的聚醚胺包括但不限于具有聚环氧乙烷、聚环氧丙烷或聚四氢呋喃重复单元并且分子量在约400至8,000范围内的胺封端的聚醚。 优选的聚醚胺具有聚环氧丙烷重复单元。 D4000是一种独特的聚醚胺,胺封端的聚氧丙二醇,具有约4000的平均分子量。</base:Paragraphs>
+      <base:Paragraphs num="0052">本文所述的聚氨酯可以通过常规热塑性制造技术（包括熔融铸造、挤出成型、铸造等）制成膜、管和其他形式。 本文所述的聚氨酯可用于PICC、PIVC和CVC。 如果需要,聚合物可具有掺入其中的常规稳定剂。 这些材料的量将根据聚氨酯的应用而变化,但它们通常以聚合物的0.1至50重量%的量存在。</base:Paragraphs>
+      <base:Paragraphs num="0053">聚氨酯的刚度、柔韧性和软化取决于其分子结构及其环境。 聚氨酯的柔韧性随着其环境的变化而改变,并且可以通过调节材料的疏水性和亲水性的平衡来控制。 疏水性和亲水性取决于其分子结构和组合物。</base:Paragraphs>
+      <base:Paragraphs num="0054">通过“一步法”本体合成方法制备本文讨论的聚氨酯。 将多元醇和扩链剂充分混合,首先真空排空,然后用氮气吹扫12-24小时。 在室内温度下,在非常剧烈的搅拌下一次性全部加入计算量的二异氰酸酯。 进行剧烈搅拌,然后将混合物倒入特氟隆处理的托盘中,并立即放入烘箱中以进行后固化。</base:Paragraphs>
+      <base:Paragraphs num="0055">
+        <base:TableDetails num="0001">
+          <base:Image id="000005" he="52" wi="147" file="2020516432_000005.TIF" imgContent="drawing" imgFormat="TIFF"/>
+        </base:TableDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0056">
+        <base:TableDetails num="0002">
+          <base:Image id="000006" he="52" wi="147" file="2020516432_000006.TIF" imgContent="drawing" imgFormat="TIFF"/>
+        </base:TableDetails>
+      </base:Paragraphs>
+      <base:Paragraphs num="0057">血管进入设备包括但不限于导管管体。 示例性装置是中央静脉导管、外周-中央静脉插入导管和外周静脉导管。 导管管体可以通过复合和挤出或共挤出方法形成。 在混配期间,将本文所述的合成聚氨酯颗粒和不透射线填料同时添加到混配机中。 混合比可以通过重量多进料器系统来控制和调节。 混合聚氨酯熔体连续通过混配机前面的模头,通过骤冷罐,并通过拉动造粒机切割成标准尺寸的粒料。 收集的粒料用于进料到挤出机/共挤出机中,以通过管的固有结构形成导管管。</base:Paragraphs>
+      <base:Paragraphs num="0058">本文讨论的基于聚氨酯的导管管体的实施例可以通过改变和选择挤出机/共挤出机、挤出模头、条带和层的数量、条带材料的体积百分比和不透射线试剂的类型来改变。</base:Paragraphs>
+      <base:Paragraphs num="0059">返回附图,图1提供了导管管体100形式的示例性血管进入装置的示意性横截面图,其包括基材聚氨酯的主体122和贯穿主体122的一个或多个复合聚氨酯条带112。 本体122是透明的,条带112是不透明的,并且被定位成允许在导管本体122的不存在条带的区域中的视觉反馈。 条带112的复合聚氨酯可以与包含不透射线的材料111的表2中的任何示例性配方一致。 条带112可以包含与本体122相同的基材聚氨酯,或者与本体122的基材聚氨酯相比,条带112可以包含不同的聚氨酯。 条带112沿管通常是细长的。 在该实施例中,存在六个椭圆形横截面的条带112,其基本上均匀地分布在整个本体122中。 从条纹到管外表面的距离为d1,并且从条纹到管内表面的距离为d2。 在一个或多个实施例中,条带112被布置成使得管的内表面和外表面之间的距离相等（d1=d2）。 主体122限定内腔115。 为了形成图1的条状管,将复合聚氨酯与基材聚氨酯共挤出并通过十字头模头处理以形成具有条的一体化管。</base:Paragraphs>
+      <base:Paragraphs num="0060">在一个或多个实施方案中,管的横截面区域包含60%至80%的量的基础热塑性聚氨酯和20%至40%的量的复合热塑性聚氨酯。 在实施方案中,横截面区域包括35±3%的条纹。 在其他实施方案中,横截面区域包含25±3%的条纹。</base:Paragraphs>
+      <base:Paragraphs num="0061">本文公开的导管管体在进入患者之前在第一条件下表现出第一弹性模量。 第一弹性模量可以是至少500MPa、或600MPa、或700MPa、或800MPa、或900MPa、或1000MPa、或1100MPa、或1200MPa、或1300MPa或更大。 第一弹性模量可以在500至2200MPa或1300MPa至2200MPa的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0062">本文公开的导管管体在进入患者后暴露于第二条件一段时间后表现出第二弹性模量,所述第二条件包括两种或更多种体内刺激。 第二弹性模量小于或等于第一模量的50%。 也就是说,在暴露于第二条件一段时间后,第二弹性模量降低超过50%。 第二弹性模量可高达650MPa、或600MPa、或550MPa、或500MPa、或450MPa、或400MPa、或350MPa、或300MPa、或250MPa、或200MPa、或150MPa、或100MPa、或50MPa、或10MPa或更小。 第二弹性模量可以在10MPa至650MPa的范围内以及其间的范围和子范围内。 第二弹性模量可在约30分钟或更短、25分钟或更短、20分钟或更短、15分钟或更短、或10分钟或更短时间之后实现。 第二弹性模量可以在约5至30分钟、约5至25分钟、约5至20分钟或约5至10分钟的范围内实现。</base:Paragraphs>
+      <base:Paragraphs num="0063">在图2中,示出了示例性导管。 本文公开的导管管体形成导管,该导管可选地被成形为容纳用于形成血管进入装置的其他部件。 导管10包括主管道12,其是保持其挤出形式的管。 在远端,尖端14通过切屑工艺形成。 在近端,凸缘16可选地形成为容纳其他部件,包括但不限于导管适配器。 除了用于进入血管的导管之外,示例性血管进入设备还可以包括针。</base:Paragraphs>
+      <base:Paragraphs num="0064">下文描述各种实施例。 应当理解,根据本发明的范围,下面描述的实施方案可以与所有方面和其他实施方案组合。</base:Paragraphs>
+      <base:Paragraphs num="0065">实施例1：包含基材热塑性聚氨酯的细长主体； 和复合热塑性聚氨酯,所述复合热塑性聚氨酯与基材热塑性聚氨酯共挤出以提供与细长主体分开的导管管体的区段,所述复合热塑性聚氨酯包含热塑性聚氨酯和不透射线的材料； 在进入患者之前在第一条件下的第一弹性模量； 第二弹性模量,当暴露于包含两种或更多种体内刺激的第二条件一段时间时,所述第二弹性模量为所述第一弹性模量的50%或更少。</base:Paragraphs>
+      <base:Paragraphs num="0066">实施方案2.实施方案1的导管管体,其中复合热塑性聚氨酯的热塑性聚氨酯与基础热塑性聚氨酯的配方不同。</base:Paragraphs>
+      <base:Paragraphs num="0067">实施例3.根据前述实施例中任一项所述的导管管体,其中与所述细长主体分离的所述区段包括一个或多个细长条带,所述一个或多个细长条带包括复合热塑性聚氨酯并且与所述细长主体一体地形成。</base:Paragraphs>
+      <base:Paragraphs num="0068">实施方案4.实施方案1-3中任一项的导管管体,其横截面包括60%至80%范围内的量的基础热塑性聚氨酯和20%至40%范围内的量的复合热塑性聚氨酯。</base:Paragraphs>
+      <base:Paragraphs num="0069">实施例5.根据前述实施例中任一项所述的导管管体,其中所述第一条件包括在20℃至30℃范围内的温度和在0%至90%范围内的相对湿度。</base:Paragraphs>
+      <base:Paragraphs num="0070">实施例6.根据前述实施例中任一项所述的导管管体,其中所述第一弹性模量为至少1300MPa。</base:Paragraphs>
+      <base:Paragraphs num="0071">实施例7.根据前述实施例中任一项所述的导管管体,其中所述第一弹性模量在1300MPa至2200MPa的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0072">实施方案8.实施方案1-7中任一项的导管管体,其中两种或更多种第二条件的体内刺激包括以下中的一种或多种：在约36℃至约40℃范围内的温度,以及在不存在盐水、血浆、白细胞、血小板、红细胞、水、光的情况下的抗体和酶。</base:Paragraphs>
+      <base:Paragraphs num="0073">实施例9.根据前述实施例中任一项所述的导管管体,其中所述第二弹性模量为至多650MPa、至多400MPa、至多200MPa、或至多100MPa。</base:Paragraphs>
+      <base:Paragraphs num="0074">实施例10.根据前述实施例中任一项所述的导管管体,其中所述第二弹性模量在10MPa至650MPa、10MPa至400MPa、10MPa至200MPa、或10MPa至100MPa的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0075">实施例11.根据前述实施例中任一项所述的导管的管体,其中在暴露于所述第二条件不超过约30分钟之后实现所述第二弹性模量。</base:Paragraphs>
+      <base:Paragraphs num="0076">实施方案12.实施方案11的导管管体,其中所述第二弹性模量在暴露于所述第二条件约5至约10分钟后实现。</base:Paragraphs>
+      <base:Paragraphs num="0077">实施方案13.实施方案1-12中任一项的导管管体,其中复合热塑性聚氨酯的不透射线材料包括氯氧化铋（BiOCl）、三氧化铋（Bi<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>）、碱式碳酸铋（Bi<base:Sub>2</base:Sub>O<base:Sub>2</base:Sub>CO<base:Sub>3</base:Sub>）、硫酸钡（BaSO<base:Sub>4</base:Sub>）、钨(W)或其组合。</base:Paragraphs>
+      <base:Paragraphs num="0078">实施例14.根据前述实施例中任一项所述的导管管体,其中所述基础热塑性聚氨酯、复合热塑性聚氨酯或两者还包含抗血栓形成剂、抗微生物剂、润滑剂、着色剂、活性药物或其组合。</base:Paragraphs>
+      <base:Paragraphs num="0079">实施例15.一种包含基材热塑性聚氨酯的细长主体,所述基材热塑性聚氨酯是二异氰酸酯、二醇扩链剂、至少一种聚二醇和任选的胺封端的聚醚的反应的产物,其中所述基材热塑性聚氨酯任选地还包含抗血栓形成剂、抗微生物剂、润滑剂、着色剂、活性药物或其组合； 和与基材热塑性聚氨酯共挤出的一个或多个细长条带,所述细长条带包含复合热塑性聚氨酯,所述复合热塑性聚氨酯包含热塑性聚氨酯和不透射线的材料； 在进入患者之前在第一条件下的第一弹性模量； 第二弹性模量,当暴露于包含两种或更多种体内刺激的第二条件一段时间时,所述第二弹性模量为所述第一弹性模量的50%或更少。</base:Paragraphs>
+      <base:Paragraphs num="0080">实施方案16.实施方案15的导管管体,其中第一条件包括在20至30℃范围内的温度和在0至90%范围内的相对湿度,并且其中两种或更多种第二条件的体内刺激包括在约36至约40℃范围内的温度和盐水、血浆、白细胞、血小板、红细胞、水、在不存在光的情况下的抗体和酶中的一种或多种。</base:Paragraphs>
+      <base:Paragraphs num="0081">实施方案17.实施方案17的方法,其中第一弹性模量在1300至2200MPa的范围内； 并且第二弹性模量在10至650MPa、10至400MPa、10至200MPa或10至100MPa的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0082">实施方案18.实施方案15-17中任一项的导管管体,其中所述第二弹性模量在暴露于所述第二条件不超过约30分钟后实现。</base:Paragraphs>
+      <base:Paragraphs num="0083">实施方案19.实施方案18的导管管体,其中所述第二弹性模量在暴露于所述第二条件约5至约10分钟后实现。</base:Paragraphs>
+      <base:Paragraphs num="0084">实施例20.一种血管进入装置,其包括根据实施例1至19中任一项所述的导管管体以及一个或多个部件,所述血管进入装置选自由中央静脉导管、外周-中央静脉插入导管、中线导管和外周静脉导管组成的组。</base:Paragraphs>
+      <base:Paragraphs num="0085">实施方案21.一种制造包括导管管体的医疗装置的方法,所述方法包括：设计具有与所述细长主体分开的导管管体区段的细长主体,以形成所述导管管体,使得所述导管管体在进入患者之前在第一条件下具有第一弹性模量,并且其中所述导管管体在暴露于包括两种或更多种体内刺激的第二条件一段时间时具有第二弹性模量,所述第二弹性模量不大于所述第一弹性模量的50%。</base:Paragraphs>
+      <base:Paragraphs num="0086">实施例22.根据实施例22所述的细长主体的设计,所述细长主体具有与所述细长主体分开的导管管体区段,所述设计包括：提供基材聚氨酯； 提供包含热塑性聚氨酯和不透射线材料的复合聚氨酯； 共挤出基础聚氨酯和复合聚氨酯以形成基础聚氨酯的细长主体和与复合热塑性聚氨酯的细长主体分开的部分。</base:Paragraphs>
+      <base:Paragraphs num="0087">实施例23.根据实施例21-22中任一项所述的方法,还包括将所述导管管体与一个或多个部件组合以形成医疗装置。</base:Paragraphs>
+      <base:Paragraphs num="0088">实施例24.根据实施例23所述的方法,其中所述一个或多个部件包括针,并且其中所述医疗装置是血管进入装置。</base:Paragraphs>
+      <base:Paragraphs num="0089">实施例25.根据实施例24所述的方法,其中所述血管进入装置选自由以下组成的组：中心静脉导管、外周-中心静脉插入导管、中线导管和外周静脉导管。</base:Paragraphs>
+      <base:Paragraphs num="0090">实施例26.一种向患者递送医疗流体的方法,该方法包括：获得导管管体； 当导管管体包括第一弹性模量时,在第一条件下将导管管体插入患者体内； 当所述导管管体暴露于两种或更多种体内刺激并且所述导管管体包括第二弹性模量时,将所述导管管体在第二条件下放置一段时间,所述第二弹性模量小于或等于所述第一弹性模量的50%。</base:Paragraphs>
+      <base:Paragraphs num="0091">实施方案27.根据实施方案27所述的导管管体,其包括：细长主体,所述细长主体包括基材热塑性聚氨酯； 和包含热塑性聚氨酯和不透射线材料的复合聚氨酯。</base:Paragraphs>
+      <base:Paragraphs num="0092">实施方案28.实施方案26-27中任一项的方法,其中第一条件包括在20-30℃范围内的温度和在0-90%范围内的相对湿度,并且其中两种或更多种第二条件的体内刺激包括在约36-约40℃范围内的温度和盐水、血浆、白细胞、血小板、红细胞、水、在不存在光的情况下的抗体和酶中的一种或多种。</base:Paragraphs>
+      <base:Paragraphs num="0093">实施方案29.根据实施方案26-28中任一项所述的方法,其中第一弹性模量在1300至2200MPa的范围内,并且第二弹性模量在10至650MPa、10至400MPa、10至200MPa或10至100MPa的范围内。</base:Paragraphs>
+      <base:Paragraphs num="0094">实施方案30.实施方案26-29中任一项的方法,其中在暴露于第二条件约5至约10分钟后实现第二弹性模量。</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0095">通过以下的步骤制作比较例A～C和本发明的例1～3的复合导管管件。 将来自主挤出机的第一基材聚氨酯的第一熔体流和来自次挤出机的复合聚氨酯的第二熔体流分别保持在挤出机机头的上游下游部分中,直到它们作为连续层组合。 然后使料流从挤出机机头通过并作为集成管件从管状模头（同轴或十字头）出现。 待包封的条带由复合聚氨酯制成,其余的管体仅由第一基底聚氨酯制成。 比较例A～C和例1～3的形状相同。 条纹的复合聚氨酯在例1～3之间相同。 管主体的基材聚氨酯在例1～3之间不同。</base:Paragraphs>
+        <base:Paragraphs num="0096">使用动态粘弹性分析装置(DMA)、TA Instrument制型号Q800,测定弹性模量。</base:Paragraphs>
+        <base:Paragraphs num="0097">使用可商购获得的芳族聚醚聚氨酯作为硬链段含量为约60重量%的第一基础聚氨酯。 将第一基材聚氨酯板坯研磨成颗粒,然后通过常规的常规混配机将其转化成粒料,得到透明聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0098">复合聚氨酯由第一基底聚氨酯与不透射线的材料组合制成。 将第一基材聚氨酯板坯研磨成颗粒,然后通过常规的常规混配机将其与硫酸钡混配,得到不透射线的复合聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0099">在该实施例中,主体和条带包含相同的基本聚氨酯材料。 接着,制造具有主体和条带的复合体导管。</base:Paragraphs>
+        <base:Paragraphs num="0100">比较例B：将比较例A的市售的聚氨酯用作第一基材聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0101">复合聚氨酯由与不透射线材料和添加剂组合的第一基材聚氨酯制成,以增加刚度。 将第一基材聚氨酯板坯研磨成颗粒,然后通过常规的通用混配机将其与添加剂和硫酸钡混配,得到不透射线的复合聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0102">在该实施例中,主体和条带包含相同的基本聚氨酯材料。 接着,制造具有主体和条带的复合体导管。</base:Paragraphs>
+        <base:Paragraphs num="0103">比较例C：将比较例A的市售的聚氨酯用作第一基材聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0104">复合聚氨酯由第二基础聚氨酯和不透射线材料制成。 第二基材聚氨酯与第一基材聚氨酯的不同之处在于其具有约70%的硬链段。 将第二基材聚氨酯板坯研磨成颗粒,然后通过常规的常规混配机将其与硫酸钡混配,得到不透射线的复合聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0105">在该实施例中,主体和条带包括不同的基础聚氨酯材料。 接着,制造具有主体和条带的复合体导管。</base:Paragraphs>
+        <base:Paragraphs num="0106">得到市售的条纹状六氟丙烯和四氟乙烯(FEP)导管管体。</base:Paragraphs>
+      </business:EmbodimentsExample>
+      <business:EmbodimentsExample exNum="1">
+        <base:Paragraphs num="0107">根据表1中所示的示例性配方C,使用MDI作为芳族二异氰酸酯和不同分子量的聚二醇PTMEG（标称MW&lt;1000且标称1000≥MW≤2900）,通过“一步法”本体聚合方法（无催化剂）制备第一基材聚氨酯。 扩链剂为1,4-丁二醇。 将第一基材聚氨酯板坯研磨成颗粒,然后通过常规的常规混配机将其转化成粒料,得到透明聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0108">复合聚氨酯由第二基础聚氨酯和不透射线材料制成。 通过“一步法”本体聚合方法（无催化剂）,使用MDI作为芳族二异氰酸酯,使用与第一基础聚氨酯相比具有更宽的PTMEG分子量分布的聚二醇PTMEG,并使用1,4-丁二醇作为扩链剂来制备第二基础聚氨酯。 将第二基材聚氨酯板坯研磨成颗粒,然后通过常规的常规混配机将其与硫酸钡混配,得到不透射线的复合聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0109">在该实施例中,主体和条带包括不同的基础聚氨酯材料。 然后根据上述程序制备具有主体和条带的复合导管。</base:Paragraphs>
+      </business:EmbodimentsExample>
+      <business:EmbodimentsExample exNum="2">
+        <base:Paragraphs num="0110">当在实施例2中用作第一基础聚氨酯时,实施例1的第二基础聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0111">实施例2的复合聚氨酯与实施例1的复合聚氨酯相同。</base:Paragraphs>
+        <base:Paragraphs num="0112">在该实施例中,主体和条带包含相同的基本聚氨酯材料。 然后根据上述程序制备具有第一基材聚氨酯主体和复合聚氨酯条纹的复合导管。</base:Paragraphs>
+      </business:EmbodimentsExample>
+      <business:EmbodimentsExample exNum="3">
+        <base:Paragraphs num="0113">将比较例A的市售聚氨酯用作第一基材聚氨酯。</base:Paragraphs>
+        <base:Paragraphs num="0114">实施例3的复合聚氨酯与例1～2的复合聚氨酯相同。</base:Paragraphs>
+        <base:Paragraphs num="0115">在该实施例中,主体和条带包括不同的基础聚氨酯材料。 然后根据上述程序制备具有第一基材聚氨酯主体和复合聚氨酯条纹的复合导管。</base:Paragraphs>
+      </business:EmbodimentsExample>
+      <business:EmbodimentsExample exNum="4">
+        <base:Paragraphs num="0116">在环境温度（25℃和30℃）和各种标称相对湿度(RH)值下测量根据对比例A至D和本发明实施例1至3的管的弹性模量。 将其结果汇总于表3～4。</base:Paragraphs>
+        <base:Paragraphs num="0117">
+          <base:TableDetails num="0003">
+            <base:Image id="000007" he="62" wi="147" file="2020516432_000007.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0118">
+          <base:TableDetails num="0004">
+            <base:Image id="000008" he="62" wi="147" file="2020516432_000008.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0119">表3～4的结果示出了弹性系数相对于单一变量、即相对湿度而变化那样的实质上线性的响应。 关于例1～3和A～C,随着相对湿度增加,弹性模量减少。 对于实施例D,在弹性模量与各种相对湿度值之间没有观察到显著的变化。</base:Paragraphs>
+        <base:Paragraphs num="0120">根据比较例A-D和本发明实施例1-3的管在不同温度（25℃、30℃、35℃和40℃）和0%相对湿度下的弹性模量结果总结在表5中。</base:Paragraphs>
+        <base:Paragraphs num="0121">
+          <base:TableDetails num="0005">
+            <base:Image id="000009" he="73" wi="159" file="2020516432_000009.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0122">表5中的结果示出了随单个变量（即温度）而变化的弹性模量的不同响应。 关于例1～3和A～C,随着温度增加,弹性模量减少。 对于实例D,弹性模量与不同温度的变化不是线性的。</base:Paragraphs>
+        <base:Paragraphs num="0123">根据比较例A至D和本发明实施例1至3的管在由世界卫生组织(WHO)的气候区定义的各种推荐储存条件下（用于实时研究）的弹性模量结果总结在表6中。</base:Paragraphs>
+        <base:Paragraphs num="0124">
+          <base:TableDetails num="0006">
+            <base:Image id="000010" he="67" wi="145" file="2020516432_000010.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0125">*区域III定义为30℃、35%RH。 通过测试设备的参数在40%RH下收集数据。</base:Paragraphs>
+        <base:Paragraphs num="0126">表6中的结果证明了基于储存条件的大范围的不同弹性模量。 因此,用于插入的刚度可以根据导管在插入之前暴露的状态而在很大程度上变化。</base:Paragraphs>
+      </business:EmbodimentsExample>
+      <business:EmbodimentsExample exNum="5">
+        <base:Paragraphs num="0127">在暂时暴露于单一的体内刺激后测定试验比较例A～D和本发明的例1～3的管的弹性模量。 结果总结在表7中。 在表7中,时间0对应于浸入管的盐水达到25℃的稳态时。</base:Paragraphs>
+        <base:Paragraphs num="0128">
+          <base:TableDetails num="0007">
+            <base:Image id="000011" he="73" wi="146" file="2020516432_000011.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0129">根据表7的结果,关于例1～3,经时地显示出轻微的软化。 比较例A～C也经时地稍微软化。 比较例D未显示出显著的变化。</base:Paragraphs>
+      </business:EmbodimentsExample>
+      <business:EmbodimentsExample exNum="6">
+        <base:Paragraphs num="0130">试验比较例A～D和本发明的例1～3的管的弹性模量在暴露于2种体内刺激一段时间后进行测定。 结果总结在表8中。 在表8中,时间0对应于浸入管的盐水达到37℃的稳态时。</base:Paragraphs>
+        <base:Paragraphs num="0131">
+          <base:TableDetails num="0008">
+            <base:Image id="000012" he="73" wi="148" file="2020516432_000012.TIF" imgContent="drawing" imgFormat="TIFF"/>
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0132">表8的结果表明,当暴露于两种体内刺激时,实施例1至3在相对短的持续时间内显著软化。 即,利用本发明的管实现了非线性响应。 具有仅在暴露于多种人体血管特异性刺激时降低其系数的导管材料是有利的。 在例1～3中,为了减少系数,需要存在两种刺激（37℃和生理盐水）。 比较例D在暴露于多种刺激时没有显示出显著的变化。 比较例A～B在弹性模量方面仅显示出稍微的减少。 比较例C显示出软化,但不如例1～3那样迅速。 实例在放置后约30分钟达到稳态。</base:Paragraphs>
+        <base:Paragraphs num="0133">总的来说,本发明的实施例1-3在所有插入环境（预准备和湿度）中的模量越高,将确保插入成功的可能性越高,而在身体环境中暴露于多于一种刺激时的模量越软,将促进导管相关并发症（例如静脉炎、浸润和外渗）的减少。</base:Paragraphs>
+        <base:Paragraphs num="0134">贯穿本说明书提及的“一个实施例”、“某些实施例”、“一个或多个实施例”或“实施例”意指结合实施例描述的特定外观、结构、材料或特性包括在本发明的至少一个实施例中。 因此,在整个说明书中各处出现的诸如“在一个或多个实施方案中”、“在某些实施方案中”、“在一个实施方案中”或“在实施方案中”的短语不一定是指本发明的相同实施方案。 此外,特定外观、结构、材料或特征可以在一个或多个实施例中以任何合适的方式组合。</base:Paragraphs>
+        <base:Paragraphs num="0135">虽然已经参考特定实施例描述了本文的发明,但是应当理解,这些实施例仅仅是对本发明的原理和应用的说明。 对于本领域技术人员显而易见的是,在不脱离本发明的精神和范围的情况下,可以对本发明的方法和装置进行各种修改和变化。 因此,本发明旨在包括在所附权利要求及其等同物的范围内的修改和变化。</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000013" he="77" wi="68" file="2020516432_000013.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000014" he="27" wi="85" file="2020516432_000014.TIF" imgContent="drawing" imgFormat="TIFF"/>
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>包含基材热塑性聚氨酯的细长主体； 和复合热塑性聚氨酯,所述复合热塑性聚氨酯与所述基材热塑性聚氨酯共挤出以提供与所述细长主体分开的导管管体的区段,其中所述复合热塑性聚氨酯包含热塑性聚氨酯和不透射线的材料； 其中所述导管管体在进入患者之前在第一条件下具有第一弹性模量； 并且当暴露于包含两种或更多种体内刺激的第二条件一段时间时,所述导管管体包含第二弹性模量,所述第二弹性模量为所述第一弹性模量的50%或更少。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>如权利要求1所述的导管管体,其中,所述复合热塑性聚氨酯的所述热塑性聚氨酯为与所述基材热塑性聚氨酯不同的配合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>如权利要求1所述的导管管体,其中,与所述细长主体分离的所述区段包括一个或多个细长条带,所述一个或多个细长条带包括所述复合热塑性聚氨酯并且与所述细长主体一体地形成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>根据权利要求1所述的导管管体,其具有包含60%至80%的量的所述基材热塑性聚氨酯和20%至40%的量的所述复合热塑性聚氨酯的横截面。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>根据权利要求1所述的导管管体,其中,所述第一条件包括20～30℃的范围的温度和0～90%的范围的相对湿度。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>如权利要求1所述的导管管体,其中,所述第1弹性系数至少为1300MPa。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>根据权利要求1所述的导管管部,其中,所述第1弹性系数为1300～2200MPa的范围。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>根据权利要求1所述的导管管体,其中所述两种或更多种所述第二条件的体内刺激包括在约36℃至约40℃的温度范围内的一种或多种,并且在不存在盐水、血浆、白细胞、血小板、红细胞、水、光的情况下,包括抗体和酶。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>如权利要求1所述的导管管体,其中,所述第2弹性系数最大为650MPa。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>根据权利要求1所述的导管管体,其中,所述第2弹性系数为10～650MPa的范围。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>根据权利要求1所述的导管管体,其中,所述第二弹性模量在暴露于所述第二条件约30分钟或更短时间后实现。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>如权利要求11所述的导管管体,其中,所述第二弹性模量在暴露于所述第二条件约5至约10分钟后实现。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>如权利要求1所述的导管管材,其中,所述复合热塑性聚氨酯的所述不透射线材料包含氯氧化铋（BiOCl）、三氧化铋（Bi<base:Sub>2</base:Sub>O<base:Sub>3</base:Sub>）、碱式碳酸铋（Bi<base:Sub>2</base:Sub>O<base:Sub>2</base:Sub>CO<base:Sub>3</base:Sub>）、硫酸钡（BaSO<base:Sub>4</base:Sub>）、钨(W)或它们的组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>如权利要求1所述的导管软管,其中,所述基材热塑性聚氨酯、所述复合热塑性聚氨酯、或这两者还包含抗血栓剂、抗菌剂、润滑剂、着色剂、活性药物、或它们的组合。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>包含基材热塑性聚氨酯的细长主体,所述基材热塑性聚氨酯是来自二异氰酸酯、二醇扩链剂、至少一种聚二醇和任选的胺封端的聚醚的反应的产物,其中所述基材热塑性聚氨酯任选地还包含抗血栓形成剂、抗微生物剂、润滑剂、着色剂、活性药物或其组合； 和与所述基材热塑性聚氨酯共挤出的一个或多个细长条带,所述细长条带包含复合热塑性聚氨酯,所述复合热塑性聚氨酯包含热塑性聚氨酯和不透射线的材料,其中所述导管管体在进入患者之前在第一条件下包含第一弹性模量,并且其中当暴露于包含两种或更多种体内刺激的第二条件一段时间时,所述导管管体包含第二弹性模量,所述第二弹性模量为所述第一弹性模量的50%或更少。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>如权利要求15所述的导管管体,其中,所述第一条件包括在20℃至30℃的范围内的温度和在0%至90%的范围内的相对湿度,并且其中,所述两种或更多种所述第二条件的体内刺激包括在约36℃至约40℃的范围内的温度以及盐水、血浆、白细胞、血小板、红细胞、水、在不存在光的情况下的抗体和酶中的一种或多种。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>如权利要求15所述的导管管部,其中,所述第1弹性系数为1300～2200MPa的范围,且所述第2弹性系数为10～650MPa的范围。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>如权利要求15所述的导管管体,其中,所述第二弹性模量在暴露于所述第二条件约30分钟或更短时间后实现。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>如权利要求18所述的导管管体,其中,所述第二弹性模量在暴露于所述第二条件约5至约10分钟后实现。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>根据权利要求1所述的血管进入装置,包括与一个或多个部件组合的导管管体,其中,所述血管进入装置选自由中央静脉导管、外周-中央静脉插入导管、中线导管和外周静脉导管组成的组。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0021">
+      <business:ClaimText>1.一种制造包括导管管体的医疗装置的方法,所述方法包括：设计所述细长主体,所述细长主体具有与所述细长主体分开的导管管体的区段,以形成所述导管管体,使得所述导管管体在进入患者之前在第一条件下具有第一弹性模量,并且其中当所述导管管体暴露于包括两种或更多种体内刺激的第二条件一段时间时,所述导管管体具有第二弹性模量,所述第二弹性模量为所述第一弹性模量的50%或更少。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0022">
+      <business:ClaimText>根据权利要求21所述的方法,其中具有与所述细长主体分开的导管管体区段的所述细长主体的设计包括以下步骤：提供基础聚氨酯,提供包含热塑性聚氨酯和不透射线材料的复合聚氨酯,以及将所述基础聚氨酯和所述复合聚氨酯共挤出以形成所述基础聚氨酯的细长主体和与所述复合热塑性聚氨酯的细长主体分开的区段。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0023">
+      <business:ClaimText>根据权利要求21所述的方法,还包括将所述导管管体与一个或多个部件组合以形成所述医疗装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0024">
+      <business:ClaimText>根据权利要求23所述的方法,其中,所述一个或多个部件包括针,并且所述医疗装置是血管进入装置。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0025">
+      <business:ClaimText>根据权利要求24所述的方法,其中,所述血管进入设备选自由中心静脉导管、外周-中心静脉插入导管、中线导管和外周静脉导管组成的组。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0026">
+      <business:ClaimText>一种将医疗流体递送至患者的方法,所述方法包括获得导管管体,当所述导管管体包括第一弹性模量时,在第一条件下将所述导管管体插入患者体内,并且当所述导管管体暴露于两种或更多种体内刺激并且所述导管管体包括第二弹性模量时,在第二条件下将所述导管管体放置一段时间,所述第二弹性模量小于或等于所述第一弹性模量的50%。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0027">
+      <business:ClaimText>所述导管管体包括细长主体,所述细长主体包括基材热塑性聚氨酯； 和包含热塑性聚氨酯和不透射线材料的复合聚氨酯。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0028">
+      <business:ClaimText>根据权利要求26所述的方法,其中所述第一条件包括在20℃至30℃的范围内的温度和在0%至90%的范围内的相对湿度,并且其中所述两种或更多种所述第二条件的体内刺激包括在约36℃至约40℃的范围内的温度以及在不存在盐水、血浆、白细胞、血小板、红细胞、水、光的情况下的抗体和酶中的一种或多种。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0029">
+      <business:ClaimText>根据权利要求26所述的方法,其中所述第一弹性模量在1300MPa至2200MPa的范围内,并且所述第二弹性模量在10MPa至650MPa的范围内。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0030">
+      <business:ClaimText>根据权利要求26所述的方法,其中在暴露于所述第二条件约5至约10分钟之后实现所述第二弹性模量。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000015" file="2020516432_000015.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000016" file="2020516432_000016.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000017" file="2020516432_000017.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000004">
+    <business:ExternalSearchReport id="externalsearchreport000018" file="2020516432_000018.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000005">
+    <business:ExternalSearchReport id="externalsearchreport000019" file="2020516432_000019.TIF" lang="ja" height="241" width="170" imageFormat="TIFF"/>
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

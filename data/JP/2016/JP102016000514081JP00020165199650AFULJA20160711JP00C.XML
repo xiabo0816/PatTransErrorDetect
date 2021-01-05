@@ -1,0 +1,1405 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000514081JP00020165199650AFULJA20160711JP00C.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519965" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519965</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519965</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000514081</base:DocNumber>
+        <base:Date>20140515</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016514081</base:DocNumber>
+        <base:Date>20140515</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>002013000823755</base:DocNumber>
+        <base:Date>20130515</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>61/823,755</base:DocNumber>
+        <base:Date>20130515</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20130101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>2</business:MainGroup>
+        <business:Subgroup>82</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61F   2/82        20130101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>31</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61L  31/00        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A61F2/82</business:FI>
+      <business:FI type="secondary">A61L31/00 B</business:FI>
+      <business:FClass>
+        <business:FTerm>4C081AC06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081AC09</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081BA16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA101</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA151</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA161</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA171</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CA201</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CC01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CE02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CF062</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081CF162</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C081DA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167AA54</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167BB06</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167CC08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167FF05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167GG16</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4C167GG43</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C081</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4C167</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">生体吸収性バイオメディカルインプラント</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マイセル・テクノロジーズ，インコーポレイテッド</base:Name>
+            <base:RegisteredNumber>500445402</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国ノースカロライナ州２７７１３，ダーラム，キャピトーラ・ドライヴ  ８０１，スウィート  １</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マクレイン，ジェイムズ・ビー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国ノースカロライナ州２７９６０，オクラコーク，ピー・オー・ボックス  １３，ブラズ・リッジ・ロード  ４５</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>奥山  尚一</base:Name>
+            <base:RegisteredNumber>100099623</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>有原  幸一</base:Name>
+            <base:RegisteredNumber>100096769</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>松島  鉄男</base:Name>
+            <base:RegisteredNumber>100107319</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>河村  英文</base:Name>
+            <base:RegisteredNumber>100114591</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>中村  綾子</base:Name>
+            <base:RegisteredNumber>100125380</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="6" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>森本  聡二</base:Name>
+            <base:RegisteredNumber>100142996</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="7" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>田中  祐</base:Name>
+            <base:RegisteredNumber>100166268</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="8" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>徳本  浩一</base:Name>
+            <base:RegisteredNumber>100170379</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="9" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>児玉  真衣</base:Name>
+            <base:RegisteredNumber>100179154</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="10" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>水島  亜希子</base:Name>
+            <base:RegisteredNumber>100180231</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>US2014038117</base:DocNumber>
+        <base:Date>20140515</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2014186532</base:DocNumber>
+        <base:Date>20141120</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>55</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>  生体吸収性バイオメディカルインプラントについて開示する。当該インプラントは、複数の相互接続されたポリマーストラットを含む管状スキャフォールドを備える。相互接続されたポリマーストラットは、複数の変形可能なセルを画定する。ポリマーストラットは、１５０μｍ以下の平均厚さを有する。生体吸収性バイオメディカルインプラントを作成するための方法についても、管状スキャフォールド用のファイバー補強型のポリマー複合材料を作成するための方法を含めて開示する。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+［関連出願のパラグラフ］
+  本出願は、２０１３年５月１５日出願の米国仮出願番号第６１／８２３，７５５号の利益を主張し、その内容は本明細書に参照することによりその全体を援用する。
+</base:Paragraphs>
+      <base:Paragraphs num="0002">
+［発明の分野］
+  本開示は、ポリマー複合材料からなる生体吸収性ステント、および当該生体吸収性ステントの製造方法に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:InventionSummary>
+      <base:Paragraphs num="0003">
+  本開示の１つの態様によれば、バイオメディカルインプラントが、複数の相互接続されたポリマーストラットを含む管状スキャフォールドを備えるものとして開示される。相互接続された複数のポリマーストラットは、複数の変形可能なセルを画定する。複数のポリマーストラットは、１５０μｍ以下の平均厚さを有する。複数のポリマーストラットを含む管状スキャフォールドを備えるバイオメディカルインプラントであって、前記複数のポリマーストラットは、相互に接続しており、複数の変形可能なセルを画定し、前記複数のポリマーストラットは１５０μｍ以下の平均厚さを有し、前記複数のポリマーストラットはファイバー補強型のポリマー複合材料を含む、バイオメディカルインプラントがさらに提供される。いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する。いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、３カ月間、ｉｎ  ｖｉｔｒｏで生理食塩水に曝露されたときに、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで３カ月経過した際に、その留置時の管腔断面積の少なくとも５０％を維持する。いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｔｒｏで６カ月間、生理食塩水に曝露されたときに、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで６カ月経過した際に、その公称管腔断面積の少なくとも５０％を維持する。いくつかの実施形態では、ポリマーストラットの少なくとも８０％は、ｉｎ  ｖｉｖｏで留置後２年以内に生体吸収される。別の実施形態では、ポリマーストラットの少なくとも８０％は、ｉｎ  ｖｉｖｏで留置後１年以内に生体吸収される。いくつかの実施形態では、ポリマーストラットは、１２０μｍ以下の平均厚さを有する。別の実施形態では、ポリマーストラットは、９０μｍ以下の平均厚さを有する。いくつかの実施形態では、ポリマーストラットは、異方性の弾性係数を有する。改良された形態では、ポリマーストラットは、縦方向（長手方向）（すなわち、ポリマーストラットの軸に沿った方向）の平均弾性係数、および横方向（短手方向）の平均弾性係数を有し、縦方向の平均弾性係数は横方向の平均弾性係数を上回る。さらなる改良形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも３倍である。別のさらなる改良形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも５倍である。さらに別のさらなる改良形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも１０倍である。いくつかの実施形態では、ポリマーストラットは、縦方向に（すなわち、ポリマーストラットの軸に沿った方向に）整列した補強ファイバーを含む。いくつかの実施形態では、ポリマーストラット中の補強ファイバーの５０％超が、縦方向に整列している。別の実施形態では、ポリマーストラット内の補強ファイバーの７０％超が、縦方向に整列している。別の実施形態では、ポリマーストラット内の補強ファイバーの９０％超が、縦方向に整列している。いくつかの実施形態では、ポリマーストラットは、少なくとも６０度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも４５度の平均変形角を有する。いくつかの実施形態では、ポリマーストラットは、ファイバー補強型のポリマー複合材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマー材料と補強ファイバー材料とを含む。いくつかの実施形態では、補強ファイバー材料は、カーボンファイバー材料、カーボンナノチューブ材料、生体吸収性ガラス材料、またはその組合せである。いくつかの実施形態では、カーボンナノチューブ材料は、多層カーボンナノチューブ材料である。いくつかの実施形態では、補強ファイバー材料は、生体吸収性ポリマー材料と補強ファイバー材料との間の分子間相互作用を促進する１つまたは複数の表面官能基を備える。いくつかの実施形態では、１つまたは複数の表面官能基は、－ＣＯＯＨ、－ＯＨ、またはその組合せから選択される。いくつかの実施形態では、１つまたは複数の表面官能基を備える補強ファイバー材料は、多層カーボンナノチューブ材料である。いくつかの実施形態では、補強ファイバー材料は、ポリマーストラット全体にわたり分布している。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも５倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも３倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも２倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも５倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも３倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも２倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～１５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～１０重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～１．５重量％の補強ファイバー材料を含む。いくつかの実施形態では、生体吸収性ポリマー材料は、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される。１つの改良形態では、生体吸収性ポリマー材料はＰＬＧＡである。さらなる改良形態では、ＰＬＧＡは、７２：２８～７８：２２の範囲のグリコール酸モノマーに対する乳酸モノマーの比を有する。別のさらなる改良形態では、ＰＬＧＡは、６２：３８～６８：３２の範囲のグリコール酸モノマーに対する乳酸モノマーの比を有する。別のさらなる改良形態では、ＰＬＧＡは、４７：５３～５３：４７の範囲のグリコール酸モノマーに対する乳酸モノマーの比を有する。別のさらなる改良形態では、ＰＬＧＡは、約８，０００ダルトン～約１２，０００ダルトンの重量平均分子量を有する。別のさらなる改良形態では、ＰＬＧＡは、約１２，０００ダルトン～約１６，０００ダルトンの重量平均分子量を有する。別のさらなる改良形態では、ＰＬＧＡは、最大約９０，０００ダルトンの重量平均分子量を有する。別の改良形態では、生体吸収性ポリマー材料は、ＰＬＡまたはＬＰＬＡである。別の改良形態では、生体吸収性ポリマー材料は、ＰＧＡである。一部の実施形態では、生体吸収性ポリマー材料（例えば、ＰＬＧＡ、ＬＰＬＡ、ＰＬＡ、ＰＧＡ）は、少なくとも９０，０００ダルトン、および任意選択で少なくとも１００，０００ダルトンの重量平均分子量を有する。いくつかの実施形態では、ポリマーストラットは、ポリカルボン酸、セルロース性ポリマー、タンパク質、ポリペプチド、ポリビニルピロリドン、無水マイレン酸ポリマー、ポリアミド、ポリビニルアルコール、ポリエチレンオキサイド、グリコサミノグリカン、多糖類、ポリエステル、脂肪族ポリエステル、ポリウレタン、ポリスチレン、コポリマー、シリコーン、シリコーン含有ポリマー、ポリアルキルシロキサン、ポリオルトエステル、ポリ無水物、ビニルモノマーのコポリマー、ポリカーボネート、ポリエチレン、ポリプロピレン（ｐｏｌｙｐｒｏｐｙｔｅｎｅ）、ポリ乳酸、ポリラクチド、ポリグリコール酸、ポリグリコリド、ポリラクチド－ｃｏ－グリコリド、ポリカプロラクトン、ポリ（ｅ－カプロラクトン）、ポリヒドロキシブチレートバレレート、ポリアクリルアミド、ポリエーテル、ポリウレタン分散物、ポリアクリレート、アクリルラテックス分散物、ポリアクリル酸、ポリアルキルメタクリレート、ポリアルキレン－ｃｏ－酢酸ビニル、ポリアルキレン、脂肪族ポリカーボネート、ポリヒドロキシアルカノエート、ポリテトラハロアルキレン（ｐｏｌｙｔｅｔｒａｈａｌｏｏａｌｋｙｌｅｎｅ）、ポリ（ホスファゾン）、ポリテトラハロアルキレン（ｐｏｌｙｔｅｔｒａｈａｌｏｏａｌｋｙｌｅｎｅ）、ポリ（ホスファゾン）、およびその混合物、組合せ、およびコポリマーからなる群から選択されるポリマー材料を含む。いくつかの実施形態では、管状スキャフォールドは、管状スキャフォールドの構造的完全性に影響を及ぼすことなく、未留置時の直径から公称直径まで拡張可能である。改良形態では、管状スキャフォールドは、管状スキャフォールドの構造的完全性に影響を及ぼすことなく、公称直径から留置時直径を超える直径までさらに拡張可能である。さらなる改良形態では、留置時直径を超える直径は、公称直径を約１．０ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．５ｍｍ上回る。１つの改良形態では、管状スキャフォールドは、管状スキャフォールドの中に配置される拡張性バルーンにより拡張可能である。さらなる改良形態では、管状スキャフォールドは、公称バルーン圧力（ｎｏｍｉｎａｌ  ｂａｌｌｏｏｎ  ｐｒｅｓｓｕｒｅ）において２．２５ｍｍの公称直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において２．５ｍｍの公称直径を有する。さらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において３．０ｍｍの公称直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において３．５ｍｍの公称直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において４．０ｍｍの公称直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において４．５ｍｍの公称直径を有する。１つの改良形態では、ポリマーストラットは、形状記憶ポリマーを含み、この場合、管状スキャフォールドは自己拡張型である。さらなる改良形態では、管状スキャフォールドは温度変化を契機に自己拡張可能である。別のさらなる改良形態では、管状スキャフォールドは、形状記憶ポリマーの結晶化度の変化を契機に自己拡張可能である。いくつかの実施形態では、管状スキャフォールドは、複数のストラットを個々に含む複数のサイナソイダル（ｓｉｎｕｓｏｉｄａｌ）ポリマーファイバーから形成される。改良形態では、サイナソイダルポリマーファイバーは、複数の連結ポイントにおいて相互接続している。いくつかの実施形態では、管状スキャフォールドは、複数のストラットを含む単一のポリマーファイバーから形成される。改良形態では、単一
+のポリマーファイバーは、複数の連結ポイントにおいて相互接続した複数のサイナソイダルセクションを含む。いくつかの実施形態では、バイオメディカルインプラントは、管状スキャフォールドに組み込まれた医薬品をさらに含む。改良形態では、医薬品は、マクロライド免疫抑制剤である。さらなる改良形態では、マクロライド免疫抑制剤は、ラパマイシン、またはその誘導体、プロドラッグ、水和物、エステル、塩、多形体、誘導体、または類似体である。別のさらなる改良形態では、マクロライド免疫抑制剤は、ラパマイシン、４０－Ｏ－（２－ヒドロキシエチル）ラパマイシン、（エベロリムス）、４０－Ｏ－ベンジル－ラパマイシン、４０－Ｏ－（４’－ヒドロキシメチル）ベンジル－ラパマイシン、４０－Ｏ－［４’－（１，２－ジヒドロキシエチル）］ベンジル－ラパマイシン、４０－Ｏ－アリル－ラパマイシン、４０－Ｏ－［３’－（２，２－ジメチル－１，３－ジオキソラン－４（Ｓ）－イル）－プロパ－２’－エン－１’－イル］－ラパマイシン、（２’：Ｅ，４’Ｓ）－４０－Ｏ－（４’，５’－ジヒドロキシペント－２’－エン－１’－イル）－ラパマイシン、４０－Ｏ－（２－ヒドロキシ）エトキシカル－ボニルメチル－ラパマイシン、４０－Ｏ－（３－ヒドロキシ）プロピル－ラパマイシン、４０－Ｏ－（６－ヒドロキシ）ヘキシル－ラパマイシン、４０－Ｏ－［２－（２－ヒドロキシ）エトキシ］エチル－ラパマイシン、４０－Ｏ－［（３Ｓ）－２，２－ジメチルジオキソラン－３－イル］メチル－ラパマイシン、４０－Ｏ－［（２Ｓ）－２，３－ジヒドロキシプロパ－１－イル］－ラパマイシン、４０－Ｏ－（２－アセトキシ）エチル－ラパマイシン、４０－Ｏ－（２－ニコチノイルオキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－モルホリノ）アセトキシ］エチル－ラパマイシン、４０－Ｏ－（２－Ｎ－イミダゾリルアセトキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－メチル－Ｎ’－ピペラジニル）アセトキシ］エチル－ラパマイシン、３９－Ｏ－デスメチル－３９，４０－Ｏ，Ｏ－エチレン－ラパマイシン、（２６Ｒ）－２６－ジヒドロ－４０－Ｏ－（２－ヒドロキシ）エチル－ラパマイシン、２８－Ｏ－メチル－ラパマイシン、４０－Ｏ－（２－アミノエチル）－ラパマイシン、４０－Ｏ－（２－アセトアミノエチル）－ラパマイシン、４０－Ｏ－（２－ニコチンアミドエチル）－ラパマイシン、４０－Ｏ－（２－（Ｎ－メチル－イミダゾ－２’－イルカルボエトキサミド）エチル）－ラパマイシン、４０－Ｏ－（２－エトキシカルボニルアミノエチル）－ラパマイシン、４０－Ｏ－（２－トリルスルホンアミドエチル）－ラパマイシン、４０－Ｏ－［２－（４’，５’－ジカルボエトキシ－１’，２’，３’－トリアゾール－１’－イル）－エチル］－ラパマイシン、４２－Ｅｐｉ－（テトラゾリル）ラパマイシン（タクロリムス）、および４２－［３－ヒドロキシ－２－（ヒドロキシメチル）－２－メチルプロパノエート］ラパマイシンからなる群から選択される。１つの改良形態では、医薬品は、ラパマイシンである。１つの改良形態では、医薬品は、管状スキャフォールドの少なくとも一部分に含浸されている。さらなる改良形態では、医薬品は、ポリマーストラットに含浸されている。さらなる改良形態では、医薬品は、ポリマーストラット全体にわたり均等に分布している。１つの改良形態では、管状スキャフォールドの少なくとも一部分は、医薬品を含むコーティングで覆われる。さらなる改良形態では、コーティングは、コーティングポリマーをさらに含む。さらなる改良形態では、医薬品の表面積のうちの少なくとも９０％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、コーティングポリマーは、生体吸収性ポリマーを含む。さらなる改良形態では、生体吸収性ポリマーは、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリアルギニン、およびその混合物またはコポリマーからなる群から選択される。さらなる改良形態では、生分解性ポリマーは、ＰＬＧＡ、ポリアルギニン、およびその混合物からなる群から選択される。いくつかの実施形態では、バイオメディカルインプラントは、血管ステントである。別の実施形態では、バイオメディカルインプラントは、冠動脈ステントである。別の実施形態では、バイオメディカルインプラントは、末梢動脈ステントである。別の実施形態では、バイオメディカルインプラントは、非血管性のステントである。改良形態では、非血管性のステントは、食道ステント、胆道ステント、十二指腸ステント、大腸ステント、および膵臓ステントから選択される。本開示の別の態様によれば、バイオメディカルインプラントを形成するための方法が開示される。本方法は、生体吸収性ポリエステル材料と補強ファイバー材料とを含む１つまたは複数のポリマーファイバーを形成するステップと、前記ポリマーファイバーを相互に接続させて管状スキャフォールドを形成するステップであって、前記管状スキャフォールドが、複数の変形可能なセルを画定するための複数の相互に接続されたポリマーストラットを含み、前記ポリマーストラットが１５０μｍ以下の平均厚さを有する前記ステップとを含む。いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する。いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する。いくつかの実施形態では、補強ファイバー材料は、カーボンファイバー材料、カーボンナノチューブ材料、生体吸収性ガラス材料、またはその組合せである。いくつかの実施形態では、カーボンナノチューブ材料は、多層カーボンナノチューブ材料である。いくつかの実施形態では、補強ファイバー材料は、生体吸収性ポリマー材料と補強ファイバー材料との間の分子間相互作用を促進する１つまたは複数の表面官能基を備える。いくつかの実施形態では、１つまたは複数の表面官能基は、－ＣＯＯＨ、－ＯＨ、またはその組合せから選択される。いくつかの実施形態では、１つまたは複数の表面官能基を備える補強ファイバー材料は、多層カーボンナノチューブ材料である。いくつかの実施形態では、ポリマーファイバーは、０．１重量％～１５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマーファイバーは、０．１重量％～１０重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマーファイバーは、０．１重量％～５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマーファイバーは、０．１重量％～１．５重量％の補強ファイバー材料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  いくつかの実施形態では、ポリエステルは、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される。いくつかの実施形態では、ポリエステルは、ＰＬＧＡである。いくつかの実施形態では、ポリエステルは、ＰＬＡまたはＬＰＬＡである。本開示の別の態様によれば、生体吸収性管状スキャフォールドを作製するための別の方法が開示される。本方法は、生体吸収性ポリエステル材料と補強ファイバー材料とを含む組成物を形成するステップと、前記組成物を押し出してポリマー管を形成するステップであって、前記ポリマー管が１５０μｍ以下の平均壁厚を有する前記ステップと、前記ポリマー管の一部分を取り除いて相互に接続されたストラットを含むスキャフォールドを形成するステップとを含む。いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する。いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する。いくつかの実施形態では、補強ファイバー材料は、カーボンファイバー材料、カーボンナノチューブ材料、生体吸収性ガラス材料、またはその組合せである。いくつかの実施形態では、カーボンナノチューブ材料は、多層カーボンナノチューブ材料である。いくつかの実施形態では、補強ファイバー材料は、生体吸収性ポリマー材料と補強ファイバー材料との間の分子間相互作用を促進する１つまたは複数の表面官能基を備える。いくつかの実施形態では、１つまたは複数の表面官能基は、－ＣＯＯＨ、－ＯＨ、またはその組合せから選択される。いくつかの実施形態では、１つまたは複数の表面官能基を備える補強ファイバー材料は、多層カーボンナノチューブ材料である。いくつかの実施形態では、ポリマー管は、０．１重量％～１５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマー管は、０．１重量％～１０重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマー管は、０．１重量％～５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマー管は、０．１重量％～１．５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリエステルは、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される。いくつかの実施形態では、ポリエステルは、ＰＬＧＡである。いくつかの実施形態では、ポリエステルは、ＰＬＡまたはＬＰＬＡである。いくつかの実施形態では、除去ステップは、レーザー切断法、光化学エッチング法、およびウォータージェット処理法から選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+［参照による援用］
+  本明細書に記載するすべての刊行物および特許出願を、個々の刊行物または特許出願それぞれを、参照により援用するものとして特別にかつ個別に提示するように、それと同一の程度で、本明細書に参照により援用する。
+</base:Paragraphs>
+    </business:InventionSummary>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0006">
+  本開示について、下記でさらに詳細に説明する。この説明は、本開示が実施可能なあらゆる異なる方式に関する、または本開示に付加され得るすべての特徴に関する詳細なカタログとしては意図されない。例えば、１つの実施形態に関して説明する特徴は、その他の実施形態に援用可能であり、また特定の実施形態に関して説明する特徴は、当該実施形態から除外することも可能である。さらに、本明細書で提案される様々な実施形態に対する、本開示から逸脱しない非常に多くの変形形態および付加形態が、本開示に照らし、当業者にとって明白である。したがって、下記の明細書は、本開示の一部の特定の実施形態を説明するように意図されており、そのすべての順列、組合せ、および変化を網羅的に規定するつもりはない。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+［体吸収性バイオメディカルインプラント］
+  金属製の構造的補強を含まないポリマーからなるステント等の、生体吸収性のバイオメディカルインプラントは、金属ベースのバイオメディカルインプラントよりも望ましいいくつかの特徴を提供する。しかし、生体吸収性のポリマーステントの開発は、今日においてもなお、課題として残る。ポリマーステントを作成するのに用いられる生体吸収性ポリマー材料は、一般的に金属（例えば、スチール）より脆弱なので、金属ステントと類似した構造的強度および完全性を有するポリマーステントは、金属製ストラットの厚さよりも大きい平均厚さを有する（例えば、１５０μｍを上回る、または大幅に上回る）ポリマーストラットから構成される必要があった。
+</base:Paragraphs>
+      <base:Paragraphs num="0008">
+  本開示では、ストラットの厚さが増せば、ステントの構造的強度および完全性は改善するものの、１つまたは複数のポリマーステントの望ましい特徴に悪影響を及ぼす可能性があると考えられる。例えば、ストラットの厚さが増せば、全体的なステントプロファイルは大型化し、また可撓性が劣ったステントとなり得る可能性があり、したがって留置前の血管内誘導がより困難となる可能性がある。ストラットの厚さが増すと、変形能も低下する可能性があり、留置範囲が制限される（例えば、血管ステント内で過膨張する割合が公称直径から１０％未満、または約０．５ｍｍ未満）。さらに、ストラットの厚さが増せば、完全に溶解または分解されるために、より長期間、例えば３～５年間等を要する可能性がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0009">
+  本開示の１つの態様によれば、バイオメディカルインプラントが、複数の相互接続されたポリマーストラットを含む管状スキャフォールドを備えるものとして開示される。相互接続された複数のポリマーストラットは、複数の変形可能なセルを画定する。複数のポリマーストラットは、１５０μｍ以下の平均厚さを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+［平均ストラット厚さ］
+  いくつかの実施形態では、複数のポリマーストラットは、１５０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、１４０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、１３０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、１２０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、１１０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、１００μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、９０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、８０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、７０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、６０μｍ以下の平均厚さを有する。別の実施形態では、複数のポリマーストラットは、５０μｍ以下の平均厚さを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  いくつかの実施形態では、複数のポリマーストラットは、５０μｍ～約１５０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、６０μｍ～約１５０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、７０μｍ～約１５０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、８０μｍ～約１５０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、９０μｍ～約１５０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、１００μｍ～約１５０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、１１０μｍ～約１５０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、１２０μｍ～約１５０μｍの平均厚さを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  いくつかの実施形態では、複数のポリマーストラットは、５０μｍ～約１２０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、６０μｍ～約１２０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、７０μｍ～約１２０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、８０μｍ～約１２０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、９０μｍ～約１２０μｍの平均厚さを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  いくつかの実施形態では、複数のポリマーストラットは、５０μｍ～約１００μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、６０μｍ～約１００μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、７０μｍ～約１００μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、８０μｍ～約１００μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、９０μｍ～約１００μｍの平均厚さを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  いくつかの実施形態では、複数のポリマーストラットは、５０μｍ～約９０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、６０μｍ～約９０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、７０μｍ～約９０μｍの平均厚さを有する。いくつかの実施形態では、複数のポリマーストラットは、８０μｍ～約９０μｍの平均厚さを有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+［構造的強度および完全性］
+  開示する生体吸収性バイオメディカルインプラントの構造的強度および完全性は、下記の方法のうちの１つまたは組合せにより特徴付けることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+        <base:Underline style="single">半径方向の強度試験</base:Underline>
+  この試験は、ステントの内径における変化を周囲圧力の関数として決定し、図で表すため、また、開示されたステントについて変形が完全に可逆的でなくなる圧力を決定するために実施される。ステントが公称圧力に配置され、送達システムから取り外される。ステントがステント直径よりも約１ｍｍ大きなスリーブ中に配置される。その後、真空が適用され、様々な圧力で外径測定が行われる。本開示に基づく生体吸収性インプラントは、５０ｍｍＨｇの加圧後に、当初のステント直径の少なくとも５０パーセントを最低限維持すべきである。本開示に基づくいくつかの生体吸収性インプラントは、５０ｍｍＨｇの加圧後に、当初のステント直径の少なくとも８０パーセントを最低限維持すべきである。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+        <base:Underline style="single">ステント反跳試験</base:Underline>
+  この試験は、弾性反跳量を定量化するために実施した。ステント送達システムを、公称圧力（９ＡＴＭ）まで膨張させ、そしてステントを除去して反跳を生じさせる。ステントの各末端の内径を記録する。反跳前の内径から反跳後のステント内径を減じて反跳を計算する。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+        <base:Underline style="single">ステント拡張試験</base:Underline>
+  この試験は、圧縮されたプロファイルから最終的な留置後の最大直径（すなわち、留置時直径を超える直径）まで膨張したときに、ステントが受ける塑性変形により、開示されるステントについてクラックが生じ得るか確認するために実施する。各送達システムをバルーンに不具合が生ずるまで膨張させて、サンプルステントをその最大限可能な直径まで広げて留置する。各ステントを、クラックが生じた可能性について４５×の倍率で調べる。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+        <base:Underline style="single">最大圧力（バースト試験）試験</base:Underline>
+  この試験は、送達システム（ステントが取り付けられた）が、ステントをそのラベル表示された直径まで膨張させるのに必要とされる圧力またはそれ以下において、バルーン、シャフト、近接部の適合性または近接部／遠位部のシール性について完全性が失われないことを実証するために実施する。すべての製造手順および滅菌処理手順を経たステント送達システムを９０ｐｓｉまで加圧し、圧力を１５秒間維持し、そして３秒間リリースした。次に、当該サイクルを反復し、サイクル毎に膨張圧を１５ｐｓｉずつ、不具合が生ずるまで増加させた。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも６０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも７０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも９０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも９５％を維持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｔｒｏで２カ月間、生理食塩水に曝露したときに、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで２カ月経過した際に、その公称管腔断面積の少なくとも５０％を維持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｔｒｏで３カ月間、生理食塩水に曝露したときに、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで３カ月経過した際に、その公称管腔断面積の少なくとも５０％を維持する
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｔｒｏで４カ月間、生理食塩水に曝露したときに、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで４カ月経過した際に、その公称管腔断面積の少なくとも５０％を維持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  いくつかの実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、６カ月間、ｉｎ  ｖｉｔｒｏで生理食塩水に曝露されたときに、その公称管腔断面積の少なくとも５０％を維持する。別の実施形態では、管状スキャフォールドは、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで６カ月経過した際に、その公称管腔断面積の少なくとも５０％を維持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+［補強ファイバー材料］
+  いくつかの実施形態では、複数のポリマーストラットは、ファイバー補強型のポリマー複合材料を含む。改良された形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマー材料と補強ファイバー材料とを含む。さらなる改良形態では、補強ファイバー材料は、カーボンファイバー材料またはカーボンナノチューブ材料である。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  いくつかの実施形態では、カーボンナノチューブ材料は、多層カーボンナノチューブ材料である。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  いくつかの実施形態では、補強ファイバー材料は、複数のポリマーストラット全体にわたり分布している。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+        <base:Underline style="single">カーボンファイバー</base:Underline>
+  カーボンファイバー（時に、グラファイトファイバー、カーボングラファイトまたはＣＦとも呼ばれる）は、直径約５～１０μｍのファイバーからなる材料であり、主に炭素原子から構成される。炭素原子は、ファイバーの長軸に対してほぼ平行に整列した結晶内で共に結合している。結晶が整列することで、ファイバーに高い強度対容積比が付与される（そのサイズの割に強度が高まる）。数千本のカーボンファイバーが共に束ねられて綱が形成され、これは、そのまま利用可能であるか、または織物に織られて利用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  各カーボンフィラメント糸条は、数千ものカーボンフィラメントからなる束である。単一の係るフィラメントは、直径が５～８マイクロメーターの細い管であり、またもっぱら炭素から構成される。最初期世代のカーボンファイバー（例えば、Ｔ３００、ＨＴＡ、およびＡＳ４）は、直径が７～８マイクロメーターである。その後のファイバー（例えば、ＩＭ６またはＩＭ６００）は、直径が約５マイクロメーターである。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  カーボンファイバーの原子構造は、正六角形のパターンで配置しているシート状の炭素原子からなるグラファイト（グラフェンシート）の構造と類似している。差異は、これらのシートの連結様式にある。グラファイトは、シートが互いに平行して規則的に重ね併さった結晶性の物質である。シート間の分子間力は、比較的弱いファンデルワールス力であり、軟弱で脆弱な特徴をグラファイトに付与している。ファイバーを作製するための前駆体に依存して、カーボンファイバーは乱層もしくはグラファイト状であり得る、またはグラファイト状および乱層の部分が共存する複合構造を有し得る。乱層カーボンファイバーでは、シート状の炭素原子は、共に無作為に折り畳まれているか、または皺が寄った状態にある。ポリアクリロニトリル（ＰＡＮ）に由来するカーボンファイバーは乱層であり、一方、メソフェーズピッチに由来するカーボンファイバーは、２２００℃を上回る温度で熱処理した後、グラファイト状である。乱層カーボンファイバーは、高い引張強度を有する傾向があるが、一方、加熱処理後のメソフェーズピッチ由来のカーボンファイバーでは、ヤング率が高く（すなわち、加重したときの伸びに対して剛性または抵抗性が高い）、また熱導電度も高い。カーボンファイバーの主な製造業者として、Ｈｅｘｃｅｌ、ＳＧＬ  Ｃａｒｂｏｎ、Ｔｏｈｏ  Ｔｅｎａｘ、Ｔｏｒａｙ  Ｉｎｄｕｓｔｒｉｅｓ、およびＺｏｌｔｅｋが挙げられる。製造業者は、異なる用途に応じて異なるグレードのファイバーを一般的に製造している。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  カーボンファイバーは、複合物を形成するために、時にその他の材料と組み合わされる。プラスチック樹脂と組み合わせ、これを巻き取るまたは成型すると、強度対重量比が高いカーボンファイバー補強型プラスチックが形成される。しかし、カーボンファイバー補強型のポリマー複合物は、硬度も高く、また時に脆い傾向を有し、これにより、変形可能な医療用インプラント等の、変形性が望まれるかまたは必須であるデバイスや装置で、これを使用する際の制約となる。本明細書に開示の技術的特質は、単独または様々な組合せによらず、機械的強度（例えば、引張弾性率および引張強度）が改善しており、また変形可能な医療用インプラント、例えばステント等の用途において十分な変形能を有するファイバー補強型のポリマー複合材料の開発を可能にすると考えられる。本明細書に開示の技術的特質は、単独または様々な組合せによらず、望ましい期間内で少なくとも実質的に生体吸収性であるファイバー補強ポリマー複合材料の開発を可能にするものと考えられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+        <base:Underline style="single">カーボンナノチューブ</base:Underline>
+  カーボンナノチューブ（ＣＮＴ）は、円筒形のナノ構造を有する炭素の同素体である。ナノチューブは、長さ対直径の比が最大１３２，０００，０００：１として構築されており、任意のその他の材料よりも大幅に大きい。この円筒形の炭素分子は、ナノテクノロジー、電子機器、光学機器、および材料科学・技術のその他の分野において有用な特別な特性を有する。特に、その極めて優れた熱導電性および機械的・電気的特性に起因して、カーボンナノチューブでは、様々な構造材料に対する添加剤としての応用が見出されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  ナノチューブは、単層ナノチューブ（ＳＷＮＴ）および多層ナノチューブ（ＭＷＮＴ）として分類される。個々のナノチューブは、ファンデルワールス力により共に保持された「ロープ」状に、より具体的には、π－スタッキングした状態に自然に配列する。多層ナノチューブ（ＭＷＮＴ）は、ロール状の複数のグラフェン層（同心円状の管）から構成される。多層ナノチューブの構造を説明するのに利用可能である２つのモデルが存在する。ロシア人形モデルでは、シート状のグラファイトが同心円筒状に、例えばより大きな（０，１７）単層ナノチューブ内の（０，８）単層ナノチューブ（ＳＷＮＴ）として配置する。パーチメントモデルでは、単一シートのグラファイトが、そのもの自体の周囲をロール状に取り巻き、パーチメントの巻物またはロール状のニュースペーパーに類似している。多層ナノチューブ内の中間層の距離は、グラファイト内のグラフェン層間の距離に近く、約３．４Åである。ロシア人形型の構造が、より一般的に認められる。その個々のシェルは、金属性または半電導性であり得るＳＷＮＴとして説明され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  カーボンナノチューブは、非常に高い強度および剛性を一般的に有する。カーボンナノチューブは、その他の材料と組み合わされて複合物を形成する場合もある。したがって、カーボンナノチューブ強化型ポリマー複合物は、硬度も高く、また時に脆い傾向を有し、これにより、変形可能な医療用インプラント等の、変形性が望まれるかまたは必須であるデバイスや装置で、これを使用する際の制約となる。本明細書に開示の技術的特質は、単独または様々な組合せによらず、機械的強度（例えば、引張弾性率および引張強度）が改善しており、また変形可能な医療用インプラント、例えばステント等の用途において十分な変形能を有するファイバー補強型のポリマー複合材料の開発を可能にすると考えられる。本明細書に開示の技術的特質は、単独または様々な組合せによらず、望ましい期間内で少なくとも実質的に生体吸収性であるファイバー補強ポリマー複合材料の開発を可能にするものと考えられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0035">
+        <base:Underline style="single">生体吸収性ガラス</base:Underline>
+  本開示に適する別の補強ファイバー材料として、生体吸収性ガラス材料が挙げられる。いくつかの実施形態では、生体吸収性ガラス材料は、必要とされる引張強度および再吸収特性を有する紡績型または延伸型グラスファイバーである。したがって、生体吸収性ポリマーおよび補強グラスファイバーとして生体吸収性ポリマーマトリクスを強化するグラスファイバーは、強度および弾性係数について、漸進的な生体吸収等により徐々に低下する。
+</base:Paragraphs>
+      <base:Paragraphs num="0036">
+  非限定的な事例として、生体吸収性ガラス材料には、酸化カルシウム（ＣａＯ）および五酸化リン（Ｐ<base:Sub>２</base:Sub>Ｏ<base:Sub>５</base:Sub>）からなる二元混合物が含まれるが、但し、フッ化カルシウム（ＣａＦ<base:Sub>２</base:Sub>）、水（Ｈ<base:Sub>２</base:Sub>Ｏ）等のその他の成分、ならびに陽イオン、例えばマグネシウム、亜鉛、ストロンチウム、ナトリウム、カリウム、リチウム、およびアルミニウム等を含有するその他の酸化物も、少量組み込まれ得る。二元混合物に関して、好ましいＣａ：Ｐモル比は、０．２５～０．３３である。好ましくは、ガラスは、重量として５～５０％のＣａＯ、５０～９５％のＰ<base:Sub>２</base:Sub>Ｏ<base:Sub>５</base:Sub>、０～５％のＣａＦ<base:Sub>２</base:Sub>、０～５％のＨ<base:Sub>２</base:Sub>Ｏ、および０～１０％のＸＯを含み、この場合、Ｘは単一のマグネシウム、亜鉛、もしくはストロンチウムイオン、または２つのナトリウム、カリウム、リチウム、もしくはアルミニウムイオンであり、またＯは単一の酸素イオンであるが、Ｘがアルミニウムである場合は該当せず、その場合には３つの酸素イオンである。より好ましくは、酸化カルシウム（ＣａＯ）が重量として１５～２５％の量で存在し、五酸化リン（Ｐ<base:Sub>２</base:Sub>Ｏ<base:Sub>５</base:Sub>）が重量として６５～９０％の量で存在し、フッ化カルシウム（ＣａＦ<base:Sub>２</base:Sub>）または水（Ｈ<base:Sub>２</base:Sub>Ｏ）が重量として０．１～４％の量で存在する。
+</base:Paragraphs>
+      <base:Paragraphs num="0037">
+        <base:Underline style="single">表面の修飾</base:Underline>
+  いくつかの実施形態では、補強ファイバー材料は、生体吸収性ポリマー材料と補強ファイバー材料との間の分子間相互作用を促進する１つまたは複数の表面官能基を備える。いくつかの実施形態では、補強ファイバーは、化学的に修飾されて表面官能基が備わる。いかなる特定の理論にも束縛されるものではないが、表面官能基は、補強ファイバーの望ましい配向、補強ファイバーの望ましい分布もしくは分散、および／または本開示のその他の技術的特質に寄与すると考えられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0038">
+  いくつかの実施形態では、１つまたは複数の表面官能基は、－ＣＯＯＨ、－ＯＨ、またはその組合せから選択される。いくつかの実施形態では、１つまたは複数の表面官能基を備える補強ファイバー材料は、多層カーボンナノチューブ材料である。
+</base:Paragraphs>
+      <base:Paragraphs num="0039">
+  多層カーボンナノチューブを化学的に修飾して－ＣＯＯＨを含めるステップに関する非限定的な事例は、Ｌｉ  Ｂｕａｙ  Ｋｏｈ、Ｉｓａｂｅｌ  Ｒｏｄｒｉｇｕｅｚｂ、Ｓｕｂｂｕ  Ｓ．Ｖｅｎｋａｔｒａｍａｎａら、Ａ  ｎｏｖｅｌ  ｎａｎｏｓｔｒｕｃｔｕｒｅｄ  ｐｏｌｙ（ｌａｃｔｉｃ－ｃｏ－ｇｌｙｃｏｌｉｃ－ａｃｉｄ）－ｍｕｌｔｉ－ｗａｌｌｅｄ  ｃａｒｂｏｎ  ｎａｎｏｔｕｂｅ  ｃｏｍｐｏｓｉｔｅ  ｆｏｒ  ｂｌｏｏｄ－ｃｏｎｔａｃｔｉｎｇ  ａｐｐｌｉｃａｔｉｏｎｓ：Ｔｈｒｏｍｂｏｇｅｎｉｃｉｔｙ  ｓｔｕｄｉｅｓ．Ａｃｔａ  Ｂｉｏｍａｔｅｒｉａｌｉａ、第５巻、９号、２００９年１１月、３４１１～３４２２頁に記載されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0040">
+  多層カーボンナノチューブを化学的に修飾して－ＣＯＯＨまたは－ＯＨを含めるステップに関する非限定的な事例は、Ｗｕ，Ｃ．Ｓ．およびＬｉａｏ，Ｈ．Ｔ．（２００７年）、Ｓｔｕｄｙ  ｏｎ  ｔｈｅ  ｐｒｅｐａｒａｔｉｏｎ  ａｎｄ  ｃｈａｒａｃｔｅｒｉｚａｔｉｏｎ  ｏｆ  ｂｉｏｄｅｇｒａｄａｂｌｅ  ｐｏｌｙｌａｃｔｉｄｅ／ｍｕｌｔｉ－ｗａｌｌｅｄ  ｃａｒｂｏｎ  ｎａｎｏｔｕｂｅｓ  ｎａｎｏｃｏｍｐｏｓｉｔｅｓ．Ｐｏｌｙｍｅｒ、第４８巻、１５号（２００７年７月）、４４４９～４４５８頁に記載されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0041">
+  上記文献の記載内容は、本明細書においてその全体を援用する。さらに、補強ファイバーに表面官能基を付加するその他の方法は、本明細書に開示の技術的特質に照らして利用可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0042">
+        <base:Underline style="single">ファイバー補強型のポリマー複合材料の作製方法</base:Underline>
+  ファイバー補強型のポリマー複合材料、特に生体吸収性ポリマー複合材料の作製方法の非限定的な事例は、以下の文献に記載されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0043">
+  Ｃｈｌｏｐｅｋ，Ｊ．；Ｍｏｒａｗｓｋａ－Ｃｈｏｃｈｏｌ，Ａ．；Ｂａｊｏｒ，Ｇ．；Ａｄｗｅｎｔ，Ｍ．；Ｃｉｅｓｌｉｋ－Ｂｉｅｌｅｃｋａ，Ａ．；Ｃｉｅｓｌｉｋ，Ｍ．；Ｓａｂａｔ，Ｄ．ら、Ｔｈｅ  ｉｎｆｌｕｅｎｃｅ  ｏｆ  ｃａｒｂｏｎ  ｆｉｂｒｅｓ  ｏｎ  ｔｈｅ  ｒｅｓｏｒｐｔｉｏｎ  ｔｉｍｅ  ａｎｄ  ｍｅｃｈａｎｉｃａｌ  ｐｒｏｐｅｒｔｉｅｓ  ｏｆ  ｔｈｅ  ｌａｃｔｉｄｅ－ｇｌｙｃｏｌｉｄｅ  ｃｏ－ｐｏｌｙｍｅｒ、Ｊ．Ｂｉｏｍａｔｅｒ．Ｓｃｉ．Ｐｏｌｙｍ．編、２００７年、第１８巻、１３５５～１３６８頁。
+</base:Paragraphs>
+      <base:Paragraphs num="0044">
+  Ｌｉ  Ｂｕａｙ  Ｋｏｈ、Ｉｓａｂｅｌ  Ｒｏｄｒｉｇｕｅｚｂ、Ｓｕｂｂｕ  Ｓ．Ｖｅｎｋａｔｒａｍａｎａら、Ａ  ｎｏｖｅｌ  ｎａｎｏｓｔｒｕｃｔｕｒｅｄ  ｐｏｌｙ（ｌａｃｔｉｃ－ｃｏ－ｇｌｙｃｏｌｉｃ－ａｃｉｄ）－ｍｕｌｔｉ－ｗａｌｌｅｄ  ｃａｒｂｏｎ  ｎａｎｏｔｕｂｅ  ｃｏｍｐｏｓｉｔｅ  ｆｏｒ  ｂｌｏｏｄ－ｃｏｎｔａｃｔｉｎｇ  ａｐｐｌｉｃａｔｉｏｎｓ：Ｔｈｒｏｍｂｏｇｅｎｉｃｉｔｙ  ｓｔｕｄｉｅｓ．Ａｃｔａ  Ｂｉｏｍａｔｅｒｉａｌｉａ、第５巻、９号、２００９年１１月、３４１１～３４２２頁。
+</base:Paragraphs>
+      <base:Paragraphs num="0045">
+  Ｗｕ，Ｃ．Ｓ．およびＬｉａｏ，Ｈ．Ｔ．（２００７年）、Ｓｔｕｄｙ  ｏｎ  ｔｈｅ  ｐｒｅｐａｒａｔｉｏｎ  ａｎｄ  ｃｈａｒａｃｔｅｒｉｚａｔｉｏｎ  ｏｆ  ｂｉｏｄｅｇｒａｄａｂｌｅ  ｐｏｌｙｌａｃｔｉｄｅ／ｍｕｌｔｉ－ｗａｌｌｅｄ  ｃａｒｂｏｎ  ｎａｎｏｔｕｂｅｓ  ｎａｎｏｃｏｍｐｏｓｉｔｅｓ．Ｐｏｌｙｍｅｒ、第４８巻、１５号（２００７年７月）、４４４９～４４５８頁。
+</base:Paragraphs>
+      <base:Paragraphs num="0046">
+  Ｈｕａｌｉｎ  Ｚｈａｎｇ．Ｅｌｅｃｔｒｏｓｐｕｎ  ｐｏｌｙ（ｌａｃｔｉｃ－ｃｏ－ｇｌｙｃｏｌｉｃ  ａｃｉｄ）／ｍｕｌｔｉｗａｌｌｅｄ  ｃａｒｂｏｎ  ｎａｎｏｔｕｂｅｓ  ｃｏｍｐｏｓｉｔｅ  ｓｃａｆｆｏｌｄｓ  ｆｏｒ  ｇｕｉｄｅｄ  ｂｏｎｅ  ｔｉｓｓｕｅ  ｒｅｇｅｎｅｒａｔｉｏｎ．Ｊｏｕｒｎａｌ  ｏｆ  Ｂｉｏａｃｔｉｖｅ  ａｎｄ  Ｃｏｍｐａｔｉｂｌｅ  Ｐｏｌｙｍｅｒｓ、第２６号（４）、３４７～３６２頁、２０１１年。
+</base:Paragraphs>
+      <base:Paragraphs num="0047">
+  上記文献の記載内容は、本明細書においてその全体を援用する。さらに、ファイバー補強型のポリマー複合材料を作製するその他の方法は、本明細書に開示の技術的特質に照らして利用可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0048">
+        <base:Underline style="single">引張弾性率</base:Underline>
+  いくつかの実施形態では、補強ファイバー材料を組み入れることで、ファイバー補強型のポリマー複合材料の引張弾性率が大幅に向上する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも１０倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも９倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも８倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも７倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも６倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも５倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも４倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも３倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも２倍の引張弾性率を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張弾性率の少なくとも１．５倍の引張弾性率を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0049">
+        <base:Underline style="single">引張強度</base:Underline>
+  いくつかの実施形態では、補強ファイバー材料を組み入れることで、ファイバー補強型のポリマー複合材料の引張強度が大幅に向上する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも１０倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも９倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも８倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも７倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも６倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも５倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも４倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも３倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも２倍の引張強度を有する。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、生体吸収性ポリマーの引張強度の少なくとも１．５倍の引張強度を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0050">
+        <base:Underline style="single">補強ファイバーの含有量</base:Underline>
+  いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～１５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～１０重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～４重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～３重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～２重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～１．５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～１重量％の補強ファイバー材料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0051">
+  いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～０．９重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～０．９重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～０．８重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～０．７重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．１重量％～０．６重量％の補強ファイバー材料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0052">
+  いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．２重量％～０．９重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．２重量％～０．９重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．２重量％～０．８重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．２重量％～０．７重量％の補強ファイバー材料を含む。いくつかの実施形態では、ファイバー補強型のポリマー複合材料は、０．２重量％～０．６重量％の補強ファイバー材料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0053">
+［補強ファイバーの配向］
+<base:Underline style="single">ストラット－縦方向の配向</base:Underline>
+  いくつかの実施形態では、各ポリマーストラットは、ポリマーストラットの中心軸に沿って縦方向に整列した補強ファイバーを含む。いくつかの実施形態では、５０％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、５５％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、６０％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、６５％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、７０％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、７５％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、８０％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、８５％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、９０％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。いくつかの実施形態では、９５％を超える補強ファイバーが、ポリマーストラットの中心軸に沿って縦方向に整列している。
+</base:Paragraphs>
+      <base:Paragraphs num="0054">
+  ストラット－縦方向（ｓｔｒｕｔ－ｌｏｎｇｉｔｕｄｉｎａｌ）で補強ファイバーが配向すると、その結果、ポリマーストラットは異方性の弾性係数を有する。いくつかの実施形態では、ポリマーストラットは、ポリマーストラットの中心軸に沿って縦方向の平均弾性係数、およびポリマーストラットの中心軸と直交する横方向の平均弾性係数を有し、縦方向の平均弾性係数は、横方向の平均弾性係数を上回る。
+</base:Paragraphs>
+      <base:Paragraphs num="0055">
+  １つの実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも２倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも３倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも４倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも５倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも６倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも７倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも８倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも９倍である。別の実施形態では、縦方向の平均弾性係数は、横方向の平均弾性係数の少なくとも１０倍である。
+</base:Paragraphs>
+      <base:Paragraphs num="0056">
+        <base:Underline style="single">スキャフォールド－軸方向の配向</base:Underline>
+  １つの実施形態では、管状スキャフォールドは、管状スキャフォールドの中心軸に沿って軸方向に整列した補強ファイバーを含む。いくつかの実施形態では、５０％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、５５％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、６０％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、６５％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、７０％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、７５％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、８０％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、８５％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、９０％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。いくつかの実施形態では、９５％を超える補強ファイバーが、管状スキャフォールドの中心軸に沿って軸方向に整列している。
+</base:Paragraphs>
+      <base:Paragraphs num="0057">
+  スキャフォールド－軸方向（ｓｃａｆｆｏｌｄ－ａｘｉａｌ）で補強ファイバーが配向すると、その結果、管状スキャフォールドは、異方性の弾性係数を有する。いくつかの実施形態では、管状スキャフォールドは、管状スキャフォールドの中心軸に沿って軸方向の平均弾性係数、および管状スキャフォールドの中心軸に直交して周囲を取り巻く円周方向の平均弾性係数を有し、軸方向の平均弾性係数は円周方向の平均弾性係数を上回る。
+</base:Paragraphs>
+      <base:Paragraphs num="0058">
+  １つの実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも２倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも３倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも４倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも５倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも６倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも７倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも８倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも９倍である。別の実施形態では、軸方向の平均弾性係数は、円周方向の平均弾性係数の少なくとも１０倍である。
+</base:Paragraphs>
+      <base:Paragraphs num="0059">
+        <base:Underline style="single">スキャフォールド－円周方向の配向</base:Underline>
+  １つの実施形態では、管状スキャフォールドは、円周方向に整列した、すなわち管状スキャフォールドの中心軸と直交して周囲を取り巻く補強ファイバーを含む。いくつかの実施形態では、５０％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、５５％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、６０％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、６５％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、７０％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、７５％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、８０％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、８５％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、９０％を超える補強ファイバーが、円周方向に整列している。いくつかの実施形態では、９５％を超える補強ファイバーが、円周方向に整列している。
+</base:Paragraphs>
+      <base:Paragraphs num="0060">
+  スキャフォールド－円周方向（ｓｃａｆｆｏｌｄ－ｃｉｒｃｕｍｆｅｒｅｎｔｉａｌ）で補強ファイバーが配向すると、その結果、管状スキャフォールドは、異方性の弾性係数を有する。例えば、管状スキャフォールドは、管状スキャフォールドの中心軸に沿って軸方向の平均弾性係数、および管状スキャフォールドの中心軸と直交する半径方向の平均弾性係数を有し、円周方向の平均弾性係数は軸方向の平均弾性係数を上回る。
+</base:Paragraphs>
+      <base:Paragraphs num="0061">
+  １つの実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも２倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも３倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも４倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも５倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも６倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも７倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも８倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも９倍である。別の実施形態では、円周方向の平均弾性係数は、軸方向の平均弾性係数の少なくとも１０倍である。
+</base:Paragraphs>
+      <base:Paragraphs num="0062">
+［生体吸収性ポリマー材料］
+  いくつかの実施形態では、ポリマーストラットは、ゲルスパン（ｇｅｌ－ｓｐｕｎ）ポリマー材料を含む。改良された形態では、ポリマーストラットは、金属材料により構造的に補強されない。さらなる改良形態では、ゲルスパンポリマー材料は、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0063">
+  １つの改良された形態では、ゲルスパンポリマー材料はＰＬＧＡである。さらなる改良形態では、ＰＬＧＡは、８２：１８～８８：１２の範囲のグリコール酸モノマーに対する乳酸モノマーの比を有する。さらなる改良形態では、ＰＬＧＡは、７２：２８～７８：２２の範囲のグリコール酸モノマーに対する乳酸モノマーの比を有する。別のさらなる改良形態では、ＰＬＧＡは、６２：３８～６８：３２の範囲のグリコール酸モノマーに対する乳酸モノマーの比を有する。別のさらなる改良形態では、ＰＬＧＡは、４７：５３～５３：４７の範囲のグリコール酸モノマーに対する乳酸モノマーの比を有する。別のさらなる改良形態では、ＰＬＧＡは、５０：５０のグリコール酸モノマーに対する乳酸モノマーの比を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0064">
+  別のさらなる改良形態では、ＰＬＧＡは、約８，０００ダルトン～約１２，０００ダルトンの重量平均分子量を有する。別のさらなる改良形態では、ＰＬＧＡは、約１２，０００ダルトン～約１６，０００ダルトンの重量平均分子量を有する。別のさらなる改良形態では、ＰＬＧＡは、最大約９０，０００ダルトンの重量平均分子量を有する。別の改良形態では、ゲルスパンポリマー材料は、ＰＬＡまたはＬＰＬＡである。別の改良形態では、ゲルスパンポリマー材料は、ＰＧＡである。一部の実施形態では、ゲルスパンポリマー材料（例えば、ＰＬＧＡ、ＬＰＬＡ、ＰＬＡ、ＰＧＡ）は、少なくとも９０，０００ダルトン、および任意選択で少なくとも１００，０００ダルトンの重量平均分子量を有する。
+</base:Paragraphs>
+      <base:Paragraphs num="0065">
+  いくつかの実施形態では、ポリマーストラットは、ポリカルボン酸、セルロース性ポリマー、タンパク質、ポリペプチド、ポリビニルピロリドン、無水マイレン酸ポリマー、ポリアミド、ポリビニルアルコール、ポリエチレンオキサイド、グリコサミノグリカン、多糖類、ポリエステル、脂肪族ポリエステル、ポリウレタン、ポリスチレン、コポリマー、シリコーン、シリコーン含有ポリマー、ポリアルキルシロキサン、ポリオルトエステル、ポリ無水物、ビニルモノマーのコポリマー、ポリカーボネート、ポリエチレン、ポリプロピレン（ｐｏｌｙｐｒｏｐｙｔｅｎｅ）、ポリ乳酸、ポリラクチド、ポリグリコール酸、ポリグリコリド、ポリラクチド－ｃｏ－グリコリド、ポリカプロラクトン、ポリ（ｅ－カプロラクトン）、ポリヒドロキシブチレートバレレート、ポリアクリルアミド、ポリエーテル、ポリウレタン分散物、ポリアクリレート、アクリルラテックス分散物、ポリアクリル酸、ポリアルキルメタクリレート、ポリアルキレン－ｃｏ－酢酸ビニル、ポリアルキレン、脂肪族ポリカーボネート、ポリヒドロキシアルカノエート、ポリテトラハロアルキレン（ｐｏｌｙｔｅｔｒａｈａｌｏｏａｌｋｙｌｅｎｅ）、ポリ（ホスファゾン）、ポリテトラハロアルキレン（ｐｏｌｙｔｅｔｒａｈａｌｏｏａｌｋｙｌｅｎｅ）、ポリ（ホスファゾン）、およびその混合物、組合せ、およびコポリマーからなる群から選択されるポリマー材料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0066">
+［変形角］
+  さらに、ポリマー鎖が配向すると、その結果、ポリマーストラットは、平均変形角、すなわち、留置時のポリマーストラット間の平均角度－（マイナス）未留置時のポリマーストラット間の平均角度を有する。いくつかの実施形態では、ポリマーストラットは、少なくとも９０度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも８５度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも８０度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも７５度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも７０度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも６５度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも６０度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも５５度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも５０度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも４５度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも４０度の平均変形角を有する。別の実施形態では、ポリマーストラットは、少なくとも３０度の平均変形角を有する。いかなる特定の理論にも束縛されることを望むものではないが、所定の変形角に基づくポリマーストラットの形状は、ポリマー鎖配向型ポリマーからなるポリマーステントの変形能を改善すると考えられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0067">
+［ステント留置］
+  いくつかの実施形態では、管状スキャフォールドは、管状スキャフォールドの構造的完全性に影響を及ぼすことなく、未留置時の直径から公称直径まで拡張可能である。改良された形態では、管状スキャフォールドは、管状スキャフォールドの構造的完全性に影響を及ぼすことなく、公称直径から留置時直径を超える直径までさらに拡張可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0068">
+  さらなる改良形態では、留置時直径を超える直径は、公称直径を約１．０ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．９ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．８ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．７ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．６ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．５ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．４ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．３ｍｍ上回る。別のさらなる改良形態では、留置時直径を超える直径は、公称直径を約０．２ｍｍ上回る。
+</base:Paragraphs>
+      <base:Paragraphs num="0069">
+  １つの改良形態では、管状スキャフォールドは、管状スキャフォールドの中に配置される拡張性バルーンにより拡張可能である。さらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において２．２５ｍｍの留置時直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において２．５ｍｍの留置時直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において３．０ｍｍの留置時直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において３．５ｍｍの留置時直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において４．０ｍｍの留置時直径を有する。別のさらなる改良形態では、管状スキャフォールドは、公称バルーン圧力において４．５ｍｍの留置時直径を有する。公称バルーン圧力は、材料およびバルーンの設計に依存し得る。非限定的な事例として、公称バルーン圧力は６気圧である。別の事例として、公称バルーン圧力は、９気圧である。
+</base:Paragraphs>
+      <base:Paragraphs num="0070">
+  １つの改良形態では、ポリマーストラットは、形状記憶ポリマーを含み、この場合、管状スキャフォールドは自己拡張型である。さらなる改良形態では、管状スキャフォールドは温度変化を契機に自己拡張可能である。別のさらなる改良形態では、管状スキャフォールドは、形状記憶ポリマーの結晶化度の変化を契機に自己拡張可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0071">
+  いくつかの実施形態では、管状スキャフォールドは、複数のストラットを個々に含む複数のサイナソイダルポリマーファイバーから形成される。改良された形態では、サイナソイダルポリマーファイバーは、複数の連結ポイントにおいて相互接続している。
+</base:Paragraphs>
+      <base:Paragraphs num="0072">
+  いくつかの実施形態では、管状スキャフォールドは、複数のストラットを含む単一のポリマーファイバーから形成される。改良された形態では、単一のポリマーファイバーは、複数の連結ポイントにおいて相互接続した複数のサイナソイダルセクションを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0073">
+  ワイヤーまたはフィラメントベースのステントを形成する多くの方法が、本明細書に開示の生体吸収性ステントを作成するのに利用可能である。例えば、Ｗａｌｌｓｔｅｎｔ（Ｂｏｓｔｏｎ  Ｓｃｉｅｎｔｉｆｉｃ）、Ｓ７（Ｍｅｄｔｒｏｎｉｃ）、ＡｎｇｉｏＳｔｅｎｔ（ＡｎｇｉｏＤｙｎａｍｉｃｓ）、Ｓｔｒｅｃｋｅｒ（Ｂｏｓｔｏｎ  Ｓｃｉｅｎｔｉｆｉｃ）、Ｅｘｐａｎｄｅｒ（Ｍｅｄｉｃｏｒｐ）、Ｈｏｒｉｚｏｎ  Ｐｒｏｓｔａｔｉｃ（Ｅｎｄｏｃａｒｅ）、Ｅｎｄｏｃｏｉｌ（ＩｎＳｔｅｎｔ）等を形成する方法が、本開示に照らして利用可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0074">
+［薬物の組み込み］
+  いくつかの実施形態では、バイオメディカルインプラントは、管状スキャフォールドに組み込まれた医薬品をさらに含む。改良された形態では、医薬品は、マクロライド免疫抑制剤である。さらなる改良形態では、マクロライド免疫抑制剤は、ラパマイシン、またはその誘導体、プロドラッグ、水和物、エステル、塩、多形体、誘導体、または類似体である。別のさらなる改良形態では、マクロライド免疫抑制剤は、ラパマイシン、４０－Ｏ－（２－ヒドロキシエチル）ラパマイシン（エベロリムス）、４０－Ｏ－ベンジル－ラパマイシン、４０－Ｏ－（４’－ヒドロキシメチル）ベンジル－ラパマイシン、４０－Ｏ－［４’－（１，２－ジヒドロキシエチル）］ベンジル－ラパマイシン、４０－Ｏ－アリル－ラパマイシン、４０－Ｏ－［３’－（２，２－ジメチル－１，３－ジオキソラン－４（Ｓ）－イル）－プロパ－２’－エン－１’－イル］－ラパマイシン、（２’：Ｅ，４’Ｓ）－４０－Ｏ－（４’，５’－ジヒドロキシペント－２’－エン－１’－イル）－ラパマイシン、４０－Ｏ－（２－ヒドロキシ）エトキシカル－ボニルメチル－ラパマイシン、４０－Ｏ－（３－ヒドロキシ）プロピル－ラパマイシン、４０－Ｏ－（６－ヒドロキシ）ヘキシル－ラパマイシン、４０－Ｏ－［２－（２－ヒドロキシ）エトキシ］エチル－ラパマイシン、４０－Ｏ－［（３Ｓ）－２，２－ジメチルジオキソラン－３－イル］メチル－ラパマイシン、４０－Ｏ－［（２Ｓ）－２，３－ジヒドロキシプロパ－１－イル］－ラパマイシン、４０－Ｏ－（２－アセトキシ）エチル－ラパマイシン、４０－Ｏ－（２－ニコチノイルオキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－モルホリノ）アセトキシ］エチル－ラパマイシン、４０－Ｏ－（２－Ｎ－イミダゾリルアセトキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－メチル－Ｎ’－ピペラジニル）アセトキシ］エチル－ラパマイシン、３９－Ｏ－デスメチル－３９，４０－Ｏ，Ｏ－エチレン－ラパマイシン、（２６Ｒ）－２６－ジヒドロ－４０－Ｏ－（２－ヒドロキシ）エチル－ラパマイシン、２８－Ｏ－メチル－ラパマイシン、４０－Ｏ－（２－アミノエチル）－ラパマイシン、４０－Ｏ－（２－アセトアミノエチル）－ラパマイシン、４０－Ｏ－（２－ニコチンアミドエチル）－ラパマイシン、４０－Ｏ－（２－（Ｎ－メチル－イミダゾ－２’－イルカルボエトキサミド）エチル）－ラパマイシン、４０－Ｏ－（２－エトキシカルボニルアミノエチル）－ラパマイシン、４０－Ｏ－（２－トリルスルホンアミドエチル）－ラパマイシン、４０－Ｏ－［２－（４’，５’－ジカルボエトキシ－１’，２’，３’－トリアゾール－１’－イル）－エチル］－ラパマイシン、４２－Ｅｐｉ－（テトラゾリル）ラパマイシン（タクロリムス）、および４２－［３－ヒドロキシ－２－（ヒドロキシメチル）－２－メチルプロパノエート］ラパマイシンからなる群から選択される。１つの改良形態では、医薬品は、ラパマイシンである。
+</base:Paragraphs>
+      <base:Paragraphs num="0075">
+  １つの改良形態では、医薬品は、管状スキャフォールドの少なくとも一部分に含浸されている。さらなる改良形態では、医薬品は、ポリマーストラットに含浸されている。さらなる改良形態では、医薬品は、ポリマーストラット全体にわたり均等に分布している。
+</base:Paragraphs>
+      <base:Paragraphs num="0076">
+  いくつかの実施形態では、複合材料がポリマーストラットまたは管状スキャフォールドを形成する前に、医薬品がファイバー補強型のポリマー複合材料内に含浸される。いくつかの実施形態では、ファイバー補強型のポリマー複合材料を形成するために、医薬品が生体吸収性ポリマー内に含浸された後に、含浸後のポリマーが補強ファイバーと組み合わされる。いくつかの実施形態では、ファイバー補強型のポリマー複合材料を形成するプロセスにおいて、医薬品が生体吸収性ポリマーおよび補強ファイバーと組み合わされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0077">
+  １つの改良形態では、管状スキャフォールドの少なくとも一部分は、医薬品を含むコーティングで覆われる。さらなる改良形態では、コーティングは、コーティングポリマーをさらに含む。さらなる改良形態では、医薬品の表面積のうちの少なくとも９０％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも８５％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも８０％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも７５％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも７０％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも６５％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも６０％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも５５％は、コーティングポリマー内にカプセル化されている。さらなる改良形態では、医薬品の表面積のうちの少なくとも５０％は、コーティングポリマー内にカプセル化されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0078">
+  さらなる実施形態では、医薬品は、管状スキャフォールドの少なくとも一部分に含浸され（例えば、管状スキャフォールド全体にわたり均等に分布している）、また管状スキャフォールドの少なくとも一部分は、上記パラグラフで議論したような方式で、医薬品を含むコーティングで覆われる。
+</base:Paragraphs>
+      <base:Paragraphs num="0079">
+  さらなる改良形態では、コーティングポリマーは、生体吸収性ポリマーを含む。さらなる改良形態では、生体吸収性ポリマーは、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリアルギニン、およびその混合物またはコポリマーからなる群から選択される。さらなる改良形態では、生分解性ポリマーは、ＰＬＧＡ、ポリアルギニン、およびその混合物からなる群から選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0080">
+  いくつかの実施形態では、バイオメディカルインプラントは、血管ステントである。別の実施形態では、バイオメディカルインプラントは、冠動脈ステントである。別の実施形態では、バイオメディカルインプラントは、末梢動脈ステントである。別の実施形態では、バイオメディカルインプラントは、非血管性のステントである。改良された形態では、非血管性のステントは、食道ステント、胆道ステント、十二指腸ステント、大腸ステント、および膵臓ステントから選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0081">
+        <base:Underline style="single">［生体吸収性ステントの製造］</base:Underline>
+  本開示の別の態様によれば、バイオメディカルインプラントを形成するための方法が開示される。本方法は、生体吸収性ポリエステル材料と補強ファイバー材料とを含む１つまたは複数のポリマーファイバーを形成するステップと、前記ポリマーファイバーを相互接続させて管状スキャフォールドを形成するステップであって、前記管状スキャフォールドが、複数の変形可能なセルを画定するための複数の相互接続されたポリマーストラットを含み、前記ポリマーストラットが１５０μｍ以下の平均厚さを有するステップとを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0082">
+  本開示の別の態様によれば、生体吸収性管状スキャフォールドを作製するための別の方法が開示される。本方法は、生体吸収性ポリエステル材料と補強ファイバー材料とを含む組成物を形成するステップと、前記組成物を押し出してポリマー管を形成するステップであって、前記ポリマー管が１５０μｍ以下の平均壁厚を有するステップと、前記ポリマー管の一部分を取り除いて相互接続されたストラットを含むスキャフォールドを形成するステップとを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0083">
+［管状スキャフォールドの製造］
+<base:Underline style="single">ポリマーファイバー（１つまたは複数）から作製される管状スキャフォールド</base:Underline>
+  本開示の別の態様によれば、バイオメディカルインプラントを形成するための方法が開示される。本方法は、生体吸収性ポリエステル材料と補強ファイバー材料とを含む１つまたは複数のポリマーファイバーを形成するステップと、前記ポリマーファイバーを相互接続させて管状スキャフォールドを形成するステップであって、前記管状スキャフォールドが、複数の変形可能なセルを画定するための複数の相互接続されたポリマーストラットを含み、前記ポリマーストラットが１５０μｍ以下の平均厚さを有するステップとを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0084">
+  いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する。いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0085">
+  いくつかの実施形態では、補強ファイバー材料は、カーボンファイバー材料またはカーボンナノチューブ材料である。いくつかの実施形態では、カーボンナノチューブ材料は、多層カーボンナノチューブ材料である。
+</base:Paragraphs>
+      <base:Paragraphs num="0086">
+  いくつかの実施形態では、ポリマーファイバーは、０．１重量％～１５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマーファイバーは、０．１重量％～１０重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマーファイバーは、０．１重量％～５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマーファイバーは、０．１重量％～１．５重量％の補強ファイバー材料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0087">
+  いくつかの実施形態では、ポリエステルは、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0088">
+  いくつかの実施形態では、ポリエステルは、ＰＬＧＡである。いくつかの実施形態では、ポリエステルは、ＰＬＡまたはＬＰＬＡである。
+</base:Paragraphs>
+      <base:Paragraphs num="0089">
+        <base:Underline style="single">ポリマー管を用いて作製される管状スキャフォールド</base:Underline>
+  本開示の別の態様によれば、生体吸収性管状スキャフォールドを作製するための別の方法が開示される。本方法は、生体吸収性ポリエステル材料と補強ファイバー材料とを含む組成物を形成するステップと、前記組成物を押し出してポリマー管を形成するステップであって、前記ポリマー管が１５０μｍ以下の平均壁厚を有するステップと、前記ポリマー管の一部分を取り除いて相互接続されたストラットを含むスキャフォールドを形成するステップとを含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0090">
+  いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する。いくつかの実施形態では、管状スキャフォールドは、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する。
+</base:Paragraphs>
+      <base:Paragraphs num="0091">
+  いくつかの実施形態では、補強ファイバー材料は、カーボンファイバー材料またはカーボンナノチューブ材料である。いくつかの実施形態では、カーボンナノチューブ材料は、多層カーボンナノチューブ材料である。
+</base:Paragraphs>
+      <base:Paragraphs num="0092">
+  いくつかの実施形態では、ポリマー管は、０．１重量％～１５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマー管は、０．１重量％～１０重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマー管は、０．１重量％～５重量％の補強ファイバー材料を含む。いくつかの実施形態では、ポリマー管は、０．１重量％～１．５重量％の補強ファイバー材料を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0093">
+  いくつかの実施形態では、ポリエステルは、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0094">
+  いくつかの実施形態では、ポリエステルは、ＰＬＧＡである。いくつかの実施形態では、ポリエステルは、ＰＬＡまたはＬＰＬＡである。
+</base:Paragraphs>
+      <base:Paragraphs num="0095">
+  いくつかの実施形態では、取り除くステップは、レーザー切断法、光化学エッチング法、およびウォータージェット処理法から選択される。
+</base:Paragraphs>
+      <base:Paragraphs num="0096">
+［管状スキャフォールドのコーティング］
+  本明細書で提供されるものとして、管状スキャフォールド（本セクションでは基材とも呼ばれる）を、粉末形態の医薬品または生物学的薬剤と共にコーティングする方法が挙げられる。ステントをスプレーコーティングする従来型のプロセスも利用可能である。例えば、薬物およびコーティングポリマーは、スプレーコーティングが実施可能となる前に、適する溶媒または相互溶媒に溶解可能である。本明細書で提供されるものとして、コーティングポリマーおよび粉末形態の医薬品または生物学的薬剤を基材に積層する方法が挙げられる。コーティングプロセスは、１つもしくは複数の不活性ポリマーと１つもしくは複数の医薬品または生物学的薬剤の組合せを、基材表面の一部または全部に積層して、事前に決定された、所望の厚さ、適合性を有し、実質的に欠陥を含まず、均一なコーティングを形成するためのコスト効果に優れた効率的な方法を提供し、当該コーティングの組成は制御可能である。特に、当該コーティングプロセスは、コーティングプロセス期間中に積層した薬剤を構造的および形態的に保つことができない既存のコーティングプロセスの問題に対処する。
+</base:Paragraphs>
+      <base:Paragraphs num="0097">
+  本発明の１つの態様では、医薬品または生物学的薬剤を乾燥粉末として積層させる必要がある。乾燥粉末のスプレーイングは、当技術分野において周知であり、また静電捕獲法と組み合わされた乾燥粉末のスプレーイングについては、例えば米国特許第５，４７０，６０３号、同第６，３１９，５４１号、または同第６，３７２，２４６号に記載されている。ポリマーの形態は、これが所望の特性（例えば、厚さ、適合性、欠陥を含まないこと、均一性等）を有するコーティングを提供する限り、それほど重要でないので、ポリマーの積層は任意の数の標準手順で実施可能である。ポリマーの機能として、コーティングの有効成分のための不活性な担体マトリクスの１つが主に挙げられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0098">
+  コーティングプロセスの１つの態様として、２つ以上の乾燥粉末の組合せ、ＲＥＳＳ、およびＳＥＤＳスプレーイング技法が挙げられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0099">
+  コーティングプロセスの別の態様は、医薬品を好ましい粒子サイズと形態で、乾燥粉末スプレーイングされたポリマーと同じ捕獲容器内に乾燥粉末スプレーイングすることと関係し、これにより、薬剤およびポリマーのスプレーイングは連続的または同時に行われる。
+</base:Paragraphs>
+      <base:Paragraphs num="0100">
+  コーティングプロセスの別の特定の態様は、活性な生物学的薬剤を、好ましい粒子サイズで、特定の活性を有しつつ、乾燥粉末スプレーイングされたポリマーと同じ捕獲容器内に乾燥粉末スプレーイングすることと関係し、これにより、薬剤およびポリマーのスプレーイングは連続的または同時に行われる。
+</base:Paragraphs>
+      <base:Paragraphs num="0101">
+  コーティングプロセスのさらに別の態様は、医薬品を好ましい粒子サイズと形態で、ＲＥＳＳスプレープロセスにより連続的または同時にスプレーイングされたポリマーと同じ捕獲容器内に乾燥粉末スプレーイングすることと関係する。
+</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  コーティングプロセスのさらに別の態様は、活性な生物学的薬剤を好ましい粒子サイズで、特定の活性を有しつつ、ＲＥＳＳスプレープロセスにより連続してまたは同時にスプレーイングされたポリマーと同じ捕獲容器内に乾燥粉末スプレーイングすることと関係する。
+</base:Paragraphs>
+      <base:Paragraphs num="0103">
+  コーティングプロセスのさらに別の態様は、医薬品を好ましい粒子サイズと形態で、ＳＥＤＳスプレープロセスにより連続的または同時にスプレーイングされたポリマーと同じ捕獲容器内に乾燥粉末スプレーイングすることと関係する。
+</base:Paragraphs>
+      <base:Paragraphs num="0104">
+  コーティングプロセスのさらに別の態様は、活性な生物学的薬剤を好ましい粒子サイズで、特定の活性を有しつつ、ＳＥＤＳスプレープロセスにより連続してまたは同時にスプレーイングされたポリマーと同じ捕獲容器内に乾燥粉末スプレーイングすることと関係する。
+</base:Paragraphs>
+      <base:Paragraphs num="0105">
+  いくつかの実施形態では、コーティングを形成する際に用いられるＲＥＳＳまたはＳＥＤＳプロセスは、基材を帯電させて実施される。いくつかの実施形態では、コーティングを形成する際に用いられるｅ－ＲＥＳＳまたはｅ－ＳＥＤＳプロセスは、基材とプロセスで用いられるコーティング装置との間に電位を形成することにより実施される。一部の実施形態では、コーティングを形成する際に用いられるＲＥＳＳまたはＳＥＤＳプロセスは、基材を帯電させずに実施される。
+</base:Paragraphs>
+      <base:Paragraphs num="0106">
+  コーティングプロセスのさらなる態様では、上記実施形態の記載に従い、医薬品または生物学的薬剤およびポリマーでコーティングされた基材は、次に焼結プロセスで処理される。焼結プロセスは、医薬品および生物学的薬剤の構造的および形態的な完全性に影響を及ぼさない良好な条件下で行われ、また同プロセスは、同時積層された医薬品または生物学的薬剤とポリマーマトリクスとが、連続的になり、また基材と接着した状態になるようなプロセスを意味する。これは、コーティングされた基材を、ポリマーに対して貧溶媒、ポリマーに対して弱溶媒、または連続的なポリマーコーティングを形成するためにポリマー粒子を処理するのに適する薬剤を除き、ポリマー、医薬品、および生物学的薬剤にとって非溶媒であるような条件において、圧縮気体、圧縮液体、または超臨界流体で処理することにより達成される。焼結プロセスは、医薬品および生物学的薬剤の構造的および形態的な完全性に影響を及ぼさないような条件（例えば、温和な温度）下、良好な液体（例えば、超臨界二酸化炭素）を用いて行われる。医薬品および生物学的薬剤の構造的および形態的な完全性に影響を及ぼさないその他の焼結プロセスも、本発明の検討対象となり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0107">
+  コーティングプロセスのさらなる態様では、所望の溶出媒体内に置かれた際に、事前に決定された溶出プロファイルに沿って有効成分のリリースが生ずるように、コーティングを作製するのが望ましい。コーティング特性は、望ましい溶出プロファイルを提供するために、様々な異なる方法で修正可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0108">
+  有効成分の溶出を可能にする、または制限するコーティングポリマーの供給量を増減するために、コーティングポリマーの化学組成を変更することができる。例えば、想定する溶出媒体が水を含む場合には、水中で膨潤するコーティングポリマーの含有量が多くなるほど、有効成分のより迅速な溶出が可能になる。反対に、水性媒体中で膨潤しないコーティングポリマーの含有量が多くなるほど、溶出速度はより低速となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0109">
+  コーティング特性は、コーティングポリマー層の入れ替えによっても制御可能である。異なる特性を有するコーティングポリマーの各層を、連続した方式で基材上に積層する。各層に積層されるポリマーの性質を修正する（例えば、異なるポリマーを積層する）ことにより、コーティングの溶出プロファイルは変化する。積層する際の層の数およびその順番は、制御型の溶出プロファイルを有するコーティングを設計するための追加手段を提供する。
+</base:Paragraphs>
+      <base:Paragraphs num="0110">
+  コーティング特性は、ポリマーコーティングのマクロ構造および／またはミクロ構造（拡散経路）を制御することによっても修正可能である。これは、コーティングプロセス（１つまたは複数）を変更することにより、または異なる焼結条件を用いることにより達成可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0111">
+  コーティングプロセスは、１つまたは数種の薬物の溶出を制御するいくつかのアプローチを提供する。いくつかの実施形態では、制御式の溶出は、異なるコーティングポリマー（例えば、ＰＥＶＡ／ＰＢＭＡ）の分離により達成される。別の実施形態では、溶出の制御は、ポリマーマトリクスを焼結する際に、これを制御して不完全な焼結が得られるように、焼結プロセス期間中に条件を管理することにより達成されるが、こうすれば、コーティングは、積層時、ポリマー粒子において若干の粒子様構造を保持する。焼結を不完全にすれば、コーティング中に細孔／隙間が生じ、そしてポリマー（１つまたは複数）を通過する溶出に代替するまたは付加する、ポリマー（１つまたは複数）周辺での薬物溶出を含め、薬物が溶出するための追加経路を設けることができる。ポリマーマトリクスの不完全焼結により得られる細孔または隙間のサイズは、いくつかの方法を通じて取得可能である。例えば、焼結プロセスが実施される容器の減圧速度は、ポアサイズを制御するための１つの手段を提供する。コーティング中のキャビティーまたは細孔のサイズは、添加剤としてポロゲンを利用し、そしてその後に少なくとも一部のポロゲンを、例えばポロゲンの溶媒で処理して除去することにより制御可能である。好ましくは、ポロゲン溶媒は、濃縮気体（例えば、炭素）を含む。いくつかの実施形態では、ポロゲンは、ＳＯＡまたはその他のかかる疎水的に誘導体化された炭水化物である。少なくとも一部のポロゲン除去が、好ましくは焼結プロセス期間中に実施される。
+</base:Paragraphs>
+      <base:Paragraphs num="0112">
+  本発明の一部の態様では、有効成分の溶出プロファイルは、コーティングポリマーの粒子サイズを変えることにより制御可能である。ポリマー粒子を基材上に積層する方法は、したがって所望の溶出速度を提供するために変更される。例えば、複数のポリマーが同一のノズルを通じて同時にリリースされる場合、超臨界溶液からＲＥＳＳリリースすると、その結果小型のポリマー粒子が一般的に得られる。圧縮気体中の混合物からＲＥＳＳ様にリリースすると、より大型のポリマー粒子が通常得られる。ＳＥＤＳプロセスを用いると、その結果、採用した具体的なＳＥＤＳ条件に応じて、様々なポリマー粒子サイズが生じ得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0113">
+  コーティングプロセスのさらなる態様では、有効成分の溶出プロファイルは、コーティングポリマー粒子形状を変えることにより制御可能である。ポリマー粒子の形状変化を達成する１つの方法として、ポリマーの初期濃度を変更することが挙げられる。初期の濃度が低いと、ポリマーは、小型の粒子として積層される。濃度が増せば、より大型の粒子が形成される。より高い濃度では、形成された粒子は引き伸ばされた状態になり、そして高濃度において遂には、引き伸ばされた特徴はファイバー様となり、最終的に連続的なファイバーとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0114">
+  コーティングプロセスのさらにその他の態様では、有効成分の溶出プロファイルは、化学的に異なるポリマーにおいて、その個々のドメインを構築することにより制御可能である。上記のように、化学的に異なるポリマーは、異なる溶出媒体において有効成分の溶出を可能にする、または制限する。コーティング内の個々の巨視的なドメインにおいて、かかるポリマーの位置を変更することにより、溶出プロファイルは調整可能である。例えば、２つの異なるポリマーが同一のノズルを通じて連続してリリースされるプロセスでは、いずれかのポリマーの粒子が、例えば基材上のコーティングの外側、内側、または中央に接近して配置するように積層され得る。別の実施形態では、２つのポリマーは、２つの異なるノズルを通じて、異なるおよび／または交互に入れ替わる積層速度で同時にリリースされ得るが、その結果類似した効果が得られる。さらなる実施形態では、溶出性および非溶出性ポリマーの積層を交互に実施すると、その結果得られるリリースは変動型となる。さらにその他の実施形態では、ポリマーは、有効成分の拍動型リリースを提供するように積層される。薬物の拡散を目的として、異なるドメインを提供するポリマー（１つまたは複数）の分離が、例えば同一のノズルを通じてポリマーを連続してスプレーイングする、または複数のノズルを用いることにより達成される。また、上記のように、有効成分の溶出制御は、コーティングの深さ方向で異なるポリマーを層状化することにより達成され得る。制御型の溶出特性を有するコーティングの設計において、ドメイン分離と深さ方向の層状化との併用も検討される。
+</base:Paragraphs>
+      <base:Paragraphs num="0115">
+  これらプロセスのいずれかにおいて行われる有効成分の積層は、コーティング全体にわたり均等な分布を提供するために一定であり得る、または有効成分のスプレーイングは、コーティング内の異なるポリマードメインにおいて異なる量の有効成分が得られるように変更可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0116">
+  コーティングプロセスのさらなる態様では、有効成分の溶出プロファイルは、コーティングの焼結条件を変えることにより制御可能である。例えば、焼結が不完全であれば、ポリマー粒子間の間隙内にオープンスペースまたは細孔が生成し、これにより、有効成分がコーティングからより迅速に溶出することが可能になる。溶出制御のために焼結条件を活用する別の方法として、焼結プロセス期間中に起泡することにより、不規則なコーティングを計画的に作製することが挙げられる。ＣＯ<base:Sub>２</base:Sub>－またはイソブチレン－含浸ポリマーフィルムを高速圧抜き処理することにより、空隙率が増加したコーティングを生成し、また拡散／溶出にとって非常に「開放的」である発泡ポリマー形成が誘発される。したがって、起泡条件を操作すれば、次にこれによって細孔密度およびサイズが制御され、これにより溶出プロファイルは制御可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0117">
+  コーティングプロセスの別の長所として、制御型（ダイヤルイン型）薬物溶出プロファイルを有するステントを作製する能力が挙げられる。ラミネート構造の各層内に異なる材料を有する能力、および薬物（１つまたは複数）の存在場所を、これらの層内で独立して制御する能力を通じて、方法は、極めて限定された溶出プロファイル、プログラム化された連続および／または並行した溶出プロファイルで薬物をリリースし得るステントを可能にする。また、本発明は、１つの薬物について、第２の薬物（または異なる用量の同一薬物）の溶出に影響を及ぼすことなく制御型の溶出を可能にする。
+</base:Paragraphs>
+      <base:Paragraphs num="0118">
+  ステント形態またはフレームワークを組み込んだ実施形態は、留置の際にステントをＸ線撮影方式でモニタリングする能力を提供する。代替的実施形態では、ステントの内径はマスクされ得る（例えば、非導電性の円棒により）。かかるマスキングは、追加の層がステントの内径（反管腔側）表面上に来るのを防止する。得られる形状は、薬物が抗再狭窄の治療効果が望まれる血管壁（ステントの管腔表面）に向かって優先的に溶出できるようにするが、ただし同薬物により治癒が遅延する可能性があり、したがって、現行のＤＥＳが有する遅発性の安全問題の原因となるのではないかと疑われるような、反管腔側表面に同じ抗増殖薬（１つまたは複数）がもたらされることがないようにするのに望ましいと考えられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0119">
+  コーティングプロセスは、圧縮流体技術に基づく層形成法、静電捕捉法および焼結法を組み合わせたプラットフォームの利用を可能にする。当該プラットフォームは、治療特性および機械的特性が強化された薬物溶出ステントを生じる。当該コーティングプロセスは、最適化されたラミネートポリマー技術を採用するという点で、特に有利である。特に、当該コーティングプロセスは、特定の薬物プラットフォームについて、個別の層形成を可能にする。
+</base:Paragraphs>
+      <base:Paragraphs num="0120">
+  本明細書に記載するコーティングプロセスでは、薬物およびポリマーは、個別のステップにおいてステントフレームワーク上にコーティングされるが、同ステップは、同時または交互に実施可能である。これは、ポリマーマトリクス内に活性な薬剤（例えば、薬物）を個別に積層することを可能にし、これにより、単一の医療機器上に２つ以上の薬物を、中間的なポリマー層の有無に関係なく留置できるようにする。例えば、本プラットフォームは、２成分薬物溶出ステントを提供する。
+</base:Paragraphs>
+      <base:Paragraphs num="0121">
+  コーティングプロセスにより提供されるいくつかの長所として、圧縮流体（例えば超臨界流体、例えばＲＥＳＳに基づく方法）の利用、溶媒を用いない積層法、低温処理を可能にし、これにより活性な薬剤およびポリマーマトリクスの品質を維持するプラットフォーム、製造期間中および／または薬物溶出ステントの保管期間中に、様々な薬物および／またはその添加剤の間で生ずる直接的な相互作用に起因する有害な効果を最低限に抑えつつ、２つ、３つまたはそれ以上の薬物を組み込む能力、乾式積層法、ステントフレームワーク上の層の接着特性および機械的特性の強化、精密な積層および高速バッチ処理、ならびに複雑な構造を形成する能力が挙げられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0122">
+  コーティングプロセスは、抗－再狭窄薬（例えば、リムスまたはタキソール）および抗－血栓薬（例えば、ヘパリンまたはその類似体）および十分に特徴付けがなされた生体吸収性ポリマーを含む、頑強で弾力があり、また可撓性を有する薬物溶出ステントを生み出す多剤送達プラットフォームを提供し得る。本明細書に記載する薬物溶出ステントは、血栓形成性のポリマーを低減するまたは完全に除去し、また治癒を阻害し得る残留薬物を低減するまたは完全に除去することにより、一部において、血栓症の可能性を最低限に抑える。
+</base:Paragraphs>
+      <base:Paragraphs num="0123">
+［定義］
+  本明細書において使用されている以下の語句は一般に、それらが使用されている文脈が別のことを指示しない限り、以下に記載の意味を有することが意図されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0124">
+  用語「生体吸収性」、「生分解性」、「生腐食性」、「生体吸収性」および「吸収性」は、当該技術において認識されている類義語である。これらの用語は、本明細書においては互換的に使用される。生体吸収性ポリマーと非生体吸収性ポリマーとは一般に、前者が使用中に吸収（例えば分解）され得るという点で異なる。ある特定の実施形態では、そのような使用はｉｎ  ｖｉｖｏ治療などのｉｎ  ｖｉｖｏにおける使用に関わり、他のある特定の実施形態では、そのような使用はｉｎ  ｖｉｔｒｏの使用に関わる。一般に、生分解性に起因する分解は、生体吸収性ポリマーのその構成サブユニットへの分解、または例えば生化学的過程による、より小さな非重合体サブユニットへのポリマーの消化に関わる。ある特定の実施形態では、生分解は酵素による媒介、水の存在下での分解（加水分解）および／もしくは体内の他の化学種の存在下での分解、またはその両方によって生じ得る。ポリマーの生体吸収性は、本明細書に記載されているような方法で、または当業者に既知の方法によってｉｎ  ｖｉｔｒｏで示されることができる。ポリマーの生体吸収性に関するｉｎ－ｖｉｔｒｏ試験は、生体吸収性（例えば、分解、消化）を示すために生細胞または他の生物学的材料を必要としない。よって、吸収（ｒｅｓｏｒｂｔｉｏｎ）、吸収（ｒｅｓｏｒｐｔｉｏｎ）、吸収（ａｂｓｏｒｐｔｉｏｎ）、吸収（ａｂｓｏｒｂｔｉｏｎ）、腐食もまた、用語「生体吸収性」、「生分解性」、「生腐食性」および「生体吸収性」と同じ意味合いで使用され得る。生体吸収性ポリマーの分解のメカニズムは、バルク分解、表面腐食、およびそれらの組合せを含み得るが、これらに限定されない。
+</base:Paragraphs>
+      <base:Paragraphs num="0125">
+  本明細書において使用される用語「生分解」は、両方の一般的な型の生分解を包含する。生分解性ポリマーの分解速度はしばしば、任意の分解の原因となる連結の化学的素性、分子量、結晶化度、生体内安定性、そのようなポリマーの架橋の度合い、インプラントの物理的特性（例えば、形状および大きさ）、ならびに投与の様式および位置を含む、様々な因子に部分的に依存する。例えば、分子量が大きいほど、結晶化度の度合いがより高いほど、および／または生体内安定性がより高いほど、生体吸収性ポリマーの生分解は普通、より遅くなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0126">
+  本明細書において使用される「分解」は、例えば、化学化合物の１つまたは複数の原子群を切り離すことによる、より複雑でない化合物への変換または還元を指す。コーティングの分解は、デバイスへのコーティングの粘着性および接着性の結合を低減させ、それによって、介入部位へのコーティングの転移を促進し得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0127">
+  本明細書において使用される「医薬品」は、疾患を予防もしくは処置（疾患を予防、すなわち疾患の臨床症状が発症しないようにすること、疾患を抑制、すなわち臨床症状の発症を阻止すること、および／または疾患を軽減、すなわち臨床症状の退縮を引き起こすことを含む、哺乳動物における疾患の任意の処置を意味する）するために活性剤として使用されることができる種々の任意の薬物または医薬化合物を指す。また、本発明の医薬品が２つ以上の薬物または医薬化合物を含むことも可能である。医薬品は、抗再狭窄薬、抗糖尿病薬、鎮痛薬、抗炎症薬、抗リウマチ薬、抗低血圧薬、降圧薬、向精神薬、精神安定剤、制吐剤、筋弛緩薬、グルココルチコイド、潰瘍性大腸炎もしくはクローン病の治療剤、抗アレルギー剤、抗生物質、抗てんかん薬、抗凝固薬、抗真菌剤、鎮咳薬、動脈硬化症治療薬、利尿薬、タンパク質、ペプチド、酵素、酵素阻害剤、痛風治療薬、ホルモンおよびその阻害剤、強心配糖体、免疫療法剤およびサイトカイン、緩下薬、脂質低下薬、片頭痛治療薬、鉱物製品、耳科用薬、抗パーキンソン剤、甲状腺治療薬、鎮痙薬、血小板凝集阻害剤、ビタミン、細胞増殖抑制剤および転移阻害剤、植物薬、化学療法剤およびアミノ酸を含むが、これらに限定されない。適切な活性成分の例は、アカルボース、抗原、ベータ－受容体遮断薬、非ステロイド性抗炎症薬（ＮＳＡＩＤ）、強心配糖体、アセチルサリチル酸、ウイルス抑止剤、アクラルビシン、アシクロビル、シスプラチン、アクチノマイシン、アルファ－およびベータ－交感神経興奮剤、オメプラゾール、アロプリノール、アルプロスタジル、プロスタグランジン、アマンタジン、アンブロキソール、アムロジピン、メトトレキサート、Ｓ－アミノサリチル酸、アミトリプチリン、アモキシシリン、アナストロゾール、アテノロール、アザチオプリン、バルサラジド、ベクロメタゾン、ベタヒスチン、ベザフィブラート、ビカルタミド、ジアゼパムおよびジアゼパム誘導体、ブデソニド、ブフェキサマク、ブプレノルフィン、メタドン、カルシウム塩、カリウム塩、マグネシウム塩、カンデサルタン、カルバマゼピン、カプトプリル、セファロスポリン、セチリジン、ケノデオキシコール酸、ウルソデオキシコール酸、テオフィリンおよびテオフィリン誘導体、トリプシン、シメチジン、クラリスロマイシン、クラブラン酸、クリンダマイシン、クロブチノール、クロニジン、コトリモキサゾール、コデイン、カフェイン、ビタミンＤおよびビタミンＤ誘導体、コレスチラミン、クロモグリク酸、クマリンおよびクマリン誘導体、システイン、シタラビン、シクロホスファミド、シクロスポリン、シプロテロン、シタラビン、ダピプラゾール、デソゲストレル、デソニド、ジヒドララジン、ジルチアゼム、麦角アルカロイド、ジメンヒドリナート、ジメチルスルホキシド、ジメチコン、ドンペリドンおよびドンペリドン誘導体、ドーパミン、ドキサゾシン、ドキソルビシン、ドキシラミン、ダピプラゾール、ベンゾジアゼピン、ジクロフェナク、配糖体抗生物質、デシプラミン、エコナゾール、ＡＣＥ阻害剤、エナラプリル、エフェドリン、エピネフリン、エポエチンおよびエポエチン誘導体、モルフィナン、カルシウム拮抗剤、イリノテカン、モダフィニル、オルリスタット、ペプチド抗生物質、フェニトイン、リルゾール、リセドロネート、シルデナフィル、トピラメート、マクロライド系抗生物質、エストロゲンおよびエストロゲン誘導体、プロゲストゲンおよびプロゲストゲン誘導体、テストステロンおよびテストステロン誘導体、アンドロゲンおよびアンドロゲン誘導体、エテンザミド、エトフェナメート、エトフィブラート、フェノフィブラート、エトフィリン、エトポシド、ファムシクロビル、ファモチジン、フェロジピン、フェノフィブラート、フェンタニル、フェンチコナゾール、ジャイレース阻害剤、フルコナゾール、フルダラビン、フルナリジン、フルオロウラシル、フルオキセチン、フルルビプロフェン、イブプロフェン、フルタミド、フルバスタチン、フォリトロピン、ホルモテロール、ホスホマイシン、フロセミド、フシジン酸、ガロパミル、ガンシクロビル、ゲムフィブロジル、ゲンタマイシン、イチョウ、セントジョーンズワート、グリベンクラミド、経口抗糖尿病薬としての尿素誘導体、グルカゴン、グルコサミンおよびグルコサミン誘導体、グルタチオン、グリセリンおよびグリセリン誘導体、視床下部ホルモン、ゴセレリン、ジャイレース阻害剤、グアネチジン、ハロファントリン、ハロペリドール、ヘパリンおよびヘパリン誘導体、ヒアルロン酸、ヒドララジン、ヒドロクロロチアジドおよびヒドロクロロチアジド誘導体、サリチル酸塩、ヒドロキシジン、イダルビシン、イホスファミド、イミプラミン、インドメタシン、インドラミン、インスリン、インターフェロン、ヨウ素およびヨウ素誘導体、イソコナゾール、イソプレナリン、グルシトールおよびグルシトール誘導体、イトラコナゾール、ケトコナゾール、ケトプロフェン、ケトチフェン、ラシジピン、ランソプラゾール、レボドパ、レボメタドン、甲状腺ホルモン、リポ酸およびリポ酸誘導体、リシノプリル、リスリド、ロフェプラミン、ロムスチン、ロペラミド、ロラタジン、マプロチリン、メベンダゾール、メベベリン、メクリジン、メフェナム酸、メフロキン、メロキシカム、メピンドロール、メプロバメート、メロペネム、メサラジン、メスクシミド、メタミゾール、メトホルミン、メトトレキサート、メチルフェニデート、メチルプレドニゾロン、メチキセン、メトクロプラミド、メトプロロール、メトロニダゾール、ミアンセリン、ミコナゾール、ミノサイクリン、ミノキシジル、ミソプロストール、マイトマイシン、ミゾラスチン、モエキシプリル、モルヒネおよびモルヒネ誘導体、月見草、ナルブフィン、ナロキソン、チリジン、ナプロキセン、ナルコチン、ナタマイシン、ネオスチグミン、ニセルゴリン、ニケタミド、ニフェジピン、ニフルム酸、ニモジピン、ニモラゾール、ニムスチン、ニソルジピン、アドレナリンおよびアドレナリン誘導体、ノルフロキサシン、ノバミンスルホン、ノスカピン、ナイスタチン、オフロキサシン、オランザピン、オルサラジン、オメプラゾール、オモコナゾール、オンダンセトロン、オキサセプロール、オキサシリン、オキシコナゾール、オキシメタゾリン、パントプラゾール、パラセタモール、パロキセチン、ペンシクロビル、経口ペニシリン、ペンタゾシン、ペンチフィリン、ペントキシフィリン、ペルフェナジン、ペチジン、植物抽出物、フェナゾン、フェニラミン、バルビツール酸誘導体、フェニルブタゾン、フェニトイン、ピモジド、ピンドロール、ピペラジン、ピラセタム、ピレンゼピン、ピリベジル、ピロキシカム、プラミペキソール、プラバスタチン、プラゾシン、プロカイン、プロマジン、プロピベリン、プロプラノロール、プロピフェナゾン、プロスタグランジン、プロチオナミド、プロキシフィリン、クエチアピン、キナプリル、キナプリラート、ラミプリル、ラニチジン、レプロテロール、レセルピン、リバビリン、リファンピシン、リスペリドン、リトナビル、ロピニロール、ロキサチジン、ロキシスロマイシン、ルスコゲニン、ルトシドおよびルトシド誘導体、サバジラ、サルブタモール、サルメテロール、スコポラミン、セレギリン、セルタコナゾール、セルチンドール、セルトラリン、ケイ酸塩、シルデナフィル、シンバスタチン、シトステロール、ソタロール、スパグルム酸、スパルフロキサシン、スペクチノマイシン、スピラマイシン、スピラプリル、スピロノラクトン、スタブジン、ストレプトマイシン、スクラルファート、スフェンタニル、スルバクタム、スルホンアミド、スルファサラジン、スルピリド、スルタミシリン、スルチアム、スマトリプタン、スキサメトニウム塩化物、タクリン、タクロリムス、タリノロール、タモキシフェン、タウロリジン、タザロテン、テマゼパム、テニポシド、テノキシカム、テラゾシン、テルビナフィン、テルブタリン、テルフェナジン、テルリプレシン、テルタトロール、テトラサイクリン、テトリゾリン、テオブロミン、テオフィリン、ブチジン、チアマゾール、フェノチアジン、チオテパ、チアガビン、チアプリド、プロピオン酸誘導体、チクロピジン、チモロール、チニダゾール、チオコナゾール、チオグアニン、チオキソロン、チロプラミド、チザニジン、トラゾリン、トルブタミド、トルカポン、トルナフテート、トルペリゾン、トポテカン、トラセミド、抗エストロゲン、トラマドール、トラマゾリン、トランドラプリル、トラニルシプロミン、トラピジル、トラゾドン、トリアムシノロンおよびトリアムシノロン誘導体、トリアムテレン、トリフルペリドール、トリフルリジン、トリメトプリム、トリミプラミン、トリペレナミン、トリプロリジン、トロホスファミド、トロマンタジン、トロメタモール、トロパルピン、トロキセルチン、ツロブテロール、チラミン、チロトリシン、ウラピジル、ウルソデオキシコール酸、ケノデオキシコール酸、バラシクロビル、バルプロ酸、バンコマイシン、塩化ベクロニウム、バイアグラ、ベンラファキシン、ベラパミル、ビダラビン、ビガバトリン、ビロキサジン、ビンブラスチン、ビンカミン、ビンクリスチン、ビンデシン、ビノレルビン、ビンポセチン、ビキジル、ワルファリン、キサンチノールニコチン酸塩、キシパミド、ザフィルルカスト、ザルシタビン、ジドブジン、ゾルミトリプタン、ゾルピデム、ゾピクロン、ゾテピンなどである。例えば、米国特許第６，８９７，２０５号を参照のこと。また、米国特許第６，８３８，５２８号、米国特許第６，４９７，７２９号も参照のこと。
+</base:Paragraphs>
+      <base:Paragraphs num="0128">
+  本発明に関連して用いられる治療薬の例として、ラパマイシン、４０－Ｏ－（２－ヒドロキシエチル）ラパマイシン（エベロリムス）、４０－Ｏ－ベンジル－ラパマイシン、４０－Ｏ－（４’－ヒドロキシメチル）ベンジル－ラパマイシン、４０－Ｏ－［４’－（１，２－ジヒドロキシエチル）］ベンジル－ラパマイシン、４０－Ｏ－アリル－ラパマイシン、４０－Ｏ－［３’－（２，２－ジメチル－１，３－ジオキソラン－４（Ｓ）－イル）－プロパ－２’－エン－１’－イル］－ラパマイシン、（２’：Ｅ，４’Ｓ）－４０－Ｏ－（４’，５’－ジヒドロキシペント－２’－エン－１’－イル）－ラパマイシン、４０－Ｏ－（２－ヒドロキシ）エトキシカル－ボニルメチル－ラパマイシン、４０－Ｏ－（３－ヒドロキシ）プロピル－ラパマイシン、４０－Ｏ－（６－ヒドロキシ）ヘキシル－ラパマイシン、４０－Ｏ－［２－（２－ヒドロキシ）エトキシ］エチル－ラパマイシン、４０－Ｏ－［（３Ｓ）－２，２－ジメチルジオキソラン－３－イル］メチル－ラパマイシン、４０－Ｏ－［（２Ｓ）－２，３－ジヒドロキシプロパ－１－イル］－ラパマイシン、４０－Ｏ－（２－アセトキシ）エチル－ラパマイシン、４０－Ｏ－（２－ニコチノイルオキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－モルホリノ）アセトキシ］エチル－ラパマイシン、４０－Ｏ－（２－Ｎ－イミダゾリルアセトキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－メチル－Ｎ’－ピペラジニル）アセトキシ］エチル－ラパマイシン、３９－Ｏ－デスメチル－３９，４０－Ｏ，Ｏ－エチレン－ラパマイシン、（２６Ｒ）－２６－ジヒドロ－４０－Ｏ－（２－ヒドロキシ）エチル－ラパマイシン、２８－Ｏ－メチル－ラパマイシン、４０－Ｏ－（２－アミノエチル）－ラパマイシン、４０－Ｏ－（２－アセトアミノエチル）－ラパマイシン、４０－Ｏ－（２－ニコチンアミドエチル）－ラパマイシン、４０－Ｏ－（２－（Ｎ－メチル－イミダゾ－２’－イルカルボエトキサミド）エチル）－ラパマイシン、４０－Ｏ－（２－エトキシカルボニルアミノエチル）－ラパマイシン、４０－Ｏ－（２－トリルスルホンアミドエチル）－ラパマイシン、４０－Ｏ－［２－（４’，５’－ジカルボエトキシ－１’，２’，３’－トリアゾール－１’－イル）－エチル］－ラパマイシン、４２－Ｅｐｉ－（テトラゾリル）ラパマイシン（タクロリムス）、および４２－［３－ヒドロキシ－２－（ヒドロキシメチル）－２－メチルプロパノエート］ラパマイシン（テムシロリムス）が挙げられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0129">
+  また、所望される場合、有効成分は、それらの薬学的に許容される塩または誘導体（本発明の化合物の生物学的有効性と特性を保持し、生物学的に、または他の点で望ましくないものでない塩を意味する）の形態で使用されることもでき、そして、キラル活性成分の場合は、光学的に活性な異性体と、ラセミ体またはジアステレオ異性体の混合物の両方を使用することが可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0130">
+  本明細書において使用される「安定性」は、その最終産物の形態において基材に堆積したポリマーコーティング中の薬物の安定性（例えば、コーティングされたステントにおける薬物の安定性）を指す。安定性という用語は、最終産物の形態における薬物の５％以下の分解を定義する。
+</base:Paragraphs>
+      <base:Paragraphs num="0131">
+  本明細書において使用される「活性生物学的薬剤」は、疾患を予防もしくは処置（疾患を予防、すなわち疾患の臨床症状が発症しないようにすること、疾患を抑制、すなわち臨床症状の発症を阻止すること、および／または疾患を軽減、すなわち臨床症状の退縮を引き起こすことを含む、哺乳動物における疾患の任意の処置を意味する）するために使用されることができる、元々生物によって生産される物質を指す。また、本発明の活性生物学的薬剤は、２つ以上の活性生物学的薬剤、または医薬品、安定化剤、化学的実体もしくは生物学的実体と組み合わせた活性生物学的薬剤を含むことも可能である。活性生物学的薬剤は、元々生物によって生産されたものであり得るが、本発明のそれらは合成的に調製されたもの、または生物学的単離と合成的修飾を組み合わせる方法によるものであってもよい。非限定的な例として、核酸は、生物学的供給源からの単離形態であり得、または核酸合成の当業者に既知の従来的技術によって調製され得る。さらに、核酸は天然に生じない部分を含有するように、さらに修飾されることができる。活性生物学的薬剤の非限定的な例は、ペプチド、タンパク質、酵素、糖蛋白質、核酸（一本鎖または二本鎖の形態のいずれかにおけるデオキシリボヌクレオチドまたはリボヌクレオチドポリマーを含み、そして他に限定されない限り、天然に生じるヌクレオチドと同様な様式で核酸にハイブリダイズする天然ヌクレオチドの既知類似体を含む）、アンチセンス核酸、脂肪酸、抗菌剤、ビタミン、ホルモン、ステロイド、脂質、多糖、炭水化物などを含む。それらはさらに、抗再狭窄剤、抗糖尿病薬、鎮痛薬、抗炎症薬、抗リウマチ薬、抗低血圧薬、降圧薬、向精神薬、精神安定剤、制吐剤、筋弛緩薬、グルココルチコイド、潰瘍性大腸炎またはクローン病を処置するための薬剤、抗アレルギー薬、抗生物質、抗てんかん薬、抗凝固薬、抗真菌剤、鎮咳薬、動脈硬化症の治療薬、利尿薬、タンパク質、ペプチド、酵素、酵素阻害剤、痛風治療薬、ホルモンおよびその阻害剤、強心配糖体、免疫療法剤およびサイトカイン、緩下薬、脂質低下薬、片頭痛治療薬、鉱物製品、耳科用薬、抗パーキンソン薬、甲状腺治療薬、鎮痙薬、血小板凝集阻害剤、ビタミン、細胞増殖抑制剤および転移阻害剤、植物薬および化学療法剤を含むが、これらに限定されない。好ましくは、活性生物学的薬剤は、ペプチド、タンパク質または酵素であり、天然ペプチド、タンパク質、および酵素の誘導体および類似体を含む。
+</base:Paragraphs>
+      <base:Paragraphs num="0132">
+  本明細書において使用される「活性」は、疾患を予防もしくは処置（疾患を予防、すなわち疾患の臨床症状が発症しないようにすること、疾患を抑制、すなわち臨床症状の発症を阻止すること、および／または疾患を軽減、すなわち臨床症状の退縮を引き起こすことを含む、哺乳動物における疾患の任意の処置を意味する）するための、医薬品または活性生物学的薬剤の能力を指す。よって、医薬品または活性生物学的薬剤の活性は、治療的または予防的価値を有するものとなる。
+</base:Paragraphs>
+      <base:Paragraphs num="0133">
+  本明細書において使用される「二次、三次および四次構造」は、以下のとおりに定義される。本発明の活性生物学的薬剤は一般に、薬剤の活性が依存するある程度の二次、三次および／または四次構造を有する。説明的な非限定例として、タンパク質は二次構造、三次構造、および四次構造を有する。二次構造は、直鎖状の配列において互いの近くにあるアミノ酸残基の空間的配置を指す。α－ヘリックスとβ－ストランドは二次構造の要素である。三次構造は、直鎖状の配列において遠く離れているアミノ酸残基の空間的配置とジスルフィド結合のパターンを指す。１つより多いポリペプチド鎖を含有するタンパク質は、さらなるレベルの構造的組織化を示す。そのようなタンパク質中の各ポリペプチド鎖はサブユニットと呼ばれる。四次構造は、サブユニットの空間的配置とそれらの接触の性質を指す。例えば、ヘモグロビンは２つのα鎖と２つのβ鎖からなる。タンパク質の機能は、その高次構造、つまり原子の三次元配置に起因することがよく知られている（引き延ばされたポリペプチド鎖は活性を持たない）。よって、本発明の一態様は、活性生物学的薬剤の治療活性を失わないように、それらの高次構造を維持するように注意しつつ、それらを操作することである。
+</base:Paragraphs>
+      <base:Paragraphs num="0134">
+  本明細書において使用される「ポリマー」は、架橋または重合されている一連の反復モノマー単位を指す。本発明を実施するために、任意の適切なポリマーが使用され得る。また、本発明のポリマーは２、３、４またはそれ以上の異なるポリマーを含むことも可能である。本発明のいくつかの実施形態では、１つのみのポリマーが使用される。一部の好ましい実施形態では、２つのポリマーの組合せが使用される。異なる特性を有するコーティングを提供するために、ポリマーの組合せは多様な比率をとり得る。ポリマー化学の当業者は、ポリマー化合物の異なる特性に知悉している。本発明において使用され得るポリマーの例は、ポリカルボン酸、セルロース性ポリマー、タンパク質、ポリペプチド、ポリビニルピロリドン、無水マレイン酸ポリマー、ポリアミド、ポリビニルアルコール、ポリエチレンオキサイド、グリコサミノグリカン、多糖、ポリエステル、ポリウレタン、ポリスチレン、コポリマー、シリコーン、ポリオルトエステル、ポリ無水物、ビニルモノマーのコポリマー、ポリカーボネート、ポリエチレン、ポリプロピレン、ポリ乳酸、ポリグリコール酸、ポリカプロラクトン、ポリヒドロキシ吉草酸、ポリアクリルアミド、ポリエーテル、ポリウレタン分散物、ポリアクリレート、アクリルラテックス分散物、ポリアクリル酸、これらの混合物およびコポリマーを含むが、これらに限定されない。本発明のポリマーは、ゼラチン、キトサン、デキストリン、シクロデキストリン、ポリ（ウレタン）、ポリ（シロキサン）またはシリコーン、ポリ（メチルメタクリレート）、ポリ（ブチルメタクリレート）およびポリ（２－ヒドロキシエチルメタクリレート）のようなポリ（アクリレート）、ポリ（ビニルアルコール）、ポリ（エチレン）、ポリ（イソプレン）のようなポリ（オレフィン）、ポリ（テトラフルオロエチレン）ようなハロゲン化ポリマー、ならびにＴｅｆｌｏｎ（登録商標）製品として一般に販売されているもののような誘導体およびコポリマー、ポリ（ビニリデンフルオライド）、ポリ（酢酸ビニル）、ポリ（ビニルピロリドン）、ポリ（アクリル酸）、ポリアクリルアミド、ポリ（エチレン－コ－酢酸ビニル）、ポリ（エチレングリコール）、ポリ（プロピレングリコール）、ポリ（メタクリル酸）などを含む、天然または合成が起源のものであり得る。また、適切なポリマーは、以下の組合せ、以下のコポリマーおよび誘導体を含む、吸収性および／または再吸収性のポリマーも含む。すなわち、ポリラクチド（ＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ラクチド－コ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（Ｌ－アスパルトアミド）などである。
+</base:Paragraphs>
+      <base:Paragraphs num="0135">
+  本明細書において使用される「治療上望ましい形態」は、ｅｘ  ｖｉｖｏでの貯蔵、ｉｎ  ｖｉｖｏでの保存、および／またはｉｎ  ｖｉｖｏでの放出の最適条件を提供するように基材に堆積した、医薬品の全体の形態および構造を指す。そのような最適条件は、延長した貯蔵寿命、増加したｉｎ  ｖｉｖｏ安定性、良好な生物学的適合性、良好な生物学的利用能、または改変された放出速度を含み得るが、これらに限定されない。一般に、本発明のための医薬品の望ましい形態は、結晶性または半結晶性または非結晶性であるが、その形態は、医薬品の性質、治療／予防されるべき疾患、使用前の基材のために意図された貯蔵条件、またはバイオメディカルインプラントの体内における位置を含むがこれらに限定されない多くの因子に依存して、広範に変化し得る。好ましくは医薬品の少なくとも１０％、２０％、３０％、４０％、５０％、６０％、７０％、８０％、９０％または１００％が結晶性または半結晶性の形態にある。
+</base:Paragraphs>
+      <base:Paragraphs num="0136">
+  本明細書において使用される「安定化剤」は、生物学的薬剤の安定性を維持するか、または高める任意の物質を指す。理想的には、これらの安定化剤は、米国食品医薬品局（ＦＤＡ）によって一般的に安全と認められる（ＧＲＡＳ）材料として分類される。安定化剤の例は、アルブミンなどの担体タンパク質、ゼラチン、金属または無機塩を含むが、これらに限定されない。存在し得る薬学的に許容される賦形剤は、関連する文献、例えば、Ｈａｎｄｂｏｏｋ  ｏｆ  Ｐｈａｒｍａｃｅｕｔｉｃａｌ  Ａｄｄｉｔｉｖｅｓ：Ａｎ  Ｉｎｔｅｒｎａｔｉｏｎａｌ  Ｇｕｉｄｅ  ｔｏ  Ｍｏｒｅ  Ｔｈａｎ  ６０００  Ｐｒｏｄｕｃｔｓ  ｂｙ  Ｔｒａｄｅ  Ｎａｍｅ，Ｃｈｅｍｉｃａｌ，Ｆｕｎｃｔｉｏｎ，ａｎｄ  Ｍａｎｕｆａｃｔｕｒｅｒ；Ｍｉｃｈａｅｌ  ａｎｄ  Ｉｒｅｎｅ  Ａｓｈ（Ｅｄｓ．）；Ｇｏｗｅｒ  Ｐｕｂｌｉｓｈｉｎｇ  Ｌｔｄ．；Ａｌｄｅｒｓｈｏｔ，Ｈａｍｐｓｈｉｒｅ，Ｅｎｇｌａｎｄ  １９９５中に見出され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0137">
+  本明細書において使用される「圧縮された流体」は、標準温度および標準気圧において気体である、かなりの密度（例えば、＞０．２ｇ／ｃｃ）の流体を指す。本明細書において使用される「超臨界流体」、「近臨界流体」、「近超臨界流体」、「臨界流体」、「高密度化流体」または「高密度化気体」は、温度が流体の臨界温度の少なくとも８０％であり、圧力が流体の臨界圧力の少なくとも５０％である条件下にある圧縮された流体を指す。
+</base:Paragraphs>
+      <base:Paragraphs num="0138">
+  本発明に適した超臨界または近臨界の挙動を示す物質の例は、二酸化炭素、イソブチレン、アンモニア、水、メタノール、エタノール、エタン、プロパン、ブタン、ペンタン、ジメチルエーテル、キセノン、六フッ化硫黄、クロロフルオロカーボン、ハイドロクロロフルオロカーボン、ハイドロフルオロカーボン、（ペルフルオロメタンおよびペルフルオロプロパン、クロロホルム、トリクロローフルオロメタン、ジクロロ－ジフルオロメタン、ジクロロ－テトラフルオロエタンなどの）ペルフルオロカーボンなどのハロゲン化および部分ハロゲン化物質、ならびにそれらの混合物を含むが、これらに限定されない。
+</base:Paragraphs>
+      <base:Paragraphs num="0139">
+  本明細書において使用される「焼結」は、マトリクスの一部またはポリマーマトリクス全体が連続的となる過程（例えば、連続したポリマーフィルムの形成）を指す。以下に論じるように、焼結過程は、完全にコンフォーマルな連続的マトリクス（完全焼結）を生成するか、または、マトリクス中に空隙（不連続）を生成しつつ、連続したコーティングの部分もしくは領域を生成するように制御される。また、焼結過程は、異なるポリマー（例えば、ポリマーＡとＢ）の間で一部の相分離が得られるように、および／または別々のポリマー粒子間で相分離を生成するように制御される。コーティングの接着特性は、焼結過程を通して改善され、使用中の操作の間における基材からのコーティングの分離の剥離が減少する。以下に記載されるように、いくつかの実施形態では、焼結過程はポリマーマトリクスの不完全な焼結をもたらすように制御される。不完全な焼結に関わる実施形態では、ポリマーマトリクスは連続的な領域と、制御された条件下で放出される治療薬を隔離するための空間を提供する空隙、ギャップ、空洞、小孔、溝、または隙間で形成される。ポリマーの性質、ポリマー粒子の大きさ、および／または他のポリマー特性に応じて、圧縮気体、高密度化気体、近臨界流体、または超臨界流体が使用され得る。１つの例では、乾燥粉末とＲＥＳＳ静電コーティング過程を使用して、ポリマーと薬物でコーティングされた基材を処理するために、二酸化炭素が使用される。別の例では、イソブチレンが焼結過程において用いられる。他の例では、二酸化炭素とイソブチレンの混合物が用いられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0140">
+  非結晶性の材料がそのガラス転移温度より高い温度にまで加熱されると、あるいは結晶性の材料が相転移温度より高い温度にまで加熱されると、その材料を構成する分子は、より可動性となり、これは結果として、それらがより活性となり、よって、酸化などの反応の傾向がより高くなることを意味する。しかしながら、非結晶性の材料が、そのガラス転移温度より下の温度で維持されると、その分子は実質的に固定され、よって、それほど反応の傾向を有さない。同様に、結晶性の材料がその相転移温度より下の温度で維持されると、その分子は実質的に固定され、よって、それほど反応の傾向を有さない。したがって、本明細書に記載された堆積および焼結条件のような、マイルドな条件における薬物成分の処理は、薬物成分の交差反応と分解を最小化する。本発明の過程によって最小化される１つの型の反応は、従来的な溶剤を避ける能力に関係し、これは結果として、非結晶性、半結晶性、または結晶性の形態のいずれにあろうと、フリーラジカル、残存溶剤、自己酸化開始剤へのその曝露を減らすことにより、薬物の自己酸化を最小化する。
+</base:Paragraphs>
+      <base:Paragraphs num="0141">
+  本明細書において使用される「超臨界流体急速膨張法」または「ＲＥＳＳ」は、圧縮流体、一般には超臨界流体へのポリマーの溶解と、それに続く、より低い圧力、一般には近大気条件でのチャンバーへの急速な膨張に関わる。小さな開口を通した超臨界流体溶液の急速膨張は、それに伴う密度の減少と共に、流体の溶解能を減少させ、ポリマー粒子の核形成と成長をもたらす。チャンバーの雰囲気は、チャンバー内の気体の隔離「雲」を維持することによって、電気的に中性の状態に保たれる。二酸化炭素または他の適当な気体が、電荷が基材から周囲の環境へ移されるのを防ぐために使用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0142">
+  本発明の方法を通して増強されることができる医薬品および生物学的薬剤を含むコーティングの「バルク特性」という特性は、例えば以下を含む。すなわち、接着性、平滑性、コンフォーマリティー、厚さ、および組成混和である。
+</base:Paragraphs>
+      <base:Paragraphs num="0143">
+  本発明は、生体吸収性ステントの現在の技術の限界を克服する、または減ずる、いくつかの利点を提供する。例えば、従来の生体吸収性ポリマー材料に固有の限界は、強く、柔軟で、変形可能（例えば、バルーン配置可能）な薄型のステントを形成することの困難性に関係している。ポリマーは一般に、高性能金属の強度を欠いている。本発明は、本質的にポリマー性のステントにおいてラミネート構造を作ることによって、これらの限界を克服する。何らかの特定の理論または類推に拘束されることを願うものではないが、本発明のステントによって提供される増加した強度は、合板の強度と１枚の木の薄板の強度を比べることによって理解され得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0144">
+  薄い金属ステント－フレームワークに関わる本発明の実施形態は、ほとんどのポリマーに固有の弾性を克服する能力を含む利点を提供する。ポリマーにおいて高い率（例えば１００％）の塑性変形を得ることは（材料が元の形への何らかの「弾性戻り」を有する弾性変形と比較して）一般に困難である。ここでも、何らかの理論によって拘束されることを願うものでないが、（ステント自体として働くにはあまりに小さく、弱い）中心の金属ステントフレームワークは、可塑性の変形可能なステントの内側にあるワイヤーのように働き、ポリマーの任意の「弾性記憶」を基本的に克服する。
+</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0145">
+  以下の実施例は、当業者が本発明をより明確に理解し、実施することを可能とするために与えられる。それらは、発明の範囲を限定するものとみなされるべきではなく、単に発明の実例および典型であるとみなされるべきものである。以下の実施例は、選択された実施形態を説明するために提供される。それらは、発明の範囲を限定するものとみなされるべきではなく、単に発明の実例および典型であるとみなされるべきものである。よって、以下に提供される実施例は、特定の医療デバイスまたは活性物質により説明されているものの、本明細書に記載されている範囲の医療デバイスおよび活性物質に適用できるものである。
+</base:Paragraphs>
+        <base:Paragraphs num="0146">
+  ポリマーステント
+</base:Paragraphs>
+        <base:Paragraphs num="0147">
+［実施例１］
+  ポリマー管から形成された生体吸収性ステント
+  非限定的な例では、管状スキャフォールドは、ポリマー管からステントデザインをレーザー切断することにより作製される。いくつかの実施形態では、ステント設計は、本開示に照らして、ポリマー適合レーザー、例えば二酸化炭素レーザービームまたはその他の適するレーザー切断技術等を用いて、ポリマー管から切り出される。別の実施形態では、ステント設計は、ウォータージェット切断法または研磨式ウォータージェット切断法により、ポリマー管から切り出される。あるいは、管状スキャフォールドは、光化学エッチングまたは化学エッチングにより作成可能である。スロットを備える多くのチューブステント設計が、本明細書に開示の生体吸収性ステントを作成するのに利用可能である。例えば、適するステント設計として、Ｍｅｄｔｒｏｎｉｃ社製のｂＳｔｅｎｔ２、Ｂｉｏｃｏｍｐａｔｉｂｌｅｓ  Ｌｔｄ．製のＢｉｏｄｉｖＹｓｉｏ、Ｃｏｒｄｉｓ社製のＶｅｌｏｃｉｔｙ、Ｐａｌｍａｚ－Ｓｃｈａｔｚ１５３／１５４、Ｐａｌｍａｚ－Ｓｃｈａｔｚ  Ｃｒｏｗｎ、Ｂｏｓｔｏｎ  Ｓｃｉｅｎｔｉｆｉｃ社製のＥｘｐｒｅｓｓ、ＪＯＭＥＤ社製のＪＯＳＴＥＮＴ  Ｆｌｅｘ、Ｇｕｉｄａｎｔ社製のＭｕｌｔｉ－Ｌｉｎｋ  ＰＥＮＴＡ、Ｍｕｌｔｉ－Ｌｉｎｋ  Ｒｘ、およびＭｕｌｔｉ－Ｌｉｎｋ  Ｖｉｓｉｏｎ、ならびにＭｅｄｉｎｏｌ社製のＮＩＲおよびＮＩＲ  Ｆｌｅｘが挙げられるが、ただしこれらに限定されない。その他のステント設計も、本開示に照らして利用可能である。
+</base:Paragraphs>
+        <base:Paragraphs num="0148">
+［実施例２］
+  ポリマーファイバーから形成された生体吸収性ステント
+  この非限定的な例においては、本開示の管状スキャフォールドが、複数のストラットと複数の頂部を含む連続的な波形を形成することによって作製される。各頂部は、連続的な波形を画定するように隣接するストラットを接続する波形内の湾曲した部分または折り返し点である。この例では、ストラットは波形の実質的にまっすぐな部分である。他の例では、ストラットはわずかに屈曲しているか、または、例えば、正弦波などの他の形を有している。波形は、単一のポリマーファイバーもしくはフィラメント、または相互接続した複数のポリマーファイバーもしくはフィラメントによって形成されることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0149">
+  波形が形成された後、波形は心棒のまわりに巻き付けられ、その中心軸は管状スキャフォールドの縦軸を画定する。波形は、一緒になって螺旋形状の螺旋コイルを一般に形成する複数の螺旋回転を形成するように、縦軸に対して直角でない角度で巻き付けられ得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0150">
+  管状スキャフォールドは、隣接するターンの選択されたクラウンを接続するように構成された複数の接続も含む。いくつかの実施形態では、管状スキャフォールドは、完全なヘリックスターン１個当たり３個の接続を含む。いくつかの実施形態では、管状スキャフォールドは、完全なヘリックスターン１個当たり４個の接続を含む。いくつかの実施形態では、管状スキャフォールドは、完全なヘリックスターン１個当たり５個の接続を含む。その他の接続数および形状も、本開示に照らして、利用可能である。非限定的な事例では、接続は、選択されたクラウンを共に融着することにより生み出される。本明細書で用いる場合、「融着」とは、標的部分内の材料が共に流動して、相互に混合し、そして材料が、例えば室温まで冷却したときに、融合が生じるレベルまで、材料の標的部分が共に融合するように、任意の追加材料を添加して、またはしないで、この部分を加熱することとして定義される。
+</base:Paragraphs>
+        <base:Paragraphs num="0151">
+  ワイヤーまたはフィラメントベースのステントを形成する多くの方法が、本明細書に開示の生体吸収性ステントを作成するのに利用可能である。例えば、Ｗａｌｌｓｔｅｎｔ（Ｂｏｓｔｏｎ  Ｓｃｉｅｎｔｉｆｉｃ）、Ｓ７（Ｍｅｄｔｒｏｎｉｃ）、ＡｎｇｉｏＳｔｅｎｔ（ＡｎｇｉｏＤｙｎａｍｉｃｓ）、Ｓｔｒｅｃｋｅｒ（Ｂｏｓｔｏｎ  Ｓｃｉｅｎｔｉｆｉｃ）、Ｅｘｐａｎｄｅｒ（Ｍｅｄｉｃｏｒｐ）、Ｈｏｒｉｚｏｎ  Ｐｒｏｓｔａｔｉｃ（Ｅｎｄｏｃａｒｅ）、Ｅｎｄｏｃｏｉｌ（ＩｎＳｔｅｎｔ）等を形成する方法が、本開示に照らして利用可能である。
+</base:Paragraphs>
+        <base:Paragraphs num="0152">
+［実施例３］
+  半径方向強度試験
+  この試験は、ステントの内径における変化を周囲圧力の関数として決定し、図で表すため、また、開示されたステントについて変形が完全に可逆的でなくなる圧力を決定するために実施される。十五（１５）本の３．０ｍｍおよび十五（１５）本の４．０ｍｍのステントが、すべてのステント製造手順に付される。ステントが公称圧力に配置され、送達システムから取り外される。ステントがステント直径よりも約１ｍｍ大きなスリーブ中に配置される。その後、真空が適用され、様々な圧力で外径測定が行われる。５０ｍｍＨｇの圧力が適用された後、すべての試料が公称ステント直径の少なくとも５０パーセントの最小値を維持しているべきである。
+</base:Paragraphs>
+        <base:Paragraphs num="0153">
+［実施例４］
+  ステント反跳試験
+  この試験は、弾性反跳の量を定量するために実施される。各長さおよび直径の十五（１５）本のステント送達システムが、すべての製造および滅菌手順に付される。ステント送達システムが公称圧力（例えば９ＡＴＭ）まで膨張させられ、ステントが取り外され、反跳が生じることが可能とされる。ステントの各端の内径が記録される。反跳は、反跳前の内径から反跳したステントの内径を減じることで計算される。平均的な反跳は０．００２～０．００４インチの範囲に及び得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0154">
+［実施例５］
+  ステント伸張試験
+  この試験は、圧縮されたプロファイルから最終的な最大の配置直径へと膨張した際にステントによって経験される塑性変形が、開示のステントに亀裂発生を生じ得るかどうかを決定するために実施される。各長さおよび直径の十五（１５）本の試料が、バルーンが破裂するまで各送達システムを膨張させることにより、その最大の可能な直径で配置される。潜在的なひびがないか、各ステントが４５Ｘの倍率で調べられる。
+</base:Paragraphs>
+        <base:Paragraphs num="0155">
+［実施例６］
+  最大圧力（破裂試験）試験
+  この試験は、送達システム（ステントが取り付けられた）が、ステントをそのラベル表示された直径まで膨張させるのに必要とされる圧力またはそれ以下において、バルーン、シャフト、近接部の適合性または近接部／遠位部のシール性について完全性が失われないことを実証するために実施する。すべての製造手順および滅菌処理手順を経たステント送達システムを９０ｐｓｉまで加圧し、圧力を１５秒間維持し、そして３秒間リリースする。次に、当該サイクルを反復し、サイクル毎に膨張圧を１５ｐｓｉずつ、不具合が生ずるまで増加させる。
+</base:Paragraphs>
+        <base:Paragraphs num="0156">
+［実施例７］
+  ストラットの厚さの分析
+  走査型電子顕微鏡（ＳＥＭ）
+  本明細書に記載されている試料がコーティングされたステントが得られる。デバイスの厚さは、この分析技術を使用して評価されることができる。複数のストラットの厚さが、再現性を確保し、コーティングとステントを特徴付けるために測定された。コーティングの厚さは８００Ｖの加速電圧で日立Ｓ－４８００を使用してＳＥＭにより観察された。様々な倍率が使用される。ＳＥＭは様々な倍率でトップダウンおよび断面の画像を提供することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0157">
+  ナノＸ線コンピュータートモグラフィー
+  デバイスの物理的構造を３Ｄで見るために使用され得る別の技術は、ナノＸ線コンピュータートモグラフィー（例えば、ＳｋｙＳｃａｎ製のものなど）である。
+</base:Paragraphs>
+        <base:Paragraphs num="0158">
+［実施例８］
+  デバイスの生体吸収性の決定
+  例えば、ＧＰＣ  Ｉｎ－Ｖｉｖｏ試験、ＨＰＬＣ  Ｉｎ－Ｖｉｖｏ試験、ＧＰＣ  Ｉｎ－Ｖｉｔｒｏ試験、ＨＰＬＣ  Ｉｎ－Ｖｉｔｒｏ試験、ＳＥＭ－ＦＩＢ試験、ラマン分光法、ＳＥＭ、およびＸＰＳによって、ポリマーコーティングの生体吸収性を示すことに関して提示される技術が、本明細書に記載されているように、当業者には自明である変形および調整と共に、付加的および／または代替的にデバイスの生体吸収性を示すために使用され得る。３Ｄでデバイスの物理的構造を見るための別の技術は、溶出／生体吸収前のスキャンと比較して、各時点においてステント上に残ったコーティングの物理的な構造を示すために本明細書に記載されているような、溶出試験および／または生体吸収性試験において使用され得るナノＸ線コンピュータートモグラフィー（例えば、ＳｋｙＳｃａｎ製のものなど）である。
+</base:Paragraphs>
+        <base:Paragraphs num="0159">
+  薬物溶出ポリマーステント
+</base:Paragraphs>
+        <base:Paragraphs num="0160">
+［実施例１１］
+  溶出プロファイルの決定
+  Ｉｎ  Ｖｉｔｒｏ
+  １つの方法では、本明細書に記載されたステントが得られる。溶出プロファイルが、以下のようにして決定される。ステントが１６ｍＬ試験管中に配置され、その上に１５ｍＬの１０ｍＭ  ＰＢＳ（ｐＨ７．４）がピペットで移される。管は蓋をされ、８ｒｐｍの転倒回転により３７℃でインキュベートされる。その後、溶液が指定された時点（例えば、１日、７日、１４日、２１日、および２８日）（例えば、１週間、２週間、および１０週間）において回収され、飽和を防ぐために、それぞれの時点において１．５ｍｌの新鮮な溶液で再度満たされる。回収されたバッファーの試料に１ｍＬのＤＣＭが加えられ、管は蓋をされ、１分間振盪され、その後、２分間２００×Ｇで遠心分離される。上清は廃棄され、ＤＣＭ相は穏やかな熱（４０℃）と窒素ガスの下で蒸発乾固させられる。乾燥したＤＣＭは、１ｍＬの６０：４０のアセトニトリル：水（ｖ／ｖ）中に再構成され、ＨＰＬＣによって分析される。ＨＰＬＣ分析は、ＷａｔｅｒｓのＨＰＬＣシステム（移動相５８：３７：５アセトニトリル：水：メタノール、１ｍＬ／ｍｉｎ、２０μＬ注入、Ｃ１８  Ｎｏｖａｐａｋ  Ｗａｔｅｒｓカラムと２３２ｎｍにおける検出）を使用して行われる。
+</base:Paragraphs>
+        <base:Paragraphs num="0161">
+  別の方法では、ｉｎ  ｖｉｔｒｏ医薬品溶出プロファイルが、エタノール（５％）を含む溶出媒体にデバイスを接触させることを含む手順により決定されるが、ここで、媒体のｐＨは約７．４であり、デバイスは約３７℃の温度で溶出媒体と接触させられる。デバイスを含む溶出媒体は、場合により、接触工程の間、溶出媒体を撹拌している。少なくとも指定された時点（例えば、１時間、３時間、５時間、７時間、１日、および２８日まで毎日）（例えば、１週間、２週間、および１０週間）において、デバイスが取り除かれる（および／または、溶出媒体が取り除かれる）。その後、医薬品含有量の決定のためにＵＶ－Ｖｉｓを使用して溶出媒体がアッセイされる。溶出媒体の飽和を避けるために、それぞれの時点において、溶出媒体が新鮮な溶出媒体に交換される。既知の量の薬物を含む較正標準もまた、試料と同じ期間の間、溶出媒体中に保たれ、各時点において、その時点における溶出した薬物の量（絶対量においてと、溶出した累積量として）を決定するために使用された。
+</base:Paragraphs>
+        <base:Paragraphs num="0162">
+  別の方法では、ｉｎ  ｖｉｔｒｏ医薬品溶出プロファイルが、エタノール（２０％）とリン酸緩衝食塩水（８０％）を含む溶出媒質にデバイスを接触させることを含む手順により決定されるが、ここで、媒質のｐＨは約７．４であり、デバイスは約３７℃の温度で溶出媒質と接触させられる。デバイスを含有する溶出媒質は、場合により、接触工程の間、溶出媒質を撹拌している。少なくとも指定された時点（例えば、１時間、３時間、５時間、７時間、１日、および２８日まで毎日）（例えば、１週間、２週間、および１０週間）において、デバイスが取り除かれる（および／または、溶出媒質が取り除かれる）。飽和を防ぐために、溶出媒質が定期的（少なくとも各時点において、および／または、後の時点間では毎日）に交換される。回収された媒質は、各時点について一緒にプールされる。その後、医薬品含有量の決定のためにＨＰＬＣを使用して溶出媒質がアッセイされる。溶出媒質の飽和を避けるために、それぞれの時点において、溶出媒質が新鮮な溶出媒質に交換される。既知の量の薬物を含む較正標準もまた、試料と同じ期間の間、溶出媒質中に保たれ、各時点において、その時点における溶出した薬物の量（絶対量においてと、溶出した累積量として）を決定するために使用される。溶出法が、時間がたつにつれて薬物を変化させ、試験時に薬物について存在する複数のピークを生じさせる場合、これらの較正標準の使用もこの変化を示し、その期間において溶出した薬物の量（絶対量においてと、溶出した累積量として）を与えるために、すべてのピークを加算することを可能とする。
+</base:Paragraphs>
+        <base:Paragraphs num="0163">
+  加速されたｉｎ－ｖｉｔｒｏ溶出プロファイルを得るためには、０．０６７ｍｏｌ／ＬのＫＨ<base:Sub>２</base:Sub>ＰＯ<base:Sub>４</base:Sub>の１８％ｖ／ｖ原液および０．０６７ｍｏｌ／ＬのＮａ<base:Sub>２</base:Sub>ＨＰＯ<base:Sub>４</base:Sub>の８２％ｖ／ｖ原液をｐＨ７．４で含む加速溶出バッファーが使用される。本明細書に記載のステントが拡張され、その後、７０℃の槽中のこの加速溶出溶液１．５ｍｌ中に７０ｒｐｍでの回転で配置される。その後、溶液が以下の時点において回収される。すなわち、０分、１５分、３０分、１時間、２時間、４時間、６時間、８時間、１２時間、１６時間、２０時間、２４時間、３０時間、３６時間、および４８時間である。飽和を防ぐため、少なくとも各時点において、回収され保存されるインキュベートされたバッファーを置き換えるために、新鮮な加速溶出バッファーが定期的に加えられる。複数の溶出媒質が使用される時点（時点間でリフレッシュされる）については、複数の回収された溶液が、ジクロロメタンによる液体抽出のために一緒にプールされる。ジクロロメタン抽出とＨＰＬＣ分析は、以前に記載されているようにして行われる。
+</base:Paragraphs>
+        <base:Paragraphs num="0164">
+  Ｉｎ  Ｖｉｖｏ
+  上に記載されているウサギのｉｎ  ｖｉｖｏモデルが、複数の時点で安楽死させられる。ステントがウサギから分離される。分離されたステントが１６ｍＬ試験管中に配置され、その上に１５ｍＬの１０ｍＭ  ＰＢＳ（ｐＨ７．４）がピペットで移される。１ｍＬのＤＣＭがバッファーに加えられ、管は蓋をされ、１分間振盪され、その後、２分間２００×Ｇで遠心分離される。上清は廃棄され、ＤＣＭ相は穏やかな熱（４０℃）と窒素ガスの下で乾燥状態まで蒸発させられる。乾燥したＤＣＭは、１ｍＬの６０：４０のアセトニトリル：水（ｖ／ｖ）中に再構成され、ＨＰＬＣによって分析される。ＨＰＬＣ分析は、ＷａｔｅｒｓのＨＰＬＣシステム（移動相５８：３７：５アセトニトリル：水：メタノール、１ｍＬ／ｍｉｎ、２０μＬ注入、Ｃ１８  Ｎｏｖａｐａｋ  Ｗａｔｅｒｓカラムと２３２ｎｍにおける検出）を使用して行われる。
+</base:Paragraphs>
+        <base:Paragraphs num="0165">
+［実施例１２］
+  薬物の結晶化度
+  活性剤の結晶化度の存在および／または定量化は、当該技術分野において知られている数多くの評価方法、ＸＲＰＤ、振動分光法（ＦＴＩＲ、ＮＩＲ、ラマン）、偏光顕微鏡法、熱量測定、熱分析、および固相ＮＭＲから決定されることができるが、これらに限定されるものではない。
+</base:Paragraphs>
+        <base:Paragraphs num="0166">
+  活性剤結晶化度の存在および／または定量化を決定するためのＸ線回折
+  活性剤の結晶化度の存在を決定するための粉末Ｘ線回折（ＸＲＰＤ）測定のために、活性剤およびポリマーのコーティングされた代理の基材が３１６Ｌステンレス鋼試験片を使用して調製される。この試験片上のコーティングは、本明細書に記載のステント上のコーティングに等価である。コバルトクロム合金などの、本明細書に記載された他の材料の試験片が、同様に調製され、試験され得る。同様に、ステントなどの基材、または本明細書に記載の他の医療デバイスが調製され、試験され得る。コーティングされたステントが試験される場合、ステントは縦に切断され、開かれて、試料ホルダーに平らに置かれてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0167">
+  例えば、ＸＲＰＤ分析はＣｕ  Ｋα放射を使用して、Ｘ線粉末回折計（例えば、Ｂｒｕｋｅｒ  Ｄ８  Ａｄｖａｎｃｅ  Ｘ線回折計）を使用して行われる。ディフラクトグラムは通常、２～４０度２θの間で収集される。必要な場合、バックグラウンドノイズを最小化するために、低バックグラウンドＸＲＰＤ試料ホルダーが用いられる。
+</base:Paragraphs>
+        <base:Paragraphs num="0168">
+  堆積した活性剤のディフラクトグラムは、例えば、粉末形状の微粒子化した結晶性シロリムスなどの、既知の結晶化活性剤のディフラクトグラムと比較される。結晶形態のＸＲＰＤパターンは強い回折ピークを示すのに対し、非結晶性のものは拡散した不明瞭なパターンを示す。結晶化度は、任意の強度単位で示される。
+</base:Paragraphs>
+        <base:Paragraphs num="0169">
+  結晶化度の検出を提供するために使用され得る関連する分析技術は、例えば、Ｆ．Ｕｎｇｅｒ，ｅｔ  ａｌ．，“Ｐｏｌｙ（ｅｔｈｙｌｅｎｅ  ｃａｒｂｏｎａｔｅ）：Ａ  ｔｈｅｒｍｏｅｌａｓｔｉｃ  ａｎｄ  ｂｉｏｄｅｇｒａｄａｂｌｅ  ｂｉｏｍａｔｅｒｉａｌ  ｆｏｒ  ｄｒｕｇ  ｅｌｕｔｉｎｇ  ｓｔｅｎｔ  ｃｏａｔｉｎｇｓ？”  Ｊｏｕｒｎａｌ  ｏｆ  Ｃｏｎｔｒｏｌｌｅｄ  Ｒｅｌｅａｓｅ，Ｖｏｌｕｍｅ  １１７，Ｉｓｓｕｅ  ３，３１２－３２１（２００７）に記載されているような、放射線の広角散乱（例えば、広角Ｘ線散乱またはＷＡＸＳ）であり、そのための特定の試料に固有の技術および技術のバリエーションが当業者には自明である。
+</base:Paragraphs>
+        <base:Paragraphs num="0170">
+  ラマン分光法
+  振動分光技術であるラマン分光法は、例えば、化学同定、分子構造の特徴付け、結合の影響、固体形態、環境および試料に対するストレスの同定において有用となり得る。ラマンスペクトルは、非常にわずかな量（＜１μｍ<base:Sup>３</base:Sup>）から収集され得る。これらのスペクトルは、その量に存在する種の識別を可能とする。しばしば互換的に使用される用語であるマッピングまたはイメージングにより分解された化学情報が、ラマン顕微鏡法によって達成され得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0171">
+  ラマン顕微鏡法および、参照により本明細書にその全体が取り込まれるＢａｌｓｓ，ｅｔ  ａｌ．，“Ｑｕａｎｔｉｔａｔｉｖｅ  ｓｐａｔｉａｌ  ｄｉｓｔｒｉｂｕｔｉｏｎ  ｏｆ  ｓｉｒｏｌｉｍｕｓ  ａｎｄ  ｐｏｌｙｍｅｒｓ  ｉｎ  ｄｒｕｇ－ｅｌｕｔｉｎｇ  ｓｔｅｎｔｓ  ｕｓｉｎｇ  ｃｏｎｆｏｃａｌ  Ｒａｍａｎ  ｍｉｃｒｏｓｃｏｐｙ”  Ｊ．ｏｆ  Ｂｉｏｍｅｄｉｃａｌ  Ｍａｔｅｒｉａｌｓ  Ｒｅｓｅａｒｃｈ  Ｐａｒｔ  Ａ，２５８－２７０（２００７）に記載されているもの、および／または、参照により本明細書にその全体が取り込まれるＢｅｌｕ  ｅｔ  ａｌ．，“Ｔｈｒｅｅ－Ｄｉｍｅｎｓｉｏｎａｌ  Ｃｏｍｐｏｓｉｔｉｏｎａｌ  Ａｎａｌｙｓｉｓ  ｏｆ  Ｄｒｕｇ  Ｅｌｕｔｉｎｇ  Ｓｔｅｎｔ  Ｃｏａｔｉｎｇｓ  Ｕｓｉｎｇ  Ｃｌｕｓｔｅｒ  Ｓｅｃｏｎｄａｒｙ  Ｉｏｎ  Ｍａｓｓ  Ｓｐｅｃｔｒｏｓｃｏｐｙ”  Ａｎａｌ．Ｃｈｅｍ．８０：６２４－６３２（２００８）に記載されているもののような他の分析技術が使用されてもよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0172">
+  例えば、ラマン顕微鏡法、特に共焦点ラマン顕微鏡法を使用して試料を試験するために適当なラマン高解像度スペクトルを得るためには、十分な収集時間、レーザーパワー、レーザー波長、サンプル刻み幅、および顕微鏡対物レンズが最適化される必要があることが理解される。例えば、試料（コーティングされたステント）が本明細書に記載のようにして調製される。あるいは、コーティングされた試験片が、この方法において試験され得る。ラマン顕微鏡法を使用して、コーティング上にマップがとられる。５３２ｎｍでＮｄ：ＹＡＧを使用したＷＩＴｅｃ  ＣＲＭ２００スキャニング共焦点ラマン顕微鏡がラマンイメージングモードで適用される。レーザー光線は１００×乾燥対物レンズ（開口数０．９０）を使用して試料に焦点を合わせられ、精密に焦点を合わせられたレーザースポットが試料中に走査される。レーザーが各０．３３ミクロン間隔にわたって試料を走査するにつれ、０．３秒の積分時間を使用して高い信号対雑音を有するラマンスペクトルが収集される。コーティングの各共焦点断面像は、幅７０μｍ×深さ１０μｍの領域を表示し、３２分の総造影時間で６３００のスペクトルの集合から生じる。
+</base:Paragraphs>
+        <base:Paragraphs num="0173">
+  分布の化学マップを提供するために、ラパマイシン（非結晶性および結晶性）とポリマーの試料からの参照スペクトルを使用した多変量解析がスペクトルデータ集合を解析するために使用される。
+</base:Paragraphs>
+        <base:Paragraphs num="0174">
+  Ｉｎ－Ｖｉｔｒｏ試験のための赤外線（ＩＲ）分光法
+  ＦＴＩＲおよびＡＴＲ－ＩＲなどの赤外線（ＩＲ）分光法は、例えば、定量的薬物含有量、試料コーティング中の薬物の分布、コーティング中の定量的ポリマー含有量、およびコーティング中のポリマーの分布を示すために適用されることが可能な、よく利用される技術である。ＦＴＩＲおよびＡＴＲ－ＩＲなどの赤外線（ＩＲ）分光法は、例えば、薬物の結晶化度を示すためにも同様に使用され得る。以下の表は、様々な用途のための典型的ＩＲ材料を列挙している。これらのＩＲ材料はＩＲ窓、希釈液またはＡＴＲ結晶のために使用される。
+</base:Paragraphs>
+        <base:Paragraphs num="0175">
+          <base:TableDetails num="0001">
+            <base:Image id="000002" he="95" wi="170" file="2016519965_000002.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0176">
+  １つの試験では、結晶性ＺｎＳｅの試験片が、本明細書に記載の過程によってコーティングされ、厚さ約１０ミクロンのＰＤＰＤＰ（ポリマー、薬物、ポリマー、薬物、ポリマー）積層コーティングが作り出される。コーティングされた試験片がＦＴＩＲを使用して分析される。結果として得られるスペクトルは、基準薬の結晶型について得られたスペクトル（すなわち参照スペクトル）との比較により決定されるように、結晶性の薬物を示す。
+</base:Paragraphs>
+        <base:Paragraphs num="0177">
+  示差走査熱量測定（ＤＳＣ）
+  ＤＳＣは、当業者にとって自明な標準的ＤＳＣ技術を使用して、薬物（例えばラパマイシン）の結晶性の定性的証拠を提供できる。この分析方法を使用して、結晶の融解が示され得る（例えば、ラパマイシンの結晶融解－約１８５℃から２００℃で、４６．８Ｊ／ｇまたはその付近における融解熱を有する）。パーセント結晶化度と共に融解熱は低下する。よって、結晶化度の程度が、純粋な試料との関係で、または既知量の結晶性薬物によりスパイクされ、ＤＳＣにより試験された非結晶性薬物の試料から作成された検量線に対して、決定され得る。ステントから一部の薬物を除去（掻き落とす、または剥ぎ取る）して、既知の基準および／または検量線に比較して、試料の融解温度および融解熱を決定するためにＤＳＣ機器を使用してコーティングを試験することにより、ステント上の結晶性薬物の（少なくとも）存在が測定され得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0178">
+  共焦点ラマン顕微鏡法
+  共焦点ラマン顕微鏡は、非破壊的な深さ分析を提供することができ、コーティング特異的なラマンスペクトルの特徴の取得を可能とする（“Ａｐｐｌｉｃａｔｉｏｎｓ  ｏｆ  Ｖｉｂｒａｔｉｏｎａｌ  Ｓｐｅｃｔｒｏｓｃｏｐｙ  ｉｎ  Ｐｈａｒｍａｃｅｕｔｉｃａｌ  Ｒｅｓｅａｒｃｈ  ａｎｄ  Ｄｅｖｅｌｏｐｍｅｎｔ，”Ｅｄ．Ｐｉｖｏｎｋａ，Ｄ．Ｅ．，Ｃｈａｌｍｅｒｓ，Ｊ．Ｍ．，Ｇｒｉｆｆｉｔｈｓ，Ｐ．Ｒ．（２００７）Ｗｉｌｅｙ  ａｎｄ  Ｓｏｎｓ中のＢｕｇａｙ  ｅｔ  ａｌ．，“Ｒａｍａｎ  Ａｎａｌｙｓｉｓ  ｏｆ  Ｐｈａｒｍａｃｅｕｔｉｃａｌｓ”）。共焦点ラマン顕微鏡法では、収集されるビームの焦点位置に開口部が置かれる。この制限は、場の深さの浅い部分を画定し、それにより、データ収集のためのｚ軸空間分解能の解像力を提供する。開口部を調整し、試料内に焦点を動かすことによって、試料内のサンプリング位置が移動する。上部表面から試料の奥へ試料焦点を動かすことは、非破壊的な深さ分析を容易にする。
+</base:Paragraphs>
+        <base:Paragraphs num="0179">
+［実施例１３］
+  コーティングの均一性
+  超臨界流体急速膨張法（ＲＥＳＳ）実験系列における静電捕獲を使用して、デバイス、例えば、拡張前および拡張後のステントおよびバルーンを制御された組成と厚みで均一にコーティングする能力が実証されている。
+</base:Paragraphs>
+        <base:Paragraphs num="0180">
+  走査型電子顕微鏡（ＳＥＭ）
+  デバイスが８００Ｖの加速電圧で日立Ｓ－４８００を使用してＳＥＭによって観察される。様々な倍率が、特に高緊張領域における完全性を評価するために使用される。ＳＥＭは様々な倍率でトップダウンおよび断面の画像を提供できる。また、この分析技術を使用して、コーティングの均一性と厚さも評価され得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0181">
+  膨張前および膨張後のバルーンは、例えば、８００Ｖの加速電圧で日立Ｓ－４８００を使用してＳＥＭによって観察され得る。様々な倍率が、層および／またはコーティングの完全性を評価するために使用され得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0182">
+  集束イオンビーム（ＦＩＢ）を伴う走査電子顕微鏡（ＳＥＭ）
+  本明細書に記載のデバイス、および／または本明細書に記載された方法により作製されるデバイスが、ＳＥＭ－ＦＩＢ分析を使用して可視化される。あるいは、コーティングされた試験片が、この方法において試験され得る。集束イオンビームＦＩＢは、材料の正確な部位特異的切開、ミリング、および堆積を可能とする手段である。ＦＩＢは、ｉｎ－ｓｉｔｕでの切開とそれに続く高分解能イメージングを生じさせるために、周囲条件または低温条件においてＳＥＭと併せて使用され得る。横断面ＦＩＢ画像は、例えば、７０００ｘおよび／または２００００ｘの倍率で取得され得る。一貫した厚さの平坦なコーティングが可視となる。
+</base:Paragraphs>
+        <base:Paragraphs num="0183">
+  光学顕微鏡法
+  光学顕微鏡は、デバイスを作り出し、検査するために、また、基材のコーティング（例えば、コーティングの均一性）を経験的に調査するために使用され得る。この分析方法を使用して、薬物のナノ粒子および／またはポリマーが基材の表面上で調べられ得る。焼結に続いて、コーティングのコンフォーマリティーを見るために、また、薬物の結晶性の証拠のために、この方法を使用してコーティングが調べられ得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0184">
+［実施例１４］
+  コーティングされたステント（使用済または未使用）上の総薬物含有量
+  コーティングされた基材における活性剤の総含有量の決定は、本明細書に記載の技術、および当業者に自明の他の技術、例えば、コーティングされた基材から薬物を抽出し、試料中の薬物の総含有量を決定するためのＧＰＣおよびＨＰＬＣ技術を使用して試験され得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0185">
+  基材にコーティングされたラパマイシン（または別の活性剤）の量を定量的に決定するために、ＵＶ－ＶＩＳが使用され得る。ラパマイシンのＵＶ－Ｖｉｓスペクトルが示されることができ、ラパマイシンの検量線が（例えば、エタノール中２７７ｎｍのλで）得られ得る。ラパマイシンはその後、コーティングされた基材からエタノール中に溶解され、薬物の濃度と量が計算される。
+</base:Paragraphs>
+        <base:Paragraphs num="0186">
+  １つの試験では、基材あたりマイクログラムの単位で存在するラパマイシン（または別の活性剤）の総量が、ＵＶ検出を伴う逆相高速液体クロマトグラフィー（ＲＰ－ＨＰＬＣ－ＵＶ）によって決定される。分析は、当業者には自明であるラパマイシン（または別の活性剤）のための文献に基づくＨＰＬＣ法の改変によって行われる。本明細書に記載のステントおよびコーティングを含むデバイス、ならびに／または本明細書に記載の方法からの試料（ｎ＝１０）の平均薬物含有量が試験される。
+</base:Paragraphs>
+        <base:Paragraphs num="0187">
+  下記の番号が付された実施形態を考察することにより、本発明についてさらに理解を深めることができる。
+１．複数のポリマーストラットを含む管状スキャフォールドを備えるバイオメディカルインプラントであって、
+  前記複数のポリマーストラットは、相互に接続しており、複数の変形可能なセルを画定し、
+  前記複数のポリマーストラットは、１５０μｍ以下の平均厚さを有し、
+  前記複数のポリマーストラットは、ファイバー補強型のポリマー複合材料を含む、
+バイオメディカルインプラント。
+２．前記管状スキャフォールドが、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する、実施形態１に記載のバイオメディカルインプラント。
+３．前記管状スキャフォールドが、５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する、実施形態１に記載のバイオメディカルインプラント。
+４．前記管状スキャフォールドが、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｔｒｏで３カ月間、生理食塩水に曝露されたときに、その公称管腔断面積の少なくとも５０％を維持する、実施形態１に記載のバイオメディカルインプラント。
+５．前記管状スキャフォールドが、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで３カ月経過した際に、その公称管腔断面積の少なくとも５０％を維持する、実施形態１に記載のバイオメディカルインプラント。
+６．前記管状スキャフォールドが、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｔｒｏで６カ月間、生理食塩水に曝露されたときに、その公称管腔断面積の少なくとも５０％を維持する、実施形態１に記載のバイオメディカルインプラント。
+７．前記管状スキャフォールドが、５０ｍｍＨｇの加圧下で、ｉｎ  ｖｉｖｏで６カ月経過した際に、その公称管腔断面積の少なくとも５０％を維持する、実施形態１に記載のバイオメディカルインプラント。
+８．前記複数のポリマーストラットの少なくとも８０％が、ｉｎ  ｖｉｖｏで留置後２年以内に生体吸収される、実施形態１に記載のバイオメディカルインプラント。
+９．前記複数のポリマーストラットの少なくとも８０％が、ｉｎ  ｖｉｖｏで留置後１年以内に生体吸収される、実施形態１に記載のバイオメディカルインプラント。
+１０．前記複数のポリマーストラットが、１２０μｍ以下の平均厚さを有する、実施形態１に記載のバイオメディカルインプラント。
+１１．前記複数のポリマーストラットが、９０μｍ以下の平均厚さを有する、実施形態１に記載のバイオメディカルインプラント。
+１２．前記ファイバー補強型のポリマー複合材料が、生体吸収性ポリマー材料と補強ファイバー材料とを含む、実施形態１に記載のバイオメディカルインプラント。
+１３．前記補強ファイバー材料が、カーボンファイバー材料、カーボンナノチューブ材料、生体吸収性ガラス材料、またはその組合せである、実施形態１２に記載のバイオメディカルインプラント。
+１４．前記カーボンナノチューブ材料が、多層カーボンナノチューブ材料である、実施形態１３に記載のバイオメディカルインプラント。
+１５．前記補強ファイバー材料が、前記複数のポリマーストラット全体にわたり分布している、実施形態１２に記載のバイオメディカルインプラント。
+１６．前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張弾性率の少なくとも５倍の引張弾性率を有する、実施形態１２に記載のバイオメディカルインプラント。
+１７．前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張弾性率の少なくとも３倍の引張弾性率を有する、実施形態１２に記載のバイオメディカルインプラント。
+１８．前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張弾性率の少なくとも２倍の引張弾性率を有する、実施形態１２に記載のバイオメディカルインプラント。
+１９．前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張強度の少なくとも５倍の引張強度を有する、実施形態１２に記載のバイオメディカルインプラント。
+２０．前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張強度の少なくとも３倍の引張強度を有する、実施形態１２に記載のバイオメディカルインプラント。
+２１．前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張強度の少なくとも２倍の引張強度を有する、実施形態１２に記載のバイオメディカルインプラント。
+２２．前記ファイバー補強型のポリマー複合材料が、０．１重量％～１５重量％の補強ファイバー材料を含む、実施形態１２に記載のバイオメディカルインプラント。
+２３．前記ファイバー補強型のポリマー複合材料が、０．１重量％～１０重量％の補強ファイバー材料を含む、実施形態１２に記載のバイオメディカルインプラント。
+２４．前記ファイバー補強型のポリマー複合材料が、０．１重量％～５重量％の補強ファイバー材料を含む、実施形態１２に記載のバイオメディカルインプラント。
+２５．前記ファイバー補強型のポリマー複合材料が、０．１重量％～１．５重量％の補強ファイバー材料を含む、実施形態１２に記載のバイオメディカルインプラント。
+２６．前記生体吸収性ポリマー材料が、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される、実施形態１２に記載のバイオメディカルインプラント。
+２７．前記生体吸収性ポリマー材料が、ＰＬＧＡである、実施形態２６に記載のバイオメディカルインプラント。
+２８．前記ＰＬＧＡが、７２：２８～７８：２２のグリコール酸モノマーに対する乳酸モノマーの比を有する、実施形態２７に記載のバイオメディカルインプラント。
+２９．前記ＰＬＧＡが、６２：３８～６８：３２のグリコール酸モノマーに対する乳酸モノマーの比を有する、実施形態２７に記載のバイオメディカルインプラント。
+３０．前記ＰＬＧＡが、４７：５３～５３：４７のグリコール酸モノマーに対する乳酸モノマーの比を有する、実施形態２７に記載のバイオメディカルインプラント。
+３１．前記ＰＬＧＡが、約８，０００ダルトン～約１２，０００ダルトンの重量平均分子量を有する、実施形態２７に記載のバイオメディカルインプラント。
+３２．前記ＰＬＧＡが、約１２，０００ダルトン～約１６，０００ダルトンの重量平均分子量を有する、実施形態２７に記載のバイオメディカルインプラント。
+３３．前記生体吸収性ポリマー材料が、少なくとも９０，０００ダルトン、および任意選択で少なくとも１００，０００ダルトンの重量平均分子量を有する、実施形態２６に記載のバイオメディカルインプラント。
+３４．ゲル－スパンポリマー材料が、少なくとも１００，０００ダルトンの重量平均分子量を有するＬＰＬＡである、実施形態３３に記載のバイオメディカルインプラント。
+３５．前記生体吸収性ポリマー材料が、ＰＬＡ、ＬＰＬＡ、またはＰＧＡである、実施形態２６に記載のバイオメディカルインプラント。
+３６．前記ポリマーストラットが、異方性の弾性係数を有する、実施形態１２に記載のバイオメディカルインプラント。
+３７．前記ポリマーストラットが、縦方向（長手方向）の平均弾性係数および横方向（短手方向）の平均弾性係数を有し、縦方向の平均弾性係数は、横方向の平均弾性係数を上回る、実施形態３６に記載のバイオメディカルインプラント。
+３８．前記縦方向の平均弾性係数が、前記横方向の平均弾性係数の少なくとも３倍である、実施形態３６に記載のバイオメディカルインプラント。
+３９．前記縦方向の平均弾性係数が、前記横方向の平均弾性係数の少なくとも５倍である、実施形態３６に記載のバイオメディカルインプラント。
+４０．前記縦方向の平均弾性係数が、前記横方向の平均弾性係数の少なくとも１０倍である、実施形態３６に記載のバイオメディカルインプラント。
+４１．前記ポリマーストラット内の５０％を超える補強ファイバー材料が、縦方向に整列している、実施形態１２に記載のバイオメディカルインプラント。
+４２．前記ポリマーストラット内の７０％を超える補強ファイバー材料が、縦方向に整列している、実施形態１２に記載のバイオメディカルインプラント。
+４３．前記ポリマーストラット内の９０％を超える補強ファイバー材料が、縦方向に整列している、実施形態１２に記載のバイオメディカルインプラント。
+４４．前記ポリマーストラットが、少なくとも６０度の平均変形角を有する、実施形態１に記載のバイオメディカルインプラント。
+４５．前記ポリマーストラットが、少なくとも４５度の平均変形角を有する、実施形態１に記載のバイオメディカルインプラント。
+４６．前記ポリマーストラットが、金属材料で構造的に補強されていない、実施形態１に記載のバイオメディカルインプラント。
+４７．前記ポリマーストラットが、ポリカルボン酸、セルロース性ポリマー、タンパク質、ポリペプチド、ポリビニルピロリドン、無水マイレン酸ポリマー、ポリアミド、ポリビニルアルコール、ポリエチレンオキサイド、グリコサミノグリカン、多糖類、ポリエステル、脂肪族ポリエステル、ポリウレタン、ポリスチレン、コポリマー、シリコーン、シリコーン含有ポリマー、ポリアルキルシロキサン、ポリオルトエステル、ポリ無水物、ビニルモノマーのコポリマー、ポリカーボネート、ポリエチレン、ポリプロピレン（ｐｏｌｙｐｒｏｐｙｔｅｎｅ）、ポリ乳酸、ポリラクチド、ポリグリコール酸、ポリグリコリド、ポリラクチド－ｃｏ－グリコリド、ポリカプロラクトン、ポリ（ｅ－カプロラクトン）、ポリヒドロキシブチレートバレレート、ポリアクリルアミド、ポリエーテル、ポリウレタン分散物、ポリアクリレート、アクリルラテックス分散物、ポリアクリル酸、ポリアルキルメタクリレート、ポリアルキレン－ｃｏ－酢酸ビニル、ポリアルキレン、脂肪族ポリカーボネート、ポリヒドロキシアルカノエート、ポリテトラハロアルキレン（ｐｏｌｙｔｅｔｒａｈａｌｏｏａｌｋｙｌｅｎｅ）、ポリ（ホスファゾン）、ポリテトラハロアルキレン（ｐｏｌｙｔｅｔｒａｈａｌｏｏａｌｋｙｌｅｎｅ）、ポリ（ホスファゾン）、およびその混合物、組合せ、およびコポリマーからなる群から選択されるポリマー材料を含む、実施形態１に記載のバイオメディカルインプラント。
+４８．前記管状スキャフォールドが、前記管状スキャフォールドの構造的完全性に影響を及ぼすことなく、未留置時の直径から公称直径まで拡張可能である、実施形態１に記載のバイオメディカルインプラント。
+４９．前記管状スキャフォールドが、前記管状スキャフォールドの構造的完全性に影響を及ぼすことなく、公称直径から留置時直径を超える直径までさらに拡張可能である、実施形態４８に記載のバイオメディカルインプラント。
+５０．前記留置時直径を超える直径が、公称直径を約１．０ｍｍ上回る、または公称直径を約０．５ｍｍ上回る、実施形態４９に記載のバイオメディカルインプラント。
+５１．前記留置時直径を超える直径が、公称直径を約０．５ｍｍ上回る、または公称直径を約０．５ｍｍ上回る、実施形態４９に記載のバイオメディカルインプラント。
+５２．前記管状スキャフォールドが、前記管状スキャフォールドの中に配置される拡張性バルーンにより拡張可能である、実施形態４８に記載のバイオメディカルインプラント。
+５３．前記管状スキャフォールドが、公称バルーン圧力において２．２５ｍｍの公称直径を有する、実施形態５２に記載のバイオメディカルインプラント。
+５４．前記管状スキャフォールドが、公称バルーン圧力において２．５ｍｍの公称直径を有する、実施形態５２に記載のバイオメディカルインプラント。
+５５．前記管状スキャフォールドが、公称バルーン圧力において３．０ｍｍの公称直径を有する、実施形態５２に記載のバイオメディカルインプラント。
+５６．前記管状スキャフォールドが、公称バルーン圧力において３．５ｍｍの公称直径を有する、実施形態５２に記載のバイオメディカルインプラント。
+５７．前記管状スキャフォールドが、公称バルーン圧力において４．０ｍｍの留置時直径を有する、実施形態５２に記載のバイオメディカルインプラント。
+５８．前記管状スキャフォールドが、公称バルーン圧力において４．５ｍｍの公称直径を有する、実施形態５２に記載のバイオメディカルインプラント。
+５９．前記ポリマーストラットが、形状記憶ポリマーを含み、前記管状スキャフォールドが、自己拡張可能である、実施形態４８に記載のバイオメディカルインプラント。
+６０．前記管状スキャフォールドが、温度が変化したときに自己拡張可能である、実施形態５９に記載のバイオメディカルインプラント。
+６１．前記管状スキャフォールドが、形状記憶ポリマーの結晶化度が変化したときに自己拡張可能である、実施形態５９に記載のバイオメディカルインプラント。
+６２．前記管状スキャフォールドが、複数のポリマーストラットを含む複数のサイナソイダルポリマーファイバーから形成される、実施形態１に記載のバイオメディカルインプラント。
+６３．前記サイナソイダルポリマーファイバーが、複数の連結ポイントにおいて相互接続している、実施形態６２に記載のバイオメディカルインプラント。
+６４．前記管状スキャフォールドが、単一のポリマーファイバーから形成される、実施形態１に記載のバイオメディカルインプラント。
+６５．前記単一のポリマーファイバーが、複数の連結ポイントにおいて相互接続した複数のサイナソイダルセクションを含む、実施形態６４に記載のバイオメディカルインプラント。
+６６．前記管状スキャフォールドに組み込まれた医薬品をさらに含む、実施形態１に記載のバイオメディカルインプラント。
+６７．前記医薬品がマクロライド免疫抑制剤である、実施形態６６に記載のバイオメディカルインプラント。
+６８．前記マクロライド免疫抑制剤が、ラパマイシン、またはその誘導体、プロドラッグ、水和物、エステル、塩、多形体、誘導体、または類似体である、実施形態６７に記載のバイオメディカルインプラント。
+６９．前記マクロライド免疫抑制剤が、ラパマイシン、４０－Ｏ－（２－ヒドロキシエチル）ラパマイシン（エベロリムス）、４０－Ｏ－ベンジル－ラパマイシン、４０－Ｏ－（４’－ヒドロキシメチル）ベンジル－ラパマイシン、４０－Ｏ－［４’－（１，２－ジヒドロキシエチル）］ベンジル－ラパマイシン、４０－Ｏ－アリル－ラパマイシン、４０－Ｏ－［３’－（２，２－ジメチル－１，３－ジオキソラン－４（Ｓ）－イル）－プロパ－２’－エン－１’－イル］－ラパマイシン、（２’：Ｅ，４’Ｓ）－４０－Ｏ－（４’，５’－ジヒドロキシペント－２’－エン－１’－イル）－ラパマイシン、４０－Ｏ－（２－ヒドロキシ）エトキシカル－ボニルメチル－ラパマイシン、４０－Ｏ－（３－ヒドロキシ）プロピル－ラパマイシン、４０－Ｏ－（６－ヒドロキシ）ヘキシル－ラパマイシン、４０－Ｏ－［２－（２－ヒドロキシ）エトキシ］エチル－ラパマイシン、４０－Ｏ－［（３Ｓ）－２，２－ジメチルジオキソラン－３－イル］メチル－ラパマイシン、４０－Ｏ－［（２Ｓ）－２，３－ジヒドロキシプロパ－１－イル］－ラパマイシン、４０－Ｏ－（２－アセトキシ）エチル－ラパマイシン、４０－Ｏ－（２－ニコチノイルオキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－モルホリノ）アセトキシ］エチル－ラパマイシン、４０－Ｏ－（２－Ｎ－イミダゾリルアセトキシ）エチル－ラパマイシン、４０－Ｏ－［２－（Ｎ－メチル－Ｎ’－ピペラジニル）アセトキシ］エチル－ラパマイシン、３９－Ｏ－デスメチル－３９，４０－Ｏ，Ｏ－エチレン－ラパマイシン、（２６Ｒ）－２６－ジヒドロ－４０－Ｏ－（２－ヒドロキシ）エチル－ラパマイシン、２８－Ｏ－メチル－ラパマイシン、４０－Ｏ－（２－アミノエチル）－ラパマイシン、４０－Ｏ－（２－アセトアミノエチル）－ラパマイシン、４０－Ｏ－（２－ニコチンアミドエチル）－ラパマイシン、４０－Ｏ－（２－（Ｎ－メチル－イミダゾ－２’－イルカルボエトキサミド）エチル）－ラパマイシン、４０－Ｏ－（２－エトキシカルボニルアミノエチル）－ラパマイシン、４０－Ｏ－（２－トリルスルホンアミドエチル）－ラパマイシン、４０－Ｏ－［２－（４’，５’－ジカルボエトキシ－１’，２’，３’－トリアゾール－１’－イル）－エチル］－ラパマイシン、４２－Ｅｐｉ－（テトラゾリル）ラパマイシン（タクロリムス）、および４２－［３－ヒドロキシ－２－（ヒドロキシメチル）－２－メチルプロパノエート］ラパマイシンからなる群から選択される、実施形態６７に記載のバイオメディカルインプラント。
+７０．前記医薬品がラパマイシンである、実施形態６７に記載のバイオメディカルインプラント。
+７１．前記医薬品が、前記管状スキャフォールドの少なくとも一部分に含浸されている、実施形態６６に記載のバイオメディカルインプラント。
+７２．前記医薬品が、前記ポリマーストラットに含浸されている、実施形態７１に記載のバイオメディカルインプラント。
+７３．前記医薬品が、前記ポリマーストラット全体にわたり均等に分布している、実施形態７２に記載のバイオメディカルインプラント。
+７４．前記管状スキャフォールドの少なくとも一部分が、前記医薬品を含むコーティングで覆われている、実施形態６６に記載のバイオメディカルインプラント。
+７５．前記コーティングが、コーティングポリマーをさらに含む、実施形態７４に記載のバイオメディカルインプラント。
+７６．前記医薬品の表面積のうちの少なくとも９０％が、前記コーティングポリマー内にカプセル化されている、実施形態７５に記載のバイオメディカルインプラント。
+７７．前記コーティングポリマーが、生体吸収性ポリマーを含む、実施形態７５に記載のバイオメディカルインプラント。
+７８．前記生体吸収性ポリマーが、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリアルギニン、およびその混合物またはコポリマーからなる群から選択される、実施形態７７に記載のバイオメディカルインプラント。
+７９．前記生体吸収性ポリマーが、ＰＬＧＡ、ポリアルギニン、およびその混合物からなる群から選択される、実施形態７７に記載のバイオメディカルインプラント。
+８０．血管ステントである、実施形態１に記載のバイオメディカルインプラント。
+８１．冠動脈ステントである、実施形態８０に記載のバイオメディカルインプラント。
+８２．末梢動脈ステントである 、実施形態８０に記載のバイオメディカルインプラント。
+８３．非血管性のステントである、実施形態１に記載のバイオメディカルインプラント。
+８４．前記非血管性のステントが、食道ステント、胆道ステント、十二指腸ステント、大腸ステント、および膵臓ステントから選択される、実施形態８３に記載のバイオメディカルインプラント。
+８５．生体吸収性ポリエステル材料と補強ファイバー材料とを含む１つまたは複数のポリマーファイバーを形成するステップと、
+前記ポリマーファイバーを相互に接続させて管状スキャフォールドを形成するステップであって、前記管状スキャフォールドが、複数の変形可能なセルを画定するための複数の相互接続されたポリマーストラットを含み、前記ポリマーストラットが１５０μｍ以下の平均厚さを有するステップと、
+を含む、
+バイオメディカルインプラントを形成するための方法。
+８６．前記管状スキャフォールドが、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する、実施形態８５に記載の方法。
+８７．前記管状スキャフォールドが、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する、実施形態８５に記載の方法。
+８８．前記補強ファイバー材料が、カーボンファイバー材料、カーボンナノチューブ材料、生体吸収性ガラス材料、またはその組合せである、実施形態８５に記載の方法。
+８９．前記カーボンナノチューブ材料が、多層カーボンナノチューブ材料である、実施形態８８に記載の方法。
+９０．前記ポリマーファイバーが、０．１重量％～１５重量％の補強ファイバー材料を含む、実施形態８５に記載の方法。
+９１．前記ポリマーファイバーが、０．１重量％～１０重量％の補強ファイバー材料を含む、実施形態８５に記載の方法。
+９２．前記ポリマーファイバーが、０．１重量％～５重量％の補強ファイバー材料を含む、実施形態８５に記載の方法。
+９３．前記ポリマーファイバーが、０．１重量％～１．５重量％の補強ファイバー材料を含む、実施形態８５に記載の方法。
+９４．前記ポリエステルが、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される、実施形態８５に記載の方法。
+９５．前記ポリエステルが、ＰＬＧＡである、実施形態８５に記載の方法。
+９６．前記ポリエステルが、ＰＬＡまたはＬＰＬＡである、実施形態８５に記載の方法。
+９７．生体吸収性ポリエステル材料と補強ファイバー材料とを含む組成物を形成するステップと、
+前記組成物を押し出してポリマー管を形成するステップであって、前記ポリマー管が１５０μｍ以下の平均壁厚を有するステップと、
+前記ポリマー管の一部分を取り除いて、相互接続された複数のストラットを含むスキャフォールドを形成するステップと、
+を含む、生体吸収性管状スキャフォールドを作製するための方法。
+９８．前記管状スキャフォールドが、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも５０％を維持する、実施形態９７に記載の方法。
+９９．前記管状スキャフォールドが、少なくとも５０ｍｍＨｇの加圧下で、その公称管腔断面積の少なくとも８０％を維持する、実施形態９７に記載の方法。
+１００．前記補強ファイバー材料が、カーボンファイバー材料、カーボンナノチューブ材料、生体吸収性ガラス材料、またはその組合せである、実施形態９７に記載の方法。
+１０１．前記カーボンナノチューブ材料が、多層カーボンナノチューブ材料である、実施形態１００に記載の方法。
+１０２．前記ポリマー管が、０．１重量％～１５重量％の補強ファイバー材料を含む、実施形態９７に記載の方法。
+１０３．前記ポリマー管が、０．１重量％～１０重量％の補強ファイバー材料を含む、実施形態９７に記載の方法。
+１０４．前記ポリマー管が、０．１重量％～５重量％の補強ファイバー材料を含む、実施形態９７に記載の方法。
+１０５．前記ポリマー管が、０．１重量％～１．５重量％の補強ファイバー材料を含む、実施形態９７に記載の方法。
+１０６．前記ポリエステルが、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される、実施形態９７に記載の方法。
+１０７．前記ポリエステルが、ＰＬＧＡである、実施形態９７に記載の方法。
+１０８．前記ポリエステルが、ＰＬＡまたはＬＰＬＡである、実施形態９７に記載の方法。
+１０９．前記取り除くステップが、レーザー切断法、光化学エッチング法、およびウォータージェット処理法から選択される、実施形態９７に記載の方法。
+１１０．前記補強ファイバー材料が、生体吸収性ポリマー材料と補強ファイバー材料との間の分子間相互作用を促進する１つまたは複数の表面官能基を備える、実施形態１３に記載のバイオメディカルインプラント。
+１１１．前記１つまたは複数の表面官能基が、－ＣＯＯＨ、－ＯＨ、またはその組合せから選択される、実施形態１３に記載のバイオメディカルインプラント。
+１１２．前記補強ファイバー材料が、多層カーボンナノチューブ材料である、実施形態１３に記載のバイオメディカルインプラント。
+１１３．前記補強ファイバー材料が、生体吸収性ポリマー材料と補強ファイバー材料との間の分子間相互作用を促進する１つまたは複数の表面官能基を備える、実施形態８８に記載の方法。
+１１４．前記１つまたは複数の表面官能基が、－ＣＯＯＨ、－ＯＨ、またはその組合せから選択される、実施形態８８に記載の方法。
+１１５．前記補強ファイバー材料が、多層カーボンナノチューブ材料である、実施形態８８に記載の方法。
+１１６．前記補強ファイバー材料が、生体吸収性ポリマー材料と補強ファイバー材料との間の分子間相互作用を促進する１つまたは複数の表面官能基を備える、実施形態１００に記載の方法。
+１１７．前記１つまたは複数の表面官能基が、－ＣＯＯＨ、－ＯＨ、またはその組合せから選択される、実施形態１００に記載の方法。
+１１８．前記補強ファイバー材料が、多層カーボンナノチューブ材料である、実施形態１００に記載の方法。
+</base:Paragraphs>
+        <base:Paragraphs num="0188">
+  本発明の好ましい実施形態が本明細書において示され、記載されているものの、そのような実施形態が例示のみの目的で提供されていることは、当業者には自明である。本発明から逸脱することなく、多数の変形、変更、および置換が当業者には理解される。本明細書に記載された発明の実施形態の様々な代替物が、本発明を実施する際に用いられ得ることが理解されるべきである。以下の特許請求の範囲は、本発明の範囲を定義し、これらの特許請求の範囲内の方法および構造ならびにその均等物が、それらにより網羅されることが意図されている。
+</base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  複数のポリマーストラットを含む管状スキャフォールドを備えるバイオメディカルインプラントであって、
+    前記複数のポリマーストラットは、相互に接続しており、複数の変形可能なセルを画定し、
+    前記複数のポリマーストラットは、１５０μｍ以下の平均厚さを有し、
+    前記複数のポリマーストラットは、ファイバー補強型のポリマー複合材料を含み、前記ファイバー補強型のポリマー複合材料は、生体吸収性ポリマー材料と補強ファイバー材料とを含む、
+バイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記補強ファイバー材料が、カーボンファイバー、カーボンナノチューブ、生体吸収性ガラス、またはその組合せである、請求項１に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記補強ファイバー材料が、カーボンファイバーである、請求項１または２に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記補強ファイバー材料が、前記複数のポリマーストラット全体にわたり分布している、請求項１～３のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張弾性率の少なくとも５倍、少なくとも３倍、または少なくとも２倍の引張弾性率を有する、請求項１～４のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記ファイバー補強型のポリマー複合材料が、前記生体吸収性ポリマーの引張強度の少なくとも５倍、少なくとも３倍、または少なくとも２倍の引張強度を有する、請求項１～５のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記ファイバー補強型のポリマー複合材料が、０．１重量％～１５重量％の補強ファイバー材料を含む、請求項１～６のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記生体吸収性ポリマー材料が、ポリラクチド（ＰＬＡ）、ポリ（ラクチド－ｃｏ－グリコリド）（ＰＬＧＡ）、ポリ無水物、ポリオルトエステル、ポリ（Ｎ－（２－ヒドロキシプロピル）メタクリルアミド）、ポリ（ｄｌ－ラクチド）（ＤＬＰＬＡ）、ポリ（ｌ－ラクチド）（ＬＰＬＡ）、ポリ（ｄ－ラクチド）（ＤＰＬＡ）、ポリグリコリド（ＰＧＡ）、ポリ（ジオキサノン）（ＰＤＯ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート）（ＰＧＡ－ＴＭＣ）、ポリ（ｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＬＰＬＡ）、ポリ（ｄｌ－ラクチド－ｃｏ－グリコリド）（ＰＧＡ－ＤＬＰＬＡ）、ポリ（ｌ－ラクチド－ｃｏ－ｄｌ－ラクチド）（ＬＰＬＡ－ＤＬＰＬＡ）、ポリ（グリコリド－ｃｏ－トリメチレンカーボネート－ｃｏ－ジオキサノン）（ＰＤＯ－ＰＧＡ－ＴＭＣ）、ポリ（乳酸－ｃｏ－カプロラクトン）（ＰＬＡＣＬ）、およびその混合物またはコポリマーからなる群から選択される、請求項１～７のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記生体吸収性ポリマー材料が、ＰＬＧＡである、請求項１～８のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記複数のポリマーストラットが、異方性の弾性係数を有する、請求項１～９のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記複数のポリマーストラットが、縦方向の平均弾性係数および横方向の平均弾性係数を有し、前記縦方向の平均弾性係数が前記横方向の平均弾性係数を上回る、請求項１～１０のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記縦方向の平均弾性係数が、前記横方向の平均弾性係数の少なくとも３倍、少なくとも５倍、または少なくとも１０倍である、請求項１１に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記複数のポリマーストラット内の５０％を超える、７０％を超える、または９０％を超える補強ファイバー材料が、縦方向に整列している、請求項１～１２のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記複数のポリマーストラットが、金属材料で構造的に補強されていない、請求項１～１３のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  前記管状スキャフォールドに組み込まれた医薬品をさらに含む、請求項１～１４のいずれか１項に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  前記医薬品が、ラパマイシンである、請求項１５に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  前記医薬品が、前記複数のポリマーストラットに含浸されている、請求項１５に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  前記管状スキャフォールドの少なくとも一部分が、前記医薬品を含むコーティングで覆われている、請求項１５に記載のバイオメディカルインプラント。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>
+  生体吸収性ポリエステル材料と補強ファイバー材料とを含む１つまたは複数のポリマーファイバーを形成するステップと、
+  前記ポリマーファイバーを相互に接続させて管状スキャフォールドを形成するステップであって、前記管状スキャフォールドが、複数の変形可能なセルを画定するための複数の相互接続されたポリマーストラットを含み、前記複数のポリマーストラットが１５０μｍ以下の平均厚さを有するステップと
+を含み、
+  前記補強ファイバー材料が、カーボンファイバー、カーボンナノチューブ、生体吸収性ガラス、またはその組合せである、
+バイオメディカルインプラントを形成するための方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>
+  生体吸収性ポリエステル材料と補強ファイバー材料とを含む組成物を形成するステップと、
+  前記組成物を押し出してポリマー管を形成するステップであって、前記ポリマー管が１５０μｍ以下の平均壁厚を有するステップと、
+  前記ポリマー管の一部分を取り除いて、相互接続された複数のストラットを含むスキャフォールドを形成するステップと
+を含み、
+前記補強ファイバー材料が、カーボンファイバー、カーボンナノチューブ、生体吸収性ガラス、またはその組合せである、
+生体吸収性管状スキャフォールドを作製するための方法。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000003" file="2016519965_000003.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000004" file="2016519965_000004.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

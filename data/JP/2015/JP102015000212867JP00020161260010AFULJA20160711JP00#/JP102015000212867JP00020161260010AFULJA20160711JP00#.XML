@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102015000212867JP00020161260010AFULJA20160711JP00#.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016126001" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126001</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016126001</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102015000212867</base:DocNumber>
+        <base:Date>20151029</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2015212867</base:DocNumber>
+        <base:Date>20151029</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>102014000586207</base:DocNumber>
+        <base:Date>20141230</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>14/586,207</base:DocNumber>
+        <base:Date>20141230</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>G</business:Section>
+        <business:MainClass>01</business:MainClass>
+        <business:Subclass>C</business:Subclass>
+        <business:MainGroup>21</business:MainGroup>
+        <business:Subgroup>16</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G01C  21/16        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">G01C21/16</business:FI>
+      <business:FClass>
+        <business:FTerm>2F129AA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129AA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129AA11</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129AA14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB21</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB22</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB33</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB47</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>2F129BB48</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>2F129</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">慣性航法システム及び慣性航法システムにおける磁気近点離角検出支援を提供する方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ノースロップ  グラマン  システムズ  コーポレイション</base:Name>
+            <base:RegisteredNumber>503178185</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ２２０４２－４５１１  バージニア州  フォールズ  チャーチ  フェアビュー  パーク  ドライブ  ２９８０</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <base:AddressBook lang="en">
+            <base:Name>ＮＯＲＴＨＲＯＰ  ＧＲＵＭＭＡＮ  ＳＹＳＴＥＭＳ  ＣＯＲＰＯＲＡＴＩＯＮ</base:Name>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マイケル  エス．ラーセン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ９１３６７  カリフォルニア州  ウッドランド  ヒルズ  バーバンク  ブルバード  ２１２４０  ダブリュ－１９</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>マイケル  ディ．ブラトヴィッツ</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ９１３０４  カリフォルニア州  カノーガ  パーク  オーウェンズマス  アベニュー  ９００１</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エイ．ダグラス  マイヤー</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ９１３６７  カリフォルニア州  ウッドランド  ヒルズ  マンディ  コート  ２４９１７</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>デニス  ピー．ベバン</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>アメリカ合衆国  ９１３６２  カリフォルニア州  サウザンド  オークス  ラスティックパーク  コート  ２１７９</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>恩田  誠</base:Name>
+            <base:RegisteredNumber>100105957</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>恩田  博宣</base:Name>
+            <base:RegisteredNumber>100068755</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>本田  淳</base:Name>
+            <base:RegisteredNumber>100142907</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>15</business:ClaimsCount>
+      <base:TotalPageCount>16</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】誤差を抑制可能な慣性航法システム及び方法を提供する。【解決手段】慣性航法システム（ＩＮＳ）は、移動体上に構成された少なくとも１つの航法センサおよび磁気近点離角データに基づいて、移動体の運動に関連する慣性データを生成するように構成された航法コントローラを備える。また、このＩＮＳは、移動体上の複数の位置それぞれに分散した複数の磁力計を具備した磁気近点離角ＩＮＳ補助システムを備える。磁気近点離角ＩＮＳ補助システムは、複数の磁力計それぞれにおける固定磁気近点離角の磁界測定結果に基づいて、磁気近点離角データを生成するように構成される。【選択図】図１</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="27" wi="69" file="2016126001_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本開示は、一般的にはセンサシステムに関し、より詳細には、慣性航法システムの磁気近点離角追跡に関する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  航法および慣性データは、移動体（ｖｅｈｉｃｌｅ）に関連する速度、位置、および方位情報、あるいは速度、位置、または方位情報等、移動体の運動に関する情報に対応可能である。このような航法および慣性データを実装することによって、移動体の経時的な運動を追跡するとともに、たとえば経時的な移動体の位置および計時情報を計算することができる。航法および慣性データは、ジャイロスコープおよび加速度計、あるいはジャイロスコープまたは加速度計等、多様な種類のセンサを介して取得することができる。別の例として、航空機の場合は、大気速度を測定することによって、周囲の空気に対する航空機の速度を測定することができる。ただし、大気速度の測定は、地面に対する風速および航空機周りの気流変動の両者の１次従属である。船舶についても、その速度の測定に同様の不確実性が存在し得る。したがって、一部の移動体では、慣性データの測定および航法解の計算、あるいは慣性データの測定または航法解の計算のための追加または代替システムが必要となる場合がある。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:PatentDocumentation>
+        <base:Paragraphs num="0003">
+          <business:ApplicationCitation num="0001">
+            <base:Text>米国特許第４５０９１３１号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0002">
+            <base:Text>米国特許第７４００１４２号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0003">
+            <base:Text>米国特許第７５２６３８４号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0004">
+            <base:Text>米国特許第８４２３２７６号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0005">
+            <base:Text>米国特許第８４６１９９９号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0006">
+            <base:Text>米国特許出願公開第２００８／０２６２７７２号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0007">
+            <base:Text>米国特許出願公開第２０１１／０２３８３０７号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0008">
+            <base:Text>米国特許出願公開第２０１３／００１８５８２号明細書</base:Text>
+          </business:ApplicationCitation>
+          <business:ApplicationCitation num="0009">
+            <base:Text>国際公開第２０１３／１５０１８３号</base:Text>
+          </business:ApplicationCitation>
+        </base:Paragraphs>
+      </business:PatentDocumentation>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0004">
+  一例として、航法および慣性データの測定は、全地球航法衛星システム（ＧＮＳＳ：Ｇｌｏｂａｌ  Ｎａｖｉｇａｔｉｏｎ  Ｓａｔｅｌｌｉｔｅ  Ｓｙｓｔｅｍ）測定および視覚的補助（たとえば、地球固定特徴追跡もしくは光学的流速補助のための地上対向カメラまたは慣性的に固定された星に対する方位および位置補助のための星追跡システムに基づく）等、他の種類のセンサシステムによって補助可能な場合が多い。ただし、現代の電子戦では、晴天条件においてもＧＮＳＳ測定が確実とは考えられず、都市の谷間、高密度に成長した林冠、屋内、地下、および水中環境等の特定の環境では、最適状況のＧＮＳＳ信号の有効性に頼ることができない。また、視覚的補助では通常、明確かつ固定された視覚的特徴を有する領域または星をはっきりと視認できる領域の中または上方を移動体が進行する必要があるため、慣性データの計算による航法解の決定を支援する様態としては、限定的となり得る場合が多い。たとえば、このような視覚的補助は、星追跡システムまたは他の視覚的特徴（たとえば、山または川等）を識別するシステムを実装可能である。ただし、これらの技術は、可視性条件または移動体自体に対する有用な近接性の欠如によって制限され得る場合が多いため、慣性データまたは航法解における誤差成長の効果的な低減を制限する可能性がある。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0005">
+  一例として、慣性航法システム（ＩＮＳ：Ｉｎｅｒｔｉａｌ  Ｎａｖｉｇａｔｉｏｎ  Ｓｙｓｔｅｍ）が挙げられる。このＩＮＳは、移動体上に構成された少なくとも１つの航法センサおよび磁気近点離角データに基づいて、移動体の運動に関連する慣性データを生成するように構成された航法コントローラを備える。また、このＩＮＳは、移動体上の複数の位置それぞれに分散して配置された複数の磁力計を具備した磁気近点離角ＩＮＳ補助システムを備える。磁気近点離角ＩＮＳ補助システムは、複数の磁力計それぞれにおける固定磁気近点離角の磁界測定結果に基づいて、磁気近点離角データを生成するように構成可能である。
+</base:Paragraphs>
+        <base:Paragraphs num="0006">
+  別の例として、移動体のＩＮＳにおける磁気近点離角検出支援を提供する方法が挙げられる。この方法は、移動体周りのアレイ状に配置された複数の磁力計を介して、地球座標フレーム（たとえば、ＥＣＥＦ（Ｅａｒｔｈ－Ｃｅｎｔｅｒｅｄ，  Ｅａｒｔｈ－Ｆｉｘｅｄ：地球中心地球固定）、ＥＣＲ（Ｅａｒｔｈ  Ｃｅｎｔｅｒｅｄ  Ｒｏｔａｔｉｏｎａｌ：地球中心回転）、ＩＲＰ（Ｉｎｔｅｒｎａｔｉｏｎａｌ  Ｒｅｆｅｒｅｎｃｅ  Ｐｏｌｅ：国際基準極）、ＩＲＭ（Ｉｎｔｅｒｎａｔｉｏｎａｌ  Ｒｅｆｅｒｅｎｃｅ  Ｍｅｒｉｄｉａｎ：国際基準子午線）、または磁気近点離角との関係が既知であるその他任意の関連基準フレーム）または類似の基準フレーム（たとえば、他の惑星または衛星上等の地球外用途の場合）に対する固定磁気近点離角に関連する磁界測定結果を取得するステップを含む。また、この方法は、移動体周りの複数の磁力計それぞれに関連する複数の位置間の所定の距離に対する磁界測定結果に関連する磁気近点離角データを提供するステップを含む。さらに、この方法は、ＩＮＳを介した磁気近点離角データに基づいて、地球座標フレームに対する移動体の速度を計算するステップを含む。
+</base:Paragraphs>
+        <base:Paragraphs num="0007">
+  別の例として、ＩＮＳが挙げられる。このＩＮＳは、移動体上に構成された少なくとも１つの航法センサおよび磁気近点離角データに基づいて、地球座標フレームに対する移動体の速度に関連する慣性データを生成するように構成された航法コントローラを備える。また、このＩＮＳは、移動体上の複数の位置それぞれにアレイ状に分散し、互いに所定の距離を有する複数の磁力計を具備した磁気近点離角ＩＮＳ補助システムを備える。磁気近点離角ＩＮＳ補助システムは、上記所定の距離に関し、複数の磁力計それぞれにおける固定磁気近点離角の磁界測定結果に基づいて磁気近点離角データを生成するように構成可能である。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0008">
+        <base:FigureReference num="0001">慣性航法システム（ＩＮＳ）の一例を示す図。</base:FigureReference>
+        <base:FigureReference num="0002">移動体の一例を示す図。</base:FigureReference>
+        <base:FigureReference num="0003">磁気近点離角データを取得する構成の一例を示す図。</base:FigureReference>
+        <base:FigureReference num="0004">移動体の別の例を示す図。</base:FigureReference>
+        <base:FigureReference num="0005">慣性航法システムにおける磁気近点離角検出支援を提供する方法の一例を示す図。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0009">
+  本開示は、一般的にはセンサシステムに関し、より詳細には、慣性航法システム（ＩＮＳ）の磁気近点離角追跡に関する。ＩＮＳは、移動体上に構成された少なくとも１つの航法センサおよび磁気近点離角データに基づいて、移動体の運動に関連する慣性データを生成するように構成された航法コントローラを備える。一例として、磁気近点離角データは、地球座標フレームの固定位置からの磁気近点離角と関連付け可能である。また、磁気近点離角データは、固定磁気近点離角を測定するようにそれぞれが構成された複数の磁力計を具備した磁気近点離角ＩＮＳ補助システムによって生成可能である。一例として、磁力計は、互いに所定の距離で、移動体周りのアレイとして配置可能である。したがって、磁気近点離角データを実装することにより、互いに所定の距離での固定磁気近点離角の磁界測定結果に基づいて、移動体の速度を計算することができる。これにより、磁気近点離角データを実装することによって、航法センサが生成した慣性データ中の移動体に関連する速度および方位、あるいは速度または方位誤差成長を実質的に抑制することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+  一例として、磁気近点離角ＩＮＳ補助システムは、複数の磁力計それぞれから磁界測定結果を受信し、磁力計アレイの磁界測定結果の比較に基づいて、固定磁気近点離角の位置に関連する複合磁界測定結果として磁気近点離角データを生成するように構成された磁力計コントローラを具備可能である。たとえば、磁力計は、移動体前進運動の方向に対応した移動体の実質的な中心軸に沿って、１次元アレイとして（たとえば、第１の磁力計を前部に、第２の磁力計を後部に）配置可能である。磁力計コントローラは、たとえば磁界測定結果に基づいて相関アルゴリズムを実装するように構成可能である。相関アルゴリズムは、磁界測定結果それぞれに対する特徴照合を行って、磁界測定結果に関連するノイズを実質的に抑制するとともに、固定磁気近点離角の検出に関する誤差修正を行うように構成可能である。また、磁力計コントローラは、実時間の磁界測定結果および相関アルゴリズムに基づいて生成された信頼性スコアに基づいて、地球座標フレームに対する移動体の速度を計算するように構成可能である。これにより、ＩＮＳは、全地球航法衛星システム（ＧＮＳＳ）受信機を用いずに、慣性センサデータのみを用いた場合よりも正確に慣性データを生成して移動体の位置解を計算することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  図１は、慣性航法システム（ＩＮＳ）１０の一例を示した図である。ＩＮＳ１０は、移動体の制御電子回路に実装可能である。移動体は、陸上車、船舶、航空機、または宇宙船等の多様な移動体のうちのいずれかとすることが可能であり、また、有人もしくは無人とすることが可能である。別の例として、移動体は、小型自動化移動体（たとえば、惑星間探査機）等の小型移動体とすることが可能である。あるいは、人間とすることも可能である。ＩＮＳ１０は、移動体の速度、位置、および方位のうちの少なくとも１つの実時間での計算等によって、移動体の運動を制御および記録、あるいは制御または記録するように構成可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  ＩＮＳ１０は、少なくとも１つの航法センサ１４が提供する測定結果に基づいて、移動体の運動に関連する慣性データを計算するように構成された航法コントローラ１２を具備する。図１の例において、航法センサ１４が提供する測定結果は、信号ＮＡＶ<base:Sub>Ｓ</base:Sub>で表している。たとえば、航法センサ１４は、（たとえば、大気速度を測定することによって）速度を測定するように構成されたセンサ、少なくとも１つのジャイロスコープ、少なくとも１つの加速度計、および他の多様な測定装置の少なくとも何れか一つを具備可能である。したがって、航法センサ１４が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>は、速度、少なくとも１つの感知軸周りの回転速度もしくは回転角、および少なくとも１つの座標フレーム軸における加速度の少なくとも一つを含み得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  また、ＩＮＳ１０は、図１の例において、航法コントローラ１２に提供される信号ＮＡＶ<base:Sub>Ｍ</base:Sub>として表した磁気近点離角データを生成するように構成された磁気近点離角ＩＮＳ補助システム１６を具備する。磁気近点離角ＩＮＳ補助システム１６は、複数（Ｎ個）の磁力計１８を具備しており、Ｎは正の整数である。磁力計１８は、核磁気共鳴（ＮＭＲ：Ｎｕｃｌｅａｒ  Ｍａｇｎｅｔｉｃ  Ｒｅｓｏｎａｎｃｅ）磁力計、電子常磁性共鳴（ＥＰＲ：Ｅｌｅｃｔｒｏｎ  Ｐａｒａｍａｇｎｅｔｉｃ  Ｒｅｓｏｎａｎｃｅ）磁力計、フラックスゲート磁力計、または他の多様な種類もしくは組み合わせの磁力計システムのうちのいずれかとしての構成等に基づいて、スカラーおよびベクトル、あるいはスカラーまたはベクトルの磁界測定結果を測定する多様な種類の磁力計のうちのいずれかとして構成可能である。一例として、磁力計１８は、互いに所定の距離だけ離間したそれぞれの位置において、移動体周りのアレイ状に配置可能である。図１の例において、磁力計１８は、それぞれ磁界測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>で表した外部磁界を実時間で測定するように構成されている。磁界測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>は、移動体上の磁力計の各位置に対する磁界測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>に基づいて磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を計算するように構成された磁力計コントローラ２０に提供される。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  たとえば、磁力計１８はそれぞれ、地球座標空間上の固定位置に関連するか、または別の基準フレームに対して固定された磁気近点離角（以下、「固定磁気近点離角」と称する）を測定可能である。固定磁気近点離角は一般的に、移動体が進行可能な任意の動作環境において遍在するため、磁気近点離角ＩＮＳ補助システム１６は、ほとんどすべての環境において、十分なＩＮＳ補助能力を提供可能である。一例として、磁力計１８は、それぞれ移動体の前部および移動体の後部に配置され、移動体前進運動の方向に対応した移動体の実質的な中心軸（たとえば、移動体の座標フレームのロール軸）に沿って互いに所定の距離を有する第１の磁力計および第２の磁力計を少なくとも具備可能である。したがって、磁力計コントローラ２０は、移動体が前方に進行する際の第１および第２の磁力計１８間の固定磁気近点離角の測定結果の時間遅延に基づいて、地球座標フレームまたはその他任意の関連基準フレームにおける速度を計算可能である。別の例として、磁力計１８は、移動体前進運動の方向と直交した軸に沿う航空機の翼端等、少なくとも２次元のアレイ状に構成可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  このため、移動体上の磁力計１８の相対位置に基づいて、磁力計コントローラ２０は、磁力計１８それぞれが測定した固定磁気近点離角に対する移動体の運動の関数として、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を計算可能である。その結果、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>が航法コントローラ１２に提供されることにより、航法コントローラは、航法センサ１４が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>および磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>に基づいて慣性データ（たとえば、移動体の位置姿勢、方位、および速度解、あるいは位置姿勢、方位、または速度解）を計算するように構成可能である。一例として、航法コントローラ１２は、航法センサ１４が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>および磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を相関させてより正確な航法解を提供するように構成された航法アルゴリズムを実装するように構成可能である。たとえば、航法アルゴリズムは、カルマンフィルタ、最適状態推定器、または測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>および磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>に基づいて慣性データを計算する多様な統計的アルゴリズムのうちのいずれかにより実装可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  一例として、慣性データは初めに、航法センサ１４が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>に基づいて、航法コントローラ１２により計算可能である。そして、航法コントローラ１２は、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を実装することにより、航法センサ１４が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>とは独立して慣性データを計算することができる。したがって、航法コントローラ１２は、慣性データの測定結果を比較することにより、航法センサ１４が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>中の誤差の実質的な軽減等が可能である。たとえば、航法コントローラ１２は、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>に応答して、航法センサ１４が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>に基づいて計算された慣性データ中の速度および方位、あるいは速度または方位誤差成長を抑制することができる。別の例として、航法コントローラ１２は、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>に応答して、多様な統計的アルゴリズムのうちのいずれか等に基づき、測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>および磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>の組み合わせに基づいて、慣性データを計算することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  また、磁力計コントローラ２０は、近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>の計算に相関アルゴリズムを実装するように構成可能である。たとえば、磁力計コントローラ２０は、相関アルゴリズムおよび磁力計１８の実時間測定結果を実装することにより、磁界測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>の特徴照合を行って、磁界測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>の互いの誤差の判定等（たとえば、すべての磁力計１８が同じ固定磁気近点離角を測定したか否かの判定）を行うことができる。相関アルゴリズムを実装して磁力計１８の実時間測定結果に関連する信頼性スコアを生成することにより、磁力計１８の信頼性スコアおよび実時間測定結果を実装して磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>をより正確に計算することができる。これにより、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>は、ＧＮＳＳ受信機を用いることなく、正確にＩＮＳ補助を提供可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0018">
+  さらに、磁気近点離角ＩＮＳ補助システム１６は、ＩＮＳ１０のセンサ１４に対する誤差修正を行うように構成可能である。一例として、磁力計１８は、固定磁気近点離角の大きさおよび方向の両者を測定するように構成可能である。したがって、磁界測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>は、固定磁気近点離角に関するベクトルおよびスカラー情報を含むものとして、磁力計コントローラ２０に提供される。その結果、磁力計コントローラ２０は、スカラーおよびベクトルの磁界測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>の相互相関に基づいて、関連するセンサ１４中の１つまたは複数のジャイロスコープおよび加速度計に関連する測定ドリフトを航法コントローラ１２が抑えられるように、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を提供可能である。その結果、磁力計コントローラ２０は、航法解の決定における誤差成長の速度を低減することにより、より長い期間にわたって、航法解の正確性の向上等を行うことができる。これにより、航法コントローラ１２は、地球座標フレーム等の所与の座標フレームに対する全３つの移動体座標フレーム軸周りの方位情報を提供可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0019">
+  したがって、本明細書に記載の通り、ＩＮＳ１０は、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を組み込むことによって、通常の航法補助解に優る改善された航法補助解を提供することができる。たとえば、都市の谷間、高密度に成長した林冠、屋内、地下、および水中環境等に生じ得る特定の環境でＧＮＳＳ信号の有効性が制限されることに基づいて、ＧＮＳＳ受信機を組み込んだ通常の航法補助解は、誤差の影響を受ける可能性がある。ただし、磁気近点離角は、移動体が進行可能な任意の環境でほとんど例外なく利用可能であるため、ＩＮＳ１０は、複数の磁力計１８、より具体的には測定結果Ｍ<base:Sub>１</base:Sub>～Ｍ<base:Sub>Ｎ</base:Sub>に対する磁力計１８それぞれの位置に基づいて、磁気近点離角の測定結果に基づく航法補助を提供可能である。複数の磁力計１８を実装することによって、単一の磁力計のみを組み込んだ他の航法補助解よりも信頼性の高い航法補助解が得られる。たとえば、単一の磁力計を組み込んだ通常の航法補助解では、移動体が進行する局所領域に前もってマッピングされた近点離角に対して、観測された近点離角を相関させようとするため、（たとえば、所定の磁気近点離角マップに基づく）関心領域の局所的な磁気近点離角に関する予備知識なしに、航法補助は起こり得ない。以上から、ＩＮＳ１０は、磁気近点離角に関する予備知識およびＧＮＳＳ受信機なしに、航法補助を提供可能である。また、ＩＮＳ１０は、１つまたは複数の磁気近点離角の位置が地球座標フレームにおいて特定されている場合、地球座標フレームにおける移動体の位置を計算するように構成可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  図２は、移動体５０の一例を示した図である。図２の例において、移動体５０は、前部５２および後部５４のほか、左翼５６および右翼５８を有する航空機として表している。また、移動体５０は、当該移動体５０の前部５２に搭載された第１の磁力計６０と当該移動体５０の後部５４に搭載された第２の磁力計６２とを具備するものとして表している。第１および第２の磁力計６０および６２は、移動体５０の製造時等に予め決定された距離に対応可能な距離Ｄ<base:Sub>１</base:Sub>だけ離れている。一例として、第１の磁力計６０および第２の磁力計６２は、たとえば移動体５０のロール軸に対応した移動体５０の実質的な中心軸６４に沿って、前部５２および後部５４にそれぞれ搭載可能である。一例として、第１および第２の磁力計６０および６２は、移動体５０がＩＮＳ１０（図２の例には図示せず）を具備し得るように、図１の例の磁気近点離角ＩＮＳ補助システム１６の磁力計１８のうちの２つに対応可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  したがって、第１および第２の磁力計６０および６２は、アレイ状に配置されることにより、図２の例でベクトルＶとして表した速度ベクトルに沿って移動体５０が進行する際の固定磁気近点離角を測定する。たとえば、第１および第２の磁力計６０および６２は、移動体５０の座標フレームに対する空間的な方位および位置に固定され、移動体５０が速度ベクトルＶに沿って進行する際に通過する自然発生的な多くの磁界近点離角のうちの１つ等の固定磁気近点離角を追跡する。一例として、磁力計コントローラ（たとえば、磁力計コントローラ２０）は、移動体５０上の第１および第２の磁力計６０および６２の相対位置に基づき、第１および第２の磁力計６０および６２それぞれが測定した固定磁気近点離角に対する移動体５０の運動の関数として、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を計算することができる。その結果、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>が関連する航法コントローラ（たとえば、航法制コントローラ１２）に提供されることで、航法コントローラは、関連する航法センサ（たとえば、航法センサ１４）が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>および磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>に基づいて、慣性データを計算するように構成可能である。たとえば、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を実装することによって、（たとえば、測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>によりもたらされる）航法センサに関連する速度および方位、あるいは速度または方位誤差を抑制することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  図３は、磁気近点離角データを取得する構成１００の一例を示した図である。構成１００は、移動体５０が速度ベクトルＶに沿って進行する様子を表している。図２の例において説明した通り、移動体５０は、当該移動体５０の前部に第１の磁力計６０と当該移動体５０の後部に第２の磁力計６２とを具備し、第１および第２の磁力計６０および６２は、実質的な中心軸６４（たとえば、移動体５０の座標フレームのロール軸）に沿って位置決めされている。また、構成１００は、移動体５０から地理的に分離された固定磁気近点離角１０２を含む。一例として、固定磁気近点離角１０２は、地球座標フレームにおいて固定された自然発生的な磁気近点離角に対応可能である。したがって、移動体５０は、デカルト座標系１０４が与えるＹ方向に、速度ベクトルＶに沿って固定磁気近点離角を通過する。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  図３の例に表した移動体５０の位置において、第１の磁力計６０は、固定磁気近点離角に関連する磁界Ｍ<base:Sub>２</base:Sub>を測定し、第２の磁力計６２は、固定磁気近点離角に関連する磁界Ｍ<base:Sub>１</base:Sub>を測定する。一例として、図３の例に表した移動体５０の位置は、時刻Ｔ<base:Sub>０</base:Sub>に対応することにより、第１の磁力計６０が固定磁気近点離角１０２に関連する磁界Ｍ<base:Sub>２</base:Sub>を時刻Ｔ<base:Sub>０</base:Sub>に測定可能となる。時刻Ｔ<base:Sub>０</base:Sub>から経過時間Ｔ<base:Sub>Ａ</base:Sub>だけ進んだ時刻Ｔ<base:Sub>１</base:Sub>において、第２の磁力計６２は、磁界Ｍ<base:Sub>２</base:Sub>を測定可能であるため、時刻Ｔ<base:Sub>１</base:Sub>は時刻Ｔ<base:Sub>０</base:Sub>＋Ｔ<base:Sub>Ａ</base:Sub>に対応可能である。たとえば、磁界Ｍ<base:Sub>２</base:Sub>は、第１の磁力計６０が測定した時刻Ｔ<base:Sub>０</base:Sub>の磁界Ｍ<base:Sub>２</base:Sub>の振幅と略等しい振幅にて、第２の磁力計６２により測定可能である。第１および第２の磁力計６０および６２間の距離Ｄ<base:Sub>１</base:Sub>が既知の固定値であることから、磁力計コントローラ（たとえば、磁力計コントローラ２０）は、第１および第２の磁力計６０および６２間の実質的な中心軸６４に沿った移動体５０の速度を計算することができる。一例として、移動体５０の速度Ｖ<base:Sub>１</base:Sub>は、第１および第２の磁力計６０および６２間の固定距離Ｄ<base:Sub>１</base:Sub>を第１および第２の磁力計６０および６２それぞれによる磁界Ｍ<base:Sub>２</base:Sub>の観測間の時間で除算することにより計算可能であり、式１で与えられる。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  Ｖ<base:Sub>１</base:Sub>＝Ｄ<base:Sub>１</base:Sub>／Ｔ<base:Sub>Ａ</base:Sub>  （式１）
+したがって、関連する航法コントローラ（たとえば、航法コントローラ１２）で速度Ｖ<base:Sub>１</base:Sub>を実装することにより、航法センサを介して提供される移動体５０の速度の測定結果の増強や航法センサによる移動体５０の速度の計算における誤差の実質的な軽減が可能となる。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  一例として、移動体５０の関連する磁気近点離角ＩＮＳ補助システム（たとえば、磁気近点離角ＩＮＳ補助システム１６）は、速度Ｖ<base:Sub>１</base:Sub>を実時間で連続して計算することができる。たとえば、時刻Ｔ<base:Sub>０</base:Sub>に先立つある時刻において、移動体５０の磁気近点離角ＩＮＳ補助システムは、移動体５０が速度ベクトルＶに沿って進行する際の第１および第２の磁力計６０および６２による磁界Ｍ<base:Sub>１</base:Sub>の各測定結果に基づいて、速度Ｖ<base:Sub>１</base:Sub>を測定することができる。同様に、時刻Ｔ<base:Sub>１</base:Sub>の後のある時刻において、移動体５０の磁気近点離角ＩＮＳ補助システムは、移動体５０が速度ベクトルＶに沿って進行する際の第１および第２の磁力計６０および６２による磁界Ｍ<base:Sub>３</base:Sub>の各測定結果に基づいて、速度Ｖ<base:Sub>１</base:Sub>を測定することができる。たとえば、関連する磁力計コントローラは、相関アルゴリズムならびに第１および第２の磁力計６０および６２の実時間測定結果を実装することにより、磁界Ｍ<base:Sub>１</base:Sub>、Ｍ<base:Sub>２</base:Sub>、およびＭ<base:Sub>３</base:Sub>の特徴照合を行って、磁界測定結果Ｍ<base:Sub>１</base:Sub>、Ｍ<base:Sub>２</base:Sub>、およびＭ<base:Sub>３</base:Sub>の互いの誤差の判定等を行い、磁力計６０および６２が固定磁気近点離角１０２を測定したか否かの判定等を行うことができる。また、相関アルゴリズムを実装することによって、第１および第２の磁力計６０および６２の実時間測定結果に関連する信頼性スコアを生成することで、第１および第２の磁力計６０および６２の信頼性スコアおよび実時間測定結果の実装により磁気近点離角データをより正確に計算することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  図４は、移動体１５０の別の例を示した図である。図４の例において、移動体１５０は、前部１５２および後部１５４のほか、左翼１５６および右翼１５８を有する航空機として表している。また、移動体１５０は、当該移動体１５０の前部１５２に搭載された第１の磁力計１６０と当該移動体１５０の後部１５４に搭載された第２の磁力計１６２とを具備するものとして表している。第１および第２の磁力計１６０および１６２は、移動体１５０の製造時等に予め決定された距離に対応可能な距離Ｄ<base:Sub>１</base:Sub>だけ離れている。一例として、第１の磁力計１６０および第２の磁力計１６２は、たとえば移動体１５０のロール軸に対応した移動体１５０の実質的な中心軸１６４に沿って、前部１５２および後部１５４にそれぞれ搭載可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  同様に、移動体１５０は、当該移動体１５０の左翼１５６に搭載された第３の磁力計１６６と当該移動体１５０の右翼１５８に搭載された第４の磁力計１６８とを具備するものとして表している。第３および第４の磁力計１６６および１６８は、移動体１５０の製造時等に予め決定された距離に対応可能な距離Ｄ<base:Sub>２</base:Sub>だけ離れており、予想および測定、あるいは予想または測定された移動体動力学に基づいて、最高のＩＮＳ補助性能が得られるように最適化されている。一例として、第３の磁力計１６６および第４の磁力計１６８は、実質的な中心軸１６４と略直交した移動体１５０の軸１７０に沿って、左翼１５６および右翼１５８にそれぞれ搭載可能である。一例として、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８は、移動体１５０がＩＮＳ１０（図４の例には図示せず）を具備し得るように、図１の例の磁気近点離角ＩＮＳ補助システム１６の磁力計１８のうちの４つに対応可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  したがって、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８は、アレイ状に配置されることにより、図４の例でベクトルＶとして表した速度ベクトルに沿って移動体１５０が進行する際の固定磁気近点離角を測定する。一例として、第１および第２の磁力計１６０および１６２ならびに第３および第４の磁力計１６６および１６８はすべて、同一平面内に配置可能であるか、または第１および第２の磁力計１６０および１６２ならびに第３および第４の磁力計１６６および１６８の対に関して面外とすることが可能である。たとえば、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８は、移動体１５０の座標フレームに対する空間的な方位および位置に固定され、移動体１５０が速度ベクトルＶに沿って進行する際に通過する自然発生的な多くの磁界近点離角のうちの１つ等の固定磁気近点離角を追跡する。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  一例として、磁力計コントローラ（たとえば、磁力計コントローラ２０）は、移動体１５０上の第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８の相対位置に基づき、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８それぞれが測定した固定磁気近点離角に対する移動体１５０の運動の関数として、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>を計算することができる。その結果、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>が関連する航法コントローラ（たとえば、航法コントローラ１２）に提供されることで、航法コントローラは、関連する航法センサ（たとえば、航法センサ１４）が提供する測定結果ＮＡＶ<base:Sub>Ｓ</base:Sub>および磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>に基づいて、慣性データを計算するように構成可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  別の例として、図２の例における移動体５０に対して移動体１５０の磁力計の数が増えていることから、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８のそれぞれ個々の磁界測定結果に基づいて、固定磁気近点離角に関連する磁界の測定ノイズおよび誤差源を実質的に抑制することができる。たとえば、関連する磁気近点離角ＩＮＳ補助システムは、図２の例における移動体５０の第１および第２の磁力計６０および６２に対して、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８の改善された特徴照合を実装することができる。また、一例として、移動体１５０は、系統的誤差の抑制に第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８のアレイが役立ち得るように、（たとえば、旋回および高度変更時の）ロール軸に直接沿わない航法に有用な基準フレームに対する進行方向を有することができる。したがって、第３および第４の磁力計１６６および１６８は、速度、加速度、および方位情報等の利用可能な航法情報を増強することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  図４の例において、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８は、２次元アレイで表している。したがって、移動体１５０の速度成分は、移動体１５０のロール－ピッチ面等、移動体座標面の複数の面に関して計算可能である。また、移動体１５０は、第１および第２の磁力計１６０および１６２ならびに第３および第４の磁力計１６６および１６８の対のうちの少なくとも１つに関して面外となる磁力計等、付加的な磁力計を組み込むことも可能である。したがって、第１、第２、第３、および第４の磁力計１６０、１６２、１６６、および１６８ならびに付加的な磁力計は、３次元アレイ状に配置可能である。このように、移動体１５０の速度の３つの直交成分を計算可能であるとともに、３次元の磁力計アレイは、（たとえば、３つの直交軸それぞれに沿ったジャイロスコープに関して）方位誤差修正を行うように構成可能である。さらに、３次元の磁力計アレイは、潜水艦／ＵＵＶ（Ｕｎｍａｎｎｅｄ  Ｕｎｄｅｒｗａｔｅｒ  Ｖｅｈｉｃｌｅ）、ヘリコプタ／垂直離着陸（ＶＴＯＬ：Ｖｅｒｔｉｃａｌ  Ｔａｋｅ－Ｏｆｆ  ａｎｄ  Ｌａｎｄｉｎｇ）移動体、人間、または少なくとも２つの方向に類似の速度を有し得るその他任意の移動体等、大きさが類似し得る全３つの方向の速度成分を有する他の種類の移動体に対して特に有用となり得る。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  上述の構造的および機能的特徴を考慮すると、図５を参照して、本発明の種々態様に係る方法がより深く理解される。図５の方法は、説明の簡略化のため、順次実行するものとして図示および記載しているが、当然のことながら、本発明は図示の順序によって制限されず、本発明に係る一部の態様は、本明細書に図示および記載する態様と異なる順序および／または他の態様と同時に生じ得る。さらに、図示の特徴すべてにおいて、本発明の一態様に係る方法を実装していなくてもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  図５は、慣性航法システム（たとえば、ＩＮＳ１０）における磁気近点離角検出支援を提供する方法２００の一例を示した図である。ステップ２０２においては、移動体（たとえば、移動体５０）周りのアレイ状に配置された複数の磁力計（たとえば、磁力計１８）を介して、地球座標フレームに対する固定磁気近点離角（たとえば、固定磁気近点離角１０２）に関連する磁界測定結果を取得する。ステップ２０４においては、移動体周りの複数の磁力計それぞれに関連する複数の位置間の所定の距離（たとえば、距離Ｄ<base:Sub>１</base:Sub>）に対する磁界測定結果に関連する磁気近点離角データ（たとえば、磁気近点離角データＮＡＶ<base:Sub>Ｍ</base:Sub>）を提供する。ステップ２０６においては、ＩＮＳを介した磁気近点離角データに基づいて、地球座標フレームに対する移動体の速度を計算する。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  以上の説明は、本発明の一例である。当然のことながら、考え得るあらゆる構成要素の組み合わせまたは本発明を記述するための方法を説明することは不可能であるが、当業者であれば、本発明のその他多くの組み合わせおよび並べ替えが可能であることが認識されよう。したがって、本発明は、添付の特許請求の範囲を含めて、本願の範囲に含まれるこのようなすべての変更、改良、および変形を包含するものである。
+</base:Paragraphs>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="34" wi="85" file="2016126001_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="57" wi="85" file="2016126001_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="38" wi="85" file="2016126001_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="59" wi="85" file="2016126001_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="59" wi="85" file="2016126001_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  慣性航法システムであって、
+  移動体上に構成された少なくとも１つの航法センサおよび磁気近点離角データに基づいて、前記移動体の運動に関連する慣性データを生成するように構成された航法コントローラと、
+  前記移動体上の複数の位置それぞれに分散して配置された複数の磁力計を具備した磁気近点離角ＩＮＳ補助システムであり、前記複数の磁力計それぞれにおける固定磁気近点離角の磁界測定結果に基づいて前記磁気近点離角データを生成するように構成された、磁気近点離角ＩＮＳ補助システムと、
+  を備えた慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記複数の磁力計が、互いに所定の距離で前記複数の位置に配置されることにより、前記所定の距離に関し、前記複数の磁力計それぞれにおける磁界測定結果に基づいて、前記磁気近点離角ＩＮＳ補助システムが前記磁気近点離角データを生成するように構成されたものである、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記複数の磁力計が、前記移動体の前部に配置された第１の磁力計と前記移動体の後部に配置された第２の磁力計とを備え、前記第１および第２の磁力計が、移動体前進運動の方向に対応した前記移動体の実質的な中心軸に沿って、互いに所定の距離で配置された、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記複数の磁力計が、前記移動体の左舷に配置された第３の磁力計と、前記移動体の右舷に配置された第４の磁力計とをさらに備え、前記第３および第４の磁力計が、前記実質的な中心軸に対して略直交する前記移動体の軸に沿って、互いに所定の距離で配置された、請求項３に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記磁気近点離角データが、前記航法コントローラによる実装により、前記複数の磁力計それぞれにおける前記磁界測定結果に基づいて、地球座標フレームに対する前記移動体の速度を計算する、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記磁気近点離角ＩＮＳ補助システムが、前記複数の磁力計それぞれから前記磁界測定結果を受信し、前記磁界測定結果の比較に基づいて、前記固定磁気近点離角の位置に関連する複合磁界測定結果として前記磁気近点離角データを生成するように構成された磁力計コントローラを備えた、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記磁力計コントローラが、前記磁界測定結果に基づいて相関アルゴリズムを実装するように構成され、前記相関アルゴリズムが、前記磁界測定結果それぞれに対する特徴照合を行って、前記磁界測定結果に関連するノイズを実質的に抑制するとともに、前記固定磁気近点離角の検出に関する誤差修正を行うように構成されたものである、請求項６に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記磁力計コントローラが、前記相関アルゴリズムに基づいて、前記固定磁気近点離角の検出に関連する信頼性スコアを生成するように構成されており、前記磁力計コントローラが、前記信頼性スコアおよび前記磁界測定結果を実時間で実装することによって、地球座標フレームに対する前記移動体の速度を計算する、請求項７に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記複数の磁力計が、前記移動体に沿った少なくとも２次元のアレイに分散しており、前記磁気近点離角ＩＮＳ補助システムが、前記少なくとも２次元の磁力計アレイに基づいて、少なくとも２つの座標フレーム軸における速度、加速度、方位、および位置のうちの少なくとも１つを計算するように構成されたものである、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記移動体上に構成された前記少なくとも１つの航法センサが、ジャイロスコープおよび加速度計のうちの少なくとも一方を備え、前記航法コントローラが、前記磁気近点離角データに基づいて、前記ジャイロスコープおよび前記加速度計のうちの前記少なくとも一方に関連する誤差を実質的に軽減するように構成されたものである、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  移動体の慣性航法システムにおける磁気近点離角検出支援を提供する方法であって、
+  前記移動体周りのアレイ状に配置された複数の磁力計を介して、地球座標フレームに対する固定磁気近点離角に関連する磁界測定結果を取得するステップと、
+  前記移動体周りの前記複数の磁力計それぞれに関連する複数の位置間の所定の距離に対する前記磁界測定結果に関連する磁気近点離角データを提供するステップと、
+  前記慣性航法システムを介した前記磁気近点離角データに基づいて、地球座標フレームに対する前記移動体の速度を計算するステップと、
+  を備える方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  移動体上に構成された少なくとも１つの航法センサおよび前記磁気近点離角データに基づいて、前記移動体の運動に関連する慣性データを生成するステップであり、前記慣性データが、前記移動体の速度および位置のうちの少なくとも一方を含む、ステップをさらに備える請求項１１に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  前記磁界測定結果に基づいて相関アルゴリズムを実装するステップと、
+  前記相関アルゴリズムに基づいて前記磁界測定結果を比較することにより、前記磁界測定結果それぞれに対する特徴照合を行って、前記磁界測定結果に関連するノイズを実質的に抑制するとともに、前記固定磁気近点離角の検出に関する誤差修正を行うステップと、
+  をさらに備える請求項１１に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記相関アルゴリズムに基づいて、前記固定磁気近点離角の検出に関連する信頼性スコアを生成するステップをさらに備え、前記移動体の速度を計算するステップが、実時間で前記信頼性スコアおよび前記磁界測定結果に基づいて、前記移動体の速度を計算するサブステップを含む、請求項１３に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  ジャイロスコープおよび加速度計のうちの少なくとも一方に基づいて、前記移動体に関連する慣性データを生成するステップと、
+  前記磁気近点離角データに基づいて、前記ジャイロスコープおよび前記加速度計のうちの前記少なくとも一方に関連する前記慣性データの誤差修正を行うステップと、
+  をさらに備える請求項１１に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  慣性航法システムであって、
+  移動体上に構成された少なくとも１つの航法センサおよび磁気近点離角データに基づいて、地球座標フレームに対する前記移動体の速度に関連する慣性データを生成するように構成された航法コントローラと、
+  前記移動体上の複数の位置それぞれにアレイ状に分散し、互いに所定の距離を有する複数の磁力計を具備した磁気近点離角ＩＮＳ補助システムであり、前記所定の距離に関し、前記複数の磁力計それぞれにおける固定磁気近点離角の磁界測定結果に基づいて前記磁気近点離角データを生成するように構成された、磁気近点離角ＩＮＳ補助システムと、
+  を備えた慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  前記複数の磁力計が、前記移動体の前部に配置された第１の磁力計と前記移動体の後部に配置された第２の磁力計とを備え、前記第１および第２の磁力計が、移動体前進運動の方向に対応した前記移動体の実質的な中心軸に沿って、互いに所定の距離で配置された、請求項１６に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  前記磁界測定結果に基づいて相関アルゴリズムを実装するように構成された磁力計コントローラをさらに備え、前記相関アルゴリズムが、前記磁界測定結果それぞれに対する特徴照合を行って、前記磁界測定結果に関連するノイズを実質的に抑制するとともに、前記固定磁気近点離角の検出に関する誤差修正を行うように構成されたものである、請求項１６に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>
+  前記磁力計コントローラが、前記相関アルゴリズムに基づいて、前記固定磁気近点離角の前記検出に関連する信頼性スコアを生成するように構成されており、前記磁力計コントローラが、前記信頼性スコアおよび前記磁界測定結果を実時間で実装することによって、地球座標フレームに対する前記移動体の前記速度を計算する、請求項１８に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>
+  前記移動体上に構成された前記少なくとも１つの航法センサが、ジャイロスコープおよび加速度計のうちの少なくとも一方を備え、前記航法コントローラが、前記磁気近点離角データに基づいて、前記ジャイロスコープおよび前記加速度計のうちの前記少なくとも一方に関連する誤差を実質的に軽減するように構成された、請求項１６に記載の慣性航法システム。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>
+  慣性航法システムであって、
+  移動体上に構成された少なくとも１つの航法センサおよび磁気近点離角データに基づいて、前記移動体の運動に関連する慣性データを生成するように構成された航法コントローラと、
+  前記移動体上の複数の位置それぞれに分散して配置された複数の磁力計を具備した磁気近点離角ＩＮＳ補助システムであり、前記複数の磁力計それぞれにおける固定磁気近点離角の磁界測定結果に基づいて前記磁気近点離角データを生成するように構成された、磁気近点離角ＩＮＳ補助システムと、
+  を備えた慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>
+  前記複数の磁力計が、互いに所定の距離で前記複数の位置に配置されることにより、前記所定の距離に関し、前記複数の磁力計それぞれにおける磁界測定結果に基づいて、前記磁気近点離角ＩＮＳ補助システムが前記磁気近点離角データを生成するように構成されたものである、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>
+  前記複数の磁力計が、前記移動体の前部に配置された第１の磁力計と前記移動体の後部に配置された第２の磁力計とを備え、前記第１および第２の磁力計が、移動体前進運動の方向に対応した前記移動体の実質的な中心軸に沿って、互いに所定の距離で配置された、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>
+  前記複数の磁力計が、前記移動体の左舷に配置された第３の磁力計と、前記移動体の右舷に配置された第４の磁力計とをさらに備え、前記第３および第４の磁力計が、前記実質的な中心軸に対して略直交する前記移動体の軸に沿って、互いに所定の距離で配置された、請求項３に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>
+  前記磁気近点離角データが、前記航法コントローラによる実装により、前記複数の磁力計それぞれにおける前記磁界測定結果に基づいて、地球座標フレームに対する前記移動体の速度を計算する、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>
+  前記磁気近点離角ＩＮＳ補助システムが、前記複数の磁力計それぞれから前記磁界測定結果を受信し、前記磁界測定結果の比較に基づいて、前記固定磁気近点離角の位置に関連する複合磁界測定結果として前記磁気近点離角データを生成するように構成された磁力計コントローラを備えた、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>
+  前記磁力計コントローラが、前記磁界測定結果に基づいて相関アルゴリズムを実装するように構成され、前記相関アルゴリズムが、前記磁界測定結果それぞれに対する特徴照合を行って、前記磁界測定結果に関連するノイズを実質的に抑制するとともに、前記固定磁気近点離角の検出に関する誤差修正を行うように構成されたものである、請求項６に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>
+  前記磁力計コントローラが、前記相関アルゴリズムに基づいて、前記固定磁気近点離角の検出に関連する信頼性スコアを生成するように構成されており、前記磁力計コントローラが、前記信頼性スコアおよび前記磁界測定結果を実時間で実装することによって、地球座標フレームに対する前記移動体の速度を計算する、請求項７に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>
+  前記複数の磁力計が、前記移動体に沿った少なくとも２次元のアレイに分散しており、前記磁気近点離角ＩＮＳ補助システムが、前記少なくとも２次元の磁力計アレイに基づいて、少なくとも２つの座標フレーム軸における速度、加速度、方位、および位置のうちの少なくとも１つを計算するように構成されたものである、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>
+  前記移動体上に構成された前記少なくとも１つの航法センサが、ジャイロスコープおよび加速度計のうちの少なくとも一方を備え、前記航法コントローラが、前記磁気近点離角データに基づいて、前記ジャイロスコープおよび前記加速度計のうちの前記少なくとも一方に関連する誤差を実質的に軽減するように構成されたものである、請求項１に記載の慣性航法システム。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>
+  移動体の慣性航法システムにおける磁気近点離角検出支援を提供する方法であって、
+  前記移動体周りのアレイ状に配置された複数の磁力計を介して、地球座標フレームに対する固定磁気近点離角に関連する磁界測定結果を取得するステップと、
+  前記移動体周りの前記複数の磁力計それぞれに関連する複数の位置間の所定の距離に対する前記磁界測定結果に関連する磁気近点離角データを提供するステップと、
+  前記慣性航法システムを介した前記磁気近点離角データに基づいて、地球座標フレームに対する前記移動体の速度を計算するステップと、
+  を備える方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>
+  移動体上に構成された少なくとも１つの航法センサおよび前記磁気近点離角データに基づいて、前記移動体の運動に関連する慣性データを生成するステップであり、前記慣性データが、前記移動体の速度および位置のうちの少なくとも一方を含む、ステップをさらに備える請求項１１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>
+  前記磁界測定結果に基づいて相関アルゴリズムを実装するステップと、
+  前記相関アルゴリズムに基づいて前記磁界測定結果を比較することにより、前記磁界測定結果それぞれに対する特徴照合を行って、前記磁界測定結果に関連するノイズを実質的に抑制するとともに、前記固定磁気近点離角の検出に関する誤差修正を行うステップと、
+  をさらに備える請求項１１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>
+  前記相関アルゴリズムに基づいて、前記固定磁気近点離角の検出に関連する信頼性スコアを生成するステップをさらに備え、前記移動体の速度を計算するステップが、実時間で前記信頼性スコアおよび前記磁界測定結果に基づいて、前記移動体の速度を計算するサブステップを含む、請求項１３に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0015">
+          <business:ClaimText>
+  ジャイロスコープおよび加速度計のうちの少なくとも一方に基づいて、前記移動体に関連する慣性データを生成するステップと、
+  前記磁気近点離角データに基づいて、前記ジャイロスコープおよび前記加速度計のうちの前記少なくとも一方に関連する前記慣性データの誤差修正を行うステップと、
+  をさらに備える請求項１１に記載の方法。
+</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>

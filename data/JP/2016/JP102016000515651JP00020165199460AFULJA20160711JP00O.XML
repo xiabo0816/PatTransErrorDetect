@@ -1,0 +1,1715 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102016000515651JP00020165199460AFULJA20160711JP00O.XML" dateProduced="20160812" status="C" lang="ja" country="JP" docNumber="2016519946" kind="A" datePublication="20160711">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519946</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016519946</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20160711</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公表特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102016000515651</base:DocNumber>
+        <base:Date>20150204</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2016515651</base:DocNumber>
+        <base:Date>20150204</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>102014000050868</base:DocNumber>
+        <base:Date>20140214</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>201410050868.2</base:DocNumber>
+        <base:Date>20140214</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>1</business:MainGroup>
+        <business:Subgroup>21</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N   1/21        20060101AFI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>08</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12P  13/08        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>P</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>24</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12P  13/24        20060101ALI20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="4">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>15</business:MainGroup>
+        <business:Subgroup>09</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N  15/09        20060101ALN20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="5">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>C</business:Section>
+        <business:MainClass>12</business:MainClass>
+        <business:Subclass>N</business:Subclass>
+        <business:MainGroup>15</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>N</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20160613</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>C12N  15/00        20060101ALN20160613BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">C12N1/21</business:FI>
+      <business:FI type="secondary">C12P13/08 A</business:FI>
+      <business:FI type="secondary">C12P13/24 C</business:FI>
+      <business:FI type="secondary">C12P13/08 D</business:FI>
+      <business:FI type="secondary">C12P13/08 C</business:FI>
+      <business:FI type="secondary">C12P13/24 A</business:FI>
+      <business:FI type="additional">C12N15/00 A</business:FI>
+      <business:FI type="additional">C12N15/00</business:FI>
+      <business:FClass>
+        <business:FTerm>4B064AE05</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064AE10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064AE25</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064AE26</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064AE35</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064AE36</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064CA19</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064CC24</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064DA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B064DA10</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B065AA24X</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B065AB01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B065AC14</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B065BA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B065CA41</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>4B065CA44</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B064</business:Theme>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>4B065</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">産Ｌ－アミノ酸の組換え菌、その構築方法およびＬ－アミノ酸の生産方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>中国科学院微生物研究所</base:Name>
+            <base:RegisteredNumber>512198637</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>中華人民共和国  １００１０１  北京市朝陽区北辰西路１号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>温  廷益</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>中華人民共和国北京市朝陽区北辰西路１号院３号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>商  秀玲</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>中華人民共和国北京市朝陽区北辰西路１号院３号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>張  ▲うん▼</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>中華人民共和国北京市朝陽区北辰西路１号院３号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>劉  樹文</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>中華人民共和国北京市朝陽区北辰西路１号院３号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>梁  勇</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>中華人民共和国北京市朝陽区北辰西路１号院３号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="6" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>張  宇</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>中華人民共和国北京市朝陽区北辰西路１号院３号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>小谷  悦司</base:Name>
+            <base:RegisteredNumber>100067828</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>小谷  昌崇</base:Name>
+            <base:RegisteredNumber>100115381</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>宇佐美  綾</base:Name>
+            <base:RegisteredNumber>100162765</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:DesignationOfStates>
+      <business:DesignationPCT>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>AP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SZ</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>ZM</base:WIPOST3Code>
+          <base:WIPOST3Code>ZW</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>EP</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>BE</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CY</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>FR</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GR</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>IE</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>IT</base:WIPOST3Code>
+          <base:WIPOST3Code>LT</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LV</base:WIPOST3Code>
+          <base:WIPOST3Code>MC</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MT</base:WIPOST3Code>
+          <base:WIPOST3Code>NL</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SI</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+        </base:Regional>
+        <base:Regional>
+          <base:Region>
+            <base:WIPOST3Code>OA</base:WIPOST3Code>
+          </base:Region>
+          <base:WIPOST3Code>BF</base:WIPOST3Code>
+          <base:WIPOST3Code>BJ</base:WIPOST3Code>
+          <base:WIPOST3Code>CF</base:WIPOST3Code>
+          <base:WIPOST3Code>CG</base:WIPOST3Code>
+          <base:WIPOST3Code>CI</base:WIPOST3Code>
+          <base:WIPOST3Code>CM</base:WIPOST3Code>
+          <base:WIPOST3Code>GA</base:WIPOST3Code>
+          <base:WIPOST3Code>GN</base:WIPOST3Code>
+          <base:WIPOST3Code>GQ</base:WIPOST3Code>
+          <base:WIPOST3Code>GW</base:WIPOST3Code>
+          <base:WIPOST3Code>KM</base:WIPOST3Code>
+          <base:WIPOST3Code>ML</base:WIPOST3Code>
+          <base:WIPOST3Code>MR</base:WIPOST3Code>
+          <base:WIPOST3Code>NE</base:WIPOST3Code>
+          <base:WIPOST3Code>SN</base:WIPOST3Code>
+          <base:WIPOST3Code>TD</base:WIPOST3Code>
+          <base:WIPOST3Code>TG</base:WIPOST3Code>
+        </base:Regional>
+        <base:National>
+          <base:WIPOST3Code>AE</base:WIPOST3Code>
+          <base:WIPOST3Code>AG</base:WIPOST3Code>
+          <base:WIPOST3Code>AL</base:WIPOST3Code>
+          <base:WIPOST3Code>AM</base:WIPOST3Code>
+          <base:WIPOST3Code>AO</base:WIPOST3Code>
+          <base:WIPOST3Code>AT</base:WIPOST3Code>
+          <base:WIPOST3Code>AU</base:WIPOST3Code>
+          <base:WIPOST3Code>AZ</base:WIPOST3Code>
+          <base:WIPOST3Code>BA</base:WIPOST3Code>
+          <base:WIPOST3Code>BB</base:WIPOST3Code>
+          <base:WIPOST3Code>BG</base:WIPOST3Code>
+          <base:WIPOST3Code>BH</base:WIPOST3Code>
+          <base:WIPOST3Code>BN</base:WIPOST3Code>
+          <base:WIPOST3Code>BR</base:WIPOST3Code>
+          <base:WIPOST3Code>BW</base:WIPOST3Code>
+          <base:WIPOST3Code>BY</base:WIPOST3Code>
+          <base:WIPOST3Code>BZ</base:WIPOST3Code>
+          <base:WIPOST3Code>CA</base:WIPOST3Code>
+          <base:WIPOST3Code>CH</base:WIPOST3Code>
+          <base:WIPOST3Code>CL</base:WIPOST3Code>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:WIPOST3Code>CO</base:WIPOST3Code>
+          <base:WIPOST3Code>CR</base:WIPOST3Code>
+          <base:WIPOST3Code>CU</base:WIPOST3Code>
+          <base:WIPOST3Code>CZ</base:WIPOST3Code>
+          <base:WIPOST3Code>DE</base:WIPOST3Code>
+          <base:WIPOST3Code>DK</base:WIPOST3Code>
+          <base:WIPOST3Code>DM</base:WIPOST3Code>
+          <base:WIPOST3Code>DO</base:WIPOST3Code>
+          <base:WIPOST3Code>DZ</base:WIPOST3Code>
+          <base:WIPOST3Code>EC</base:WIPOST3Code>
+          <base:WIPOST3Code>EE</base:WIPOST3Code>
+          <base:WIPOST3Code>EG</base:WIPOST3Code>
+          <base:WIPOST3Code>ES</base:WIPOST3Code>
+          <base:WIPOST3Code>FI</base:WIPOST3Code>
+          <base:WIPOST3Code>GB</base:WIPOST3Code>
+          <base:WIPOST3Code>GD</base:WIPOST3Code>
+          <base:WIPOST3Code>GE</base:WIPOST3Code>
+          <base:WIPOST3Code>GH</base:WIPOST3Code>
+          <base:WIPOST3Code>GM</base:WIPOST3Code>
+          <base:WIPOST3Code>GT</base:WIPOST3Code>
+          <base:WIPOST3Code>HN</base:WIPOST3Code>
+          <base:WIPOST3Code>HR</base:WIPOST3Code>
+          <base:WIPOST3Code>HU</base:WIPOST3Code>
+          <base:WIPOST3Code>ID</base:WIPOST3Code>
+          <base:WIPOST3Code>IL</base:WIPOST3Code>
+          <base:WIPOST3Code>IN</base:WIPOST3Code>
+          <base:WIPOST3Code>IR</base:WIPOST3Code>
+          <base:WIPOST3Code>IS</base:WIPOST3Code>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+          <base:WIPOST3Code>KE</base:WIPOST3Code>
+          <base:WIPOST3Code>KG</base:WIPOST3Code>
+          <base:WIPOST3Code>KN</base:WIPOST3Code>
+          <base:WIPOST3Code>KP</base:WIPOST3Code>
+          <base:WIPOST3Code>KR</base:WIPOST3Code>
+          <base:WIPOST3Code>KZ</base:WIPOST3Code>
+          <base:WIPOST3Code>LA</base:WIPOST3Code>
+          <base:WIPOST3Code>LC</base:WIPOST3Code>
+          <base:WIPOST3Code>LK</base:WIPOST3Code>
+          <base:WIPOST3Code>LR</base:WIPOST3Code>
+          <base:WIPOST3Code>LS</base:WIPOST3Code>
+          <base:WIPOST3Code>LU</base:WIPOST3Code>
+          <base:WIPOST3Code>LY</base:WIPOST3Code>
+          <base:WIPOST3Code>MA</base:WIPOST3Code>
+          <base:WIPOST3Code>MD</base:WIPOST3Code>
+          <base:WIPOST3Code>ME</base:WIPOST3Code>
+          <base:WIPOST3Code>MG</base:WIPOST3Code>
+          <base:WIPOST3Code>MK</base:WIPOST3Code>
+          <base:WIPOST3Code>MN</base:WIPOST3Code>
+          <base:WIPOST3Code>MW</base:WIPOST3Code>
+          <base:WIPOST3Code>MX</base:WIPOST3Code>
+          <base:WIPOST3Code>MY</base:WIPOST3Code>
+          <base:WIPOST3Code>MZ</base:WIPOST3Code>
+          <base:WIPOST3Code>NA</base:WIPOST3Code>
+          <base:WIPOST3Code>NG</base:WIPOST3Code>
+          <base:WIPOST3Code>NI</base:WIPOST3Code>
+          <base:WIPOST3Code>NO</base:WIPOST3Code>
+          <base:WIPOST3Code>NZ</base:WIPOST3Code>
+          <base:WIPOST3Code>OM</base:WIPOST3Code>
+          <base:WIPOST3Code>PA</base:WIPOST3Code>
+          <base:WIPOST3Code>PE</base:WIPOST3Code>
+          <base:WIPOST3Code>PG</base:WIPOST3Code>
+          <base:WIPOST3Code>PH</base:WIPOST3Code>
+          <base:WIPOST3Code>PL</base:WIPOST3Code>
+          <base:WIPOST3Code>PT</base:WIPOST3Code>
+          <base:WIPOST3Code>QA</base:WIPOST3Code>
+          <base:WIPOST3Code>RO</base:WIPOST3Code>
+          <base:WIPOST3Code>RS</base:WIPOST3Code>
+          <base:WIPOST3Code>RU</base:WIPOST3Code>
+          <base:WIPOST3Code>RW</base:WIPOST3Code>
+          <base:WIPOST3Code>SA</base:WIPOST3Code>
+          <base:WIPOST3Code>SC</base:WIPOST3Code>
+          <base:WIPOST3Code>SD</base:WIPOST3Code>
+          <base:WIPOST3Code>SE</base:WIPOST3Code>
+          <base:WIPOST3Code>SG</base:WIPOST3Code>
+          <base:WIPOST3Code>SK</base:WIPOST3Code>
+          <base:WIPOST3Code>SL</base:WIPOST3Code>
+          <base:WIPOST3Code>SM</base:WIPOST3Code>
+          <base:WIPOST3Code>ST</base:WIPOST3Code>
+          <base:WIPOST3Code>SV</base:WIPOST3Code>
+          <base:WIPOST3Code>SY</base:WIPOST3Code>
+          <base:WIPOST3Code>TH</base:WIPOST3Code>
+          <base:WIPOST3Code>TJ</base:WIPOST3Code>
+          <base:WIPOST3Code>TM</base:WIPOST3Code>
+          <base:WIPOST3Code>TN</base:WIPOST3Code>
+          <base:WIPOST3Code>TR</base:WIPOST3Code>
+          <base:WIPOST3Code>TT</base:WIPOST3Code>
+          <base:WIPOST3Code>TZ</base:WIPOST3Code>
+          <base:WIPOST3Code>UA</base:WIPOST3Code>
+          <base:WIPOST3Code>UG</base:WIPOST3Code>
+          <base:WIPOST3Code>US</base:WIPOST3Code>
+        </base:National>
+      </business:DesignationPCT>
+    </business:DesignationOfStates>
+    <business:PCTOrRegionalApplicationData>
+      <base:DocumentID>
+        <base:DocNumber>CN2015072220</base:DocNumber>
+        <base:Date>20150204</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalApplicationData>
+    <business:PCTOrRegionalPublishingData>
+      <base:DocumentID>
+        <base:DocNumber>WO2015120775</base:DocNumber>
+        <base:Date>20150820</base:Date>
+      </base:DocumentID>
+    </business:PCTOrRegionalPublishingData>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <base:TotalPageCount>57</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>  本発明は産Ｌ－アミノ酸の組換え菌、その構築方法およびＬ－アミノ酸の生産方法を開示している。本発明に係る産Ｌ－アミノ酸の組換え菌は、出発菌株と比べて、低下のグルコース－６－リン酸イソメラーゼＰｇｉの発現と上昇のグルコース－６－リン酸デヒドロゲナーゼＺｗｆ－ＯｐｃＡの発現を有し、前記出発菌株が目的アミノ酸を蓄積できる菌株である。本発明に係る組換え菌を培養して発酵させることで、生産量の向上の重ね合わせ効果が観察され、Ｌ－アミノ酸の生産量が著しく向上する。本発明の組み合わせの改変計画は新規Ｌ－アミノ酸の発酵生産量を向上させる方法を開発し、それによって実際にＬ－アミノ基酸の細菌発酵生産に使用することができる。【選択図】図１</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は微生物の発酵分野に関するものであり、具体的に、本発明は微生物発酵法によるＬ－アミノ酸の生産方法およびその専用組換え菌に関するものである。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt>
+      <base:Paragraphs num="0002">
+  微生物発酵法によるＬ－アミノ酸の生産は現在最も広く応用されているアミノ酸の生産方法であり、アミノ酸生産菌の発酵生産性能は発酵法が大規模な工業的応用を実現できるかどうかに影響する肝心な要素である。いまだに、少数種類のアミノ酸は、発酵性能に優れた生産菌株が乏しいため、まだ発酵法で生産することが実現されていない。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  既に発酵法で生産されたアミノ酸の生産菌株について、生産コストを節約するために、その産酸率や糖酸の転換率はさらに向上させる余地がある。Ｌ－ヒスチジンを例にして、Ｌ－ヒスチジンは人や動物の第９種類の必須アミノ酸であり、機体の成長発育、抗酸化や免疫調節など重要な生理的過程に参与し、重要な薬用アミノ酸であり、心臓病、貧血、胃潰瘍の治療に用いられる輸液製剤である。現在、Ｌ－ヒスチジン生産は主に豚（牛）血粉を原料とするたんぱく質加水分解の抽出方法を採用するが、たんぱく質加水分解の抽出方法は原料コストが高くてしかも利用率が低く、抽出プロセスが複雑で環境汚染がひどいなどの欠点があり、Ｌ－ヒスチジンの生産コストが高くて、価格が高くなる。微生物発酵法によるＬ－ヒスチジンの生産はまだ大規模な工業的応用が実施されていない。Ｌ－ヒスチジンの生物合成はヌクレオチド合成との間で前駆体の競争、複雑な代謝制御メカニズムや合成過程中での高エネルギー需要などの特徴を持つため、そのエンジニアリング菌（Ｅｎｇｉｎｅｅｒｉｎｇ  ｂａｃｔｅｒｉａ）の産酸率や転換率が相対的に低くなる。Ｌ－ヒスチジン生産菌株の選択育種は主に伝統的な誘発突然変異体のスクリーニングや誘発突然変異菌株に遺伝子工学による改変するなどの方法を採用する。誘発突然変異体のスクリーニングにより得られた菌株は大量のドミナントネガティブ 突然変異体が蓄積され、菌株成長が遅れて、環境耐性が低下し、栄養の需要が高まるなどの問題につながる。これらの欠陥は菌株の工業的応用を制限している。現在、システム代謝工学によるＬ－ヒスチジンエンジニアリング菌の改変構築に関する研究はわずか一篇の記事がある（非特許文献１）。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  この研究は野生型大腸菌ＭＧ１６５５を出発菌株として、ｈｉｓＧ遺伝子にＥ２７１Ｋ突然変異を導入して、ヒスチジンによるフィードバック阻害を弱め、ヒスチジンの合成オペロンの転写減衰因子ｈｉｓＬをノックアウトし、ヒスチジンの合成オペロンの発現を上昇し、同時にｐｕｒＲ遺伝子をノックアウトし、ヒスチジン合成前駆体ＰＲＰＰの合成を増加し、１株の産Ｌ－ヒスチジンのエンジニアリング菌を構築する。同研究はＬ－ヒスチジン末端合成経路の改造をしただけで、Ｌ－ヒスチジンの生産量はわずか４．９ｇ／Ｌであり、工業的応用の実現と大きなギャップがある。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  Ｌ－ヒスチジン生物合成の主なキャリア経路はペントースリン酸経路であり、グルコースを炭素源とするとき、ペントースリン酸経路を経由してＬ－ヒスチジン合成前駆体ホスホリボシルピロリン酸（ＰＲＰＰ）を生成し、ＰＲＰＰはヌクレオチド合成経路やＬ－ヒスチジン合成経路に同時に入って、ヌクレオチド合成経路を経由してＬ－ヒスチジン合成のもう一つの前駆体ＡＴＰを生成する。
+</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  また、ペントースリン酸経路は多種のアミノ酸（例えば、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンやＬ－ヒドロキシプロリンなど）の合成に必要なコファクターＮＡＤＰＨの主要生成経路でもあり、１分子のＬ－リジンを合成するのに４分子のＮＡＤＰＨを消耗し、１分子のＬ－トレオニン、Ｌ－プロリンやＬ－ヒドロキシプロリンを合成するのに３分子のＮＡＤＰＨを消耗し、１分子のＬ－バリンを合成するのに２分子のＮＡＤＰＨを消耗する。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  解糖経路のグルコース－６－リン酸イソメラーゼを失活させるすることにより、炭素代謝流をペントースリン酸経路にガイドすることができるが、菌株の成長とグルコース代謝能力が弱まることにつながり、発酵生産中の菌株の応用に役立たない（非特許文献２）。本発明者らの前期の研究の結果は、グルコース－６－リン酸イソメラーゼコード遺伝子ｐｇｉをノックアウトすることにより、菌株の成長とグルコース代謝能力の深刻な低下につながるとともに、Ｌ－ヒスチジンの生産量も低下することを確認した。また、本発明者らはグルコース－６－リン酸デヒドロゲナーゼの発現量だけを増加させると、Ｌ－ヒスチジンの生産量の向上に効果がよくないことを発見した。
+</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:CitationList>
+      <business:NPL>
+        <base:Paragraphs num="0008">
+          <business:NPLCitation num="0001">
+            <base:Text>Ｄｏｒｏｓｈｅｎｋｏ，Ｖ．Ｇ．，Ｌｏｂａｎｏｖ，Ａ．Ｏ．，Ｆｅｄｏｒｉｎａ，Ｅ．Ａ．，２０１３．Ｔｈｅ  ｄｉｒｅｃｔｅｄ  ｍｏｄｉｆｉｃａｔｉｏｎ  ｏｆ  Ｅｓｃｈｅｒｉｃｈｉａ  ｃｏｌｉ  ＭＧ１６５５  ｔｏ  ｏｂｔａｉｎ  ｈｉｓｔｉｄｉｎｅ－ｐｒｏｄｕｃｉｎｇ  ｍｕｔａｎｔｓ．Ａｐｐｌ  Ｂｉｏｃｈｅｍ  Ｍｉｃｒｏｂｉｏｌ．４９，１３０－１３５．</base:Text>
+          </business:NPLCitation>
+          <business:NPLCitation num="0002">
+            <base:Text>Ｍａｒｘ，Ａ．，Ｈａｎｓ，Ｓ．，Ｍｏｃｋｅｌ，Ｂ．，Ｂａｔｈｅ，Ｂ．，ｄｅＧｒａａｆ，Ａ．Ａ．，ＭｃＣｏｒｍａｃｋ，Ａ．Ｃ．，Ｓｔａｐｌｅｔｏｎ，Ｃ．，Ｂｕｒｋｅ，Ｋ．，Ｏ’Ｄｏｎｏｈｕｅ，Ｍ．，Ｄｕｎｉｃａｎ，Ｌ．Ｋ．，２００３．Ｍｅｔａｂｏｌｉｃ  ｐｈｅｎｏｔｙｐｅ  ｏｆ  ｐｈｏｓｐｈｏｇｌｕｃｏｓｅ  ｉｓｏｍｅｒａｓｅ  ｍｕｔａｎｔｓ  ｏｆ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ．ＪＢｉｏｔｅｃｈｎｏｌ．１０４，１８５－１９７．</base:Text>
+          </business:NPLCitation>
+        </base:Paragraphs>
+      </business:NPL>
+    </business:CitationList>
+    <business:InventionSummary>
+      <business:TechnicalProblem>
+        <base:Paragraphs num="0009">
+  本発明はＬ－アミノ酸、特にペントースリン酸経路により供給された前駆体やコファクターＮＡＤＰＨによる合成されるＬ－アミノ酸、例えばＬ－ヒスチジン、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンやＬ－ヒドロキシプロリンの生産量を向上できる組換え菌およびその構築方法、ならびに前記組換え菌を利用してＬ－アミノ酸を生産する方法を提供することを目的とする。
+</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Paragraphs num="0010">
+  そのため、本発明の第１の態様は産Ｌ－アミノ酸の組換え菌を提供し、前記組換え菌は出発菌株に比べて、低下のグルコース－６－リン酸イソメラーゼＰｇｉの発現と上昇のグルコース－６－リン酸デヒドロゲナーゼＺｗｆ－ＯｐｃＡの発現を有し、前記出発菌株が目的アミノ酸を蓄積できる菌株である。
+</base:Paragraphs>
+        <base:Paragraphs num="0011">
+  一実施の形態により、原始菌株に染色体を突然変異誘発させまたは遺伝子工学的手法を利用することにより、前記出発菌株を得る。目的アミノ酸を得るために、前記出発菌株は目的アミノ酸を蓄積できる既存の菌株であってよく、適切な原始菌株に遺伝子工学的手法を利用して得られた、目的アミノ酸を蓄積できる菌株であってよい。高産量のエンジニアリング菌を得るために、目的アミノ酸についてより高い生産量を持つ菌株を出発菌株とすることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0012">
+  本発明でいう目的アミノ酸とは、ペントースリン酸経路により供給された前駆体やコファクターＮＡＤＰＨによる合成されるＬ－アミノ酸を指す。好ましくは、前記目的アミノ酸はＬ－ヒスチジン、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンまたはＬ－ヒドロキシプロリンである。
+</base:Paragraphs>
+        <base:Paragraphs num="0013">
+  一実施の形態により、前記組換え菌は出発菌株に比べて、ｐｇｉ遺伝子の発現を弱くさせるとともに、ｚｗｆ－ｏｐｃＡ遺伝子の発現を強くさせる。具体的に、前記組換え菌の染色体上のｐｇｉ遺伝子は既に失活し、ノックアウトされることが好ましく、あるいはｐｇｉ遺伝子の調節因子が既に低転写または低発現活性の調節因子に置き換えられるとともに、前記組換え菌には２つ以上のコピーのｚｗｆ－ｏｐｃＡ遺伝子があり、またはｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターが例えば原始菌株のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターのような強力なプロモーターに置換されることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0014">
+  産Ｌ－ヒスチジンの組換え菌について、原始菌株に比べてその出発菌株はＬ－ヒスチジンの合成オペロンｈｉｓＥＧ遺伝子とｈｉｓＤＣＢ遺伝子の発現を強くさせる。具体的に、強力なプロモーターで前記の遺伝子のプロモーターを置き換える。例えば、原始菌株染色体上のＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターで、それぞれ原始菌株染色体上のｈｉｓＥＧとｈｉｓＤＣＢのプロモーターを置き換える。より好ましくは、原始菌株に比べて前記出発菌株はまたＰＲＰＰ合成酵素ＰｒｓＡの発現を強くさせる。さらに好ましくは、前記出発菌株には２つ以上のコピーのｐｒｓＡ遺伝子があり、あるいは強力なプロモーターでｐｒｓＡ遺伝子プロモーターを置き換え、例えば原始菌株のＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターでｐｒｓＡ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0015">
+  産Ｌ－リジンの組換え菌について、原始菌株に比べてその出発菌株はｄａｐＡ遺伝子（ジヒドロジピコリン酸シンターゼのコード遺伝子）やｌｙｓＣ遺伝子（アスパルトキナーゼのコード遺伝子）の発現を強くさせる（Ｃｒｅｍｅｒ，Ｊ．，Ｅｇｇｅｌｉｎｇ，Ｌ．，Ｓａｈｍ，Ｈ．，１９９１．Ｃｏｎｔｒｏｌ  ｏｆ  ｔｈｅ  ｌｙｓｉｎｅ  ｂｉｏｓｙｎｔｈｅｓｉｓ  ｓｅｑｕｅｎｃｅ  ｉｎ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ  ａｓ  ａｎａｌｙｚｅｄ  ｂｙ  ｏｖｅｒｅｘｐｒｅｓｓｉｏｎ  ｏｆ  ｔｈｅ  ｉｎｄｉｖｉｄｕａｌ  ｃｏｒｒｅｓｐｏｎｄｉｎｇ  ｇｅｎｅｓ．Ａｐｐｌ  Ｅｎｖｉｒｏｎ  Ｍｉｃｒｏｂｉｏｌ．５７，１７４６－１７５２）。具体的に、前記出発菌株には２つ以上のコピーのｄａｐＡ遺伝子またはｌｙｓＣ遺伝子があり、あるいは強力なプロモーターでｄａｐＡ遺伝子またはｌｙｓＣ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0016">
+  産Ｌ－バリンの組換え菌について、原始菌株に比べてその出発菌株はバリン合成遺伝子ｉｌｖＢＮＣＥの発現を強くさせる（Ｂｌｏｍｂａｃｈ，Ｂ．，Ｓｃｈｒｅｉｎｅｒ，Ｍ．Ｅ．，Ｈｏｌａｔｋｏ，Ｊ．，Ｂａｒｔｅｋ，Ｔ．，Ｏｌｄｉｇｅｓ，Ｍ．，Ｅｉｋｍａｎｎｓ，Ｂ．Ｊ．，２００７．Ｌ－Ｖａｌｉｎｅ  ｐｒｏｄｕｃｔｉｏｎ  ｗｉｔｈ  ｐｙｒｕｖａｔｅ  ｄｅｈｙｄｒｏｇｅｎａｓｅ  ｃｏｍｐｌｅｘ－ｄｅｆｉｃｉｅｎｔ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ．  Ａｐｐｌ  Ｅｎｖｉｒｏｎ  Ｍｉｃｒｏｂｉｏｌ．７３，２０７９－２０８４）。具体的に、前記出発菌株には２つ以上のコピーのｉｌｖＢＮＣＥ遺伝子があり、あるいは強力なプロモーターでｉｌｖＢＮＣＥ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0017">
+  産Ｌ－トレオニンの組換え菌について、原始菌株に比べてその出発菌株はトレオニン合成（経路）遺伝子ｈｏｍとｔｈｒＢの発現を強くさせる（Ｒｅｉｎｓｃｈｅｉｄ，Ｄ．  Ｊ．，Ｋｒｏｎｅｍｅｙｅｒ，Ｗ．，Ｅｇｇｅｌｉｎｇ，Ｌ．，Ｅｉｋｍａｎｎｓ，Ｂ．Ｊ．，Ｓａｈｍ，Ｈ．，１９９４．Ｓｔａｂｌｅ  ｅｘｐｒｅｓｓｉｏｎ  ｏｆ  ｈｏｍ－１－ｔｈｒＢ  ｉｎ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ  ａｎｄ  ｉｔｓ  ｅｆｆｅｃｔ  ｏｎ  ｔｈｅ  ｃａｒｂｏｎ  ｆｌｕｘ  ｔｏ  ｔｈｒｅｏｎｉｎｅ  ａｎｄ  ｒｅｌａｔｅｄ  ａｍｉｎｏ  ａｃｉｄｓ．Ａｐｐｌ  Ｅｎｖｉｒｏｎ  Ｍｉｃｒｏｂｉｏｌ．６０，１２６－１３２）。具体的に、前記出発菌株には２つ以上のコピーのｈｏｍとｔｈｒＢ遺伝子があり、あるいは強力なプロモーターでそれぞれｈｏｍ遺伝子とｔｈｒＢ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0018">
+  産Ｌ－プロリンの組換え菌について、原始菌株に比べてその出発菌株はｏｃｄ遺伝子（オルニチンシクロデアミナーゼコード遺伝子）の発現を強くさせる（Ｊｅｎｓｅｎ，Ｊ．Ｖ．Ｋ．，Ｗｅｎｄｉｓｃｈ，Ｖ．，２０１３．Ｏｒｎｉｔｈｉｎｅ  ｃｙｃｌｏｄｅａｍｉｎａｓｅ－ｂａｓｅｄ  ｐｒｏｌｉｎｅ  ｐｒｏｄｕｃｔｉｏｎ  ｂｙ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ．  Ｍｉｃｒｏｂ  Ｃｅｌｌ  Ｆａｃｔ．１２，６３）。具体的に、前記出発菌株には２つ以上のコピーのｏｃｄ遺伝子があり、あるいは強力なプロモーターでｏｃｄ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0019">
+  産Ｌ－ヒドロキシプロリンの組換え菌について、原始菌株に比べてその出発菌株はｐ４ｈＤ遺伝子（プロリンヒドロキシラーゼコード遺伝子）の発現を強くさせる（Ｙｉ，Ｙ．，Ｓｈｅｎｇ，Ｈ．，Ｌｉ，Ｚ．，Ｙｅ，Ｑ．，２０１４．Ｂｉｏｓｙｎｔｈｅｓｉｓ  ｏｆ  ｔｒａｎｓ－４－ｈｙｄｒｏｘｙｐｒｏｌｉｎｅ  ｂｙ  ｒｅｃｏｍｂｉｎａｎｔ  ｓｔｒａｉｎｓ  ｏｆ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ  ａｎｄ  Ｅｓｃｈｅｒｉｃｈｉａ  ｃｏｌｉ．ＢＭＣ  Ｂｉｏｔｅｃｈｎｏｌ．１４，４４．）。具体的に、前記出発菌株には２つ以上のコピーのｐ４ｈＤ遺伝子があり、あるいは強力なプロモーターでｐ４ｈＤ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0020">
+  産Ｌ－ヒスチジンの組換え菌について、好ましい実施形態により、前記出発菌株に比べて前記組換え菌はＡＩＣＡＲメチルトランスフェラーゼ／ＩＭＰシクロヒドロラーゼＰｕｒＨをより多く発現することができる。好ましくは、前記組換え菌には２つ以上のコピーのｐｕｒＨ遺伝子があり、あるいは例えば前記原始菌株のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターのような強力なプロモーターでｐｕｒＨ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0021">
+  さらに好ましい実施形態により、前記出発菌株に比べて前記組換え菌は弱化のリン酸リボースアミドトランスフェラーゼｐｕｒＦの発現を有する。具体的に、弱いプロモーターでｐｕｒＦ遺伝子のプロモーターを置き換える。好ましくは、前記組換え菌の染色体上で前記原始菌株のＰ<base:Sub>ｈｏｍ</base:Sub>プロモーターでｐｕｒＦ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0022">
+  以上は異なる実施形態で強力なプロモーターを例示したが、強力なプロモーターについて、本発明では特に制限がなく、プロモーター遺伝子の発現を強くさせることができればよい。例を挙げて、本発明に用いられる強力なプロモーターは原始菌株のＰ<base:Sub>ｅｆｔｕ</base:Sub>、Ｐ<base:Sub>ｓｏｄ</base:Sub>、Ｐ<base:Sub>ｇｌｙＡ</base:Sub>、Ｐ<base:Sub>ｐｃｋ</base:Sub>、Ｐ<base:Sub>ｐｇｋ</base:Sub>プロモーターなどがあり、これらに限らない。
+</base:Paragraphs>
+        <base:Paragraphs num="0023">
+  前記原始菌株はコリネバクテリウム属、ミクロバクテリウム属、ブレビバクテリウム属のうちから選ばれる１株の細菌であることが好ましい。前記コリネバクテリウム属の細菌はコリネバクテリウム・グルタミクムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ、コリネバクテリウム・北京Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｐｅｋｉｎｅｎｓｅ、コリネバクテリウム・エフィシエンスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｅｆｆｉｃｉｅｎｓ、コリネバクテリウム・クレナツムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃｒｅｎａｔｕｍ、コリネバクテリウム・サーモアミノゲネスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｔｈｅｒｍｏａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・アミノゼンＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・リリウムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｌｉｌｉｕｍ、コリネバクテリウム・カルーナＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃａｌｌｕｎａｅおよびコリネバクテリウム・ハーキュリスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｈｅｒｃｕｌｉｓのうちから選ばれる１株の細菌であることが好ましい。前記ミクロバクテリウム属の細菌はミクロバクテリウム・アンモニアフィラムＭｉｃｒｏｂａｃｔｅｒｉｕｍ  ａｍｍｏｎｉａｐｈｉｌｕｍのうちから選ばれる１株の細菌であることが好ましい。前記ブレビバクテリウム属の細菌はブレビバクテリウム・フラバムＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｆｌｖｕｍ、ブレビバクテリウム・ラクトファーメンタムＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｌａｃｔｏｆｅｒｍｅｎｔｕｍおよびブレビバクテリウム・アンモニアゲネスＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ａｍｍｏｎｉａｇｅｎｅｓのうちから選ばれる１株の細菌であることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0024">
+  具体的な実施形態により、前記原始菌株は野生型コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２である。
+</base:Paragraphs>
+        <base:Paragraphs num="0025">
+  この場合で、産Ｌ－ヒスチジンの組換え菌について、前記出発菌株の染色体はそれぞれ前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のＬ－ヒスチジンの合成オペロンｈｉｓＥＧとｈｉｓＤＣＢのプロモーターを置き換えるための配列番号７の５’末端から第８６３－１０３８番目のヌクレオチド配列に示すＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターを有し、前記出発菌株が突然変異したＡＴＰ－ホスホリボシルトランスフェラーゼを発現することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0026">
+  前記突然変異したＡＴＰ－ホスホリボシルトランスフェラーゼは配列番号６に示すＡＴＰ  －ホスホリボシルトランスフェラーゼの第２１５番目のアスパラギンがリジンに突然変異し、第２３１番目のロイシンがフェニルアラニンに突然変異し、および第２３５番目のトレオニンがアラニンに突然変異した酵素である。好ましくは、前記出発菌株の染色体は前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のｈｉｓＧ遺伝子を置き換えるための配列番号４の第１００７－１８５２番目のヌクレオチド配列に示すｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子を有する。
+</base:Paragraphs>
+        <base:Paragraphs num="0027">
+  好ましい実施形態により、前記出発菌株の染色体は前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のｐｒｓＡ遺伝子のプロモーターを置き換えるための配列番号１１の５’末端から第６５６－８４７番目のヌクレオチド配列に示すＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターを有する。
+</base:Paragraphs>
+        <base:Paragraphs num="0028">
+  もう１つの好ましい実施形態により、前記出発菌株は２つ以上のコピーのｐｒｓＡ遺伝子とｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子を有する。前記ｐｒｓＡ遺伝子は、配列番号５に示すＰｒｓＡをコードする遺伝子、および前記ＰｒｓＡと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつＰｒｓＡ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよい。具体的に、配列表に配列番号４に示す第１５－９９２番目のヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0029">
+  本発明の組換え菌では、前記ｐｇｉ遺伝子は、配列表に配列番号１４に示すＰｇｉをコードする遺伝子、および前記Ｐｇｉと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％、ひいては９９％相同性を有し、かつ前記グルコース－６－リン酸イソメラーゼＰｇｉ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよい。具体的に、配列番号１３に示すヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0030">
+  前記ｚｗｆ－ｏｐｃＡ遺伝子は、配列表に配列番号３に示すＺｗｆ－ＯｐｃＡをコードする遺伝子、および前記Ｚｗｆ－ＯｐｃＡと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記Ｚｗｆ－ＯｐｃＡ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよい。具体的に、配列番号２に示すヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0031">
+  前記Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターは配列番号１２に示す５’末端から第６３５－８３４番目のヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0032">
+  前記ｐｕｒＨ遺伝子は、配列表に配列番号１６に示すｐｕｒＨをコードする遺伝子、および前記ｐｕｒＨと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記ｐｕｒＨ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよく、前記ｐｕｒＨ遺伝子は配列表に配列番号１５に示すヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0033">
+  前記Ｐ<base:Sub>ｈｏｍ</base:Sub>プロモーターは配列番号１８に示す５’末端から第７３６－８６５番目のヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0034">
+  本発明の組換え菌では、ある遺伝子を含む組換えプラスミドを導入してこの遺伝子のコピー数を増加してもよいし、ある遺伝子を菌株染色体の適当な部位に直接に挿入してもよい。組換えプラスミドを構築するためのベクターに制限がなく、例えばｐＸＭＪ１９のようないかなる適切なプラスミドであってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0035">
+  本発明の第２の態様によって、産Ｌ－アミノ酸の組換え菌を構築する方法を提供している。前記方法は、出発菌株のグルコース－６－リン酸イソメラーゼＰｇｉの発現を低下させ、かつ前記出発菌株のグルコース－６－リン酸デヒドロゲナーゼＺｗｆ－ＯｐｃＡの発現を向上させて、前記組換菌を得ることを含み、前記出発菌株は目的アミノ酸を蓄積できる菌株である。
+</base:Paragraphs>
+        <base:Paragraphs num="0036">
+  例えば誘発突然変異または遺伝子工学的手法などの既知の方法により出発菌株を得ることもできるし、既存の目的アミノ酸を生産できる菌株を出発菌株とすることもできる。高産量菌株が好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0037">
+  本発明でいう目的アミノ酸はＬ－ヒスチジン、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンまたはＬ－ヒドロキシプロリンなどであることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0038">
+  一実施形態により、出発菌株のＰｇｉ発現を低下させることは次の方式Ａ）またはＢ）により実現する。
+Ａ）前記出発菌株染色体のｐｇｉ遺伝子を失活し、前記失活はノックアウトであることが好ましい、
+Ｂ）前記出発菌株のｐｇｉ遺伝子の調節因子を低転写あるいは低発現活性の調節因子に置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0039">
+  前記出発菌株のＺｗｆ－ＯｐｃＡの発現を向上させることは次の方式Ｃ）またはＤ）により実現する。
+Ｃ）前記出発菌株のｚｗｆ－ｏｐｃＡ遺伝子のコピー数を増加する、
+Ｄ）前記出発菌株染色体上のｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターを例えば、前記原始菌株染色体上のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターのような強力なプロモーターに置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0040">
+  Ｌ－ヒスチジンについて、一実施形態により、前記出発菌株を得ることは、原始菌株染色体上のＬ－ヒスチジン合成オペロンｈｉｓＥＧとｈｉｓＤＣＢのプロモーターをそれぞれ例えば前記原始菌株染色体上のＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターのような強力なプロモーターに置き換えるステップを含むようにしてよい。さらに好ましくは、前記出発菌株を得ることは、前記出発菌株のＰＲＰＰ合成酵素ＰｒｓＡの発現を向上させるステップをさらに含むようにしてよい。より好ましくは、前記出発菌株のＰｒｓＡの発現を向上させることは次の方式Ｅ）またはＦ）により実現する。
+Ｅ）前記出発菌株のｐｒｓＡ遺伝子のコピー数を増加する、
+Ｆ）前記出発菌株染色体上のｐｒｓＡ遺伝子のプロモーターを例えば前記原始菌株染色体上のＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターのような強力なプロモーターに置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0041">
+  Ｌ－リジンについて、一実施形態により、ｄａｐＡ遺伝子（ジヒドロジピコリン酸シンターゼのコード遺伝子）やｌｙｓＣ遺伝子（アスパルトキナーゼのコード遺伝子）の発現を強くさせることにより、Ｌ－リジンを蓄積できる出発菌株を得るようにしてよい。具体的に、出発菌株のｄａｐＡ遺伝子またはｌｙｓＣ遺伝子のコピー数を増加し、または強力なプロモーターでｄａｐＡ遺伝子またはｌｙｓＣ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0042">
+  Ｌ－バリンについて、一実施形態により、バリン合成遺伝子ｉｌｖＢＮＣＥの発現を強くさせることにより、前記出発菌株を得るようにしてよい。具体的に、前記出発菌株のｉｌｖＢＮＣＥ遺伝子のコピー数を増加し、または強力なプロモーターでｉｌｖＢＮＣＥ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0043">
+  Ｌ－トレオニンについて、一実施形態により、前記出発菌株を得ることは、トレオニン合成遺伝子ｈｏｍとｔｈｒＢの発現を強くさせるステップを含むようにしてよい。具体的に、前記出発菌株のｈｏｍ遺伝子とｔｈｒＢ遺伝子のコピー数を増加し、または強力なプロモーターでそれぞれｈｏｍとｔｈｒＢ遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0044">
+  Ｌ－プロリンについて、一実施形態により、前記出発菌株を得ることは、ｏｃｄ遺伝子（オルニチンシクロデアミナーゼコード遺伝子）の発現を強くさせるステップを含むようにしてよい。具体的に、前記出発菌株のｏｃｄ遺伝子のコピー数を増加し、または強力なプロモーターでｏｃｄ遺伝子遺伝子のプロモーターを置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0045">
+  Ｌ－ヒドロキシプロリンについて、一実施形態により、前記出発菌株を得ることは、ｐ４ｈＤ遺伝子（プロリンヒドロキシラーゼコード遺伝子）の発現を強くさせるステップを含むようにしてよい。具体的に、前記出発菌株のｐ４ｈＤ遺伝子のコピー数を増加し、または強力なプロモーターでｐ４ｈＤ遺伝子のプロモーターを置き換える。好ましい実施形態により、Ｌ－ヒスチジンについて、前記方法は前記組換菌のＡＩＣＡＲメチルトランスフェラーゼ／ＩＭＰシクロヒドロラーゼＰｕｒＨの発現を向上させるステップをさらに含むようにしてよい。好ましくは、前記組換え菌のＰｕｒＨの発現を向上させることが次の方式Ｇ）またはＨ）により実現する。
+Ｇ）前記出発菌株のｐｕｒＨ遺伝子のコピー数を増加する、
+Ｈ）前記出発菌株染色体上のｐｕｒＨ遺伝子のプロモーターを例えば前記原始菌株染色体上のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターのような強力なプロモーターに置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0046">
+  より好ましい実施形態により、Ｌ－ヒスチジンについて、前記方法は前記組換え菌のリン酸リボースアミドトランスフェラーゼＰｕｒＦの発現を弱くさせるステップをさらに含むようにしてよい。具体的に、弱いプロモーターでｐｕｒＦ遺伝子のプロモーターを置き換える。好ましくは、前記組換え菌のＰｕｒＦの発現を弱くさせることは、前記出発菌株染色体上のｐｕｒＦ遺伝子のプロモーターを前記原始菌株染色体上のＰ<base:Sub>ｈｏｍ</base:Sub>プロモーターに置き換えることによって実現される。
+</base:Paragraphs>
+        <base:Paragraphs num="0047">
+  同様に、強力なプロモーターについて特に制限がなく、プロモーター遺伝子の発現を強くさせることができればよい。例を挙げて、原始菌株のＰ<base:Sub>ｅｆｔｕ</base:Sub>、Ｐ<base:Sub>ｓｏｄ</base:Sub>、Ｐ<base:Sub>ｇｌｙＡ</base:Sub>、Ｐ<base:Sub>ｐｃｋ</base:Sub>またはＰ<base:Sub>ｐｇｋ</base:Sub>プロモーターがあり、これらに限らない。
+</base:Paragraphs>
+        <base:Paragraphs num="0048">
+  原始菌株とすることができる菌株はコリネバクテリウム属、ミクロバクテリウム属、ブレビバクテリウム属のうちから選ばれる１株の細菌であることが好ましい。前記コリネバクテリウム属の細菌はコリネバクテリウム・グルタミクムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ、コリネバクテリウム・北京Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｐｅｋｉｎｅｎｓｅ、コリネバクテリウム・エフィシエンスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｅｆｆｉｃｉｅｎｓ、コリネバクテリウム・クレナツムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃｒｅｎａｔｕｍ、コリネバクテリウム・サーモアミノゲネスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｔｈｅｒｍｏａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・アミノゼンＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・リリウムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｌｉｌｉｕｍ、コリネバクテリウム・カルーナＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃａｌｌｕｎａｅおよびコリネバクテリウム・ハーキュリスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｈｅｒｃｕｌｉｓのうちから選ばれる１株の細菌であることが好ましい。前記ミクロバクテリウム属の細菌はミクロバクテリウム・アンモニアフィラムＭｉｃｒｏｂａｃｔｅｒｉｕｍ  ａｍｍｏｎｉａｐｈｉｌｕｍのうちから選ばれる１株の細菌であることが好ましい。前記ブレビバクテリウム属の細菌はブレビバクテリウム・フラバムＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｆｌｖｕｍ、ブレビバクテリウム・ラクトファーメンタムＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｌａｃｔｏｆｅｒｍｅｎｔｕｍおよびブレビバクテリウム・アンモニアゲネスＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ａｍｍｏｎｉａｇｅｎｅｓのうちから選ばれる１株の細菌であることが好ましい。コリネバクテリウム・グルタミクムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍまたはブレビバクテリウム・フラバムＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｆｌｖｕｍが一番好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0049">
+  具体的な実施形態により、原始菌株は野生型コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２である。
+</base:Paragraphs>
+        <base:Paragraphs num="0050">
+  本実施形態では、産Ｌ－ヒスチジンの組換え菌について、前記出発菌株は、この原始菌株を次のようにな遺伝子組換えと遺伝子改変することによりを得ることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0051">
+  前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のＬ－ヒスチジン合成オペロンｈｉｓＥＧとｈｉｓＤＣＢのプロモーターをそれぞれ配列番号７の５’末端から第８６３－１０３８番目のヌクレオチド配列（または配列番号８の５’末端から第７５２－９２７番目のヌクレオチド配列）に示すＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターに置換え、前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２が発現する配列番号６に示すＡＴＰ－ホスホリボシルトランスフェラーゼの第２１５番目のアスパラギンをリジンに突然変異し、第２３１番目のロイシンをフェニルアラニンに突然変異し、および第２３５番目のトレオニンをアラニンに突然変異する。上記突然変異した遺伝子は配列番号４の第１００７－１８５２番目のヌクレオチド配列に示すｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子である。
+</base:Paragraphs>
+        <base:Paragraphs num="0052">
+  好ましい実施形態により、Ｌ－ヒスチジンの蓄積効果のよりよい出発菌株を得るために、さらに前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体を改変し、染色体上のｐｒｓＡ遺伝子のプロモーターを配列番号１１の５’末端から第６５６－８４７番目のヌクレオチド配列に示すＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターに置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0053">
+  もう１つの好ましい実施形態により、前記コリネバクテリウム・グルタミクムＡＡＴＣＣ１３０３２のｐｒｓＡ遺伝子のコピー数の増加や前記コリネバクテリウム・グルタミクムＡＡＴＣＣ１３０３２のｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子のコピー数の増加により、Ｌ－ヒスチジンの蓄積効果のよりよい出発菌株を得ることができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0054">
+  前記ｐｒｓＡ遺伝子は、配列番号５に示すＰｒｓＡをコードする遺伝子、および前記ＰｒｓＡと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつＰｒｓＡ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよい。具体的に、配列表に配列番号４に示す第１５－９９２番目のヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0055">
+  前記ｐｇｉ遺伝子は、配列表に配列番号１４に示すＰｇｉをコードする遺伝子、および前記Ｐｇｉと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％、ひいては９９％相同性を有し、かつ前記グルコース－６－リン酸イソメラーゼ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよい。具体的に、配列番号１３に示すヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0056">
+  前記ｚｗｆ－ｏｐｃＡ遺伝子は、配列表に配列番号３に示すＺｗｆ－ＯｐｃＡをコードする遺伝子、および前記ｚｗｆ－ｏｐｃＡと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記Ｚｗｆ－ＯｐｃＡ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよい。具体的に、配列番号２に示すヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0057">
+  前記Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターは配列番号１２に示す５’末端から第６３５－８３４番目の（または配列番号２０に示す５’末端から第６３４－８３３番目）のヌクレオチド配列である。
+</base:Paragraphs>
+        <base:Paragraphs num="0058">
+  前記ｐｕｒＨ遺伝子は、配列表に配列番号１６に示すｐｕｒＨをコードする遺伝子、および前記ｐｕｒＨと少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記ｐｕｒＨ活性を有する酵素をコードする遺伝子から選ばれる１つものであってよい。具体的に、配列表に配列番号１５に示すヌクレオチド配列であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0059">
+  前記Ｐ<base:Sub>ｈｏｍ</base:Sub>プロモーターは配列番号１８に示す５’末端から第７３６－８６５番目のヌクレオチド配列である。
+</base:Paragraphs>
+        <base:Paragraphs num="0060">
+  本発明の方法では、ある遺伝子のコピー数を増加することは、この遺伝子を含む組換えプラスミドを構築してから、組換えラプラスミドを出発菌株／原始菌株に導入することにより実現することができる。これらの方法はいずれも本技術分野の常用のものであり、ここで、説明を省略する。組換えプラスミドを構築するためのベクターに制限がなく、例えばｐＸＭＪ１９のようないかなる適切なプラスミドであってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0061">
+  本発明の組換え菌は上記の構築方法により得られた組換え菌であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0062">
+  本発明の第３の態様によって、Ｌ－アミノ酸を生産する方法を提供し、上記の組換え菌を培養して発酵させるステップを含む。前記Ｌ－アミノ酸はＬ－ヒスチジン、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンまたはＬ－ヒドロキシプロリンであることが好ましい。
+</base:Paragraphs>
+        <base:Paragraphs num="0063">
+  本発明に係る組換え菌を構築する方法は、出発菌株のグルコース－６－リン酸イソメラーゼの発現を低下させ、かつ前記出発菌株のグルコース－６－リン酸デヒドロゲナーゼとＰＲＰＰ合成酵素の発現を向上させて、組換菌を得る。
+上記方法では、前記出発菌株のグルコース－６－リン酸イソメラーゼの発現を低下させることは次の方式Ａ）またはＢ）により実現する。
+Ａ）前記出発菌株染色体のｐｇｉ遺伝子を失活し、前記失活は具体的にノックアウトである、
+Ｂ）前記出発菌株のｐｇｉ遺伝子の調節因子を低転写あるいは低発現活性の調節因子に置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0064">
+  前記出発菌株のグルコース－６－リン酸デヒドロゲナーゼとＰＲＰＰ合成酵素の発現を向上させることは次の方式Ｃ）またはＤ）により実現する。
+Ｃ）前記出発菌株のｚｗｆ－ｏｐｃＡ遺伝子とｐｒｓＡ遺伝子のコピー数を増加する、
+Ｄ）前記出発菌株染色体上のｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターをＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターに置換え、かつ前記出発菌株染色体上のｐｒｓＡ遺伝子のプロモーターをＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターに置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0065">
+  上記方法で、前記組換え菌を構築する方法は、以下のＩまたはＩＩである。
+Ｉに示す方法は前記出発菌株染色体のｐｇｉ遺伝子をノックアウトし、かつ前記出発菌株のｚｗｆ－ｏｐｃＡ遺伝子とｐｒｓＡ遺伝子のコピー数を増加して、組換え菌を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0066">
+  ＩＩに示す方法は前記出発菌株染色体のｐｇｉ遺伝子をノックアウトし、前記出発菌株染色体上のｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターをＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターに置換え、かつ前記出発菌株染色体上のｐｒｓＡ遺伝子のプロモーターをＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターに置き換える。
+</base:Paragraphs>
+        <base:Paragraphs num="0067">
+  上記方法では、前記ノックアウトはノックアウトしたい遺伝子ｐｇｉの上下流ホモロジーアームを含む断片を前記出発菌株に導入して相同組換えする。
+</base:Paragraphs>
+        <base:Paragraphs num="0068">
+  前記出発菌株のｚｗｆ－ｏｐｃＡ遺伝子とｐｒｓＡ遺伝子のコピー数を増加することは、ｚｗｆ－ｏｐｃＡ遺伝子とｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片を組換えベクターにより前記出発菌株に導入する。
+</base:Paragraphs>
+        <base:Paragraphs num="0069">
+  上記組換えベクターはｚｗｆ－ｏｐｃＡ遺伝子とｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片を発現ベクターに挿入して得られた組換ベクターであり、前記発現ベクターはＩＰＴＧ誘導性発現ベクターｐＸＭＪ１９であってよい。
+</base:Paragraphs>
+        <base:Paragraphs num="0070">
+  本発明の実施例２では、組換えベクターはｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧｆｂｒであり、ｚｗｆ－ｏｐｃＡ遺伝子（配列番号２）をｐＸＭＪ１９のＨｉｎｄＩＩＩとＸｂａＩの部番目の間に挿入し、かつｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片（配列番号４）をＸｂａＩとＳｍａＩの部番目の間に挿入して得られたベクターである。
+</base:Paragraphs>
+        <base:Paragraphs num="0071">
+  前記出発菌株染色体上のｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターをＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターに置換することは、Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターを含む断片を前記出発菌株に導入して相同組換えする。
+</base:Paragraphs>
+        <base:Paragraphs num="0072">
+  前記出発菌株染色体上のｐｒｓＡ遺伝子のプロモーターをＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターに置換することは、Ｐ<base:Sub>ｓｏｄ</base:Sub>プロモーターを含む断片を前記出発菌株に導入して相同組換えする。
+</base:Paragraphs>
+        <base:Paragraphs num="0073">
+  上記方法では、前記ノックアウトしたい遺伝子ｐｇｉの上下流ホモロジーアームを含む断片のヌクレオチド配列は配列表の配列番号１であり、その配列番号１の５’末端から第１－８３４番目のヌクレオチドはノックアウトしたい遺伝子ｐｇｉの上流ホモロジーアームであり、配列番号１の５’末端から第８３５－１６７２番目のヌクレオチドはノックアウトしたい遺伝子ｐｇｉの下流ホモロジーアームであり、遺伝子ｐｇｉのヌクレオチド配列は配列番号１３である。
+</base:Paragraphs>
+        <base:Paragraphs num="0074">
+  前記ｚｗｆ－ｏｐｃＡ遺伝子のヌクレオチド配列は配列表の配列番号２である、
+前記ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片のヌクレオチド配列は配列表の配列番号４である、
+前記組換えベクターは前記ｚｗｆ－ｏｐｃＡ遺伝子と前記ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片を発現ベクターに挿入して得られたベクターである、
+前記Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターのヌクレオチド配列は配列表の配列番号１２の５’末端から第６３５－８３４番目のヌクレオチドである、
+前記Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターを含む断片のヌクレオチド配列は配列表の配列番号１２である、
+前記Ｐ<base:Sub>ｓｏｄ</base:Sub>プロモーターを含む断片のヌクレオチド配列は配列表の配列番号１１である。
+</base:Paragraphs>
+        <base:Paragraphs num="0075">
+  上記方法では、前記出発菌株は細菌染色体上のＬ－ヒスチジン合成オペロンのプロモーターをＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターに置換え、かつ前記細菌染色体上のｈｉｓＧ遺伝子に対して点突然変異を行い、出発菌株を得るステップを含む方法により作製する。
+</base:Paragraphs>
+        <base:Paragraphs num="0076">
+  前記Ｌ－ヒスチジン合成オペロンはｈｉｓＥＧとｈｉｓＤＣＢである、
+前記Ｐ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターのヌクレオチド配列は配列表に配列番号７の第８６３－１０３８番目のヌクレオチドまたは配列表に配列番号８の第７５２－９２７番目のヌクレオチドである、
+前記点突然変異は前記細菌染色体のｈｉｓＧ遺伝子がコードするたんぱく質の第２１５番目のアスパラギンをリジンに変え、第２３１番目のロイシンをフェニルアラニンに変え、および第２３５番目のトレオニンをアラニンに変える。
+</base:Paragraphs>
+        <base:Paragraphs num="0077">
+  上記方法では、前記細菌染色体上のＬ－ヒスチジン合成オペロンのプロモーターをＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターに置き換えることは、ｈｉｓＥＧのＰプロモーターを含む断片とｈｉｓＤＣＢのＰプロモーターを含む断片を細菌に導入して相同組換えをすることである。その中、ｈｉｓＥＧのＰプロモーターを含む断片のヌクレオチド配列は配列表の配列番号７であり、ｈｉｓＤＣＢのＰプロモーターを含む断片のヌクレオチド配列は配列表の配列番号８である。
+</base:Paragraphs>
+        <base:Paragraphs num="0078">
+  上記方法では、前記細菌染色体上のｈｉｓＧ遺伝子に対して点突然変異を行うことは、配列番号９に示すヌクレオチド配列を前記細菌に導入して相同組換えをしてから、配列番号１０に示すヌクレオチド配列を中間菌に導入して相同組換えをすることである。
+</base:Paragraphs>
+        <base:Paragraphs num="0079">
+  上記方法では、前記細菌はコリネバクテリウム属細菌であり、前記コリネバクテリウム属細菌は具体的にコリネバクテリウム・グルタミクムである。
+</base:Paragraphs>
+        <base:Paragraphs num="0080">
+  上記方法により作製された組換え菌も本発明の保護範囲内である。
+</base:Paragraphs>
+        <base:Paragraphs num="0081">
+  Ｌ－ヒスチジンの作製における上記組換え菌の応用も本発明の保護範囲内である。
+</base:Paragraphs>
+        <base:Paragraphs num="0082">
+  また、本発明はＬ－ヒスチジンを作製する方法を提供し、上記の組換菌を発酵培養し、Ｌ－ヒスチジンを得るステップを含む。
+</base:Paragraphs>
+        <base:Paragraphs num="0083">
+  本発明に係る細菌のｐｇｉ遺伝子を失活することについて、「失活」とは改変された対象が変化することにより、一定の効果を達することを指し、特定部位の突然変異、挿入失活および／またはノックアウトを含むが、これらに限られない。
+</base:Paragraphs>
+        <base:Paragraphs num="0084">
+  本発明で用いる染色体遺伝子ノックアウト、挿入失活、遺伝子ノックイン、プロモーター置き換えや特定部位の突然変異の方法は、自殺ベクターｐＫ１８ｍｏｂｓａｃＢで携帯するターゲット遺伝子を改変して得られるホモロジーアームが相同組換えすることにより実現する。
+</base:Paragraphs>
+      </business:TechnicalSolution>
+      <business:AdvantageousEffects>
+        <base:Paragraphs num="0085">
+  本発明に係るＬ－ヒスチジンエンジニアリング菌では、発酵２４時間のＬ－ヒスチジン生産能力は０．０１～１ｇ／Ｌ／ｈで、発酵終了時のＬ－ヒスチジン生産量は１～６０ｇ／Ｌで、一般的に、発酵生産量は２ｇ／Ｌ以上である。
+</base:Paragraphs>
+        <base:Paragraphs num="0086">
+  本発明の実験により、既存のＬ－ヒスチジンエンジニアリング菌やＬ－ヒスチジン発酵生産方法に比べて、本発明の長所は以下の通りである。
+（１）本発明に係る組換え菌は、ｐｇｉ遺伝子をノックアウトして上流解糖経路をブロックするとともにｚｗｆ－ｏｐｃＡ遺伝子を過剰発現してペントースリン酸経路の代謝能力を強化するという組み合わせ改変計画を採用することにより、エンジニアリング菌の成長とグルコース消費能力は野生型菌株に比べて明らかに弱まることがなく、同時にＬ－アミノ酸の生産量は著しく向上する。
+（２）本発明に係る組換え菌は最少培地（振盪発酵実験用）で成長良好で、栄養要求株がなく、工業制御に便利する。
+（３）本発明に係る組換え菌の発酵周期は短く、発酵タンクでの拡大培養で約４５～７２時間に最大の蓄積量に達することができ（現在の報道の最高の生産量のＬ－ヒスチジンエンジニアリング菌の発酵時間は１２０時間である）（Ｍｉｚｕｋａｍｉ，Ｔ．，Ｈａｍｕ，Ａ．，Ｉｋｅｄａ，Ｍ．，Ｏｋａ，Ｔ．，Ｋａｔｓｕｍａｔａ，Ｒ．，１９９４．Ｃｌｏｎｉｎｇ  ｏｆ  ｔｈｅ  ＡＴＰ  ｐｈｏｓｐｈｏｒｉｂｏｓｙｌ  ｔｒａｎｓｆｅｒａｓｅ  ｇｅｎｅ  ｏｆ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ  ａｎｄ  ａｐｐｌｉｃａｔｉｏｎ  ｏｆ  ｔｈｅ  ｇｅｎｅ  ｔｏ  Ｌ－ｈｉｓｔｉｄｉｎｅ  ｐｒｏｄｕｃｔｉｏｎ．Ｂｉｏｓｃｉ．Ｂｉｏｔｅｃｈｎｏｌ．Ｂｉｏｃｈｅｍ．５８，６３５－６３８．）、プロセスやコストの制御に容易する。
+（４）本発明は始めてｐｇｉ遺伝子を欠損させた上で、同時にグルコース－６－リン酸デヒドロゲナーゼの発現を強くさせるという組み合わせ改変計画を提出して、ｐｇｉ遺伝子欠損による菌株成長とグルコース代謝への制限が解除され、最大の程度で中心炭素代謝流をペントースリン酸経路にガイドするとともに、細菌の高い成長代謝とＡＴＰレベルを維持し、アミノ酸の生産量を著しく向上させて、実際に細菌発酵工業生産に使用することができる。
+（５）また、本発明は始めてヒスチジン合成経路とヌクレオチド合成経路をカップリングする計画を提出して、ヒスチジン合成副産物ＡＩＣＡＲを利用してヒスチジンの前駆体ＡＴＰを合成し、Ｌ－ヒスチジン生産量を著しく向上させて、実際にＬ－ヒスチジンの細菌発酵工業生産に使用することができる。
+</base:Paragraphs>
+        <base:Paragraphs num="0087">
+  上述したように、本発明の有益な効果は、新規Ｌ－アミノ酸の発酵生産量を向上させる方法を開発また実際に証明し、それに応じたエンジニアリング菌を構築し、生産量の向上の重ね合わせ効果を観察し、それによって実際にＬ－アミノ基酸の細菌発酵生産に使用することができ、普及応用にやすい。
+</base:Paragraphs>
+        <base:Paragraphs num="0088">
+  わかりやすいために、以下の具体的な実施例により、本発明を詳細に説明する。これらの説明は例示的な説明で、本発明の範囲を制限するものではない。本説明書の記載によって、本発明の多くの変化、変更は当業者にとって自明なものである。
+</base:Paragraphs>
+        <base:Paragraphs num="0089">
+  また、本発明は開示文献を引用したが、これらの文献は本発明を更にはっきり説明するためのものであり、それらの全文の内容は本文に収納し参考にして、まるでそれらの全文は本文で繰り返し述べたようである。
+</base:Paragraphs>
+        <base:Paragraphs num="0090">
+  以下の図面を参照して、本発明の実施形態及び効果をより良い理解することに役立つ。
+</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:InventionSummary>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0091">
+        <base:FigureReference num="0001">組換えプラスミドｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>を示す図である。</base:FigureReference>
+        <base:FigureReference num="0002">ＣＧ１６１菌株（ｐｇｉ遺伝子はノックアウトされた）ゲノムＤＮＡのＰＣＲ産物の電気泳動図である。</base:FigureReference>
+        <base:FigureReference num="0003">組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>を示す図である。</base:FigureReference>
+        <base:FigureReference num="0004">Ｌ－ヒスチジンエンジニアリング菌ＣＧ１７１に発現されたたんぱく質のＳＤＳ－ＰＡＧＥ図である。</base:FigureReference>
+        <base:FigureReference num="0005">Ｌ－ヒスチジンエンジニアリング菌ＣＧ１７１中のグルコース－６－リン酸デヒドロゲナーゼ酵素の活性測定図である。</base:FigureReference>
+        <base:FigureReference num="0006">組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨを示す図である。</base:FigureReference>
+        <base:FigureReference num="0007">ＣＧ３２８菌株が持つプラスミドＤＮＡのＰＣＲ産物の電気泳動図である。</base:FigureReference>
+        <base:FigureReference num="0008">ＣＧ３５３菌株（ｐｕｒＦ遺伝子が弱化）ゲノムＤＮＡのＰＣＲ産物の電気泳動図である。</base:FigureReference>
+      </base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:EmbodimentsDescription>
+      <base:Paragraphs num="0092">
+  以下、図面と実施例により、本発明の具体的な実施形態をさらに詳しく説明し、本発明及びその各方面の長所をより良い理解する。しかし、以下の説明の具体的な実施形態と実施例は説明の目的だけで、本発明を制限するものではない。具体的に、以下の説明は（野生型）コリネバクテリウム・グルタミクムを例にして組換えエンジニアリング菌の構築やＬ－ヒスチジンの生産に対して説明や実験を行うが、当業者は、本発明によるアミノ酸代謝経路の改変計画を他の適切な菌株に用いてＬ－ヒスチジン生産量の向上のためのエンジニアリング菌を構築できることを理解する。それだけでなく、適切なプラグインを組み合わせることにより、類似の代謝経路を有するほかのアミノ酸（特にＬ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンやＬ－ヒドロキシプロリンなど）の生産量向上に使用することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0093">
+  例えば、背景技術に言及したように、ｐｇｉ遺伝子がコードするホスホグルコイソメラーゼは解糖経路の鍵となる酵素である。Ｌ－ヒスチジンで合成した前駆体ＰＲＰＰはペントースリン酸経路を経由して合成されるものであるため、ｐｇｉ遺伝子をノックアウトすると、解糖経路の代謝流量を弱めるが、中心炭素代謝流をペントースリン酸経路にガイドし、Ｌ－ヒスチジン合成経路代謝流量を強化することを想定する。
+</base:Paragraphs>
+      <base:Paragraphs num="0094">
+  ｐｇｉ遺伝子をノックアウトすることにより、ペントースリン酸経路の代謝流量を強化する改変計画は、文献や特許に報道したことがある（Ｌ－リジン、Ｌ－バリンやヌクレオシドなどの産物の生産に用いるＭａｒｘ，Ａ．，Ｈａｎｓ，Ｓ．，Ｍｏｃｋｅｌ，Ｂ．，Ｂａｔｈｅ，Ｂ．，ｄｅ  Ｇｒａａｆ，Ａ．Ａ．，ＭｃＣｏｒｍａｃｋ，Ａ．Ｃ．，Ｓｔａｐｌｅｔｏｎ，Ｃ．，Ｂｕｒｋｅ，Ｋ．，Ｏ’Ｄｏｎｏｈｕｅ，Ｍ．，Ｄｕｎｉｃａｎ，Ｌ．Ｋ．，２００３．Ｍｅｔａｂｏｌｉｃ  ｐｈｅｎｏｔｙｐｅ  ｏｆ  ｐｈｏｓｐｈｏｇｌｕｃｏｓｅ  ｉｓｏｍｅｒａｓｅ  ｍｕｔａｎｔｓ  ｏｆ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ．  Ｊ  Ｂｉｏｔｅｃｈｎｏｌ．１０４，１８５－１９７；Ｂｌｏｍｂａｃｈ，Ｂ．，Ｓｃｈｒｅｉｎｅｒ，Ｍ．Ｅ．，Ｂａｒｔｅｋ，Ｔ．，Ｏｌｄｉｇｅｓ，Ｍ．，Ｅｉｋｍａｎｎｓ，Ｂ．Ｊ．，２００８．Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ  ｔａｉｌｏｒｅｄ  ｆｏｒ  ｈｉｇｈ－ｙｉｅｌｄ  Ｌ－ｖａｌｉｎｅ  ｐｒｏｄｕｃｔｉｏｎ．Ａｐｐｌ  Ｍｉｃｒｏｂｉｏｌ  Ｂｉｏｔｅｃｈｎｏｌ．７９，４７１－４７９；Ｐｅｉｆｅｒ，Ｓ．，Ｂａｒｄｕｈｎ，Ｔ．，Ｚｉｍｍｅｔ，Ｓ．，Ｖｏｌｍｅｒ，Ｄ．，Ｈｅｉｎｚｌｅ，Ｅ．，  Ｓｃｈｎｅｉｄｅｒ，Ｋ．，２０１２．Ｍｅｔａｂｏｌｉｃ  ｅｎｇｉｎｅｅｒｉｎｇ  ｏｆ  ｔｈｅ  ｐｕｒｉｎｅ  ｂｉｏｓｙｎｔｈｅｔｉｃ  ｐａｔｈｗａｙ  ｉｎ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ  ｒｅｓｕｌｔｓ  ｉｎ  ｉｎｃｒｅａｓｅｄ  ｉｎｔｒａｃｅｌｌｕｌａｒ  ｐｏｏｌ  ｓｉｚｅｓ  ｏｆ  ＩＭＰ  ａｎｄ  ｈｙｐｏｘａｎｔｈｉｎｅ．  Ｍｉｃｒｏｂ  Ｃｅｌｌ  Ｆａｃｔ．  １１，１３８；ＵＳ６５８６２１４Ｂ１；ＥＰ１０８７０１５Ａ２）。
+</base:Paragraphs>
+      <base:Paragraphs num="0095">
+  しかし、本発明者の研究により、ｐｇｉ遺伝子をノックアウトすると、糖代謝中間代謝物の過度の蓄積や糖代謝の負担につながり、さらに、菌体のグルコース代謝と成長が遅くなることにつながることを発見した。また、本発明者はｐｇｉ遺伝子をノックアウトした後、産Ｌ－ヒスチジンのエンジニアリング菌のＬ－ヒスチジン生産量は増えるどころか、かえって明らかに下がってしまう。その主な原因は、ヒスチジンはペントースリン酸経路を通じてその分子の骨格を合成する前駆体を提供するが、リジンとバリンはペントースリン酸経路を通じてその合成酵素のＮＡＤＰＨコファクターを提供することにある。また、ヒスチジン合成過程で大量のエネルギーベクターＡＴＰを消耗するため、ｐｇｉ遺伝子の発現を弱くさせ、ペントースリン酸経路代謝流量を強化する計画を利用してヒスチジンの生産量を増加するために、ペントースリン酸経路と解糖経路代謝流量のバランスを維持して、その合成前駆体やエネルギー供給を確保する必要がある。
+</base:Paragraphs>
+      <base:Paragraphs num="0096">
+  こうした問題について、本発明は実験により、ｚｗｆ－ｏｐｃＡ遺伝子（この遺伝子はグルコース－６－リン酸デヒドロゲナーゼをコードし、ペントースリン酸経路の鍵となる律速酵素である）を過剰発現することが菌体の糖代謝力を強め、糖代謝の負担を緩和し、菌株のグルコース代謝と成長能力を回復できるとともに、ペントースリン酸経路と糖酵解経路の代謝流量をバランスし、ヒスチジン合成前駆体ＰＲＰＰとＡＴＰの供給をバランスし、さらにＬ－ヒスチジン生産量を向上させることができることを発見した。
+</base:Paragraphs>
+      <base:Paragraphs num="0097">
+  本発明によれば、ｐｇｉ遺伝子のを弱化（例えばノックアウト）するとともに、ｚｗｆ－ｏｐｃＡ遺伝子を過剰発現する改変計画により、すでにｐｒｓＡ遺伝子とＬ  －ヒスチジンの合成オペロン遺伝子の発現を強くさせた菌株に組換改変して得られた菌株のＬ－ヒスチジン生産量は著しく向上する。
+</base:Paragraphs>
+      <base:Paragraphs num="0098">
+  同様に、Ｌ－トレオニン、Ｌ－リジン、Ｌ－バリン、Ｌ－プロリンやＬ－Ｌ－ヒドロキシプロリンなどのほかのアミノ酸は、ペントースリン酸経路を通じてその合成酵素のコファクターＮＡＤＰＨを提供するため、本発明のｐｇｉ遺伝子のを弱化するとともに、ｚｗｆ－ｏｐｃＡ遺伝子を過剰発現する改変計画は、ＮＡＤＰＨを増加しながらも、ペントースリン酸経路と糖酵解経路の代謝流量をバランスし、ｐｇｉ遺伝子の弱化による菌株のグルコース代謝と成長が遅くなる問題を解消することができ、同様にこれらのアミノ酸の生産量をさらに増えることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0099">
+  その上で、本発明はさらにＬ－ヒスチジン合成経路とヌクレオチド合成経路をカップリングする計画を提出した。Ｌ－ヒスチジンの合成過程中で、ｈｉｓＨとｈｉｓＦ遺伝子でコードしたイミダゾールグリセロールリン酸合成酵素がイミダゾールグリセロールリン酸と５－リン酸リボース－４－ホルムアミド基－５－アミノイミダゾール（ＡＩＣＡＲ）の生成を触媒する。ここで、イミダゾールグリセロールリン酸はヒスチジン合成経路に沿って最終的にＬ－ヒスチジンを合成するが、ＡＩＣＡＲはプリン合成経路に入り、最終的にプリンヌクレオチド（ＡＭＰ、ＡＴＰなど）を生成する。そしてＡＴＰはヒスチジン合成の前駆体の一つであるとともにヒスチジン合成にエネルギーを提供する。ｐｕｒＨ遺伝子でコードした二元機能酵素であるＡＩＣＡＲメチルトランスフェラーゼ／ＩＭＰシクロヒドロラーゼは、ＡＩＣＡＲからＩＭＰを生成する２階段反応を触媒する。本発明者はコリネバクテリウム・グルタミクムのｐｕｒＨ遺伝子の発現を強くさせることが、Ｌ－ヒスチジンの蓄積に明らかな促進作用があり、上記の改変計画と結合してさらに効果を向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0100">
+  また、Ｌ－ヒスチジン合成経路とプリンヌクレオチド合成経路は代謝物ＡＩＣＡＲでカップリングするとともに、２つの経路は前駆体ＰＲＰＰを共用する。本発明者はプリンヌクレオチド合成の第１階段反応を触媒する酵素（リン酸リボースアミドトランスフェラーゼ）のコード遺伝子ｐｕｒＦを弱化し、ヌクレオチド合成とヒスチジン合成経路を代謝カップリングして、ヒスチジン合成副産物ＡＩＣＡＲを利用してヌクレオチドを合成し、ヒスチジン合成前駆体ＰＲＰＰの供給を増加するとともに、ヒスチジン合成経路の代謝流量を増加し、Ｌ－ヒスチジンの蓄積を促進できることを発見した。該遺伝子改変もＬ－ヒスチジンの生産量をさらに向上させることができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0101">
+  このように、本発明は、微生物のヒスチジン合成の関連経路での多くのターゲットを組み合わせ改変し、Ｌ－ヒスチジンの蓄積を効果的に実現した。また、ヒスチジン合成経路を改変するとともに、ヒスチジン合成経路とヌクレオチド合成経路をカップリングして、ヒスチジン合成とヌクレオチド合成のカップリングノードＡＩＣＡＲがプリンヌクレオチドを生成する経路を効果的に利用して、合成の前駆体ＰＲＰＰを節約することにより、ヒスチジンの合成に対してより多くの前駆体ＰＲＰＰとＡＴＰを提供し、Ｌ－ヒスチジンの蓄積をさらに増加する。
+</base:Paragraphs>
+      <base:Paragraphs num="0102">
+  定義：
+  本文に挙げた「出発菌株（ｓｔａｒｔｉｎｇ  ｂａｃｔｅｒｉａ）」（または、ベース菌（ｂａｓｅ  ｂａｃｔｅｒｉａ）とも呼ばれる）とは、本発明の遺伝子改変計画に用いる初期の菌株を指す。この菌株は天然に存在する菌株でもいいし、誘発突然変異または遺伝子工学による改変などの方式を通じて選択して育成した菌株であってもよい。あるＬ－アミノ酸（例えばＬ－ヒスチジン）を生産するためのエンジニアリング菌を構築するために、前記出発菌株はこのＬ－アミノ酸（例えばＬ－ヒスチジン）を蓄積できる菌株であることが好ましい。
+</base:Paragraphs>
+      <base:Paragraphs num="0103">
+  本文に挙げた「原始菌株（ｏｒｉｇｉｎａｌ  ｂａｃｔｅｒｉａ）」とは、いかなる遺伝子操作のない菌株を指し、自然界に存在する菌株でもいいし、人工的に誘発突然変異で育成した菌株であってもよい。
+</base:Paragraphs>
+      <base:Paragraphs num="0104">
+  本文に挙げた「相同性（ｈｏｍｏｌｏｇｙ）」とは、ＤＮＡのヌクレオチド配列やたんぱく質のアミノ酸配列の間の類似度を指し、同時に本文でいう（ある程度）相同性を有するＤＮＡがコードしたたんぱく質は少なくとも本発明の機能に用いることでは相同またはより良い活性を持ち、同様に、（ある程度）相同性を有するたんぱく質は少なくとも本発明の機能に用いることでは相同またはより良い活性を持つ。例えば、ｈｉｓＧ遺伝子は３つの点突然変異をした後のｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子と高度相似性を持ち、前者はＡＴＰ－ホスホリボシルトランスフェラーゼをコードし、後者はヒスチジンのフィードバック阻害を解除したＡＴＰ－ホスホリボシルトランスフェラーゼをコードし、この２つの酵素は全体的に見て機能と活性が異なるが、本発明に用いる「ヒスチジン合成の第１階段反応の触媒酵素」という機能で、両者は同じであり、そのため、ｈｉｓＧ遺伝子とｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子、および両者がコードした酵素はそれぞれ本発明の意味では相同性の持つＤＮＡとたんぱく質に属する。それらは、本発明の保護範囲内である。
+</base:Paragraphs>
+      <base:Paragraphs num="0105">
+  本文に言及した方法の各ステップの実行順序は、特に説明がない場合、本文でいう順序に限らず、つまり、各ステップの実行順序は変更できるもので、しかも２つのステップの間に必要に応じてほかのステップを挿入することもできる。
+</base:Paragraphs>
+      <base:Paragraphs num="0106">
+  以下の具体的な実施例によりさらに本発明を説明する。下記の実施例で使用する実験方法は特に説明がない場合、いずれも通常の方法である。下記の実施例で使用する材料、試薬等は特に説明がない場合、ビジネスルートで入手することができる。
+</base:Paragraphs>
+      <base:Paragraphs num="0107">
+  特に指定がない場合、実施例で使用する技術的手段は当業者が知っている通常手段であり、『分子クローン実験ガイドライン（第３版）」（科学出版社）、『微生物実験（第４版）」（高等教育出版社）および相応の機器メーカーや試薬メーカーの説明書などを参照することができる。実施例で使用する機器や試薬は市販の常用機器、試薬である。以下の実施例の定量試験は、いずれも３回の繰り返し実験を設けて、結果として平均値を取る。
+</base:Paragraphs>
+      <business:EmbodimentsExample>
+        <base:Paragraphs num="0108">
+  実施例１、Ｌ－ヒスチジンベースエンジニアリング菌ＣＧ１６０の獲得
+  本発明者の早期研究により、本実施例では野生型コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２に対してヒスチジン合成を増強するための改変を行い、本発明の上記多ターゲット改変を実施したベース菌を得る。まず、ｈｉｓＥＧとｈｉｓＤＣＢ（２つのヒスチジンの合成遺伝子オペロン）のプロモーターをコリネバクテリウム・グルタミクム内在性の強力なプロモーターＰ<base:Sub>ｇｌｙＡ</base:Sub>（配列番号７の５’末端から第８６３－１０３８番目のヌクレオチド配列に示す、又は配列番号８の５’末端から第７５２－９２７番目のヌクレオチド配列に示す）に置き換えるとともに（Ｚｈａｎｇ，Ｙ．，Ｓｈａｎｇ，Ｘ．，Ｌａｉ，Ｓ．，Ｚｈａｎｇ，Ｇ．，Ｌｉａｎｇ，Ｙ．，Ｗｅｎ，Ｔ．，２０１２．Ｄｅｖｅｌｏｐｍｅｎｔ  ａｎｄ  ａｐｐｌｉｃａｔｉｏｎ  ｏｆ  ａｎ  ａｒａｂｉｎｏｓｅ－ｉｎｄｕｃｉｂｌｅ  ｅｘｐｒｅｓｓｉｏｎ  ａｙｓｔｅｍ  ｂｙ  ｆａｃｉｌｉｔａｔｉｎｇ  ｉｎｄｕｃｅｒ  ｕｐｔａｋｅ  ｉｎ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ．Ａｐｐｌ  Ｅｎｖｉｒｏｎ  Ｍｉｃｒｏｂｉｏｌ．７８，５８３１－５８３８．）、ｈｉｓＥとｈｉｓＤ遺伝子のリボソーム結合部位（ＲＢＳ）をコリネバクテリウム・グルタミクムの高発現遺伝子の保守ＲＢＳ配列（ＡＡＡＧＧＡＧＧＡ）（配列番号７の５’末端から第１０３９－１０４７番目のヌクレオチド配列に示す、又は配列番号８の５’末端から第９２８－９３６番目のヌクレオチド配列に示す）に置き換えることにより、この２つのヒスチジンの合成遺伝子オペロンの転写や翻訳の減衰調節を解除し、ｈｉｓＥ遺伝子の開始コドンＧＴＧをＡＴＧ（配列番号７の５’末端から第１０５３－１０５５番目のヌクレオチド配列に示す）に置換えて、その発現を強くさせる。次に、ヒスチジン合成経路の鍵となる律速酵素であるＡＴＰ－ホスホリボシルトランスフェラーゼ（ＨｉｓＧ、配列番号６に示す）のコード遺伝子ｈｉｓＧを３つのアミノ酸部位突然変異を含むｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子に置換えて（配列番号４の５’末端から第１００７－１８５２番目のヌクレオチド配列に示す）、ヒスチジンによる該酵素へのフィードバック阻害を解除し、該酵素の触媒活性を強める（Ｚｈａｎｇ，Ｙ．，Ｓｈａｎｇ，Ｘ．，Ｄｅｎｇ，Ａ．，Ｃｈａｉ，Ｘ．，Ｌａｉ，Ｓ．，Ｚｈａｎｇ，Ｇ．，Ｗｅｎ，Ｔ．，２０１２．Ｇｅｎｅｔｉｃ  ａｎｄ  ｂｉｏｃｈｅｍｉｃａｌ  ｃｈａｒａｃｔｅｒｉｚａｔｉｏｎ  ｏｆ  Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ  ＡＴＰ  ｐｈｏｓｐｈｏｒｉｂｏｓｙｌｔｒａｎｓｆｅｒａｓｅ  ａｎｄ  ｉｔｓ  ｔｈｒｅｅ  ｍｕｔａｎｔｓ  ｒｅｓｉｓｔａｎｔ  ｔｏ  ｆｅｅｄｂａｃｋ  ｉｎｈｉｂｉｔｉｏｎ  ｂｙ  ｈｉｓｔｉｄｉｎｅ．Ｂｉｏｃｈｉｍｉｅ．９４，８２９－８３８．）。
+</base:Paragraphs>
+        <base:Paragraphs num="0109">
+  １．コリネバクテリウム・グルタミクム野生型ＡＴＣＣ１３０３２におけるＬ－ヒスチジン合成オペロンのプロモーターを強力なプロモーターＰ<base:Sub>ｇｌｙＡ</base:Sub>に置き換える
+  Ｇｅｎｂａｎｋにおけるコリネバクテリウム・グルタミクムＡＴＣＣ１３０３２のｈｉｓＥＧオペロンおよびその上下流配列ならびにＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーター配列により、それぞれプライマーを設計する。
+</base:Paragraphs>
+        <base:Paragraphs num="0110">
+  コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ１とＰ２をプライマーとして、ｈｉｓＥＧオペロンプロモーター上流ホモロジーアームをＰＣＲで増幅し、Ｐ３とＰ４をプライマーとして、プロモーターＰ<base:Sub>ｇｌｙＡ</base:Sub>を増幅し、Ｐ５とＰ６をプライマーとしてｈｉｓＥＧプロモーター下流ホモロジーアームを増幅する。また、精製された上記ＰＣＲ産物をテンプレートとして、Ｐ１とＰ６をプライマーとして、オーバーラップ伸長PCR技術（ＳＯＥ）を採用して増幅し、得られた１９２０ｂｐのＰＣＲ産物は、置き換えるプロモーターＰ<base:Sub>ｇｌｙＡ</base:Sub>および置換えられるプロモーターＰｈｉｓＥＧの上下流ホモロジーアームを含む断片（配列番号７）である。
+</base:Paragraphs>
+        <base:Paragraphs num="0111">
+  ここで、配列番号７の５’末端から第１－８６２番目のヌクレオチドは置換えられるプロモーターＰｈｉｓＥＧの上流ホモロジーアームであり、配列番号７の５’末端から第８６３－１０３８番目のヌクレオチドはプロモーターＰｇｌｙＡであり、配列番号７の５’末端から第１０５３－１９２０番目のヌクレオチドは置換えられるプロモーターＰｈｉｓＥＧ下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0112">
+  上述１９２０ｂｐのＰＣＲ産物をＸｂａＩとＢａｍＨＩでダブルダイジェストをした後、同じダブルダイジェスト処理を経た相同組換えベクターｐＫ１８ｍｏｂｓａｃＢ（アメリカ典型的な微生物収集センターＡＴＣＣから購入、品番８７０９７）と接続する。接続産物は化学的な形質転換法を採用して大腸菌ＤＨ５αに形質転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、２１３２  ｂｐの陽性転換体を得、同定の正しい転換体に対してプラスミドを抽出し、プラスミドをＸｂａＩとＢａｍＨＩでダブルダイジェスト同定を行い、得られた１９２０ｂｐは陽性である。
+</base:Paragraphs>
+        <base:Paragraphs num="0113">
+  陽性プラスミドをシークエンシングし、結果として、この陽性プラスミドは配列表に配列番号７に示すヌクレオチドをベクターｐＫ１８ｍｏｂｓａｃＢに挿入して得られた組換えプラスミドであり、ｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0114">
+  同じ方法を採用して相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>を構築し、具体的に以下の通りである。Ｐ７とＰ８をプライマーとして、ｈｉｓＤＣＢオペロンプロモーター上流ホモロジーアームを増幅し、Ｐ９とＰ１０をプライマーとして、プロモーターＰ<base:Sub>ｇｌｙＡ</base:Sub>を増幅し、Ｐ１１とＰ１２をプライマーとしてｈｉｓＤＣＢプロモーター下流ホモロジーアームを増幅する。Ｐ７とＰ１２をプライマーとして、オーバーラップ伸長PCR技術（ＳＯＥ）を採用して増幅し、置換するプロモーターＰｇｌｙＡおよび替えられるプロモーターＰ<base:Sub>ｈｉｓＤＣＢ</base:Sub>の上下流ホモロジーアームを含む長断片である（配列番号８）１６９４ｂｐのＰＣＲ産物を得る。ここで、配列番号８の５’末端から第１－７５１番目のヌクレオチドは置換えられるプロモーターＰ<base:Sub>ｈｉｓＤＣＢ</base:Sub>の上流ホモロジーアームであり、配列番号８の５’末端から第７５２－９２７番目のヌクレオチドはプロモーターＰ<base:Sub>ｇｌｙＡ</base:Sub>であり、配列番号８の５’末端から第９４２－１６９４番目のヌクレオチドは置換えられるプロモーターＰ<base:Sub>ｈｉｓＤＣＢ</base:Sub>下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0115">
+  上述１６９４ｂｐのＰＣＲ産物をＨｉｎｄＩＩＩとＢａｍＨＩでダブルダイジェストした後、同じダブルダイジェスト処理を経た相同組換えベクターｐＫ１８ｍｏｂｓａｃＢと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して転換体を同定し、１９０６ｂｐの陽性転換体を得、同定正しい転換体に対してプラスミドを抽出し、プラスミドをＨｉｎｄＩＩＩとＢａｍＨＩでダブルダイジェスト同定を行い、得られた１６９４ｂｐは陽性である。陽性プラスミドをシークエンシングし、結果として、このプラスミドは配列表に配列番号５に示すヌクレオチドをベクターｐＫ１８ｍｏｂｓａｃＢに挿入して得られた組換プラスミドであり、ｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0116">
+  上記のプライマー配列は次の通りである。
+Ｐ１：ＧＣＴＣＴＡＧＡＧＴＡＴＣＧＧＣＧＴＧＧＡＧＴＴＧＴＣ（ＸｂａＩ）（配列番号２１）
+Ｐ２：ＴＡＧＴＧＧＡＧＴＡＧＣＴＴＴＡＴＴＴＴＧＣＧＡＣＡＣＣＴＧＣＣ（配列番号２２）
+Ｐ３：ＧＴＣＧＣＡ  ＡＡＡＴＡＡＡＧＣＴＡＣＴＣＣＡＣＴＡＧＴＧＴＧＡＴＣＧ（配列番号２３）
+Ｐ４：ＧＧＴＴＣＣＴＣＣＴＴＴＧＣＧＴＡＡＧＡＣＣＴＣＡＣＴＣＧＣ（配列番号２４）
+Ｐ５：ＧＡＧＧＴＣＴＴＡＣＧＣＡＡＡＧＧＡＧＧＡＡＣＣＧＡＡＴＧＡＡＧＡＣＡＴＴＴＧＡ（配列番号２５）
+Ｐ６：ＣＧＣＧＧＡＴＣＣＣＡＧＧＡＴＣＴＧＣＴＧＣＴＣＴＧＧ（ＢａｍＨＩ）（配列番号２６）
+Ｐ７：ＣＣＣＡＡＧＣＴＴＣＧＡＧＧＡＡＡＣＣＧＴＴＧＡＧＧＡ（ＨｉｎｄＩＩＩ）（配列番号２７）
+Ｐ８：ＴＡＧＴＧＧＡＧＴＡＧＣＴＡＴＧＧＡＴＴＴＣＡＣＣＴＣＴＧＴＧＡＡＴＧ（配列番号２８）
+Ｐ９：ＴＣＴＣＣＡＣＴＴＴＡＧＧＴＡＡＧＣＴＡＣＴＣＣＡＣＴＡＧＴＧＴＧＡＴＣＧ（配列番号２９）
+Ｐ１０：ＣＧＡＴＣＣＴＣＣＴＴＴＧＣＧＴＡＡＧＡＣＣＴＣＡＣＴＣＧＣ（配列番号３０）
+Ｐ１１：ＧＡＧＧＴＣＴＴＡＣＧＣＡＡＡＧＧＡＧＧＡＴＣＧＣＣＡＴＧＴＴＧＡＡＴＧＴＣ（配列番号３１）
+Ｐ１２：ＣＧＣＧＧＡＴＣＣＧＧＣＡＧＡＧＧＣＡＴＣＡＧＣＡＡＧ（ＢａｍＨＩ）（配列番号３２）
+Ｐ１３：ＡＴＧＴＧＣＴＧＣＡＡＧＧＣＧＡＴＴＡＡ（配列番号３３）
+Ｐ１４：ＴＡＴＧＣＴＴＣＣＧＧＣＴＣＧＴＡＴＧＴ（配列番号３４）
+Ｐ１５：ＴＴＴＴＡＴＡＴＡＴＧＧＧＴＡＴＣＧＧＣＧＧＴＣＴＡＴＧＣＴ（配列番号３５）。
+</base:Paragraphs>
+        <base:Paragraphs num="0117">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>をコリネバクテリウム・グルタミクム野生型ＡＴＣＣ１３０３２に電気穿孔法により形質転換する。カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得る。蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。陽性コロニーをＰ１５とＰ６をプライマーとしてＰＣＲで増幅し、同定を行い、９４８ｂｐの組換え菌を得、コリネバクテリウム・グルタミクムＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0118">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>をコリネバクテリウム・グルタミクムＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>に電気穿孔法により形質転換する。カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得る。蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。陽性コロニーをＰ１５とＰ１２をプライマーとしてＰＣＲで増幅し、同定を行い、８３３ｂｐの組換え菌を得、コリネバクテリウム・グルタミクムＣＧ１５８（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>）と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0119">
+  この組換え菌からゲノムＤＮＡを抽出してシークエンシングした後、結果として、コリネバクテリウム・グルタミクム野生型ＡＴＣＣ１３０３２中のｈｉｓＥＧとｈｉｓＤＣＢのプロモーターをコリネバクテリウム・グルタミクム内生の強力なプロモーターＰｇｌｙＡに置換え、ｈｉｓＥとｈｉｓＤ遺伝子のＲＢＳをコリネバクテリウム・グルタミクムの高発現遺伝子の保守ＲＢＳ配列（ＡＡＡＧＧＡＧＧＡ）に置換え、ｈｉｓＥ遺伝子の開始コドンＧＴＧを高発現強度のＡＴＧに置換えることに成功したことを確認し、コリネバクテリウム・グルタミクムＣＧ１５８（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>）の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0120">
+  ２．染色体上遺伝子ｈｉｓＧの特定部位の突然変異によるＬ－ヒスチジンベースエンジニアリング菌ＣＧ１６０の獲得
+  染色体ｈｉｓＧ遺伝子の特定部位の突然変異は二段階法を採用し、この遺伝子の３つの特定部位の突然変異を同時に実現することを希望し、まず、配列表に配列番号９に示すクロロマイセチン耐性遺伝子ＣｍｒおよびｈｉｓＧ遺伝子の突然変異断片の上下流ホモロジーアームを含む長い断片をＣＧ１５８と相同組換えさせて、組換え菌ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－Ｃｍ<base:Sup>ｒ</base:Sup>：：ｈｉｓＧ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>を得、更に配列表に配列番号１０に示す３つの点突然変異ｈｉｓＧ遺伝子末端２６４ｂｐ断片及びその上下流ホモロジーアームを含む長い断片を組換え菌ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－Ｃｍ<base:Sup>ｒ</base:Sup>：：ｈｉｓＧ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>と相同組換えさせて、ＣＧ１６０を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0121">
+  具体的には次の通りである。
+コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ１６とＰ１７をプライマーとして、ｈｉｓＧ遺伝子突然変異断片の上流ホモロジーアームをＰＣＲで増幅し、Ｐ１８とＰ１９をプライマーとして、ｈｉｓＧ遺伝子突然変異断片の下流ホモロジーアームを増幅し、Ｐ２０とＰ２１をプライマーとして、プラスミドｐＸＭＪ１９（Ｂｉｏｖｅｃｔｏｒ  Ｓｃｉｅｎｃｅ  Ｌａｂ，Ｉｎｃから購入、品番ＳＭＤ１１６８Ｈ）をテンプレートとして、クロロマイセチン耐性遺伝子Ｃｍ<base:Sup>ｒ</base:Sup>を増幅する。また、精製された上記ＰＣＲ産物をテンプレートとして、Ｐ１６とＰ２１をプライマーとして、オーバーラップ伸長ＰＣＲ技術（ＳＯＥ）を採用して増幅し、１６８９ｂｐのクロロマイセチン耐性遺伝子Ｃｍ<base:Sup>ｒ</base:Sup>およびｈｉｓＧ突然変異断片の上下流ホモロジーアームを含む長い断片を得る（配列番号９）。
+</base:Paragraphs>
+        <base:Paragraphs num="0122">
+  ここで、配列番号９の５’末端から第１－４２０番目のヌクレオチドはｈｉｓＧ遺伝子の突然変異断片の上流ホモロジーアームであり、配列番号９の５’末端から第４２１－１２８１番目のヌクレオチドはクロロマイセチン耐性遺伝子Ｃｍ<base:Sup>ｒ</base:Sup>であり、配列番号９の５’末端から第１２８２－１６８９番目のヌクレオチドはｈｉｓＧ遺伝子の突然変異断片の下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0123">
+  コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ２８とＰ２９をプライマーとして、Ｃ６４５Ｇ（第２１５番目のアスパラギンをリジンに変える）突然変異部位を含むｈｉｓＧ遺伝子断片を増幅し、Ｐ３０とＰ３１をプライマーとして、Ａ６９３ＣとＡ７０３Ｇ（第２３１番目のロイシンをフェニルアラニンに変えると第２３５番目のトレオニンをアラニンに変える）突然変異部番目のを含むｈｉｓＧ断片を増幅し、また、精製された上記ＰＣＲ産物をテンプレートとして、Ｐ２８とＰ３１をプライマーとして、オーバーラップ伸長ＰＣＲ技術（ＳＯＥ）を採用して増幅し、８４６ｂｐの３つの点突然変異を含むｈｉｓＧ遺伝子（配列番号４の５’末端から第１００７－１２８１番目のヌクレオチド）を得る。Ｐ１６とＰ２２をプライマーとして、ｈｉｓＧ遺伝子の特定部位の突然変異の上流ホモロジーアームをＰＣＲで増幅し、Ｐ２５とＰ２１をプライマーとして、ｈｉｓＧ遺伝子の特定部位の突然変異の下流ホモロジーアームを増幅し、Ｐ２３とＰ２４をプライマーとして、上記に得た３つの点突然変異を含むｈｉｓＧ遺伝子をテンプレートとして、３つの点突然変異を含むｈｉｓＧ遺伝子末端２６４ｂｐ断片を増幅する。また、精製された上記ＰＣＲ産物をテンプレートとして、Ｐ１６とＰ２１をプライマーとして、オーバーラップ伸長ＰＣＲ技術（ＳＯＥ）を採用して増幅し、１０９２ｂｐの３つの点突然変異のｈｉｓＧ遺伝子末端２６４ｂｐ断片およびその上下流ホモロジーアームを含む長い断片（配列番号１０）を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0124">
+  ここで、配列番号１０の５’末端から第１－４２０番目のヌクレオチドは上流ホモロジーアームであり、配列番号１０の５’末端から第４２１－６８４番目のヌクレオチドは３つの点突然変異のｈｉｓＧ遺伝子末端２６４ｂｐ断片であり、配列番号１０の５’末端から第６８５－１０９２番目のヌクレオチドは下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0125">
+  精製して回収された２つのＰＣＲ産物は、それぞれＢａｍＨＩとＥｃｏＲＩでダブルダイジェストした後、それぞれ同じダブルダイジェスト処理を経たノックアウトベクターｐＫ１８ｍｏｂｓａｃＢと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、１９０１ｂｐと１３０４ｂｐの２種類の組換えプラスミドを持つ陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＢａｍＨＩとＥｃｏＲＩでダブルダイジェストし、同定を行い、１６８９ｂｐと１０９２ｂｐの２種類の組換えプラスミドを得る。さらにシークエンシングして検証したところ、組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｃｍ<base:Sup>ｒ</base:Sup>：：ｈｉｓＧとｐＫ１８ｍｏｂｓａｃＢ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>：：Ｃｍ<base:Sup>ｒ</base:Sup>の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0126">
+  ｐＫ１８ｍｏｂｓａｃＢ－Ｃｍ<base:Sup>ｒ</base:Sup>：：ｈｉｓＧはクロロマイセチン耐性遺伝子Ｃｍ<base:Sup>ｒ</base:Sup>およびｈｉｓＧ遺伝子の突然変異断片の上下流ホモロジーアームを含む長い断片（序列９）をベクターｐＫ１８ｍｏｂｓａｃＢに挿入して得られた組換えベクターである。
+</base:Paragraphs>
+        <base:Paragraphs num="0127">
+  ｐＫ１８ｍｏｂｓａｃＢ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>：：Ｃｍ<base:Sup>ｒ</base:Sup>は３つの点突然変異のｈｉｓＧ遺伝子末端２６４ｂｐ断片およびその上下流ホモロジーアームを含む長い断片（配列番号１０）をベクターｐＫ１８ｍｏｂｓａｃＢに挿入して得られた組換えベクターである。
+</base:Paragraphs>
+        <base:Paragraphs num="0128">
+  上記のプライマー配列は次の通りである。
+Ｐ１６：ＣＧＣＧＧＡＴＣＣＡＴＣＴＡＣＧＴＴＧＣＴＧＧＴＧＧＣ（ＢａｍＨＩ）（配列番号３６）
+Ｐ１７：ＡＣＧＧＧＣＡＡＣＡＧＣＴＧＣＴＧＣＴＣＴＧＧＧＧＴＧＡＣ（配列番号３７）
+Ｐ１８：ＣＡＧＡＧＣＡＧＣＡＧＣＴＧＴＴＧＣＣＣＧＴＣＴＣＡＣＴＧＧＴ（配列番号３８）
+Ｐ１９：ＧＧＴＡＧＴＴＡＡＡＡＴＴＡＣＧＣＣＣＣＧＣＣＣＴＧＣＣＡＣＴ（配列番号３９）
+Ｐ２０：ＧＣＧＧＧＧＣＧＴＡＡＴＴＴＴＡＡＣＴＡＣＣＣＣＣＧＡＡＡＡＴ（配列番号４０）
+Ｐ２１：ＣＣＧＧＡＡＴＴＣＣＧＡＡＴＧＡＡＡＴＣＴＧＧＧＡＣＧ（ＥｃｏＲＩ）（配列番号４１）
+Ｐ２２：ＣＧＡＡＧＣＡＧＧＡＴＣＴＧＣＴＧＣＴＣＴＧＧＧＧＴＧＡＣ（配列番号４２）
+Ｐ２３：ＣＡＧＡＧＣＡＧＣＡＧＡＴＣＣＴＧＣＴＴＣＧＣＣＧＣＡＴＣＣＡ（配列番号４３）
+Ｐ２４：ＧＧＴＡＧＴＴＡＡＡＡＣＴＡＧＡＴＧＣＧＧＧＣＧＡＴＧＣＧ（配列番号４４）
+Ｐ２５：ＣＣＣＧＣＡＴＣＴＡＧＴＴＴＴＡＡＣＴＡＣＣＣＣＣＧＡＡＡＡＴ（配列番号４５）
+Ｐ２６：ＴＣＣＣＡＡＡＣＡＡＡＧＧＣＴＣＧＣ（配列番号４６）
+Ｐ２７：ＣＡＧＴＣＧＧＣＧＧＴＴＴＧＣＴＡＡ（配列番号４７）
+Ｐ２８：ＡＴＧＴＴＧＡＡＡＡＴＣＧＣＴＧ（配列番号４８）
+Ｐ２９：ＴＴＡＣＴＧＣＡＧＴＧＧＣＡＧＣＧＴＣＣＡＧＧＴＴＧＴＣＧＣＧＧＴＣＧＡＣＣＴＴＧＴＡＡＴＣＣＡＧＣＡＴ（配列番号４９）
+Ｐ３０：ＡＣＣＴＧＧＡＣＧＣＴＧＣＣＡＣＴＧＣＡＧＴＡＡＣＣＣＣＡＧＧＣＴＴＣＴＣＣＧＧＣＣＣＡＧＣＧＧＴＡＴＣ（配列番号５０）
+Ｐ３１：ＣＴＡＧＡＴＧＣＧＧＧＣＧＡＴＧＣＧＧ（配列番号５１）。
+</base:Paragraphs>
+        <base:Paragraphs num="0129">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｃｍ<base:Sup>ｒ</base:Sup>：：ｈｉｓＧをコリネバクテリウム・グルタミクムＣＧ１５８に電気穿孔法により形質転換し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得る。蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0130">
+  陽性コロニーをＰ２６とＰ２７をプライマーとしてＰＣＲで増幅し、同定を行い、１８７２  ｂｐの組換え菌ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－Ｃｍ<base:Sup>ｒ</base:Sup>：：ｈｉｓＧ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0131">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>：：Ｃｍ<base:Sup>ｒ</base:Sup>を上記構築した組換え菌ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－Ｃｍ<base:Sup>ｒ</base:Sup>：：ｈｉｓＧ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>に電気穿孔法により形質転換し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得、蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0132">
+  陽性コロニーをＰ２６とＰ２７をプライマーとしてＰＣＲで増幅し、同定を行い、１２７５ｂｐの組換え菌を得、コリネバクテリウム・グルタミクムＣＧ１６０（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>）と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0133">
+  この組換え菌からゲノムＤＮＡを抽出してシークエンシングした結果、コリネバクテリウム・グルタミクムＣＧ１５８の染色体ｈｉｓＧ遺伝子のＮ２１５Ｋ／Ｌ２３１Ｆ／Ｔ２３５Ａを点突然変異することに成功したことを確認し、コリネバクテリウム・グルタミクムＣＧ１６０（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>）の構築に成功した。ｈｉｓＧ遺伝子のＮ２１５Ｋ／Ｌ２３１Ｆ／Ｔ２３５Ａ点突然変異は、ｈｉｓＧ遺伝子コードのＡＴＰ－ホスホリボシルトランスフェラーゼ（ＨｉｓＧ）の第２１５番目のアスパラギンをリジンに変え、第２３１番目のロイシンをフェニルアラニンに変え、および第２３５番目のトレオニンをアラニンに変えることである。
+</base:Paragraphs>
+        <base:Paragraphs num="0134">
+  実施例２、プラスミドを含む高産量Ｌ－ヒスチジンの組換え菌ＣＧ１７１の構築
+  本実施例では、実施例１で得た初級エンジニアリング菌を基に、さらにｐｒｓＡ遺伝子を過剰発現するとともに、ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子（配列番号４の第１００７－１８５２番目のヌクレオチド配列）を過剰発現してから、ｐｇｉ遺伝子（配列番号１３）のノックアウトとｚｗｆ－ｏｐｃＡ遺伝子（配列番号２）の過剰発現という改変を組み合わせて、高産量のエンジニアリング菌ＣＧ１７１を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0135">
+  １．Ｌ－ヒスチジン初級エンジニアリング菌ＣＧ１７６の構築
+  ｐｒｓＡ遺伝子はＰＲＰＰ合成酵素（ＰｒｓＡ、配列番号５に示すように、ＰＲＰＰはヒスチジン合成の前駆体）をコードし、ｐｒｓＡ遺伝子の発現を強くさせることにより、ヒスチジン合成前駆体ＰＲＰＰの合成を増加し、ヒスチジン合成により多くの前駆体を提供する。
+</base:Paragraphs>
+        <base:Paragraphs num="0136">
+  実施例１で得たベースエンジニアリング菌ＣＧ１６０を基に、ｐｒｓＡ遺伝子（配列番号４の５’末端から第１５－９９２番目のヌクレオチド配列に示す）を過剰発現するとともに、ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子（配列番号４の５’端末第１００７－１８５２番目のヌクレオチド配列に示す）を過剰発現することにより、よりよいヒスチジン生産量を有する初級エンジニアリング菌ＣＧ１７６を得、本発明の計画を実施した後に、よりよい効果を得ることができる。もちろん、当業者は本発明の改変計画が本実施例で得た初級エンジニアリング菌を組換え改変することに限らず、ほかのヒスチジンエンジニアリング菌にも使えることを理解すべきである。
+</base:Paragraphs>
+        <base:Paragraphs num="0137">
+  菌株ＣＧ１６０のゲノムＤＮＡをテンプレートとして、それぞれＰ３２／Ｐ３３とＰ３４／Ｐ３５をプライマーとして、ｐｒｓＡ遺伝子（９９２ｂｐ）およびｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>（８６０ｂｐ）をＰＣＲで増幅する。オーバーラップ伸長ＰＣＲを採用して２つの遺伝子を接続し、増幅されたｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>とｐｒｓＡ遺伝子をテンプレートとして、Ｐ３２とＰ３５をプライマーとして、ＰＣＲで増幅を行い、１８５２ｂｐのＰＣＲ産物であるｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片（配列番号４）を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0138">
+  ここで、配列番号４の５’末端から第１５－９９２番目のヌクレオチドはｐｒｓＡであり、配列番号４の５’末端から第１００７－１８５２番目のヌクレオチドはｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>（３つの点突然変異を含むｈｉｓＧ遺伝子）である。
+</base:Paragraphs>
+        <base:Paragraphs num="0139">
+  上記のＰＣＲ産物をＸｂａＩとＳｍａＩでダブルダイジェストした後、同じダブルダイジェスト処理を経たコリネバクテリウム・グルタミクム－大腸菌シャトル発現プラスミドｐＸＭＪ１９と接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、クロロマイセチン（２０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ３６とＰ３７をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、２０５４ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＸｂａＩとＳｍａＩでダブルダイジェストし、同定を行い、得られた１８５２ｂｐは陽性である。
+</base:Paragraphs>
+        <base:Paragraphs num="0140">
+  ｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>はさらにシークエンシング解析したところ、このプラスミドはｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片（配列番号４）をプラスミドｐＸＭＪ１９のＸｂａＩとＳｍａＩの制限酵素切断部位の間に挿入し、得られたベクターｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>は、組換えプラスミドｐＷＹＥ１２３０と名付ける（図１に示す）。
+</base:Paragraphs>
+        <base:Paragraphs num="0141">
+  プラスミドｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>を上記構築したベースエンジニアリング菌ＣＧ１６０に形質転換して、Ｐ３６とＰ３７をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、２０５４ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し同定を行い、さらに過剰発現プラスミドをエンジニアリング菌に形質転換することに成功したことを確認し、Ｌ－ヒスチジンエンジニアリング菌ＣＧ１７６（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>／ｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>）の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0142">
+  上記のプライマー配列は次の通りである。
+Ｐ３２：ＧＣＴＣＴＡＧＡＡＡＡＧＧＡＧＧＡＴＣＣＴＣＡＴＧＡＣＴＧＣＴＣＡＣＴＧＧ（ＸｂａＩ）（配列番号５２）
+Ｐ３３：ＴＴＧＴＣＣＴＣＣＴＴＴＴＴＡＧＧＣＣＴＣＧＣＣＣＴＣＧＡＡ（配列番号５３）
+Ｐ３４：ＧＧＣＧＡＧＧＣＣＴＡＡＡＡＡＧＧＡＧＧＡＣＡＡＴＣＡＴＧＴＴＧＡＡＡＡＴＣＧＣＴＧ（配列番号５４）
+Ｐ３５：ＴＣＣＣＣＣＧＧＧＣＴＡＧＡＴＧＣＧＧＧＣＧＡＴＧＣＧＧ（ＳｍａＩ）（配列番号５５）
+Ｐ３６：ＣＡＡＴＴＡＡＴＣＡＴＣＧＧＣＴＣＧＴＡ（配列番号５６）
+Ｐ３７：ＡＣＣＧＣＴＴＣＴＧＣＧＴＴＣＴＧＡＴＴ（配列番号５７）。
+</base:Paragraphs>
+        <base:Paragraphs num="0143">
+  ２．Ｌ－ヒスチジン初級エンジニアリング菌ＣＧ１６１とＣＧ１７２の獲得
+  ｐｇｉ遺伝子はホスホグルコイソメラーゼ（Ｐｇｉ、配列番号１４に示す）をコードする。以上に得たベース菌１６０を基に、ｐｇｉ遺伝子（配列番号１３）をノックアウトし、初級エンジニアリング菌ＣＧ１６１を得、ＣＧ１６１を基に、ｐｒｓＡ遺伝子を過剰発現するとともにｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子を過剰発現し、ｐｇｉ遺伝子をノックアウトしたエンジニアリング菌ＣＧ１７２を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0144">
+  初級エンジニアリング菌ＣＧ１６１はＬ－ヒスチジンベースエンジニアリング菌ＣＧ１６０のｐｇｉ遺伝子（配列番号１３）をノックアウトして得られたものであり、具体的に次の通りである。
+</base:Paragraphs>
+        <base:Paragraphs num="0145">
+  まず、Ｇｅｎｂａｎｋにおけるコリネバクテリウム・グルタミクムＡＴＣＣ１３０３２のｐｇｉ遺伝子およびその上下流の配列により、それぞれプライマーを設計する。
+</base:Paragraphs>
+        <base:Paragraphs num="0146">
+  コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ３８とＰ３９をプライマーとして、ｐｇｉ遺伝子上流ホモロジーアームをＰＣＲで増幅し、Ｐ４０とＰ４１をプライマーとして、ｐｇｉ遺伝子下流ホモロジーアームを増幅する。また、精製された上記ＰＣＲ産物をテンプレートとして、Ｐ３８とＰ４１をプライマーとして、オーバーラップ伸長ＰＣＲ技術（ＳＯＥ）を採用して増幅し、１６７２ｂｐのノックアウトしたい遺伝子ｐｇｉの上下流ホモロジーアームを含む断片を得る（配列番号１）。
+</base:Paragraphs>
+        <base:Paragraphs num="0147">
+  ここで、配列番号１の５’末端から第１－８３４番目のヌクレオチドはノックアウトしたい遺伝子ｐｇｉの上流ホモロジーアームであり、配列番号１の５’末端から第８３５－１６７２番目のヌクレオチドはノックアウトしたい遺伝子ｐｇｉの下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0148">
+  精製回収されたＰＣＲ産物をＢａｍＨＩとＥｃｏＲＩでダブルダイジェストした後、同じダブルダイジェスト処理を経た相同組換えベクターｐＫ１８ｍｏｂｓａｃＢと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、１８８４ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＢａｍＨＩとＥｃｏＲＩでダブルダイジェストし、同定を行い、得られた１６７２ｂｐは陽性である。さらにシークエンシングして検証したところ、組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Δｐｇｉの構築に成功し、ノックアウトしたい遺伝子ｐｇｉの上下流ホモロジーアームを含む断片（配列番号１）をベクターｐＫ１８ｍｏｂｓａｃＢのＢａｍＨＩとＥｃｏＲＩの制限酵素切断部位の間に挿入し得られたベクターである。
+</base:Paragraphs>
+        <base:Paragraphs num="0149">
+  上記のプライマー配列は次の通りである。
+Ｐ３８：ＣＧＣＧＧＡＴＣＣＧＣＴＣＴＴＴＣＧＧＡＧＴＧＡＣＣＴ（ＢａｍＨＩ）（配列番号５８）
+Ｐ３９：ＴＡＡＧＣＡＡＧＣＧＡＧＡＡＡＡＣＴＣＣＴＴＴＡＴＴＧＴＣＧ（配列番号５９）
+Ｐ４０：ＴＡＡＡＧＧＡＧＴＴＴＴＣＴＣＧＣＴＴＧＣＴＴＡＴＡＧＧＧＴＣ（配列番号６０）
+Ｐ４１：ＣＣＧＧＡＡＴＴＣＴＣＧＧＧＡＡＧＣＡＧＴＴＡＧＴＧＡＡＡ（ＥｃｏＲＩ）（配列番号６１）
+Ｐ４２：ＴＴＧＡＣＧＡＣＧＣＡＡＧＡＧＣＣＡ（配列番号６２）
+Ｐ４３：ＣＡＣＣＡＴＴＡＣＣＧＡＴＧＡＧＡＡＡＣ（配列番号６３）。
+</base:Paragraphs>
+        <base:Paragraphs num="0150">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Δｐｇｉをコリネバクテリウム・グルタミクムＣＧ１６０に電気穿孔法により形質転換し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得、蔗糖負の選択を通じて、第２回の相同組換えが発生したコロニーを得る。コロニーからＰ４２とＰ４３をプライマーとしてゲノムＤＮＡを抽出し、ＰＣＲで増幅し、同定を行い、得られた１７５９ｂｐは陽性であり（図２を参照）、ＣＧ１６１（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ）と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0151">
+  ＣＧ１６１（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ）はさらにシークエンシング解析した結果、Ｌ－ヒスチジンベースエンジニアリング菌ＣＧ１６０の染色体ｐｇｉ遺伝子のノックアウトが成功し、ＣＧ１６１の構築が成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0152">
+  エンジニアリング菌ＣＧ１７２はプラスミドｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>をエンジニアリング菌ＣＧ１６１に導入して得られた組換え菌（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ／ｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>）である。具体的な操作方法は通常の方法であるため、ここで説明を省略する。
+</base:Paragraphs>
+        <base:Paragraphs num="0153">
+  ３．Ｌ－ヒスチジン高産量エンジニアリング菌ＣＧ１７１および比較としてのエンジニアリング菌ＣＧ１７３の構築
+  ｚｗｆ－ｏｐｃＡ遺伝子はグルコース－６－リン酸デヒドロゲナーゼ（Ｚｗｆ－ＯｐｃＡ、配列番号３に示す、その５’末端から第１－５１４番目のアミノ酸はＺｗｆサブユニットを構成し、第５１５－８３３番目のアミノ酸殘基はＯｐｃＡサブユニットを構成する）をコードする。ｐｇｉ遺伝子のノックアウトとｚｗｆ－ｏｐｃＡ遺伝子（配列番号２）の過剰発現の組み合わせ改変を実施し、高産量エンジニアリング菌ＣＧ１７１を得る。比較として、ｐｇｉ遺伝子をノックアウトしていないがｚｗｆ－ｏｐｃＡ遺伝子を過剰発現したエンジニアリング菌ＣＧ１７３を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0154">
+  Ｇｅｎｂａｎｋにおけるコリネバクテリウム・グルタミクムＡＴＣＣ１３０３２のｚｗｆ－ｏｐｃＡ遺伝子配列により、プライマーを設計する。コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、プライマーＰ４４とＰ４５を採用して、２５１９ｂｐのｚｗｆ－ｏｐｃＡ断片（ｚｗｆ遺伝子の開始コドンＧＴＧをＡＴＧに置換え、その発現を強くさせる）（配列番号２）をＰＣＲで増幅する。ＨｉｎｄＩＩＩとＸｂａＩでダブルダイジェストした後、まず、同じダブルダイジェスト処理を経た発現プラスミドｐＸＭＪ１９と接続し、組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡを得、ｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡはさらにＸｂａＩとＳｍａＩでダブルダイジェストされた後に、以上に製造されたプラスミドｐＸＭＪ１９－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>がＸｂａＩとＳｍａＩでダブルダイジェストされて得られた１８５２ｂｐのｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片と接続する。
+</base:Paragraphs>
+        <base:Paragraphs num="0155">
+  ｚｗｆ－ｏｐｃＡ断片について、ここで、配列番号２の５’末端から第１－１５４５番目のヌクレオチドはｚｗｆ遺伝子であり、配列番号２の５’末端から第１５６０－２５１９番目のヌクレオチドはｏｐｃＡ遺伝子である。
+</base:Paragraphs>
+        <base:Paragraphs num="0156">
+  接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、クロロマイセチン（２０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ３６とＰ３７をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、４５８７ｂｐの陽性の形質転換体を得る。同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをそれぞれＸｂａＩ／ＳｍａＩとＨｉｎｄＩＩＩ／ＸｂａＩＩでダブルダイジェストし、同定を行い、得られたそれぞれ１８５２ｂｐと２５３３ｂｐは陽性である。
+</base:Paragraphs>
+        <base:Paragraphs num="0157">
+  シークエンシング検証したところ、組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>の構築が成功し、組換えプラスミドｐＷＹＥ１２２９（図３に示す）と名付け、ｚｗｆ－ｏｐｃＡ遺伝子（配列番号２）をｐＸＭＪ１９のＨｉｎｄＩＩＩとＸｂａＩの部位の間に挿入し、かつｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片（配列番号４）をＸｂａＩとＳｍａＩの部位の間に挿入して得られたベクターである。
+</base:Paragraphs>
+        <base:Paragraphs num="0158">
+  Ｐ４４：ＣＣＣＡＡＧＣＴＴＡＡＡＧＧＡＧＧＡＣＣＡＴＣＡＴＧＡＧＣＡＣＡＡＡＣＡＣＧＡＣＣＣＣＣＴ（ＨｉｎｄＩＩＩ）（配列番号６４）
+Ｐ４５：ＧＣＴＣＴＡＧＡＴＴＡＧＡＣＧＧＴＴＴＣＣＡＧＣＴＴＧ（ＸｂａＩ）（配列番号６５）
+</base:Paragraphs>
+        <base:Paragraphs num="0159">
+  組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧｆｂｒをそれぞれｐｇｉか欠損しないエンジニアリング菌ＣＧ１６０とｐｇｉが欠損するエンジニアリング菌ＣＧ１６１に電気穿孔法により形質転換する。Ｐ３６とＰ３７をプライマーとして、コロニーＰＣＲを採用し、形質転換体を同定し、４５８７ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出する。
+</base:Paragraphs>
+        <base:Paragraphs num="0160">
+  シークエンシングしたところ、Ｌ－ヒスチジンエンジニアリング菌ＣＧ１７３（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>／ｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>）は組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>を含み、組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>をエンジニアリング菌ＣＧ１６０に形質転換して得られた菌である。
+</base:Paragraphs>
+        <base:Paragraphs num="0161">
+  ＣＧ１７１（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ／ｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>）は組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>を含み、組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>をエンジニアリング菌ＣＧ１６１に形質転換して得られた菌である。
+</base:Paragraphs>
+        <base:Paragraphs num="0162">
+  さらにエンジニアリング菌中の過剰発現プラスミドの持つ遺伝子の発現状況を検証する。ＣＧ１７１の細胞溶解液を調製し、ＳＤＳ－ＰＡＧＥ検査を行い、結果は図４に示すように、レーン１と２のＣＧ１７１の細胞溶解液であり、対照として、レーン３はＡＴＣＣ１３０３２／ｐＸＭＪ１９（ｐＸＭＪ１９プラスミドをＡＴＣＣ１３０３２に導入して得られたもの）の細胞溶解液であり、過剰発現プラスミドの持つｚｗｆ（５７．５ｋＤａ）、ｏｐｃＡ（３４．８ｋＤａ）ｐｒｓＡ（３５．６ｋＤａ）およびｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>（３０．２ｋＤａ）遺伝子がエンジニアリング菌に成功に発現したことを表明する。
+</base:Paragraphs>
+        <base:Paragraphs num="0163">
+  さらにエンジニアリング菌ＣＧ１７１のグルコース－６－リン酸デヒドロゲナーゼ（Ｚｗｆ－ｏｐｃＡ）の酵素の比活性を測定する。測定反応体系は次の通りであり（０．５ｍＬ）、１００ｍｍｏｌ／ＬＴｒｉｓ－ＨＣｌ（ｐＨ７．８）、２００ｍｍｏｌ／ＬＫＣｌ、１ｍｍｏｌ／ＬＮＡＤＰ、１０ｍｍｏｌ／ＬＭｇＣｌ<base:Sub>２</base:Sub>、５ｍｍｏｌ／Ｌグルコース－６－リン酸（Ｇ６Ｐ）、適量の細胞溶解液である。３０℃で、５ｍｉｎ反応する。３４０ｎｍの吸光値の変化を検出することにより、産物ＮＡＤＰＨの生成量を反映する。酵素活性単位（Ｕ）の定義は１分間に１ｎｍｏｌ還元型ニコチンアミドアデニンジヌクレオチドリン酸（ＮＡＤＰＨ）の生成に必要な酵素量である。結果は、図５に示すように、野生型菌株に比べて、プラスミドでｚｗｆ－ｏｐｃＡを過剰表現させたことにより、アルグルコース－６－リン酸デヒドロゲナーゼの比活性は３４倍も高まる。
+</base:Paragraphs>
+        <base:Paragraphs num="0164">
+  実施例３、プラスミドを含むＬ－ヒスチジン高産量エンジニアリング菌ＣＧ３１９の構築
+  以上で得た高産量エンジニアリング菌ＣＧ１７１を基に、さらにＡＩＣＡＲメチルトランスフェラーゼ／ＩＭＰシクロヒドロラーゼ（ＰｕｒＨ、配列番号１６に示す）をコードするｐｕｒＨ遺伝子を過剰発現して、ヒスチジン合成経路の強化のため多くなる副産物ＡＩＣＡＲをプリンヌクレオチド合成経路にガイドするために、組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨを構築し、初級菌ＣＧ１６１に導入し、高産量エンジニアリング菌ＣＧ３１９を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0165">
+  Ｇｅｎｂａｎｋにおけるコリネバクテリウム・グルタミクムＡＴＣＣ１３０３２のｐｕｒＨ遺伝子配列により、プライマーを設計する。ＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ４６とＰ４７をプライマーとして、ｐｕｒＨ遺伝子（１５６３ｂｐ）（配列番号１５）をＰＣＲで増幅する。
+</base:Paragraphs>
+        <base:Paragraphs num="0166">
+  上記のＰＣＲ産物をＳｍａＩとＥｃｏＲＩでダブルダイジェストした後、同じダブルダイジェスト処理を経たコリネバクテリウム・グルタミクム－大腸菌シャトル発現プラスミドｐＸＭＪ１９と接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、クロロマイセチン（２０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養3世代後、Ｐ５２とＰ５３をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、１７７９ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＸｂａＩとＳｍａＩでダブルダイジェストし、同定を行い、得られた１５７７ｂｐは陽性であり、組換えプラスミドｐＸＭＪ１９－ｐｕｒＨと名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0167">
+  組換えプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>をテンプレートとして、それぞれＰ４８／Ｐ４９とＰ５０／Ｐ５１をプライマーとして、ｚｗｆ－ｏｐｃＡ（２５１９ｂｐ）とｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片（１８５２ｂｐ）をＰＣＲで増幅する。オーバーラップ伸長ＰＣＲを採用して両断片を接続して４３８５ｂｐのｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片（配列番号１７）を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0168">
+  ここで、配列番号１７の５’末端から第１５－２５３３番目のヌクレオチドはｚｗｆ－ｏｐｃＡであり、配列番号１７の５’末端から第２５３４－４３８５番目のヌクレオチドはｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>である。
+</base:Paragraphs>
+        <base:Paragraphs num="0169">
+  上記のＰＣＲ産物をＸｂａＩとＳｍａＩでダブルダイジェストした後、同じダブルダイジェスト処理を経た組換えプラスミドｐＸＭＪ１９－ｐｕｒＨと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、クロロマイセチン（２０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ５２とＰ５３をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、６１６４ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＸｂａＩとＳｍａＩでダブルダイジェストし、同定を行い、得られた４３８５ｂｐは陽性であり、組換えプラスミドｐＷＹＥ１５０７（ｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨ）と名付ける（図６に示す）。
+</base:Paragraphs>
+        <base:Paragraphs num="0170">
+  ｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨはさらにシークエンシング解析したところ、このプラスミドはｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>断片（配列番号１７）をプラスミドｐＸＭＪ１９のＸｂａＩとＳｍａＩの制限酵素切断部位の間に挿入するとともに、ｐｕｒＨをプラスミドｐＸＭＪ１９のＳｍａＩとＥｃｏＲＩの制限酵素切断部位の間に挿入して得られたベクターである。
+</base:Paragraphs>
+        <base:Paragraphs num="0171">
+  プラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨをエンジニアリング菌ＣＧ１６１に形質転換して、Ｐ５２とＰ５３をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、６１６４ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、同定を行い、さらに、過剰発現プラスミドをエンジニアリング菌に形質転換することに成功し、Ｌ－ヒスチジンエンジニアリング菌ＣＧ３１９（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ／ｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨ）の構築に成功したことを確認された。
+</base:Paragraphs>
+        <base:Paragraphs num="0172">
+  上記のプライマー配列は次の通りである。
+Ｐ４６：ＴＣＣＣＣＣＧＧＧＡＡＡＧＧＡＧＧＡＣＣＴＴＣＡＴＧＡＧＣＧＡＴＧＡＴＣＧＴＡＡＧ（ＳｍａＩ）（配列番号６６）
+Ｐ４７：ＣＣＧＧＡＡＴＴＣＴＴＡＧＴＧＡＧＣＧＡＡＧＴＧＴＣＧＣＧ（ＥｃｏＲ  Ｉ）（配列番号６７）
+Ｐ４８：ＧＣＴＣＴＡＧＡＡＡＡＧＧＡＧＧＡＣＣＡＴＣＡＴＧＡＧＣＡＣＡＡＡＣＡＣＧＡＣＣＣ（ＸｂａＩ）（配列番号６８）
+Ｐ４９：ＡＧＴＣＡＴＧＡＧＧＡＴＣＣＴＣＣＴＴＴＴＴＡＧＡＣＧＧＴＴＴＣＣＡＧＣＴＴＧ（配列番号６９）
+Ｐ５０：ＴＣＡＡＧＣＴＧＧＡＡＡＣＣＧＴＣＴＡＡＡＡＡＧＧＡＧＧＡＴＣＣＴＣＡＴＧＡＣＴＧＣＴＣＡＣＴＧ（配列番号７０）
+Ｐ５１：ＴＣＣＣＣＣＧＧＧＣＴＡＧＡＴＧＣＧＧＧＣＧＡＴＧＣＧＧＡＴＴＴＣ（ＳｍａＩ）（配列番号７１）
+Ｐ５２：ＣＡＡＴＴＡＡＴＣＡＴＣＧＧＣＴＣＧＴＡ（配列番号７２）
+Ｐ５３：ＡＣＣＧＣＴＴＣＴＧＣＧＴＴＣＴＧＡＴＴ（配列番号７３）
+</base:Paragraphs>
+        <base:Paragraphs num="0173">
+  実施例４、プラスミドを含むＬ－ヒスチジン高産量エンジニアリング菌ＣＧ３２８の構築
+  以上に得たＣＧ３１９を基に、リン酸リボースアミドトランスフェラーゼ（ＰｕｒＦ、配列番号１９）をコードするｐｕｒＦ遺伝子を弱化させ、ヒスチジン合成前駆体物質ＰＲＰＰのヒスチジン合成経路への流入を増加させるために、初級エンジニアリング菌ＣＧ１６１でｐｕｒＦのプロモーターをＰ<base:Sub>ｈｏｍ</base:Sub>に置換え、ＣＧ３２７を得てから、プラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨを導入して、高産量エンジニアリング菌ＣＧ３２８を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0174">
+  初級エンジニアリング菌ＣＧ１６１のｐｕｒＦ遺伝子のプロモーターをＰ<base:Sub>ｈｏｍ</base:Sub>に置換え、エンジニアリング菌ＣＧ３２７を得る。具体的には次の通りである。
+</base:Paragraphs>
+        <base:Paragraphs num="0175">
+  まず、Ｇｅｎｂａｎｋにおけるコリネバクテリウム・グルタミクムＡＴＣＣ１３０３２のｐｕｒＦ遺伝子およびその上下流配列により、それぞれプライマーを設計する。
+</base:Paragraphs>
+        <base:Paragraphs num="0176">
+  コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ５４とＰ５５をプライマーとして、ｐｕｒＦ遺伝子上流ホモロジーアームをＰＣＲで増幅し、Ｐ５６とＰ５７をプライマーとして、Ｐ<base:Sub>ｈｏｍ</base:Sub>プロモーターを増幅する。Ｐ５８とＰ５９をプライマーとしてｐｕｒＦ遺伝子下流ホモロジーアームを増幅する。また、精製された上記ＰＣＲ産物をテンプレートとして、Ｐ５４とＰ５９をプライマーとして、オーバーラップ伸長ＰＣＲ技術（ＳＯＥ）を採用して増幅し、１６５４ｂｐのＰ<base:Sub>ｈｏｍ</base:Sub>プロモーターおよびｐｕｒＦ遺伝子プロモーターの上下流ホモロジーアームを含む断片を得る（配列番号１８）。
+</base:Paragraphs>
+        <base:Paragraphs num="0177">
+  ここで、配列番号１８の５’末端から第１－７３５番目のヌクレオチドはｐｕｒＦ遺伝子プロモーターの上流ホモロジーアームであり、配列番号１８の５’末端から第７３６－８６５番目のヌクレオチドはＰ<base:Sub>ｈｏｍ</base:Sub>プロモーターであり、配列番号１８の５’末端から第８６６－１６５４番目のヌクレオチドはｐｕｒＦ遺伝子プロモーターの下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0178">
+  精製して回収されたＰＣＲ産物をＢａｍＨＩとＥｃｏＲＩでダブルダイジェストした後、同じダブルダイジェスト処理を経た相同組換えベクターｐＫ１８ｍｏｂｓａｃＢと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、１８６６ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＢａｍＨＩとＥｃｏＲＩでダブルダイジェストし、同定を行い、得られた１６５４ｂｐは陽性である。さらにシークエンシング検証したところ、組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｈｏｍ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＦ</base:Sub>の構築に成功し、プロモーターＰ<base:Sub>ｈｏｍ</base:Sub>およびプロモーターを置換えたい上下流ホモロジーアームを含む断片（配列番号１８）をベクターｐＫ１８ｍｏｂｓａｃＢのＢａｍＨＩとＥｃｏＲＩの制限酵素切断部位の間に挿入し得られたベクターである。
+</base:Paragraphs>
+        <base:Paragraphs num="0179">
+  上記のプライマー配列は次の通りである。
+Ｐ５４：ＣＧＣＧＧＡＴＣＣＴＣＣＧＣＡＧＡＡＡＧＣＡＣＣＴＣＡ（ＢａｍＨＩ）（配列番号７４）
+Ｐ５５：ＴＴＴＡＧＴＴＴＴＣＡＡＣＧＧＣＴＡＡＡＧＴＴＴＧＡＣＣＡＣＴＧＧ（配列番号７５）
+Ｐ５６：ＧＴＧＧＴＣＡＡＡＣＴＴＴＡＧＣＣＧＴＴＧＡＡＡＡＣＴＡＡＡＡＡＧＣ（配列番号７６）
+Ｐ５７：ＴＣＣＧＧＴＣＣＴＣＣＴＴＴＴＡＣＴＴＴＧＴＴＴＣＧＧＣＣＡＣＣＣ（配列番号７７）
+Ｐ５８：ＧＧＣＣＧＡＡＡＣＡＡＡＧＴＡＡＡＡＧＧＡＧＧＡＣＣＧＧＡＡＴＧＡＣＣＣＡＧＧＴＡＡＡＣＣＡＣ（配列番号７８）
+Ｐ５９：ＣＣＧＧＡＡＴＴＣＡＡＣＣＴＴＴＧＣＧＧＧＴＴＧＴＣＴ（ＥｃｏＲＩ）（配列番号７９）
+</base:Paragraphs>
+        <base:Paragraphs num="0180">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｈｏｍ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＦ</base:Sub>をコリネバクテリウム・グルタミクムＣＧ１６１に電気穿孔法により形質転化し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得、蔗糖負の選択を通じて、第２回の相同組換えが発生したコロニーを得る。コロニーからＰ５６とＰ５９をプライマーとしてゲノムＤＮＡを抽出し、ＰＣＲで増幅し、同定を行い、得られた９０５ｂｐは陽性であり、ＣＧ３２７（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ：：Ｐ<base:Sub>ｈｏｍ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＦ</base:Sub>）と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0181">
+  ＣＧ３２７（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ：：Ｐ<base:Sub>ｈｏｍ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＦ</base:Sub>）はさらにシークエンシング解析した結果、Ｌ－ヒスチジン初級エンジニアリング菌ＣＧ１６１の染色体ｐｕｒＦ遺伝子プロモーターをＰ<base:Sub>ｈｏｍ</base:Sub>に置換え、ＣＧ３２７の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0182">
+  エンジニアリング菌ＣＧ３２８はプラスミドｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨをエンジニアリング菌ＣＧ３２７に導入して得られた組換え菌（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Δｐｇｉ：：Ｐ<base:Sub>ｈｏｍ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＦ</base:Sub>／ｐＸＭＪ１９－ｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨ）である。具体的な操作方法は以上のエンジニアリング菌ＣＧ３１９の調製と似て、通常の方法であるため、ここで詳しい説明を省略する。ＣＧ３２８菌株が持つプラスミドをＰＣＲ法によって同定して、Ｐ５２とＰ５３をプライマーとして、６１６４ｂｐ断片を得（図７）、このＤＮＡ断片をシークエンシングした結果はｚｗｆ－ｏｐｃＡ－ｐｒｓＡ－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－ｐｕｒＨ断片であり、ＣＧ３２８菌株の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0183">
+  実施例５、プラスミドのないＬ－ヒスチジン高産量組換え菌ＣＧ３５１の構築
+  プラスミドを持つことはエンジニアリング菌の代謝負担を増加させるとともに、エンジニアリング菌の工業化の発酵制御と発酵製品の安全性に役立たない。そのため、本実施例では、プラスミドが持っている遺伝子を染色体で強く発現させて、プラスミドのないヒスチジンエンジニアリング菌を構築することにより、エンジニアリング菌の代謝負担を軽減して、発酵基質から産物への最大の転化を実現する。
+</base:Paragraphs>
+        <base:Paragraphs num="0184">
+  本実施例では、ｐｇｉ遺伝子をノックアウトした初級菌ＣＧ１６１を基に、さらなる改変を行い、Ｐ<base:Sub>ｓｏｄ</base:Sub>プロモーターでｐｒｓＡ遺伝子のプロモーターを置換えて、ＰＲＰＰ合成酵素（ＰｒｓＡ）の発現を向上させることにより、ＣＧ３５０を得る。さらに、Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターでｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターを置換えて、グルコース－６－リン酸デヒドロゲナーゼ（Ｚｗｆ－ＯｐｃＡ）の発現を向上させることにより、ＣＧ３５１を得る。
+</base:Paragraphs>
+        <base:Paragraphs num="0185">
+  Ｇｅｎｂａｎｋにおけるコリネバクテリウム・グルタミクムＡＴＣＣ１３０３２のｐｒｓＡ遺伝子およびその上下流配列ならびにＰ<base:Sub>ｓｏｄ</base:Sub>プロモーター配列により、それぞれプライマーを設計する。
+</base:Paragraphs>
+        <base:Paragraphs num="0186">
+  コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ６０とＰ６１をプライマーとして、ｐｒｓＡプロモーター上流ホモロジーアームを増幅し、Ｐ６２とＰ６３をプライマーとして、Ｐ<base:Sub>ｓｏｄ</base:Sub>プロモーターを増幅し、Ｐ６４とＰ６５をプライマーとして、ｐｒｓＡプロモーター下流ホモロジーアームを増幅する。また、精製された上記ＰＣＲ産物をテンプレートとして、Ｐ６０とＰ６５をプライマーとして、オーバーラップ伸長ＰＣＲ技術（ＳＯＥ）を採用して増幅し、１４５５ｂｐのＰＣＲ産物を得、置き換えるプロモーターＰ<base:Sub>ｓｏｄ</base:Sub>および置換えられるプロモーターＰ<base:Sub>ｐｒｓＡ</base:Sub>の上下流ホモロジーアームを含む断片である（配列番号１１）。
+</base:Paragraphs>
+        <base:Paragraphs num="0187">
+  ここで、配列番号１１の５’末端から第１－６５５番目のヌクレオチドは置換えられるプロモーターＰ<base:Sub>ｐｒｓＡ</base:Sub>の上流ホモロジーアームであり、配列番号１１の５’末端から第６５６－８４７番目のヌクレオチドはプロモーターＰ<base:Sub>ｓｏｄ</base:Sub>であり、配列番号１１の５’末端から第８４８－１４５５番目のヌクレオチドは置換えられるプロモーターＰ<base:Sub>ｐｒｓＡ</base:Sub>下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0188">
+  上述１４５５ｂｐのＰＣＲ産物をＨｉｎｄＩＩＩとＢａｍＨＩでダブルダイジェストした後、同じダブルダイジェスト処理を経た相同組換えベクターｐＫ１８ｍｏｂｓａｃＢと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、１６６７ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＨｉｎｄＩＩＩとＢａｍＨＩでダブルダイジェストし、同定を行い、得られた１４５５ｂｐは陽性である。
+</base:Paragraphs>
+        <base:Paragraphs num="0189">
+  陽性プラスミドをシークエンシングした結果、このプラスミドは配列表に配列番号１１に示すヌクレオチドをベクターｐＫ１８ｍｏｂｓａｃＢに挿入して得られた組換プラスミドであり、ｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｓｏｄ</base:Sub>：：Ｐ<base:Sub>ｐｒｓＡ</base:Sub>と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0190">
+  同じ方法を採用して相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｔｋｔ</base:Sub>を構築し、ｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターを強力なプロモーターＰ<base:Sub>ｅｆｔｕ</base:Sub>に置き換える。具体的に次の通りである。Ｐ６６とＰ６７をプライマーとして、ｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンプロモーター上流ホモロジーアームを増幅し、Ｐ６８とＰ６９をプライマーとして、プロモーターＰ<base:Sub>ｅｆｔｕ</base:Sub>を増幅し、Ｐ７０とＰ７１をプライマーとしてｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンプロモーター下流ホモロジーアームを増幅する。Ｐ６６とＰ７１をプライマーとして、オーバーラップ伸長ＰＣＲ技術（ＳＯＥ）を採用して増幅する。１５１２ｂｐのＰＣＲ産物を得、置き換えるプロモーターＰ<base:Sub>ｅｔｆｕ</base:Sub>および置き換えられるプロモーターＰ<base:Sub>ｔｋｔ</base:Sub>の上下流ホモロジーアームを含む長断片である（配列番号１２）。ここで、配列番号１２の５’末端から第１－６３４番目のヌクレオチドは置換えられるプロモーターＰ<base:Sub>ｔｋｔ</base:Sub>の上流ホモロジーアームであり、配列番号１２の５’末端から第６３５－８３４番目のヌクレオチドはプロモーターＰ<base:Sub>ｅｆｔｕ</base:Sub>であり、配列番号１２の５’末端から第８３５－１５１２番目のヌクレオチドは置換えられるプロモーターＰ<base:Sub>ｔｋｔ</base:Sub>下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0191">
+  上述１５１２ｂｐのＰＣＲ産物をＨｉｎｄＩＩＩとＢａｍＨＩでダブルダイジェストした後、同じダブルダイジェスト処理を経た相同組換えベクターｐＫ１８ｍｏｂｓａｃＢと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、１７２４ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＨｉｎｄＩＩＩとＢａｍＨＩでダブルダイジェストし、同定を行い、得られた１５１２ｂｐは陽性である。陽性プラスミドをシークエンシングした結果、このプラスミドは配列表に配列番号１２に示すヌクレオチドをベクターｐＫ１８ｍｏｂｓａｃＢに挿入して得られた組換プラスミドであり、ｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｔｋｔ</base:Sub>と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0192">
+  上記のプライマー配列は次の通りである。
+Ｐ６０：ＣＣＣＡＡＧＣＴＴＴＣＣＡＧＣＡＡＣＣＡＣＣＴＧＧＡＴ（ＨｉｎｄＩＩＩ）（配列番号８０）
+Ｐ６１：ＡＡＴＴＧＧＣＡＧＣＴＡＴＴＡＧＣＣＴＴＣＣＴＧＧＴＴＧＴＧ（配列番号８１）
+Ｐ６２：ＣＡＧＧＡＡＧＧＣＴＡＡＴＡＧＣＴＧＣＣＡＡＴＴＡＴＴＣＣＧ（配列番号８２）
+Ｐ６３：ＴＴＧＴＣＣＴＣＣＴＴＴＧＧＧＴＡＡＡＡＡＡＴＣＣＴＴＴＣＧ（配列番号８３）
+Ｐ６４：ＧＡＴＴＴＴＴＴＡＣＣＣＡＡＡＧＧＡＧＧＡＣＡＡＣＣＡＴＧＡＣＴＧＣＴＣＡＣＴＧＧＡＡ（配列番号８４）
+Ｐ６５：ＣＧＣＧＧＡＴＣＣＣＧＣＣＡＴＴＧＧＧＧＣＡＴＣＧＣＣ（ＢａｍＨＩ）（配列番号８５）
+Ｐ６６：ＣＣＣＡＡＧＣＴＴＴＣＡＡＣＧＡＴＣＡＣＴＧＣＣＣＡＧ（ＨｉｎｄＩＩＩ）（配列番号８６）
+Ｐ６７：ＧＧＧＴＡＡＣＧＧＣＣＡＧＴＧＴＧＴＣＴＴＡＧＡＡＡＡＴＧ（配列番号８７）
+Ｐ６８：ＣＴＡＡＧＡＣＡＣＡＣＴＧＧＣＣＧＴＴＡＣＣＣＴＧＣＧＡＡ（配列番号８８）
+Ｐ６９：ＴＴＧＴＣＣＴＣＣＴＴＴＴＧＴＡＴＧＴＣＣＴＣＣＴＧＧＡＣＴ（配列番号８９）
+Ｐ７０：ＧＧＡＧＧＡＣＡＴＡＣＡＡＡＡＧＧＡＧＧＡＣＡＡＣＣＴＴＧＡＣＣＡＣＣＴＴＧＡＣＧＣＴＧ（配列番号９０）
+Ｐ７１：ＣＧＣＧＧＡＴＣＣＡＡＧＣＧＡＴＣＴＣＡＧＴＧＴＴＧＴ（ＢａｍＨＩ）（配列番号９１）
+Ｐ７２：ＴＧＴＧＡＣＣＣＧＣＴＡＣＣＣＧＡＴＡＡ（配列番号９２）
+Ｐ７３：ＣＧＴＴＡＣＣＣＴＧＣＧＡＡＴＧＴＣ（配列番号９３）
+</base:Paragraphs>
+        <base:Paragraphs num="0193">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｓｏｄ</base:Sub>：：Ｐ<base:Sub>ｐｒｓＡ</base:Sub>をＬ－ヒスチジン組換え菌ＣＧ１６１に電気転換し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得、蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。陽性コロニーをＰ７２とＰ６５をプライマーとしてＰＣＲ増幅同定を行い、７７８ｂｐの組換え菌ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Ｐ<base:Sub>ｓｏｄ</base:Sub>：：Ｐ<base:Sub>ｐｒｓＡ</base:Sub>－Δｐｇｉを得、ＣＧ３５０と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0194">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｔｋｔ</base:Sub>をコリネバクテリウム・グルタミクムＣＧ３５０に電気穿孔法により形質転換し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得、蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。陽性コロニーをＰ７３とＰ７１をプライマーとしてＰＣＲで増幅し、同定を行い、８４７ｂｐの組換え菌ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｔｋｔ</base:Sub>－Ｐ<base:Sub>ｓｏｄ</base:Sub>：：Ｐ<base:Sub>ｐｒｓＡ</base:Sub>－Δｐｇｉを得、コリネバクテリウム・グルタミクムＣＧ３５１と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0195">
+  この組換え菌からゲノムＤＮＡを抽出してシークエンシングした結果、Ｌ－ヒスチジン組換え菌ＣＧ１６１中のｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンとｐｒｓＡ遺伝子のプロモーターをコリネバクテリウム・グルタミクム内生の強力なプロモーターＰｅｆｔｕとＰｓｏｄに置換え、プラスミドのないＬ－ヒスチジン組換え菌ＣＧ３５１（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｔｋｔ</base:Sub>－Ｐ<base:Sub>ｓｏｄ</base:Sub>：：Ｐ<base:Sub>ｐｒｓＡ</base:Sub>－Δｐｇｉ）の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0196">
+  実施例６、プラスミドのないＬ－ヒスチジン高産量組換え菌ＣＧ３５２とＣＧ３５３の構築
+  本実施例では、以上の実施例５を基に、強力なプロモーターＰ<base:Sub>ｅｆｔｕ</base:Sub>でｐｕｒＨ遺伝子のプロモーターを置換えて、ｐｕｒＨでコードする二元機能酵素ＡＩＣＡＲメチルトランスフェラーゼ／ＩＭＰシクロヒドロラーゼ（ＰｕｒＨ、配列番号１配列番号１６）の発現を向上させ、さらにＣＧ３５２を構築し、そしてＰ<base:Sub>ｈｏｍ</base:Sub>プロモーターでｐｕｒＦ遺伝子プロモーターを置換え、ヌクレオチド合成経路の第一酵素であるリン酸リボースアミドトランスフェラーゼ（ＰｕｒＦ、配列番号１９）を弱化することにより、ＣＧ３５３を構築する。
+</base:Paragraphs>
+        <base:Paragraphs num="0197">
+  以上の実施例５と同じ方法を採用して相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＨ</base:Sub>を構築し、ｐｕｒＨ遺伝子のプロモーターを強力なプロモーターＰ<base:Sub>ｅｆｔｕ</base:Sub>に置き換える。Ｇｅｎｂａｎｋにおけるコリネバクテリウム・グルタミクムＡＴＣＣ１３０３２のｐｕｒＨ遺伝子の上下流配列により、プライマーを設計する。コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２ゲノムＤＮＡをテンプレートとして、Ｐ７４とＰ７５をプライマーとして、増幅してＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターを得、Ｐ７６とＰ７７をプライマーとして、増幅して上流ホモロジーアームを得、Ｐ７８とＰ７９をプライマーとして、増幅して下流ホモロジーアームを得、また、精製された上記のＰＣＲ産物をテンプレートとして、Ｐ７６とＰ７９をプライマーとして、オーバーラップ伸長PCR技術（ＳＯＥ）を採用して増幅し、１４７３ｂｐの上下流ホモロジーアームおよびプロモーターＰ<base:Sub>ｅｆｔｕ</base:Sub>を含む断片を得る（配列番号２０）。
+</base:Paragraphs>
+        <base:Paragraphs num="0198">
+  ここで、配列番号２０の５’末端から第１－６３３番目のヌクレオチドは上流ホモロジーアームであり、配列番号２０の５’末端から第６３４－８３３番目のヌクレオチドはＰ<base:Sub>ｅｆｔｕ</base:Sub>であり、配列番号２０の５’末端から第８３４－１４７３番目のヌクレオチドは下流ホモロジーアームである。
+</base:Paragraphs>
+        <base:Paragraphs num="0199">
+  上記の１４７３ｂｐのＰＣＲ産物をＸｂａＩとＳｍａＩでダブルダイジェストした後、同じダブルダイジェスト処理を経た相同組換えベクターｐＫ１８ｍｏｂｓａｃＢと接続する。接続産物は化学的な方法を採用して大腸菌ＤＨ５αに形質転換して、カナマイシン（５０μｇ／ｍＬ）を含むＬＢ平板で形質転換体をスクリーニングし、形質転換体の継代培養３世代後、Ｐ１３とＰ１４をプライマーとして、コロニーＰＣＲを採用して形質転換体を同定し、１６８５ｂｐの陽性の形質転換体を得、同定が正しい形質転換体に対してプラスミドを抽出し、プラスミドをＸｂａＩとＳｍａＩでダブルダイジェストし、同定を行い、得られた１４７３ｂｐは陽性である。
+</base:Paragraphs>
+        <base:Paragraphs num="0200">
+  陽性プラスミドをシークエンシングした結果、このプラスミドは配列表に配列番号２０に示すヌクレオチドをベクターｐＫ１８ｍｏｂｓａｃＢに挿入して得られた組換えプラスミドであり、ｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＨ</base:Sub>と名付ける。
+</base:Paragraphs>
+        <base:Paragraphs num="0201">
+  上記のプライマー配列は次の通りである。
+Ｐ７４：ＣＴＧＧＡＧＡＧＧＣＴＡＡＴＧＧＣＣＧＴＴＡＣＣＣＴＧＣＧＡＡ（配列番号９４）
+Ｐ７５：ＡＴＣＡＴＣＧＣＴＣＡＴＴＧＴＡＴＧＴＣＣＴＣＣＴＧＧＡＣＴ（配列番号９５）
+Ｐ７６：ＧＣＴＣＴＡＧＡＡＴＧＡＴＧＧＴＴＣＣＧＡＧＧＣＣＧ（ＸｂａＩ）（配列番号９６）
+Ｐ７７：ＧＧＧＴＡＡＣＧＧＣＣＡＴＴＡＧＣＣＴＣＴＣＣＡＧＴＴＧＡＧ（配列番号９７）
+Ｐ７８：ＧＧＡＧＧＡＣＡＴＡＣＡＡＴＧＡＧＣＧＡＴＧＡＴＣＧＴＡＡＧ（配列番号９８）
+Ｐ７９：ＴＣＣＣＣＣＧＧＧＴＧＧＴＧＣＣＧＡＴＣＣＡＡＣＣＴＧ（ＳｍａＩ）（配列番号９９）
+</base:Paragraphs>
+        <base:Paragraphs num="0202">
+  シークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＨ</base:Sub>をＬ－ヒスチジン組換え菌ＣＧ３５１に電気穿孔法により形質転換し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得、蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。陽性コロニーからゲノムＤＮＡを抽出して、抽出したゲノムＤＮＡをテンプレートとして、Ｐ７４とＰ７９をプライマーとして、ＰＣＲで増幅し、８４０ｂｐの陽性クローンを得、シークエンシング検証したところ、Ｌ－ヒスチジン組換え菌ＣＧ３５１でのｐｕｒＨ遺伝子のプロモーターをコリネバクテリウム・グルタミクム内生の強力なプロモーターＰ<base:Sub>ｅｆｔｕ</base:Sub>に置き換えることに成功し、プラスミドのないＬ－ヒスチジン組換え菌ＣＧ３５２（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｔｋｔ</base:Sub>－Ｐ<base:Sub>ｓｏｄ</base:Sub>：：Ｐ<base:Sub>ｐｒｓＡ</base:Sub>－Δｐｇｉ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＨ</base:Sub>）の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0203">
+  実施例４で調製されたシークエンシングが正しい相同組換えプラスミドｐＫ１８ｍｏｂｓａｃＢ－Ｐ<base:Sub>ｈｏｍ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＦ</base:Sub>をコリネバクテリウム・グルタミクムＣＧ３５２に電気穿孔法により形質転換し、カナマイシン耐性プラスミドの正の選択を通じて組換えプラスミドが染色体上に組み込まれたコロニーを得、蔗糖負の選択を通じて、２回の相同組換えが発生した陽性コロニーを得る。Ｐ５６とＰ５９をプライマーとして、陽性コロニーからゲノムＤＮＡを抽出し、ＰＣＲで増幅し、同定を行い、得られた９０５ｂｐは陽性であり（図８を参照）、ＣＧ３５３（ＷＴ－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＥＧ</base:Sub>－ｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>－Ｐ<base:Sub>ｇｌｙＡ</base:Sub>：：Ｐ<base:Sub>ｈｉｓＤＣＢ</base:Sub>－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｔｋｔ</base:Sub>－Ｐ<base:Sub>ｓｏｄ</base:Sub>：：Ｐ<base:Sub>ｐｒｓＡ</base:Sub>－Δｐｇｉ－Ｐ<base:Sub>ｅｆｔｕ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＨ</base:Sub>－Ｐ<base:Sub>ｈｏｍ</base:Sub>：：Ｐ<base:Sub>ｐｕｒＦ</base:Sub>）と名付ける。
+ＣＧ３５３はさらにシークエンシング解析した結果、エンジニアリング菌ＣＧ３５２の染色体ｐｕｒＦ遺伝子プロモーターをＰ<base:Sub>ｈｏｍ</base:Sub>に置換え、ＣＧ３５３の構築に成功した。
+</base:Paragraphs>
+        <base:Paragraphs num="0204">
+  実施例７、Ｌ－ヒスチジンの生産におけるＬ－ヒスチジンエンジニアリング菌の応用
+  １．プラスミドを含む高産量Ｌ－ヒスチジンの組換え菌の発酵
+１、プラスミドを含む高産量Ｌ－ヒスチジンエンジニアリング菌の振盪発酵
+  振盪発酵に用いる発酵培地は具体的に次の通りである。グルコース４０ｇ／Ｌ、（ＮＨ<base:Sub>４</base:Sub>）２ＳＯ<base:Sub>４</base:Sub>２０ｇ／Ｌ、ＫＨ<base:Sub>２</base:Sub>ＰＯ<base:Sub>４</base:Sub>０．５ｇ／Ｌ、Ｋ<base:Sub>２</base:Sub>ＨＰＯ<base:Sub>４</base:Sub>・３Ｈ<base:Sub>２</base:Sub>Ｏ０．５ｇ／Ｌ、ＭｇＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏ０．２５ｇ／Ｌ、ＦｅＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏ０．０１ｇ／Ｌ、ＭｎＳＯ<base:Sub>４</base:Sub>・Ｈ<base:Sub>２</base:Sub>Ｏ０．０１ｇ／Ｌ、ＺｎＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏｇ／Ｌ０．００１、ＣｕＳＯ<base:Sub>４</base:Sub>０．０００２ｇ／Ｌ、ＮｉＣｌ<base:Sub>２</base:Sub>・６Ｈ<base:Sub>２</base:Sub>Ｏ０．００００２ｇ／Ｌ、ビオチン０．０００２ｇ／Ｌ、ｐＨ７．０－７．２、ＣａＣＯ<base:Sub>３</base:Sub>２０ｇ／Ｌである。グルコースは単独滅菌し、１１５℃で１５分間高圧蒸気滅菌する。ＭｇＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏおよび無機塩イオンは、単独滅菌し、１２１℃で２０分間高圧蒸気滅菌する。ビタミンは０．２２μｍの無菌ろ過膜を採用してろ過除菌する。殘りの成分は１２１℃で２０分間高圧蒸気滅菌する。
+</base:Paragraphs>
+        <base:Paragraphs num="0205">
+  種培地は具体的には次の通りである。グルコース２０ｇ／Ｌ、硫酸アンモニウム５ｇ／Ｌ、Ｋ<base:Sub>２</base:Sub>ＨＰＯ<base:Sub>４</base:Sub>・３Ｈ<base:Sub>２</base:Sub>Ｏ１ｇ／Ｌ、ＭｇＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏ０．４ｇ／Ｌ、ビオチン５０ｇμであり、ビタミンＢ１１ｍｇ、エンジェル・イースト（Ａｎｇｅｌ  Ｙｅａｓｔ製）酵母粉（ＦＭ８０２）１０ｇ／Ｌ、エンジェル・イーストペプトン（ＦＰ３１８）１０ｇ／Ｌである。
+</base:Paragraphs>
+        <base:Paragraphs num="0206">
+  １）、発酵液種の獲得
+  上述の実施例２で調製したエンジニアリング菌ＣＧ１７６、ＣＧ１７２、ＣＧ１７３とＣＧ１７１をそれぞれ種培地に接種し、発酵液種の培養条件は培養温度３２°Ｃで、振盪速度は２２０ｒ／ｍｉｎ、培養時間８ｈで、発酵液種を得、ＯＤ６００は２０である。
+</base:Paragraphs>
+        <base:Paragraphs num="0207">
+  ２）、発酵
+  発酵液種を体積含有率が３％で最終濃度が１０μｇ／ｍｌであるクロロマイセチンを含む発酵培地（５００ｍＬバッフル付三角フラスコ液量は３０ｍＬ）に接種し、３２℃で、２２０ｒ／ｍｉｎ、７２ｈで培養し、発酵培養６ｈ時に最終濃度が１ｍｍｏｌ／Ｌであるイソプロピル－β－チオガラクトピラノシド（ＩＰＴＧ）を加入して目的遺伝子の誘導発現を行う。濃アンモニア水を間欠的に追加して発酵液のｐＨは７．０～７．２の間に制御し、残存糖の状況に応じて、濃度４００ｇ／Ｌのグルコース母液を追加し、発酵液において残存糖を５～１０ｇ／Ｌに制御する。
+</base:Paragraphs>
+        <base:Paragraphs num="0208">
+  発酵産物１２０００×ｇを収集し、５ｍｉｎ遠心し、上澄み液を収集する。
+</base:Paragraphs>
+        <base:Paragraphs num="0209">
+  ３）、Ｌ－ヒスチジン含有量の測定
+  高速液体クロマトグラフィーを採用して、具体的な方法は次の通りである（２，４－ジニトロフルオロベンゼンによるプレカラム誘導体化高速液体クロマトグラフィー）。上記上澄み液５０μＬを２ｍＬ遠心管に取り、２００μＬＮａＨＣＯ<base:Sub>３</base:Sub>水溶液（０．５ｍｏｌ／Ｌ、ｐＨ９．０）と１００μＬ１％の２、４ジニトロフルオロベンゼン－アセトニトリル溶液（体積比）を加入し、６０℃水浴に陰で６０ｍｉｎ恒温加熱し、そして２５℃まで冷却し、６５０μＬＫＨ<base:Sub>２</base:Sub>ＰＯ<base:Sub>４</base:Sub>水溶液（０．０１ｍｏｌ／Ｌ、ｐＨ７．２±０．０５、ＮａＯＨ水溶液でｐＨを調整）を加入し、１５ｍｉｎ放置して、ろ過後に注射することができ、注射量は１５μＬである。
+</base:Paragraphs>
+        <base:Paragraphs num="0210">
+  使用するクロマトグラフ用カラムはＣ１８カラム（ＺＯＲＢＡＸ  Ｅｃｌｉｐｓｅ  ＸＤＢ－Ｃ１８、４．６＊１５０ｍｍ、Ａｇｉｌｅｎｔ、ＵＳＡ）であり、カラム温度：４０℃で、紫外線検出波長：３６０ｎｍで、移動相Ａは０．０４ｍｏｌ／ＬＫＨ<base:Sub>２</base:Sub>ＰＯ<base:Sub>４</base:Sub>水溶液（ｐＨ７．２±０．０５、４０ｇ／Ｌ  ＫＯＨ水溶液でｐＨを調整）で、移動相Ｂは５５％アセトニトリル水溶液（体積比）で、移動相の速度は１ｍＬ／ｍｉｎで、溶離過程は下記の表１に示す。
+</base:Paragraphs>
+        <base:Paragraphs num="0211">
+          <base:TableDetails num="0001">
+            <base:Image id="000002" he="69" wi="114" file="2016519946_000002.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0212">
+  野生型菌株Ｃ．ｇｌｕｔａｍｉｃｕｍＡＴＣＣ１３０３２を対照にして、発酵過程中のグルコース消費、ＯＤ６００、および最終のＬ－ヒスチジン生産量を測定した。結果は表２に示す。
+</base:Paragraphs>
+        <base:Paragraphs num="0213">
+  表２は振盪発酵実験でＬ－ヒスチジンエンジニアリング菌ＣＧ１６０、ＣＧ１７６、ＣＧ１７２、ＣＧ１７３とＣＧ１７１のグルコース消費、最大ＯＤ６００、相対成長速度とＬ－ヒスチジン生産量である。
+</base:Paragraphs>
+        <base:Paragraphs num="0214">
+          <base:TableDetails num="0002">
+            <base:Image id="000003" he="100" wi="160" file="2016519946_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0215">
+  振盪発酵実験では、７２時間で発酵させ、野生型菌株Ｃ．ｇｌｕｔａｍｉｃｕｍＡＴＣＣ１３０３２についてＬ－ヒスチジンの蓄積が検出されていないが、ベース菌ＣＧ１６０のＬ－ヒスチジン生産量は０．０３  ｇ／Ｌである。Ｌ－ヒスチジン末端代謝経路改変だけを行ったベースエンジニアリング菌ＣＧ１７６のＬ－ヒスチジン生産量は１．１８ｇ／Ｌである。この上で、ｐｇｉ遺伝子だけを欠損したエンジニアリング菌ＣＧ１７２のＬ－ヒスチジン生産量は０．７７ｇ／Ｌで、ｚｗｆ－ｏｐｃＡだけを過剰発現したエンジニアリング菌ＣＧ１７３のＬ－ヒスチジン生産量は１．５０ｇ／Ｌである。ｐｇｉ遺伝子を欠損するとともにｚｗｆ－ｏｐｃＡを過剰発現したエンジニアリング菌ＣＧ１７１のＬ－ヒスチジン生産量は２．４０ｇ／Ｌで、ｐｇｉ遺伝子だけを欠損したエンジニアリング菌ＣＧ１７２の産量より２．１倍向上し、ｚｗｆ－ｏｐｃＡ遺伝子だけを過剰発現した菌株ＣＧ１７３より６０％と向上し、Ｌ－ヒスチジン末端代謝経路改変だけを行った菌株ＣＧ１７６より１０２％向上した。
+</base:Paragraphs>
+        <base:Paragraphs num="0216">
+  ２、Ｌ－ヒスチジンエンジニアリング菌ＣＧ１７１、ＣＧ３１９とＣＧ３２８による発酵タンクでＬ－ヒスチジンの発酵生産
+  種培地は具体的には次の通りである。グルコース２０ｇ／Ｌ、硫酸アンモニウム５  ｇ／Ｌ、Ｋ<base:Sub>２</base:Sub>ＨＰＯ<base:Sub>４</base:Sub>・３Ｈ<base:Sub>２</base:Sub>Ｏ１ｇ／Ｌ、ＭｇＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏ  ０．９ｇ／Ｌ、ビオチン５０ｇμ、ビタミンＢ１１ｍｇ、エンジェル・イースト酵母粉（ＦＭ８０２）２ｇ／Ｌ、エンジェル・イーストペプトン（ＦＰ３１８）２ｇ／Ｌである。
+</base:Paragraphs>
+        <base:Paragraphs num="0217">
+  発酵に用いる発酵培地は具体的には次の通りである。グルコース２０ｇ／Ｌ、硫酸アンモニウム５ｇ／Ｌ、ＫＨ<base:Sub>２</base:Sub>ＰＯ<base:Sub>４</base:Sub>０．５ｇ／Ｌ、Ｋ<base:Sub>２</base:Sub>ＨＰＯ<base:Sub>４</base:Sub>・３Ｈ<base:Sub>２</base:Sub>Ｏ０．５ｇ／Ｌ、ＭｇＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏ０．２５ｇ／Ｌ、ＦｅＳＯ<base:Sub>４</base:Sub>・７Ｈ<base:Sub>２</base:Sub>Ｏ１０ｍｇ／Ｌ、ＭｎＳＯ<base:Sub>４</base:Sub>・Ｈ<base:Sub>２</base:Sub>Ｏ１０ｍｇ／Ｌ、ビタミンＢ１０．５ｍｇ／Ｌ、エンジェル・イースト酵母粉（ＦＭ８０２）５ｇ／Ｌである。
+</base:Paragraphs>
+        <base:Paragraphs num="0218">
+  １）、発酵液種の獲得
+  エンジニアリング菌ＣＧ１７１、ＣＧ３１９とＣＧ３２８を種培地中に接種し、発酵液種の培養条件は培養温度３２°Ｃで、振盪速度は２２０ｒ／ｍｉｎ、培養時間８時間で、発酵液種を得、ＯＤ６００は２０である。
+</base:Paragraphs>
+        <base:Paragraphs num="0219">
+  ２）、発酵
+  発酵液種を体積含有率が１０％で、最終濃度が１０μｇ／ｍｌのクロロマイセチンを含む発酵培地に接種した。
+</base:Paragraphs>
+        <base:Paragraphs num="0220">
+  採用する発酵タンクは７．５Ｌ発酵タンク（ＢｉｏＦｌｏ１１５、ＮＢＳ）であり、定速度プログラマで制御できるポンプを内蔵し、定速で追加供給を実現できる。発酵の過程中で蠕動ポンプを通じて６００ｇ／Ｌのグルコースを追加し、発酵システムでのグルコースの濃度を５～１０ｇ／Ｌに制御するとともに、１０ｇ／Ｌのエンジェル・イースト酵母粉（ＦＭ８０２）を流加する。加熱マントルおよび冷却水を通じて発酵温度を３２℃に維持するように制御し、空気により溶存酸素を提供し、回転速度と溶存酸素信号がカスケード制御して溶存酸素を３０％に維持し、濃アンモニア水を追加してｐＨをコントロールし、約６．９に維持する。５２時間で連続発酵させる。ＯＤ６００＝４～５の場合、ＩＰＴＧ（イソプロピルチオガラクトシド、最終濃度は０．５ｍｍｏｌ／Ｌ）を加入して、組換えプラスミドが持つ遺伝子の発現を誘導する。
+</base:Paragraphs>
+        <base:Paragraphs num="0221">
+  発酵産物１２０００×ｇを収集し、５ｍｉｎ遠心し、上澄み液を収集する。
+</base:Paragraphs>
+        <base:Paragraphs num="0222">
+  ３）、Ｌ－ヒスチジン含有量の測定
+  上記１の３）の方法により、上澄み液中のＬ－ヒスチジン含有量を測定し、結果は下記の表の通りである。エンジニアリング菌ＣＧ１７１のＬ－ヒスチジンの最高の生産量は１０．８７ｇ／Ｌで、生産能力は０．２１ｇ／Ｌ／ｈで、エンジニアリング菌ＣＧ３１９のＬ－ヒスチジン最高の生産量は１４．１５ｇ／Ｌで、生産能力は０．３０ｇ／Ｌ／ｈで、エンジニアリング菌ＣＧ３２８のＬ－ヒスチジン最高の生産量は１５．９６ｇ／Ｌで、生産能力は０．３２ｇ／Ｌ／ｈである。結果は下記の表３に示す。
+</base:Paragraphs>
+        <base:Paragraphs num="0223">
+          <base:TableDetails num="0003">
+            <base:Image id="000004" he="62" wi="109" file="2016519946_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+        <base:Paragraphs num="0224">
+  上記の表から、発酵タンク実験でＣＧ１７１菌株がよい効果を得て、ヒスチジン生産量は発酵５２時間に１０．８７ｇ／Ｌに達したことがわかる。そして、さらにｐｕｒＨを過剰発現したエンジニアリング菌ＣＧ３１９やさらにｐｕｒＨを過剰発現するとともにｐｕｒＨを弱化するエンジニアリング菌ＣＧ３２８は、ＣＧ１７１に対して、発酵時間がより短い場合で、ヒスチジン生産量がそれぞれ約３０％と５０％上昇した。つまり、ｐｇｉの弱化およびｚｗｆ－ｏｐｃＡの過剰発現を基に、ヒスチジン合成経路とヌクレオチド合成経路をカップリングして、ヒスチジン合成経路の代謝流量を増加し、さらにヒスチジンの生産量を大幅に向上させる。
+</base:Paragraphs>
+        <base:Paragraphs num="0225">
+  ２．プラスミドのないＬ－ヒスチジンエンジニアリング菌ＣＧ３５０、ＣＧ３５１、ＣＧ３５２とＣＧ３５３によるＬ－ヒスチジンの振盪発酵生産
+  発酵過程中でクロロマイセチンと誘導剤ＩＰＴＧを加入する必要がない。その他に、エンジニアリング菌ＣＧ３５０、ＣＧ３５１、ＣＧ３５２とＣＧ３５３の培養液種の取得や振盪発酵方法は上記の一の記載と同じである。Ｌ－ヒスチジン含有量の測定は本実施例の第一項の記載と同じである。野生型菌株Ｃ．ｇｌｕｔａｍｉｃｕｍＡＴＣＣ１３０３２を対照にする。
+</base:Paragraphs>
+        <base:Paragraphs num="0226">
+  振盪発酵実験では、７２時間で発酵させ、野生型菌株Ｃ．ｇｌｕｔａｍｉｃｕｍＡＴＣＣ１３０３２について、Ｌ－ヒスチジンの蓄積が検出されていない。ｐｇｉ遺伝子だけを欠損して構築したエンジニアリング菌ＣＧ３５０のＬ－ヒスチジン生産量は０．６５ｇ／Ｌで、その上で、同時にｚｗｆ－ｏｐｃＡの発現量を向上させて構築したエンジニアリング菌ＣＧ３５１のＬ－ヒスチジン生産量は１．８６ｇ／Ｌであり、ｐｇｉ遺伝子だけを欠損したエンジニアリング菌ＣＧ３５０に対して、１８６％上昇した。さらにｐｕｒＨ遺伝子の発現を向上させた菌株ＣＧ３５２のＬ－ヒスチジン生産量は２．２３ｇ／Ｌであり、さらにｐｕｒＨ遺伝子の発現を低下させた菌株ＣＧ３５３のＬ－ヒスチジン生産量は２．３４ｇ／Ｌである。結果は下記の表４に示す。
+</base:Paragraphs>
+        <base:Paragraphs num="0227">
+          <base:TableDetails num="0004">
+            <base:Image id="000005" he="55" wi="82" file="2016519946_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+          </base:TableDetails>
+        </base:Paragraphs>
+      </business:EmbodimentsExample>
+    </business:EmbodimentsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000006" he="56" wi="68" file="2016519946_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000007" he="114" wi="79" file="2016519946_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000008" he="62" wi="70" file="2016519946_000008.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000009" he="117" wi="84" file="2016519946_000009.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000010" he="52" wi="75" file="2016519946_000010.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006">
+      <base:Image id="000011" he="57" wi="64" file="2016519946_000011.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007">
+      <base:Image id="000012" he="104" wi="70" file="2016519946_000012.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008">
+      <base:Image id="000013" he="104" wi="66" file="2016519946_000013.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  産Ｌ－アミノ酸の組換え菌であって、前記組換え菌は出発菌株に比べて、低下のグルコース－６－リン酸イソメラーゼＰｇｉの発現と上昇のグルコース－６－リン酸デヒドロゲナーゼＺｗｆ－ＯｐｃＡの発現を有し、前記出発菌株が目的アミノ酸を蓄積できる菌株であり、好ましくは、前記目的アミノ酸はＬ－ヒスチジン、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンまたはＬ－ヒドロキシプロリンであることを特徴とする組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  組換え菌の染色体上のｐｇｉ遺伝子は既に失活し、ノックアウトされることが好ましく、あるいはｐｇｉ遺伝子の調節因子が既に低転写または低発現活性の調節因子に置き換えられるとともに、前記組換え菌には２つ以上のコピーのｚｗｆ－ｏｐｃＡ遺伝子があり、または強力なプロモーターで前記出発菌株染色体上のｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターを置換え、好ましくは、前記強力なプロモーターは原始菌株のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターであることを特徴とする請求項１に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  原始菌株に比べてその出発菌株は強化されたＬ－ヒスチジン合成オペロンｈｉｓＥＧ遺伝子とｈｉｓＤＣＢ遺伝子の発現を有し、好ましくは、強力なプロモーターで前記のｈｉｓＥＧ遺伝子とｈｉｓＤＣＢ遺伝子のプロモーターを置換え、より好ましくは、前記原始菌株染色体上のＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターで、それぞれｈｉｓＥＧ遺伝子とｈｉｓＤＣＢ遺伝子のプロモーターを置換え、
+さらに好ましくは、原始菌株に比べて前記出発菌株は強化されたＰＲＰＰ合成酵素ＰｒｓＡの発現を有し、より好ましくは、前記出発菌株には２つ以上のコピーのｐｒｓＡ遺伝子があり、あるいは強力なプロモーターでｐｒｓＡ遺伝子プロモーターを置換え、前記強力なプロモーターは前記原始菌株のＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターであることが好ましいことを特徴とする請求項１に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  原始菌株に比べて前記出発菌株は強化されたｄａｐＡ遺伝子やｌｙｓＣ遺伝子の発現を有し、または、
+  原始菌株に比べて前記出発菌株は強化されたバリン合成経路遺伝子ｉｌｖＢＮＣＥの発現を有し、または、
+  原始菌株に比べて前記出発菌株は強化されたトレオニン合成経路遺伝子ｈｏｍとｔｈｒＢの発現を有し、または、
+  原始菌株に比べて前記出発菌株は強化されたｏｃｄ遺伝子の発現を有し、または、
+  原始菌株に比べて前記出発菌株は強化されたｐ４ｈＤ遺伝子の発現を有することを特徴とする請求項１に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記出発菌株に比べて前記組換え菌は強化されたＡＩＣＡＲメチルトランスフェラーゼ／ＩＭＰシクロヒドロラーゼＰｕｒＨの発現を有し、
+  好ましくは、前記組換え菌には２つ以上のコピーのｐｕｒＨ遺伝子があり、あるいは強力なプロモーターでｐｕｒＨ遺伝子のプロモーターを置換え、前記強力なプロモーターは前記原始菌株のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターであることが好ましいことを特徴とする請求項３に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記出発菌株に比べて前記組換え菌は弱化されたリン酸リボースアミドトランスフェラーゼｐｕｒＦの発現を有し、
+  好ましくは、弱いプロモーターでｐｕｒＦ遺伝子のプロモーターを置換え、より好ましくは、前記弱いプロモーターは前記原始菌株のＰ<base:Sub>ｈｏｍ</base:Sub>プロモーターであることを特徴とする請求項３または５に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記原始菌株はコリネバクテリウム属、ミクロバクテリウム属、ブレビバクテリウム属のうちから選ばれる１株の細菌であり、
+  好ましくは、前記コリネバクテリウム属の細菌はコリネバクテリウム・グルタミクムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ、コリネバクテリウム・北京Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｐｅｋｉｎｅｎｓｅ、コリネバクテリウム・エフィシエンスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｅｆｆｉｃｉｅｎｓ、コリネバクテリウム・クレナツムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃｒｅｎａｔｕｍ、コリネバクテリウム・サーモアミノゲネスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｔｈｅｒｍｏａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・アミノゼンＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・リリウムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｌｉｌｉｕｍ、コリネバクテリウム・カルーナＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃａｌｌｕｎａｅおよびコリネバクテリウム・ハーキュリスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｈｅｒｃｕｌｉｓのうちから選ばれる１株の細菌であり、
+  前記ミクロバクテリウム属の細菌はミクロバクテリウム・アンモニアフィラムＭｉｃｒｏｂａｃｔｅｒｉｕｍ  ａｍｍｏｎｉａｐｈｉｌｕｍのうちから選ばれる１株の細菌であり、および、
+  前記ブレビバクテリウム属の細菌はブレビバクテリウム・フラバムＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｆｌｖｕｍ、Ｂｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｌａｃｔｏｆｅｒｍｅｎｔｕｍブレビバクテリウム・ラクトファーメンタムおよびブレビバクテリウム・アンモニアゲネスＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ａｍｍｏｎｉａｇｅｎｅｓのうちから選ばれる１株の細菌であることを特徴とする請求項１～６のいずれか１項に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記原始菌株は野生型コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２であることを特徴とする請求項７に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>
+  前記出発菌株の染色体は前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上それぞれのＬ－ヒスチジン合成オペロンｈｉｓＥＧとｈｉｓＤＣＢのプロモーターを置き換えるための配列番号７の５’末端から第８６３－１０３８番目のヌクレオチド配列に示すＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターを有し、
+  前記出発菌株が突然変異したＡＴＰ－ホスホリボシルトランスフェラーゼを発現することができ、前記突然変異したＡＴＰ－ホスホリボシルトランスフェラーゼは配列番号６に示すＡＴＰ－ホスホリボシルトランスフェラーゼの第２１５番目のアスパラギンがリジンに突然変異し、第２３１番目のロイシンがフェニルアラニンに突然変異し、および第２３５番目のトレオニンがアラニンに突然変異した酵素であり、好ましくは、前記出発菌株の染色体は前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のｈｉｓＧ遺伝子を置き換えるための配列番号４の第１００７－１８５２番目のヌクレオチド配列に示すｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子を有し、
+  好ましくは、前記出発菌株の染色体は前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のｐｒｓＡ遺伝子のプロモーターを置き換えるための配列番号１１の５’末端から第６５６－８４７番目のヌクレオチド配列に示すＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターを有し、または、
+  前記出発菌株は２つ以上のコピーのｐｒｓＡ遺伝子とｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子を有し、
+  前記ｐｒｓＡ遺伝子は、配列番号５に示すＰｒｓＡをコードする遺伝子、および前記ＰｒｓＡと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつＰｒｓＡ活性を有する酵素をコードする遺伝子から選ばれる１つものであり、前記ｐｒｓＡ遺伝子が配列表に配列番号４に示す第１５－９９２番目のヌクレオチド配列であることを特徴とする請求項８に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>
+  前記ｐｇｉ遺伝子は、配列表に配列番号１４に示すＰｇｉをコードする遺伝子、および前記Ｐｇｉと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％、ひいては９９％相同性を有し、かつ前記グルコース－６－リン酸イソメラーゼＰｇｉ活性を有する酵素をコードする遺伝子から選ばれる１つものであり、好ましくは、前記ｐｇｉ遺伝子が配列番号１３に示すヌクレオチド配列であり、
+  前記ｚｗｆ－ｏｐｃＡ遺伝子は、配列表に配列番号３に示すＺｗｆ－ＯｐｃＡをコードする遺伝子、および前記Ｚｗｆ－ＯｐｃＡと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記Ｚｗｆ－ＯｐｃＡ活性を有する酵素をコード遺伝子から選ばれる１つものであり、好ましくは、前記ｚｗｆ－ｏｐｃＡ遺伝子が配列番号２に示すヌクレオチド配列であり、および、
+  前記Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターは配列番号１２に示す５’末端から第６３５－８３４番目のヌクレオチド配列であることを特徴とする請求項９に記載の組換え菌。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>
+  前記ｐｕｒＨ遺伝子は、配列表に配列番号１６に示すｐｕｒＨをコードする遺伝子、および前記ｐｕｒＨと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記ｐｕｒＨ活性を有する酵素をコードする遺伝子から選ばれる１つものであり、好ましくは、前記ｐｕｒＨ遺伝子は配列表に配列番号１５に示すヌクレオチド配列であることを特徴とする請求項１０に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>
+  前記Ｐｈｏｍプロモーターは配列番号１８に示す５’末端から第７３６－８６５番目のヌクレオチド配列であることを特徴とする請求項１１に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>
+  産Ｌ－アミノ酸の組換え菌を構築する方法であって、出発菌株のグルコース－６－リン酸イソメラーゼＰｇｉの発現を低下させ、かつ前記出発菌株のグルコース－６－リン酸デヒドロゲナーゼＺｗｆ－ＯｐｃＡの発現を向上させて、前記組換菌を得るステップを含み、
+  前記出発菌株は目的アミノ酸を蓄積できる菌株であり、より好ましくは、前記目的アミノ酸はＬ－ヒスチジン、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンまたはＬ－ヒドロキシプロリンであることを特徴とする方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>
+  前記出発菌株のＰｇｉ発現を低下させることは次の方式Ａ）またはＢ）により実現し、
+  Ａ）前記出発菌株染色体のｐｇｉ遺伝子を失活し、好ましくは、前記失活はノックアウトであること、
+  Ｂ）前記出発菌株のｐｇｉ遺伝子の調節因子を低転写あるいは低発現活性の調節因子に置き換えること、
+  前記出発菌株のＺｗｆ－ＯｐｃＡの発現を向上させることは次の方式Ｃ）またはＤ）により実現し、
+  Ｃ）前記出発菌株のｚｗｆ－ｏｐｃＡ遺伝子のコピー数を増加すること、
+  Ｄ）前記出発菌株染色体上のｔｋｔ－ｔａｌ－ｚｗｆ－ｏｐｃＡ－ｄｅｖＢオペロンのプロモーターを強力なプロモーターに置換え、好ましくは、前記強力なプロモーターが前記原始菌株染色体上のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターであることを特徴とする請求項１３に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>
+  前記出発菌株を得ることは、原始菌株染色体上のＬ－ヒスチジン合成オペロンｈｉｓＥＧとｈｉｓＤＣＢのプロモーターをそれぞれ強力なプロモーターに置き換えるステップを含み、好ましくは、前記強力なプロモーターが前記原始菌株染色体上のＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターであり、
+  好ましくは、前記出発菌株を得ることは、前記出発菌株のＰＲＰＰ合成酵素ＰｒｓＡの発現を向上させるステップをさらに含み、
+  より好ましくは、前記出発菌株のＰｒｓＡの発現を向上させることは次の方式Ｅ）またはＦ）により実現し、
+Ｅ）前記出発菌株のｐｒｓＡ遺伝子のコピー数を増加すること、
+Ｆ）前記出発菌株染色体上のｐｒｓＡ遺伝子のプロモーターを強力なプロモーターに置換え、好ましくは、前記強力なプロモーターが前記原始菌株染色体上のＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターであることを特徴とする請求項１３に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0016">
+      <business:ClaimText>
+  前記出発菌株を得ることは、
+  ｄａｐＡ遺伝子またはｌｙｓＣ遺伝子の発現を強くさせるステップ、または、
+バリン合成遺伝子ｉｌｖＢＮＣＥの発現を強くさせるステップ、または、
+  トレオニン合成経路の遺伝子ｈｏｍとｔｈｒＢの発現を強くさせるステップ、または、
+  ｏｃｄ遺伝子の発現を強くさせるステップ、または、
+  ｐ４ｈＤ遺伝子の発現を強くさせるステップを含むことを特徴とする請求項１３に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0017">
+      <business:ClaimText>
+  前記方法は、前記組換え菌のＡＩＣＡＲメチルトランスフェラーゼ／ＩＭＰシクロヒドロラーゼＰｕｒＨの発現を向上させるステップをさらに含み、
+  好ましくは、前記組換え菌のＰｕｒＨの発現を向上させることが次の方式Ｇ）またはＨ）により実現し、
+Ｇ）前記出発菌株のｐｕｒＨ遺伝子のコピー数を増加すること、
+Ｈ）前記出発菌株染色体上のｐｕｒＨ遺伝子のプロモーターを強力なプロモーターに置換え、好ましくは、前記強力なプロモーターが前記原始菌株染色体上のＰ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターであることを特徴とする請求項１５に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0018">
+      <business:ClaimText>
+  前記方法は前記組換え菌のリン酸リボースアミドトランスフェラーゼＰｕｒＦの発現を弱くさせるステップをさらに含み、
+  好ましくは、前記組換え菌のＰｕｒＦの発現を弱くさせることは、弱いプロモーターでｐｕｒＦ遺伝子のプロモーターを置き換えることにより実現し、より好ましくは、前記出発菌株染色体上のｐｕｒＦ遺伝子のプロモーターを前記原始菌株染色体上のＰ<base:Sub>ｈｏｍ</base:Sub>プロモーターに置き換えることを特徴とする請求項１５または１７に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0019">
+      <business:ClaimText>
+  前記出発菌株を得るための原始菌株はコリネバクテリウム属、ミクロバクテリウム属、ブレビバクテリウム属のうちから選ばれる１株の細菌であり、
+  好ましくは、前記コリネバクテリウム属の細菌はコリネバクテリウム・グルタミクムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｇｌｕｔａｍｉｃｕｍ、コリネバクテリウム・北京Ｃｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｐｅｋｉｎｅｎｓｅ、コリネバクテリウム・エフィシエンスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｅｆｆｉｃｉｅｎｓ、コリネバクテリウム・クレナツムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃｒｅｎａｔｕｍ、コリネバクテリウム・サーモアミノゲネスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｔｈｅｒｍｏａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・アミノゼンＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ａｍｉｎｏｇｅｎｅｓ、コリネバクテリウム・リリウムＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｌｉｌｉｕｍ、コリネバクテリウム・カルーナＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｃａｌｌｕｎａｅおよびコリネバクテリウム・ハーキュリスＣｏｒｙｎｅｂａｃｔｅｒｉｕｍ  ｈｅｒｃｕｌｉｓのうちから選ばれる１株の細菌であり、
+前記ミクロバクテリウム属の細菌はミクロバクテリウム・アンモニアフィラムＭｉｃｒｏｂａｃｔｅｒｉｕｍ  ａｍｍｏｎｉａｐｈｉｌｕｍのうちから選ばれる１株の細菌であり、および、
+  前記ブレビバクテリウム属の細菌はブレビバクテリウム・フラバムＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｆｌｖｕｍ、Ｂｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ｌａｃｔｏｆｅｒｍｅｎｔｕｍブレビバクテリウム・ラクトファーメンタムおよびブレビバクテリウム・アンモニアゲネスＢｒｅｖｉｂａｃｔｅｒｉａｃｅａｅ  ａｍｍｏｎｉａｇｅｎｅｓのうちから選ばれる１株の細菌であることを特徴とする請求項１３～１８のいずれか１項に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0020">
+      <business:ClaimText>
+  前記原始菌株は野生型コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２であることを特徴とする請求項１９に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0021">
+      <business:ClaimText>
+  前記出発菌株を得ることは、
+  前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のＬ－ヒスチジン合成オペロンｈｉｓＥＧとｈｉｓＤＣＢのプロモーターをそれぞれ配列番号７の５’末端から第８６３－１０３８番目のヌクレオチド配列に示すＰ<base:Sub>ｇｌｙＡ</base:Sub>プロモーターに置換え、および、
+  前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２が発現した配列番号６に示すＡＴＰ－ホスホリボシルトランスフェラーゼの第２１５番目のアスパラギンをリジンに突然変異し、第２３１番目のロイシンをフェニルアラニンに突然変異し、および第２３５番目のトレオニンをアラニンに突然変異し、  上記突然変異を行うための遺伝子は配列番号４の第１００７－１８５２番目のヌクレオチド配列に示すｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子であるステップを含み、
+  好ましくは、前記出発菌株を得ることは、
+  前記コリネバクテリウム・グルタミクムＡＴＣＣ１３０３２染色体上のｐｒｓＡ遺伝子のプロモーターを配列番号１１の５’末端から第６５６－８４７番目のヌクレオチド配列に示すＰ<base:Sub>ｓｏｄ</base:Sub>プロモーターに置き換えるステップをさらに含み、または、
+  前記コリネバクテリウム・グルタミクムＡＡＴＣＣ１３０３２のｐｒｓＡ遺伝子のコピー数を増加し、および
+  前記コリネバクテリウム・グルタミクムＡＡＴＣＣ１３０３２のｈｉｓＧ<base:Sup>ｆｂｒ</base:Sup>遺伝子のコピー数を増加するステップをさらに含み、
+  前記ｐｒｓＡ遺伝子は、配列番号５に示すＰｒｓＡをコードする遺伝子、および前記ＰｒｓＡと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつＰｒｓＡ活性を有する酵素をコードする遺伝子から選ばれる１つものであり、好ましくは、前記ｐｒｓＡ遺伝子が配列表に配列番号４に示す第１５－９９２番目のヌクレオチド配列であることを特徴とする請求項２０に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0022">
+      <business:ClaimText>
+  前記ｐｇｉ遺伝子は、配列表に配列番号１４に示すＰｇｉをコードする遺伝子、および前記Ｐｇｉと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％、ひいては９９％相同性を有し、かつ前記グルコース－６－リン酸イソメラーゼＰｇｉ活性を有する酵素をコードする遺伝子から選ばれる１つものであり、好ましくは、前記ｐｇｉ遺伝子が配列番号１３に示すヌクレオチド配列であり、
+  前記ｚｗｆ－ｏｐｃＡ遺伝子は、配列表に配列番号３に示すＺｗｆ－ＯｐｃＡをコードする遺伝子、および前記Ｚｗｆ－ＯｐｃＡと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記Ｚｗｆ－ＯｐｃＡ活性を有する酵素をコードする遺伝子から選ばれる１つものであり、好ましくは、前記ｚｗｆ－ｏｐｃＡ遺伝子が配列番号２に示すヌクレオチド配列であり、および、
+  前記Ｐ<base:Sub>ｅｆｔｕ</base:Sub>プロモーターは配列番号１２に示す５’末端から第６３５－８３４番目のヌクレオチド配列であることを特徴とする請求項２１に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0023">
+      <business:ClaimText>
+  前記ｐｕｒＨ遺伝子は、配列表に配列番号１６に示すｐｕｒＨをコードする遺伝子、および前記ｐｕｒＨと比べて少なくとも６０％相同性、好ましいは少なくとも７０％相同性、より好ましいは少なくとも８０％相同性、さらに好ましいは少なくとも９５％相同性、さらには好ましいは少なくとも９８％相同性、ひいては９９％相同性を有し、かつ前記ｐｕｒＨ活性を有する酵素をコードする遺伝子から選ばれる１つものであり、好ましくは、前記ｐｕｒＨ遺伝子は配列表に配列番号１５に示すヌクレオチド配列であることを特徴とする請求項２２に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0024">
+      <business:ClaimText>
+  前記Ｐ<base:Sub>ｈｏｍ</base:Sub>プロモーターは配列番号１８に示す５’末端から第７３６－８６５番目のヌクレオチド配列であることを特徴とする請求項２３に記載の方法。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0025">
+      <business:ClaimText>
+  Ｌ－アミノ酸の生産する方法であって、請求項１～１２のいずれかに記載の組換え菌を培養して発酵させるステップを含み、前記Ｌ－アミノ酸はＬ－ヒスチジン、Ｌ－リジン、Ｌ－バリン、Ｌ－トレオニン、Ｌ－プロリンまたはＬ－ヒドロキシプロリンであることを特徴とする方法。
+ 
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SearchReportData id="searchreportdata000001">
+    <business:ExternalSearchReport id="externalsearchreport000014" file="2016519946_000014.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000002">
+    <business:ExternalSearchReport id="externalsearchreport000015" file="2016519946_000015.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000003">
+    <business:ExternalSearchReport id="externalsearchreport000016" file="2016519946_000016.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000004">
+    <business:ExternalSearchReport id="externalsearchreport000017" file="2016519946_000017.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000005">
+    <business:ExternalSearchReport id="externalsearchreport000018" file="2016519946_000018.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000006">
+    <business:ExternalSearchReport id="externalsearchreport000019" file="2016519946_000019.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000007">
+    <business:ExternalSearchReport id="externalsearchreport000020" file="2016519946_000020.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000008">
+    <business:ExternalSearchReport id="externalsearchreport000021" file="2016519946_000021.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000009">
+    <business:ExternalSearchReport id="externalsearchreport000022" file="2016519946_000022.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+  <business:SearchReportData id="searchreportdata000010">
+    <business:ExternalSearchReport id="externalsearchreport000023" file="2016519946_000023.TIF" lang="ja" height="241" width="170" imageFormat="TIFF" />
+  </business:SearchReportData>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="US101991000804160US00000058563910AFULEN19990105US003.XML" dateProduced="20160817" status="C" lang="en" country="US" docNumber="5856391" kind="A" datePublication="19990105">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>05856391</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19990105</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sourceDB="US" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>5856391</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19990105</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant>
+        <base:DocumentID>
+          <base:Date>19990105</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>07/804160</base:DocNumber>
+        <base:Date>19911206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1" sourceDB="US">
+      <base:DocumentID>
+        <base:WIPOST3Code>US</base:WIPOST3Code>
+        <base:DocNumber>101991000804160</base:DocNumber>
+        <base:Date>19911206</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>NL</base:WIPOST3Code>
+        <base:DocNumber>101991000000149</base:DocNumber>
+        <base:Date>19910129</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="original" sourceDB="US" sequence="1">
+        <base:WIPOST3Code>NL</base:WIPOST3Code>
+        <base:DocNumber>9100149</base:DocNumber>
+        <base:Date>19910129</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPC>
+      <base:EditionStatement>6</base:EditionStatement>
+      <business:MainClassification dataFormat="original">C08K00320</business:MainClassification>
+      <business:MainClassification dataFormat="standard">C08K0003200000</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">C08L07112</business:FurtherClassification>
+      <business:FurtherClassification sequence="1" dataFormat="standard">C08L0071120000</business:FurtherClassification>
+    </business:ClassificationIPC>
+    <business:ClassificationNational>
+      <business:MainClassification dataFormat="original">524451</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">525068</business:FurtherClassification>
+      <business:FurtherClassification sequence="2" dataFormat="original">525092A</business:FurtherClassification>
+    </business:ClassificationNational>
+    <business:InventionTitle lang="en" sourceDB="US">Polymer mixture based on polyphenylene ether and talcum</business:InventionTitle>
+    <business:ReferencesCited sourceDB="US">
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:ApplicationCitation id="pcit000001" num="0001">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3835200</base:DocNumber>
+              <base:Date>19740900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03835200</base:DocNumber>
+              <base:Date>19740900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Lee, Jr.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525068</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="2">
+        <business:ApplicationCitation id="pcit000002" num="0002">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>3994856</base:DocNumber>
+              <base:Date>19761100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>03994856</base:DocNumber>
+              <base:Date>19761100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Katehman et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525089</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="3">
+        <business:ApplicationCitation id="pcit000003" num="0003">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4113800</base:DocNumber>
+              <base:Date>19780900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04113800</base:DocNumber>
+              <base:Date>19780900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Lee, Jr.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525089</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="4">
+        <business:ApplicationCitation id="pcit000004" num="0004">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4252913</base:DocNumber>
+              <base:Date>19810200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04252913</base:DocNumber>
+              <base:Date>19810200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Katchman et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525092</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="5">
+        <business:ApplicationCitation id="pcit000005" num="0005">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4277575</base:DocNumber>
+              <base:Date>19810700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04277575</base:DocNumber>
+              <base:Date>19810700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Haaf et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525089</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="6">
+        <business:ApplicationCitation id="pcit000006" num="0006">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4293478</base:DocNumber>
+              <base:Date>19811000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04293478</base:DocNumber>
+              <base:Date>19811000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Sugio et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>524451</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="7">
+        <business:ApplicationCitation id="pcit000007" num="0007">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4483958</base:DocNumber>
+              <base:Date>19841100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04483958</base:DocNumber>
+              <base:Date>19841100</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Kosaka et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>524409</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="8">
+        <business:ApplicationCitation id="pcit000008" num="0008">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>4863997</base:DocNumber>
+              <base:Date>19890900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>04863997</base:DocNumber>
+              <base:Date>19890900</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Shibuya et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525068</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="9">
+        <business:ApplicationCitation id="pcit000009" num="0009">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5034459</base:DocNumber>
+              <base:Date>19910700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05034459</base:DocNumber>
+              <base:Date>19910700</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Haaf et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525068</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="10">
+        <business:ApplicationCitation id="pcit000010" num="0010">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>5086105</base:DocNumber>
+              <base:Date>19920200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>US</base:WIPOST3Code>
+              <base:DocNumber>05086105</base:DocNumber>
+              <base:Date>19920200</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:ApplicantDetails>
+            <business:Applicant sequence="1" sourceDB="US">
+              <base:AddressBook lang="en">
+                <base:LastName>Abe et al.</base:LastName>
+              </base:AddressBook>
+              <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+            </business:Applicant>
+          </business:ApplicantDetails>
+        </business:ApplicationCitation>
+        <business:ClassificationNational>
+          <business:MainClassification>525068</business:MainClassification>
+        </business:ClassificationNational>
+      </business:Citation>
+      <business:Citation srepPhase="SEA" sequence="11">
+        <business:ApplicationCitation id="pcit000011" num="0011">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>FR</base:WIPOST3Code>
+              <base:DocNumber>2375297</base:DocNumber>
+              <base:Date>19780600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="US" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>FR</base:WIPOST3Code>
+              <base:DocNumber>2375297</base:DocNumber>
+              <base:Date>19780600</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:SearchField>
+      <business:ClassificationNational>
+        <business:MainClassification>524/451</business:MainClassification>
+        <business:FurtherClassification sequence="1">525/92</business:FurtherClassification>
+        <business:FurtherClassification sequence="2">525/68</business:FurtherClassification>
+      </business:ClassificationNational>
+    </business:SearchField>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="US">
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Ketels</base:LastName>
+            <base:FirstName>Hendrikus Hubertus Theodoor Maria</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>Huybergen</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>NL</base:WIPOST3Code>
+              <base:Text>Huybergen   NL</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Rita di Fede</base:LastName>
+            <base:FirstName>Cinzia Aurora</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>JE Putte</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>NL</base:WIPOST3Code>
+              <base:Text>JE Putte   NL</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="US">
+          <base:AddressBook lang="en">
+            <base:LastName>Savenije</base:LastName>
+            <base:FirstName>Hermannus Bernardus</base:FirstName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>JE Putte</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>NL</base:WIPOST3Code>
+              <base:Text>JE Putte   NL</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:AssigneeDetails>
+      <business:Assignee sequence="1" dataFormat="original" sourceDB="US">
+        <base:AddressBook lang="en">
+          <base:OrganizationName>General Electric Company</base:OrganizationName>
+          <base:Address>
+            <base:AddressLine>0</base:AddressLine>
+            <base:AddressMailCode>0</base:AddressMailCode>
+            <base:PostBox>0</base:PostBox>
+            <base:AddressRoom>0</base:AddressRoom>
+            <base:AddressFloor>0</base:AddressFloor>
+            <base:AddressBuilding>0</base:AddressBuilding>
+            <base:Street>0</base:Street>
+            <base:AddressCity>Pittsfield</base:AddressCity>
+            <base:County>0</base:County>
+            <base:City>0</base:City>
+            <base:State>MA</base:State>
+            <base:PostCode>0</base:PostCode>
+            <base:WIPOST3Code>US</base:WIPOST3Code>
+            <base:Text>Pittsfield  MA US</base:Text>
+          </base:Address>
+        </base:AddressBook>
+        <business:AssigneeCode>0000000000</business:AssigneeCode>
+      </business:Assignee>
+    </business:AssigneeDetails>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" role="chief" sourceDB="US">
+        <base:LastName>Jagannathan, Vasu</base:LastName>
+      </business:Examiner>
+      <business:Examiner sequence="2" role="assistant" sourceDB="US">
+        <base:LastName>Asinovsky, Olga</base:LastName>
+      </business:Examiner>
+    </business:ExaminerDetails>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>6</business:ClaimsCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract lang="en" dataFormat="original" sourceDB="US">
+    <base:Paragraphs>The invention relates to a polymer mixture based on a polyphenylene ether, a polystyrene and/or a high-impact polystyrene, an agent to improve the impact strength, and talcum. By using a mixture of two linear block copolymers as agent (C), a polymer mixture is obtained having a favourable combination of low gloss, good impact strength and a good flow in the melt.</base:Paragraphs>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="US">
+    <business:TechnicalField>
+      <base:Paragraphs>The invention relates to a polymer mixture based on a polyphenylene ether, polystyrene and/or high-impact polystyrene, an agent to improve the impact strength, and talcum, and to articles formed from the polymer mixture.</base:Paragraphs>
+      <base:Paragraphs>Such mixtures are described in U.S. Pat. No. 4,483,958. The known polymer mixtures comprise a polyphenylene ether, a high impact polystyrene, a thermoplastic elastomer and an inorganic filler. The filler may be talcum.  These known polymer mixtures have a high gloss and a good impact strength according to Izod, due to the use of a weight ratio between the quantity of inorganic filler and thermoplastic polymer of more than two. It appears from a comparative example of this Patent Specification that a lower gloss is obtained when a weight ratio of 4:6 (comparative example 6) is used.</base:Paragraphs>
+      <base:Paragraphs>This invention provides polymer mixtures which comprise the constituents described hereinbefore and which have a good impact strength, minimal gloss and good flow properties of the polymer melt.</base:Paragraphs>
+      <base:Paragraphs>The polymer mixture according to this invention is characterised in that the polymer mixture is composed as follows:</base:Paragraphs>
+      <base:Paragraphs>A. 20-60 parts by weight of a polyphenylene ether,</base:Paragraphs>
+      <base:Paragraphs>B. 40-70 parts by weight of a polystyrene or a high-impact polystryrene,</base:Paragraphs>
+      <base:Paragraphs>C. 5-20 parts by weight of an agent to improve the impact strength,</base:Paragraphs>
+      <base:Paragraphs>D. 2-10 parts by weight of talcum (sometimes referred to as &amp;quot;take&amp;quot;), the agent (C) being a mixture of two linear block copolymers.</base:Paragraphs>
+      <base:Paragraphs>It has been found that the desired combination of properties is difficult to obtain or cannot be obtained when inorganic fillers other than talcum are used.  By combination of a mixture of two agents to improve the impact strength it has been found possible to obtain a good combination of impact strength, flow properties and low gloss.</base:Paragraphs>
+      <base:Paragraphs>The agent to improve the impact strength (constituent C) preferably comprises:</base:Paragraphs>
+      <base:Paragraphs>C1. 35-65% by weight of a linear A-B1-A' block copolymer and</base:Paragraphs>
+      <base:Paragraphs>C2. 35-65% by weight of a linear A&amp;quot;-B2-A'&amp;quot; block copolymer, wherein</base:Paragraphs>
+      <base:Paragraphs>A, A', A&amp;quot; and A'&amp;quot; are equal or different terminal blocks which are derived from a vinylaromatic compound and have a weight-averaged molecular weight from 2,000 to 100,000;</base:Paragraphs>
+      <base:Paragraphs>B1 is a block derived from a conjugated diene monomer, and</base:Paragraphs>
+      <base:Paragraphs>B2 is a block derived from one or more alkylene monomers, the blocks B1 and B2 having a weight-averaged molecular weight from 10,000 to 500, 000.</base:Paragraphs>
+      <base:Paragraphs>The polymer mixture is preferably composed so as to comprise 20- 35 parts by weight of constituent A, 45-65 parts by weight of constituent B, 10-15 parts by weight of constituent C and 4-8 parts by weight of constituent D.</base:Paragraphs>
+      <base:Paragraphs>The polymer mixture according to the invention comprises at any rate one or more of the following constituents:</base:Paragraphs>
+      <base:Paragraphs>A. a polyphenylene ether;</base:Paragraphs>
+      <base:Paragraphs>B. a polystyrene and/or a high-impact polystyrene;</base:Paragraphs>
+      <base:Paragraphs>C. a mixture of at least two block copolymers as defined in the Claims; </base:Paragraphs>
+      <base:Paragraphs>D. talcum.</base:Paragraphs>
+      <base:Paragraphs>In addition to the constituents mentioned herein-before the polymer mixture may comprise one or more of the additives conventionally used for polymer mixtures, for example, stabilisers, agents to improve the flame- retarding properties, dyes, pigments and plasticisers.</base:Paragraphs>
+      <base:Paragraphs>The polymer mixture according to the invention can be obtained according to the conventional techniques for preparing polymer mixtures.  The polymer mixture according to the invention is preferably manufactured by compounding.</base:Paragraphs>
+      <base:Paragraphs>The polymer mixture according to the invention may be formed according to the conventional techniques for processing synthetic resins to articles, for example, by extrusion or by injection moulding.</base:Paragraphs>
+      <base:Paragraphs>The nature of the constituents to be used will be described in greater detail hereinafter.</base:Paragraphs>
+      <base:Paragraphs>A. POLYPHENYLENE ETHER</base:Paragraphs>
+      <base:Paragraphs>Polyphenylene ethers are generally known polymers. All polyphenylene ethers known per se may be used in the polymer mixtures according to the invention. An elaborate enumeration of suitable polyphenylene ethers is to be found, for example, in WO 87/00540.</base:Paragraphs>
+      <base:Paragraphs>Particularly suitable are poly(2,6-dimethyl-1,4-phenylene)ether, poly(2,6-diethyl-1,4-phenylene)ether, poly(2-methyl-6-ethyl-1,4- phenylene)ether. It is also possible to use copolymers, for example, copolymers which comprise units derived from 2,3,6-trimethyl phenol and from 2,6-dimethyl phenol.</base:Paragraphs>
+      <base:Paragraphs>B. POLYSTYRENE AND/OR HIGH-IMPACT POLYSTYRENE</base:Paragraphs>
+      <base:Paragraphs>High-impact polystyrene consists of a mixture of a rubber and a polystyrene prepared from a vinylaromatic compound, for example, styrene itself and/or alpha-methyl styrene and/or dimethyl styrene compounds. The rubber usually consists of a conjugated diolefin polymer, for example, polybutadiene. Other suitable rubbers are EPDM and acrylate rubbers. It is also possible to use a polystyrene without rubber.</base:Paragraphs>
+      <base:Paragraphs>C. AGENT TO IMPROVE THE IMPACT STRENGTH</base:Paragraphs>
+      <base:Paragraphs>The polymer mixture according to the invention comprises a mixture of at least two linear block copolymers as an agent to improve the impact strength.  The mixture preferably comprises a mixture of:</base:Paragraphs>
+      <base:Paragraphs>C1. 35-65% by weight of a linear A-B1-A' block copolymer and</base:Paragraphs>
+      <base:Paragraphs>C2. 35-65% by weight of a linear A&amp;quot;-B2'A'&amp;quot; block copolymer, wherein</base:Paragraphs>
+      <base:Paragraphs>A, A', A&amp;quot; and A'&amp;quot; are equal or different terminal blocks which are derived from a vinylaromatic compound and have a weight-averaged molecular weight from 2,000 to 100,000;</base:Paragraphs>
+      <base:Paragraphs>B1 is a block derived from a conjugated diene monomer, and</base:Paragraphs>
+      <base:Paragraphs>B2 is a block derived from one or more alkylene monomers, the blocks B1 and B2 having a weight-averaged molecular weight from 10,000 to 500, 000.</base:Paragraphs>
+      <base:Paragraphs>The agent even more preferably comprises a mixture of 40-60% by weight of constituent C1 and 60-40% by weight of constituent C2.</base:Paragraphs>
+      <base:Paragraphs>As stated hereinbefore, the terminal blocks A, A', A&amp;quot; and A'&amp;quot; are derived from vinylaromatic compounds. Suitable vinylaromatic compounds are styrene, alpha-methyl styrene, vinyl toluene, vinyl xylene and vinyl naphthalene. A, A', A&amp;quot; and A'&amp;quot; may be equal or different.</base:Paragraphs>
+      <base:Paragraphs>C. TALCUM</base:Paragraphs>
+      <base:Paragraphs>The polymer mixture according to the invention comprises talcum.  The talcum to be used preferably has a particle size between 1.5 and 10 micrometres.  Particles smaller than 1.5 micrometres result in a polymer mixture having less favorable properties. Talcum particles having a size of more than 10 micrometers result in a deterioration of the impact strength according to Izod.</base:Paragraphs>
+    </business:TechnicalField>
+    <business:Disclosure>
+      <base:Paragraphs>The invention will now be described in greater detail with reference to the ensuing specific examples.</base:Paragraphs>
+      <base:Paragraphs>EXAMPLES</base:Paragraphs>
+      <base:Paragraphs>The following constituents were used in the examples below:</base:Paragraphs>
+      <base:Paragraphs>PPE: a polyphenylene ether derived from 2,6-dimethylphenol having an intrinsic viscosity of 38 ml/g measured at 25&amp;deg; C. in chloroform. </base:Paragraphs>
+      <base:Paragraphs>HIPS: a high-impact polystyrene having a butadiene rubber; rubber content approximately 10% by weight.</base:Paragraphs>
+      <base:Paragraphs>I.M. 1: a linear block copolymer A-B1-A', wherein A and A' are polystyrene blocks and B1 is a polybutadiene block, having a weight ratio of the total of the styrene blocks to the polybutadiene block of approximately 30 to 70 and a number-averaged molecular weight of the block copolymer of approximately 60,000.</base:Paragraphs>
+      <base:Paragraphs>I.M. 2: a linear block copolymer A&amp;quot;-B2-A'&amp;quot;, wherein A&amp;quot; and A'&amp;quot; are polystyrene blocks having a number-averaged molecular weight of 16, 000 and B2 is an ethylene-butylene copolymer having a number-averaged molecular weight of 78,000, with a weight ratio of the styrene blocks to ethylene-butylene blocks of 30/70 and an average molecular weight by number of the block copolymer of about 110,000.</base:Paragraphs>
+      <base:Paragraphs>Talcum: a talcum product having an average particle size of 4.5 micrometres.</base:Paragraphs>
+      <base:Paragraphs>Stab: a mixture of conventionally used stabilisers.</base:Paragraphs>
+      <base:Paragraphs>C.B.: carbon black</base:Paragraphs>
+      <base:Paragraphs>PE: polyethylene</base:Paragraphs>
+      <base:Paragraphs>The constituents mentioned hereinbefore were compounded in an extruder in the quantities recorded in the table hereinafter. The average temperature adjustment of the extruder was 280&amp;deg; C.</base:Paragraphs>
+      <base:Paragraphs>Standardised test pieces were manufactured from the polymer mixtures thus obtained in an injection molding machine. The test pieces were subjected to the following tests. The impact strength was determined according to Izod (ASTM 256) and according to DIN 53443 (Falling Dart Impact) at room temperature and at minus 30&amp;deg; C. The gloss was determined according to ASTM D523 at an angle of 60&amp;deg; and of 85.  degree.. The melt viscosity was measured according to ASTM D3835 at a shearing rate of 1,500 per second. The results are also recorded in the table hereinafter.</base:Paragraphs>
+      <base:Paragraphs>TABLE</base:Paragraphs>
+      <base:Paragraphs>______________________________________</base:Paragraphs>
+      <base:Paragraphs>Example A* B* C* I</base:Paragraphs>
+      <base:Paragraphs>______________________________________</base:Paragraphs>
+      <base:Paragraphs>Composition</base:Paragraphs>
+      <base:Paragraphs>(parts by weight)</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; PPE</base:Paragraphs>
+      <base:Paragraphs>27.9 27.9 27.9 27.9</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; HIPS</base:Paragraphs>
+      <base:Paragraphs>54.6 54,6 54.6 54.6</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; I.M. 1</base:Paragraphs>
+      <base:Paragraphs>-- -- 13.5 6.75</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; I.M. 2</base:Paragraphs>
+      <base:Paragraphs>13.5 13.5 -- 6.75</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; Talcum</base:Paragraphs>
+      <base:Paragraphs>-- 6.0 6.0 6.0</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; Stab</base:Paragraphs>
+      <base:Paragraphs>0.6 0.6 0.6 0.6</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; C.B.</base:Paragraphs>
+      <base:Paragraphs>1.9 1.9 1.9 1.9</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; PE</base:Paragraphs>
+      <base:Paragraphs>1.5 1.5 1.5 1.5</base:Paragraphs>
+      <base:Paragraphs>*comparative examples</base:Paragraphs>
+      <base:Paragraphs>Properties</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; Izod impact strength (J/M)</base:Paragraphs>
+      <base:Paragraphs>23&amp;deg; C. 458 280 331 305</base:Paragraphs>
+      <base:Paragraphs>-30&amp;deg; C. 170 88 167 121</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; Falling Dart Impact (J)</base:Paragraphs>
+      <base:Paragraphs>23&amp;deg; C. 52 65 65 71</base:Paragraphs>
+      <base:Paragraphs>-30&amp;deg; C. 80 55 58 49</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; Gloss</base:Paragraphs>
+      <base:Paragraphs>60&amp;deg; 25 15 7 11</base:Paragraphs>
+      <base:Paragraphs>85&amp;deg; 80 65 46 57</base:Paragraphs>
+      <base:Paragraphs>&amp;ocir; Melt viscosity</base:Paragraphs>
+      <base:Paragraphs>(Pa &amp;middot; s)</base:Paragraphs>
+      <base:Paragraphs>170 176 219 184</base:Paragraphs>
+      <base:Paragraphs>at 1500 s-.sup.1</base:Paragraphs>
+      <base:Paragraphs>______________________________________</base:Paragraphs>
+      <base:Paragraphs>It may be seen from the results as recorded in the table that the polymer mixture according to the invention (Example I) has an optimum combination of impact strength, low gloss and low melt viscosity.  Comparative example A has the best impact strength according to Izod and the best flow properties, but for many applications its gloss is too high.  Addition of talcum to the composition according to comparative example A results in a decrease of the gloss, but also in a substantial reduction of the impact strength at room temperature and at lower temperatures (see comparative example B). Replacing the agent to improve the impact strength (i.e. I.M.1) by another agent (i.e.  I.M.2) results in an improvement of the impact strength, in a further reduction of the gloss, but in too high an increase of the melt viscosity (see comparative example C). By using a mixture of I.M. 1 and I.M. 2 (example I according to the invention) a good combination of impact strength, low gloss and melt viscosity is obtained, with a remarkably good Falling Dart impact strength.</base:Paragraphs>
+      <base:Paragraphs>All the patent publications mentioned hereinbefore are considered to be incorporated in this text by reference.</base:Paragraphs>
+    </business:Disclosure>
+  </business:Description>
+  <business:Claims dataFormat="original" sourceDB="US" lang="en">
+    <base:Paragraphs>We claim:</base:Paragraphs>
+    <base:Paragraphs>1. A polymer mixture comprising:</base:Paragraphs>
+    <base:Paragraphs>(A) 20-60 parts by weight of polyphenylene ether resin;</base:Paragraphs>
+    <base:Paragraphs>(B) 40-70 parts by weight of a polymer selected from the group consisting of polystyrene and high impact polystyrene;</base:Paragraphs>
+    <base:Paragraphs>(C) 5-20 parts by weight of a impact strength agent comprising 35- 65% by weight of a linear A-B1-A' block copolymer based on the total weight of the impact strength agent, and 35-65% by weight of a linear A'- B2-A'&amp;quot; block copolymer, wherein A, A', A&amp;quot; and A'&amp;quot; are each independently terminal blocks which are derived from a vinylaromatic compound and have a weight-average molecular weight from 2,000-100,000; B1 is a block derived from a conjugated diene monomer; B2 is a block derived from one or more alkylene monomers, wherein blocks B1 and B2 have a weight- average molecular weight from 10,000-500,000; and</base:Paragraphs>
+    <base:Paragraphs>(D) 2-10 parts by weight of talcum.</base:Paragraphs>
+    <base:Paragraphs>2. The polymer mixture of claim 1, wherein B1 is a block derived from 1,3 butadiene monomer, and B2 is a block derived from ethylene and butylene monomers.</base:Paragraphs>
+    <base:Paragraphs>3. The polymer mixture of claim 1, wherein said polymer mixture has a gloss of about 11 as measured according to ASTM D523 at an angle of 60. degree., and a melt viscosity of about 184 pascal seconds at 1500 seconds. </base:Paragraphs>
+    <base:Paragraphs>4. The polymer mixture of claim 1, wherein said polymer mixture consists essentially of said polyphenylene ether resin, said polymer (B), said impact strength agent, and said talcum.</base:Paragraphs>
+    <base:Paragraphs>5. The polymer mixture of claim 4, wherein said mixture consists essentially of 20-35 parts by weight of component (A), 45-65 parts by weight of component (B), 10-50 parts by weight of component (C), and 4-8 parts by weight of component (D).</base:Paragraphs>
+    <base:Paragraphs>6. A polymer mixture consisting of:</base:Paragraphs>
+    <base:Paragraphs>(A) 20-60 parts by weight of polyphenylene ether resin;</base:Paragraphs>
+    <base:Paragraphs>(B) 40-70 parts by weight of a polymer selected from the group consisting of polystyrene and high impact polystyrene;</base:Paragraphs>
+    <base:Paragraphs>(C) 5-20 parts by weight of a impact strength agent comprising 35- 65% by weight of a linear A-B1-A' block copolymer based on the total weight of the impact strength agent, and 35-65% by weight of a linear A&amp;quot;- B2-A'&amp;quot; block copolymer, wherein A, A', A&amp;quot; and A'&amp;quot; are each independently terminal blocks which are derived from a vinylaromatic compound and have a weight-average molecular weight from 2,000-100,000; B1 is a block derived from a conjugated diene monomer; B2 is a block derived from one or more alkylene monomers, wherein blocks B1 and B2 have a weight- average molecular weight from 10,000-500,000; and</base:Paragraphs>
+    <base:Paragraphs>(D) 2-10 parts by weight of talcum.</base:Paragraphs>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

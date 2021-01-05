@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102019000218700JP00020200903940AFULJA20200611JP00N.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2020090394" kind="A" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090394</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2020090394</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">公開特許公報(A)</business:PlainLanguageDesignation>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102019000218700</base:DocNumber>
+        <base:Date>20191203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2019218700</base:DocNumber>
+        <base:Date>20191203</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="international" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>DE</base:WIPOST3Code>
+        <base:DocNumber>10 2018 009 586.0</base:DocNumber>
+        <base:Date>20181206</base:Date>
+      </business:Priority>
+      <business:Priority kind="international" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>DE</base:WIPOST3Code>
+        <base:DocNumber>102018000009586</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20181206</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>65</business:MainClass>
+        <business:Subclass>H</business:Subclass>
+        <business:MainGroup>54</business:MainGroup>
+        <business:Subgroup>72</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B65H  54/72        20060101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>B</business:Section>
+        <business:MainClass>65</business:MainClass>
+        <business:Subclass>H</business:Subclass>
+        <business:MainGroup>67</business:MainGroup>
+        <business:Subgroup>048</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>B65H  67/048       20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">B65H54/72</business:FI>
+      <business:FI type="secondary">B65H67/048 A</business:FI>
+      <business:FClass>
+        <business:FTerm>3F112AA08</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F112BA03</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F112EA02</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:FTerm>3F112TA01</business:FTerm>
+      </business:FClass>
+      <business:FClass>
+        <business:Theme>3F112</business:Theme>
+      </business:FClass>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">巻取り機</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>エーリコン  テクスティル  ゲゼルシャフト  ミット  ベシュレンクテル  ハフツング  ウント  コンパニー  コマンディートゲゼルシャフト</base:Name>
+            <base:RegisteredNumber>307031976</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ連邦共和国  レムシャイト  レーヴァークーザー  シュトラーセ  ６５</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>アブデラティ  ハミド</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ連邦共和国  ボーフム  ミューザーシュトラーセ  １５</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:Name>ライナルト  フォス</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>DE</base:WIPOST3Code>
+              <base:Text>ドイツ連邦共和国  ヴェアメルスキルヒェン  ヴィルヘルム－イーデル－シュトラーセ  ７</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>アインゼル・フェリックス＝ラインハルト</base:Name>
+            <base:RegisteredNumber>100114890</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="2" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>森田  拓</base:Name>
+            <base:RegisteredNumber>100098501</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="3" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>前川  純一</base:Name>
+            <base:RegisteredNumber>100116403</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="4" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>二宮  浩康</base:Name>
+            <base:RegisteredNumber>100135633</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+        <business:Agent sequence="5" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:Name>上島  類</base:Name>
+            <base:RegisteredNumber>100162880</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>8</business:ClaimsCount>
+      <base:TotalPageCount>23</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="ja" sourceDB="JP">
+    <base:Paragraphs>【課題】極めて長く突出している巻取りスピンドルにおいて、最後まで巻成されたパッケージの交換領域で、解けた糸端部が、新規に巻き取られるパッケージの運転領域に到達しないことを確実にした。
+【解決手段】遮蔽装置１２は、一方の巻取りスピンドルにおいて最後まで巻成されたパッケージ１０を他方の巻取りスピンドル３．２に対してカバーするための少なくとも１つの可動の遮蔽手段１３を有している。遮蔽手段１３は、回転可能な巻取りローラ１５上に保持された巻上げ式遮蔽部１４により形成されている。最小限の自由スペースで確実にガイドするために、巻上げ式遮蔽部１４に、巻取りリボルバ２に取り付けられた少なくとも１つのリボルバガイド１８．２が対応配置されている。このリボルバガイド１８．２は、巻上げ式遮蔽部１４をガイドするために、機械フレーム１に設けられた少なくとも１つのフレームガイド２０と協働する。
+【選択図】図５</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" he="50" wi="69" file="2020090394_000002.TIF" imgFormat="TIFF" imgContent="drawing" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description dataFormat="original" sourceDB="JP">
+    <business:TechnicalField>
+      <base:Paragraphs num="0001">
+  本発明は、請求項１の上位概念部に記載の形式の巻取り機に関する。
+</base:Paragraphs>
+      <base:Paragraphs num="0002">
+  合成糸を巻き取るためには、通常、巻取り機が使用される。巻取り機は、糸を連続的に巻き取ってパッケージを形成することを可能にする。このためには、巻取り機は２つの巻取りスピンドルを有している。これらの巻取りスピンドルは、回転可能に支承された巻取りリボルバに保持され、したがって、少なくとも１本の糸を巻き取るための運転領域と、最後まで巻成されたパッケージの取出しのための交換領域とに交互に保持される。したがって、たとえば溶融紡糸装置における１本または複数本の糸を連続的に収容し、巻成してパッケージを形成することができる。巻取りスピンドルは、好適には、巻取りリボルバにおいて突出して保持されるので、最後まで巻成されたパッケージは、巻取りスピンドルの一方の自由端において取出し可能である。この場合、交換領域においてパッケージに保持されている解けた糸端部が、新規に巻き取られるパッケージの運転領域に到達しないことを確実にしなければならない。その限りでは、交換段階中に、遮蔽部材が巻取りスピンドル間にガイドされることが公知である。このためには先行技術において種々異なる多数の遮蔽装置が公知である。
+</base:Paragraphs>
+      <base:Paragraphs num="0003">
+  たとえば独国特許出願公開第１００１６１６１号明細書から遮蔽装置を備えた巻取り機が明らかである。この巻取り機では、遮蔽装置が旋回可能な複数の遮蔽金属薄板を有している。これらの遮蔽金属薄板は、側方の静止位置から、巻取りスピンドル間の運転位置へと旋回させられる。しかしこのような遮蔽手段は、金属薄板の旋回運動を可能にするために、大きな組込みスペースを必要とする。
+</base:Paragraphs>
+      <base:Paragraphs num="0004">
+  独国特許出願公開第１９８１８７１５号明細書からは、遮蔽装置を備えた巻取り機が明らかである。この遮蔽装置では、遮蔽手段が、複数の個別の部材から形成されたフレキシブルな分離壁により形成される。これらの部材はテレスコープ状に互いに内外に走入可能かつ走出可能である。しかし、このような遮蔽手段は、走出状態において安定性に欠けている。この安定性の欠如は、特に、複数のパッケージを備えた長く突出している巻取りスピンドルにおいて顕著である。
+</base:Paragraphs>
+      <base:Paragraphs num="0005">
+  しかし過去には、運転位置へと到達するために巻成ローラから引き出されるフレキシブルな遮蔽手段も使用された。このような巻取り機は、たとえば米国特許第３１６５２７４号明細書から公知である。しかしこのような巻上げ式遮蔽部は、極めてフレキシブルであり、小さな遮蔽作用を備える部分カバーのために適している。したがって、公知の巻取り機では、巻上げ式遮蔽部が巻成ローラから引き出されて、押圧ローラと最後まで巻成されたパッケージとの間の領域へとガイドされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0006">
+  本発明の課題は、遮蔽装置を備えた冒頭で述べた巻取り機を改良して、特に極めて長く突出している巻取りスピンドルのために適しているようにすることである。
+</base:Paragraphs>
+      <base:Paragraphs num="0007">
+  本発明の別の目的は、遮蔽装置による最後まで巻成されたパッケージの可能な隔離（Kapselung）を実現することにある。
+</base:Paragraphs>
+      <base:Paragraphs num="0008">
+  この課題は、本発明によれば、巻上げ式遮蔽部に、巻取りリボルバに取り付けられた少なくとも１つのリボルバガイドが対応配置されており、このリボルバガイドが、巻上げ式遮蔽部をガイドするために機械フレームに設けられた少なくとも１つのフレームガイドと協働することにより解決される。
+</base:Paragraphs>
+      <base:Paragraphs num="0009">
+  本発明の有利な別の形態は、それぞれの従属請求項に記載の特徴および特徴の組み合わせにより定義される。
+</base:Paragraphs>
+      <base:Paragraphs num="0010">
+  本発明は、交換領域にガイドされた巻取りスピンドルが、パッケージが取り出され、新規の空管に交換されるまで、巻取りリボルバにおいてその位置に固持されるという認識に基づいている。この時間区分は、このような巻取り機において、いわゆるパーキングタイムと呼ばれ、このパーキングタイムに新規のパッケージの巻取りが巻取りリボルバの回転運動なしに行われる。したがって、巻取りリボルバは、交換領域に保持された巻取りスピンドルを備えたその位置において有利には、リボルバガイドにより、巻上げ式遮蔽部を、運転位置に到達するまでの走出運動においてガイドするために利用することができる。さらに、巻取りリボルバの位置は、リボルバガイドが機械フレームに設けられたフレームガイドと一緒に協働することにより、巻上げ式遮蔽部の安定的なガイドを保証するために適している。本発明は、巻取り機における極めて小さな中間スペースを最後まで巻成されたパッケージの巻掛けおよびカバーのために使用することができるという特別な利点を有している。リボルバガイドと、対応配置されたフレームガイドとにより、巻上げ式遮蔽部の運動が制御されかつ確実にされている。
+</base:Paragraphs>
+      <base:Paragraphs num="0011">
+  各巻取りスピンドルにおいて同一の遮蔽作用を極めて小さな中間スペースの使用において得るために、巻取りリボルバに設けられたリボルバガイドに第２のリボルバガイドが鏡像対称的に対応配置されていて、これらのリボルバガイドが、巻取りリボルバの回転により、巻上げ式遮蔽部をガイドするために交互にフレームガイドと協働する本発明の別の構成が提案されている。これにより、各巻取りスピンドルが互いに独立して、巻成されたパッケージと一緒に交換位置へ到達した後に、運転領域に位置する巻取りスピンドルに対して完全に遮蔽されかつ隔離される。
+</base:Paragraphs>
+      <base:Paragraphs num="0012">
+  一方では巻上げ式遮蔽部のガイドを改善し、他方ではパッケージのできるだけ完全な隔離を得るために、フレームガイドが走入区分と走出区分とを有していて、走入区分と走出区分とが巻取りリボルバに対峙して配置されていて、巻取りリボルバに設けられたそれぞれのリボルバガイドと協働する本発明の別の構成が特に有利である。これにより、交換位置の到達時にフレームガイドとリボルバガイドとの間での巻上げ式遮蔽部の進入およびガイドが容易にされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0013">
+  完全な隔離のためには、リボルバガイドとフレームガイドとが、巻上げ式遮蔽部が運転位置において巻取りスピンドルのパッケージを９０°以上の最小角度で取り巻くように形成されている、本発明に係る巻取り機の別の実施形態が有利であると実証されている。これにより、巻取りスピンドルの交換領域は完全に巻取り機内で隔離される。
+</base:Paragraphs>
+      <base:Paragraphs num="0014">
+  極めて長く突出した巻取りスピンドルを交換領域において運転確実にカバーすることができるように、巻上げ式遮蔽部が巻取りスピンドルの突出した自由端に至るまで巻取りスピンドルに沿って平行に延びている、本発明の別の実施形態が設けられている。この場合、巻取りスピンドルの突出した自由端付近には、別のフレームガイドが設けられていて、このフレームガイドは巻上げ式遮蔽部をガイドするために機械フレームに配置されている。その限りでは、巻上げ式遮蔽部は巻取り機の駆動装置側でも巻取り機の突出している側でも確実にガイドされる。
+</base:Paragraphs>
+      <base:Paragraphs num="0015">
+  巻上げ式遮蔽部のガイドは、さらに押込み力により形成される巻上げ式遮蔽部の走出運動を可能にする。その限りでは、巻上げ式遮蔽部を繰り出しかつ巻き上げるための巻取りローラが電気的な駆動装置により制御可能である本発明による別の形態が有利である。これにより、巻取りローラの走出運動は、駆動装置により形成された押込み力により実現され、巻上げ式遮蔽部の巻上げは、電気的な駆動装置により形成された引っ張り力により実現される。
+</base:Paragraphs>
+      <base:Paragraphs num="0016">
+  リボルバガイドとフレームガイドとのフレキシブルな構成のために、巻上げ式遮蔽部が互いに可動に結合された多数の細長片を有する部材カバーとして形成されている、巻取り機の構成が特に有利である。これにより、有利には巻上げ式遮蔽部の容易なガイドが実現される。リボルバガイドまたはフレームガイド内での巻上げ式遮蔽部の引っ掛かりは不可能である。
+</base:Paragraphs>
+      <base:Paragraphs num="0017">
+  本発明を以下に本発明に係る巻取り機の実施例につき添付の図面を参照して詳しく説明する。
+</base:Paragraphs>
+    </business:TechnicalField>
+    <business:DrawingsDescription>
+      <base:Paragraphs num="0018">
+        <base:FigureReference num="0001">本発明に係る巻取り機の実施例の概略的な側面図である。</base:FigureReference>
+        <base:FigureReference num="0002">図１に示した実施例の概略的な正面図である。</base:FigureReference>
+        <base:FigureReference num="0003">図１に示した実施例の巻取りリボルバの概略的な正面図である。</base:FigureReference>
+        <base:FigureReference num="0004">図１に示した実施例を走出された巻上げ式遮蔽部と共に示す概略的な側面図である。</base:FigureReference>
+        <base:FigureReference num="0005">図４に示した実施例の概略的な正面図である。</base:FigureReference>
+      </base:Paragraphs>
+      <base:Paragraphs num="0019">
+  図１および図２には、本発明に係る巻取り機の実施形態が複数の視点で示されている。図１には、側面図が、図２には実施例の正面図が図示されている。本発明に係る巻取り機の実施例は、複数の糸から成る糸群が同時に巻成されてパッケージを形成する運転状態において示されている。図１および図２に示した実施例の以下の説明は、図面のうちの一方に明瞭に関連付けがなされない限り、両図面に関連する。
+</base:Paragraphs>
+      <base:Paragraphs num="0020">
+  この実施例は、機械フレーム１を有している。この機械フレーム１内には、巻取りリボルバ２が回転可能に支承されている。機械フレーム１における巻取りリボルバ２の回転運動は、リボルバ駆動装置５により行われる。巻取りリボルバ２には、１８０°だけ互いに対してずらされて配置された２つの巻取りスピンドル３．１，３．２が突出して保持されている。巻取りスピンドル３．１，３．２には、それぞれ２つのスピンドル駆動装置４．１，４．２が対応配置されている。リボルバ駆動装置５により、巻取りリボルバ２は、巻取りスピンドル３．１，３．２と一緒に運動させられる。したがって、巻取りスピンドル３．１，３，２は交互に交換領域と運転領域とにガイドされる。図１および図２に示された運転状態において、巻取りスピンドル３．１は、複数の糸９が巻取りスピンドル３．１の周面に巻き取られてパッケージ１０を形成する運転領域に位置している。第２の巻取りスピンドル３．２は、交換領域に位置していて、複数の巻管１１を備えられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0021">
+  巻取りスピンドル３．１，３．２は、機械フレーム１に相並んで配置された巻取り箇所に沿って延びていて、巻取り箇所毎にそれぞれ１つの巻管１１を有している。この実施例は、ここでは例示的に合計４つの巻取り箇所を備えて実施されている。基本的には、巻取り箇所のこの個数は単に例示的なものである。このような巻取り機は、１６個までの巻取り箇所を同時に備えて形成され、この場合、巻取りスピンドル３．１，３．２は、たとえば１．８ｍの突出長さに達する。
+</base:Paragraphs>
+      <base:Paragraphs num="0022">
+  この巻取り機内に形成された巻取り箇所は、糸９を分離しかつガイドするために、それぞれ走入領域においてヘッド糸ガイド８を有している。パッケージ１０の周面に糸９を敷設するために、綾振り装置７と、コンタクトローラ（接触ローラ）６とが設けられている。コンタクトローラ６は、巻取りスピンドル３．１，３．２の長さにわたって延びている。コンタクトローラ６は、可動のローラ支持体２１に保持されていて、回転可能に支承されている。綾振り装置７は、各巻取り箇所に対してそれぞれ１つの駆動された綾振りユニットを有している。綾振りユニットは、糸を往復ガイドし、これによりパッケージ１０の周面において綾巻きが生じる。
+</base:Paragraphs>
+      <base:Paragraphs num="0023">
+  特に新しく巻成されるパッケージ１０において解けた糸端部または糸くずの巻込みを阻止するために、機械フレーム１には遮蔽装置１２が配置されている。遮蔽装置１２は、巻上げ式遮蔽部１４の形の可動の遮蔽手段１３を有している。巻上げ式遮蔽部１４は、巻取りローラ１５上に巻き上げられている。巻取りローラ１５は、ケーシング１７内に回転可能に支承されて保持されていて、巻上げ駆動装置１６に連結されている。ケーシング出口１７では、巻上げ式遮蔽部１４に対して、巻取りリボルバ２の領域における駆動端部ではフレームガイド１９が配置されていて、巻取りスピンドルの突出した端部では第２のフレームガイド２０が配置されている。フレームガイド１９，２０は機械フレーム１に取り付けられている。
+</base:Paragraphs>
+      <base:Paragraphs num="0024">
+  巻取りリボルバ２の領域の駆動端部における巻上げ式遮蔽部１４のガイドを説明するために付加的に図３が参照される。
+</base:Paragraphs>
+      <base:Paragraphs num="0025">
+  図３には、巻取りリボルバ２の正面図が図示されている。巻取りリボルバ２は、巻取りスピンドル３．１，３．２の間でそれぞれ各巻取りスピンドル３．１，３．２に対してリボルバガイド１８．１，１８．２を有している。リボルバガイド１８．１，１８．２は、巻取りリボルバ２の中間の領域に鏡像対称的に形成されている。図示された運転状態では、リボルバガイド１８．１に、機械フレーム１に設けられたフレームガイド１９が対応配置されている。このためには、フレームガイド１９が、走入区分１９．１と、走出区分１９．２とにより形成されている。走入区分１９．１と走出区分１９．２とは巻取りリボルバ２に対峙して配置されている。この場合、巻取りリボルバ２の図示された位置では、走入区分１９．１と走出区分１９．２とがリボルバガイド１８．１に対応しているので、巻上げ式遮蔽部は、巻上げ駆動装置１６の操作時に、走入区分１９．１を介してリボルバガイド１８．１内にガイドされ、その後に走出区分１９．２へとガイドされる。したがって、リボルバガイド１８．１は、交換領域における巻取りスピンドル３．２を遮蔽する際に、巻上げ式遮蔽部１４をガイドするために働く。リボルバガイド１８．２は、対応して、交換領域における巻取りスピンドル３．１を遮蔽するために、使用される。
+</base:Paragraphs>
+      <base:Paragraphs num="0026">
+  巻取りローラ１５のケーシング１７は、機械フレーム１に側方で、巻上げ式遮蔽部１４の下側の運転位置よりも上方に位置する高さに配置されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0027">
+  遮蔽装置１２の機能を説明するために、図４および図５の図面が参照される。図４は、図１に示した実施例を側面図で変更された運転状態において示し、図５はこの実施例を正面図で示している。下記の説明は、図面のうちの一方に明瞭に関連付けがなされない限り、両図面に関連する。
+</base:Paragraphs>
+      <base:Paragraphs num="0028">
+  図４および図５に図示された運転状態では、巻取りスピンドル３．１が巻取りリボルバ２により運転領域から交換領域へとガイドされている。同時に巻取りスピンドル３．２が交換領域から運転領域へと旋回されている。巻取りスピンドル３．２では、糸の分断後にそれぞれ新規のパッケージ１０が巻成される。
+</base:Paragraphs>
+      <base:Paragraphs num="0029">
+  いわゆるパーキングタイム内に、巻取りスピンドル３．２におけるパッケージ１０の巻成時に、可動のコンタクトローラ６による、パッケージ直径を増大させるための退避運動が実施される。コンタクトローラ６は、このためには好適には可動の揺動部２１またはローラ支持体に保持されている。パーキングタイム中に、交換領域に保持された巻取りスピンドル３．１は交換位置に保持され、この交換位置では、最後まで巻成されたパッケージ１０の取出しが実施可能である。巻取りリボルバ２の運動は、パーキングタイム中には行われない。
+</base:Paragraphs>
+      <base:Paragraphs num="0030">
+  巻取りリボルバ２がその交換位置に到達するや否や、巻上げ駆動装置１６が作動させられ、巻上げ式遮蔽部１４が巻取りローラ１５から繰り出され、フレームガイド１９およびリボルバガイド１８．２ならびにフレームガイド２０内に押し込まれる。巻上げ式遮蔽部１４は、その端部位置まで移動され、したがって運転位置に到達する。この運転位置において、巻取りスピンドル３．１のパッケージ１０は、巻取りスピンドル３．２に対して完全に隔離されかつ遮蔽されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0031">
+  特に図５に示した図面から判るように、巻上げ式遮蔽部１４は、可動に結合された複数の細長片２２から成る部材カバーとして構成されている。
+</base:Paragraphs>
+      <base:Paragraphs num="0032">
+  運転位置における巻上げ式遮蔽部１４の端部位置は、巻上げ駆動装置１６により、または択一的にはフレームガイド１９，２０の端部に設けられたストッパにより実現される。
+</base:Paragraphs>
+      <base:Paragraphs num="0033">
+  巻取りスピンドル３．１において巻成されたパッケージが取り出され、新規の巻管１１に交換されるや否や、巻上げ駆動装置１６が作動され、巻上げ式遮蔽部１４を休止位置へと戻すことができる。この場合、巻上げ式遮蔽部１４は巻取りローラ１５上に巻き取られ、ケーシング１７内に引き戻される。
+</base:Paragraphs>
+      <base:Paragraphs num="0034">
+  本発明に係る巻取り機は、特に、複数のパッケージを備えた長く突出する巻取りスピンドルを遮蔽するために適している。完全な隔離が達成されるので、糸くずが交換領域に侵入することは完全に排除されている。これにより、品質的に高価値のパッケージが巻取りスピンドルの交換領域において生じる。
+</base:Paragraphs>
+    </business:DrawingsDescription>
+  </business:Description>
+  <business:Drawings lang="ja" sourceDB="JP">
+    <base:Figure num="0001">
+      <base:Image id="000003" he="96" wi="84" file="2020090394_000003.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002">
+      <base:Image id="000004" he="62" wi="84" file="2020090394_000004.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003">
+      <base:Image id="000005" he="69" wi="84" file="2020090394_000005.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004">
+      <base:Image id="000006" he="96" wi="84" file="2020090394_000006.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005">
+      <base:Image id="000007" he="62" wi="84" file="2020090394_000007.TIF" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="ja" dataFormat="original" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>
+  糸を巻き取るための巻取り機であって、糸を交互に巻き取ってパッケージ（１０）を形成するための、長く突出した２つの巻取りスピンドル（３．１，３．２）を支持する回転可能な巻取りリボルバ（２）と、前記巻取りスピンドル（３．１，３．２）の一方において最後まで巻成されたパッケージ（１０）を他方の巻取りスピンドル（３．１，３．２）に対してカバーするための少なくとも１つの可動の遮蔽手段（１３）を有する遮蔽装置（１２）とを備え、前記遮蔽手段（１３）が回転可能な巻取りローラ（１５）に保持された巻上げ式遮蔽部（１４）により形成されている、巻取り機において、
+
+  前記巻上げ式遮蔽部（１４）に、前記巻取りリボルバ（２）に取り付けられた少なくとも１つのリボルバガイド（１８．１，１８．２）が対応配置されていて、該リボルバガイド（１８．１，１８．２）が、前記巻上げ式遮蔽部（１４）をガイドするために、機械フレーム（１）に設けられた少なくとも１つのフレームガイド（１９）と協働することを特徴とする、巻取り機。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>
+  前記巻取りリボルバ（２）の前記リボルバガイド（１８．１，１８．２）に、第２のリボルバガイド（１８．１，１８．２）が鏡像対称的に対応配置されていて、前記リボルバガイド（１８．１，１８．２）が、前記巻取りリボルバ（２）の回転により、前記巻上げ式遮蔽部（１４）をガイドするために交互に前記フレームガイド（１９）と協働する、請求項１記載の巻取り機。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>
+  前記フレームガイド（１９）が、走入区分（１９．１）と走出区分（１９．２）とを有していて、前記走入区分（１９．１）と前記走出区分（１９．２）とが前記巻取りリボルバ（２）に対峙して配置されている、請求項１または２記載の巻取り機。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>
+  前記リボルバガイド（１８．１，１８．２）と、前記フレームガイド（１９）とは、前記巻上げ式遮蔽部（１４）が運転位置において前記巻取りスピンドル（３．１，３．２）の前記パッケージ（１０）を９０°以上の最小角度で取り巻くように、形成されている、請求項１から３までのいずれか１項記載の巻取り機。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>
+  前記巻上げ式遮蔽部（１４）が、前記巻取りスピンドル（３．１，３．２）に沿って平行に、前記巻取りスピンドル（３．１，３．２）の突出した自由端に至るまで延びている、請求項１から４までのいずれか１項記載の巻取り機。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>
+  前記巻取りスピンドル（３．１，３．２）の突出した自由端の付近に、前記機械フレーム（１）において前記巻上げ式遮蔽部（１４）をガイドするための別のフレームガイド（２０）が配置されている、請求項５記載の巻取り機。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>
+  前記巻上げ式遮蔽部（１４）を繰り出し、または巻き上げるための前記巻取りローラ（１５）が、電気的な巻上げ駆動装置（１６）により制御可能である、請求項１から６までのいずれか１項記載の巻取り機。
+</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>
+  前記巻上げ式遮蔽部（１４）が、互いに可動に結合された複数の細長片（２２）を備えた部材カバーとして形成されている、請求項１から７までのいずれか１項記載の巻取り機。
+</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

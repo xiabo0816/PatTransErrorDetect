@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE PatentDocumentAndRelated  SYSTEM '/DTDS/ExternalStandards/ipphdb-entities.dtd' []><business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP102017000530033JP0002017538410A5FULJA20200611JP00H.XML" dateProduced="20200613" status="C" lang="ja" country="JP" docNumber="2017538410" kind="A5" datePublication="20200611">
+  <business:BibliographicData lang="ja" country="JP">
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017538410</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017538410</base:DocNumber>
+        <base:Kind>A5</base:Kind>
+        <base:Date>20200611</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PlainLanguageDesignation lang="ja">特許法第17条の2の規定による補正の掲載</business:PlainLanguageDesignation>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>2017050</business:GazetteNumber>
+        <base:Date>00000000</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>102017000530033</base:DocNumber>
+        <base:Date>00000000</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>2017530033</base:DocNumber>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails>
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20200101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>24</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>47</business:MainGroup>
+        <business:Subgroup>00</business:Subgroup>
+        <business:SymbolPosition>F</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A24F  47/00        20200101AFI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:ClassificationLevel>A</business:ClassificationLevel>
+        <business:Section>A</business:Section>
+        <business:MainClass>61</business:MainClass>
+        <business:Subclass>M</business:Subclass>
+        <business:MainGroup>15</business:MainGroup>
+        <business:Subgroup>06</business:Subgroup>
+        <business:SymbolPosition>L</business:SymbolPosition>
+        <business:ClassificationValue>I</business:ClassificationValue>
+        <base:ActionDate>
+          <base:Date>20200515</base:Date>
+        </base:ActionDate>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>JP</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationStatus>B</business:ClassificationStatus>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>A61M  15/06        20060101ALI20200515BHJP        </base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:JPClassification>
+      <business:FI type="main">A24F47/00</business:FI>
+      <business:FI type="secondary">A61M15/06 A</business:FI>
+    </business:JPClassification>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>T5</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+  </business:BibliographicData>
+  <business:WOAmendedClaims id="woamendedclaims000001" lang="ja">
+    <business:AmendBody lang="ja">
+      <business:Description lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <base:Paragraphs num="0013">例如,本公开提供了一种控制和调节电蒸发装置的剂量的方法,该方法包括测量与电力、时间和温度相关的从电蒸发装置蒸发的材料或在蒸发装置中可蒸发的材料的量。 这些方法和装置可以包括用于预测蒸发剂量（例如,质量）的系统,其包括设置总颗粒物质(TPM)或活性成分蒸发或释放的关系,所述释放取决于温度（其可以通过电阻率、温度比例特性、测量等来确定）、时间（其可以与感测用户吹出的呼吸/抽吸有关）和蒸发元件的功耗。 在一些实施例中,本公开提供了一种用于电蒸发装置的测量剂量控制和调节的方法,所述方法包括测量与电力和温度相关的由电蒸发装置或在蒸发装置中可蒸发的材料蒸发的材料的量,特别地,所述方法包括用于预测蒸发剂量的系统,所述系统包括设置总颗粒物质(TPM)或活性成分蒸发或温度与功率消耗的释放之间的关系。</base:Paragraphs>
+        <base:Paragraphs num="0017">这些方法中的任何一种还可以包括在每个连续时间间隔期间确定被蒸发的可蒸发材料的温度相对于被蒸发的可蒸发材料的温度的变化（ΔT）。</base:Paragraphs>
+        <base:Paragraphs num="0021">通常,使用在部分剂量时间间隔期间被蒸发的可蒸发材料的温度和在部分剂量时间间隔之前被蒸发的可蒸发材料的温度来计算部分剂量包括使用加热器的电特性,该电特性与加热器的温度成比例,例如在部分剂量时间间隔期间被蒸发的可蒸发材料的温度。 因此,在本文描述的任何计算步骤中提及的温度可以指代与实际温度成比例的任何值（例如,在部分剂量时间间隔期间被蒸发的可蒸发材料的温度和在部分剂量时间间隔之前被蒸发的可蒸发材料的温度）（例如,使用电阻率温度系数来确定与温度成比例的值,而不需要转换（使用从系统确定的常数以转换为℃或℉））。</base:Paragraphs>
+        <base:Paragraphs num="0038">可以使用所有合适的输出,包括视频显示器、LED、扬声器、无线发射器。 本文所述的任何装置可以包括温度传感器,该温度传感器被配置成在每个部分剂量时间间隔期间感测被蒸发的可蒸发材料的温度。 如本文所述,温度传感器可以是单独的和/或专用的（例如,热敏电阻）,其本身可以基于加热器的相关电阻来确定温度（例如,加热器和/或被加热的材料的温度）。</base:Paragraphs>
+        <base:Paragraphs num="0072">这里提供的是, 量化从电蒸发装置中的可蒸发材料供应给用户的蒸汽的量； 和/或配置成控制的电蒸发装置,所述电蒸发装置包括： 电蒸发装置包括： （可选地）呼吸传感器,其被配置为感测用户的呼吸； 当你呼吸时, 加热器控制器（也称为加热元件控制器）,其被配置成确定从电源供应的电力量； 当你呼吸时, -温度传感器（其可以是直接传感器,例如热敏电阻,或者可以是温度感测单元,其基于加热器的电特性来确定例如加热器的温度,所述温度传感器被配置成确定由加热元件产生的温度或温度曲线； 当你呼吸时, 基于提供给加热器的功率和加热器的温度（其可以是可蒸发材料在蒸发时的温度的估计值）： 或在使用者的呼吸期间； 根据电量和温度曲线, 用于预测汽化剂量的装置（也称为用于预测汽化剂量的单元或电路）,其计算从可汽化材料供应给用户的蒸汽的量； a）警报单元,其配置成当所供应的蒸汽的量满足或超过用于用户呼吸的预定蒸汽的量阈值时或当从多个呼吸供应的蒸汽的累积量满足或超过预定蒸汽的量阈值时警告用户,或b）停止单元,其配置成当所供应的蒸汽的量满足或超过用于用户呼吸的预定蒸汽的量阈值时或当从多个呼吸供应的蒸汽的累积量满足或超过预定蒸汽的量阈值时自动停止电蒸发装置的一个或多个机构,或c）a））</base:Paragraphs>
+        <base:Paragraphs num="0077">如上所述,在一些变型中,由装置蒸发的可蒸发材料的温度由加热器确定,而不需要额外的传感器。 例如,加热器的电阻的相对变化（例如,电阻率温度系数）可以与参考电阻结合使用,以估计加热器的温度。 虽然转换因子可以用于将加热器的电阻率与参考电阻率的比率改变为实际温度值,但是在一些变型中,系统,特别是用于预测蒸发剂量的单元,可以使用与转换因子直接成比例的值,而不乘以转换因子。 这些值与温度成比例。 例如,这些仪器中的任何一个可以包括用于基于TCR确定加热器温度的逻辑。 加热器的电阻（例如,电阻加热器）可以是与加热器分开的参考电阻的电阻（R）。<base:Sub>reference</base:Sub>类似地,在器械的操作期间测量（R）。<base:Sub>heater</base:Sub>加热器的电阻与参考电阻之比（R）。<base:Sub>heater／</base:Sub>R<base:Sub>reference</base:Sub>例如,加热器的温度相对于室温的变化可以与（R：<base:Sub>heater／</base:Sub>R<base:Sub>reference</base:Sub>-1）×（1/TCR）,其中TCR是加热器的电阻率温度系数。在一个实施例中,特定装置的加热器的TCR是0.00014.在确定本文所述的部分剂量和剂量时,所使用的温度值（例如,在剂量间隔Ti期间的可蒸发材料的温度,如下面进一步详细描述的）可以是无单位的电阻率比（例如,R）。<base:Sub>heater</base:Sub>/R<base:Sub>reference</base:Sub>）,也可以用标准化/修正后的温度（例如℃）来表示。</base:Paragraphs>
+      </business:Description>
+      <business:Claims lang="ja" dataFormat="original" sourceDB="JP" correction="Y">
+        <business:Claim num="0001">
+          <business:ClaimText>确定提供给蒸发装置的用户的药物的估计量的方法,所述方法包括确定提供给所述蒸发装置的加热器的功率的量,所述加热器被配置成蒸发可蒸发材料,在第一时间确定所述蒸发装置的一部分的第一温度,在所述第一时间之后的第二时间确定所述蒸发装置的所述一部分的第二温度,并且基于所述加热器的功率的量以及所述第一温度与所述第二温度之间的差,确定从所述第一时间到所述第二时间提供给所述蒸发装置的所述用户的所述药物的估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0002">
+          <business:ClaimText>根据权利要求1所述的方法,其中所述可蒸发材料包括所述药物。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0003">
+          <business:ClaimText>根据权利要求1或2所述的方法,其中,所述药物的所述推定量包含向所述使用者供给的有效成分的推定量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0004">
+          <business:ClaimText>根据权利要求1至3中任一项所述的方法,其中,所述可蒸发材料包括尼古丁和载体。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0005">
+          <business:ClaimText>根据权利要求4所述的方法,其中所述载体包含一种或多种二醇。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0006">
+          <business:ClaimText>根据权利要求1至5中任一项所述的方法,其中,所述第一时间是所述时间段的开始,并且所述第二时间是所述时间段的结束,并且其中,递送给所述用户的所述药物的估计量包括在所述时间段期间递送的所述药物的估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0007">
+          <business:ClaimText>根据权利要求1至6中任一项所述的方法,其中,所述方法还包括检测所述蒸发装置的用户的呼吸,其中,所述第一时间对应于所述用户的呼吸的开始,并且所述第二时间对应于所述用户的呼吸的结束。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0008">
+          <business:ClaimText>确定提供给所述蒸发器装置的所述用户的所述药物的所述估计量包括： 在所述蒸发器装置的使用时段中的第一时段期间： 确定供应给所述蒸发器装置的所述用户的所述药物的第一估计量； 所述方法还包括： 确定供应给所述用户的所述药物的多个估计剂量,所述多个估计剂量包括： 所述多个估计的药物量中的每一个包括： 对应于在所述蒸发器装置的所述使用时段内发生在所述第一时段之后的一系列多个时段中的一个时段； 根据权利要求1至5中任一项所述的方法,其中,所述多个估计的药物量中的每一个基于在所述一系列多个时间段中的对应时间段期间提供给所述加热器的估计功率、在所述一系列多个时间段中的所述对应时间段的开始处的所述可蒸发材料的估计温度、以及在所述一系列多个时间段中的所述对应时间段的结束处的所述可蒸发材料的估计温度,并且基于所述第一估计的药物量与所述多个估计的药物量的总和来确定在所述蒸发装置的所述使用时间段期间提供给所述用户的所述药物的总估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0009">
+          <business:ClaimText>根据权利要求8所述的方法,其中,确定所供应的所述药物的所述总估计量包括：当确定所述药物的所述第一估计量和所述药物的所述多个估计量中的每一个时,对所述药物的所述第一估计量和所述药物的所述多个估计量中的每一个进行求和。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0010">
+          <business:ClaimText>根据权利要求1至9中任一项所述的方法,其中,确定所供应的药物的所述估计量的步骤包括：基于乘以所述第一温度与所述第二温度之间的差的第一常数来计算第一值,基于乘以所述第二温度的第二常数来计算第二值,基于提供给所述加热器的功率减去所述第一值和所述第二值两者来计算第三值,以及基于乘以所述第三值的第三常数来计算所供应的药物的所述估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0011">
+          <business:ClaimText>根据权利要求1至5中任一项所述的方法,其中,所述方法还包括：基于确定在一段时间内所递送的药物的总估计量满足或超过预设阈值,引起所述蒸发装置的关闭,其中,所递送的药物的总估计量包括从所述第一时间到所述第二时间所递送的药物的估计量,以及在所述一段时间内所递送给所述用户的药物的一个或多个其他估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0012">
+          <business:ClaimText>根据权利要求1-5中任一项所述的方法,其中,所述方法还包括：基于确定在一段时间内递送的药物的总估计量满足或超过预设阈值,向所述用户发出警报,其中,递送的药物的总估计量包括从所述第一时间到所述第二时间递送的药物的估计量,以及在所述一段时间内递送给所述用户的药物的一个或多个其他估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0013">
+          <business:ClaimText>根据权利要求1至12中任一项所述的方法,其中,求出所述第1温度的步骤具备基于与所述加热器的温度成比例的所述加热器的电特性来计算所述第1温度的估计的步骤。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0014">
+          <business:ClaimText>根据权利要求1至13中任一项所述的方法,其中,所述蒸发装置的所述部分包括所述加热器和所述可蒸发材料中的一个或多个。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0015">
+          <business:ClaimText>根据权利要求1至14中任一项所述的方法,还包括由所述蒸发装置将提供给所述加热器的功率量、所述第一温度和所述第二温度中的一个或多个发送到分离器,所述分离器用于显示与所述药物的所述估计量有关的信息。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0016">
+          <business:ClaimText>一个或多个控制器,所述一个或多个控制器被配置成执行操作,所述操作包括：确定提供给所述加热器的功率量,在第一时间确定所述蒸发装置的所述部分的第一温度,在所述第一时间之后的第二时间确定所述蒸发装置的所述部分的第二温度,以及基于提供给所述加热器的所述功率量与所述第一温度和所述第二温度之间的差值,确定从所述第一时间到所述第二时间供应给用户的药物的估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0017">
+          <business:ClaimText>根据权利要求16所述的蒸发装置,其中,所述可蒸发材料包括所述药物。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0018">
+          <business:ClaimText>如权利要求16或17所述的气化装置,其中,所述药物的所述推定量包括向所述使用者供给的有效成分的推定量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0019">
+          <business:ClaimText>根据权利要求16至18中任一项所述的蒸发装置,其中,所述可蒸发材料包括尼古丁和载体。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0020">
+          <business:ClaimText>根据权利要求19所述的蒸发装置,其中所述载体包括一种或多种二醇。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0021">
+          <business:ClaimText>根据权利要求16至20中任一项所述的蒸发装置,其中,所述第一时间是所述时间段的开始,并且所述第二时间是所述时间段的结束,并且其中,提供给所述用户的所述药物的所述估计量包括在所述时间段期间提供的所述药物的估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0022">
+          <business:ClaimText>根据权利要求16至21中任一项所述的蒸发器装置,其中,所述操作还包括感测所述蒸发器装置的用户的呼吸,其中,所述第一时间对应于所述用户的呼吸的开始,并且所述第二时间对应于所述用户的呼吸的结束。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0023">
+          <business:ClaimText>确定提供给所述蒸发器装置的所述用户的所述药物的所述估计量包括： 在所述蒸发器装置的使用时段中的第一时段期间： 确定供应给所述蒸发器装置的所述用户的所述药物的第一估计量； 所述操作还包括： 确定供应给所述用户的所述药物的多个估计剂量,所述多个估计剂量包括： 所述多个估计的药物量中的每一个包括： 对应于在所述蒸发器装置的所述使用时段内发生在所述第一时段之后的一系列多个时段中的一个时段； 根据权利要求16至20中任一项所述的蒸发装置,其中,所述多个估计的药物量中的每一个基于在所述一系列多个时间段中的对应时间段期间提供给所述加热器的估计功率、在所述一系列多个时间段中的所述对应时间段的开始处的所述可蒸发材料的估计温度、以及在所述一系列多个时间段中的所述对应时间段的结束处的所述可蒸发材料的估计温度,并且基于所述第一估计的药物量与所述多个估计的药物量的总和来确定在所述蒸发装置的所述使用时间段期间提供给所述用户的所述药物的总估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0024">
+          <business:ClaimText>根据权利要求23所述的蒸发装置,其中,确定所供应的所述药物的所述总估计量包括：当确定所述药物的所述第一估计量和所述药物的所述多个估计量中的每一个时,对所述药物的所述第一估计量和所述药物的所述多个估计量中的每一个进行求和。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0025">
+          <business:ClaimText>根据权利要求16至24中任一项所述的蒸发装置,其中,确定所供应的药物的所述估计量包括：基于乘以所述第一温度与所述第二温度之间的差的第一常数来计算第一值,基于乘以所述第二温度的第二常数来计算第二值,基于提供给所述加热器的功率减去所述第一值和所述第二值两者来计算第三值,以及基于乘以所述第三值的第三常数来计算所供应的药物的所述估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0026">
+          <business:ClaimText>根据权利要求16至20中任一项所述的蒸发器装置,其中,所述操作还包括：基于确定在一段时间内供应的药物的总估计量满足或超过预设阈值,引起所述蒸发器装置的关闭,其中,供应的药物的总估计量包括从所述第一时间到所述第二时间供应的药物的估计量,以及在所述一段时间内供应给所述用户的药物的一个或多个其他估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0027">
+          <business:ClaimText>根据权利要求16-20中任一项所述的蒸发器装置,其中,所述操作还包括：基于确定在一段时间内供应的药物的总估计量满足或超过预设阈值,向所述用户发出警报,其中,供应的药物的总估计量包括从所述第一时间到所述第二时间供应的药物的估计量,以及在所述一段时间内供应给所述用户的药物的一个或多个其他估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0028">
+          <business:ClaimText>如权利要求16至27中任一项所述的气化装置,其特征在于,求出所述第一温度的步骤包括基于与所述加热器的温度成比例的所述加热器的电特性来计算所述第一温度的估计的步骤。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0029">
+          <business:ClaimText>根据权利要求16至28中任一项所述的蒸发装置,其中,所述蒸发装置的所述部分包括一个或多个所述加热器和所述可蒸发材料。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0030">
+          <business:ClaimText>根据权利要求16至29中任一项所述的蒸发器装置,其中所述一个或多个控制器包括一个或多个操作逻辑和软件指令。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0031">
+          <business:ClaimText>确定提供给所述蒸发器装置的所述用户的所述药物的所述估计量包括： 根据权利要求1至5中的任一项所述的方法,包括确定在第一时间段期间供应给所述蒸发装置的所述用户的所述药物的第一估计量,其中,所述方法还包括：对于第二时间段,确定供应给所述用户的所述药物的第二估计量,其中,所述第二估计量基于在所述第二时间段期间提供给所述加热器的所述估计功率、在所述第二时间段的开始处的所述可蒸发材料的所述估计温度以及在所述第二时间段的结束处的所述可蒸发材料的所述估计温度,并且基于所述药物的所述第一估计量和所述第二估计量的总和,确定在所述第一时间段和所述第二时间段内供应给所述用户的所述药物的总估计量。</business:ClaimText>
+        </business:Claim>
+        <business:Claim num="0032">
+          <business:ClaimText>确定提供给所述蒸发器装置的所述用户的所述药物的所述估计量包括： 根据权利要求16至20中的任一项所述的方法,包括确定在第一时间段期间供应给所述蒸发装置的所述用户的所述药物的第一估计量,其中,所述操作还包括：针对第二时间段确定供应给所述用户的所述药物的第二估计量,其中,所述第二估计量基于在所述第二时间段期间提供给所述加热器的所述估计功率、在所述第二时间段开始时所述可蒸发材料的所述估计温度以及在所述第二时间段结束时所述可蒸发材料的所述估计温度,并且基于所述药物的所述第一估计量和所述第二估计量的总和来确定在所述第一时间段和所述第二时间段内供应给所述用户的所述药物的总估计量。</business:ClaimText>
+        </business:Claim>
+      </business:Claims>
+    </business:AmendBody>
+  </business:WOAmendedClaims>
+</business:PatentDocumentAndRelated>
