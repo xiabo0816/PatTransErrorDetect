@@ -23,7 +23,7 @@ import traceback
 import configparser
 # https://docs.python.org/zh-cn/3.9/library/configparser.html
 import re
-
+import html
 """
 全局变量
 """
@@ -121,6 +121,8 @@ def _do_compare_chunk(targets, text):
                 if t == -1:
                     t = text.lower().find(item.lower())
                 if t == -1:
+                    t = text.replace(' ','').find(item)
+                if t == -1:
                     results.append(item)
                 # print(t, item, text)
                 # input()
@@ -137,7 +139,6 @@ def _do_detect(patterns, text):
 
 def _run_detecter(args):
     try:
-        print(args)
         output_file, input_ori_file, input_trans_file, MARKS, CHUNKS, tag = args['output_file'], args['input_ori_file'], args['input_trans_file'], args['MARKS'], args['CHUNKS'], args['tag']
         # try:
         # file coding: UTF-8 with BOM
@@ -147,8 +148,6 @@ def _run_detecter(args):
         _origin_para_eles = root_origin.xpath(tag, namespaces=root_origin.nsmap)
         _trans_para_eles  = root_trans.xpath(tag, namespaces=root_trans.nsmap)
         # print(_trans_para_eles[0].text)
-
-        
 
         Paragraphs = []
         max_len = len(_trans_para_eles)
@@ -231,10 +230,12 @@ if __name__ == '__main__':
     # if args.jobs != -1:
     #     PROCESSES = args.jobs
 
-    pbar = tqdm(total=len(fl))
-    # 这种方式回调函数无法使用pbar变量
-    FOUT = open(args.output_file+'.utf8', 'w', encoding='utf-8', errors="ignore")
+    # pbar = tqdm(total=len(fl))
+    FOUT = open(args.output_file+'.html', 'w', encoding='utf-8', errors="ignore")
+    FOUT.writelines('<style>textarea{width: 100%; height: 250px;}td:nth-child(1),td:nth-child(2),td:nth-child(3){width: 10%; table-layout: fixed; overflow: hidden; word-break: break-all;}</style>')
+    FOUT.writelines('<table>')
     count = 0
+    # 这种方式回调函数无法使用pbar变量
     with tqdm(total=len(fl)) as pbar:
         for i in range(len(fl)):
             input_ori_file = fl[i]
@@ -262,14 +263,26 @@ if __name__ == '__main__':
                 if Paragraph is not None:
                     # print(Paragraph)
                     # input()
-                    FOUT.writelines(str(Paragraph[0]) + '\n')
-                    FOUT.writelines(str(Paragraph[1]) + '\n')
-                    FOUT.writelines(str(Paragraph[2]) + '\n')
-                    FOUT.writelines(str(Paragraph[3]) + '\n')
-                    FOUT.writelines(str(Paragraph[4]) + '\n')
-                    FOUT.writelines('\n')
-                    count += 1
+                    FOUT.writelines('<tr>\n')
+                    FOUT.writelines('<td>'+str(Paragraph[0]) + '</td>\n')
+                    FOUT.writelines('<td>'+str(Paragraph[1]) + '</td>\n')
+                    FOUT.writelines('<td>'+str(Paragraph[2]) + '</td>\n')
 
+                    # c3 = str(Paragraph[3])
+                    # c4 = str(Paragraph[3])
+                    # for c in Paragraph[2]:
+                    #     c3 = c3.replace(c, '<b>'+c+'</b>')
+                    # for c in Paragraph[2]:
+                    #     c4 = c4.replace(c, '<b>'+c+'</b>')
+                    # FOUT.writelines('<td><textarea disabled>'+str(c3) + '</textarea></td>\n')
+                    # FOUT.writelines('<td><textarea disabled>'+str(c4) + '</textarea></td>\n')
+
+                    FOUT.writelines('<td><textarea disabled>'+str(Paragraph[3]) + '</textarea></td>\n')
+                    FOUT.writelines('<td><textarea disabled>'+str(Paragraph[4]) + '</textarea></td>\n')
+                    FOUT.writelines('</tr>\n')
+                    count += 1
+            pbar.update(1)
             # print(Paragraphs)
+    FOUT.writelines('</table>')
     FOUT.close()
     print(count)
