@@ -112,16 +112,17 @@ def _do_compare_mark(targets, text):
 
 def _do_compare_chunk(targets, text):
     results = []
+    q2btext = strQ2B(text)
     for target in targets:
         for item in target:
             if len(item) > MIN_CHUNK_LEN:
                 t = text.find(item)
                 if t == -1:
-                    t = text.find(strQ2B(item))
+                    t = q2btext.find(strQ2B(item))
                 if t == -1:
                     t = text.lower().find(item.lower())
                 if t == -1:
-                    t = text.replace(' ','').find(strQ2B(item).lower())
+                    t = q2btext.replace(' ','').lower().find(strQ2B(item).lower())
                 if t == -1:
                     results.append(item)
                 # print(t, item, text)
@@ -245,7 +246,7 @@ if __name__ == '__main__':
 
     # pbar = tqdm(total=len(fl))
     FOUT = open(args.output_file+'.html', 'w', encoding='utf-8', errors="ignore")
-    FOUT.writelines('<style>textarea{width: 100%; height: 250px;}td:nth-child(1),td:nth-child(2),td:nth-child(3){width: 10%; table-layout: fixed; overflow: hidden; word-break: break-all;}</style>')
+    FOUT.writelines('<style>td{table-layout: fixed; overflow: hidden; word-break: break-all;}textarea{width: 100%; height: 250px;}td:nth-child(1),td:nth-child(2),td:nth-child(3){width: 10%; }td:nth-child(4),td:nth-child(5){width: 34%; }</style>')
     FOUT.writelines('<table>')
     count = 0
     STAT  = {}
@@ -297,6 +298,8 @@ if __name__ == '__main__':
 
                     FOUT.writelines('<td><textarea disabled>'+str(Paragraph[3]) + '</textarea></td>\n')
                     FOUT.writelines('<td><textarea disabled>'+str(Paragraph[4]) + '</textarea></td>\n')
+                    # FOUT.writelines('<td>'+html.escape(str(Paragraph[3])) + '</td>\n')
+                    # FOUT.writelines('<td>'+html.escape(str(Paragraph[4])) + '</td>\n')
                     FOUT.writelines('</tr>\n')
                     count += 1
             pbar.update(1)
