@@ -204,6 +204,19 @@ def _del_xml_tag(line):
 def _del_xml_first_attr(line):
     return re.sub(r'^(<[^>\s]+)\s[^>]+?(>)', r'\1\2', line)
 
+def _plot_stat(stat):
+    """
+    对识别出的每个字符串画出频率柱状图
+    """
+    import matplotlib.pyplot as plt
+    import numpy as np
+    x = stat.keys()
+    y = stat.values()
+    plt.figure()
+    plt.plot(x,y)
+    plt.show()
+
+    
 if __name__ == '__main__':
     PROCESSES = multiprocessing.cpu_count()
 
@@ -235,6 +248,7 @@ if __name__ == '__main__':
     FOUT.writelines('<style>textarea{width: 100%; height: 250px;}td:nth-child(1),td:nth-child(2),td:nth-child(3){width: 10%; table-layout: fixed; overflow: hidden; word-break: break-all;}</style>')
     FOUT.writelines('<table>')
     count = 0
+    STAT  = {}
     # 这种方式回调函数无法使用pbar变量
     with tqdm(total=len(fl)) as pbar:
         for i in range(len(fl)):
@@ -261,6 +275,10 @@ if __name__ == '__main__':
                 continue
             for Paragraph in Paragraphs:
                 if Paragraph is not None:
+                    for c in Paragraph[2]:
+                        if c not in STAT:
+                            STAT[c] = 1
+                        STAT[c] += 1
                     # print(Paragraph)
                     # input()
                     FOUT.writelines('<tr>\n')
@@ -286,3 +304,5 @@ if __name__ == '__main__':
     FOUT.writelines('</table>')
     FOUT.close()
     print(count)
+    STAT = sorted(STAT.items(), key = lambda x:x[1], reverse = True)
+    json.dump(dict(STAT), open(args.output_file+'.stat.json', 'w', encoding='utf-8', errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
