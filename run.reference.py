@@ -142,12 +142,7 @@ def _do_detect(patterns, text):
     results = []
     for pattern in patterns:
         # text = u"毛刺　Ａ　１ 127210853300_E2_C2_P2.bmp"
-        result = []
-        for r in list(pattern.findall(text)):
-            print(''.join(r))
-            input()
-            result.append(''.join(r))
-        results.append(result)
+        results.append(pattern.findall(text))
     return results
 
 def _run_detecter(args):
