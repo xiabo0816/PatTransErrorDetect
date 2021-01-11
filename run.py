@@ -34,7 +34,8 @@ FILE_ENCODE = 'UTF-8'
 MIN_CHUNK_LEN = 2
 # 最大HTML转义次数
 MAX_HTMLENTITIES_TIMES = 5
-
+# 最小参考文献长度
+MIN_REFERENCE_LEN = 30
 # 全角字符匹配失败的时候，是否回退到半角字符进行匹配
 IS_FULLWIDTH_FALLBACK = True
 
@@ -138,21 +139,46 @@ def _do_compare_chunk(targets, text):
 
     return results
 
+
+def _do_compare_reference(targets, text):
+    results = []
+    q2btext = strQ2B(text)
+    for target in targets:
+        for item in target:
+            if len(item) > MIN_CHUNK_LEN:
+                t = text.find(item)
+                if t == -1:
+                    t = q2btext.find(strQ2B(item))
+                if t == -1:
+                    results.append(item)
+                # print(t, item, text)
+                # input()
+                # print()
+
+    return results
+
 def _do_detect(patterns, text):
     results = []
     for pattern in patterns:
         # text = u"毛刺　Ａ　１ 127210853300_E2_C2_P2.bmp"
         result = []
-        for r in list(pattern.findall(text)):
-            print(''.join(r))
-            input()
-            result.append(''.join(r))
+        if pattern[0].startswith('__multichunk__'):
+            end = 0
+            while end < len(text):
+                s = pattern[1].search(text[end:])
+                if s is None:
+                    break
+                if len(s.group()) > MIN_REFERENCE_LEN:
+                    result.append(s.group())
+                end += s.span()[1]
+        else:
+            result.append(pattern[1].findall(text))
         results.append(result)
     return results
 
 def _run_detecter(args):
     try:
-        output_file, input_ori_file, input_trans_file, MARKS, CHUNKS, tag = args['output_file'], args['input_ori_file'], args['input_trans_file'], args['MARKS'], args['CHUNKS'], args['tag']
+        output_file, input_ori_file, input_trans_file, MARKS, CHUNKS, REFERENCE, tag = args['output_file'], args['input_ori_file'], args['input_trans_file'], args['MARKS'], args['CHUNKS'], args['REFERENCE'], args['tag']
         # try:
         # file coding: UTF-8 with BOM
         # etree.ElementTree.register_namespace('', 'http://your/uri')
@@ -179,6 +205,7 @@ def _run_detecter(args):
             # print(c_origin, c_trans)
             dtmarks  = _do_detect(MARKS, c_origin)
             dtchunks = _do_detect(CHUNKS, c_origin)
+            dtreferences = _do_detect(REFERENCE, c_origin)
             # print(dtmarks, dtchunks)
             # print(c_origin)
             if dtmarks is not None and len(dtmarks) > 0:
@@ -190,6 +217,11 @@ def _run_detecter(args):
                 chunks = _do_compare_chunk(dtchunks, c_trans)
                 if len(chunks) > 0:
                     Paragraphs.append((input_ori_file, input_trans_file, chunks, c_origin, c_trans))
+
+            if dtreferences is not None and len(dtreferences) > 0:
+                references = _do_compare_reference(dtreferences, c_trans)
+                if len(references) > 0:
+                    Paragraphs.append((input_ori_file, input_trans_file, references, c_origin, c_trans))
             # print(dttrans)
             # input()
         return Paragraphs
@@ -241,13 +273,18 @@ if __name__ == '__main__':
 
     MARKS = []
     for field in CONFIG['MARKS']:
-        MARKS.append(re.compile(CONFIG['MARKS'][field]))
+        MARKS.append((field, re.compile(CONFIG['MARKS'][field])))
     print(MARKS)
 
     CHUNKS = []
     for field in CONFIG['CHUNKS']:
-        CHUNKS.append(re.compile(CONFIG['CHUNKS'][field]))
+        CHUNKS.append((field, re.compile(CONFIG['CHUNKS'][field])))
     print(CHUNKS)
+
+    REFERENCE = []
+    for field in CONFIG['REFERENCE']:
+        REFERENCE.append((field, re.compile(CONFIG['REFERENCE'][field])))
+    print(REFERENCE)
 
     fl = readlist(args.input_list)
     # print(fl)
@@ -281,7 +318,7 @@ if __name__ == '__main__':
                 print('\nFile not exists: ' + input_trans_file)
                 continue
 
-            param = {'input_ori_file':input_ori_file,'input_trans_file':input_trans_file,'output_file':args.output_file,'MARKS':MARKS,'CHUNKS':CHUNKS,'tag':CONFIG['COMMON']['TAG']}
+            param = {'input_ori_file':input_ori_file,'input_trans_file':input_trans_file,'output_file':args.output_file,'MARKS':MARKS,'CHUNKS':CHUNKS,'REFERENCE':REFERENCE,'tag':CONFIG['COMMON']['TAG']}
             # print(root_origin)
             Paragraphs = _run_detecter(param)
             if Paragraphs is None:
@@ -297,7 +334,8 @@ if __name__ == '__main__':
                     FOUT.writelines('<tr>\n')
                     FOUT.writelines('<td>'+str(Paragraph[0]) + '</td>\n')
                     FOUT.writelines('<td>'+str(Paragraph[1]) + '</td>\n')
-                    FOUT.writelines('<td>'+str(Paragraph[2]) + '</td>\n')
+                    # FOUT.writelines('<td>'+str(Paragraph[2]) + '</td>\n')
+                    FOUT.writelines('<td><textarea disabled>'+str(Paragraph[2]) + '</textarea></td>\n')
 
                     # c3 = str(Paragraph[3])
                     # c4 = str(Paragraph[3])
