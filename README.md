@@ -231,3 +231,9 @@ Young, S. L., et al., Proc. Natl. Acad. Sci. U.S.A. 88:10023- 10026 (1991).
 Zein, N., et al., Science 240:1198 (1988).
 Zimmer, C., Pros. Nucl. Acid Res. Mol. Biol. 15:285-318 (1975).
 ```
+
+## config.ini
+
+[名字]
+mode=匹配方式
+stat=统计方式

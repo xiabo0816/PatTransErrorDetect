@@ -38,7 +38,7 @@ MIN_CHUNK_LEN = 2
 # 最大HTML转义次数
 MAX_HTMLENTITIES_TIMES = 5
 # 最小参考文献长度
-MIN_MULTICHUNK_LEN = 30
+MIN_REFERENCE_LEN = 30
 # 全角字符匹配失败的时候，是否回退到半角字符进行匹配
 IS_FULLWIDTH_FALLBACK = True
 
@@ -61,30 +61,9 @@ def get_args_parser():
 
 
 def readconfig(path):
-    CONFIG = configparser.ConfigParser()
-    CONFIG.read(path, encoding=FILE_ENCODE)
-
-    ENDICT = {}
-    ENDICT['words']   = readlist(CONFIG['DEFAULT']['words'])
-    ENDICT['pattern'] = re.compile(r'([A-Z]{4,})')
-    # print('ENDICT[\'words\'] length: ', len(ENDICT['words']))
-
-    PATTERNS = []
-    for field in CONFIG:
-        if field == 'DEFAULT':
-            continue
-        if 'mode' not in CONFIG[field]:
-            continue
-        t = {}
-        t['name'] = field
-        t['mode'] = CONFIG[field]['mode']
-        t['stat'] = CONFIG[field]['stat']
-        t['patterns'] = []
-        for item in CONFIG[field]:
-            if item.startswith('__pattern__'):
-                t['patterns'].append(re.compile(CONFIG[field][item]))
-        PATTERNS.append(t)
-    return CONFIG['DEFAULT'], ENDICT, PATTERNS
+    config = configparser.ConfigParser()
+    config.read('config.ini', encoding=FILE_ENCODE)
+    return config
 
 
 def reference(line):
@@ -134,33 +113,78 @@ def strQ2B(ustring):
     return rstring
 
 
-def _do_detect_mark(patterns, text):
-    result = []
+def _do_compare_mark(targets, text):
+    results = []
+    for target in targets:
+        t = text.find(target[0])
+        if t == -1:
+            t = text.find(strQ2B(target[0]))
+        if t == -1:
+            results.append(target)
+        # print(t, target, text)
+        # input()
+        # print()
+
+    return results
+
+
+def _do_compare_chunk(targets, text):
+    results = []
+    q2btext = strQ2B(text)
+    for target in targets:
+        if len(target[0]) > MIN_CHUNK_LEN:
+            t = text.find(target[0])
+            if t == -1:
+                t = q2btext.find(strQ2B(target[0]))
+            if t == -1:
+                t = text.lower().find(target[0].lower())
+            if t == -1:
+                t = q2btext.replace(' ', '').lower().find(strQ2B(target[0]).lower())
+            if t == -1:
+                results.append(target)
+            # print(t, target, text)
+            # input()
+            # print()
+
+    return results
+
+
+def _do_compare_reference(targets, text):
+    results = []
+    q2btext = strQ2B(text)
+    for target in targets:
+        if len(target[0]) > MIN_CHUNK_LEN:
+            t = text.find(target[0])
+            if t == -1:
+                t = q2btext.find(strQ2B(target[0]))
+            if t == -1:
+                results.append(target)
+            # print(t, target, text)
+            # input()
+            # print()
+
+    return results
+
+def _do_detect(patterns, text):
+    results = []
     for pattern in patterns:
-        result.extend(pattern.findall(text))
-    return result
-    
-def _do_detect_chunk(patterns, text):
-    result = []
-    for pattern in patterns:
-        result.extend(pattern.findall(text))
-    return result
-    
-def _do_detect_multichunk(patterns, text):
-    result = []
-    end = 0
-    for pattern in patterns:
-        # 由于.search只能识别出第一个，所以需要这个while循环：
-        while end < len(text):
-            s = pattern.search(text[end:])
-            if s is None:
-                break
-            if len(s.group()) > MIN_MULTICHUNK_LEN:
-                result.append(s.group().strip())
-            end += s.span()[1]
-    # print(result)
-    # input()
-    return result
+        # text = u"毛刺　Ａ　１ 127210853300_E2_C2_P2.bmp"
+        if pattern[0].startswith('__multichunk__'):
+            result = []
+            end = 0
+            # 由于.search只能识别出第一个，所以需要这个while循环：
+            while end < len(text):
+                s = pattern[1].search(text[end:])
+                if s is None:
+                    break
+                if len(s.group()) > MIN_REFERENCE_LEN:
+                    result.append(s.group())
+                end += s.span()[1]
+        else:
+            result = pattern[1].findall(text)
+        results.extend([(item, pattern[0]) for item in result])
+        
+    return results
 
 def _do_detect_names(endict, text):
     results = []
@@ -173,85 +197,10 @@ def _do_detect_names(endict, text):
         results.append(result)
     return results
 
-def _do_detect(sections, text):
-    results = []
-    for section in sections:
-        result = []
-        if section['mode'] == 'mark':
-            result = _do_detect_mark(section['patterns'], text)
-        elif section['mode'] == 'chunk':
-            result = _do_detect_chunk(section['patterns'], text)
-        elif section['mode'] == 'multichunk':
-            result = _do_detect_multichunk(section['patterns'], text)
-        else:
-            continue
-        results.extend([{'name':section['name'], 'mode':section['mode'], 'stat':section['stat'], 'obj':item} for item in result if item != ''])
-    
-    # if len(results) > 0:
-    #     print(results)
-    #     input()
-    return results
-
-def _do_compare_mark(item, text):
-    t = text.find(item)
-    if t == -1:
-        t = text.find(strQ2B(item))
-    if t == -1:
-        return False
-
-    return True
-
-def _do_compare_chunk(item, text):
-    q2btext = strQ2B(text)
-    if len(item) > MIN_CHUNK_LEN:
-        t = text.find(item)
-        if t == -1:
-            t = q2btext.find(strQ2B(item))
-        if t == -1:
-            t = text.lower().find(item.lower())
-        if t == -1:
-            t = q2btext.replace(' ', '').lower().find(strQ2B(item).lower())
-        if t == -1:
-            return False
-    return True
-
-def _do_compare_multichunk(item, text):
-    q2btext = strQ2B(text)
-    if len(item) > MIN_CHUNK_LEN:
-        t = text.find(item)
-        if t == -1:
-            t = q2btext.find(strQ2B(item))
-        if t == -1:
-            return False
-    return True
-
-def _do_compare(items, text):
-    results = []
-    for item in items:
-        if item['mode'] == 'mark':
-            if _do_compare_mark(item['obj'], text) == False:
-                results.append(item)
-        elif item['mode'] == 'chunk':
-            if _do_compare_chunk(item['obj'], text) == False:
-                results.append(item)
-        elif item['mode'] == 'multichunk':
-            if _do_compare_multichunk(item['obj'], text) == False:
-                results.append(item)
-        else:
-            continue
-    # if len(results) > 0:
-    #     print(results)
-    #     input()
-    return results
-
-def _dict_merge(dict1, dict2):
-    res = {**dict1, **dict2}
-    return res
-
 def _run_detecter(args):
     try:
-        output_file, input_ori_file, input_trans_file, SECTIONS, tag, ENDICT = args['output_file'], args[
-            'input_ori_file'], args['input_trans_file'], args['sections'], args['tag'], args['endict']
+        output_file, input_ori_file, input_trans_file, MARKS, CHUNKS, REFERENCE, tag, ENDICT = args['output_file'], args[
+            'input_ori_file'], args['input_trans_file'], args['MARKS'], args['CHUNKS'], args['REFERENCE'], args['tag'], args['endict']
         # try:
         # file coding: UTF-8 with BOM
         # etree.ElementTree.register_namespace('', 'http://your/uri')
@@ -265,11 +214,11 @@ def _run_detecter(args):
         # print(_trans_para_eles[0].text)
 
         Paragraphs = []
-        max_eles_len = len(_trans_para_eles)
+        max_len = len(_trans_para_eles)
         if len(_origin_para_eles) > len(_trans_para_eles):
-            max_eles_len = len(_origin_para_eles)
+            max_len = len(_origin_para_eles)
 
-        for i in range(max_eles_len):
+        for i in range(max_len):
             c_origin = ''
             c_trans = ''
             if i < len(_origin_para_eles):
@@ -281,21 +230,37 @@ def _run_detecter(args):
                 c_trans = _del_xml_first_attr(etree.tostring(
                     _trans_para_eles[i], encoding='unicode').strip())
             # print(c_origin, c_trans)
-            _do_detect_result = _do_detect(SECTIONS, c_origin)
-            
-            if _do_detect_result is None:
-                continue
-            if len(_do_detect_result) == 0:
-                continue
+            dtmarks = _do_detect(MARKS, c_origin)
+            dtchunks = _do_detect(CHUNKS, c_origin)
+            dtreferences = _do_detect(REFERENCE, c_origin)
+            # dtnames = _do_detect_names(ENDICT, c_origin)
+            # print(dtmarks, dtchunks, dtreferences)
+            # print(c_origin)
+            if dtmarks is not None and len(dtmarks) > 0:
+                marks = _do_compare_mark(dtmarks, c_trans)
+                if len(marks) > 0:
+                    Paragraphs.append(
+                        (input_ori_file, input_trans_file, marks, c_origin, c_trans))
 
-            _do_compare_result = _do_compare(_do_detect_result, c_trans)
-            if _do_detect_result is None:
-                continue
-            # if len(_do_compare_result) > 0:
-            #     print(_do_compare_result)
-            #     input()
-            
-            Paragraphs.extend([_dict_merge(item, {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'c_origin': c_origin, 'c_trans': c_trans}) for item in _do_compare_result])
+            if dtchunks is not None and len(dtchunks) > 0:
+                chunks = _do_compare_chunk(dtchunks, c_trans)
+                if len(chunks) > 0:
+                    Paragraphs.append(
+                        (input_ori_file, input_trans_file, chunks, c_origin, c_trans))
+
+            if dtreferences is not None and len(dtreferences) > 0:
+                references = _do_compare_reference(dtreferences, c_trans)
+                if len(references) > 0:
+                    Paragraphs.append(
+                        (input_ori_file, input_trans_file, references, c_origin, c_trans))
+
+            # if dtnames is not None and len(dtnames) > 0:
+            #     names = _do_compare_chunk(dtnames, c_trans)
+            #     if len(names) > 0:
+            #         Paragraphs.append(
+            #             (input_ori_file, input_trans_file, names, c_origin, c_trans))
+            # print(dttrans)
+            # input()
         return Paragraphs
         # return (output_file, json.dumps(Paragraphs, ensure_ascii=False) + "\n")
     except:
@@ -379,98 +344,51 @@ def _write_html(Paragraphs):
             count += 1
     FOUT.writelines('</table>')
     FOUT.close()
-
-def _convert_new(tree, name, stat):
-    tree[name] = {}
-    tree[name]['name'] = name
-    tree[name]['stat'] = stat
-    if stat == 'single':
-        tree[name]['children'] = []
-    elif stat == 'poly':
-        tree[name]['children'] = {}
-    else:
-        print('stat error in _convert_new, must be single/poly')
-        return False
-    return True
-
-def _convert(ANCHORS):
-    """
-    转换数据格式为html需要的格式
-    """
-    TREE = {}
-    for item in ANCHORS:
-        if item["name"] not in TREE:
-            _convert_new(TREE, item["name"], item["stat"])
-        if TREE[item["name"]]['stat'] == 'single':
-            TREE[item["name"]]['children'].append(item)
-        elif TREE[item["name"]]['stat'] == 'poly':
-            if item["obj"] not in TREE[item["name"]]['children']:
-                _convert_new(TREE[item["name"]]['children'], item["obj"], 'single')
-            TREE[item["name"]]['children'][item["obj"]]['children'].append(item)
-        else:
-            print('stat error in _convert_new, must be single/poly')
-
-    results = {}
-    results['stat']   = _convert_stat(TREE, '')
-    results['detail'] = _convert_detail(TREE)
-    return results
-
-def _convert_stat(tree, path):
-    results = []
-    for i in tree:
-        item = tree[i]
-        t = {}
-        t['name'] = item['name']
-        t['path']  = path + '/' + item['name']
-        t['value'] = 0
-
-        if item['stat'] == 'poly':
-            t['children'] = _convert_stat(item['children'], t['path'])
-            for c in t['children']:
-                t['value'] += c["value"]
-        if item['stat'] == 'single':
-            t['value'] += len(item["children"])
-        results.append(t)
-    return results
-
-def _convert_detail(tree):
-    results = []
-    for i in tree:
-        item = tree[i]
-        one = []
-        if item['stat'] == 'poly':
-            one = _convert_detail(item['children'])
-        if item['stat'] == 'single':
-            one = item["children"]
-        results.extend(one)
-    return results
-
 if __name__ == '__main__':
     PROCESSES = multiprocessing.cpu_count()
 
     args = get_args_parser()
     print(args)
 
-    print('Reading configure file...')
-    DEFAULT, ENDICT, SECTIONS = readconfig(args.config)
-    print(DEFAULT, len(ENDICT), SECTIONS)
+    CONFIG = readconfig(args.config)
+    print(CONFIG.sections())
 
-    FILELIST = readlist(args.input_list)
-    # print(FILELIST)
+    ENDICT = {}
+    ENDICT['words']   = readlist(CONFIG['DICTIONARY']['words'])
+    ENDICT['pattern'] = re.compile(CONFIG['DICTIONARY']['pattern'])
+    print('ENDICT length: ', len(ENDICT))
+
+    MARKS = []
+    for field in CONFIG['MARKS']:
+        MARKS.append((field, re.compile(CONFIG['MARKS'][field])))
+    print(MARKS)
+
+    CHUNKS = []
+    for field in CONFIG['CHUNKS']:
+        CHUNKS.append((field, re.compile(CONFIG['CHUNKS'][field])))
+    print(CHUNKS)
+
+    REFERENCE = []
+    for field in CONFIG['REFERENCE']:
+        REFERENCE.append((field, re.compile(CONFIG['REFERENCE'][field])))
+    print(REFERENCE)
+
+    fl = readlist(args.input_list)
+    # print(fl)
     # fl = os.listdir(args.input_folder)
 
     # if args.jobs != -1:
     #     PROCESSES = args.jobs
 
-    # pbar = tqdm(total=len(FILELIST))
+    # pbar = tqdm(total=len(fl))
 
     count = 0
     STAT = {}
-    ANCHORS = []
+    Paragraphs = []
     # 这种方式回调函数无法使用pbar变量
-    with tqdm(total=len(FILELIST)) as pbar:
-        for i in range(len(FILELIST)):
-            input_ori_file = FILELIST[i]
+    with tqdm(total=len(fl)) as pbar:
+        for i in range(len(fl)):
+            input_ori_file = fl[i]
             basename, extension = os.path.splitext(
                 os.path.basename(input_ori_file))
             if extension.lower() != '.xml':
@@ -489,24 +407,17 @@ if __name__ == '__main__':
                 continue
 
             param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'output_file': args.output_file,
-                     'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'endict':ENDICT}
+                     'MARKS': MARKS, 'CHUNKS': CHUNKS, 'REFERENCE': REFERENCE, 'tag': CONFIG['COMMON']['TAG'], 'endict':ENDICT}
             # print(root_origin)
             t = _run_detecter(param)
-            if t is None:
-                continue
             if len(t) == 0:
                 continue
-            ANCHORS.extend(t)
+            Paragraphs.append(t)
             pbar.update(1)
-    # print(Paragraphs)
-    json.dump(_convert(ANCHORS), open(args.output_file+'.tree.json', 'w', encoding='utf-8',
+    print(Paragraphs)
+    json.dump(Paragraphs, open(args.output_file+'.paragraphs.json', 'w', encoding='utf-8',
                             errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
-
-    json.dump(ANCHORS, open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
-                            errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
-    # print(count)
-
+    print(count)
     STAT = sorted(STAT.items(), key=lambda x: x[1], reverse=True)
     json.dump(dict(STAT), open(args.output_file+'.stat.json', 'w', encoding='utf-8',
                                errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
-
