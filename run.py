@@ -24,8 +24,8 @@ import configparser
 # https://docs.python.org/zh-cn/3.9/library/configparser.html
 import re
 import html
-from nltk.stem import PorterStemmer
-g_stemmer = PorterStemmer()
+# from nltk.stem import PorterStemmer
+# g_stemmer = PorterStemmer()
 
 """
 全局变量
@@ -499,14 +499,13 @@ if __name__ == '__main__':
             ANCHORS.extend(t)
             pbar.update(1)
     # print(Paragraphs)
-    json.dump(_convert(ANCHORS), open(args.output_file+'.tree.json', 'w', encoding='utf-8',
+    json.dump(_convert(ANCHORS), open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
                             errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
-    json.dump(ANCHORS, open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
-                            errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
-    # print(count)
+    # json.dump(ANCHORS, open(args.output_file+'.ori.json', 'w', encoding='utf-8',
+    #                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
-    STAT = sorted(STAT.items(), key=lambda x: x[1], reverse=True)
-    json.dump(dict(STAT), open(args.output_file+'.stat.json', 'w', encoding='utf-8',
-                               errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+    # STAT = sorted(STAT.items(), key=lambda x: x[1], reverse=True)
+    # json.dump(dict(STAT), open(args.output_file+'.stat.json', 'w', encoding='utf-8',
+    #                            errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
