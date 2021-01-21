@@ -7,6 +7,19 @@
 * 译文对照锚点；
 * 统计排序；
 
+# TODO 环境要求
+# TODO 安装部署方式
+# TODO 分子式标记
+# TODO 表格中多选，进行excel导出
+# 分布概览导出
+# TODO CA数据
+# 分布图和树图颜色
+
+# escape=(.sub.|.sup.)
+# escape_pfx=(by weight|by mass|by wt\.)
+# escape_sfx=()
+# TODO TXT格式
+
 # 锚点选择方案
 1. 对照编码表，定义标准原文字符集，再对字符集取反；
 2. 归纳总结，数字、尖括号、标点符号、大写字母、实体词典、专名
