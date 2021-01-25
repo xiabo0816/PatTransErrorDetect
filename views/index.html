@@ -115,6 +115,9 @@
         </div>
         <table id="table" data-toolbar="#toolbar"></table>
         <script>
+            // 原文预览索引
+            var index = []
+
             // 基于准备好的dom， 初始化echarts实例
             var MainChart = echarts.init(document.getElementById('main'));
 
@@ -145,13 +148,19 @@
                     },
                     searchable: "true"
                 }, {
-                    field: 'input_ori_file',
+                    field: 'id',
                     title: 'input_ori_file',
-                    searchable: "true"
+                    searchable: "true",
+                    formatter: function(value, row) {
+                        return index[value].input_ori_file
+                    },
                 }, {
                     field: 'input_trans_file',
                     title: 'input_trans_file',
-                    searchable: "true"
+                    searchable: "true",
+                    formatter: function(value, row) {
+                        return '<textarea disabled>' + HTMLEncode(value) + '</textarea>'
+                    },
                 }, {
                     field: 'c_origin',
                     title: 'c_origin',

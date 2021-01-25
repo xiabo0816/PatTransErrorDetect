@@ -265,6 +265,7 @@ def _run_detecter(args):
         # print(_trans_para_eles[0].text)
 
         Paragraphs = []
+        ParagraphsIndex = []
         max_eles_len = len(_trans_para_eles)
         if len(_origin_para_eles) > len(_trans_para_eles):
             max_eles_len = len(_origin_para_eles)
@@ -291,12 +292,15 @@ def _run_detecter(args):
             _do_compare_result = _do_compare(_do_detect_result, c_trans)
             if _do_detect_result is None:
                 continue
-            # if len(_do_compare_result) > 0:
-            #     print(_do_compare_result)
-            #     input()
-            
-            Paragraphs.extend([_dict_merge(item, {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'c_origin': c_origin, 'c_trans': c_trans}) for item in _do_compare_result])
-        return Paragraphs
+            if len(_do_compare_result) == 0:
+                continue
+                
+            Paragraphs.extend([_dict_merge(item, {'idx': i}) for item in _do_compare_result])
+            ParagraphsIndex.append({'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'c_origin': c_origin, 'c_trans': c_trans})
+            # print(len(_do_compare_result), Paragraphs, len(ParagraphsIndex))
+            # input()
+
+        return Paragraphs, ParagraphsIndex
         # return (output_file, json.dumps(Paragraphs, ensure_ascii=False) + "\n")
     except:
         error_type, error_value, error_trace = sys.exc_info()
@@ -393,7 +397,7 @@ def _convert_new(tree, name, stat):
         return False
     return True
 
-def _convert(ANCHORS):
+def _convert(ANCHORS, INDEX):
     """
     转换数据格式为html需要的格式
     """
@@ -413,6 +417,7 @@ def _convert(ANCHORS):
     results = {}
     results['stat']   = _convert_stat(TREE, '')
     results['detail'] = _convert_detail(TREE)
+    results['index']  = INDEX
     return results
 
 def _convert_stat(tree, path):
@@ -467,6 +472,7 @@ if __name__ == '__main__':
     count = 0
     STAT = {}
     ANCHORS = []
+    INDEX   = []
     # 这种方式回调函数无法使用pbar变量
     with tqdm(total=len(FILELIST)) as pbar:
         for i in range(len(FILELIST)):
@@ -491,15 +497,16 @@ if __name__ == '__main__':
             param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'output_file': args.output_file,
                      'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'endict':ENDICT}
             # print(root_origin)
-            t = _run_detecter(param)
+            t, tidx = _run_detecter(param)
             if t is None:
                 continue
             if len(t) == 0:
                 continue
-            ANCHORS.extend(t)
+            ANCHORS.extend([_dict_merge(item, {'id': i}) for item in t])
+            INDEX.append(tidx)
             pbar.update(1)
     # print(Paragraphs)
-    json.dump(_convert(ANCHORS), open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
+    json.dump(_convert(ANCHORS, INDEX), open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
                             errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
     # json.dump(ANCHORS, open(args.output_file+'.ori.json', 'w', encoding='utf-8',
