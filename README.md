@@ -4,7 +4,7 @@
 
 [线上地址](https://github.com/xiabo0816/PatTransErrorDetect)
 
-如果想做多人分工，可以将输入内容做分块，[分块方法](###`input.list`)
+如果想做多人分工，可以将输入内容做分块，[分块方法在：操作流程->检测工具->input.list](###`input.list`)
 
 包括检测工具和可视化工具两部分，
 * 检测工具需要做安装配置，用于生成待分析的*.json文件
@@ -161,6 +161,7 @@ expr 100 / 10
 split -10 -d input.list input_list_
 # -10按照一个文件 10 行记录的方式
 # 通过-d选项来指定数字形式的文件后缀
+# input.list是待切分的文件
 # 以 input_list_ 作为拆分后文件的名称前缀
 
 # 进入正常流程
