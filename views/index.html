@@ -115,6 +115,9 @@
         </div>
         <table id="table" data-toolbar="#toolbar"></table>
         <script>
+            // XML路径索引
+            var indexfile = []
+
             // 原文预览索引
             var index = []
 
@@ -148,31 +151,39 @@
                     },
                     searchable: "true"
                 }, {
-                    field: 'id',
+                    field: 'index',
                     title: 'input_ori_file',
                     searchable: "true",
                     formatter: function(value, row) {
-                        return index[value].input_ori_file
+                        console.log(value)
+                        if ("input_ori_file" in indexfile[value.id])
+                            return indexfile[value.id].input_ori_file
+                        else
+                            return value
                     },
                 }, {
-                    field: 'input_trans_file',
+                    field: 'index',
                     title: 'input_trans_file',
                     searchable: "true",
                     formatter: function(value, row) {
-                        return '<textarea disabled>' + HTMLEncode(value) + '</textarea>'
+                        console.log(value)
+                        if ("input_trans_file" in indexfile[value.id])
+                            return indexfile[value.id].input_trans_file
+                        else
+                            return value
                     },
                 }, {
-                    field: 'c_origin',
+                    field: 'index',
                     title: 'c_origin',
                     formatter: function(value, row) {
-                        return '<textarea disabled>' + HTMLEncode(value) + '</textarea>'
+                        return '<textarea disabled>' + HTMLEncode(index[value.id][value.idx].c_origin) + '</textarea>'
                     },
                     searchable: "true"
                 }, {
-                    field: 'c_trans',
+                    field: 'index',
                     title: 'c_trans',
                     formatter: function(value, row) {
-                        return '<textarea disabled>' + HTMLEncode(value) + '</textarea>'
+                        return '<textarea disabled>' + HTMLEncode(index[value.id][value.idx].c_trans) + '</textarea>'
                     },
                     searchable: "true"
                 }],
@@ -193,6 +204,8 @@
                 reader.readAsText(file);
                 MainChart.showLoading();
                 reader.onload = function(e) {
+                    indexfile = JSON.parse(this.result).indexfile
+                    index     = JSON.parse(this.result).index
                     var result = document.getElementById("result");
 
                     MainChart.hideLoading();

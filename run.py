@@ -266,6 +266,7 @@ def _run_detecter(args):
 
         Paragraphs = []
         ParagraphsIndex = []
+        ParagraphsIndexCount = 0
         max_eles_len = len(_trans_para_eles)
         if len(_origin_para_eles) > len(_trans_para_eles):
             max_eles_len = len(_origin_para_eles)
@@ -295,9 +296,9 @@ def _run_detecter(args):
             if len(_do_compare_result) == 0:
                 continue
                 
-            Paragraphs.extend([_dict_merge(item, {'idx': i}) for item in _do_compare_result])
-            ParagraphsIndex.append({'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'c_origin': c_origin, 'c_trans': c_trans})
-            # print(len(_do_compare_result), Paragraphs, len(ParagraphsIndex))
+            Paragraphs.extend([_dict_merge(item, {'idx': ParagraphsIndexCount}) for item in _do_compare_result])
+            ParagraphsIndex.append({'c_origin': c_origin, 'c_trans': c_trans})
+            ParagraphsIndexCount += 1
             # input()
 
         return Paragraphs, ParagraphsIndex
@@ -397,7 +398,7 @@ def _convert_new(tree, name, stat):
         return False
     return True
 
-def _convert(ANCHORS, INDEX):
+def _convert(ANCHORS, INDEX, INDEXFILE):
     """
     转换数据格式为html需要的格式
     """
@@ -418,6 +419,7 @@ def _convert(ANCHORS, INDEX):
     results['stat']   = _convert_stat(TREE, '')
     results['detail'] = _convert_detail(TREE)
     results['index']  = INDEX
+    results['indexfile']  = INDEXFILE
     return results
 
 def _convert_stat(tree, path):
@@ -473,6 +475,8 @@ if __name__ == '__main__':
     STAT = {}
     ANCHORS = []
     INDEX   = []
+    INDEXFILE = []
+    INDEXFILECOUNT = 0
     # 这种方式回调函数无法使用pbar变量
     with tqdm(total=len(FILELIST)) as pbar:
         for i in range(len(FILELIST)):
@@ -502,11 +506,13 @@ if __name__ == '__main__':
                 continue
             if len(t) == 0:
                 continue
-            ANCHORS.extend([_dict_merge(item, {'id': i}) for item in t])
+            ANCHORS.extend([_dict_merge(item, {'index':{"id":INDEXFILECOUNT, "idx":item['idx']}}) for item in t])
+            INDEXFILE.append({'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file})
             INDEX.append(tidx)
+            INDEXFILECOUNT += 1
             pbar.update(1)
     # print(Paragraphs)
-    json.dump(_convert(ANCHORS, INDEX), open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
+    json.dump(_convert(ANCHORS, INDEX, INDEXFILE), open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
                             errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
     # json.dump(ANCHORS, open(args.output_file+'.ori.json', 'w', encoding='utf-8',
