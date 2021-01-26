@@ -4,6 +4,7 @@ import os
 import re
 import argparse
 import time
+from tqdm import tqdm
 import multiprocessing
 from multiprocessing import Pool, TimeoutError
 import time
@@ -23,12 +24,9 @@ import configparser
 # https://docs.python.org/zh-cn/3.9/library/configparser.html
 import re
 import html
-import globals
 # from nltk.stem import PorterStemmer
 # g_stemmer = PorterStemmer()
-# from tqdm import tqdm
-import globals
-import copy
+
 """
 全局变量
 """
@@ -39,8 +37,6 @@ FILE_ENCODE = 'UTF-8'
 MIN_CHUNK_LEN = 2
 # 最大HTML转义次数
 MAX_HTMLENTITIES_TIMES = 5
-# 每个标签内的每个种类的最大错误数
-MAX_ERROR_TIMES_PERTAG_PERTYPE = 100
 # 最小参考文献长度
 MIN_MULTICHUNK_LEN = 30
 # 全角字符匹配失败的时候，是否回退到半角字符进行匹配
@@ -49,14 +45,8 @@ IS_FULLWIDTH_FALLBACK = True
 """
 初始化
 """
-global ANCHORS
-global INDEX
-global INDEXFILE
-global INDEXFILECOUNT
-ANCHORS = []
-INDEX   = []
-INDEXFILE = []
-INDEXFILECOUNT = 0
+#
+
 
 def get_args_parser():
     parser = argparse.ArgumentParser(description='Data preprocess tool.')
@@ -75,8 +65,8 @@ def readconfig(path):
     CONFIG.read(path, encoding=FILE_ENCODE)
 
     ENDICT = {}
-    # ENDICT['words']   = readlist(CONFIG['DEFAULT']['words'])
-    # ENDICT['pattern'] = re.compile(r'([A-Z]{4,})')
+    ENDICT['words']   = readlist(CONFIG['DEFAULT']['words'])
+    ENDICT['pattern'] = re.compile(r'([A-Z]{4,})')
     # print('ENDICT[\'words\'] length: ', len(ENDICT['words']))
 
     PATTERNS = []
@@ -195,9 +185,6 @@ def _do_detect(sections, text):
             result = _do_detect_multichunk(section['patterns'], text)
         else:
             continue
-
-        if len(result) > MAX_ERROR_TIMES_PERTAG_PERTYPE:
-            result = result[:MAX_ERROR_TIMES_PERTAG_PERTYPE]
         results.extend([{'name':section['name'], 'mode':section['mode'], 'stat':section['stat'], 'obj':item} for item in result if item != ''])
     
     # if len(results) > 0:
@@ -297,7 +284,7 @@ def _run_detecter(args):
                     _trans_para_eles[i], encoding='unicode').strip())
             # print(c_origin, c_trans)
             _do_detect_result = _do_detect(SECTIONS, c_origin)
-
+            
             if _do_detect_result is None:
                 continue
             if len(_do_detect_result) == 0:
@@ -315,11 +302,10 @@ def _run_detecter(args):
             # input()
 
         # return Paragraphs, ParagraphsIndex
-        return (Paragraphs, ParagraphsIndex, input_ori_file, input_trans_file)
+        return (Paragraphs, ParagraphsIndex)
     except:
         error_type, error_value, error_trace = sys.exc_info()
         print(sys.exc_info())
-        return ([], [])
 
 
 def readlist(path):
@@ -330,22 +316,12 @@ def readlist(path):
     return lines
 
 
-def _run_detecter_callback(args):
-    global ANCHORS
-    global INDEX
-    global INDEXFILE
-    global INDEXFILECOUNT
-    
-    globals.update(1)
-    t, tidx, input_ori_file, input_trans_file= args
-    if t is None:
-        return
-    if len(t) == 0:
-        return
-    ANCHORS.extend([_dict_merge(item, {'index':{"id":INDEXFILECOUNT, "idx":item['idx']}}) for item in t])
-    INDEXFILE.append({'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file})
-    INDEX.append(tidx)
-    INDEXFILECOUNT += 1
+def _callback_writefile(args):
+    pbar.update(1)
+    print(args)
+    output_file, lines = args
+    with open(output_file, 'a+', encoding='utf-8', errors="ignore") as f:
+        f.writelines(lines)
 
 
 def _del_xml_tag(line):
@@ -367,6 +343,47 @@ def _plot_stat(stat):
     plt.figure()
     plt.plot(x, y)
     plt.show()
+
+def _write_html(Paragraphs):
+    FOUT = open(args.output_file+'.html', 'w',
+                encoding='utf-8', errors="ignore")
+    FOUT.writelines('<style>td{table-layout: fixed; overflow: hidden; word-break: break-all;}textarea{width: 100%; height: 250px;}td:nth-child(1),td:nth-child(2),td:nth-child(3){width: 10%; }td:nth-child(4),td:nth-child(5){width: 34%; }</style>')
+    FOUT.writelines('<table>')
+
+    for Paragraph in Paragraphs:
+        if Paragraph is not None:
+            for c in Paragraph[2]:
+                if c not in STAT:
+                    STAT[c] = 1
+                STAT[c] += 1
+            # print(Paragraph)
+            # input()
+            FOUT.writelines('<tr>\n')
+            FOUT.writelines('<td>'+str(Paragraph[0]) + '</td>\n')
+            FOUT.writelines('<td>'+str(Paragraph[1]) + '</td>\n')
+            # FOUT.writelines('<td>'+str(Paragraph[2]) + '</td>\n')
+            FOUT.writelines('<td><textarea disabled>' +
+                            str(Paragraph[2]) + '</textarea></td>\n')
+
+            # c3 = str(Paragraph[3])
+            # c4 = str(Paragraph[3])
+            # for c in Paragraph[2]:
+            #     c3 = c3.replace(c, '<b>'+c+'</b>')
+            # for c in Paragraph[2]:
+            #     c4 = c4.replace(c, '<b>'+c+'</b>')
+            # FOUT.writelines('<td><textarea disabled>'+str(c3) + '</textarea></td>\n')
+            # FOUT.writelines('<td><textarea disabled>'+str(c4) + '</textarea></td>\n')
+
+            FOUT.writelines('<td><textarea disabled>' +
+                            str(Paragraph[3]) + '</textarea></td>\n')
+            FOUT.writelines('<td><textarea disabled>' +
+                            str(Paragraph[4]) + '</textarea></td>\n')
+            # FOUT.writelines('<td>'+html.escape(str(Paragraph[3])) + '</td>\n')
+            # FOUT.writelines('<td>'+html.escape(str(Paragraph[4])) + '</td>\n')
+            FOUT.writelines('</tr>\n')
+            count += 1
+    FOUT.writelines('</table>')
+    FOUT.close()
 
 def _convert_new(tree, name, stat):
     tree[name] = {}
@@ -403,8 +420,6 @@ def _convert(ANCHORS, INDEX, INDEXFILE):
     results['detail'] = _convert_detail(TREE)
     results['index']  = INDEX
     results['indexfile']  = INDEXFILE
-
-    results['stat'] = sorted(results['stat'], key=lambda x: x['value'], reverse=True)
     return results
 
 def _convert_stat(tree, path):
@@ -457,37 +472,51 @@ if __name__ == '__main__':
     e1 = time.time()
     pool = Pool(PROCESSES)
 
-    globals.init(len(FILELIST))
+    # pbar = tqdm(total=len(FILELIST))
+
+    count = 0
+    STAT = {}
+    ANCHORS = []
+    INDEX   = []
+    INDEXFILE = []
+    INDEXFILECOUNT = 0
     # 这种方式回调函数无法使用pbar变量
-    # with tqdm(total=len(FILELIST)) as pbar:
-    for i in range(len(FILELIST)):
-        input_ori_file = FILELIST[i]
-        basename, extension = os.path.splitext(
-            os.path.basename(input_ori_file))
-        if extension.lower() != '.xml':
-            print(input_ori_file)
-            continue
+    with tqdm(total=len(FILELIST)) as pbar:
+        for i in range(len(FILELIST)):
+            input_ori_file = FILELIST[i]
+            basename, extension = os.path.splitext(
+                os.path.basename(input_ori_file))
+            if extension.lower() != '.xml':
+                print(input_ori_file)
+                continue
 
-        input_trans_file = os.path.splitext(
-            input_ori_file)[0] + '_trans' + extension
+            input_trans_file = os.path.splitext(
+                input_ori_file)[0] + '_trans' + extension
 
-        if not os.path.exists(input_ori_file):
-            print('\nFile not exists: ' + input_ori_file)
-            continue
+            if not os.path.exists(input_ori_file):
+                print('\nFile not exists: ' + input_ori_file)
+                continue
 
-        if not os.path.exists(input_trans_file):
-            print('\nFile not exists: ' + input_trans_file)
-            continue
+            if not os.path.exists(input_trans_file):
+                print('\nFile not exists: ' + input_trans_file)
+                continue
 
-        param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'output_file': args.output_file,
-                    'sections': copy.deepcopy(SECTIONS), 'tag': copy.deepcopy(DEFAULT['TAG']), 'endict':copy.deepcopy(ENDICT)}
-        # print(root_origin)
-        pool.apply_async(_run_detecter, args=(param, ), callback=_run_detecter_callback)
-    pool.close()
-    pool.join()
-    e2 = time.time()
-    print(float(e2 - e1))
-
+            param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'output_file': args.output_file,
+                     'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'endict':ENDICT}
+            # print(root_origin)
+            t, tidx = _run_detecter(param)
+            if t is None:
+                continue
+            if len(t) == 0:
+                continue
+            ANCHORS.extend([_dict_merge(item, {'index':{"id":INDEXFILECOUNT, "idx":item['idx']}}) for item in t])
+            INDEXFILE.append({'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file})
+            INDEX.append(tidx)
+            INDEXFILECOUNT += 1
+            pool.apply_async(_detecter, args=(param, ), callback=_callback_writefile, stdin = subprocess.PIPE,)
+            pbar.update(1)
+    
+    # print(Paragraphs)
     json.dump(_convert(ANCHORS, INDEX, INDEXFILE), open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
                             errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 

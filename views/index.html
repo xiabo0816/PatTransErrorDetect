@@ -115,6 +115,15 @@
         </div>
         <table id="table" data-toolbar="#toolbar"></table>
         <script>
+            String.prototype.endWith = function(s) {
+                if (s == null || s == "" || this.length == 0 || s.length > this.length)
+                    return false;
+                if (this.substring(this.length - s.length) == s)
+                    return true;
+                else
+                    return false;
+                return true;
+            };
             // XML路径索引
             var indexfile = []
 
@@ -157,7 +166,7 @@
                     formatter: function(value, row) {
                         console.log(value)
                         if ("input_ori_file" in indexfile[value.id])
-                            return indexfile[value.id].input_ori_file
+                            return indexfile[value.id].input_ori_file;
                         else
                             return value
                     },
@@ -189,11 +198,8 @@
                 }],
                 onClickCell: function(field, value, row, $element) {
                     // console.log(field, value, row, $element)
-                    if (field == 'input_ori_file') {
-                        window.open($('#toolbar_pathpfx').val() + value);
-                    }
-                    if (field == 'input_trans_file') {
-                        window.open($('#toolbar_pathpfx').val() + value);
+                    if ($element[0].innerText.endWith('.XML')) {
+                        window.open($('#toolbar_pathpfx').val() + $element[0].innerText);
                     }
                 }
             })
@@ -205,7 +211,7 @@
                 MainChart.showLoading();
                 reader.onload = function(e) {
                     indexfile = JSON.parse(this.result).indexfile
-                    index     = JSON.parse(this.result).index
+                    index = JSON.parse(this.result).index
                     var result = document.getElementById("result");
 
                     MainChart.hideLoading();
@@ -276,8 +282,10 @@
                                 borderColor: '#fff'
                             },
                             levels: getLevelOption(),
-                            data: JSON.parse(this.result).stat
-                        }]
+                            data: JSON.parse(this.result).stat,
+                        }],
+                        color: ['#c23531', '#2f4554', '#61a0a8', '#d48265', '#91c7ae', '#749f83', '#ca8622', '#bda29a', '#6e7074', '#546570', '#c4ccd3']
+
                     });
 
                     $('#table').bootstrapTable('load', JSON.parse(this.result).detail);
@@ -369,7 +377,9 @@
                                 shadowColor: 'rgba(0, 0, 0, 0.5)'
                             }
                         }
-                    }]
+                    }],
+                    color: ['#c23531', '#2f4554', '#61a0a8', '#d48265', '#91c7ae', '#749f83', '#ca8622', '#bda29a', '#6e7074', '#546570', '#c4ccd3']
+
                 };
 
             }
