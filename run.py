@@ -40,7 +40,7 @@ MIN_CHUNK_LEN = 2
 # 最大HTML转义次数
 MAX_HTMLENTITIES_TIMES = 5
 # 每个标签内的每个种类的最大错误数
-MAX_ERROR_TIMES_PERTAG_PERTYPE = 100
+MAX_ERROR_TIMES_PERTAG_PERTYPE = 10
 # 最小参考文献长度
 MIN_MULTICHUNK_LEN = 30
 # 全角字符匹配失败的时候，是否回退到半角字符进行匹配
