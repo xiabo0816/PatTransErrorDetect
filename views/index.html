@@ -166,22 +166,6 @@
     </div>
 
     <script>
-        // XML路径索引
-        var indexfile = []
-
-        // 原文预览索引
-        var index = []
-
-        // 基于准备好的dom， 初始化echarts实例
-        // var MainChart = echarts.init(document.getElementById('treemap'));
-
-        // 基于准备好的dom， 初始化echarts实例
-        // var PieChart = echarts.init(document.getElementById('pie'));
-
-
-
-
-
         function readAsText() {
             var file = document.getElementById("file").files[0];
             var reader = new FileReader();
@@ -189,88 +173,6 @@
             reader.onload = function(e) {
                 section_navs_init();
                 home_dashboard_init();
-
-                // indexfile = JSON.parse(this.result).indexfile
-                // index = JSON.parse(this.result).index
-                // var result = document.getElementById("result");
-
-                // MainChart.hideLoading();
-
-                // function colorMappingChange(value) {
-                //     var levelOption = getLevelOption(value);
-                //     chart.setOption({
-                //         series: [{
-                //             levels: levelOption
-                //         }]
-                //     });
-                // }
-
-                // var formatUtil = echarts.format;
-
-                // function getLevelOption() {
-                //     return [{
-                //         itemStyle: {
-                //             borderWidth: 0,
-                //             gapWidth: 5
-                //         }
-                //     }, {
-                //         itemStyle: {
-                //             gapWidth: 1
-                //         }
-                //     }, {
-                //         colorSaturation: [0.35, 0.5],
-                //         itemStyle: {
-                //             gapWidth: 1,
-                //             borderColorSaturation: 0.6
-                //         }
-                //     }];
-                // }
-
-                // MainChart.setOption(option = {
-
-                //     title: {
-                //         text: 'PatMT',
-                //         left: 'center'
-                //     },
-
-                //     tooltip: {
-                //         formatter: function(info) {
-                //             var value = info.value;
-                //             var treePathInfo = info.treePathInfo;
-                //             var treePath = [];
-
-                //             for (var i = 1; i < treePathInfo.length; i++) {
-                //                 treePath.push(treePathInfo[i].name);
-                //             }
-
-                //             return [
-                //                 '<div class="tooltip-title">' + formatUtil.encodeHTML(treePath.join('/')) + '</div>',
-                //                 '复现: ' + formatUtil.addCommas(value) + ' 次',
-                //             ].join('');
-                //         }
-                //     },
-
-                //     series: [{
-                //         name: 'PatMT',
-                //         type: 'treemap',
-                //         visibleMin: 300,
-                //         label: {
-                //             show: true,
-                //             formatter: '{b}'
-                //         },
-                //         itemStyle: {
-                //             borderColor: '#fff'
-                //         },
-                //         levels: getLevelOption(),
-                //         data: JSON.parse(this.result).stat,
-                //     }],
-                //     color: ['#c23531', '#2f4554', '#61a0a8', '#d48265', '#91c7ae', '#749f83', '#ca8622', '#bda29a', '#6e7074', '#546570', '#c4ccd3']
-
-                // });
-
-                // PieChart.setOption(pieoption(JSON.parse(this.result).stat))
-                // $('#table').bootstrapTable('load', JSON.parse(this.result).detail);
-
             }
         }
     </script>

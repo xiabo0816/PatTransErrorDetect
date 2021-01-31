@@ -15,9 +15,13 @@ function section_nav_onclick(obj) {
     $($('.tab-pane')[1]).addClass('active')
     $(obj).parent().addClass('active')
     if (obj.dataset.stat == 'poly') {
+        $('#treemap').show()
         treemap_init(obj.innerText)
+        table_init(obj.innerText)
+    } else {
+        $('#treemap').hide()
+        table_init(obj.innerText)
     }
-    table_init(obj.innerText)
 
 }
 
@@ -181,23 +185,14 @@ function treemap_bind_onclick(MainChart) {
             if (params.treePathInfo.hasOwnProperty(1)) {
                 path_items[1] = params.treePathInfo[1].name
             }
-            if (params.treePathInfo.hasOwnProperty(2)) {
-                path_items[2] = params.treePathInfo[2].name
-            }
         }
         if (path_items == undefined)
             return
 
         switch (path_items.length) {
-            case 3:
-                $('#table').bootstrapTable('filterBy', {
-                    name: path_items[1],
-                    obj: path_items[2]
-                })
-                break;
             case 2:
                 $('#table').bootstrapTable('filterBy', {
-                    name: path_items[1],
+                    obj: path_items[1],
                 })
                 break;
 
@@ -208,14 +203,16 @@ function treemap_bind_onclick(MainChart) {
     });
 }
 
-function table_init(name) {
-    var indexfile = []
-    var index = []
+var indexfile = []
+var index = []
 
+function table_init(name) {
     _read_file(_find_file_blob(name + '.id'), function(e) {
-        index = JSON.parse(this.result)
+        indexfile = JSON.parse(this.result)
         _read_file(_find_file_blob(name + '.idx'), function(e) {
-            indexfile = JSON.parse(this.result)
+            index = JSON.parse(this.result)
+            $('#table').bootstrapTable('removeAll')
+            $('#table').bootstrapTable('refreshOptions', {})
             $('#table').bootstrapTable({
                 // url: 'data1.json',
                 pagination: true,
@@ -257,14 +254,16 @@ function table_init(name) {
                     field: 'index',
                     title: 'c_origin',
                     formatter: function(value, row) {
-                        return '<textarea disabled>' + _HTMLEncode(index[value.idx].c_origin) + '</textarea>'
+                        console.log(value)
+                        return '<textarea disabled>' + _HTMLEncode(index[value.id][value.idx].c_origin) + '</textarea>'
                     },
                     searchable: "true"
                 }, {
                     field: 'index',
                     title: 'c_trans',
                     formatter: function(value, row) {
-                        return '<textarea disabled>' + _HTMLEncode(index[value.idx].c_trans) + '</textarea>'
+                        console.log(value)
+                        return '<textarea disabled>' + _HTMLEncode(index[value.id][value.idx].c_trans) + '</textarea>'
                     },
                     searchable: "true"
                 }],

@@ -321,13 +321,11 @@ def _run_detecter(args):
                 continue
             if len(_do_compare_result) == 0:
                 continue
-                
+
             Paragraphs.extend([_dict_merge(item, {'idx': ParagraphsIndexCount}) for item in _do_compare_result])
             ParagraphsIndex.append({'c_origin': c_origin, 'c_trans': c_trans})
             ParagraphsIndexCount += 1
-            # input()
 
-        # return Paragraphs, ParagraphsIndex
         return (Paragraphs, ParagraphsIndex, input_ori_file, input_trans_file)
     except:
         error_type, error_value, error_trace = sys.exc_info()
@@ -433,37 +431,40 @@ def _save_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
     for section in SECTIONS:
         section_details = []
         
-        section_index = {}
-        section_index_count = 0
-
-        section_indexfile = {}
-        section_indexfile_count = 0
+        section_index = []
+        section_indexfile = []
 
         for detail in results['detail']:
             if detail['name'] == section['name']:
-                if INDEXFILE[detail['index']['id']] not in section_indexfile:
-                    section_indexfile.append(INDEXFILE[detail['index']['id']])
+                section_indexfile_find = [x for x,y in enumerate(section_indexfile) if y == detail['index']['id']]
+                if len(section_indexfile_find) == 0:
+                    section_indexfile.append(detail['index']['id'])
+                    section_indexfile_find = [len(section_indexfile) - 1]
+                    section_index.append([])
 
-                print(detail)
-                section_index.append(INDEX[detail['index']['id']][detail['index']['idx']])
+                section_index_find = [x for x,y in enumerate(section_index[section_indexfile_find[0]]) if y == detail['index']['idx']]
+                if len(section_index_find) == 0:
+                    section_index[section_indexfile_find[0]].append(detail['index']['idx'])
+                    section_index_find = [len(section_index[section_indexfile_find[0]]) - 1]
+                # print(detail)
+                # print(section_indexfile_find,section_index_find)
+
                 section_details.append({
                     "name": detail["name"],
                     "mode": detail["mode"],
                     "stat": detail["stat"],
                     "obj": detail["obj"],
                     "index": {
-                        "id": section_index_count,
-                        "idx": section_indexfile_count
+                        "id": section_indexfile_find[0],
+                        "idx": section_index_find[0]
                     }
                 })
-                section_index_count += 1
-                section_indexfile_count += 1
-        for id in section_indexfile:
+
         json.dump(section_details, open(os.path.join(output_folder, section['name']+'.details.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
-        json.dump(section_index, open(os.path.join(output_folder, section['name']+'.idx.json'), 'w', encoding='utf-8',
+        json.dump([[INDEX[section_indexfile[index]][item] for item in section_index[index]] for index,_ in enumerate(section_index)], open(os.path.join(output_folder, section['name']+'.idx.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
-        json.dump(section_indexfile, open(os.path.join(output_folder, section['name']+'.id.json'), 'w', encoding='utf-8',
+        json.dump([INDEXFILE[item] for item in section_indexfile], open(os.path.join(output_folder, section['name']+'.id.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
 def _convert_stat(tree, path):
