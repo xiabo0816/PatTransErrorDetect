@@ -64,8 +64,8 @@ def get_args_parser():
     parser = argparse.ArgumentParser(description='Data preprocess tool.')
     parser.add_argument('-i', '--input_list', type=str,
                         default='input.list', help='input_list')
-    parser.add_argument('-o', '--output_file', type=str,
-                        default='output_file', help='output_file')
+    parser.add_argument('-o', '--output_folder', type=str,
+                        default='output_folder', help='output_folder')
     parser.add_argument('-c', '--config', type=str,
                         default='config.ini', help='config.ini')
     parser.add_argument('-j', '--jobs', type=int, default=-1, help='njobs')
@@ -73,6 +73,9 @@ def get_args_parser():
 
 
 def readconfig(path):
+    global MAX_ERROR_TIMES_PERTAG_PERTYPE
+    global MAX_EXAMPLE_COUNT_PERTYPE
+
     CONFIG = configparser.ConfigParser()
     CONFIG.read(path, encoding=FILE_ENCODE)
 
@@ -96,11 +99,17 @@ def readconfig(path):
             if item.startswith('__pattern__'):
                 t['patterns'].append(re.compile(CONFIG[field][item]))
         PATTERNS.append(t)
+
+    if 'MAX_ERROR_TIMES_PERTAG_PERTYPE' in CONFIG['DEFAULT']:
+        MAX_ERROR_TIMES_PERTAG_PERTYPE = CONFIG['DEFAULT']['MAX_ERROR_TIMES_PERTAG_PERTYPE']
+
+    if 'MAX_EXAMPLE_COUNT_PERTYPE' in CONFIG['DEFAULT']:
+        MAX_EXAMPLE_COUNT_PERTYPE = CONFIG['DEFAULT']['MAX_EXAMPLE_COUNT_PERTYPE']
+
     return CONFIG['DEFAULT'], ENDICT, PATTERNS
 
 
 def reference(line):
-    MAX_HTMLENTITIES_TIMES = 5
     for i in range(MAX_HTMLENTITIES_TIMES):
         line = html.unescape(line)
     return line
@@ -151,13 +160,15 @@ def _do_detect_mark(patterns, text):
     for pattern in patterns:
         result.extend(pattern.findall(text))
     return result
-    
+
+
 def _do_detect_chunk(patterns, text):
     result = []
     for pattern in patterns:
         result.extend(pattern.findall(text))
     return result
-    
+
+
 def _do_detect_multichunk(patterns, text):
     result = []
     end = 0
@@ -265,7 +276,7 @@ def _dict_merge(dict1, dict2):
 
 def _run_detecter(args):
     try:
-        output_file, input_ori_file, input_trans_file, SECTIONS, tag, ENDICT = args['output_file'], args[
+        input_ori_file, input_trans_file, SECTIONS, tag, ENDICT = args[
             'input_ori_file'], args['input_trans_file'], args['sections'], args['tag'], args['endict']
         # try:
         # file coding: UTF-8 with BOM
@@ -383,7 +394,7 @@ def _convert_new(tree, name, stat):
         return False
     return True
 
-def _convert(ANCHORS, INDEX, INDEXFILE):
+def _corvert(ANCHORS, INDEX, INDEXFILE):
     """
     转换数据格式为html需要的格式
     """
@@ -408,6 +419,52 @@ def _convert(ANCHORS, INDEX, INDEXFILE):
 
     results['stat'] = sorted(results['stat'], key=lambda x: x['value'], reverse=True)
     return results
+
+def _save_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
+    if not os.path.exists(output_folder):
+        os.mkdir(output_folder, 0o755)
+
+    results = _corvert(ANCHORS, INDEX, INDEXFILE)
+
+    json.dump(results['stat'], open(os.path.join(output_folder, 'stats.json'), 'w', encoding='utf-8',
+                        errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+    
+
+    for section in SECTIONS:
+        section_details = []
+        
+        section_index = {}
+        section_index_count = 0
+
+        section_indexfile = {}
+        section_indexfile_count = 0
+
+        for detail in results['detail']:
+            if detail['name'] == section['name']:
+                if INDEXFILE[detail['index']['id']] not in section_indexfile:
+                    section_indexfile.append(INDEXFILE[detail['index']['id']])
+
+                print(detail)
+                section_index.append(INDEX[detail['index']['id']][detail['index']['idx']])
+                section_details.append({
+                    "name": detail["name"],
+                    "mode": detail["mode"],
+                    "stat": detail["stat"],
+                    "obj": detail["obj"],
+                    "index": {
+                        "id": section_index_count,
+                        "idx": section_indexfile_count
+                    }
+                })
+                section_index_count += 1
+                section_indexfile_count += 1
+        for id in section_indexfile:
+        json.dump(section_details, open(os.path.join(output_folder, section['name']+'.details.json'), 'w', encoding='utf-8',
+                        errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+        json.dump(section_index, open(os.path.join(output_folder, section['name']+'.idx.json'), 'w', encoding='utf-8',
+                        errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+        json.dump(section_indexfile, open(os.path.join(output_folder, section['name']+'.id.json'), 'w', encoding='utf-8',
+                        errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
 def _convert_stat(tree, path):
     results = []
@@ -481,8 +538,7 @@ if __name__ == '__main__':
             print('\nFile not exists: ' + input_trans_file)
             continue
 
-        param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'output_file': args.output_file,
-                    'sections': copy.deepcopy(SECTIONS), 'tag': copy.deepcopy(DEFAULT['TAG']), 'endict':copy.deepcopy(ENDICT)}
+        param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'sections': copy.deepcopy(SECTIONS), 'tag': copy.deepcopy(DEFAULT['TAG']), 'endict':copy.deepcopy(ENDICT)}
         # print(root_origin)
         pool.apply_async(_run_detecter, args=(param, ), callback=_run_detecter_callback)
     pool.close()
@@ -490,8 +546,13 @@ if __name__ == '__main__':
     e2 = time.time()
     print(float(e2 - e1))
 
-    json.dump(_convert(ANCHORS, INDEX, INDEXFILE), open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
-                            errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+    _save_files(ANCHORS, INDEX, INDEXFILE, args.output_folder, SECTIONS)
+
+    json.dump([(item['name'], item['stat']) for item in SECTIONS], open(os.path.join(args.output_folder, 'sections.json'), 'w', encoding='utf-8',
+                        errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+
+    # json.dump(, open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
+    #                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 
     # json.dump(ANCHORS, open(args.output_file+'.ori.json', 'w', encoding='utf-8',
     #                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
