@@ -2,6 +2,7 @@
 
 import os
 import re
+import regex
 import argparse
 import time
 import multiprocessing
@@ -29,6 +30,8 @@ import globals
 # from tqdm import tqdm
 import globals
 import copy
+import csv
+import pandas as pd
 """
 全局变量
 """
@@ -42,9 +45,11 @@ MAX_HTMLENTITIES_TIMES = 5
 # 每个标签内的每个种类的最大错误数
 MAX_ERROR_TIMES_PERTAG_PERTYPE = 10
 # 每类问题内最多的实例数
-MAX_EXAMPLE_COUNT_PERTYPE = 10
+MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV = 100
 # 最小参考文献长度
 MIN_MULTICHUNK_LEN = 30
+# 每个标签内文章的最大长度
+MAX_LENGTH_PERTAG = 10240
 # 全角字符匹配失败的时候，是否回退到半角字符进行匹配
 IS_FULLWIDTH_FALLBACK = True
 
@@ -74,7 +79,8 @@ def get_args_parser():
 
 def readconfig(path):
     global MAX_ERROR_TIMES_PERTAG_PERTYPE
-    global MAX_EXAMPLE_COUNT_PERTYPE
+    global MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV
+    global MAX_LENGTH_PERTAG
 
     CONFIG = configparser.ConfigParser()
     CONFIG.read(path, encoding=FILE_ENCODE)
@@ -101,10 +107,13 @@ def readconfig(path):
         PATTERNS.append(t)
 
     if 'MAX_ERROR_TIMES_PERTAG_PERTYPE' in CONFIG['DEFAULT']:
-        MAX_ERROR_TIMES_PERTAG_PERTYPE = CONFIG['DEFAULT']['MAX_ERROR_TIMES_PERTAG_PERTYPE']
+        MAX_ERROR_TIMES_PERTAG_PERTYPE = int(CONFIG['DEFAULT']['MAX_ERROR_TIMES_PERTAG_PERTYPE'])
 
-    if 'MAX_EXAMPLE_COUNT_PERTYPE' in CONFIG['DEFAULT']:
-        MAX_EXAMPLE_COUNT_PERTYPE = CONFIG['DEFAULT']['MAX_EXAMPLE_COUNT_PERTYPE']
+    if 'MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV' in CONFIG['DEFAULT']:
+        MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV = int(CONFIG['DEFAULT']['MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV'])
+
+    if 'MAX_LENGTH_PERTAG' in CONFIG['DEFAULT']:
+        MAX_LENGTH_PERTAG = int(CONFIG['DEFAULT']['MAX_LENGTH_PERTAG'])
 
     return CONFIG['DEFAULT'], ENDICT, PATTERNS
 
@@ -323,7 +332,7 @@ def _run_detecter(args):
                 continue
 
             Paragraphs.extend([_dict_merge(item, {'idx': ParagraphsIndexCount}) for item in _do_compare_result])
-            ParagraphsIndex.append({'c_origin': c_origin, 'c_trans': c_trans})
+            ParagraphsIndex.append({'c_origin': c_origin[:MAX_LENGTH_PERTAG], 'c_trans': c_trans[:MAX_LENGTH_PERTAG]})
             ParagraphsIndexCount += 1
 
         return (Paragraphs, ParagraphsIndex, input_ori_file, input_trans_file)
@@ -418,7 +427,7 @@ def _corvert(ANCHORS, INDEX, INDEXFILE):
     results['stat'] = sorted(results['stat'], key=lambda x: x['value'], reverse=True)
     return results
 
-def _save_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
+def _save_visual_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
     if not os.path.exists(output_folder):
         os.mkdir(output_folder, 0o755)
 
@@ -427,10 +436,9 @@ def _save_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
     json.dump(results['stat'], open(os.path.join(output_folder, 'stats.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
     
-
     for section in SECTIONS:
         section_details = []
-        
+        section_details_counter = {}
         section_index = []
         section_indexfile = []
 
@@ -442,10 +450,20 @@ def _save_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
                     section_indexfile_find = [len(section_indexfile) - 1]
                     section_index.append([])
 
+                if detail["obj"] not in section_details_counter:
+                    section_details_counter[detail["obj"]] = 0
+
+                if detail["stat"] == 'poly' and section_details_counter[detail["obj"]] > int(MAX_ERROR_TIMES_PERTAG_PERTYPE):
+                    continue
+                
+                if detail["stat"] == 'single' and section_details_counter[detail["obj"]] > 50 * int(MAX_ERROR_TIMES_PERTAG_PERTYPE):
+                    continue
+                
                 section_index_find = [x for x,y in enumerate(section_index[section_indexfile_find[0]]) if y == detail['index']['idx']]
                 if len(section_index_find) == 0:
                     section_index[section_indexfile_find[0]].append(detail['index']['idx'])
                     section_index_find = [len(section_index[section_indexfile_find[0]]) - 1]
+
                 # print(detail)
                 # print(section_indexfile_find,section_index_find)
 
@@ -459,6 +477,7 @@ def _save_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
                         "idx": section_index_find[0]
                     }
                 })
+                section_details_counter[detail["obj"]] += 1
 
         json.dump(section_details, open(os.path.join(output_folder, section['name']+'.details.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
@@ -466,6 +485,50 @@ def _save_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
         json.dump([INDEXFILE[item] for item in section_indexfile], open(os.path.join(output_folder, section['name']+'.id.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+
+    return results['stat']
+
+
+def _save_csv_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
+    if not os.path.exists(output_folder):
+        os.mkdir(output_folder, 0o755)
+
+    results = _corvert(ANCHORS, INDEX, INDEXFILE)
+
+    for section in SECTIONS:
+        section_details_counter = {}
+        # section_details = []
+        fout = open(os.path.join(output_folder, section['name']+'.csv'), 'w', encoding='gbk', errors="ignore", newline='')
+        writer = csv.writer(fout)
+        writer.writerow(["类型", "内容", "原文路径", "译文路径", "原文", "译文"]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
+        for detail in results['detail']:
+            if detail['name'] == section['name']:
+                if detail["obj"] not in section_details_counter:
+                    section_details_counter[detail["obj"]] = 0
+
+                if detail["stat"] == 'poly' and section_details_counter[detail["obj"]] > int(MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV):
+                    continue
+                
+                if detail["stat"] == 'single' and section_details_counter[detail["obj"]] > 50 * int(MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV):
+                    continue
+
+                # section_details.append({
+                #     "类型": detail["name"],
+                #     "内容": detail["obj"],
+                #     "原文路径": INDEXFILE[detail['index']['id']]['input_ori_file'],
+                #     "译文路径": INDEXFILE[detail['index']['id']]['input_trans_file'],
+                #     "原文": INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'],
+                #     "译文": INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'],
+                # })
+                writer.writerow([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
+                section_details_counter[detail["obj"]] += 1
+                fout.flush()
+                # fout.write(','.join([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin']), regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])]) + '\n')
+        fout.close()
+        # fout = pd.DataFrame(section_details)
+        # fout.to_csv(os.path.join(output_folder, section['name']+'.csv'), index = 0, encoding='utf_8_sig')
+
+    return results['stat']
 
 def _convert_stat(tree, path):
     results = []
@@ -547,10 +610,19 @@ if __name__ == '__main__':
     e2 = time.time()
     print(float(e2 - e1))
 
-    _save_files(ANCHORS, INDEX, INDEXFILE, args.output_folder, SECTIONS)
+    print('_save_visual_files')
+    stat = _save_visual_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_visual', SECTIONS)
+    t = {}
+    for item in SECTIONS:
+        t[item['name']] = 0
+    for item in stat:
+        t[item['name']] = item['value']
 
-    json.dump([(item['name'], item['stat']) for item in SECTIONS], open(os.path.join(args.output_folder, 'sections.json'), 'w', encoding='utf-8',
+    json.dump([(item['name'], item['stat'], t[item['name']]) for item in SECTIONS], open(os.path.join(args.output_folder+'_visual', 'sections.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+    
+    print('_save_excel_files')
+    _save_csv_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_csv', SECTIONS)
 
     # json.dump(, open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
     #                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)

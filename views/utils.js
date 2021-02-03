@@ -2,8 +2,9 @@ function section_navs_init() {
     var path = _find_file_blob('sections')
     _read_file(path, function(e) {
         var navlist = JSON.parse(this.result)
+        $('#section-navs li:nth-child(n+2)').remove()
         navlist.forEach(element => {
-            $('#section-navs').append('<li><a href="#' + element[0] + '" data-stat="' + element[1] + '" onclick="section_nav_onclick(this)">' + element[0] + '</a></li>')
+            $('#section-navs').append('<li><a href="#' + element[0] + '" data-stat="' + element[1] + '" data-text="' + element[0] + '" onclick="section_nav_onclick(this)">' + element[0] + '<span class="badge">' + element[2] + '</span></a></li>')
         });
     })
 }
@@ -16,11 +17,11 @@ function section_nav_onclick(obj) {
     $(obj).parent().addClass('active')
     if (obj.dataset.stat == 'poly') {
         $('#treemap').show()
-        treemap_init(obj.innerText)
-        table_init(obj.innerText)
+        treemap_init(obj.dataset.text)
+        table_init(obj.dataset.text)
     } else {
         $('#treemap').hide()
-        table_init(obj.innerText)
+        table_init(obj.dataset.text)
     }
 
 }
@@ -113,12 +114,17 @@ function treemap_init(name) {
     _read_file(path, function(e) {
         MainChart.hideLoading();
         var data = JSON.parse(this.result)
-        var series_data_id = 0
+        var series_data_id = -1
         for (let index = 0; index < data.length; index++) {
             const element = data[index];
             if (name == element.name) {
                 series_data_id = index
             }
+        }
+
+        if (series_data_id == -1) {
+            $('#treemap').hide();
+            return;
         }
 
         MainChart.setOption(option = {
@@ -278,13 +284,8 @@ function table_init(name) {
             _read_file(_find_file_blob(name + '.details'), function(e) {
                 $('#table').bootstrapTable('load', JSON.parse(this.result));
             })
-
         })
     })
-
-
-
-
 }
 
 function _read_file(path, callback) {

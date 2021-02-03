@@ -4,7 +4,9 @@ __pycache__/
 *$py.class
 
 data/
-output_folder/
+output_folder*/
+专利机翻检测工具0203/
+*.rar
 
 # C extensions
 *.so
