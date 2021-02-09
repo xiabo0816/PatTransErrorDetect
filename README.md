@@ -273,12 +273,18 @@ stat=poly
 
 
 # TODO 
-- [ ] CA数据
-- [ ] 表格中多选，进行excel导出
-- [ ] 分布概览导出
-- [ ] TXT格式
+- [x] CA数据
+- [x] 表格中多选，进行excel导出
+- [x] 分布概览导出
+- [x] 分布图和树图颜色
+- [x] 输入文件夹目录
+- [x] 导出错误文件log
+- [x] 区分安装文档和使用文档
+
+- [ ] 输入excel格式
 - [ ] 分子式标记
-- [ ] 分布图和树图颜色
+- [ ] 氨基酸核苷酸序列
+- [ ] CA参考文献
 - [ ] escape=(.sub.|.sup.)
 - [ ] escape_pfx=(by weight|by mass|by wt\.)
 - [ ] escape_sfx=()
