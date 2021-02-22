@@ -32,6 +32,7 @@ import globals
 import copy
 import csv
 import pandas as pd
+
 """
 全局变量
 """
@@ -52,8 +53,8 @@ MIN_MULTICHUNK_LEN = 30
 MAX_LENGTH_PERTAG = 10240
 # 全角字符匹配失败的时候，是否回退到半角字符进行匹配
 IS_FULLWIDTH_FALLBACK = True
-# XML原文文件名形式
-FILE_NAME_PATTERN = '([0-9A-Z]+\.XML$)'
+# txt原文文件名形式
+FILE_NAME_PATTERN = '(.+\.txt$)'
 
 """
 初始化
@@ -68,7 +69,7 @@ INDEXFILE = []
 INDEXFILECOUNT = 0
 
 def get_args_parser():
-    parser = argparse.ArgumentParser(description='Data preprocess tool.')
+    parser = argparse.ArgumentParser(description='专利机翻检测工具 - txt')
     parser.add_argument('-i', '--input_folder', type=str,
                         default='input.list', help='输入文件夹名')
     parser.add_argument('-o', '--output_folder', type=str,
@@ -103,9 +104,12 @@ def readconfig(path):
         t['mode'] = CONFIG[field]['mode']
         t['stat'] = CONFIG[field]['stat']
         t['patterns'] = []
+        t['escapes'] = []
         for item in CONFIG[field]:
             if item.startswith('__pattern__'):
                 t['patterns'].append(re.compile(CONFIG[field][item]))
+            if item.startswith('__excape__'):
+                t['escapes'].append(re.compile(CONFIG[field][item]))
         PATTERNS.append(t)
 
     if 'MAX_ERROR_TIMES_PERTAG_PERTYPE' in CONFIG['DEFAULT']:
@@ -210,6 +214,16 @@ def _do_detect_names(endict, text):
         results.append(result)
     return results
 
+def _do_detect_escapes(escapes, items):
+    result = []
+    for item in items:
+        t = [escape for escape in escapes if not escape.search(item) is None]
+        if len(t) == 0:
+            result.append(item)
+        # else:
+        #     print(item)
+    return result
+
 def _do_detect(sections, text):
     results = []
     for section in sections:
@@ -222,6 +236,8 @@ def _do_detect(sections, text):
             result = _do_detect_multichunk(section['patterns'], text)
         else:
             continue
+
+        result = _do_detect_escapes(section['escapes'], result)
 
         if len(result) > MAX_ERROR_TIMES_PERTAG_PERTYPE:
             result = result[:MAX_ERROR_TIMES_PERTAG_PERTYPE]
@@ -290,19 +306,14 @@ def _dict_merge(dict1, dict2):
 
 def _run_detecter(args):
     try:
-        input_ori_file, input_trans_file, SECTIONS, tag, ENDICT = args[
-            'input_ori_file'], args['input_trans_file'], args['sections'], args['tag'], args['endict']
-        # try:
-        # file coding: UTF-8 with BOM
-        # etree.ElementTree.register_namespace('', 'http://your/uri')
-        root_origin = etree.parse(BytesIO(
-            open(input_ori_file,   'rb').read()), etree.XMLParser(ns_clean=True)).getroot()
-        root_trans = etree.parse(BytesIO(
-            open(input_trans_file, 'rb').read()), etree.XMLParser(ns_clean=True)).getroot()
-        _origin_para_eles = root_origin.xpath(
-            tag, namespaces=root_origin.nsmap)
-        _trans_para_eles = root_trans.xpath(tag, namespaces=root_trans.nsmap)
-        # print(_trans_para_eles[0].text)
+        input_file, SECTIONS, tag, ENDICT = args['input_file'], args['sections'], args['tag'], args['endict']
+        lines = open(input_file, errors='ignore', encoding=FILE_ENCODE).readlines()
+        _origin_para_eles = []
+        _trans_para_eles = []
+        for line in lines:
+            b, a = line.split('\t')
+            _origin_para_eles.append(a)
+            _trans_para_eles.append(b)
 
         Paragraphs = []
         ParagraphsIndex = []
@@ -311,18 +322,13 @@ def _run_detecter(args):
         if len(_origin_para_eles) > len(_trans_para_eles):
             max_eles_len = len(_origin_para_eles)
 
+        # print(len(_origin_para_eles))
+        # print(len(_trans_para_eles))
+        # print(max_eles_len)
+
         for i in range(max_eles_len):
-            c_origin = ''
-            c_trans = ''
-            if i < len(_origin_para_eles):
-                c_origin = _del_xml_first_attr(etree.tostring(
-                    _origin_para_eles[i], encoding='unicode').strip())
-                # c_origin = _origin_para_eles[i].text.strip()
-            if i < len(_trans_para_eles):
-                # c_origin = _origin_para_eles[i].text.strip()
-                c_trans = _del_xml_first_attr(etree.tostring(
-                    _trans_para_eles[i], encoding='unicode').strip())
-            # print(c_origin, c_trans)
+            c_origin = _origin_para_eles[i]
+            c_trans = _trans_para_eles[i]
             _do_detect_result = _do_detect(SECTIONS, c_origin)
 
             if _do_detect_result is None:
@@ -336,15 +342,16 @@ def _run_detecter(args):
             if len(_do_compare_result) == 0:
                 continue
 
+            # print(c_origin, c_trans)
             Paragraphs.extend([_dict_merge(item, {'idx': ParagraphsIndexCount}) for item in _do_compare_result])
             ParagraphsIndex.append({'c_origin': c_origin[:MAX_LENGTH_PERTAG], 'c_trans': c_trans[:MAX_LENGTH_PERTAG]})
             ParagraphsIndexCount += 1
 
-        return (Paragraphs, ParagraphsIndex, input_ori_file, input_trans_file)
+        return (Paragraphs, ParagraphsIndex, input_file, input_file)
     except:
         error_type, error_value, error_trace = sys.exc_info()
-        print(sys.exc_info())
-        return ([], [])
+        print('Error: ' + sys.exc_info())
+        return ([], [], [], [])
 
 
 # def readlist(path):
@@ -369,7 +376,7 @@ def _run_detecter_callback(args):
     global INDEXFILECOUNT
     
     globals.update(1)
-    t, tidx, input_ori_file, input_trans_file= args
+    t, tidx, input_ori_file, input_trans_file = args
     if t is None:
         return
     if len(t) == 0:
@@ -510,7 +517,7 @@ def _save_csv_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
     for section in SECTIONS:
         section_details_counter = {}
         # section_details = []
-        fout = open(os.path.join(output_folder, section['name']+'.csv'), 'w', encoding='gbk', errors="ignore", newline='')
+        fout = open(os.path.join(output_folder, section['name']+'.csv'), 'w', encoding='utf-8-sig', errors="ignore", newline='')
         writer = csv.writer(fout)
         writer.writerow(["类型", "内容", "原文路径", "译文路径", "原文", "译文"]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
         for detail in results['detail']:
@@ -533,14 +540,35 @@ def _save_csv_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
                 #     "译文": INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'],
                 # })
                 writer.writerow([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
+                # print([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
                 section_details_counter[detail["obj"]] += 1
+                # fout.write(','.join([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]]) + '\n')
                 fout.flush()
-                # fout.write(','.join([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin']), regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])]) + '\n')
         fout.close()
         # fout = pd.DataFrame(section_details)
         # fout.to_csv(os.path.join(output_folder, section['name']+'.csv'), index = 0, encoding='utf_8_sig')
 
     return results['stat']
+
+def _save_anchor_files(ANCHORS, output_folder):
+    if not os.path.exists(output_folder):
+        os.mkdir(output_folder, 0o755)
+
+    # results = _corvert(ANCHORS, INDEX, INDEXFILE)
+
+    results = {}
+    for anchor in ANCHORS:
+        if anchor['name'] not in results:
+            results[anchor['name']] = set()
+        results[anchor['name']].add(anchor['obj'])
+    
+    for key in results.keys():
+        fout = open(os.path.join(output_folder, key+'.txt'), 'w', encoding='utf-8', errors="ignore", newline='')
+        fout.writelines([item+'\n' for item in results[key]])
+        # writer = csv.writer(fout)
+        # writer.writerow(["类型", "内容", "原文路径", "译文路径", "原文", "译文"]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
+        # writer.writerow([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
+        fout.close()
 
 def _convert_stat(tree, path):
     results = []
@@ -583,7 +611,8 @@ if __name__ == '__main__':
     print(DEFAULT, len(ENDICT), SECTIONS)
 
     FILELIST = read_input_folder(args.input_folder)
-    print(FILELIST)
+    print('Total',len(FILELIST),'files...')
+    # print(FILELIST)
     # fl = os.listdir(args.input_folder)
 
     if args.jobs != -1:
@@ -597,36 +626,29 @@ if __name__ == '__main__':
     # with tqdm(total=len(FILELIST)) as pbar:
     error_files = []
     for i in range(len(FILELIST)):
-        input_ori_file = FILELIST[i]
-        basename, extension = os.path.splitext(os.path.basename(input_ori_file))
-        if extension.lower() != '.xml':
-            print(input_ori_file)
+        input_file = FILELIST[i]
+        basename, extension = os.path.splitext(os.path.basename(input_file))
+        # if extension.lower() != '.xlsx' or extension.lower() != '.xls':
+        #     print('\nFile not exists: ' + input_file)
+        #     continue
+
+        if not os.path.exists(input_file):
+            print('\nFile not exists: ' + input_file)
+            error_files.append('File not exists: ' + input_file)
             continue
 
-        input_trans_file = os.path.splitext(input_ori_file)[0] + '_trans' + extension
-
-        if not os.path.exists(input_ori_file):
-            print('\nFile not exists: ' + input_ori_file)
-            error_files.append('File not exists: ' + input_ori_file)
-            continue
-
-        if not os.path.exists(input_trans_file):
-            print('\nFile not exists: ' + input_trans_file)
-            error_files.append('File not exists: ' + input_trans_file)
-            continue
-
-        param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'sections': copy.deepcopy(SECTIONS), 'tag': copy.deepcopy(DEFAULT['TAG']), 'endict':copy.deepcopy(ENDICT)}
-        # print(root_origin)
+        param = {'input_file': input_file, 'sections': copy.deepcopy(SECTIONS), 'tag': copy.deepcopy(DEFAULT['TAG']), 'endict':copy.deepcopy(ENDICT)}
         pool.apply_async(_run_detecter, args=(param, ), callback=_run_detecter_callback)
     pool.close()
     pool.join()
     e2 = time.time()
-    print(float(e2 - e1))
+    # print(float(e2 - e1))
+    print('Total',len(ANCHORS),'anchors...')
 
     with open(args.output_folder+'_errors.txt', 'w', encoding='utf-8', errors="ignore") as fout:
         fout.writelines(error_files)
 
-    print('_save_visual_files')
+    print('Saving visual files...')
     stat = _save_visual_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_visual', SECTIONS)
     t = {}
     for item in SECTIONS:
@@ -637,8 +659,11 @@ if __name__ == '__main__':
     json.dump([(item['name'], item['stat'], t[item['name']]) for item in SECTIONS], open(os.path.join(args.output_folder+'_visual', 'sections.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
     
-    print('_save_excel_files')
+    print('Saving csv files...')
     _save_csv_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_csv', SECTIONS)
+
+    print('Saving anchor files...')
+    _save_anchor_files(ANCHORS, args.output_folder+'_anchors')
 
     # json.dump(, open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
     #                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)

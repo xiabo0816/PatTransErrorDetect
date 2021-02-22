@@ -68,14 +68,14 @@ INDEXFILE = []
 INDEXFILECOUNT = 0
 
 def get_args_parser():
-    parser = argparse.ArgumentParser(description='Data preprocess tool.')
+    parser = argparse.ArgumentParser(description='专利机翻检测工具 - xml')
     parser.add_argument('-i', '--input_folder', type=str,
-                        default='input.list', help='input_folder')
+                        default='input.list', help='输入文件夹名')
     parser.add_argument('-o', '--output_folder', type=str,
-                        default='output_folder', help='output_folder')
+                        default='output_folder', help='输出文件夹名称前缀')
     parser.add_argument('-c', '--config', type=str,
-                        default='config.ini', help='config.ini')
-    parser.add_argument('-j', '--jobs', type=int, default=-1, help='njobs')
+                        default='config.ini', help='配置文件')
+    parser.add_argument('-j', '--jobs', type=int, default=-1, help='进程数，一般默认即可')
     return parser.parse_args()
 
 

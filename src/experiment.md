@@ -1,13 +1,63 @@
 ## 参考文献测试
 
+## KA参考文献识别
+
 ## CA参考文献识别
 
 ```re
+[A-Z][a-z]{1,}, 
+(([A-Za-z]{1}([-,~'][A-Z]){0,}\.(([-,~'][A-Z]{1}),){0,})+ ?){1,},?
+( et al\.){1,}, 
+(([A-Z][a-z]{0,}\.?) ?)+
+([\d\(\)\. ]+:?)
+([\d -]{0,}) ?
+\n?
+(,? ?\d+[,:]{1} ?\d+ ?- ?\d+)?
+(,? ?\(? ?\d+\)?)\.?
 
 ```
 
 测试数据
 Plescia et al, Proc. Nat. Acad. Sci. 52, p. 279, 1964
+Howard and Weetall, Immobilized Enzymes, Antigens, Antibodies and Peptides, Marcel Dekker, Inc., New York 1975; 
+Becht et al., J.Immunology, 101, pages 18 et seq., 1968
+H. W. Elliott, et al., J. Med. (Basel), 1, 74-89 (1970); 
+H. Blumberg, et al., Pharmacologist, _ , 189, Fall 1968; P. Roberts, Druqs of the Future, 3, 613-5 (1977)
+J.E. Blackwood et al., 20 J. Am. Ch_m. Soc., 90, p. 509 ~I968
+A. Srinavasan et al. ~Tetrahedron Lett., 891 (1976)
+Kubitza, D. et al., Br. I Clin. Pharmacol. 63:4 (2006);
+Wong, P.C. et al. Journal of Thrombosis and Haemostasis 6 (2008);
+FDA Advisory Committee Briefing Document for New Drug Application 22-406 (2009)
+Plaat, D., et al., Virology 98:55-62, {1979).
+Defer, C., et aL, Journal of Virology 64:3661-3673, (1990).
+Bai M., et al., J. Virol. 67:5198-5205, (1993).
+Bett A., et al., Proc. Natl. Acad. Sci. USA 91:8802-8806,
+Chroboczek J., et al.,. Adenovirus fiber, p. 163-200.
+Bohm (ed.), Springer-Verlag. Berlin/New York, (1995).
+Chu T.-H., et al., J. Virol. 69:2659-2663, {1995).
+Chu T.-H., et al., Gene Ther. 1:292-299, ( I994).
+Clayman G., et al., Cancer Res. 55:1-6, (1995).
+Cosset F.-L., et al., J. Virol. 69:6314-6322, { 1995).
+Dong J., et al., J. Virol. 66:7374-7382, (1992).
+Emi N., et aL, J. Virol. 65:1202-1207, ( 1991 ).
+Ghosh-Choudhury G., et al., EMBO J. 6:1733-1739, (1987).
+Greber U., et al., Cell 1993:477-486, {1993}.
+Han X., et al., Proc. Natl. Acad. Sci. USA 92:9747-9751,
+Mathias P., et al., J. Virol. 68:6811-6814, (1994).
+Michael S., et aL, J. Biol. Chem. 268:6866-6869, {1993).
+Novelli A., et al., J. Biol. Chem. 266:9299-9303, (1991a).
+Novelli A., et aL, Virology 185:365-376, (1991b).
+Philipson L., et al., J. Virol. 2:1064-1075, (1968).
+Russell S., et al., Nucleic Acids Res. 21:1081-1085, ( 1993).
+Seth P., et al., Pathway of adenovirus entry into cells., p. I91-195. In R. Crowell and K. Lonberg-Holm (ed.), Virus attachment and entry into cells. American Society for Microbiology, Washington, D.C, ( 1986).
+Somia N., et al., Proc. Natl. Acad. Sci. USA 92:7570-7574,
+Takeuchi Y., et al., J. Virol. 68:8001-8007, (1994).
+Valsesia-Wittmann S., et al., J. Viral. 68:4609-4619, ( 1994).
+Weiss R., et al., Virology 76:808-825, ( 1977).
+Wickham T., et al., Gene Ther. 2:750-756, ( 1995).
+Wickham T., et al., J. Cell Biol. 127:257-264, ( 1994).
+Wickham T., et al., Cel173:309-319, (1993).
+Yee J.-K., et al., Proc. Natl. Acad. Sci. USA 91:9564-9568,
 
 
 ## US参考文献识别
@@ -17,8 +67,9 @@ Plescia et al, Proc. Nat. Acad. Sci. 52, p. 279, 1964
 [A-Z][a-z]{0,}, 
 (([A-Za-z]{1}(-[A-Z]){0,}\.((-[A-Z]{1}),){0,})+ ?){0,},?( et al\.){0,}, 
 (([A-Z][a-z]{0,}\.?) ?)+
-([\d\(\)]+:)([\d -]+) ?
-(\( ?[\d]{4}\))\.
+([\d\(\)]+:?)([\d -]+) ?
+([-,~'])
+(\(? ?\d{4}\)?)\.?
 ```
 
 
