@@ -57,6 +57,11 @@
         td:nth-child(6) {
             width: 34%;
         }
+        
+        .navbar-right,
+        .navbar-right * {
+            font-style: italic;
+        }
     </style>
 </head>
 
@@ -79,7 +84,9 @@
                     <li><a href="https://github.com/xiabo0816/PatTransErrorDetect">About</a></li>
                     <li><a href="mailto:blcuxiabo@126.com">Contact</a></li>
                 </ul>
-                <!-- <p class="navbar-text navbar-right">Signed in as <a href="#" class="navbar-link">Mark Otto</a></p> -->
+                <p class="navbar-text navbar-right">当前目录：
+                    <a id="navbar-link" class="navbar-link"></a>
+                </p>
 
             </div>
             <!--/.nav-collapse -->
@@ -108,7 +115,7 @@
                     <div class="tab-pane active" role="tabpanel" id="概览">
                         <div class="jumbotron">
                             <h3>使用方式：</h3>
-                            <p>1. 选择检测工具输出的文件夹，<small style="font-size: small;font-style: italic;">如output_folder</small></p>
+                            <p>1. 选择检测工具输出的文件夹，<small style="font-size: small;font-style: italic;">如results/us_visual/</small></p>
                             <p>2. 点击“开始分析”</p>
                             <div class="form-group">
                                 <label for="inputfile">请选择文本文件：</label>
@@ -155,7 +162,7 @@
                             <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
                             <div id="treemap" style="width: 100%;height: 600px;"></div>
                             <div id="toolbar">
-                                <input id="toolbar_pathpfx" type="text" class="form-control" placeholder="数据目录前缀" />
+                                <input id="toolbar_pathpfx" type="text" class="form-control" placeholder="数据目录前缀" value="../" />
                             </div>
                             <table id="table" data-toolbar="#toolbar"></table>
                         </div>
@@ -164,15 +171,16 @@
             </div>
         </div>
     </div>
-
     <script>
         function readAsText() {
             var file = document.getElementById("file").files[0];
+            var path = file.webkitRelativePath.split("/")[0];
+            document.getElementById("navbar-link").innerText = file.webkitRelativePath.split("/")[0];
             var reader = new FileReader();
             reader.readAsText(file);
             reader.onload = function(e) {
-                section_navs_init();
                 home_dashboard_init();
+                section_navs_init();
             }
         }
     </script>

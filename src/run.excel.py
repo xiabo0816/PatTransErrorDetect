@@ -31,9 +31,7 @@ import globals
 import globals
 import copy
 import csv
-import pandas as pd
 import xlrd
-
 """
 全局变量
 """
@@ -105,9 +103,12 @@ def readconfig(path):
         t['mode'] = CONFIG[field]['mode']
         t['stat'] = CONFIG[field]['stat']
         t['patterns'] = []
+        t['escapes'] = []
         for item in CONFIG[field]:
             if item.startswith('__pattern__'):
                 t['patterns'].append(re.compile(CONFIG[field][item]))
+            if item.startswith('__excape__'):
+                t['escapes'].append(re.compile(CONFIG[field][item]))
         PATTERNS.append(t)
 
     if 'MAX_ERROR_TIMES_PERTAG_PERTYPE' in CONFIG['DEFAULT']:
@@ -212,6 +213,16 @@ def _do_detect_names(endict, text):
         results.append(result)
     return results
 
+def _do_detect_escapes(escapes, items):
+    result = []
+    for item in items:
+        t = [escape for escape in escapes if not escape.search(item) is None]
+        if len(t) == 0:
+            result.append(item)
+        # else:
+        #     print(item)
+    return result
+
 def _do_detect(sections, text):
     results = []
     for section in sections:
@@ -224,6 +235,8 @@ def _do_detect(sections, text):
             result = _do_detect_multichunk(section['patterns'], text)
         else:
             continue
+
+        result = _do_detect_escapes(section['escapes'], result)
 
         if len(result) > MAX_ERROR_TIMES_PERTAG_PERTYPE:
             result = result[:MAX_ERROR_TIMES_PERTAG_PERTYPE]
@@ -382,19 +395,6 @@ def _del_xml_tag(line):
 def _del_xml_first_attr(line):
     return re.sub(r'^(<[^>\s]+)\s[^>]+?(>)', r'\1\2', line)
 
-
-def _plot_stat(stat):
-    """
-    对识别出的每个字符串画出频率柱状图
-    """
-    import matplotlib.pyplot as plt
-    import numpy as np
-    x = stat.keys()
-    y = stat.values()
-    plt.figure()
-    plt.plot(x, y)
-    plt.show()
-
 def _convert_new(tree, name, stat):
     tree[name] = {}
     tree[name]['name'] = name
@@ -537,6 +537,27 @@ def _save_csv_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
 
     return results['stat']
 
+
+def _save_anchor_files(ANCHORS, output_folder):
+    if not os.path.exists(output_folder):
+        os.mkdir(output_folder, 0o755)
+
+    # results = _corvert(ANCHORS, INDEX, INDEXFILE)
+
+    results = {}
+    for anchor in ANCHORS:
+        if anchor['name'] not in results:
+            results[anchor['name']] = set()
+        results[anchor['name']].add(anchor['obj'])
+    
+    for key in results.keys():
+        fout = open(os.path.join(output_folder, key+'.txt'), 'w', encoding='utf-8', errors="ignore", newline='')
+        fout.writelines([item+'\n' for item in results[key]])
+        # writer = csv.writer(fout)
+        # writer.writerow(["类型", "内容", "原文路径", "译文路径", "原文", "译文"]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
+        # writer.writerow([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
+        fout.close()
+        
 def _convert_stat(tree, path):
     results = []
     for i in tree:
@@ -578,7 +599,7 @@ if __name__ == '__main__':
     print(DEFAULT, len(ENDICT), SECTIONS)
 
     FILELIST = read_input_folder(args.input_folder)
-    print(FILELIST)
+    # print(FILELIST)
     # fl = os.listdir(args.input_folder)
 
     if args.jobs != -1:
@@ -609,13 +630,13 @@ if __name__ == '__main__':
     pool.close()
     pool.join()
     e2 = time.time()
-    print(float(e2 - e1))
-    print(len(ANCHORS))
+    # print(float(e2 - e1))
+    print('\nTotal',len(ANCHORS),'anchors...')
 
     with open(args.output_folder+'_errors.txt', 'w', encoding='utf-8', errors="ignore") as fout:
         fout.writelines(error_files)
 
-    print('_save_visual_files')
+    print('Saving visual files...')
     stat = _save_visual_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_visual', SECTIONS)
     t = {}
     for item in SECTIONS:
@@ -626,9 +647,11 @@ if __name__ == '__main__':
     json.dump([(item['name'], item['stat'], t[item['name']]) for item in SECTIONS], open(os.path.join(args.output_folder+'_visual', 'sections.json'), 'w', encoding='utf-8',
                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
     
-    print('_save_excel_files')
+    print('Saving csv files...')
     _save_csv_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_csv', SECTIONS)
 
+    print('Saving anchor files...')
+    _save_anchor_files(ANCHORS, args.output_folder+'_anchors')
     # json.dump(, open(args.output_file+'.anchors.json', 'w', encoding='utf-8',
     #                         errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
 

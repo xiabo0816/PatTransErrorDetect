@@ -31,7 +31,6 @@ import globals
 import globals
 import copy
 import csv
-import pandas as pd
 
 """
 全局变量
@@ -643,7 +642,7 @@ if __name__ == '__main__':
     pool.join()
     e2 = time.time()
     # print(float(e2 - e1))
-    print('Total',len(ANCHORS),'anchors...')
+    print('\nTotal',len(ANCHORS),'anchors...')
 
     with open(args.output_folder+'_errors.txt', 'w', encoding='utf-8', errors="ignore") as fout:
         fout.writelines(error_files)
