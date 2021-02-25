@@ -107,7 +107,7 @@ def readconfig(path):
         for item in CONFIG[field]:
             if item.startswith('__pattern__'):
                 t['patterns'].append(re.compile(CONFIG[field][item]))
-            if item.startswith('__excape__'):
+            if item.startswith('__escape__'):
                 t['escapes'].append(re.compile(CONFIG[field][item]))
         PATTERNS.append(t)
 
