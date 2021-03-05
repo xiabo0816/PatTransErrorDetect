@@ -1,0 +1,1 @@
+python3 src/run.excel.py -i data/excel/ -o result/excel -c src/config.ini

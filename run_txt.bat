@@ -1,0 +1,1 @@
+python3 src/run.txt.py -i data/ustxt/ -o result/txt -c src/config.ini

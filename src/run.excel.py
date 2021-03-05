@@ -18,8 +18,6 @@ import lxml
 
 from io import StringIO, BytesIO
 import json
-import sys
-import traceback
 import configparser
 # https://docs.python.org/zh-cn/3.9/library/configparser.html
 import re
@@ -32,12 +30,14 @@ import globals
 import copy
 import csv
 import xlrd
+
 """
 全局变量
 """
 # 文件编码
 FILE_ENCODE = 'UTF-8'
-
+# 输出文件编码
+OUT_FILE_ENCODE = 'GBK'
 # 最小字串长度
 MIN_CHUNK_LEN = 2
 # 最大HTML转义次数
@@ -306,14 +306,23 @@ def _dict_merge(dict1, dict2):
 def _run_detecter(args):
     try:
         input_file, SECTIONS, tag, ENDICT = args['input_file'], args['sections'], args['tag'], args['endict']
-        print(input_file)
+        # print(input_file)
         book = xlrd.open_workbook(input_file)
         _origin_para_eles = []
         _trans_para_eles = []
         for sheet in book.sheets():
             for row in range(1, sheet.nrows):
-                _origin_para_eles.append(sheet.cell_value(row, 1))
-                _trans_para_eles.append(sheet.cell_value(row, 2))
+                # print(sheet.cell_value(row, 1), sheet.cell_value(row, 2))
+                origin_cell = sheet.cell(row, 1)
+                trans_cell = sheet.cell(row, 2)
+                if (origin_cell.ctype == 1 and trans_cell.ctype == 1):
+                    _origin_para_eles.append(origin_cell.value)
+                    _trans_para_eles.append(trans_cell.value)
+                if (origin_cell.ctype == 2 and trans_cell.ctype == 2):
+                    _origin_para_eles.append(str(origin_cell.value))
+                    _trans_para_eles.append(str(trans_cell.value))
+                # _origin_para_eles.append(origin_cell.value)
+                # _trans_para_eles.append(trans_cell.value)
 
         Paragraphs = []
         ParagraphsIndex = []
@@ -329,28 +338,36 @@ def _run_detecter(args):
         for i in range(max_eles_len):
             c_origin = _origin_para_eles[i]
             c_trans = _trans_para_eles[i]
+            # print(c_origin, c_trans)
+            # print(type(c_origin), type(c_trans))
             _do_detect_result = _do_detect(SECTIONS, c_origin)
-
+    
             if _do_detect_result is None:
                 continue
             if len(_do_detect_result) == 0:
                 continue
 
             _do_compare_result = _do_compare(_do_detect_result, c_trans)
-            if _do_detect_result is None:
+            # print(_do_detect_result)
+            # print(_do_compare_result)
+            # print(c_origin, c_trans)
+            if _do_compare_result is None:
                 continue
             if len(_do_compare_result) == 0:
                 continue
 
-            print(c_origin, c_trans)
             Paragraphs.extend([_dict_merge(item, {'idx': ParagraphsIndexCount}) for item in _do_compare_result])
+            # print('Paragraphs',Paragraphs)
             ParagraphsIndex.append({'c_origin': c_origin[:MAX_LENGTH_PERTAG], 'c_trans': c_trans[:MAX_LENGTH_PERTAG]})
             ParagraphsIndexCount += 1
 
         return (Paragraphs, ParagraphsIndex, input_file, input_file)
     except:
-        error_type, error_value, error_trace = sys.exc_info()
-        print('Error: ' + sys.exc_info())
+        globals.print_tb()
+        # error_type, error_value, error_trace = sys.exc_info()
+        # print(error_type)
+        # print(error_value)
+        # print(traceback.print_tb(error_trace))
         return ([], [], [], [])
 
 
@@ -374,9 +391,8 @@ def _run_detecter_callback(args):
     global INDEX
     global INDEXFILE
     global INDEXFILECOUNT
-    
+
     globals.update(1)
-    print(args)
     t, tidx, input_ori_file, input_trans_file = args
     if t is None:
         return
@@ -503,38 +519,37 @@ def _save_csv_files(ANCHORS, INDEX, INDEXFILE, output_folder, SECTIONS):
     results = _corvert(ANCHORS, INDEX, INDEXFILE)
 
     for section in SECTIONS:
-        section_details_counter = {}
-        # section_details = []
-        fout = open(os.path.join(output_folder, section['name']+'.csv'), 'w', encoding='gbk', errors="ignore", newline='')
-        writer = csv.writer(fout)
-        writer.writerow(["类型", "内容", "原文路径", "译文路径", "原文", "译文"]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
+        section_details_content = {}
         for detail in results['detail']:
-            if detail['name'] == section['name']:
-                if detail["obj"] not in section_details_counter:
-                    section_details_counter[detail["obj"]] = 0
+            myname = str(detail['index']['id']) + '_' + str(detail['index']['idx']) + detail["obj"] 
+            if detail['name'] != section['name']:
+                continue
+            if myname not in section_details_content:
+                section_details_content[myname] = {}
+                section_details_content[myname]['name'] = detail["name"]
+                section_details_content[myname]['obj']  = detail["obj"]
+                section_details_content[myname]['count'] = 0
+                section_details_content[myname]['input_ori_file']   = INDEXFILE[detail['index']['id']]['input_ori_file']
+                section_details_content[myname]['input_trans_file'] = INDEXFILE[detail['index']['id']]['input_trans_file']
+                section_details_content[myname]['c_origin'] = regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG]
+                section_details_content[myname]['c_trans']  = regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]
 
-                if detail["stat"] == 'poly' and section_details_counter[detail["obj"]] > int(MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV):
-                    continue
-                
-                if detail["stat"] == 'single' and section_details_counter[detail["obj"]] > 50 * int(MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV):
-                    continue
+            section_details_content[myname]['count'] += 1
 
-                # section_details.append({
-                #     "类型": detail["name"],
-                #     "内容": detail["obj"],
-                #     "原文路径": INDEXFILE[detail['index']['id']]['input_ori_file'],
-                #     "译文路径": INDEXFILE[detail['index']['id']]['input_trans_file'],
-                #     "原文": INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'],
-                #     "译文": INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'],
-                # })
-                writer.writerow([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
-                section_details_counter[detail["obj"]] += 1
-                fout.flush()
-                # fout.write(','.join([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin']), regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])]) + '\n')
+        # section_details = []
+        section_details_counter = 0
+        fout = open(os.path.join(output_folder, section['name']+'.csv'), 'w', encoding=OUT_FILE_ENCODE, errors="ignore", newline='')
+        writer = csv.writer(fout)
+        writer.writerow(["类型", "内容", "频次", "原文路径", "译文路径", "原文", "译文"]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
+        for key in section_details_content:
+            t = section_details_content[key]
+            writer.writerow([t["name"], t["obj"], t["count"], t["input_ori_file"], t["input_trans_file"], t["c_origin"], t["c_trans"]]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
+            if section_details_counter > int(MAX_ERROR_TIMES_PERTAG_PERTYPE_CSV):
+                continue
+            section_details_counter += 1
         fout.close()
         # fout = pd.DataFrame(section_details)
         # fout.to_csv(os.path.join(output_folder, section['name']+'.csv'), index = 0, encoding='utf_8_sig')
-
     return results['stat']
 
 
@@ -557,6 +572,7 @@ def _save_anchor_files(ANCHORS, output_folder):
         # writer.writerow(["类型", "内容", "原文路径", "译文路径", "原文", "译文"]) #这里要以list形式写入，writer会在新建的csv文件中，一行一行写入
         # writer.writerow([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
         fout.close()
+        
         
 def _convert_stat(tree, path):
     results = []
@@ -624,11 +640,12 @@ if __name__ == '__main__':
             error_files.append('File not exists: ' + input_file)
             continue
 
-        param = {'input_file': input_file, 'sections': copy.deepcopy(SECTIONS), 'tag': copy.deepcopy(DEFAULT['TAG']), 'endict':copy.deepcopy(ENDICT)}
-        print(param)
-        pool.apply_async(_run_detecter, args=(param, ), callback=_run_detecter_callback)
+        param = {'input_file': input_file, 'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'endict': ENDICT}
+        # print(param)
+        pool.apply_async(_run_detecter, args=(param, ), callback=_run_detecter_callback).get()
     pool.close()
     pool.join()
+        
     e2 = time.time()
     # print(float(e2 - e1))
     print('\nTotal',len(ANCHORS),'anchors...')
