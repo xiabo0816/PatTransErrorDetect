@@ -63,10 +63,10 @@
 - [ ] csv中的逗号错误，数字格式12345或者12,345
 - [ ] KR参考文献
 - [ ] 可否在可视化界面和其关联的原文件中对不匹配的内容自动进行高亮显示，而不需要手动搜索？
+- [ ] escape_pfx=(by weight|by mass|by wt\.)
 
 - [x] 识别俄语错误
 - [ ] 分子式
 - [ ] 识别缩写
 - [ ] 氨基酸核苷酸序列
-- [ ] escape_pfx=(by weight|by mass|by wt\.)
 - [ ] escape_sfx=()
