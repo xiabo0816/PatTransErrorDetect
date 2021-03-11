@@ -1,1 +1,2 @@
-python3 src/run.txt.py -i data/ustxt/ -o result/txt -c src/config.ini
+python3 ../src/run.txt.py -i run_input/ -o run_output/ -c ../src/config.ini
+pause

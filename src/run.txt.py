@@ -88,10 +88,9 @@ def readconfig(path):
     CONFIG = configparser.ConfigParser()
     CONFIG.read(path, encoding=FILE_ENCODE)
 
-    ENDICT = {}
-    # ENDICT['words']   = readlist(CONFIG['DEFAULT']['words'])
-    # ENDICT['pattern'] = re.compile(r'([A-Z]{4,})')
-    # print('ENDICT[\'words\'] length: ', len(ENDICT['words']))
+    DICTIONARY = set()
+    if 'DICTIONARY' in CONFIG['DEFAULT']:
+        DICTIONARY = set(readlist(CONFIG['DEFAULT']['DICTIONARY']))
 
     PATTERNS = []
     for field in CONFIG:
@@ -124,7 +123,7 @@ def readconfig(path):
     if 'FILE_NAME_PATTERN' in CONFIG['DEFAULT']:
         FILE_NAME_PATTERN = CONFIG['DEFAULT']['FILE_NAME_PATTERN']
 
-    return CONFIG['DEFAULT'], ENDICT, PATTERNS
+    return CONFIG['DEFAULT'], DICTIONARY, PATTERNS
 
 
 def reference(line):
@@ -306,7 +305,7 @@ def _dict_merge(dict1, dict2):
 
 def _run_detecter(args):
     try:
-        input_file, SECTIONS, tag, ENDICT = args['input_file'], args['sections'], args['tag'], args['endict']
+        input_file, SECTIONS, tag, dictionary = args['input_file'], args['sections'], args['tag'], args['dictionary']
         lines = open(input_file, errors='ignore', encoding=FILE_ENCODE).readlines()
         _origin_para_eles = []
         _trans_para_eles = []
@@ -341,6 +340,8 @@ def _run_detecter(args):
                 continue
             if len(_do_compare_result) == 0:
                 continue
+            if len(dictionary) > 0:
+                _do_detect_result = [item for item in _do_detect_result if re.sub(r'[^a-zA-Z]', '', item['obj'].lower()) not in dictionary]
 
             # print(c_origin, c_trans)
             Paragraphs.extend([_dict_merge(item, {'idx': ParagraphsIndexCount}) for item in _do_compare_result])
@@ -349,8 +350,7 @@ def _run_detecter(args):
 
         return (Paragraphs, ParagraphsIndex, input_file, input_file)
     except:
-        error_type, error_value, error_trace = sys.exc_info()
-        print(sys.exc_info())
+        globals.print_tb()
         return ([], [], [], [])
 
 
@@ -626,8 +626,8 @@ if __name__ == '__main__':
     print(args)
 
     print('Reading configure file...')
-    DEFAULT, ENDICT, SECTIONS = readconfig(args.config)
-    print(DEFAULT, len(ENDICT), SECTIONS)
+    DEFAULT, DICTIONARY, SECTIONS = readconfig(args.config)
+    print(DEFAULT, len(DICTIONARY), SECTIONS)
 
     FILELIST = read_input_folder(args.input_folder)
     print('Total',len(FILELIST),'files...')
@@ -656,7 +656,7 @@ if __name__ == '__main__':
             error_files.append('File not exists: ' + input_file)
             continue
 
-        param = {'input_file': input_file, 'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'endict': ENDICT}
+        param = {'input_file': input_file, 'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'dictionary': DICTIONARY}
         pool.apply_async(_run_detecter, args=(param, ), callback=_run_detecter_callback)
     pool.close()
     pool.join()

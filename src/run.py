@@ -87,10 +87,9 @@ def readconfig(path):
     CONFIG = configparser.ConfigParser()
     CONFIG.read(path, encoding=FILE_ENCODE)
 
-    ENDICT = {}
-    # ENDICT['words']   = readlist(CONFIG['DEFAULT']['words'])
-    # ENDICT['pattern'] = re.compile(r'([A-Z]{4,})')
-    # print('ENDICT[\'words\'] length: ', len(ENDICT['words']))
+    DICTIONARY = set()
+    if 'DICTIONARY' in CONFIG['DEFAULT']:
+        DICTIONARY = set(readlist(CONFIG['DEFAULT']['DICTIONARY']))
 
     PATTERNS = []
     for field in CONFIG:
@@ -123,7 +122,7 @@ def readconfig(path):
     if 'FILE_NAME_PATTERN' in CONFIG['DEFAULT']:
         FILE_NAME_PATTERN = CONFIG['DEFAULT']['FILE_NAME_PATTERN']
 
-    return CONFIG['DEFAULT'], ENDICT, PATTERNS
+    return CONFIG['DEFAULT'], DICTIONARY, PATTERNS
 
 
 def reference(line):
@@ -305,8 +304,8 @@ def _dict_merge(dict1, dict2):
 
 def _run_detecter(args):
     try:
-        input_ori_file, input_trans_file, SECTIONS, tag, ENDICT = args[
-            'input_ori_file'], args['input_trans_file'], args['sections'], args['tag'], args['endict']
+        input_ori_file, input_trans_file, SECTIONS, tag, dictionary = args[
+            'input_ori_file'], args['input_trans_file'], args['sections'], args['tag'], args['dictionary']
         # try:
         # file coding: UTF-8 with BOM
         # etree.ElementTree.register_namespace('', 'http://your/uri')
@@ -344,6 +343,8 @@ def _run_detecter(args):
                 continue
             if len(_do_detect_result) == 0:
                 continue
+            if len(dictionary) > 0:
+                _do_detect_result = [item for item in _do_detect_result if re.sub(r'[^a-zA-Z]', '', item['obj'].lower()) not in dictionary]
 
             _do_compare_result = _do_compare(_do_detect_result, c_trans)
             if _do_compare_result is None:
@@ -357,16 +358,15 @@ def _run_detecter(args):
 
         return (Paragraphs, ParagraphsIndex, input_ori_file, input_trans_file)
     except:
-        error_type, error_value, error_trace = sys.exc_info()
-        print(sys.exc_info())
-        return ([], [])
+        globals.print_tb()
+        return ([], [], [], [])
 
 
-# def readlist(path):
-#     if (path == ''):
-#         return []
-#     lines = [line.strip() for line in open(path, 'r', encoding=FILE_ENCODE).readlines()]
-#     return lines
+def readlist(path):
+    if (path == ''):
+        return []
+    lines = [line.strip() for line in open(path, 'r', encoding=FILE_ENCODE).readlines()]
+    return lines
 
 def read_input_folder(path):
     allfile = []
@@ -564,6 +564,27 @@ def _save_anchor_files(ANCHORS, output_folder):
         # writer.writerow([detail["name"],detail["obj"],INDEXFILE[detail['index']['id']]['input_ori_file'],INDEXFILE[detail['index']['id']]['input_trans_file'], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_origin'])[:MAX_LENGTH_PERTAG], regex.sub("[\n\r\t,]+", "", INDEX[detail['index']['id']][detail['index']['idx']]['c_trans'])[:MAX_LENGTH_PERTAG]])
         fout.close()
 
+def _save_section_files(SECTIONS, output_folder, output_path):
+    t = {}
+    for item in SECTIONS:
+        t[item['name']] = 0
+    for item in stat:
+        t[item['name']] = item['value']
+
+    # 这个是为前端显示用的
+    json.dump([(item['name'], item['stat'], t[item['name']]) for item in SECTIONS], open(os.path.join(output_folder+'_visual', output_path), 'w', encoding='utf-8', errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
+
+    # 这个是为下载概览数据用的
+    if not os.path.exists(output_folder+'_csv'):
+        os.mkdir(output_folder+'_csv', 0o755)
+    fout = open(os.path.join(output_folder+'_csv', r'概览数据.csv'), 'w', encoding=OUT_FILE_ENCODE, errors="ignore", newline='')
+    writer = csv.writer(fout)
+    writer.writerow(["类型", "频次"])
+    for item in SECTIONS:
+        writer.writerow([item['name'], t[item['name']]])
+    fout.close()
+    
+
 def _convert_stat(tree, path):
     results = []
     for i in tree:
@@ -601,8 +622,8 @@ if __name__ == '__main__':
     print(args)
 
     print('Reading configure file...')
-    DEFAULT, ENDICT, SECTIONS = readconfig(args.config)
-    print(DEFAULT, len(ENDICT), SECTIONS)
+    DEFAULT, DICTIONARY, SECTIONS = readconfig(args.config)
+    print(DEFAULT, len(DICTIONARY), SECTIONS)
 
     FILELIST = read_input_folder(args.input_folder)
     # print(FILELIST)
@@ -637,7 +658,7 @@ if __name__ == '__main__':
             error_files.append('File not exists: ' + input_trans_file)
             continue
 
-        param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'endict': ENDICT}
+        param = {'input_ori_file': input_ori_file, 'input_trans_file': input_trans_file, 'sections': SECTIONS, 'tag': DEFAULT['TAG'], 'dictionary': DICTIONARY}
         # print(root_origin)
         pool.apply_async(_run_detecter, args=(param, ), callback=_run_detecter_callback)
     pool.close()
@@ -651,15 +672,10 @@ if __name__ == '__main__':
 
     print('Saving visual files...')
     stat = _save_visual_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_visual', SECTIONS)
-    t = {}
-    for item in SECTIONS:
-        t[item['name']] = 0
-    for item in stat:
-        t[item['name']] = item['value']
 
-    json.dump([(item['name'], item['stat'], t[item['name']]) for item in SECTIONS], open(os.path.join(args.output_folder+'_visual', 'sections.json'), 'w', encoding='utf-8',
-                        errors="ignore"), sort_keys=False, indent=4, ensure_ascii=False)
-    
+    print('Saving sections files...')
+    _save_section_files(SECTIONS, args.output_folder, 'sections.json')
+
     print('Saving csv files...')
     _save_csv_files(ANCHORS, INDEX, INDEXFILE, args.output_folder+'_csv', SECTIONS)
 
