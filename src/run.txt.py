@@ -342,7 +342,6 @@ def _run_detecter(args):
                 continue
             if len(dictionary) > 0:
                 _do_detect_result = [item for item in _do_detect_result if re.sub(r'[^a-zA-Z]', '', item['obj'].lower()) not in dictionary]
-
             # print(c_origin, c_trans)
             Paragraphs.extend([_dict_merge(item, {'idx': ParagraphsIndexCount}) for item in _do_compare_result])
             ParagraphsIndex.append({'c_origin': c_origin[:MAX_LENGTH_PERTAG], 'c_trans': c_trans[:MAX_LENGTH_PERTAG]})
@@ -354,11 +353,11 @@ def _run_detecter(args):
         return ([], [], [], [])
 
 
-# def readlist(path):
-#     if (path == ''):
-#         return []
-#     lines = [line.strip() for line in open(path, 'r', encoding=FILE_ENCODE).readlines()]
-#     return lines
+def readlist(path):
+    if (path == ''):
+        return []
+    lines = [line.strip() for line in open(path, 'r', encoding=FILE_ENCODE).readlines()]
+    return lines
 
 def read_input_folder(path):
     allfile = []
