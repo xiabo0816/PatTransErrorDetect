@@ -1,3 +1,33 @@
+## 核苷酸测试
+Ala|Arg|Asn|Asp|Asx|Cys|Glu|Gly|Glx|Gln|His|Ile|Leu|Lys|Met|Phe|Pro|Pyl|Ser|Sec|Thr|Trp|Tyr|Val|Xle|Xaa
+
+Ala|Arg|Asn|Asp|Asx
+(A[lrs][agnpx])
+Cys
+(Cys)
+Glu|Gly|Glx|Gln
+(Gl[uyxn])
+His
+(His)
+Ile|
+(Ile)
+Leu|Lys|
+(L[ey][us])
+Met|
+(Met)
+Phe|Pro|Pyl|
+(P[hry][elo])
+Ser|Sec|
+(Se[rc])
+Thr|Trp|Tyr|
+(T[hry][rp])
+Val|
+(Val)
+Xle|Xaa
+(X[la][ea])
+
+(A[lrs][agnpx]) |(Cys) |(Gl[uyxn]) |(His) |(Ile) |(L[ey][us]) |(Met) |(P[hry][elo]) |(Se[rc]) |(T[hry][rp]) |(Val) |(X[la][ea]) 
+
 ## 参考文献测试
 
 
