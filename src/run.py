@@ -184,7 +184,6 @@ def _do_detect_chunk(patterns, text):
         result.extend(pattern.findall(text))
     return result
 
-
 def _do_detect_multichunk(patterns, text):
     result = []
     end = 0
@@ -197,6 +196,29 @@ def _do_detect_multichunk(patterns, text):
             if len(s.group()) > MIN_MULTICHUNK_LEN:
                 result.append(s.group().strip())
             end += s.span()[1]
+    # print(result)
+    # input()
+    return result
+
+def _do_detect_serial(patterns, text):
+    result = []
+    end = 0
+    tmp = ''
+    for pattern in patterns:
+        while end < len(text):
+            s = pattern.search(text[end:])
+            if s is None:
+                break
+            if s.span()[0] == 0:
+                tmp += s.group()
+            else:
+                result.append(tmp)
+                tmp = ''
+                tmp += s.group()
+            end += s.span()[1]
+        # print(pattern.findall(text))
+        # for group in pattern.findall(text):
+        #     print(group)
     # print(result)
     # input()
     return result
@@ -232,9 +254,10 @@ def _do_detect(sections, text):
             result = _do_detect_chunk(section['patterns'], text)
         elif section['mode'] == 'multichunk':
             result = _do_detect_multichunk(section['patterns'], text)
+        elif section['mode'] == 'serial':
+            result = _do_detect_serial(section['patterns'], text)
         else:
             continue
-
         result = _do_detect_escapes(section['escapes'], result)
 
         if len(result) > MAX_ERROR_TIMES_PERTAG_PERTYPE:
@@ -290,6 +313,9 @@ def _do_compare(items, text):
                 results.append(item)
         elif item['mode'] == 'multichunk':
             if _do_compare_multichunk(item['obj'], text) == False:
+                results.append(item)
+        elif item['mode'] == 'serial':
+            if _do_compare_mark(item['obj'], text) == False:
                 results.append(item)
         else:
             continue

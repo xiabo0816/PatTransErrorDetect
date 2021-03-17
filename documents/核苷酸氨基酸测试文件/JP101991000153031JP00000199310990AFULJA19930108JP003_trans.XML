@@ -1,0 +1,2222 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP101991000153031JP00000199310990AFULJA19930108JP003.XML" dateProduced="20160506" status="C" lang="ja" country="JP" docNumber="19931099" kind="A" datePublication="19930108">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>19931099</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19930108</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>特開平5-1099</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19930108</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>101991000153031</base:DocNumber>
+        <base:Date>19910625</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>特願平3-153031</base:DocNumber>
+        <base:Date>19910625</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPC>
+      <base:EditionStatement>5</base:EditionStatement>
+      <business:MainClassification dataFormat="original">C07K  7/10</business:MainClassification>
+      <business:MainClassification dataFormat="standard">C07K0007100000</business:MainClassification>
+      <business:FurtherClassification dataFormat="original">C07K 13/00</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C07K0013000000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C12N  1/21</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C12N0001210000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C12N 15/62</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C12N0015620000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C12N 15/70</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C12N0015700000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C12P 21/02</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C12P0021020000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C12Q  1/68</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C12Q0001680000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">G01N 33/569</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">G01N0033569000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">G01N 33/576</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">G01N0033576000</business:FurtherClassification>
+      <base:Text>C07K  7/10          8318-4H
+        13/00          7731-4H
+   C12N  1/21    ZNA   7236-4B
+        15/62                 
+        15/70                 
+   C12P 21/02        C 8214-4B
+   C12Q  1/68        Z 8114-4B
+   G01N 33/569       L 9015-2J
+        33/576       Z 9015-2J
+// A61K 39/00        Z 8413-4C
+   C12N 15/51                 
+  (C12N  1/21                 
+   C12R  1:19   )             
+  (C12P 21/02                 
+   C12R  1:19   )             
+   C07K 99:00</base:Text>
+    </business:ClassificationIPC>
+    <business:JPClassification>
+      <business:FI type="main">C12N 15/00        A 8828-4B</business:FI>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">融合抗原ポリペプチド</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>協和醗酵工業株式会社</base:LastName>
+            <base:RegisteredNumber>000001029</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都千代田区大手町1丁目6番1号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>守田  和樹</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>静岡県駿東郡長泉町下土狩1188</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>長谷川  護</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県川崎市麻生区片平1-9-26</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>横尾  義春</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県相模原市横山3-4-17</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>佐藤  盛幸</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都町田市成瀬2730-15</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>関根  進</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>フランス国  パリ  75015  リユ  プラメ  14</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="6" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>杉本  整治</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都町田市中町3-9-10</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="7" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>好田  肇</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県相模原市磯部9-18</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="8" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>森  秀治</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>静岡県駿東郡長泉町下土狩1188</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="9" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>有馬  暉勝</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>岡山県岡山市一宮196-29</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>A</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>15</business:ClaimsCount>
+      <base:TotalPageCount>32</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Abstract status="C" dataFormat="original" sourceDB="JP" lang="ja">
+    <base:Paragraphs>【目的】  C型肝炎の検出のために有用な抗原ポリペプチドを提供する。
+【構成】  1種以上のC型肝炎関連抗原ポリペプチドとシロザケ成長ホルモンとがメチオニンを介して融合した形の融合抗原ポリペプチドがC型肝炎の検出のために有用な抗原ポリペプチドとして用いることができる。
+</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image id="000002" file="93001099_000002.TIF" he="100" wi="067" imgContent="undefined" imgFormat="TIFF" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description status="C" lang="ja" dataFormat="original" sourceDB="JP">
+    <base:Heading>【産業上の利用分野】</base:Heading>
+    <base:Paragraphs num="0001">本発明は、非A非B型肝炎(C型肝炎)関連抗原に由来する抗原ポリペプチドと該抗原ポリペプチドとは異種のポリペプチド(異種ポリペプチド)とが融合した融合抗原ポリペプチド、該融合抗原ポリペプチドをコードするDNAを組み込んだ組換え体プラスミド、該組換え体プラスミドを含む微生物を用いる融合抗原ポリペプチドの製造法および該融合抗原ポリペプチドを用いた抗C型肝炎ウイルス抗体検出法に関する。抗原抗体反応は、医療および学術分野の種々の領域において応用されており、本発明の融合抗原ポリペプチドは幅広い分野において用途が期待される。</base:Paragraphs>
+    <base:Heading>【従来の技術】</base:Heading>
+    <base:Paragraphs num="0002">C型肝炎は非A非B型肝炎ウイルス〔Hepatitis C Virus(HCV) または nonA, nonB Hepatitis Virus(NANBV) とも言うが、ここではHCVを用いる。〕が原因ウイルスと考えられており、HCV 感染の血清診断は、C型肝炎の診断および輸血等によるHCV感染の予防のために重要な臨床診断技術である。これは血清中のHCV関連抗原に対する抗体の有無を抗原抗体反応を利用して調べることにより行われている。</base:Paragraphs>
+    <base:Paragraphs num="0003">チョーらは、チンパンジー血清からのHCVのクローン化に成功し〔チョーら( Choo, Q. -L., et al)、サイエンス(Science) 244 ,359 -362(1989) 〕、それにより、C型肝炎診断検査薬が開発された〔クオら(Kuo, G. et al) 、サイエンス(Science)244  , 362-364(1989) ;EUROPEAN PATENT APPLICATION 0318216 〕。</base:Paragraphs>
+    <base:Paragraphs num="0004">C型肝炎患者血清からHCV関連遺伝子がクローン化〔有馬ら、実験医学 Vol.7, No. 2, 94 -101(1989) ;有馬ら、ガストロエンターロロジア  ジャポニカ( Gastroenterologia Japonica )24,540-548 (1989)〕され、C型肝炎検査に用いられている。上記従来法では、C型肝炎関連抗原ポリペプチドと異種蛋白とを融合させた融合抗原ポリペプチドを微生物で生産させて使用している。融合させる異種蛋白として、チョーらは、スーパーオキシドジスムターゼ(Superoxide dismutase,以下SODと略記する)を、有馬らは、β-D-ガラクトシダーゼ(β-D-galactosidase,以下β-gal と略記する)を用いている。</base:Paragraphs>
+    <business:Disclosure>
+      <business:TechnicalProblem>
+        <base:Heading>【発明が解決しようとする課題】</base:Heading>
+        <base:Paragraphs num="0005">個人によっては、血清中には、これら異種蛋白に対する自然抗体が存在しており、この抗体が異種蛋白と反応してしまう可能性がある。そのため診断検査薬のカットオフ値が高値になるばかりではなく、検査に先立ってその異種蛋白を血清に加えることにより、抗体に吸収をかける必要が生じ、操作が非常に煩雑になり、診断の正確性の著しい低下をまねく場合がある。</base:Paragraphs>
+        <base:Paragraphs num="0006">このような場合、ウシ血清アルブミン( Bovine serum albumin )などの担体に抗原ポリペプチドを化学的に結合させた融合抗原ポリペプチド、数種の抗原分子の混合物あるいは、病原体の粗抽出液が用いられているが、融合抗原ポリペプチドの安定供給、安全性の面で問題がある。また抗原ポリペプチドを微生物で直接発現させる方法がとられているが、抗原ポリペプチドの分子量、安定性、毒性の面から、発現が困難な場合が多く、抗原ポリペプチドを安定かつ安価に供給することはできない。</base:Paragraphs>
+        <base:Paragraphs num="0007">本発明者らは、C型肝炎の検出のために有用な抗原ポリペプチドの製造法について研究をした結果、1種以上のC型肝炎関連抗原ポリペプチドとシロザケ成長ホルモン( chum salmon growth hormone以下sGHと略記する)とがメチオニンを介して融合した形の融合抗原ポリペプチドの製造法を確立した。</base:Paragraphs>
+        <base:Paragraphs num="0008">本発明者らは、またこの融合抗原ポリペプチドを用いた抗C型肝炎抗体検出法は、従来報告されている検出法では検出できない検体についても検出できることを確認し、従来法より優れていることを見い出し本発明を完成するに至った。</base:Paragraphs>
+      </business:TechnicalProblem>
+    </business:Disclosure>
+    <base:Heading>【発明の構成】</base:Heading>
+    <base:Paragraphs num="0009">本発明は、C型肝炎関連抗原に由来する抗原ポリペプチド(以下C型肝炎関連抗原ポリペプチドと略記する)の少なくとも1つと、該抗原ポリペプチドとは異種のポリペプチド(以下異種ポリペプチドと略記する)の少なくとも1つとが融合した融合抗原ポリペプチド、該融合抗原ポリペプチドをコードするDNAを組み込んだ組換え体プラスミド、該組換え体プラスミドを含む微生物を用いる融合抗原ポリペプチドの製造法および該融合抗原ポリペプチドを用いた抗C型肝炎ウイルス抗体(抗HCV抗体)の検出法を提供する。</base:Paragraphs>
+    <base:Paragraphs num="0010">本発明に用いるC型肝炎関連抗原ポリペプチドとしてはHCV関連抗原であればいかなるものも用いることができる。具体的にはHCV関連抗原として有馬らがクローン化した、クローンNo. 2、クローンNo. 18〔有馬ら、ガストロエンターロロジア・ジャポニカ(Gastroenterologia Japonica)24,540-548(1989 ) 〕およびクローンNo. 14を用いることができる。</base:Paragraphs>
+    <base:Paragraphs num="0011">これらクローンNo. で示される抗原を以下C-2,C-14およびC-18と略記する。これら抗原のアミノ酸配列およびそれをコードするDNAのヌクレオチド配列を配列番号1-3に示す。これら3種のクローンの取得方法は、以下の通りである。まず材料としてC型肝炎患者の血漿を用いる。この血漿よりRNAを抽出し、ランダムプライマー法によりcDNAを調製する。このcDNAをcDNA cloning system λgt11キット(アマーシャム社)を用いてcDNAライブラリィーを作製する。このライブラリィーをニトロセルロース膜へ転写し、急性肝炎回復期血清と慢性肝炎患者からの血清を大腸菌菌体成分で吸収操作したものでイムノスクリーニングを行う。</base:Paragraphs>
+    <base:Paragraphs num="0012">これら3種のクローンの患者血清との反応性は、日本臨床48,27-32(1990 )に記載の方法で検出する。</base:Paragraphs>
+    <base:Paragraphs num="0013">またC-14のアミノ酸配列を変えずにDNA塩基配列を一部変換した配列を配列番号41に、配列番号41のDNA塩基配列を一部欠失させたものを配列番号42に示す。すなわち配列番号41は、C-14のDNA塩基配列のうち15番目のAをGに、33番目のAをGに、66番目のCをTに、69番目のCをTに、99番目のAをGに変換したものである。配列番号42は、配列番号41のDNA塩基配列の94番目から108番目を欠失したものである。</base:Paragraphs>
+    <base:Paragraphs num="0014">HCV関連抗原としては、サイエンス(Science) 244,359-362(1989 ) 、サイエンス(Science) 244,362-364( 1989 )、および EUROPIAN PATENT APPLICATION 0318216に記載の抗原を用いることもできる。</base:Paragraphs>
+    <base:Paragraphs num="0015">本発明に用いる異種ポリペプチドはヒト血清中の抗体と特異的に反応せず、C型肝炎関連抗原ポリペプチドと融合した形で微生物により発現されるものならいかなるものも用いることができる。具体的には、シロザケ成長ホルモン( sGH )のポリペプチドが好適に用いられる。シロザケ成長ホルモンの配列、遺伝的情報、製造法などについては、プロシィーディング・オブ・ザ・ナショナル・アカデミィ・オブ・サイエンス(Proc. Natl. Acad. Sci.) USA, 82,4306-4310(1985)、特開昭61-15699 、同61-93196 、同61-93197 および同61-210100に記載されている。</base:Paragraphs>
+    <base:Paragraphs num="0016">融合抗原ポリペプチドは、HCV関連抗原が好ましくはメチオニンを介して、分子量2000以上の異種ポリペプチドに結合した融合抗原ポリペプチドをコードするDNAを組換えDNA技術により遺伝子の読みとりフレームを合わせてベクターDNAに組み込むことにより組換え体プラスミドを造成し、これを用いて微生物を形質転換させ、この形質転換微生物を培養し、培養物中に該融合抗原ポリペプチドを生成蓄積させ、該培養物から該融合抗原ポリペプチドを採取することにより得られる。</base:Paragraphs>
+    <base:Paragraphs num="0017">ベクターDNAとしては挿入したDNAが微生物中で発現できるものならいずれでも用いることができる。好ましくは、適当なプロモーター、例えばトリプトファン(trp系) 、ラクトース(lac系)のプロモーターを持ち、その下流に目的DNAを挿入でき、しかもシャインダルガーノ配列と翻訳開始コドンとの間を適当な距離、例えば6~18塩基数に調節したプラスミドを用いることができる。</base:Paragraphs>
+    <base:Paragraphs num="0018">具体的に好適なベクターDNAとしては、pGEL1(FERM BP-629、特開昭61-93197)、pKYP10(特開昭58-110600) 、pGHA2(FERM BP-400 、特開昭60-221091) などが挙げられる。</base:Paragraphs>
+    <base:Paragraphs num="0019">微生物としては、本発明の融合抗原ポリペプチドをコードするDNAが発現して、培養物中に該ポリペプチドを生成蓄積できるものならいかなるものも用いることができる。好適にはエッシェリヒア・コリ( Escherichia coli )に属する微生物が用いられる。</base:Paragraphs>
+    <base:Heading>【作用】</base:Heading>
+    <base:Paragraphs num="0020">以下、シロザケ成長ホルモンとHCV関連抗原とを結合させた融合抗原ポリペプチドの製造法について具体的に説明する。シロザケ成長ホルモンとHCV関連抗原とをメチオニンを介して結合させた融合抗原ポリペプチドは以下の工程に従って製造される。</base:Paragraphs>
+    <base:Paragraphs num="0021">工程1-6は融合抗原ポリペプチドsGHE1, sGHEC-2, sGHEC-14, sGHEC -18S およびsGHEC -1414の製造に関し、工程7~9は融合抗原ポリペプチドsGHEC-14A および sGHEC-14B の製造に関する。</base:Paragraphs>
+    <base:Paragraphs num="0022">〔工程1〕HCV関連抗原およびリンカー遺伝子の合成
+まず、配列番号4,5,6,7,8,9,10,11,12,13, 14,15,16,17,18,および19で示されるDNAを化学合成する。これらのDNAの合成はリン酸アミダイト法による固相合成法を用いて、DNA自動合成機により行う。</base:Paragraphs>
+    <base:Paragraphs num="0023">配列番号4で表されるDNA(以下DNA4という)と配列番号5で表されるDNA(以下DNA5という)とから形成される二重鎖DNAを用いて、配列番号20で表される二重鎖DNA断片(以下遺伝子20という)を持ったプラスミドを造成する。(配列番号20中、EcoRI に向かう引出し線は、これらの制限酵素による切断部位を示す。以下同じ)</base:Paragraphs>
+    <base:Paragraphs num="0024">同様にして、配列番号6で表されるDNA(以下DNA6という)と配列番号7で表されるDNA(以下DNA7という)とから形成される二重鎖DNAおよび配列番号8で表されるDNA(以下DNA8という)と配列番号9で表されるDNA(以下DNA9という)とから形成される二重鎖DNAをリガーゼで結合して、配列番号21で表される二重鎖DNA断片(以下遺伝子21という)を持ったプラスミドを造成する。</base:Paragraphs>
+    <base:Paragraphs num="0025">同様に配列番号10で表されるDNA(以下DNA10という) と配列番号11で表されるDNA(以下DNA11という)とから形成される二重鎖DNA、配列番号12で表されるDNA(以下DNA12という)と配列番号13で表されるDNA(以下DNA13という)とから形成される二重鎖DNA、配列番号14で表されるDNA(以下DNA14という)と配列番号15で表されるDNA(以下DNA15という)とから形成される二重鎖DNAおよび配列番号16で表されるDNA(以下DNA16という)と配列番号17で表されるDNA(以下DNA17という)とから形成される二重鎖DNAをリガーゼで結合して、配列番号22で表される二重鎖DNA断片(以下遺伝子22という)を持ったプラスミドを造成する。</base:Paragraphs>
+    <base:Paragraphs num="0026">同様に配列番号18で表されるDNA(以下DNA18という)と配列番号19で表されるDNA(以下DNA19という)とから形成される二重鎖DNAを用いて、配列番号23で表される二重鎖DNA断片(以下遺伝子23という)を持ったプラスミドを造成する。</base:Paragraphs>
+    <base:Paragraphs num="0027">これら合成したDNAにより調製された二重鎖DNA断片は、各々、遺伝子20はC-2からなるペプチドを、遺伝子21はC-14からなるペプチドを、遺伝子22はC-18からなるペプチドをコードしている塩基配列を有している。遺伝子23は、シロザケ成長ホルモンと各クローンを連結するためのリンカーで、メチオニン、グルタミン酸、フェニルアラニン、そのすぐ後に終止コドンをコードしている塩基配列を有しグルタミン酸、フェニルアラニンをコードしている塩基配列は、EcoRI 認識サイトとなる。</base:Paragraphs>
+    <base:Paragraphs num="0028">〔工程2〕リンカーン遺伝子のsGH発現プラスミドへの組込み:特開昭61-93197 に記載された方法に従って製造したsGH遺伝子の発現に用いるプラスミドpSGH1B2 を用いる。pSGH1B2 の BglII-PvuI消化断片(約1.17kb)とpSGH1B2 の NsiI - PvuI消化断片(約1.80kb)と、DNA18、DNA19、とを混合しDNAリガーゼで二重鎖DNA間を結合し、アミノ末端のメチオニンとsGHの1番目から103番目のアミノ酸からなるポリペプチドにメチオニンを介してグルタミン酸、フェニルアラニンが結合したポリペプチドをコードする遺伝子を有するプラスミド pSGHE1 を造成する(図1参照)。</base:Paragraphs>
+    <base:Paragraphs num="0029">配列番号24に pSGHE1 が発現する融合ポリペプチドのアミノ酸配列とそれをコードするDNA配列および EcoRI認識サイトを示す。配列番号24中下線はリンカー領域を示す。</base:Paragraphs>
+    <base:Paragraphs num="0030">〔工程3〕  HCV関連抗原遺伝子のsGH発現プラスミドへの組み込み。
+工程2で造成した pSGHE1 を EcoRIで切断後、Bacterial Alkaline Phosphatase (BAP)で処理する。ついでHindIII, PvuIで切断し、約320bpの EcoRI-HindIII 断片と、約1.8kbの EcoRI- PvuI断片を単離する。 pSGHE1をHindIII,PvuIで切断後、約850bpのHindIII - PvuI消化断片を単離する。上記DNA断片とDNA4~DNA5から形成される二重鎖DNA断片をDNAリガーゼで結合すると、プラスミドpSGHEC-2が得られる(図2参照)。pSGHEC-2は、pSGHE1がコードするsGH遺伝子と、C-2がコードしている遺伝子をメチオニンをコードする遺伝子を介して保持する。配列番号25にpSGHEC-2が発現する融合抗原ポリペプチドのアミノ酸配列とそれをコードするDNA配列を示す。配列番号25中下線はC-2領域を示す。</base:Paragraphs>
+    <base:Paragraphs num="0031">工程2で造成した pSGHE1をEcoRIで切断後、Bacterial Alkaline Phosphatase (BAP)で処理する。ついでHindIII, PvuI で切断し、約320bpの EcoRI-HindIII 断片と、約1.8kbの EcoRI-PvuI断片を単離する。 pSGHE1をHindIII, PvuIで切断後、約850bpの HindIII- PvuI消化断片を単離する。上記DNA断片とDNA6~DNA9から形成される二重鎖DNA断片をDNAリガーゼで結合すると、プラスミドpSGHEC-14が得られる(図3参照)。pSGHEC-14は、 pSGHE1がコードするsGH遺伝子と、C-14がコードしている遺伝子をメチオニンをコードする遺伝子を介して保持する。配列番号26に pSGHEC -14が発現する融合抗原ポリペプチドのアミノ酸配列とそれをコードするDNA配列を示す。配列番号26中下線はC-14領域を示す。</base:Paragraphs>
+    <base:Paragraphs num="0032">工程2で造成した pSGHE1をEcoRIで切断後、Bacterial Alkaline Phosphatase (BAP)で処理する。ついでHindIII, PvuI で切断し、約320bpの EcoRI-HindIII 断片と、約1.8kbの EcoRI-PvuI断片を単離する。 pSGHE1をHindIII, PvuIで切断後、約850bpの HindIII- PvuI消化断片を単離する。上記DNA断片とDNA10~DNA17から形成される二重鎖DNA断片をDNAリガーゼで結合すると、プラスミドpSGHEC-18が得られる(図4参照)。pSGHEC-18は、 pSGHE1がコードするsGH遺伝子と、C-18がコードしている遺伝子をメチオニンをコードする遺伝子を介して保持する。配列番号27にpSGHEC-18が発現する融合抗原ポリペプチドのアミノ酸配列とそれをコードするDNA配列を示す。配列番号27中下線はC-18領域を示す。</base:Paragraphs>
+    <base:Paragraphs num="0033">〔工程4〕  pSGHEC-18のプロモーター置換
+pSGHEC-18をHindIII , PvuIで切断後、約2.36kbのDNA断片を単離する。pKYP10をHindIII , PvuIで切断後、約1.0kbのDNA断片を単離する。上記DNAをDNAリガーゼで結合すると、pSGHEC-18Sが得られる(図5参照)。pSGHEC-18Sは、pSGHEC-18のプロモーターを置換したもので、sGHをコードする遺伝子と、C-18がコードしている遺伝子をメチオニンをコードする遺伝子を介して保持する。pSGHEC-18Sが発現する融合抗原ポリペプチドのアミノ酸配列とそれをコードするDNA配列は配列番号27に示される。配列番号27中下線は、C-18領域を示す。</base:Paragraphs>
+    <base:Paragraphs num="0034">〔工程5〕  HCV関連抗原遺伝子を2個以上もしくは2種以上保持する発現ベクターの構築
+工程3で造成したpSGHEC-14を使用した代表例を示す。pSGHEC-14を PstI で切断する。ついで制限酵素 EcoRIで部分分解し、約1.40kbの EcoRI-PstI断片と約1.85kbの EcoRI-PstI断片を単離する。上記DNA断片をDNAリガーゼで結合するとプラスミドpSGHEC-1414が得られる(図6参照)。pSGHEC-1414は、 pSGHE1のsGHをコードする遺伝子と、C-14を2個コードしている遺伝子をメチオニンをコードする遺伝子を介して保持する。配列番号28にpSGHEC-1414が発現する融合抗原ポリペプチドのアミノ酸配列とそれをコードするDNA配列を示す。配列番号28中下線は、C-14が2連結した領域を示す。なおこの工程5により、種類の違う抗原遺伝子の連結が可能となり、キメラ抗原作製に利用できる。</base:Paragraphs>
+    <base:Paragraphs num="0035">〔工程6〕  シロザケ成長ホルモンとHCV関連抗原が結合した融合抗原ポリペプチドの生産と単離・精製
+工程2、工程3、工程4、工程5で製造したプラスミド pSGHE1、pSGHEC-2、pSGHEC-14、pSGHEC-18S、またはpSGHEC-1414を大腸菌に導入し、得られた形質転換大腸菌を培地に培養して該培養物よりシロザケ成長ホルモンとHCV関連抗原とが結合した融合抗原ポリペプチドを採取する。大腸菌菌体内に生産された目的の融合抗原ポリペプチドは非水溶性の顆粒として存在する。培養終了後、菌体を集め、これを破砕し、破砕液を遠心分離し、シロザケ成長ホルモンとHCV関連抗原とが結合した融合抗原ポリペプチドを含有する顆粒を分離する。</base:Paragraphs>
+    <base:Paragraphs num="0036">以下、融合抗原ポリペプチドの精製法について説明する。プラスミドpSGHE 1、pSGHEC-2、pSGHEC-14、pSGHEC-18S、pSGHEC-1414を保持する大腸菌が生産する融合抗原ポリペプチドは、それぞれsGHE1、 sGHEC-2、 sGHEC-14、sGHEC -18S、sGHEC -1414と記す。</base:Paragraphs>
+    <base:Paragraphs num="0037">〔工程7〕  HCV関連抗原遺伝子の合成
+まず、配列表29、30、31、32、33、34、35および36で示されるDNAを化学合成する。これらのDNAの合成はリン酸アミダイト法による固相合成法を用いて、DNA自動合成機により行う。</base:Paragraphs>
+    <base:Paragraphs num="0038">配列番号29で表されるDNA(以下DNA29という)と配列番号30で表されるDNA(以下DNA30という)とから形成される二重鎖DNA、配列番号31で表されるDNA(以下DNA31という)と配列番号32で表されるDNA(以下DNA32という)とから形成される二重鎖DNAおよび配列番号33で表されるDNA(以下DNA33という)と配列番号34で表されるDNA(以下DNA34という)とから形成される二重鎖DNAをリガーゼで結合して、配列番号37で表される二重鎖DNA断片(以下遺伝子37という)を持ったプラスミドを造成する。</base:Paragraphs>
+    <base:Paragraphs num="0039">同様にDNA29とDNA30から形成される二重鎖DNA、DNA31、DNA32とから形成される二重鎖DNAおよび配列番号35で表されるDNA(以下DNA35という)と配列番号36で表されるDNA(以下DNA36という)とから形成される二重鎖DNAをリガーゼで結合して配列番号38で表される二重鎖DNA断片(以下遺伝子38という)を持ったプラスミドを造成する。</base:Paragraphs>
+    <base:Paragraphs num="0040">これら合成したDNAにより調製された二重鎖DNA断片は、各々、遺伝子37はC-14からなるペプチドを、遺伝子38は、C-14からなるペプチドの32番目から36番目のアミノ酸を除去したペプチドをコードしている塩基配列を有している。なお遺伝子37は、C-14のアミノ酸配列を変えずに塩基配列を一部変更したもので、C-14の塩基配列のうち15番目の塩基AをGに、33番目のAをGに、66番目のCをTに、69番目のCをTに、99番目のAをGに変換したものである。遺伝子38は、遺伝子37の塩基配列の93番目から107番目を欠失した合成DNAである。</base:Paragraphs>
+    <base:Paragraphs num="0041">以下、遺伝子37から成るペプチドもしくは、それをコードしているDNAをC-14A、遺伝子38から成るペプチドもしくはそれをコードしているDNAをC-14Bと記す。</base:Paragraphs>
+    <base:Paragraphs num="0042">〔工程8〕  HCV関連抗原遺伝子のsGH発現プラスミドへの組み込み。
+工程2で造成したpSGHE1をEcoRI で切断後、Bacterial Alkaline Phosphatase(BAP) で処理する。ついでHindIII, PvuI で切断し、約320bpの EcoRI-HindIII 断片と、約1.8kb のEcoRI -PvuI断片を単離する。pSGHE 1 をHindIII 、PvuIで切断後、約850bp のHindIII -PvuI消化断片を単離する。上記DNA断片とDNA29~DNA34から形成させる二重鎖DNA断片をDNAリガーゼで結合すると、プラスミドpSGHEC-14Aが得られる(図8参照)。pSGHEC-14Aは、pSGHE1がコードするsGH 遺伝子と、C-14Aがコードしている遺伝子をメチオニンをコードする遺伝子を介して保持する。配列番号39にpSGHEC-14Aが発現する融合抗原ポリペプチドのアミノ酸配列とそれをコードするDNA配列を示す。配列番号39中下線はC-14A領域を示す。</base:Paragraphs>
+    <base:Paragraphs num="0043">工程2で造成したpSGHE1をEcoRI で切断後、Bacterial Alkaline Phosphatase(BAP) で処理する。ついでHindIII 、PvuIで切断し、約320bpのEcoRI -HindIII 断片と、約1.8kb の EcoRI-PvuI断片を単離する。 pSGHE1を HindIII、PvuIで切断後、約850bpの HindIII-PvuI消化断片を単離する。上記DNA断片とDNA29~DNA32とDNA35~DNA36とから形成される二重鎖DNA断片をDNAリガーゼで結合すると、プラスミドpSGHEC-14Bが得られる(図9参照)。pSGHEC-14Bは、pSGHE1がコードするsGH 遺伝子と、C-14Bがコードしている遺伝子をメチオニンをコードする遺伝子を介して保持する。配列番号40にpSGHEC-14Bが発現する融合抗原ポリペプチドのアミノ酸配列とそれをコードするDNA配列を示す。配列番号40中下線はC-14B領域を示す。</base:Paragraphs>
+    <base:Paragraphs num="0044">〔工程9〕  シロザケ成長ホルモンとHCV関連抗原(C-14A、C-14B)が結合した融合抗原ポリペプチドの生産と単離・精製
+工程(8)で製造したプラスミドpSGHEC-14A、pSGHEC-14Bを用いて、工程6に記載された方法で、融合抗原ポリペプチドの生産と単離・精製を行った。なお、プラスミドpSGHEC-14A、pSGHEC-14Bを保持する融合抗原ポリペプチドは、それぞれsGHEC -14A、sGHEC -14Bと記す。</base:Paragraphs>
+    <base:Paragraphs num="0045">融合抗原ポリペプチドの精製
+(1) 融合抗原ポリペプチドの粗精製画分の調製
+粗精製画分の調製は既知の方法を組合せることにより可能であるが、好ましくは下記の通りである。融合抗原ポリペプチドが顆粒として生産された場合は、特開昭60-244259に示された方法にしたがって顆粒を取得し、変性剤(好ましくは4M以上の尿素、または3M以上のグアニジン塩酸)を含む緩衝液(pH5~12)または可溶化剤溶液(好ましくは50%以上のギ酸)に溶解する。その上清を必要に応じて変性剤または可溶化剤存在下で精製後、変性剤又は可溶化剤を除去し、粗精製画分とする。変性剤または可溶化剤存在下での精製および、変性剤または可溶化剤の除去は既知の方法〔特開平1-131195、日本生化学会編、生化学実験講座1, タンパク質の化学II, 東京化学同人、P.11~P.354(1976)、日本生化学会編、続生化学実験講座2.タンパク質の化学上、東京化学同人、P.3~12、P.8~186(1987)〕を組み合わせることによってできる。</base:Paragraphs>
+    <base:Paragraphs num="0046">融合抗原ポリペプチドが菌体内可溶性画分に生産された場合は、特開昭63-17898 に示された方法にしたがって菌体破砕後、その上清を粗精製画分とし、融合蛋白質が培養上清に生産された場合は、遠心分離により培養上清を調製し、粗精製画分とする。</base:Paragraphs>
+    <base:Paragraphs num="0047">(2) 融合抗原ポリペプチドの精製方法
+粗精製画分からの融合抗原ポリペプチドの精製は既知の方法〔日本生化学会編、生化学実験講座1.タンパク質の化学II、東京化学同人、P.11~354 、P.81~186(1987)〕を組み合わせることによって可能である。</base:Paragraphs>
+    <base:Paragraphs num="0048">本発明は、また上記融合抗原ポリペプチドを用いる抗HCV抗体検出法を提供する。以下、融合抗原ポリペプチドを用いた抗HCV抗体検出方法について説明する。本発明で用いる免疫学的方法としては、下記のものがあげられ、各文献記載の方法を用いて実施できる。
+○エンザイム・イムノアッセイ(以下EIAという)
+酵素免疫測定法、医学書院、石川栄治ら、1978年、
+○ラジオ・イムノアッセイ(以下RIAという)免疫血清学、医歯薬  出版、稲井真彌ら、1981年
+○フルオレッセンス・イムノアッセイ(以下 FIAという)
+同      上
+○逆受身凝集反応
+同      上
+○フィトヘマトアグリチネーション
+同      上
+○レーザーネフロメトリー
+同      上
+○免疫溶血反応(赤血球またはリポソームを用いる方法)
+同      上
+○パーティクルアグリチネーション
+最新検査、医典社、VOL.2  No. 2.151 ~157、1984、Gann  75、  845 、1984
+○ウエスタン・ブロッティング
+RIA,EIA,FIAにおいては、均一系のみならず、サンドイッチ法などの不均一系の分析方法も可能である。</base:Paragraphs>
+    <base:Paragraphs num="0049">具体例としてEIAをサンドイッチ法で行う例を下記に示す。融合抗原ポリペプチドをマイクロタイタープレートのウェルにコーティングし、血清試料を適当な緩衝液たとえば緩衝液A〔0.15M  NaCl、0.1%ゼラチン、1%牛血清アルブミンおよび  0.1% NaN3 を含む1/15Mリン酸ナトリウム緩衝液(pH7.2)〕で希釈した液をウェルに入れ、4~37℃、1時間~1週間静置し、適当な緩衝液、たとえば緩衝液B〔0.05% Tween20および  0.15MNaClを含む1/15Mリン酸ナトリウム緩衝液(pH7.2)〕でウェルをよく洗浄する。</base:Paragraphs>
+    <base:Paragraphs num="0050">ウサギ抗ヒト免疫グロブリン抗体のFab フラグメントとホースラディッシュパーオキシダーゼとを過沃素酸法により結合させたコンジュゲートを適当な緩衝液、たとえば緩衝液Bで希釈した液をウェルに入れる。4~45℃で1~24時間静置後、同じ緩衝液で洗浄する。ついで適当な基質溶液たとえばオルソ・フェニレンジアミン基質溶液〔0.02%オルソ・フェニレンジアミンおよび35mM過酸化水素を含む1/15Mリン酸ナトリウム緩衝液(pH7.2)〕をウェルに入れ、15~37℃で5~60分間静置する。2N H2SO4で反応を停止させ、室温で1~10分間放置後、マイクロタイタープレート用フォトメーターで410nmおよび600nmにおける吸光度(O.D.) を測定し、前者の値から後者の値を差し引いた値を抗体値とする。</base:Paragraphs>
+    <base:Paragraphs num="0051">ここに示した方法は一例示であり、抗体や基質液、発色剤などの変更は、適宜行うことができる。</base:Paragraphs>
+    <base:Paragraphs num="0052">ウエスタン・ブロッティング法で行う抗HCV抗体測定例を下記に示す。精製された融合抗原ポリペプチドを直接レムリのサンプルバッファーで加熱、溶解後、SDS-ポリアクリルアミドゲルで泳動する。同一ゲル上の蛋白質をニトロセルロース膜に移した後、正常人血清、C型肝炎患者血清を用いてウエスタン・ブロッティング〔バーネット(Burnett) 、アナール  バイオケミカル(Anal.Biochem.)112 ,195(1981)〕を行う。</base:Paragraphs>
+    <base:Paragraphs num="0053">上記組換えDNA技術における反応の条件は、一般的に下記のとおりである。DNAの制限酵素による消化反応は、通常0.1~20μgのDNAを2~200mM(好ましくは10~40mM)のトリス-HCl ( pH6.0~9.5好ましくはpH7.0~8.0)、0~200mM NaCl またはKCl 、2~30mM(好ましくは5~10mM)の MgCl2、0~20mMの2-メルカプトエタノールを含む反応液中で、制限酵素0.1~100単位(好ましくは1μgのDNAに対して1~3単位)を用い、20~70℃(至適温度は用いる制限酵素により異なる)において、15分間~24時間行う。</base:Paragraphs>
+    <base:Paragraphs num="0054">制限酵素消化によって生じたDNA断片の精製は、LGT法やポリアクリルアミドゲル電気泳動法などによって行う。DNA断片の結合反応は、2~200mM(好ましくは10~40mM) のトリス-HCl(pH6.1~9.5、好ましくはpH7.0~8.0)、2~20mM(好ましくは5~10mM) の MgCl2、0.1~10mM(好ましくは0.5 ~2.0mM)のATP、1~50mM(好ましくは5~10mM)のジチオスレイトールを含む反応液中で、T4DNAリガーゼ0.3~10単位を用い、1~37℃(好ましくは3~20℃)で15分間~72時間(好ましくは2~20時間)行う。</base:Paragraphs>
+    <base:Paragraphs num="0055">結合反応によって生じた組換え体プラスミドDNAは、必要によりコーエンらの形質転換法〔エス・エヌ・コーエン(S. N. Cohen) ら:プロシーディング・オブ・ザ・ナショナル・アカデミイ・オブ・サイエンス(Proc. Natl. Acad. Sci.)、USA、69 , 2110 ( 1972 )〕によって、大腸菌に導入する。</base:Paragraphs>
+    <base:Paragraphs num="0056">組換え体プラスミドDNAを持つ大腸菌から該DNAの単離は、セシウム・クロライド-エチジウム・ブロミド密度勾配超遠心法〔ディー・ビー・クレウェル(D. B. Clewell) ら:プロシーディング・オブ・ザ・ナショナル・アカデミイ・オブ・サイエンス(Proc. Natl. Acad.Sci.) ,USA,62 , 1159(1969)〕あるいはバーンボイム(Birnboim)らの方法〔エイチ・シー・バーンボイム(H. C. Birnboim)ら:ヌクレイック・アシド・リサーチ(Nucleic Acids Res.)7, 1513(1979)〕などを用いて行う。</base:Paragraphs>
+    <base:Paragraphs num="0057">プラスミドDNAを制限酵素で消化後アガロースゲル電気泳動あるいはポリアクリルアミドゲル電気泳動により切断部位を調べる。さらにDNAの塩基配列を決定する必要があるときはマキサム・ギルバート法〔プロシーディング・オブ・ザ・ナショナル・アカデミイ・オブ・サイエンス(Proc.Natl. Acad. Sci.), USA , 74,560(1977 )〕またはM13ファージを用いたサンガー(Sanger)法〔サンガー(Sanger)ら: プロシーディング・オブ・ザ・ナショナル・アカデミイ・オブ・サイエンス(Proc. Natl. Acad. Sci.), USA :74,5463(1977):アマーシャム( Amersham )社  M13クローニング・アンド・シークエンシング・ハンドブック( Cloning and sequencing handbook ) 〕によって決定する。</base:Paragraphs>
+    <base:Paragraphs num="0058">本発明の融合抗原ポリペプチドは以下のとおりに製造できる。すなわち、プラスミドを用いて大腸菌 W3110 strA やHB101 を形質転換させ、アンピシリン耐性のコロニーの中からプラスミドを有する大腸菌を選び出す。プラスミドを有する大腸菌を培地に培養することにより培養物中に融合抗原ポリペプチドを生成させることができる。</base:Paragraphs>
+    <base:Paragraphs num="0059">ここで用いる培地としては大腸菌の生育ならびに融合抗原ポリペプチドの生産に好適なものならば合成培地、天然培地のいずれも使用できる。</base:Paragraphs>
+    <base:Paragraphs num="0060">炭素源としては、グルコース、フラクトース、ラクトース、グリセロール、マンニトール、ソルビトールなどが、窒素源としては、NH4Cl 、(NH4)2SO4 、カザミノ酸、酵母エキス、ポリペプトン、肉エキス、バクトトリプトン、コーン・スティープ・リカーなどが、その他の栄養源としては、K2HPO4、KH2PO4、NaCl、MgSO4 、ビタミンB1 、 MgCl2などが使用できる。</base:Paragraphs>
+    <base:Paragraphs num="0061">培養はpH5.5~8.5、温度18~40℃で通気攪拌培養により行われる。</base:Paragraphs>
+    <base:Paragraphs num="0062">培養5~90時間で培養菌体中に該融合抗原ポリペプチドが非水溶性の顆粒として蓄積するので、培養物から菌体を集菌し、菌体を破砕し、破砕液を遠心分離して得られる沈殿物よりゲル濾過カラムクロマトグラフィー、 HPLC 等を用いて該融合抗原ポリペプチドを採取する。また該融合抗原ポリペプチドの検出は培養菌体を直接レムリ(Laemmli )のサンプルバッファー〔レムリ( Laemmli)、ネイチャー(Nature)227,680( 1970 )〕に加熱、溶解後、SDS-ポリアクリルアミドゲル〔レムリ(Laemmli) の方法:同上文献〕にかけ、クマシーブリリアントブルー(Coomassie BrilliantBlue )色素〔バイオ・ラッド( Bio-Rad ) 社製〕を用いて染色して行う。</base:Paragraphs>
+    <business:InventionMode>
+      <base:Heading>【実施例】</base:Heading>
+      <base:Paragraphs num="0063">実施例1  DNA4~19の製造
+DNA4~19の合成はリン酸アミダイト法による固相合成法〔S. L. Beaucageら、テトラヘドロン・レターズ( Tetrahedron Letters ) 22,1859( 1981 )、L. J. McBrieら、同24,245( 1983 )〕に従い、アプライドバイオシステム社のDNA自動合成機380Aを用いて下記のとおり行った。</base:Paragraphs>
+      <base:Paragraphs num="0064">シリカゲルを固相担体とし、これに3′水酸基を介して結合したヌクレオチドの5′水酸基に(1) ヌクレオチドをリン酸アミダイト法により縮合し(2) 縮合したヌクレオチドの亜リン酸結合を沃素で酸化してリン酸結合にし、(3) 縮合したヌクレオチドの5′水酸基上の保護基をトリフルオロ酢酸で除去した。次に(1)の工程に戻って次のヌクレオチドを同様に縮合した。こうして (1)~(3) の工程が繰り返されてDNAが担体上に合成された。合成終了後、DNA の結合した担体をチオフェノール溶液中に室温で1時間放置してリン酸の保護基を除去した後、濃アンモニア水中に室温で1時間放置してDNAを担体から遊離させた。DNAを含む濃アンモニア水を密封容器中60℃にて12時間加熱して塩基上の保護基を除去した。</base:Paragraphs>
+      <base:Paragraphs num="0065">DNA4を例にとると、0.2μmoleのヌクレオチドの結合した担体を用いて合成を行い、次いで保護基の除去と固相からの遊離反応を行って DNA4の粗生成物21  O.D.単位(260nmで測定)を得た。この粗生成物の5  O.D.単位を7M尿素を含むトリス-硼酸緩衝液(pH8)を用いて10%ポリアクリルアミドゲル(2mm厚、13cm×13cm) の電気泳動で精製し、DNA4を含むゲルの領域をとり、0.2M炭酸トリエチルアミン緩衝液 (pH8)(以下TEABという) 1mlでDNA4を18時間かけて抽出し、ついでその抽出液をセファデックスDE52のカラム(径6mm、長さ5mm) に通してDNA4を吸着させた。2M  TEAB2mlで溶出して1.4  O.D.単位のDNA4の純品を得た。</base:Paragraphs>
+      <base:Paragraphs num="0066">DNA4以外のDNAも同程度の収率で合成された。これらDNAの5´水酸基をファージT4ポリヌクレオチドキナーゼと〔γ-32P〕ATPを用いる常法〔 A. M. Maxamら、メソッヅ・イン・エンザイモロジイ(Methods in Enzymology)Vol. 65,Part1,p.499, AcademicPress(1980) 〕でリン酸化して放射性ラベルをつけた。ラベルをつけたDNAを7M尿素を含むトリス-硼酸緩衝液で12%ポリアクリルアミドゲル電気泳動を行い、DNAの純度と鎖長を確認した。</base:Paragraphs>
+      <base:Paragraphs num="0067">実施例2  プラスミドpKYP10およびpSGH1B2 の分離精製
+pKYP10を含む大腸菌〔Escherichia coli HB101, ボリバー(Bolivar) ら;ジーン(Gene)、2,75(1977)〕およびpSGH1B2 を含む大腸菌〔Escherichia coli HB101〕〔特開昭61-93197 〕をそれぞれ50μg /mlのアンピシリンを含むL培地(1%バクトトリプトン、0.5%酵母エキス、1%NaCl、pH7.5)10ml、で37℃、18時間培養した。</base:Paragraphs>
+      <base:Paragraphs num="0068">この培養液全量を50μg /mlのアンピシリンを含むL培地1l に植菌し、37℃で培養した。4時間後に、クロラムフェニコールを170 μg /mlとなるように加え、さらに37℃、16時間培養した。遠心分離法(5,000rpm  10分間)により集菌を行い、0.8% NaCl で菌体を洗浄した後、50mMトリス塩酸(pH8.0)20mlに懸濁し、氷冷した。10mg/mlのリゾチームを8ml加え氷中に10分間静置した後、0.5M  EDTAを9.6ml加え、氷中に10分間静置し、2%トリトンX-100(和光純薬工業社製)を2.3ml加え氷中にさらに1時間静置した。50,000×gで4℃、1時間超遠心分離を行い、上清約40mlを得た。次にこの上清に3M  NaOHを加えpHを12.5として、室温で10分間静かに攪拌した。</base:Paragraphs>
+      <base:Paragraphs num="0069">2Mトリス塩酸(pH7.5)を加え、pHを8.5にもどし、さらに3分間攪拌した。この時点で液の容量は約55mlであった。1/9 容の5M  NaClを加えた後、10mMトリス塩酸(pH7.5)、1mMEDTAで飽和したフェノールを等量加え、激しく攪拌した後、低速遠心分離法(3,300 rpm 、10分間、以下同条件)により水層を集めた(以下、この処理をフェノール抽出と略記する。)。 1/250 容の5mg/ml RNase A( シグマ社製)を加え、37℃、1時間RNA分解反応を行った後1/5 容の5M  NaClを加え、 1/3 容の30%PEG6000(半井化学薬品社製)を加え-20℃に2時間静置した。遠心分離法で沈殿を集め、10mMトリス塩酸(pH7.5) および1mMEDTAからなる液2mlに溶かし、ソジウム・ドデシル・サルフェイト(SDS) を0.5%となるように加え、ProteinaseK(シグマ社製)を50μg /mlとなるように加えて、37℃、1時間蛋白質分解反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0070">フェノール抽出を3回繰り返し行った後、等量のクロロホルムを加え、激しく攪拌した後低速遠心分離法により水層を集めた。 1/10容の3M酢酸ナトリウムを加え、2.5倍容のエタノールを加え、-20℃、1時間静置した。冷却遠心分離法(4℃、11,000rpm 10分間)で沈殿を集め、10mMトリス塩酸(pH7.5)および1mMEDTAからなる液1mlに溶かした。このようにして pKYP10 およびpSGH1B2 各々800 μgを得ることができた。pKYP10の構造は、EcoRI 、KpnI、BamHI、BglII 、PstI(宝酒造社製)で切断してアガロースゲル電気泳動で確認した。また、pSGH1B2 の構造は、EcoRI 、HindIII 、BglII 、BamHI 、NsiI、PstI(宝酒造社製)で切断してアガロースゲル電気泳動で確認した。</base:Paragraphs>
+      <base:Paragraphs num="0071">実施例3  プラスミドpSGHE1の作製
+実施例2で得たプラスミドpSGH1B2 2μg を制限酵素PvuI(宝酒造社製)10単位、 BglII(宝酒造社製)10単位、NsiI(宝酒造社製) 10単位を含む溶液〔10mMトリス-HCl (pH7.5)、7mM MgCl2、6mM  2-メルカプトエタノール、100mM NaCl 〕30μl に溶解し、37℃、2時間消化反応を行った。この反応液をエチジウムプロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)で検出して約1.17kbと約1.80kbのDNAを含むゲル片を切り出した。ゲル片にフェノール0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上部DNAを回収した。</base:Paragraphs>
+      <base:Paragraphs num="0072">DNA18,DNA19各10pmole を各々T4ポリヌクレオチドキナーゼ反応用緩衝液〔50mMトリス-HCl(pH7.5)、10mM MgCl2、5mMジチオスレイトール(以下DTTと略記する)、1mM  ATP、0.1mMスペルミジン、0.1mMEDTA〕30μl ずつに溶解し、T4ポリヌクレオチドキナーゼ(宝酒造社製)3単位を加え、37℃、40分間リン酸化反応を行った後、65℃で15分間加熱して酵素を失活させた。この反応液を4μlずつ混合し、上記で得たDNA断片を各々0.08pmole 加え、T4リガーゼ反応用緩衝液〔28mMトリス-HCl(pH7.5)、9mM MgCl2、10mM  DTT、0.03mM  EDTA、0.7mM  ATP、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175単位を加え、30μl とした。4℃で16時間結合反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0073">この反応液を用いて大腸菌 HB101株〔ボリバー(Bolivar) ら;ジーン(Gene)、2,75(1977)〕を Cohenらの方法〔エス・エヌ・コーエン(S. N.Cohen ) ら;プロシーディング・オブ・ザ・ナショナル・アカデミイ・オブ・サイエンス(Proc. Natl. Acad. Sci.),USA、69,2110( 1972 )〕により形質転換し、アンピシリン耐性( Apr ) のコロニーを得た。このコロニーよりアルカリ処理法〔マニアティス  (Maniatis)ら編;モレキュラー・クローニング(Molecular Cloning) 、p.368 ,コールド・スプリングハーバー(Cold SpringHarbor)社刊〕によってプラスミドDNAを回収し、pSGHE1を得た。pSGHE1の構造は、Bgl II、PvuI、Hind III、EcoRI 、NsiIで切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl (pH7.5)、7mM MgCl2、6mM  2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM) NaCl を加えた反応液を用いて行った。</base:Paragraphs>
+      <base:Paragraphs num="0074">実施例4  プラスミドpSGHEC-2の作製
+実施例3で得たプラスミドpSGHE1の2μg を実施例3に示した制限酵素用反応液(100mM  NaCl) 30μl に溶解し、 EcoRI(宝酒造社製) 10単位を加え37℃で2時間消化反応を行った。次にこの反応液に Bacterial Alkaline Phosphatase (宝酒造社製)を1単位加え65℃で30分間反応させた。ついでHindIII(宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。同時にpSGHE1をHindIII (宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え、37℃、2時間消化反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0075">上記反応液をエチジウムブロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)で検出して約320b、約850bと約1.8kbのDNA断片を切り出した。ゲル片にフェノール  0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上記DNA断片を回収した。</base:Paragraphs>
+      <base:Paragraphs num="0076">DNA4,DNA5,各10pmole を各々T4ポリヌクレオチドキナーゼ反応用緩衝液〔50mMトリス-HCl (pH7.5)、10mM  MgCl2 、5mMDTT、1mMATP 、0.1mMスペルミジン、0.1mM  EDTA〕30μl ずつに溶解し、T4ポリヌクレオチドキナーゼ(宝酒造社製)3単位を加え37℃、40分間リン酸化反応を行った後、65℃で15分間加熱して酵素を失活させた。この反応液を4μl ずつ混合し、上記で得たDNA断片を各々0.08pmole を加え、T4リガーゼ反応用緩衝液〔28mMトリス-HCl(pH7.5)、9mM MgCl2、10mM  DTT、0.03mMEDTA、0.7mM  ATP、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175単位を加え、30μlとした。4℃で16時間結合反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0077">この反応液を用いて大腸菌 HB101株を Cohenらの方法により形質転換し、アンピシリン耐性( Apr ) のコロニーを得た。このコロニーよりアルカリ処理法によってプラスミドDNAを回収し、pSGHEC-2を得た。pSGHEC-2の構造は、BglII、PvuI、HindIII 、EcoRI で切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl (pH7.5)、7mM  MgCl2 、6mM 2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM) NaClを加えた反応液を用いて行った。</base:Paragraphs>
+      <base:Paragraphs num="0078">pSGHEC-2を含む大腸菌菌株は Escherichia  coli SGHEC2、FERM  BP-2732としてブダペスト条約の条件で工業技術院微生物工業技術研究所(微工研)に平成2年1月18日付で寄託してある。</base:Paragraphs>
+      <base:Paragraphs num="0079">実施例5  プラスミドpSGHEC-14の作製
+実施例3で得たプラスミドpSGHE1の2μg を実施例2に示した制限酵素用反応液 (100 mM  NaCl) 30μl に溶解し、 EcoRI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。次にこの反応液にBacterial Alkaline Phosphatase(宝酒造社製)を1単位加え65℃で30分間反応させた。ついでHindIII (宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。同時にpSGHE1をHindIII (宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え、37℃、2時間消化反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0080">この反応液をエチジウムブロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)検出して約320b、約850bと約1.8kbの  DNA断片を切り出した。ゲル片にフェノール0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上記DNA断片を回収した。</base:Paragraphs>
+      <base:Paragraphs num="0081">DNA6~9,各10pmole を各々T4ポリヌクレオチドキナーゼ反応用緩衝液〔50mMトリス-HCl(pH7.5)、10mM  MgCl2 、5mM DTT、1mM  ATP、0.1mMスペルミジン、0.1mM EDTA 〕30μl ずつに溶解し、T4ポリヌクレオチドキナーゼ(宝酒造社製)3単位を加え、37℃、40分間リン酸化反応を行った後、65℃で15分間加熱して酵素を失活させた。この反応液を4μl ずつ混合し、上記で得たDNA断片を各々0.08pmole 加え、T4リガーゼ反応用緩衝液〔28mMトリス-HCl (pH7.5) 、9mM  MgCl2 、10mM  DTT、0.03mM  EDTA、0.7mM  ATP、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175単位を加え、30μl とした。4℃で16時間結合反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0082">この反応液を用いて大腸菌 HB101株を Cohenらの方法により形質転換し、アンピシリ耐性( Apr ) のコロニーを得た。このコロニーよりアルカリ処理法によってプラスミドDNAを回収し、pSGHEC-14を得た。pSGHEC-14の構造は、Bgl II、PvuI、HindIII 、EcoRIで切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl(pH7.5)、7mM  MgCl2 、6mM2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM ) NaCl を加えた反応液を用いて行った。</base:Paragraphs>
+      <base:Paragraphs num="0083">pSGHEC-14を含む大腸菌菌株は Escherichia coli SGHEC 14、 FERM BP-2731としてブダペスト条約の条件で工業技術院微生物工業技術研究所(微工研)に平成2年1月18日付で寄託してある。</base:Paragraphs>
+      <base:Paragraphs num="0084">実施例6  プラスミドpSGHEC-18の作製
+実施例3で得たプラスミドpSGHE1の2μg を実施例2に示した制限酵素用反応液 (100mM  NaCl)30μl に溶解し、 EcoRI(宝酒造社製) 10単位を加え37℃で2時間消化反応を行った。次にこの反応液に Bacterial Alkaline Phosphatase (宝酒造社製)を1単位加え65℃で30分間反応させた。ついでHindIII(宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。同時にpSGHE1をHindIII (宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え、37℃、2時間消化反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0085">この反応液をエチジウムブロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)で検出して約320b、約850bと約1.8kbのDNA断片を切り出した。ゲル片にフェノール  0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上記DNA断片を回収した。</base:Paragraphs>
+      <base:Paragraphs num="0086">DNA10~17,各10pmole を各々T4ポリヌクレオチドキナーゼ反応用緩衝液〔50mMトリス-HCl (pH7.5)、10mM  MgCl2、5mM  DTT、1mMATP、0.1mMスペルミジン、0.1mM  EDTA〕30μl ずつに溶解し、T4ポリヌクレオチドキナーゼ(宝酒造社製) 3単位を加え37℃、40分間リン酸化反応を行った後、65℃で15分間加熱して酵素を失活させた。この反応液を4μl ずつ混合し、上記で得たDNA断片を各々0.08pmole を加え、T4リガーゼ反応用緩衝液〔28mMトリス-HCl(pH7.5) 、9mM  MgCl2 、10mM  DTT、0.03mM  EDTA、0.7mM  ATP、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175単位を加え、30μl とした。4℃で16時間結合反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0087">この反応液を用いて大腸菌 HB101株を Cohenらの方法により形質転換し、アンピシリン耐性( Apr )のコロニーを得た。このコロニーよりアルカリ処理法によってプラスミドDNAを回収し、pSGHEC-18を得た。pSGHEC-18の構造は、Bgl II、PvuI、HindIII 、EcoRIで切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl (pH7.5)、7mM  MgCl2 、6mM  2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM )NaClを加えた反応液を用いて行った。</base:Paragraphs>
+      <base:Paragraphs num="0088">実施例7  プラスミドpSGHEC-18Sの作製
+実施例6で得たプラスミドpSGHEC-18 とpKYP10(特開昭58-110600) の各2μg を、HindIII (宝酒造社製)10単位、PvuI(宝酒造社製) 10単位を含む溶液〔10mMトリス-HCl (pH7.5)、7mM  MgCl2 、6mM  2-メルカプトエタノール、100mM  NaCl〕30μl に溶解し、37℃、2時間消化反応を行った。この反応液をエチジウムプロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)で検出してpSGHEC-18の約2.36kb  DNA断片とpKYP10の約  1.1kbDNA断片を切り出した。ゲル片にフェノール0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上記DNA断片を回収した。</base:Paragraphs>
+      <base:Paragraphs num="0089">上記で得たDNA断片各々0.08pmole を混合し、T4リガーゼ反応用緩衝液〔28mMトリス-HCl (pH7.5) 、9mM MgCl2、10mM  DTT、0.03mM  EDTA、0.7mM  ATP、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175単位を加え、30μl とした。4℃で16時間結合反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0090">この反応液を用いて大腸菌 HB101株を Cohenらの方法により形質転換し、アンピシリン耐性( Apr )のコロニーを得た。このコロニーよりアルカリ処理法によってプラスミドDNAを回収し、pSGHEC-18Sを得た。pSGHEC-18Sの構造は、Bgl II、PvuI、HindIII 、EcoRI で切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl (pH7.5)、7mM  MgCl2 、6mM  2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM ) NaCl を加えた反応液を用いて行った。</base:Paragraphs>
+      <base:Paragraphs num="0091">pSGHEC-18Sを含む大腸菌菌株はEscherichia coli SGHEC18S、FERM  BP-2729としてブダペスト条約の条件で工業技術院微生物工業技術研究所(微工研)に平成2年1月18日付で寄託してある。</base:Paragraphs>
+      <base:Paragraphs num="0092">実施例8  プラスミドpSGHEC-1414の作製
+実施例5で得たプラスミドpSGHEC-14の5μg を実施例3に示した制限酵素用反応液(100mM NaCl )30μl に溶解し、PstI(宝酒造社製)10単位を加え、37℃で2時間消化反応を行った。次にこの反応液に EcoRI(宝酒造社製)1単位を加え37℃で1時間部分消化を行った。この反応液をエチジウムブロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)で検出して約1.4kbの  DNA断片と約1.85kbのDNA断片を切り出した。ゲル片にフェノール0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上記DNA断片を回収した。</base:Paragraphs>
+      <base:Paragraphs num="0093">上記で得たDNA断片各々0.08pmole を10μl になるよう混合し、T4リガーゼ反応用緩衝液〔28mMトリス-HCl (pH7.5) 、9mM MgCl2、10mM  DTT、0.03mM  EDTA、0.7mM  ATP 、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175単位を加え、30μl とした。4℃で16時間結合反応を行った。</base:Paragraphs>
+      <base:Paragraphs num="0094">この反応液を用いて大腸菌 HB101株を Cohenらの方法により形質転換し、アンピシリン耐性( Apr )のコロニーを得た。このコロニーよりアルカリ処理法によってプラスミドDNAを回収し、pSGHEC-1414を得た。pSGHEC-1414の構造は、Bgl II、PvuI、HindIII 、EcoRI で切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl (pH7.5)、7mM  MgCl2 、6mM  2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM ) NaCl を加えた反応液を用いて行った。</base:Paragraphs>
+      <base:Paragraphs num="0095">pSGHEC-1414を含む大腸菌菌株は Escherichia coli SGHEC1414 、FERM  BP-2730としてブダペスト条約の条件で工業技術院微生物工業技術研究所(微工研)に平成2年1月18日付で寄託してある。</base:Paragraphs>
+      <base:Paragraphs num="0096">実施例9  プラスミドpSGHE1を導入した大腸菌によるsGHE1 の生産
+実施例3で得られたpSGHE1を用いて実施例3に示した方法で大腸菌W3110 strA( FERM BP-732 ) を形質転換した。得られたAprのコロニーを8mlのLG培地(1%バクトトリプトン、0.5%酵母エキス、0.5% NaCl 、0.1%グルコース、50μg/mlアンピシリン、pH7.4)に接種し、30℃、16時間培養した。この培養液200μl を10mlのMCG培地(0.6% Na2HPO4、0.3%KH2PO4、0.05% NaCl 、0.1% NH4Cl、0.5%グルコース、0.5%カザミノ酸、1mM MgSO4、0.1mM CaCl2、4μg/mlビタミンB1 、pH7.4)に50μg/mlのアンピシリンを添加した培地に接種し、30℃、24時間培養した。</base:Paragraphs>
+      <base:Paragraphs num="0097">培養液を7,000rpmで5分間遠心分離して菌体を集め、この菌体をレムリ(Laemm li) のサンプルバッファーに溶解し、加熱後、レムリの方法に従ってSDS-ポリアクリルアミドゲル電気泳動を行い、クマシーブリリアントブルーを用いて染色した結果、分子量約12600 の部位にポリペプチドバンドを検出した(図7A参照)。pSGHE1を含まない大腸菌 W3110 strA 株には相当するバンドは存在しなかった。このことはsGHE1 を保有する大腸菌 W3110strA 株がsGHE1 を生産していることを示している。</base:Paragraphs>
+      <base:Paragraphs num="0098">実施例10  プラスミドpSGHEC-2を導入した大腸菌による sGHEC-2の生産
+実施例4で得られたpSGHEC-2を用いて実施例3に示した方法で大腸菌 W3110strA( FERM BP-732) を形質転換した。得られたApr のコロニーを実施例9と同様にLG培地に接種し、30℃、16時間培養した。</base:Paragraphs>
+      <base:Paragraphs num="0099">この培養液200μl を10mlのMCG培地に50μg /mlのアンピシリンを添加した培地に接種し、30℃、24時間培養した。培養液を7,000rpmで5分間遠心分離して菌体を集め、この菌体をレムリのサンプルバッファーに溶解し、加熱後、SDS-ポリアクリルアミドゲル電気泳動を行い、クマシーブリリアントブルーを用いて染色した結果、分子量約14800 の部位にポリペプチドバンドを検出した(図7B参照)。pSGHEC-2を含まない大腸菌 W3110 strA 株には相当するバンドは存在しなかった。このことは、pSGHEC-2を保有する大腸菌W3110  strA 株が、C-2によりコードされるHCV関連抗原とsGH との融合抗原ポリペプチド sGHEC-2を生産していることを示している。</base:Paragraphs>
+      <base:Paragraphs num="0100">実施例11  プラスミドpSGHEC-14を導入した大腸菌による融合抗原ポリペプチドの生産
+実施例5で得られたpSGHEC-14を用いて実施例3に示した方法で大腸菌 W3110 strA( FERM BP-732) を形質転換した。得られたApr のコロニーを実施例9と同様にLG培地に接種し、30℃、16時間培養した。</base:Paragraphs>
+      <base:Paragraphs num="0101">この培養液200μl を10mlのMCG培地に50μg /mlのアンピシリンを添加した培地に接種し、30℃、24時間培養した。培養液を7,000rpmで5分間遠心分離して菌体を集め、この菌体をレムリのサンプルバッファーに溶解し、加熱後、SDS-ポリアクリルアミドゲル電気泳動を行い、クマシーブリリアントブルーを用いて染色した結果、分子量約17100 の部位にポリペプチドバンドを検出した(図7C参照)。pSGHEC-14を含まない大腸菌 W3110 strA株には相当するバンドは存在しなかった。このことは、pSGHEC-14を保有する大腸菌 W3110 strA 株が、C-14によりコードされるHCV関連抗原とsGHとの融合抗原ポリペプチド sGHEC-14を生産していることを示している。</base:Paragraphs>
+      <base:Paragraphs num="0102">実施例12  プラスミドpSGHEC-18S を導入した大腸菌による融合抗原ポリペプチドの生産
+実施例7で得られたpSGHEC-18S を用いて実施例3に示した方法で大腸菌 W3110 strA 株(FERM BP-732) を形質転換した。得られたApr のコロニーを実施例9と同様にLG培地に接種し、30℃、16時間培養した。</base:Paragraphs>
+      <base:Paragraphs num="0103">この培養液200μl を25μg /mlのトリプトファンと30μg /mlのアンピシリンを含むMCG培地〔Na2HPO4 0.6%、KH2PO4 0.3 %、 NaCl 0.5%、カザミノ酸0.5%、MgSO4 1mM、ビタミンB1 4μg /ml、pH7.4〕10mlに接種し、30℃で4~8時間培養後、トリプトファンの誘導物質である3β-インドールアクリル酸(3β-indoleacrylic acid ,以下IAAと略す)を10μg/ml加え、さらに2~12時間培養を続けた。</base:Paragraphs>
+      <base:Paragraphs num="0104">培養液を7,000rpmで5分間遠心分離して菌体を集め、この菌体をレムリのサンプルバッファーに溶解し、加熱後、SDS-ポリアクリルアミドゲル電気泳動を行い、クマシーブリリアントブルーを用いて染色した結果、分子量約20400 の部位にポリペプチドバンドを検出した(図7D参照)。pSGHEC-18S を含まない大腸菌 W3110 strA 株には相当するバンドは存在しなかった。このことは、pSGHEC-18S を保有する大腸菌 W3110 strA 株が、C-18によりコードされるHCV関連抗原とsGH との融合抗原ポリペプチド sGHEC-18Sを生産していることを示している。</base:Paragraphs>
+      <base:Paragraphs num="0105">実施例13  プラスミドpSGHEC-1414を導入した大腸菌による融合抗原ポリペプチドの生産
+実施例8で得られたpSGHEC-1414を用いて実施例3に示した方法で大腸菌 W3110 strA( FERM BP-732)を形質転換した。得られたApr のコロニーを実施例9と同様にLG培地に接種し、30℃、16時間培養した。この培養液200μl を10mlのMCG培地に50μg /mlのアンピシリンを添加した培地に接種し、30℃、24時間培養した。培養液を7,000rpmで5分間遠心分離して菌体を集め、この菌体をレムリのサンプルバッファーに溶解し、加熱後、SDS-ポリアクリルアミドゲル電気泳動を行い、クマシーブリリアントブルーを用いて染色した結果、分子量約21700 の部位にポリペプチドバンドを検出した(図7E参照)。pSGHEC-1414を含まない大腸菌 W3110strA株には相当するバンドは存在しなかった。このことは、pSGHEC-1414を保有する大腸菌 W3110strA株が、C-14にコードされているHCV関連抗原を2個とsGHとの融合抗原ポリペプチド sGHEC-1414を生産していることを示している。</base:Paragraphs>
+      <base:Paragraphs num="0106">実施例14  大腸菌によって産生された sGHEC-14ポリペプチドの精製
+実施例11によって得られた培養液を8000rpm 、40分間遠心して集菌し、30mM NaCl 、30mMTris-HCl 緩衝液(pH7.5)で洗浄した。sGHEC -14は大腸菌内に顆粒として発現した。まず、洗浄菌体から sGHEC-14顆粒を特開昭60-244259 に示された方法に従い純度90%にまで精製した。この顆粒800mgを70%ギ酸に可溶化し、40mlとし、12000rpm、20分間遠心後、逆相HPLCを用い、 sGHEC-14を精製した。逆相HPLCの操作条件は以下のとおりである。</base:Paragraphs>
+      <base:Paragraphs num="0107">カラム:Hi-PORE  C4 21.5mm×25cm(バイオラッド社製)
+A  液:0.1%トリフルオロ酢酸、15%アセトニトリル
+B  液:0.1%トリフルオロ酢酸、90%アセトニトリル
+グラジエント:</base:Paragraphs>
+    </business:InventionMode>
+    <base:Heading>【表1】</base:Heading>
+    <base:Paragraphs num="0108">
+      <base:Image id="000003" file="93001099_000003.TIF" he="110" wi="067" imgContent="undefined" imgFormat="TIFF" />
+    </base:Paragraphs>
+    <base:Paragraphs num="0109">sGHEC-14は逆相HPLCにおいて、グラジエント開始後26~28分に溶出された。この溶出画分40mlを1mlずつ分注後、凍結乾燥し、 sGHEC-14の標品を得た。この1バイアルを  0.1%トリフルオロ酢酸1mlに溶解後タンパク質アッセイキット(バイオラッド社製)SDS-ポリアクリルアミドゲルにより分析したところ、蛋白濃度0.2~0.6mg/ml( sGHEC-14の場合0.44mg/ml,牛血清アルブミン換算)、純度90%以上であった。</base:Paragraphs>
+    <base:Paragraphs num="0110">同様な方法で sGHE1, sGHEC -2,sGHEC -18S, sGHEC-1414も精製可能である。</base:Paragraphs>
+    <base:Paragraphs num="0111">実施例15  HCV関連融合抗原ポリペプチドを用いた抗HCV抗体の検出
+人血清を試料として、ウエスタンブロッティング(以下WBと略記する)を行った〔バーネット(Burnett),アナールバイオケミ(Anal. Biochem.) 112 , 195(1981 ) 〕。使用したHCV関連融合抗原としては、実施例14で得た精製されたC-14融合抗原ポリペプチドを用いた。</base:Paragraphs>
+    <base:Paragraphs num="0112">精製されたC-14融合抗原ポリペプチド100μg をSDS-ポリアクリルアミドゲルで泳動後、同一ゲルをニトロセルロース膜に電気的にブロッティングした〔トウビィン(Towbin), プロシーディング・オブ・ザ・ナショナル・アカデミィ・オブ・サイエンス( Proc. Natl. Acad. Sci. ) USA  76,4350( 1979 )〕。ブロッティング後、ブロット(10mMリン酸バッファーpH7.2,500mMNaCl、5%スキムミルク,消泡剤1滴)液に浸し、室温で2時間振とうした。振とう後、ニトロセルロース膜を短冊状に切り、蛋白量3μg /短冊になるようにした。この短冊を3mlのブロットに浸し人血清を30μl 加え室温で一夜処理した。次いでフィルターを Tween-PBS(10mMリン酸バッファーpH7.2,500mM NaCl ,0.05%  Tween 20)で洗浄した後、抗人イムノグロブリンズ・パーオキシダーゼコンジュゲートを加え室温で2時間反応させた。次に Tween-PBSで洗浄し最後にPBSで洗浄した後、発色剤を加えた。発色剤は、4-クロロ-1-ナフトール(バイオラッド社)60mgに、冷メタノールを加えたものと、PBS100mlに過酸化水素水60μl を混合したものを用いた。発色反応は遮光し、30分間反応させた後、水で洗浄して終了した。</base:Paragraphs>
+    <base:Paragraphs num="0113">使用した血清は以下の通りである。なおPIB法とはプラーク・イムノ・ブロット法〔有馬ら、日本臨床 48 , 27-32(1990)〕の略であり、カイロン法は Kuo, G. et al,Science  244 ,362-364( 1989 )に記載の方法である:血清(1)(2)は、PIB法C-14(-),C-18(+)患者血清:(3) ~(10)はPIB法C-14(+)患者血清:(11)~(15)は、PIB法C-14(-)患者血清:(1E)~(14E) はPIB法C-14(-)患者血清:(15E) はPIB法C-14(-), カイロン法(+)血清:(16E) はPIB法C-14(-),カイロン法(-)である。表2は血清 (1)~(15)までのウエスタンブロッティングの結果を示す。表3は血清(1E)~(16E) までのウエスタンブロッティングの結果を示す。</base:Paragraphs>
+    <base:Paragraphs num="0114">(1) ~(10)において従来法PIBによるC-14判定と本発明にかかわるWB判定は、非常によい相関を示した。(11)~(15),(1E)~  (16E) においては、従来法のPIB法によるC-14判定陰性検体を、本発明で用いた融合抗原ポリペプチドによるWB法では検出することができた。また(16E) においては、カイロン法で陰性判定の検体を、本発明によるWB法で検出することができた。融合させたsGHポリペプチドのみを用いたWB法では、いずれも血清と反応性を示さないことが判明した。従って、本発明の融合抗原ポリペプチドは、抗HCV抗体を検出する血清診断に用いるに極めて有効であると考えられる。</base:Paragraphs>
+    <base:Heading>【表2】</base:Heading>
+    <base:Paragraphs num="0115">
+      <base:Image id="000004" file="93001099_000004.TIF" he="145" wi="061" imgContent="undefined" imgFormat="TIFF" />
+    </base:Paragraphs>
+    <base:Heading>【表3】</base:Heading>
+    <base:Paragraphs num="0116">
+      <base:Image id="000005" file="93001099_000005.TIF" he="150" wi="063" imgContent="undefined" imgFormat="TIFF" />
+    </base:Paragraphs>
+    <base:Paragraphs num="0117">実施例16  DNA29~36の製造
+DNA29~36の合成は実施例1と同様の方法で行った。</base:Paragraphs>
+    <base:Paragraphs num="0118">実施例17  プラスミドpSGHEC-14Aの作製
+実施例3で得たプラスミドpSGHE1の2μg を実施例2に示した制限酵素用反応液 (100mM  NaCl)30μl に溶解し、 EcoRI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。次にこの反応液に Bacterial Alkaline Phosphatase (宝酒造社製)を1単位加え65℃で30分間反応させた。ついでHind III(宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。同時にpSGHE1をHindIII (宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え、37℃、2時間消化反応を行った。</base:Paragraphs>
+    <base:Paragraphs num="0119">この反応液をエチジウムブロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)検出して約320b、約850bと約1.8kbのDNA断片を切り出した。ゲル片にフェノール0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上記DNA断片を回収した。</base:Paragraphs>
+    <base:Paragraphs num="0120">DNA29~34,各10pmole を各々T4ポリヌクレオチドキナーゼ反応用緩衝液〔50mMトリス-HCl (pH7.5)、10mM  MgCl2、5mM  DTT、1mMATP、0.1mMスペルミジン、0.1mM  EDTA〕30μl ずつに溶解し、T4ポリヌクレオチドキナーゼ(宝酒造社製) 3単位を加え、37℃、40分間リン酸化反応を行った後、65℃で15分間加熱して酵素を失活させた。この反応液を4μl ずつ混合し、上記で得たDNA断片各々0.08pmole を加え、T4リガーゼ反応用緩衝液〔28mMトリス-HCl(pH7.5)、9mM MgCl2、10mM  DTT、0.03mM  EDTA、0.7mM  ATP、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175 単位を加え、30μl とした。4℃で16時間結合反応を行った。</base:Paragraphs>
+    <base:Paragraphs num="0121">この反応液を用いて大腸菌 HB101株を Cohenらの方法により形質転換し、アンピシリン耐性( Apr )のコロニーを得た。このコロニーよりアルカリ処理法によってプラスミドDNAを回収し、pSGHEC-14Aを得た。pSGHEC-14Aの構造は、Bgl II、PvuI、Hind III、EcoRIで切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl(pH7.5)、7mM  MgCl2 、6mM  2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM )  NaClを加えた反応液を用いて行った。</base:Paragraphs>
+    <base:Paragraphs num="0122">pSGHEC-14Aを含む大腸菌菌株はEscherichia coli SGHEC14A 、FERM BP -3261としてブダペスト条約の条件で工業技術院微生物工業技術研究所 (微工研)に平成3年2月1日付で寄託してある。</base:Paragraphs>
+    <base:Paragraphs num="0123">実施例18  プラスミドpSGHEC-14Bの作製
+実施例3で得たプラスミドpSGHE1の2μg を実施例2に示した制限酵素用反応液 (100mM  NaCl)30μl に溶解し、 EcoRI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。次にこの反応液に Bacterial Alkaline Phosphatase (宝酒造社製)を1単位加え65℃で30分間反応させた。ついでHind III(宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え37℃で2時間消化反応を行った。同時にpSGHE1をHindIII (宝酒造社製)10単位、PvuI(宝酒造社製)10単位を加え、37℃、2時間消化反応を行った。</base:Paragraphs>
+    <base:Paragraphs num="0124">この反応液をエチジウムブロミドを含むアガロースゲル電気泳動にかけ、紫外線(波長302nm)で検出して約320b、約850bと約1.8kbのDNA断片を切り出した。ゲル片にフェノール0.5mlを加えて凍結・溶解し、水層をクロロホルムで洗浄後、エタノール沈殿により上記DNA断片を回収した。</base:Paragraphs>
+    <base:Paragraphs num="0125">DNA29~32,DNA35~36各10pmole を各々T4ポリヌクレオチドキナーゼ反応用緩衝液〔50mMトリス-HCl (pH7.5)、10mM  MgCl2 、5mMDTT、1mM  ATP、0.1mMスペルミジン、0.1mM  EDTA〕30μl ずつに溶解し、T4ポリヌクレオチドキナーゼ(宝酒造社製)3単位を加え37℃、40分間リン酸化反応を行った後、65℃で15分間加熱して酵素を失活させた。この反応液を4μl ずつ混合し、上記で得たDNA断片各々0.08pmole を加え、T4リガーゼ反応用緩衝液〔28mMトリス-HCl(pH7.5)、9mM MgCl2、10mM  DTT、0.03mM  EDTA、0.7mM  ATP、0.03mMスペルミジン〕の組成になるよう調整し、T4DNAリガーゼ(宝酒造社製)175 単位を加え、30μl とした。4℃で16時間結合反応を行った。</base:Paragraphs>
+    <base:Paragraphs num="0126">この反応液を用いて大腸菌 HB101株を Cohenらの方法により形質転換し、アンピシリン耐性( Apr )のコロニーを得た。このコロニーよりアルカリ処理法によってプラスミドDNAを回収し、pSGHEC-14Bを得た。pSGHEC-14Bの構造は、Bgl II、PvuI、Hind III、EcoRIで切断してアガロースゲル電気泳動により確認した。制限酵素の切断反応は10mMトリス-HCl(pH7.5)、7mM  MgCl2 、6mM  2-メルカプトエタノールの組成の溶液に各酵素の至適濃度になるよう(0~200mM )  NaClを加えた反応液を用いて行った。</base:Paragraphs>
+    <base:Paragraphs num="0127">pSGHEC-14Bを含む大腸菌菌株はEscherichia coli SGHEC14B 、FERM BP -3262としてブダペスト条約の条件で工業技術院微生物工業技術研究所 (微工研)に平成3年2月1日付で寄託してある。</base:Paragraphs>
+    <base:Paragraphs num="0128">実施例19  プラスミドpSGHEC-14Aを導入した大腸菌による融合抗原ポリペプチドの生産
+実施例17で得られたpSGHEC-14Aを用いて実施例3に示した方法で大腸菌W3110 strA(FERM BP-732) を形質転換した。得られたApr のコロニーを実施例9と同様にLG培地に接種し、30℃、16時間培養した。</base:Paragraphs>
+    <base:Paragraphs num="0129">この培養液200μl を10mlのMCG培地に50μg /mlのアンピシリンを添加した培地に接種し、30℃、24時間培養した。培養液を7,000rpmで5分間遠心分離して菌体を集め、この菌体をレムリのサンプルバッファーに溶解し、加熱後、SDS-ポリアクリルアミドゲル電気泳動を行い、クマシーブリリアントブルーを用いて染色した結果、分子量約17100 の部位にポリペプチドバンドを検出した(図10F参照)。pSGHEC-14Aを含まない大腸菌 W3110 strA 株には相当するバンドは存在しなかった。このことは、pSGHEC-14Aを保有する大腸菌W3110 strA株が、C-14AによりコードされるHCV関連抗原とsGHとの融合抗原ポリペプチド sGHEC-14Aを生産していることを示している。</base:Paragraphs>
+    <base:Paragraphs num="0130">実施例20  プラスミドpSGHEC-14Bを導入した大腸菌による融合抗原ポリペプチドの生産
+実施例18で得られたpSGHEC-14Bを用いて実施例3に示した方法で大腸菌W3110 strA(FERM BP-732) を形質転換した。得られたApr のコロニーを実施例9と同様にLG培地に接種し、30℃、16時間培養した。</base:Paragraphs>
+    <base:Paragraphs num="0131">この培養液200μl を10mlのMCG培地に50μg /mlのアンピシリンを添加した培地に接種し、30℃、24時間培養した。培養液を7,000rpmで5分間遠心分離して菌体を集め、この菌体をレムリのサンプルバッファーに溶解し、加熱後、SDS-ポリアクリルアミドゲル電気泳動を行い、クマシーブリリアントブルーを用いて染色した結果、分子量約16500 の部位にポリペプチドバンドを検出した(図10G参照)。pSGHEC-14Bを含まない大腸菌 W3110 strA 株には相当するバンドは存在しなかった。このことは、pSGHEC-14Bを保有する大腸菌W3110 strA株が、C-14BによりコードされるHCV関連抗原とsGHとの融合抗原ポリペプチド sGHEC-14Bを生産していることを示している。</base:Paragraphs>
+    <base:Paragraphs num="0132">実施例21
+大腸菌によって産生された SGHEC-14A, SGHEC-14Bポリペプチドの精製
+実施例14と同様な方法で SGHEC-14A, SGHEC-14Bは、精製可能である。</base:Paragraphs>
+    <base:Heading>【発明の効果】本発明によれば、抗原ポリペプチドが異種ポリペプチドと融合した形の融合抗原ポリペプチドを大量に製造することができる。該融合抗原ポリペプチドは、C型肝炎ウイルスに感染した患者の正確な血清診断に利用することができる。配列表】</base:Heading>
+    <base:Paragraphs num="0133">配列番号:1
+配列の長さ:66
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..66
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..22
+特徴を決定した方法:E
+配列
+GAA TCC CCA ACG CGT CGG CTT GGC CCG CGC CTT GGC CGC CGA CCC GCG     48
+Glu Phe Pro Thr Arg Arg Leu Gly Pro Arg Leu Gly Arg Arg Pro Ala 
+  1               5                  10                  15 
+CTG ATG GCC GTG GAA TTC                                             66
+Leu Met Ala Val Glu Phe 
+             20</base:Paragraphs>
+    <base:Paragraphs num="0134">配列番号:2
+配列の長さ:114
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..114
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..38
+特徴を決定した方法:E
+配列
+GAA TTC CGA GAA CAA GAC CAG ATA AAA ACC AAA GAC AGA ACA CAA CAG     48
+Glu Phe Arg Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln 
+  1               5                  10                  15 
+AGA AAG ACG AAA AGA AGC ACC AAT CGC AGG CGA AGC AAA AAC GAA AAA     96
+Arg Lys Thr Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Lys 
+             20                  25                  30 
+AAA AAA AAA AAG GAA TCC                                            114
+Lys Lys Lys Lys Glu Phe 
+         35</base:Paragraphs>
+    <base:Paragraphs num="0135">配列番号:3
+配列の長さ:201
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..201
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..67
+特徴を決定した方法:E
+配列
+GAA TTC CAA GAA AAA AAG GGA GAA GCC AGC AAT GGA GAA GCC GAA AAC     48
+Glu Phe Gln Glu Lys Lys Gly Glu Ala Ser Asn Gly Glu Ala Glu Asn 
+                  5                  10                  15 
+GAC ACA CAC AAG AAA CAA AGG AGG TAC AAA GAA AAA GAA AAA ACG GCA    96 
+Asp Thr His Lys Lys Gln Arg Arg Tyr Lys Glu Lys Glu Lys Thr Ala 
+             20                  25                  30 
+ACA AAT AAC CCA GGA AAG AAC AAA AAG CCA AGA GTG GGC AGA ATA AAA    144
+Thr Asn Asn Pro Gly Lys Asn Lys Lys Pro Arg Val Gly Arg Ile Lys 
+         35                  40                  45 
+AAC TGG AAC CGG GAG GGA AGG AAG GAC GCA TAT CAG ATT AGA AAA AGG    192
+Asn Trp Asn Arg Glu Gly Arg Lys Asp Ala Tyr Gln Ile Arg Lys Arg 
+     50                  55                  60 
+AGG GAA TTC                                                        201
+Arg Glu Phe 
+ 65</base:Paragraphs>
+    <base:Paragraphs num="0136">配列番号:4
+配列の長さ:60
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..60
+特徴を決定した方法:E
+配列
+AATTCCCAAC GCGTCGGCTT GGCCCGCGCC TTGGCCGCCG ACCCGCGCTG ATGGCCGTGG   60</base:Paragraphs>
+    <base:Paragraphs num="0137">配列番号:5
+配列の長さ:60
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..60
+特徴を決定した方法:E
+配列
+AATTCCACGG CCATCAGCGC GGGTCGGCGG CCAAGGCGCG GGCCAAGCCG ACGCGTTGGG   60</base:Paragraphs>
+    <base:Paragraphs num="0138">配列番号:6
+配列の長さ:53
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..53
+特徴を決定した方法:E
+配列
+AATTCCGAGA ACAAGACCAG ATAAAAACCA AAGACAGAAC ACAACAGAGA AAG          53</base:Paragraphs>
+    <base:Paragraphs num="0139">配列番号:7
+配列の長さ:55
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..55
+特徴を決定した方法:E
+配列
+TTTCGTCTTT CTCTGTTGTG TTCTGTCTTT GGTTTTTATC TGGTCTTGTT CTCGG        55</base:Paragraphs>
+    <base:Paragraphs num="0140">配列番号:8
+配列の長さ:55
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..55
+特徴を決定した方法:E
+配列
+ACGAAAAGAA GCACCAATCG CAGGCGAAGC AAAAACGAAA AAAAAAAAAA AAAGG        55</base:Paragraphs>
+    <base:Paragraphs num="0141">配列番号:9
+配列の長さ:53
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..53
+特徴を決定した方法:E
+配列
+AATTCCTTTT TTTTTTTTTT TTCGTTTTTG CTTCGCCTGC GATTGGTGCT TCT          53</base:Paragraphs>
+    <base:Paragraphs num="0142">配列番号:10
+配列の長さ:50
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..50
+特徴を決定した方法:E
+配列
+AATTCCAAGA AAAAAAGGGA GAAGCCAGCA ATGGAGAAGC CGAAAACGAC              50</base:Paragraphs>
+    <base:Paragraphs num="0143">配列番号:11
+配列の長さ:52
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..52
+特徴を決定した方法:E
+配列
+GTGTGTGTCG TTTTCGGCTT CTCCATTGCT GGCTTCTCCC TTTTTTTCTT GG           52</base:Paragraphs>
+    <base:Paragraphs num="0144">配列番号:12
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+ACACACAAGA AACAAAGGAG GTACAAAGAA AAAGAAAAAA CGGCAACAAA T            51</base:Paragraphs>
+    <base:Paragraphs num="0145">配列番号:13
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+TGGGTTATTT GTTGCCGTTT TTTCTTTTTC TTTGTACCTC CTTTGTTTCT T            51</base:Paragraphs>
+    <base:Paragraphs num="0146">配列番号:14
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+AACCCAGGAA AGAACAAAAA GCCAAGAGTG GGCAGAATAA AAAACTGGAA C            51</base:Paragraphs>
+    <base:Paragraphs num="0147">配列番号:15
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+CTCCCGGTTC CAGTTTTTTA TTCTGCCCAC TCTTGGCTTT TTGTTCTTTC C            51</base:Paragraphs>
+    <base:Paragraphs num="0148">配列番号:16
+配列の長さ:43
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..43
+特徴を決定した方法:E
+配列
+CGGGAGGGAA GGAAGGACGC ATATCAGATT AGAAAAAGGA GGG                     43</base:Paragraphs>
+    <base:Paragraphs num="0149">配列番号:17
+配列の長さ:41
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..41
+特徴を決定した方法:E
+配列
+AATTCCCTCC TTTTTCTAAT CTGATATGCG TCCTTCCTTC C                       41</base:Paragraphs>
+    <base:Paragraphs num="0150">配列番号:18
+配列の長さ:29
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..29
+特徴を決定した方法:E
+配列
+GATCATGGAA TTCTAAGTAA GTAAATGCA                                     29</base:Paragraphs>
+    <base:Paragraphs num="0151">配列番号:19
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..21
+特徴を決定した方法:E
+配列
+TTTACTTACT TAGAATTCCA T                                             21</base:Paragraphs>
+    <base:Paragraphs num="0152">配列番号:20
+配列の長さ:64
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列番号4,5 から形成される合成DNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..64
+特徴を決定した方法:E
+配列
+AATTCCCAACGCGTCGGCTTGGCCCGCGCCTTGGCCGCCGACCCGCGCTGATGGCCGTGG
+    GGGTTGCGCAGCCGAACCGGGCGCGGAACCGGCGGCTGGGCGCGACTACCGGCACCTTAA    64
+    EcoRI                                                       EcoRI</base:Paragraphs>
+    <base:Paragraphs num="0153">配列番号:21
+配列の長さ:112
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの
+配列番号6,7,8,9 から形成される合成DNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..112
+特徴を決定した方法:E
+配列
+AATTCCGAGAACAAGACCAGATAAAAACCAAAGACAGAACACAACAGAGAAAGACGAAA 
+    GGCTCTTGTTCTGGTCTATTTTTGGTTTCTGTCTTGTGTTGTCTCTTTCTGCTTT         59
+  EcoRI 
+AGAAGCACCAATCGCAGGCGAAGCAAAAACGAAAAAAAAAAAAAAAAGG 
+TCTTCGTGGTTAGCGTCCGCTTCGTTTTTGCTTTTTTTTTTTTTTTTCCTTAA              112
+                                                   EcoRI</base:Paragraphs>
+    <base:Paragraphs num="0154">配列番号:22
+配列の長さ:199
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの
+配列番号10,11,12,13,14,15,16,17から形成される合成DNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..199
+特徴を決定した方法:E
+配列
+AATTCCAAGAAAAAAAGGGAGAAGCCAGCAATGGAGAAGCCGAAAACGACACACACAAG 
+    GGTTCTTTTTTTCCCTCTTCGGTCGTTACCTCTTCGGCTTTTGCTGTGTGTGTTC         59
+  EcoRI 
+AAACAAAGGAGGTACAAAGAAAAAGAAAAAACGGCAACAAATAACCCAGGAAAGAACAAA
+TTTGTTTCCTCCATGTTTCTTTTTCTTTTTTGCCGTTGTTTATTGGGTCCTTTCTTGTTT       119
+AAGCCAAGAGTGGGCAGAATAAAAAACTGGAACCGGGAGGGAAGGAAGGACGCATATCAG
+TTCGGTTCTCACCCGTCTTATTTTTTGACCTTGGCCCTCCCTTCCTTCCTGCGTATAGTC       179
+ATTAGAAAAAGGAGGG
+TAATCTTTTTCCTCCCTTAA                                               199
+                 EcoRI</base:Paragraphs>
+    <base:Paragraphs num="0155">配列番号:23
+配列の長さ:29
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列番号18,19から形成される合成DNA断片
+プラスミド構築に用いたリンカーDNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..29
+特徴を決定した方法:E
+配列
+     MetGluPhe
+ GATCATGGAATTCTAAGTAAGTAAATGCA
+     TACCTTAAGATTCATTCATTT                                          29
+  BglII  EcoRI          NsiI</base:Paragraphs>
+    <base:Paragraphs num="0156">配列番号:24
+配列の長さ:337
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表18,19から形成されるDNA断片をサケ成長ホルモンDNA断片と連結させたもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..337
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..107
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC TAAGTAAGTA AATGCA      337
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe                  
+            100                 105  EcoRI</base:Paragraphs>
+    <base:Paragraphs num="0157">配列番号:25
+配列の長さ:381
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表4,5 から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..381
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..127
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CCA ACG CGT CGG CTT    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Pro Thr Arg Arg Leu
+            100                 105                 110 
+GGC CCG CGC CTT GGC CGC CGA CCC GCG CTG ATG GCC GTG GAA TTC        381
+Gly Pro Arg Leu Gly Arg Arg Pro Ala Leu Met Ala Val Glu Phe
+        115                 120                 125</base:Paragraphs>
+    <base:Paragraphs num="0158">配列番号:26
+配列の長さ:429
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表6,7,8,9 から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..429
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..143
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn G1ln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAA GAC CAG    338
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAA GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGC ACC    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125 
+AAT CGC AGG CGA AGC AAA AAC GAA AAA AAA AAA AAA AAG GAA TTC        429
+Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys Lys Glu Phe
+    130                 135                 140</base:Paragraphs>
+    <base:Paragraphs num="0159">配列番号:27
+配列の長さ:516
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表10,11,12,13,14,15,16,17から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..516
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..172
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CAA GAA AAA AAG GGA    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Gln Glu Lys Lys Gly
+            100                 105                 110 
+GAA GCC AGC AAT GGA GAA GCC GAA AAC GAC ACA CAC AAG AAA CAA AGG  384
+Glu Ala Ser Asn Gly Glu Ala Glu Asn Asp Thr His Lys Lys Gln Arg
+        115                 120                 125 
+AGG TAC AAA GAA AAA GAA AAA ACG GCA ACA AAT AAC CCA GGA AAG AAC    432
+Arg Tyr Lys Glu Lys Glu Lys Thr Ala Thr Asn Asn Pro Gly Lys Asn
+    130                 135                 140 
+AAA AAG CCA AGA GTG GGC AGA ATA AAA AAC TGG AAC CGG GAG GGA AGG    480
+Lys Lys Pro Arg Val Gly Arg Ile Lys Asn Trp Asn Arg Glu Gly Arg
+145                 150                 155                 160 
+AAG GAC GCA TAT CAG ATT AGA AAA AGG AGG GAA TTC                    516
+Lys Asp Ala Tyr Gln Ile Arg Lys Arg Arg Glu Phe
+                165                 170</base:Paragraphs>
+    <base:Paragraphs num="0160">配列番号:28
+配列の長さ:537
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表6,7,8,9 から形成されるDNA断片(タンデム)を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..537
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..179
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAA GAC CAG    338
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAA GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGC ACC    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125 
+AAT CGC AGG CGA AGC AAA AAC GAA AAA AAA AAA AAA AAG GAA TTC CGA    432
+Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys Lys Glu Phe Arg
+    130                 135                 140 
+GAA CAA GAC CAG ATA AAA ACC AAA GAC AGA ACA CAA CAG AGA AAG ACG    480
+Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr
+145                 150                 155                 160 
+AAA AGA AGC ACC AAT CGC AGG CGA AGC AAA AAC GAA AAA AAA AAA AAA    528
+Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys
+                165                 170                 175 
+AAG GAA TTC                                                        537
+Lys Glu Phe</base:Paragraphs>
+    <base:Paragraphs num="0161">配列番号:29
+配列の長さ:40
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..40
+特徴を決定した方法:E
+配列  
+AATTCCGAGA ACAGGACCAG ATAAAAACCA AGGACAGAAC                         40</base:Paragraphs>
+    <base:Paragraphs num="0162">配列番号:30
+配列の長さ:43
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..43
+特徴を決定した方法:E
+配列
+CTGTTGTGTT CTGTCCTTGG TTTTTATCTG GTCCTGTTCT CGG                     43</base:Paragraphs>
+    <base:Paragraphs num="0163">配列番号:31
+配列の長さ:38
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..38
+特徴を決定した方法:E
+配列
+ACAACAGAGA AAGACGAAAA GAAGTACTAA TCGCAGGC                           38</base:Paragraphs>
+    <base:Paragraphs num="0164">配列番号:32
+配列の長さ:36
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..36
+特徴を決定した方法:E
+配列
+GCTTCGCCTG CGATTAGTAC TTCTTTTCGT CTTTCT                             36</base:Paragraphs>
+    <base:Paragraphs num="0165">配列番号:33
+配列の長さ:30
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..30
+特徴を決定した方法:E
+配列
+GAAGCAAAAA CGAAAAAAAG AAAAAAAAGG                                    30</base:Paragraphs>
+    <base:Paragraphs num="0166">配列番号:34
+配列の長さ:29
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..29
+特徴を決定した方法:E
+配列
+AATTCCTTTT TTTTCTTTTT TTCGTTTTT                                     29</base:Paragraphs>
+    <base:Paragraphs num="0167">配列番号:35
+配列の長さ:15
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..15
+特徴を決定した方法:E
+配列
+GAAGCAAAAA CGAAG                                                    15</base:Paragraphs>
+    <base:Paragraphs num="0168">配列番号:36
+配列の長さ:14
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..14
+特徴を決定した方法:E
+配列
+AATTCTTCGT TTTT                                                     14</base:Paragraphs>
+    <base:Paragraphs num="0169">配列番号:37
+配列の長さ:112
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,33,34から形成されるDNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..112
+特徴を決定した方法:E
+配列
+AATTCCGAGAACAGGACCAGATAAAAACCAAGGACAGAACACAACAGAGAAAGACGAAA 
+    GGCTCTTGTCCTGGTCTATTTTTGGTTCCTGTCTTGTGTTGTCTCTTTCTGCTTT         59
+  EcoRI 
+AGAAGTACTAATCGCAGGCGAAGCAAAAACGAAAAAAAGAAAAAAAAGG 
+TCTTCATGATTAGCGTCCGCTTCGTTTTTGCTTTTTTTCTTTTTTTTCCTTAA              112
+                                                  EcoRI</base:Paragraphs>
+    <base:Paragraphs num="0170">配列番号:38
+配列の長さ:97
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,35,36から形成されるDNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..97
+特徴を決定した方法:E
+配列
+AATTCCGAGAACAGGACCAGATAAAAACCAAGGACAGAACACAACAGAGAAAGACGAAA 
+    GGCTCTTGTCCTGGTCTATTTTTGGTTCCTGTCTTGTGTTGTCTCTTTCTGCTTT         59
+  EcoRI 
+AGAAGTACTAATCGCAGGCGAAGCAAAAACGAAG
+TCTTCATGATTAGCGTCCGCTTCGTTTTTGCTTCTTAA                              97
+                                  EcoRI</base:Paragraphs>
+    <base:Paragraphs num="0171">配列番号:39
+配列の長さ:429
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,33,34から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..429
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..143
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAG GAC CAG    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAG GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGT ACT    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125 
+AAT CGC AGG CGA AGC AAA AAC GAA AAA AAG AAA AAA AAG GAA TTC        429
+Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys Lys Glu Phe
+    130                 135                 140</base:Paragraphs>
+    <base:Paragraphs num="0172">配列番号:40
+配列の長さ:414
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,35,36から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..414
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..138
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAG GAC CAG    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAG GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGT ACT    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125
+AAT CGC AGG CGA AGC AAA AAC GAA GAA TTC                            414
+Asn Arg Arg Arg Ser Lys Asn Glu Glu Phe
+    130                 135</base:Paragraphs>
+    <base:Paragraphs num="0173">配列番号:41
+配列の長さ:114
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列番号2のDNA塩基配列の一部を他の塩基配列に置換したもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..114
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..38
+特徴を決定した方法:E
+配列
+GAA TTC CGA GAA CAG GAC CAG ATA AAA ACC AAG GAC AGA ACA CAA CAG     48
+Glu Phe Arg Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln 
+                  5                  10                  15 
+AGA AAG ACG AAA AGA AGT ACT AAT CGC AGG CGA AGC AAA AAC GAA AAA     96
+Arg Lys Thr Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Lys 
+             20                  25                  30 
+AAG AAA AAA AAG GAA TTC                                            114
+Lys Lys Lys Lys Glu Phe
+         35</base:Paragraphs>
+    <base:Paragraphs num="0174">配列番号:42
+配列の長さ:99
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列番号2のDNA塩基配列の一部を他の塩基配列に置換し且つ一部を欠失させたもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..99
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..33
+特徴を決定した方法:E
+配列
+GAA TTC CGA GAA CAG GAC CAG ATA AAA ACC AAG GAC AGA ACA CAA CAG     48
+Glu Phe Arg Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln 
+                  5                  10                  15 
+AGA AAG ACG AAA AGA AGT ACT AAT CGC AGG CGA AGC AAA AAC GAA GAA     96
+Arg Lys Thr Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Glu 
+             20                  25                  30
+TTC                                                                 99
+Phe</base:Paragraphs>
+    <business:DrawingsDescription>
+      <base:Heading>【図面の簡単な説明】</base:Heading>
+      <base:Paragraphs num="0175">【図1】プラスミドpSGHE1の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0176">【図2】〃    pSGHEC-2 の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0177">【図3】〃    pSGHEC-14の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0178">【図4】〃    pSGHEC-18の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0179">【図5】〃    pSGHEC-18S の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0180">【図6】〃    pSGHEC-1414の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0181">【図7】プラスミドpSGHE1, pSGHEC-2, pSGHEC -14, pSGHEC-18S およびpSGHEC-1414を導入した大腸菌が生産する融合抗原ポリペプチドのSDS -ポリアクリルアミドゲル電気泳動の結果。</base:Paragraphs>
+      <base:Paragraphs num="0182">【図8】プラスミドpSGHEC-14A の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0183">【図9】〃    pSGHEC-14B の造成工程。</base:Paragraphs>
+      <base:Paragraphs num="0184">【図10】プラスミドpSGHEC-14A およびpSGHEC-14B を導入した大腸菌が生産する融合抗原ポリペプチドのSDS -ポリアクリルアミドゲル電気泳動の結果。</base:Paragraphs>
+    </business:DrawingsDescription>
+  </business:Description>
+  <business:Drawings status="C">
+    <base:Figure num="0001" figureLabels="図1">
+      <base:Image id="000006" file="93001099_000006.TIF" he="127" wi="084" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002" figureLabels="図2">
+      <base:Image id="000007" file="93001099_000007.TIF" he="123" wi="074" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003" figureLabels="図3">
+      <base:Image id="000008" file="93001099_000008.TIF" he="123" wi="067" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004" figureLabels="図4">
+      <base:Image id="000009" file="93001099_000009.TIF" he="127" wi="063" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005" figureLabels="図5">
+      <base:Image id="000010" file="93001099_000010.TIF" he="094" wi="074" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0006" figureLabels="図6">
+      <base:Image id="000011" file="93001099_000011.TIF" he="102" wi="059" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0007" figureLabels="図9">
+      <base:Image id="000014" file="93001099_000014.TIF" he="119" wi="067" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0008" figureLabels="図10">
+      <base:Image id="000015" file="93001099_000015.TIF" he="094" wi="069" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0009" figureLabels="図7">
+      <base:Image id="000012" file="93001099_000012.TIF" he="127" wi="065" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0010" figureLabels="図8">
+      <base:Image id="000013" file="93001099_000013.TIF" he="127" wi="069" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims status="C" dataFormat="original" lang="ja" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>【請求項1】  C型肝炎関連抗原に由来する抗原ポリペプチド(以下C型肝炎関連抗原ポリペプチドと略記する)の少なくとも1つと、該抗原ポリペプチドとは異種のポリペプチド(以下異種ポリペプチドと略記する)の少なくとも1つとが融合した融合抗原ポリペプチド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>【請求項2】  異種ポリペプチドがシロザケ成長ホルモンのポリペプチドまたはその一部であり、かつヒト血清中の抗体と特異的に反応しないものである請求項1記載の融合抗原ポリペプチド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>【請求項3】  C型肝炎関連抗原ポリペプチドが配列番号1-3,41および42から選ばれる配列を有するポリペプチドである請求項1記載の融合抗原ポリペプチド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>【請求項4】  C型肝炎関連抗原ポリペプチドとシロザケ成長ホルモンのポリペプチドとがメチオニンを介して結合した形のポリペプチドである請求項1記載の融合抗原ポリペプチド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>【請求項5】  C型肝炎関連抗原ポリペプチドをコードするDNAの少なくとも1つと異種ポリペプチドをコードするDNAの少なくとも1つとが組み込まれた組換え体プラスミド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>【請求項6】  異種ポリペプチドがシロザケ成長ホルモンのポリペプチドまたはその一部であり、かつヒト血清中の抗体と特異的に反応しないものである請求項5記載の組換え体プラスミド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>【請求項7】  C型肝炎関連抗原ポリペプチドをコードするDNAが配列番号1-3,41および42から選ばれる配列を有するDNAである請求項5記載の組換え体プラスミド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>【請求項8】  C型肝炎関連抗原ポリペプチドとシロザケ成長ホルモンのポリペプチドとがメチオニンを介して結合したポリペプチドをコードするDNAが組み込まれた組換え体プラスミド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>【請求項9】  プラスミドpSGHEC-2、pSGHEC-14、pSGHEC-18、pSGHEC-18S、pSGHEC-1414、pSGHEC-14AおよびpSGHEC-14Bから選ばれる請求項5記載の組換え体プラスミド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>【請求項10】  5-9から選ばれる請求項記載の組換え体プラスミドを保有する微生物を培地に培養し、培養物中に融合抗原ポリペプチドを生成蓄積させ、該培養物から融合抗原ポリペプチドを採取することを特徴とする融合抗原ポリペプチドの製造法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0011">
+      <business:ClaimText>【請求項11】  微生物がエッシェリヒア・コリに属する請求項10記載の製造法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0012">
+      <business:ClaimText>【請求項12】  C型肝炎関連抗原ポリペプチドとシロザケ成長ホルモンのポリペプチドとがメチオニンを介して融合した融合抗原ポリペプチドを抗原物質として用いる免疫学的方法により試料中の抗C型肝炎ウイルス(HCV)抗体を検出する抗HCV抗体の検出法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0013">
+      <business:ClaimText>【請求項13】  免疫学的方法が、ラジオ・イムノアッセイ,エンザイム・イムノアッセイ,フルオレッセンス・イムノアッセイ,逆受身凝集反応,フィトヘマトアグリチネーション,パーティクルアグリチネーション,レーザーネフロメトリー,ウエスタン・ブロッティングおよび免疫溶血反応(赤血球またはリポソームを用いる方法)から選ばれる請求項12記載の検出法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0014">
+      <business:ClaimText>【請求項14】  固相にコーティングされた抗原物質を用いる請求項13記載の検出法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0015">
+      <business:ClaimText>【請求項15】  固相が、合成樹脂、ガラス製のチューブ、ガラス製のビーズまたはガラス製のマイクロタイタープレイトである請求項14記載の検出法。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SequenceListDoc>
+    <business:SequenceList file="0">
+      <base:Paragraphs>【配列表】
+【0135】配列番号:1
+配列の長さ:66
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..66
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..22
+特徴を決定した方法:E
+配列
+GAA TCC CCA ACG CGT CGG CTT GGC CCG CGC CTT GGC CGC CGA CCC GCG     48
+Glu Phe Pro Thr Arg Arg Leu Gly Pro Arg Leu Gly Arg Arg Pro Ala 
+  1               5                  10                  15 
+CTG ATG GCC GTG GAA TTC                                             66
+Leu Met Ala Val Glu Phe 
+             20 
+【0136】配列番号:2
+配列の長さ:114
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..114
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..38
+特徴を決定した方法:E
+配列
+GAA TTC CGA GAA CAA GAC CAG ATA AAA ACC AAA GAC AGA ACA CAA CAG     48
+Glu Phe Arg Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln 
+  1               5                  10                  15 
+AGA AAG ACG AAA AGA AGC ACC AAT CGC AGG CGA AGC AAA AAC GAA AAA     96
+Arg Lys Thr Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Lys 
+             20                  25                  30 
+AAA AAA AAA AAG GAA TCC                                            114
+Lys Lys Lys Lys Glu Phe 
+         35 
+【0137】配列番号:3
+配列の長さ:201
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..201
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..67
+特徴を決定した方法:E
+配列
+GAA TTC CAA GAA AAA AAG GGA GAA GCC AGC AAT GGA GAA GCC GAA AAC     48
+Glu Phe Gln Glu Lys Lys Gly Glu Ala Ser Asn Gly Glu Ala Glu Asn 
+                  5                  10                  15 
+GAC ACA CAC AAG AAA CAA AGG AGG TAC AAA GAA AAA GAA AAA ACG GCA    96 
+Asp Thr His Lys Lys Gln Arg Arg Tyr Lys Glu Lys Glu Lys Thr Ala 
+             20                  25                  30 
+ACA AAT AAC CCA GGA AAG AAC AAA AAG CCA AGA GTG GGC AGA ATA AAA    144
+Thr Asn Asn Pro Gly Lys Asn Lys Lys Pro Arg Val Gly Arg Ile Lys 
+         35                  40                  45 
+AAC TGG AAC CGG GAG GGA AGG AAG GAC GCA TAT CAG ATT AGA AAA AGG    192
+Asn Trp Asn Arg Glu Gly Arg Lys Asp Ala Tyr Gln Ile Arg Lys Arg 
+     50                  55                  60 
+AGG GAA TTC                                                        201
+Arg Glu Phe 
+ 65 
+【0138】配列番号:4
+配列の長さ:60
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..60
+特徴を決定した方法:E
+配列
+AATTCCCAAC GCGTCGGCTT GGCCCGCGCC TTGGCCGCCG ACCCGCGCTG ATGGCCGTGG   60
+【0139】配列番号:5
+配列の長さ:60
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..60
+特徴を決定した方法:E
+配列
+AATTCCACGG CCATCAGCGC GGGTCGGCGG CCAAGGCGCG GGCCAAGCCG ACGCGTTGGG   60
+【0140】配列番号:6
+配列の長さ:53
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..53
+特徴を決定した方法:E
+配列
+AATTCCGAGA ACAAGACCAG ATAAAAACCA AAGACAGAAC ACAACAGAGA AAG          53
+【0141】配列番号:7
+配列の長さ:55
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..55
+特徴を決定した方法:E
+配列
+TTTCGTCTTT CTCTGTTGTG TTCTGTCTTT GGTTTTTATC TGGTCTTGTT CTCGG        55
+【0142】配列番号:8
+配列の長さ:55
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..55
+特徴を決定した方法:E
+配列
+ACGAAAAGAA GCACCAATCG CAGGCGAAGC AAAAACGAAA AAAAAAAAAA AAAGG        55
+【0143】配列番号:9
+配列の長さ:53
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..53
+特徴を決定した方法:E
+配列
+AATTCCTTTT TTTTTTTTTT TTCGTTTTTG CTTCGCCTGC GATTGGTGCT TCT          53
+【0144】配列番号:10
+配列の長さ:50
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..50
+特徴を決定した方法:E
+配列
+AATTCCAAGA AAAAAAGGGA GAAGCCAGCA ATGGAGAAGC CGAAAACGAC              50
+【0145】配列番号:11
+配列の長さ:52
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..52
+特徴を決定した方法:E
+配列
+GTGTGTGTCG TTTTCGGCTT CTCCATTGCT GGCTTCTCCC TTTTTTTCTT GG           52
+【0146】配列番号:12
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+ACACACAAGA AACAAAGGAG GTACAAAGAA AAAGAAAAAA CGGCAACAAA T            51
+【0147】配列番号:13
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+TGGGTTATTT GTTGCCGTTT TTTCTTTTTC TTTGTACCTC CTTTGTTTCT T            51
+【0148】配列番号:14
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+AACCCAGGAA AGAACAAAAA GCCAAGAGTG GGCAGAATAA AAAACTGGAA C            51
+【0149】配列番号:15
+配列の長さ:51
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..51
+特徴を決定した方法:E
+配列
+CTCCCGGTTC CAGTTTTTTA TTCTGCCCAC TCTTGGCTTT TTGTTCTTTC C            51
+【0150】配列番号:16
+配列の長さ:43
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..43
+特徴を決定した方法:E
+配列
+CGGGAGGGAA GGAAGGACGC ATATCAGATT AGAAAAAGGA GGG                     43
+【0151】配列番号:17
+配列の長さ:41
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..41
+特徴を決定した方法:E
+配列
+AATTCCCTCC TTTTTCTAAT CTGATATGCG TCCTTCCTTC C                       41
+【0152】配列番号:18
+配列の長さ:29
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..29
+特徴を決定した方法:E
+配列
+GATCATGGAA TTCTAAGTAA GTAAATGCA                                     29
+【0153】配列番号:19
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..21
+特徴を決定した方法:E
+配列
+TTTACTTACT TAGAATTCCA T                                             21
+【0154】配列番号:20
+配列の長さ:64
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの(C型肝炎ウイルス関連抗原遺伝子)
+配列番号4,5 から形成される合成DNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..64
+特徴を決定した方法:E
+配列
+AATTCCCAACGCGTCGGCTTGGCCCGCGCCTTGGCCGCCGACCCGCGCTGATGGCCGTGG
+    GGGTTGCGCAGCCGAACCGGGCGCGGAACCGGCGGCTGGGCGCGACTACCGGCACCTTAA    64
+    EcoRI                                                       EcoRI 
+【0155】配列番号:21
+配列の長さ:112
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの
+配列番号6,7,8,9 から形成される合成DNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..112
+特徴を決定した方法:E
+配列
+AATTCCGAGAACAAGACCAGATAAAAACCAAAGACAGAACACAACAGAGAAAGACGAAA 
+    GGCTCTTGTTCTGGTCTATTTTTGGTTTCTGTCTTGTGTTGTCTCTTTCTGCTTT         59
+  EcoRI 
+AGAAGCACCAATCGCAGGCGAAGCAAAAACGAAAAAAAAAAAAAAAAGG 
+TCTTCGTGGTTAGCGTCCGCTTCGTTTTTGCTTTTTTTTTTTTTTTTCCTTAA              112
+                                                   EcoRI
+【0156】配列番号:22
+配列の長さ:199
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  B型肝炎以外の肝機能異常者血清からのRNAをcDNA化したもの
+配列番号10,11,12,13,14,15,16,17から形成される合成DNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..199
+特徴を決定した方法:E
+配列
+AATTCCAAGAAAAAAAGGGAGAAGCCAGCAATGGAGAAGCCGAAAACGACACACACAAG 
+    GGTTCTTTTTTTCCCTCTTCGGTCGTTACCTCTTCGGCTTTTGCTGTGTGTGTTC         59
+  EcoRI 
+AAACAAAGGAGGTACAAAGAAAAAGAAAAAACGGCAACAAATAACCCAGGAAAGAACAAA
+TTTGTTTCCTCCATGTTTCTTTTTCTTTTTTGCCGTTGTTTATTGGGTCCTTTCTTGTTT       119
+AAGCCAAGAGTGGGCAGAATAAAAAACTGGAACCGGGAGGGAAGGAAGGACGCATATCAG
+TTCGGTTCTCACCCGTCTTATTTTTTGACCTTGGCCCTCCCTTCCTTCCTGCGTATAGTC       179
+ATTAGAAAAAGGAGGG
+TAATCTTTTTCCTCCCTTAA                                               199
+                 EcoRI
+【0157】配列番号:23
+配列の長さ:29
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列番号18,19から形成される合成DNA断片
+プラスミド構築に用いたリンカーDNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..29
+特徴を決定した方法:E
+配列
+     MetGluPhe
+ GATCATGGAATTCTAAGTAAGTAAATGCA
+     TACCTTAAGATTCATTCATTT                                          29
+  BglII  EcoRI          NsiI
+【0158】配列番号:24
+配列の長さ:337
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表18,19から形成されるDNA断片をサケ成長ホルモンDNA断片と連結させたもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..337
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..107
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC TAAGTAAGTA AATGCA      337
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe                  
+            100                 105  EcoRI
+【0159】配列番号:25
+配列の長さ:381
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表4,5 から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..381
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..127
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CCA ACG CGT CGG CTT    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Pro Thr Arg Arg Leu
+            100                 105                 110 
+GGC CCG CGC CTT GGC CGC CGA CCC GCG CTG ATG GCC GTG GAA TTC        381
+Gly Pro Arg Leu Gly Arg Arg Pro Ala Leu Met Ala Val Glu Phe
+        115                 120                 125 
+【0160】配列番号:26
+配列の長さ:429
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表6,7,8,9 から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..429
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..143
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAA GAC CAG    338
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAA GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGC ACC    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125 
+AAT CGC AGG CGA AGC AAA AAC GAA AAA AAA AAA AAA AAG GAA TTC        429
+Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys Lys Glu Phe
+    130                 135                 140 
+【0161】配列番号:27
+配列の長さ:516
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表10,11,12,13,14,15,16,17から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..516
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..172
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CAA GAA AAA AAG GGA    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Gln Glu Lys Lys Gly
+            100                 105                 110 
+GAA GCC AGC AAT GGA GAA GCC GAA AAC GAC ACA CAC AAG AAA CAA AGG  384
+Glu Ala Ser Asn Gly Glu Ala Glu Asn Asp Thr His Lys Lys Gln Arg
+        115                 120                 125 
+AGG TAC AAA GAA AAA GAA AAA ACG GCA ACA AAT AAC CCA GGA AAG AAC    432
+Arg Tyr Lys Glu Lys Glu Lys Thr Ala Thr Asn Asn Pro Gly Lys Asn
+    130                 135                 140 
+AAA AAG CCA AGA GTG GGC AGA ATA AAA AAC TGG AAC CGG GAG GGA AGG    480
+Lys Lys Pro Arg Val Gly Arg Ile Lys Asn Trp Asn Arg Glu Gly Arg
+145                 150                 155                 160 
+AAG GAC GCA TAT CAG ATT AGA AAA AGG AGG GAA TTC                    516
+Lys Asp Ala Tyr Gln Ile Arg Lys Arg Arg Glu Phe
+                165                 170 
+【0162】配列番号:28
+配列の長さ:537
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表6,7,8,9 から形成されるDNA断片(タンデム)を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..537
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..179
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30 
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45 
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60 
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAA GAC CAG    338
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAA GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGC ACC    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125 
+AAT CGC AGG CGA AGC AAA AAC GAA AAA AAA AAA AAA AAG GAA TTC CGA    432
+Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys Lys Glu Phe Arg
+    130                 135                 140 
+GAA CAA GAC CAG ATA AAA ACC AAA GAC AGA ACA CAA CAG AGA AAG ACG    480
+Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr
+145                 150                 155                 160 
+AAA AGA AGC ACC AAT CGC AGG CGA AGC AAA AAC GAA AAA AAA AAA AAA    528
+Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys
+                165                 170                 175 
+AAG GAA TTC                                                        537
+Lys Glu Phe
+【0163】配列番号:29
+配列の長さ:40
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..40
+特徴を決定した方法:E
+配列  
+AATTCCGAGA ACAGGACCAG ATAAAAACCA AGGACAGAAC                         40
+【0164】配列番号:30
+配列の長さ:43
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..43
+特徴を決定した方法:E
+配列
+CTGTTGTGTT CTGTCCTTGG TTTTTATCTG GTCCTGTTCT CGG                     43
+【0165】配列番号:31
+配列の長さ:38
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..38
+特徴を決定した方法:E
+配列
+ACAACAGAGA AAGACGAAAA GAAGTACTAA TCGCAGGC                           38
+【0166】配列番号:32
+配列の長さ:36
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..36
+特徴を決定した方法:E
+配列
+GCTTCGCCTG CGATTAGTAC TTCTTTTCGT CTTTCT                             36
+【0167】配列番号:33
+配列の長さ:30
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..30
+特徴を決定した方法:E
+配列
+GAAGCAAAAA CGAAAAAAAG AAAAAAAAGG                                    30
+【0168】配列番号:34
+配列の長さ:29
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..29
+特徴を決定した方法:E
+配列
+AATTCCTTTT TTTTCTTTTT TTCGTTTTT                                     29
+【0169】配列番号:35
+配列の長さ:15
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..15
+特徴を決定した方法:E
+配列
+GAAGCAAAAA CGAAG                                                    15
+【0170】配列番号:36
+配列の長さ:14
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  合成DNA
+配列の特徴
+特徴を表す記号:unsure
+存在位置:1..14
+特徴を決定した方法:E
+配列
+AATTCTTCGT TTTT                                                     14
+【0171】配列番号:37
+配列の長さ:112
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,33,34から形成されるDNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..112
+特徴を決定した方法:E
+配列
+AATTCCGAGAACAGGACCAGATAAAAACCAAGGACAGAACACAACAGAGAAAGACGAAA 
+    GGCTCTTGTCCTGGTCTATTTTTGGTTCCTGTCTTGTGTTGTCTCTTTCTGCTTT         59
+  EcoRI 
+AGAAGTACTAATCGCAGGCGAAGCAAAAACGAAAAAAAGAAAAAAAAGG 
+TCTTCATGATTAGCGTCCGCTTCGTTTTTGCTTTTTTTCTTTTTTTTCCTTAA              112
+                                                  EcoRI 
+【0172】配列番号:38
+配列の長さ:97
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,35,36から形成されるDNA断片
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..97
+特徴を決定した方法:E
+配列
+AATTCCGAGAACAGGACCAGATAAAAACCAAGGACAGAACACAACAGAGAAAGACGAAA 
+    GGCTCTTGTCCTGGTCTATTTTTGGTTCCTGTCTTGTGTTGTCTCTTTCTGCTTT         59
+  EcoRI 
+AGAAGTACTAATCGCAGGCGAAGCAAAAACGAAG
+TCTTCATGATTAGCGTCCGCTTCGTTTTTGCTTCTTAA                              97
+                                  EcoRI
+【0173】配列番号:39
+配列の長さ:429
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,33,34から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..429
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..143
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80 
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu 
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAG GAC CAG    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAG GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGT ACT    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125 
+AAT CGC AGG CGA AGC AAA AAC GAA AAA AAG AAA AAA AAG GAA TTC        429
+Asn Arg Arg Arg Ser Lys Asn Glu Lys Lys Lys Lys Lys Glu Phe
+    130                 135                 140
+【0174】配列番号:40
+配列の長さ:414
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列表29,30,31,32,35,36から形成されるDNA断片を配列表24のDNA断片中に組み込んだもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..414
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..138
+特徴を決定した方法:E
+配列
+ATG ATA GAA AAC CAA CGG CTC TTC AAC ATC GCG GTC AGT CGG GTG CAA     48
+Met Ile Glu Asn Gln Arg Leu Phe Asn Ile Ala Val Ser Arg Val Gln 
+                  5                  10                  15 
+CAT CTC CAC CTA TTG GCT CAG AAA ATG TTC AAT GAC TTT GAC GGT ACC     96
+His Leu His Leu Leu Ala Gln Lys Met Phe Asn Asp Phe Asp Gly Thr 
+             20                  25                  30
+CTG TTG CCT GAT GAA CGC AGA CAG CTG AAC AAG ATA TTC CTG CTG GAC    144
+Leu Leu Pro Asp Glu Arg Arg Gln Leu Asn Lys Ile Phe Leu Leu Asp 
+         35                  40                  45
+TTC TGT AAC TCT GAC TCC ATC GTG AGC CCA GTC GAC AAG CAC GAG ACT    192
+Phe Cys Asn Ser Asp Ser Ile Val Ser Pro Val Asp Lys His Glu Thr 
+     50                  55                  60
+CAG AAG AGT TCA GTC CTG AAG CTG CTC CAC ATT TCT TTC CGT CTG ATT    240
+Gln Lys Ser Ser Val Leu Lys Leu Leu His Ile Ser Phe Arg Leu Ile 
+ 65                  70                  75                  80
+GAA TCC TGG GAG TAC CCT AGC CAG ACC CTG ATC ATC TCC AAC AGC CTA    288
+Glu Ser Trp Glu Tyr Pro Ser Gln Thr Leu Ile Ile Ser Asn Ser Leu
+                 85                  90                  95 
+ATG GTC AGA AAC GCC AAC CAG ATC ATG GAA TTC CGA GAA CAG GAC CAG    336
+Met Val Arg Asn Ala Asn Gln Ile Met Glu Phe Arg Glu Gln Asp Gln
+            100                 105                 110 
+ATA AAA ACC AAG GAC AGA ACA CAA CAG AGA AAG ACG AAA AGA AGT ACT    384
+Ile Lys Thr Lys Asp Arg Thr Gln Gln Arg Lys Thr Lys Arg Ser Thr
+        115                 120                 125
+AAT CGC AGG CGA AGC AAA AAC GAA GAA TTC                            414
+Asn Arg Arg Arg Ser Lys Asn Glu Glu Phe
+    130                 135
+【0175】配列番号:41
+配列の長さ:114
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列番号2のDNA塩基配列の一部を他の塩基配列に置換したもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..114
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..38
+特徴を決定した方法:E
+配列
+GAA TTC CGA GAA CAG GAC CAG ATA AAA ACC AAG GAC AGA ACA CAA CAG     48
+Glu Phe Arg Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln 
+                  5                  10                  15 
+AGA AAG ACG AAA AGA AGT ACT AAT CGC AGG CGA AGC AAA AAC GAA AAA     96
+Arg Lys Thr Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Lys 
+             20                  25                  30 
+AAG AAA AAA AAG GAA TTC                                            114
+Lys Lys Lys Lys Glu Phe
+         35
+【0176】配列番号:42
+配列の長さ:99
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸  配列番号2のDNA塩基配列の一部を他の塩基配列に置換し且つ一部を欠失させたもの
+配列の特徴
+特徴を表す記号:CDS
+存在位置:1..99
+特徴を決定した方法:E
+特徴を表す記号:peptide
+存在位置:1..33
+特徴を決定した方法:E
+配列
+GAA TTC CGA GAA CAG GAC CAG ATA AAA ACC AAG GAC AGA ACA CAA CAG     48
+Glu Phe Arg Glu Gln Asp Gln Ile Lys Thr Lys Asp Arg Thr Gln Gln 
+                  5                  10                  15 
+AGA AAG ACG AAA AGA AGT ACT AAT CGC AGG CGA AGC AAA AAC GAA GAA     96
+Arg Lys Thr Lys Arg Ser Thr Asn Arg Arg Arg Ser Lys Asn Glu Glu 
+             20                  25                  30
+TTC                                                                 99
+Phe</base:Paragraphs>
+    </business:SequenceList>
+  </business:SequenceListDoc>
+</business:PatentDocumentAndRelated>

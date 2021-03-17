@@ -1,0 +1,1193 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="JP101991000195479JP0000003121868B2FULJA20010109JP009.XML" dateProduced="20160430" status="C" lang="ja" country="JP" docNumber="3121868" kind="B2" datePublication="20010109">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>3121868</base:DocNumber>
+        <base:Kind>B2</base:Kind>
+        <base:Date>20010109</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>特許第3121868号(P3121868)</base:DocNumber>
+        <base:Kind>B2</base:Kind>
+        <base:Date>20010109</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:PrintedWithGrant>
+        <base:DocumentID>
+          <base:DocNumber>特許第3121868号(P3121868)</base:DocNumber>
+          <base:Date>20010109</base:Date>
+        </base:DocumentID>
+      </business:PrintedWithGrant>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>101991000195479</base:DocNumber>
+        <base:Date>19910805</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="JP">
+      <base:DocumentID>
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>特願平3-195479</base:DocNumber>
+        <base:Date>19910805</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:PriorityDetails>
+      <business:Priority kind="national" dataFormat="original" sourceDB="JP" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>特願平2-224945</base:DocNumber>
+        <base:Date>19900827</base:Date>
+      </business:Priority>
+      <business:Priority kind="national" dataFormat="standard" sequence="1">
+        <base:WIPOST3Code>JP</base:WIPOST3Code>
+        <base:DocNumber>001990000224945</base:DocNumber>
+        <base:Date>19900827</base:Date>
+      </business:Priority>
+    </business:PriorityDetails>
+    <business:ClassificationIPC>
+      <base:EditionStatement>7</base:EditionStatement>
+      <business:MainClassification dataFormat="original">C12N 15/09</business:MainClassification>
+      <business:MainClassification dataFormat="standard">C12N0015090000</business:MainClassification>
+      <business:FurtherClassification dataFormat="original">A61B 10/00</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">A61B0010000000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C07K 14/30</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C07K0014300000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C12Q  1/04</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C12Q0001040000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">C12Q 1/68</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">C12Q0001680000</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="original">G01N 33/569</business:FurtherClassification>
+      <business:FurtherClassification dataFormat="standard">G01N0033569000</business:FurtherClassification>
+      <base:Text>C12N 15/09    ZNA          
+   A61B 10/00                 
+   C07K 14/30                 
+   C12Q  1/04                 
+         1/68                 
+   G01N 33/569                
+// C12P 21/02                 
+  (C12N 15/09    ZNA          
+   C12R  1:35   )             
+  (C12P 21/02                 
+   C12R  1:19   )             
+  (C12Q  1/68                 
+   C12R  1:35   )</base:Text>
+    </business:ClassificationIPC>
+    <business:JPClassification>
+      <business:FI type="main">C12N 15/00    ZNA A</business:FI>
+      <business:FI type="main">A61B 10/00        L</business:FI>
+      <business:FI type="main">C07K 14/30</business:FI>
+      <business:FI type="main">C12Q  1/04</business:FI>
+      <business:FI type="secondary">C12Q 1/68        A</business:FI>
+      <business:FI type="main">G01N 33/569       F</business:FI>
+      <business:FI type="main">C12P 21/02</business:FI>
+    </business:JPClassification>
+    <business:InventionTitle lang="ja" dataFormat="original" sourceDB="JP">豚流行性肺炎マイコプラズマの表面抗原DNA、プライマー用DNA断片、表面抗原組換えペプチド及びそれらを用いる豚流行性肺炎の診断法</business:InventionTitle>
+    <business:ReferencesCited>
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:ApplicationCitation id="pcit000001" num="000001">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:DocNumber>1990167079</base:DocNumber>
+              <base:Kind>A</base:Kind>
+              <base:Date>00000000</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sourceDB="JP" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>JP</base:WIPOST3Code>
+              <base:DocNumber>特開平2-167079(JP,A)</base:DocNumber>
+              <base:Kind>A</base:Kind>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:SearchField>
+      <business:OtherSearchFieldDetails>
+        <business:OtherSearchField>(Int.Cl.7,DB名)
+C12N  15/00 - 15/90           
+A61B  10/00                   
+C07K  14/00 - 14/825          
+C12Q   1/00 - 1/70            
+G01N  33/569                  
+C12P  21/00 - 21/08           
+BIOSIS(DIALOG)
+GenBank/EMBL/DDBJ(GENETYX)
+MEDLINE(STN)
+WPI(DIALOG)
+</business:OtherSearchField>
+      </business:OtherSearchFieldDetails>
+    </business:SearchField>
+    <business:Parties>
+      <business:ApplicantDetails>
+        <business:Applicant sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>日本製粉株式会社</base:LastName>
+            <base:RegisteredNumber>000231637</base:RegisteredNumber>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>東京都渋谷区千駄ヶ谷5丁目27番5号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>瀬戸  泰裕</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県相模原市松が枝町5-16</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>布藤  聡</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県座間市入谷4-3011-6  東建座間ハイツ2-214</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>三瀬  静男</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県厚木市森の里4-25-8</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>松尾  香菜子</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県横浜市旭区鶴ケ峰本町1003  2-D</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="JP">
+          <base:AddressBook lang="ja">
+            <base:LastName>綱  美香</base:LastName>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>0</base:County>
+              <base:City>0</base:City>
+              <base:Province>0</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>XP</base:WIPOST3Code>
+              <base:Text>神奈川県海老名市中央1-10-1-403</base:Text>
+            </base:Address>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" dataFormat="original" sourceDB="JP" repType="agent">
+          <base:AddressBook lang="ja">
+            <base:LastName>中村  稔  (外2名)</base:LastName>
+            <base:RegisteredNumber>100059959</base:RegisteredNumber>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" lang="ja" dataFormat="original" sourceDB="JP">
+        <base:Name>  斎藤  真由美</base:Name>
+      </business:Examiner>
+    </business:ExaminerDetails>
+    <business:SpecificBibliographicData>
+      <business:OriginalKindCode>B9</business:OriginalKindCode>
+    </business:SpecificBibliographicData>
+    <business:StatisticalInformation>
+      <business:ClaimsCount>10</business:ClaimsCount>
+      <base:TotalPageCount>23</base:TotalPageCount>
+    </business:StatisticalInformation>
+  </business:BibliographicData>
+  <business:Description lang="ja" dataFormat="original" sourceDB="JP">
+    <base:Heading>【産業上の利用分野】</base:Heading>
+    <base:Paragraphs num="0001">本発明は、マイコプラズマ・ハイオニュウモニエ(以下、M.hpと略す)による豚流行性肺炎の診断に好適な表面抗原をコードするDNA、そのDNA配列に含まれるプライマー用DNA断片及びそれらを用いて豚流行性肺炎を診断する方法並びにそれらを用いて豚流行性肺炎原因菌マイコプラズマ・ハイオニュウモニエを検出する方法に関する。</base:Paragraphs>
+    <base:Paragraphs num="0002">本発明は、さらに豚流行性肺炎の診断に好適な組換え表面抗原ペプチド及びそれらを用いて豚流行性肺炎を診断する方法に関する。</base:Paragraphs>
+    <base:Heading>【従来の技術】</base:Heading>
+    <base:Paragraphs num="0003">豚マイコプラズマ肺炎(Mycoplasmal pneumoniae of swine:MPS)はMycoplasmahyopneumoniae という微生物により惹起される。本病は、慢性経過をとるのが特徴で、死亡率は低い。しかしながら、罹患率は極めて高く、飼料効率の低下等、養豚産業に与えている経済的損失は莫大なものとなっている。</base:Paragraphs>
+    <base:Paragraphs num="0004">農林水産省の調査によると、現在日本の屠場に出荷される豚の半数以上が本病による肺病変を有しており、ほぼ全国的に蔓延していることが明らかにされている。MPSの診断法に関しては、これまでに多くの血清学的診断法が報告されているが、フィールドに広く応用されるにはいたっていないのが現状である。これは従来の血清学的方法では特異性に問題があるためである。すなわち、豚からは本病の原因菌M.hp以外にも多くのマイコプラズマが分離されており、これらの豚由来マイコプラズマ間には多くの共通抗原が存在し、血清学的診断の障害になっている。</base:Paragraphs>
+    <base:Paragraphs num="0005">森らは、M.hpに対するモノクローナル抗体を利用し、特異抗原を精製し、酵素免疫測定法(ELISA) により本病を血清学的に診断する方法を開発している(森康行ら、Isr. J. Med. Sci.23 : 657) 。すなわち、M.hp細胞膜に存在する多くの抗原成分中、分子量約76kdと46kdの膜蛋白質が強い免疫原として作用し、感染豚は早くからこれらの抗原に対する抗体を産生すること、これらの抗原に対する抗体は、感染後長期間にわたって産生され、これらの抗原は比較的特異性の高いM.hp抗原であることが明らかとなり、MPS診断上の良い指標となり得ることが示唆された。この方法は、ダブル・サンドイッチ法と呼ばれる方法を応用したもので、M.hp培養菌体よりモノクローナル抗体を用いて特異抗原を精製し、これを用いて酵素免疫測定法を行なうことを特徴としている。</base:Paragraphs>
+    <base:Paragraphs num="0006">特異抗原に対するモノクローナル抗体を利用した診断法は現在のところ最も実用性の高い方法と思われるが、次のように幾つかの問題点がある。
+(a) 特異抗原は、M.hp培養菌体から抽出したものを用いているが、マイコプラズマの培養は従来より非常に困難で、その収量、生産性が低い。また培養液として血清等高価な試薬が必要であり、しかもマイコプラズマ自体の安定性が低く、培養毎に抗原の力価、収量にかなりのバラツキがでるおそれがある。
+(b) モノクローナル抗体を用いたダブル・サンドイッチ法はかなり複雑な系であるためフィールドで使用するキットとしては操作性、保存性等多くのファクターについて検討する必要がある。</base:Paragraphs>
+    <base:Paragraphs num="0007">このような欠点のない方法として、特開平2-167079号公報には、M.hpDNAとのみ特異的にハイブリダイズし、豚流行性肺炎の診断に有用なDNA配列、M.hp感染豚血清と特異的に抗原抗体反応する抗原ポリペプチド、及びそれらを用いて豚流行性肺炎を診断する方法が開示されている。ここでは、前記M.hp細胞膜に存在する分子量46kdの膜蛋白質をコードする全抗原遺伝子のうち約2/3の塩基配列が決定され、その塩基配列を有するDNAを発現ベクターに導入し、これにより適当な宿主を形質転換し、この形質転換体により目的のポリペプチドを生産している。</base:Paragraphs>
+    <base:Paragraphs num="0008">ところで一般に、微生物の分離・同定は、その微生物が有する特別な性質を利用して行なう。マイコプラズマの場合、生育が遅く、集落(コロニー)を肉眼で観察できない等多くの問題点があり、かなりの技術的経験を要する。特にM.hpについては、増殖培地が他のマイコプラズマと異なり組織培養液に類似した特殊培地でなければ生育できないため、さらに困難である。</base:Paragraphs>
+    <business:Disclosure>
+      <business:TechnicalProblem>
+        <base:Heading>【発明が解決しようとする課題】</base:Heading>
+        <base:Paragraphs num="0009">本発明の目的は、M.hpDNAとのみ特異的にハイブリダイズし、豚流行性肺炎の診断に好適な表面抗原遺伝子、その遺伝子に含まれるプライマー用DNA断片及びそれらを用いて豚流行性肺炎を診断する方法並びにそれらを用いて豚流行性肺炎原因菌マイコプラズマ・ハイオニュウモニエを検出する方法を提供することである。</base:Paragraphs>
+        <base:Paragraphs num="0010">本発明の他の目的は、M.hp抗体と特異的に抗原抗体反応し、豚流行性肺炎の診断に好適な組換えペプチド及びそれらを用いて豚流行性肺炎を診断する方法を提供することである。</base:Paragraphs>
+      </business:TechnicalProblem>
+      <business:TechnicalSolution>
+        <base:Heading>【課題を解決するための手段】</base:Heading>
+        <base:Paragraphs num="0011">本発明者は、M.hp細胞膜に存在する分子量46kdの膜蛋白質をコードする全抗原遺伝子の塩基配列を決定することに成功し、本発明を完成するに到った。本発明は、下記の式(I)で表されるアミノ酸配列(配列番号1)を有する豚流行性肺炎マイコプラズマの表面抗原をコードするDNAを提供するものである。
+Met Lys Lys Met Leu Arg Lys Lys Phe Leu Tyr Ser Ser Ala Ile Tyr 
+                5                   10                  15
+Ala Thr Ser Leu Ala Ser Ile Ile Ala Phe Val Ala Ala Gly Cys Gly 
+            20                  25                  30
+Gln Thr Glu Ser Gly Ser Thr Ser Asp Ser Lys Pro Gln Ala Glu Thr 
+        35                  40                  45
+Leu Lys His Lys Val Ser Asn Asp Ser Ile Arg Ile Ala Leu Thr Asp 
+    50                  55                  60  
+Pro Asp Asn Pro Arg Trp Ile Ser Ala Gln Lys Asp Ile Ile Ser Tyr 
+65                  70                  75                  80
+Val Asp Glu Thr Glu Ala Ala Thr Ser Thr Ile Thr Lys Asn Gln Asp 
+                85                  90                  95
+Ala Gln Asn Asn Trp Leu Thr Gln Gln Ala Asn Leu Ser Pro Ala Pro 
+            100                 105                 110 
+Lys Gly Phe Ile Ile Ala Pro Glu Asn Gly Ser Gly Val Gly Thr Ala 
+        115                 120                 125 
+Val Asn Thr Ile Ala Asp Lys Gly Ile Pro Ile Val Ala Tyr Asp Arg 
+    130                 135                 140 
+Leu Ile Thr Gly Ser Asp Lys Tyr Asp Trp Tyr Val Ser Phe Asp Asn 
+145                 150                 155                 160 
+Glu Lys Val Gly Glu Leu Gln Gly Leu Ser Leu Ala Ala Gly Leu Leu 
+                165                 170                 175 
+Gly Lys Glu Asp Gly Ala Phe Asp Ser Ile Asp Gln Met Asn Glu Tyr 
+            180                 185                 190 
+Leu Lys Ser His Met Pro Gln Glu Thr Ile Ser Phe Tyr Thr Ile Ala 
+        195                 200                 205 
+Gly Ser Gln Asp Asp Asn Asn Ser Gln Tyr Phe Tyr Asn Gly Ala Met 
+    210                 215                 220 
+Lys Val Leu Lys Glu Leu Met Lys Asn Ser Gln Asn Lys Ile Ile Asp 
+225                 230                 235                 240 
+Leu Ser Pro Glu Gly Glu Asn Ala Val Tyr Val Pro Gly Trp Asn Tyr 
+                245                 250                 255 
+Gly Thr Ala Gly Gln Arg Ile Gln Ser Phe Leu Thr Ile Asn Lys Asp 
+            260                 265                 270 
+Pro Ala Gly Gly Asn Lys Ile Lys Ala Val Gly Ser Lys Pro Ala Ser 
+        275                 280                 285 
+Ile Phe Lys Gly Phe Leu Ala Pro Asn Asp Gly Met Ala Glu Gln Ala 
+    290                 295                 300 
+Ile Thr Lys Leu Lys Leu Glu Gly Phe Asp Thr Gln Lys Ile Phe Val 
+305                 310                 315                 320 
+Thr Gly Gln Asp Tyr Asn Asp Lys Ala Lys Thr Phe Ile Lys Asp Gly 
+                325                 330                 335 
+Asp Gln Asn Met Thr Ile Tyr Lys Pro Asp Lys Val Leu Gly Lys Val 
+            340                 345                 350 
+Ala Val Glu Val Leu Arg Val Leu Ile Ala Lys Lys Asn Lys Ala Ser 
+        355                 360                 365 
+Arg Ser Glu Val Glu Asn Glu Leu Lys Ala Lys Leu Pro Asn Ile Ser 
+    370                 375                 380 
+Phe Lys Tyr Asp Asn Gln Thr Tyr Lys Val Gln Gly Lys Asn Ile Asn 
+385                 390                 395                 400 
+Thr Ile Leu Val Ser Pro Val Ile Val Thr Lys Ala Asn Val Asp Asn 
+                405                 410                 415       
+Pro Asp Ala 
+本発明の好ましい実施態様によれば、式(I)で表されるアミノ酸配列を有する豚流行性肺炎マイコプラズマの表面抗原をコードするDNAは、下記の式(II)で表される配列(配列番号2)を有する。
+ATGAAAAAAA TGCTTAGAAA AAAATTCTTG TATTCATCAG CTATTTATGC AACTTCGCTT    60 
+GCATCAATTA TTGCATTTGT TGCAGCAGGT TGTGGACAGA CAGAATCAGG TTCGACTTCA   120 
+GATTCTAAAC CACAAGCCGA GACTCTAAAA CATAAAGTAA GTAATGATTC TATTCGAATA   180 
+GCACTAACCG ATCCGGATAA TCCTCGATGA ATTAGTGCCC AAAAAGATAT TATTTCTTAT   240 
+GTTGATGAAA CAGAGGCAGC AACTTCAACA ATTACAAAAA ACCAGGATGC ACAAAATAAC   300 
+TGACTCACTC AGCAAGCTAA TTTAAGTCCA GCGCCAAAAG GATTTATTAT TGCCCCTGAA   360 
+AATGGAAGTG GAGTTGGAAC TGCTGTTAAT ACAATTGCTG ATAAAGGAAT TCCGATTGTT   420 
+GCCTATGATC GACTAATTAC TGGATCTGAT AAATATGATT GGTATGTTTC TTTTGATAAT   480 
+GAAAAAGTTG GCGAATTACA AGGTCTTTCA CTTGCGGCGG GTCTATTAGG AAAAGAAGAT   540 
+GGTGCTTTTG ATTCAATTGA TCAAATGAAT GAATATCTAA AATCACATAT GCCCCAAGAG   600 
+ACAATTTCTT TTTATACAAT CGCGGGTTCC CAAGATGATA ATAATTCCCA ATATTTTTAT   660 
+AATGGTGCAA TGAAAGTACT TAAAGAATTA ATGAAAAATT CGCAAAATAA AATAATTGAT   720 
+TTATCTCCTG AAGGCGAAAA TGCTGTTTAT GTCCCAGGAT GAAATTATGG AACTGCCGGT   780 
+CAAAGAATCC AATCTTTTCT AACAATTAAC AAAGATCCAG CAGGTGGTAA TAAAATCAAA   840 
+GCTGTTGGTT CAAAACCAGC TTCTATTTTC AAAGGATTTC TTGCCCCAAA TGATGGAATG   900 
+GCCGAACAAG CAATCACCAA ATTAAAACTT GAAGGATTTG ATACCCAAAA AATCTTTGTA   960 
+ACTGGTCAAG ATTATAATGA TAAAGCCAAA ACTTTTATCA AAGACGGCGA TCAAAATATG  1020 
+ACAATTTATA AACCTGATAA AGTTTTAGGA AAAGTTGCTG TTGAAGTTCT TCGGGTTTTA  1080 
+ATTGCAAAGA AAAATAAAGC ATCTAGATCA GAAGTCGAAA ACGAACTAAA AGCAAAACTA  1140 
+CCAAATATTT CATTTAAATA TGATAATCAA ACATATAAAG TGCAAGGTAA AAATATTAAT  1200 
+ACAATTTTAG TAAGTCCAGT AATTGTTACA AAAGCTAATG TTGATAATCC TGATGCCTAA  1260 
+本発明はまた、上記式(I)のアミノ酸配列をコードするDNA配列又は式(II)で表されるDNA配列からなるDNAプローブ、又は式(II)で表されるDNA配列の1~414番目の配列の少なくとも一部を含むDNAプローブを用いて、DNAハイブリダイゼーション法によりマイコプラズマ・ハイオニュウモニエを検出することを特徴とする豚流行性肺炎の診断法を提供するものである。</base:Paragraphs>
+        <base:Paragraphs num="0012">本発明はまた、式(II)で表されるDNA配列の1~414番目の配列の少なくとも一部を含むDNA配列及びその相補鎖DNA配列からなる群から選ばれるプライマー用DNA断片、並びに式(II)で表されるDNA配列の415~1260番目の配列に含まれるDNA配列及びその相補鎖DNA配列からなる群から選ばれるプライマー用DNA断片を提供するものである。</base:Paragraphs>
+        <base:Paragraphs num="0013">本発明はさらにまた、上記プライマー用DNA断片から選択された2種のプライマーを被験液に加え、PCR法(ポリメラーゼ・チェーン・リアクション法)により標的DNAを増幅し、増幅されたDNA断片を検出することを特徴とする、豚流行性肺炎原因菌マイコプラズマ・ハイオニュウモニエの検出方法を提供するものである。</base:Paragraphs>
+        <base:Paragraphs num="0014">本発明の好ましい実施態様では、上記検出方法におけるDNA断片の検出は、式(II)で表されるDNA配列のすべて又は一部からなるDNAプローブを用いて、DNAハイブリダイゼーション法により行われる。本発明はさらに、式(I) で表されるアミノ酸配列又はその一部を有する組換え抗原ペプチドを提供するものである。</base:Paragraphs>
+        <base:Paragraphs num="0015">本発明はさらにまた上記組換え抗原ペプチドに、試料中に存在するM.hpに対する抗体と前記抗原ペプチドが抗原抗体反応するような条件下で試料を接触させ、抗原抗体反応生成物を測定して試料中の前記抗体の存在を確認することを特徴とする豚流行性肺炎の診断法を提供するものである。本発明に使用するPCR法は、1985年にシータス社が開発した技術で、既知の塩基配列を有するDNAを短時間で簡単に増幅することができる方法である。まず、標的2本鎖DNAの2つの3’末端を含む短鎖(例えば20~30ヌクレオチド)のDNAに相補するDNA(プライマーという)を合成その他の方法により調製する。この2種のプライマーと、dATP, dGTP, dCTP及びdTTP並びにDNAポリメラーゼを、試料中に加える。2本鎖DNAを1本鎖DNAに解離させる(ステップ1)。次に、2種のプライマーをそれぞれの1本鎖DNAにアニールし(ステップ2)、プライマーの3’末端を開始点としてDNA相補鎖を伸長させる(ステップ3)。合成された2本鎖DNAを1本鎖DNAに解離させる。以下、ステップ1~3を10~30回繰り返すことにより、1分子のDNAを105 個以上に増幅することができる。</base:Paragraphs>
+        <base:Paragraphs num="0016">PCR法については、下記の文献に詳細に記載されている。
+Mullis, K.B., Methods in Enzymology, 155, 335-350 (1987)
+Saiki, R.K., Science, 230, 1350-1354(1985)
+Saiki, R.K., Nature, 324, 163-166(1986)
+特開昭61-274697号公報
+プライマーを使用して増幅する標的DNAとして式(II)で表されるDNA配列のどの部分を選択するかによって、M.hpの検出感度が大きく変化するので、PCR法を用いるにあたっては、プライマーの選択は重要である。2種のプライマーは2本鎖DNAの別々の鎖にハイブリダイズするような組合せで選ばれる。また、2種のプライマーは、相互に重なり合わず、且つ、2つの3’末端が2つの5’末端の間で前記2本鎖DNAの別々の鎖にそれぞれハイブリダイズするような組合せで選択することが望ましい。プライマーは、重合試薬の存在下で標的DNAの合成を開始するのに十分な長さでなければならない。一般に、10~30、好ましくは15~25のヌクレオチドを含むプライマーが好ましい。次に、本発明のプライマーの具体例を示す。
+  5' ATGAAAAAAA TGCTTAGAAA AAAAT 3' (配列番号3)(式(II)のDNA配列の1~25番目)
+  5' GACAGA CAGAATCAGG TTCGACTTCA G 3'(配列番号4)(95~121番目)
+  5' T TGCCCCTGAA AATGGAAGTG GAGT 3'(配列番号5)(350~374番目)
+  5' A ACAAATGCAA TAATTGATGC AAGC 3'(配列番号6)(81~57番目の相補鎖DNA)
+  5' CTTTATG TTTTAGAGTC TCGGCTTG 3' (配列番号7)(157~133番目の相補鎖DNA)
+  5' CGGA ATTCCTTTAT CAGCAATTGT A 3'(配列番号8)(414~390番目の相補鎖DNA)
+  5' TGTT GCCTATGATC GACTAATTAC T 3'(配列番号9)(417~441番目)
+  5' ACAATT ACTGGACTTA CTAAAATTG 3' (配列番号10)(1226~1202番目の相補鎖DNA)
+  5' TTAGGCATCA GGATTATCAA CATTAGC3' (配列番号11)(1260~1234番目の相補鎖DNA)
+本発明においては、例えば、、及びから選択された1種のプライマーと、、、、及びから選択された1種のプライマーを組み合わせて使用しPCR法により任意の長さの標的DNAを合成する。この際、前者のプライマーの3'末端が、後者のプライマーの5'末端より上流側、好ましくは3' 末端より上流側となるように2種のプライマーを選択することが必要である。このように選択することにより、2種のプライマーの5'末端で挟まれた領域のDNA配列が複製・増幅される。一般に、5' 末端で挟まれた領域のDNA配列の長さは、少なくとも30ヌクレオチドとなるように2種のプライマーを選択することが好ましい。しかし、あまり長くなると増幅効率が低下するので、1000ヌクレオチド以下が好ましい。</base:Paragraphs>
+        <base:Paragraphs num="0017">本発明のプライマーは任意の好適な方法、例えば市販のDNA合成機を用いて容易に合成することができる。重合試薬としては、各種のDNAポリメラーゼ、例えばTaq DNAポリメラーゼ(ベーリンガー社) 、Ampli Taq DNAポリメラーゼ(シータス社)等が使用できる。こうしてPCR法により増幅されたDNA断片は、アガロースゲル又はアクリルアミドゲル等を用いた電気泳動又は高速液体クロマトグラフィ等により分離され、エチジウム・ブロマイド等による染色後、紫外線照射により簡単に検出できる。また、PCR法により増幅されたDNA断片は、上記分離操作を行った後、又は上記分離操作を行うことなく、M.hpの表面抗原をコードするDNAのなかから適当に選択されたDNAをプローブとするDNAハイブリダイゼーション法により、さらに確実に同定することができる。</base:Paragraphs>
+        <base:Paragraphs num="0018">プローブの標識物質としては、従来公知の、放射性同位元素、蛍光物質、酵素、ビオチン・アビシンなどが使用できる。本発明のM.hp表面抗原遺伝子はM.hpのみに存在する特異性の高い遺伝子である。したがって組織から分離した微生物より抽出したDNA中に、この抗原遺伝子が存在するかどうかを判定することにより、M.hpの検出・同定を確実に行うことができる。</base:Paragraphs>
+        <base:Paragraphs num="0019">以下、本発明を詳細に説明する。
+I.M.hp46kd抗原遺伝子のクローニング
+M.hp46kd抗原遺伝子のクローニングの方法の概略を以下に示す。M.hp培養液より菌体を集菌し、SDSを含む緩衝液中で溶菌し、DNAを抽出後、精製する。</base:Paragraphs>
+        <base:Paragraphs num="0020">M.hpDNAを制限酵素Hind IIIで切断し、プラスミドpUC119のHind III切断点にその断片を挿入する。このプラスミドを大腸菌に形質転換し、pKUM1 及び pKUM2のEcoRI 断片を用いて、DNAプローブ法によりコロニーハイブリダイゼーションを行い、46kd抗原遺伝子を含むプラスミド(pURR126)を有する菌を選択する。なおプラスミドpKUM1 又は pKUM2を含有するE.coli JM 109 は微工研寄託番号FERM P-10318及び10319 としてそれぞれ寄託されている(特開平2-167079号公報参照) 。</base:Paragraphs>
+        <base:Paragraphs num="0021">ジデオキシ法により46kd抗原遺伝子の塩基配列を決定する。プライマー伸長法によりこの塩基配列の転写開始点を決定する。こうして、46kd抗原遺伝子の全塩基配列1260bpを決定する。
+II. DNAプローブによるM.hpの検出
+(1) DNAプローブの調製
+プラスミドpUC119のHind III切断点に、46kd抗原遺伝子を含むM.hpDNAの制限酵素Hind III断片を挿入したプラスミド(pURR126)を、Hind IIIで処理して46kd抗原遺伝子の全塩基配列を含むDNA配列を得る。これをさらに適当な制限酵素で切断してより短鎖のDNA配列を得ることもできる。或いは、本発明のプライマーを使用し、46kd抗原遺伝子の少なくとも一部を含むDNAを鋳型としてPCR法により適当な長さのDNAを合成することができる。こうして得られたDNAを精製し、DNAラベリングキット( ベーリンガー社) を用いてジゴキシゲニン標識してDNAプローブとする。
+(2) ハイブリダイゼーション
+培養液をナイロンフィルター(アマシャム社製Hybond-NまたはSchleicher &amp;amp;amp;Schuell 社製NYTRAN NY13N) でろ過し、フィルターを0.5N NaOH  1.5MNaCl溶液に浸す。さらにこのフィルターを0.5MTris-HCl-1.5M NaCl(pH 7.5)に浸した後、乾燥し、非特異的な再結合反応を抑えるためプレハイブリダイゼーション処理(65℃、1hr)を行い、(1) で作成したDNAプローブを加えハイブリダイゼーションを65℃で一夜行う。以下ベーリンガー社キット記載の通り標識DNAの検出を行なう。III.PCR法によるM.hpの検出
+M.hp46kd抗原遺伝子は、M.hpのみが有する特異的な遺伝子領域であることから、その一部のDNAをプライマーとして用いてPCR法を行い、M.hpのみが有する特異的な遺伝子領域又はその一部を増幅することにより、試料中に存在する極めて微量のM.hpを検出することができる。M.hp以外の菌種は上記M.hpのみが有する特異的な遺伝子領域を持たないため、増幅されることはない。通常のDNAプローブ法と比較してDNAプローブが結合する領域が105 倍以上増幅されるため非放射性DNAプローブを用いても放射性プローブを用いた場合以上の感度が得られる。</base:Paragraphs>
+        <base:Paragraphs num="0022">また、PCR法を単独で用いた場合にはゲル電気泳動分析において高いバックグラウンドが出ることがある。このようなバックグラウンドの影響を排除するため、PCR反応終了後、DNAプローブ法により増幅された断片の同定を行うことによってM.hpの検出をより確実なものとすることができる。
+IV. 組換えペプチドの生産
+次に本発明の式(I) のアミノ酸配列で表される組換えペプチドの生産について説明する。組換えペプチドの発現方法としては、大腸菌を用いて融合蛋白質として発現させる方法と、この組換えペプチドを直接発現させる方法とがある。</base:Paragraphs>
+        <base:Paragraphs num="0023">まず、大腸菌を用いて融合蛋白質として発現させる方法について説明する。M.hpでは、通常の生物において停止コドンである遺伝子のTGAコドンをトリプトファンコドンとして認識する。そこで、大腸菌において本発明の抗原ペプチドを生産させるためには、式(II)の210、303及び762番目の塩基AをGに変換する必要がある。このためには公知のin vitro mutagenesis法(Kunkel法又はrecombinant PCR 法)が好適に利用できる。例えば、プラスミドpURR126を利用し、上記塩基の置換を、常法に従い市販in vitro mutagenesisキット(宝酒造(株)製、Mutan K)及び合成オリゴヌクレオチドを用いて実施すればよい。</base:Paragraphs>
+        <base:Paragraphs num="0024">こうして改変したpURR126の抗原遺伝子部分のみを、例えば、PCR法を用いて単離し、これを適当な大腸菌発現ベクター例えば、pMAL-c(Protein Fusion and Purification System, New England Biolab.社製)のStuI-SalI切断部位に導入し、このベクターを大腸菌に導入して得られる形質転換体を培養し、融合蛋白質を発現させる。pMAL-cに導入したものでは、大腸菌マルトース結合蛋白質と表面抗原ペプチドが連結した融合蛋白質が生産される。例えば、pMAL-c導入株により生産されるMaltose binding protein (MBP)はアミロースゲルに結合するため、この性質を利用して精製が可能である。こうして精製した融合蛋白質から目的抗原ペプチドを切り出すには、例えば、Factor Xa 処理による切り出しを利用すればよい。Factor Xa 処理後、再びアミロースゲルに供し、遊離のMBP及び未切断の融合蛋白質を吸着させ、非吸着画分を集め、濃縮したものを精製標品とする。精製標品の純度はSDS電気泳動法により、また、抗46kd抗原モノクローナル抗体との反応性により確認できる。</base:Paragraphs>
+        <base:Paragraphs num="0025">次に、直接発現法を用いた組換え表面抗原ペプチドの生産について説明する。PCR法を用いて改変したpURR126の抗原遺伝子部分のみを単離し、これを大腸菌発現ベクターpKK223-3(ファルマシア社製)のSmaI切断部位に導入する。この方法では、大腸菌由来の蛋白質部分を含まない純粋な組換え表面抗原ペプチドを得ることができる。5′側のプライマーと3′側のプライマーを適切に選択してPCR反応を行うことにより、リボゾーム結合部位を含む表面抗原遺伝子を単離することができる。こうして得られたPCR反応生成物をSmaI消化し、プラスミドpKK223-3(ファルマシア社製)のSmaI切断部位に導入し、大腸菌JM109に形質転換する。塩基配列分析を行い、プラスミドベクターのプロモーター領域側に開始コドンが位置するクローンを単離する。上記の方法で得られた菌株により、組換えペプチドの生産を行う。</base:Paragraphs>
+        <base:Paragraphs num="0026">例えば、培養した菌体を集菌・洗浄後、SDS-PAGE buffer に懸濁し、95℃、10分間加熱し、遠心分離上清をSDS-PAGEに供する。検出は抗表面抗原モノクローナル抗体を用いたイムノブロット及びCBB染色により行うことができる。組換えペプチドを生産したクローンの有していたプラスミドをpMHP46と命名した。本プラスミドを有する組換え大腸菌は、菌体内可溶性画分及び不溶性画分、さらには、ペリプラズマ画分に目的の抗原ペプチドを産生する。特に、ペリプラズマ画分の組換え抗原ペプチドは、シグナル配列が除去された天然型表面抗原ペプチドと同様の構造を持っている。
+V.組換えペプチドを利用した豚マイコプラズマ肺炎の診断方法
+次に、こうして精製した組換え抗原ペプチドを利用して豚マイコプラズマ肺炎を診断する方法、特に ELISA法による方法について説明する。</base:Paragraphs>
+        <base:Paragraphs num="0027">精製組換え抗原を緩衝液で適当に希釈し、マイクロプレートに分注する。一夜、室温で放置した後に、0.05%Tween 20を含むトリス生理食塩水(TBST)で洗浄、1%スキムミルクを含むTBSTにてブロッキング操作を行う。次いで、被検豚血清を1%スキムミルクを含むTBSTで希釈したものを各ウェルに分注し、室温で2時間放置した後に、TBSTで洗浄する。その後、1%スキムミルクを含むTBSTで至適濃度に希釈したペルオキシダーゼ標識抗豚IgG 血清を各ウェルに分注し室温で2時間放置し、TBSTで洗浄する。基質として3,3′,5,5′-テトラメチルベンジジンを加えて室温で15分間反応させた後、SDSを添加し反応を止め、マイクロプレート用吸光度計で各ウェルの405nmにおける吸光度を測定する。吸光度から被検豚血清中の抗体の存在を確認し、豚マイコプラズマ肺炎の感染の有無を判定する。</base:Paragraphs>
+        <base:Paragraphs num="0028">次に上記組換え抗原ペプチドとモノクローナル抗体とを組み合わせたELISA 法による豚マイコプラズマ肺炎原因菌M.hpに対する抗体の検出方法、すなわち、豚マイコプラズマ肺炎の診断方法について説明する。上記組換え抗原ペプチドは、特開昭62-273455号公報に記載されたIgA モノクローナル抗体を用いた豚マイコプラズマ肺炎原因菌M.hpに対する抗体の検出に利用することができる。すなわち、同方法では、M.hp培養菌体よりTween20で抽出した抗原をこのIgAモノクローナル抗体に結合させ、M.hpに対する抗体の検出を行っているが、このTween 20抽出抗原の代わりに上記組換え抗原を用いることができる。この場合、組換え抗原ペプチドを精製する必要はない。例えば、pMHP46を有する組換え抗原生産大腸菌を前述の方法に従い培養し、菌体を集菌後、0.02%アジ化ナトリウム、10 mM2-メルカプトエタノールを含むTBSTに懸濁、超音波破砕を行い、次いで、これを超遠心分離し、上清を粗抗原液とする。特開昭62-273455号公報に記載された方法に従い、IgA モノクローナル抗体14-1を0.1M炭酸ナトリウム緩衝液( pH8.6)で至適濃度に希釈し、96穴マイクロプレートの1ウェルあたり0.1ml ずつ分注する。一夜、室温で放置した後に、0.05%Tween 20を含むトリス生理食塩水(TBST)で洗浄、500倍希釈した粗抗原液またはM.hp Tween20抽出液を各ウェルに加え、室温で2時間反応させる。再び、TBSTで洗浄した後に、1%スキムミルクを含むTBSTにてブロッキング操作を行う。次いで、被検豚血清を1%スキムミルクを含むTBSTで希釈したものを各ウェルに0.1ml ずつ分注、室温で2時間放置した後に、TBSTで洗浄する。その後、1%スキムミルクを含むTBSTで至適濃度に希釈したペルオキシダーゼ標識抗豚IgG 血清を0.1ml ずつ各ウェルに分注し室温で2時間放置し、TBSTで洗浄する。基質として3,3′,5,5′-テトラメチルベンジジンを加えて室温で15分間反応させた後、SDSを添加し反応を止め、マイクロプレート用吸光度計で各ウェルの405nmにおける吸光度を測定する。吸光度から被検豚血清中の抗M.hp抗体の存在を確認し、豚マイコプラズマ肺炎の感染の有無を判定する。</base:Paragraphs>
+        <base:Paragraphs num="0029">以下、実施例により本発明をさらに詳細に説明する。</base:Paragraphs>
+      </business:TechnicalSolution>
+    </business:Disclosure>
+    <business:InventionMode>
+      <base:Heading>【実施例】</base:Heading>
+      <base:Paragraphs num="0030">参考例1    M.hpDNAの抽出及び全塩基配列の決定
+M.hp  ATCC 25934(J株)を動物用生物学的製剤協会から入手した。この微生物をBHL培地〔山本孝史(1982)Proc. 7th Int. Congr. PigVet. Soc Mexico, 94〕中で増殖させた。</base:Paragraphs>
+      <base:Paragraphs num="0031">培地が橙黄色に変化(pH7.0)する対数増殖の中期にてM.hpを集菌した。この培養物を7,000rpm で4℃で20分間遠心分離し、0.25M  NaCl溶液で2回洗浄した。この菌体を、後のDNAの分離等に利用した。M.hp菌体(200ml×4より集菌したもの)を1.8 mlの0.2M Tris-HCl(pH9.0)-0.5M EDTAに懸濁し、0.2ml 10% SDS を加えて45℃、20分保持し、等容のTE緩衝液(10mM Tris-HCl, 1mM EDTA, pH8.0)飽和フェノールを加え緩やかに攪拌し、室温で30分放置後、上層に等容のクロロホルム-イソアミルアルコール(24:1)を加え緩やかに攪拌し、室温で20分放置後、上層に3倍容の冷エタノール(-20 ℃)を加えた。DNAをガラス棒にまきつけて回収した。回収したDNAを70%エタノールで洗浄した後、風乾した。これを1mlのTE緩衝液に溶解し、これに10μl /ml RNaseAを加えて、37℃1時間反応させ、フェノール抽出、及びクロロホルム-イソアミルアルコール抽出後、エタノールを加えて沈澱させ、これをエタノールで洗浄後、風乾し、500mlのTE緩衝液に溶解し、DNA標品とした。</base:Paragraphs>
+      <base:Paragraphs num="0032">上記M.hpDNAを Hind III で消化し、pUC119のHind III切断部位に挿入した後、E.coliJM109株に導入して形質転換し、LB培地(含アンピシリン)プレート上に播いた。37℃、一夜培養後生成したコロニーをコロニー/プラークスクリーン(NEN 社製)上にうつしとった。0.5N  NaOH-1.5M  NaClで3分×2回処理し、次いで1M Tris -HCl(pH7.0)-1.5M  NaClで3分×2回、5×SSCで20分×1回処理後、これを乾燥させた。</base:Paragraphs>
+      <base:Paragraphs num="0033">DNAの非特異結合を抑制するためプレハイブリダイゼーションを65℃、1時間行った。前述のpKUM1 及び pKUM2のEcoRI 断片をDNAプローブとして用いて、コロニーハイブリダイゼーションを65℃、一夜行い、46kd抗原遺伝子を含むプラスミドpURR126 を有する菌のコロニーを得た。このコロニーからプラスミドpURR126 を抽出し、そのプラスミドに含まれる46kd抗原遺伝子を含むDNAについて、キロシークエンス法(Henikoff, S.(1984)Gene, 28, 351-359, Yanisch-Perron, C., Vieira, J. and Messing, J. (1985) Gene, 28、103-119)により塩基配列分析を行った。</base:Paragraphs>
+      <base:Paragraphs num="0034">逆転写酵素の性質(RNA鎖を鋳型にしてDNAを合成する)を利用して、RNA鎖上の適当な位置に相補的なプライマーDNAからDNA合成を行いプライマーの位置からmRNAの5’末端までの長さを求めることによりmRNAの5’末端の位置(転写開始点)を決定する。プライマーDNAは、mRNAに相補的な24mer のオリゴヌクレオチド(式(II)の81~58番目のDNA配列に相補する)をDNA合成機で合成し、その5' 末端をT4 ポリヌクレオチドキナゼとラジオアイソトープ [γ-32P]ATPを用いて標識した。RNAは、RNA抽出キット(ファルマシア)を用いて抽出し全RNA画分を用いた。</base:Paragraphs>
+      <base:Paragraphs num="0035">RNA(約80μg)、標識プライマーDNA(約5×105cpm) 、10×ハイブリダイゼーション緩衝液(4μl)に純水を加えて全量を40μl とした。65℃、1 時間、ついで室温で2時間処理後、伸長用緩衝液 120μl と逆転写酵素2μl (72units) を加え、37℃で1時間、伸長反応を行った。エタノール360μl を加えて-80℃で10分間放置後、遠心分離した。これに70%エタノール1mlを加えて遠心分離し、DNA/RNA鎖を回収した。これを乾燥後、停止緩衝液5μl とTE 1.2μl を加えてアガロースゲル電気泳動を行って、DNA鎖の長さを求め、転写開始点を決定した。</base:Paragraphs>
+      <base:Paragraphs num="0036">使用した緩衝液の組成は次のとおりである。
+10×ハイブリダイゼーション緩衝液
+Tris-HCl(pH8.3)                 100mM
+EDTA                             10 mM
+KCl                             2.5mM
+伸長用緩衝液
+Tris-HCl(pH8.3)                  23 mM
+KCl                              17mM
+MgCl2                            13 mM
+DTT                              13mM
+dATP, dGTP, dCTP, dTTP      各 0.33 mM
+アクチノマイシン               1 mg/ml
+停止緩衝液
+95%   ホルムアミド
+20mM  EDTA
+0.05% BPB
+0.05% キシレンシアノールFF</base:Paragraphs>
+      <base:Paragraphs num="0037">実施例1    DNAプローブ法に用いるDNA断片の調製
+(1) 46kd抗原遺伝子を含むプラスミドpURR126 を制限酵素DdeIで処理し、アガロースゲル電気泳動により295 ヌクレオチドのDdeI断片を精製し、DNAラベリングキット(ベーリンガー社)を用いてジゴキシゲニン標識した。
+(2) PCR法により遺伝子を増幅するには、2本鎖DNAのそれぞれの鎖の3'末端に相補的なプライマーが必要である。この実施例では、プライマー及びの2種の25ヌクレオチドをDNA合成機(ABI 社、Model 391-EP) により合成した。このようにして得られたプライマー及びを用いて式(II)の1~414番目のポリヌクレオチドをPCR法により増幅した。鋳型DNAとしてはM.hpの46kd抗原遺伝子を含むHind III断片をプラスミドpUC 119 に挿入したものを用いた。</base:Paragraphs>
+      <base:Paragraphs num="0038">鋳型DNA                      2.5pmol
+プライマー                  200  pmol
+プライマー                  200  pmol
+10×反応緩衝液                  2.5 μl
+25mM MgCl2                      2.5 μl
+2mM dATP, dGTP, dCTP, dTTP      2.5μl
+Taq DNA ポリメラーゼ            4 units
+水を加えて25μl とする。</base:Paragraphs>
+      <base:Paragraphs num="0039">これを、温度条件をプログラムできるプログラム・インキュベーター内で反応させた。その条件は次のとおりである。
+プレインキュベート      94℃, 2 分
+ステップ 1              94℃, 2 分
+ステップ 2              50℃, 2 分
+ステップ 3              72℃, 2 分
+ステップ1~3を1サイクルとして30サイクル繰り返す。
+ポストインキュベート    72℃, 5 分
+増幅したDNAは、クロロホルム/TE抽出した後、アガロースゲル電気泳動により精製しベーリンガー社のDNAラベリングキットでジゴキシゲニン標識した。</base:Paragraphs>
+      <base:Paragraphs num="0040">実施例2    DNAプローブによるM.hpの検出
+M.hp培養液100 μl(またはM. hyorhinis) をドットプレート(アドバンテック・トーヨー社DP-48等)で濾過し、ナイロン・フィルター(Schleicher &amp;amp;amp; Schuell, NYTRAN NY13N)に菌体を吸着させた。</base:Paragraphs>
+      <base:Paragraphs num="0041">0.5N  NaOH-1.5M NaCl 、2分×2回1M  Tris-HCl、pH7.0-1.5M NaCl 、2分×2回及び20×SSC、3分×1回で処理したのち乾燥し、プレハイブリダイゼーション(65℃1時間)を行い、実施例1の(1) 又は(2) 調製したDNAプローブを加えて、ハイブリダイゼーションを65℃で一夜行った。ついでベーリンガー社キット記載のとおり標識DNAの検出を行った。実施例1の(2) で調製したDNAプローブを用いたときの結果を図1に示す。実施例1の(1)で調製したDNAプローブを用いたときにも、同様の結果が得られた。</base:Paragraphs>
+      <base:Paragraphs num="0042">このように、本発明のDNAプローブは、M.hpの染色体DNAと特異的に反応することから、豚流行性肺炎の診断に有効に利用できることがわかる。</base:Paragraphs>
+      <base:Paragraphs num="0043">実施例3    DNAプローブ法によるM.hpの検出
+実施例1と同様にしてプライマー、、、及び(いずれも25ヌクレオチド)をDNA合成機で合成した。実施例1と同様にPCR法により、プライマーと、と及びとを組み合わせて使用し、それぞれ81ヌクレオチド、157ヌクレオチド及び65ヌクレオチドのDNA断片を得た。これをDNAプローブとして用いて実施例2と同様にして、M.hpの検出を行った。結果を図2に示す。</base:Paragraphs>
+      <base:Paragraphs num="0044">本発明のDNAプローブは、M.hpの染色体DNAと特異的に反応することから、豚流行性肺炎の診断に有効に利用できることがわかる。
+実施例4    PCR法によるM.hpの検出
+M.hp、M.hyorhinis(M.hr) 及びM.flocculare (M.f)の3日培養液各50μl を12,000 rpmで5分遠心分離し、菌体を得た。これを非イオン性界面活性剤(Triton X-100, NP-40, Tween 20)及びProteinase Kを含む緩衝液で処理し、その後95℃で10分間加熱処理しサンプルとした。また、M.hpから抽出したDNA、及び46Kd抗原遺伝子を含むHind III断片を挿入したプラスミドpURR126 については通常の精製操作を行い、PCR法に供した。</base:Paragraphs>
+      <base:Paragraphs num="0045">実施例2と同様にして合成したプライマーとの組合せ(a)、との組合せ(b)及びとの組合せ(c)を使用して、PCR法によるM.hpの検出を行った。反応液組成及び反応条件は次のとおりであった。
+反応液
+サンプルDNA               5~50 ng
+(又は溶菌液)              (25  μl )
+プライマー                  各10 pmol
+10×反応緩衝液                 5  μl
+25mM MgCl2                     5  μl
+2mM dATP, dGTP, dCTP, dTTP     5  μl
+Taq DNA ポリメラーゼ         2.5  units
+水を加えて50μl とした。
+ミネラル・オイルを2滴重層した。</base:Paragraphs>
+      <base:Paragraphs num="0046">これを、温度条件をプログラムできるプログラム・インキュベーター内で反応させた。
+プレインキュベート      94℃, 4.5 分
+ステップ 1              94℃, 1.4 分
+ステップ 2              55℃,   2 分
+ステップ 3              72℃,   2 分
+ステップ1~3を1サイクルとして30サイクル繰り返した。
+ポストインキュベート    72℃,   7 分</base:Paragraphs>
+      <base:Paragraphs num="0047">反応後ミネラル・オイルを除き、反応液5μl をアガロースゲル電気泳動に供した。結果を図3に示す。M.hpDNA(サンプル4及び5)及び46Kd抗原遺伝子を含むプラスミド(サンプル2及び3)については、組合せ(a)(プライマーと)では414ヌクレオチド、組合せ(b)(プライマーと)では1166ヌクレオチド、組合せ(c)(プライマーと)では810ヌクレオチドのDNA断片が増幅された。</base:Paragraphs>
+      <base:Paragraphs num="0048">またM.hp溶菌液(サンプル7)についても同様のDNA断片が増幅されたが、M.hr及びM.f 溶菌液( サンプル8及び9)では、DNAの増幅は認められなかった。この結果は、PCR法により46Kd抗原遺伝子を増幅することにより高感度でM.hpを検出することができることを示している。</base:Paragraphs>
+      <base:Paragraphs num="0049">実施例5    感染豚臨床サンプルからのM.hpの検出
+M.hp実験感染豚より採取した気管洗浄液及び肺乳化物からPCR法によるM.hpの検出を行った。</base:Paragraphs>
+      <base:Paragraphs num="0050">(1) M.hp実験感染豚からのサンプルの調製
+1ヶ月令の無菌豚にM.hpを108 個鼻腔内接種した。接種後、4週間飼育し、解剖して肺を摘出した。気管洗浄液は、気道よりPBSを注入し、回収した液であり、肺乳化物は、肺病変部をPBSで乳化した液である。それぞれの液を2000 rpm、2分間遠心分離してリンパ球等の混在物を除きサンプルを調製した。
+(2) PCR法
+実施例4と同様にM.hp溶菌液を調製し、同様の条件でPCR法を行った。結果を図4に示す。</base:Paragraphs>
+      <base:Paragraphs num="0051">気管洗浄液(サンプル2)及び肺乳化物(サンプル3)の両者について、組合せ(a)(プライマーと)では414ヌクレオチド、組合せ(b)(プライマーと)では1166ヌクレオチド、組合せ(c)(プライマーと)では810ヌクレオチドのDNA断片が増幅された。この結果は、本発明のPCR法によれば、気管洗浄液、肺乳化物等のサンプルから直接に、しかも極めて短時間且つ容易にM.hpを検出することができることを示している。</base:Paragraphs>
+      <base:Paragraphs num="0052">実施例6    PCR法-DNAプローブ法によるM.hpの検出
+実施例5において、気管洗浄液、M.hp溶菌液、M.hr溶菌液及びM.f 溶菌液について、PCR法を行った後、サンプルをナイロン膜上にスポットし、46kd抗原遺伝子をベーリンガー社製キットでジゴキシゲニン標識したものをプローブとした非放射性DNAプローブ法による検出を試みた。</base:Paragraphs>
+      <base:Paragraphs num="0053">PCR法反応終了後、反応液5μl をナイロン膜上にスポットし、アルカリ処理、中和、乾燥を行った。この膜をハイブリダイゼーションに供した。
+組合せ(a)(プライマーと)については、M.hp46kd抗原遺伝子の一部を含むプラスミドベクターpURR130(pUC118のSmaI部位に式(II)で表されるDNA配列の1~414番目の配列を挿入したもの)の制限酵素KpnI及びBamHI 切断断片をアガロースゲル電気泳動で精製し、DNAプローブとして使用した。</base:Paragraphs>
+      <base:Paragraphs num="0054">組合せ(b)(プライマーと)及び組合せ(c)(プライマーと)については、M.hp46kd抗原遺伝子の一部を含むプラスミドベクターpKUM1 の制限酵素EcoRI 切断断片をアガロースゲル電気泳動で精製し、DNAプローブとして使用した。DNA断片は、ジゴキシゲニン標識し、検出は酵素抗体法によって行った。結果を図5に示す。</base:Paragraphs>
+      <base:Paragraphs num="0055">この方法では、通常のDNAプローブ法と比較して検出感度がきわめて高く、またバックグラウンドもほとんどなかった。
+実施例7  in vitro mutagenesisによるM.hp遺伝子の改変
+M.hpでは、通常の生物において停止コドンである遺伝子のTGAコドンをトリプトファンコドンとして認識する。そこで、大腸菌において本発明の抗原ペプチドを生産する目的で、式(II)の210、303及び762番目の塩基Aをin vitro mutagenesis法により塩基Gに置換した。すなわち、プラスミドpURR126について、常法に従い市販in vitro mutagenesisキット(宝酒造製、Mutan K)及び合成オリゴヌクレオチドを用いて上記置換を実施した。</base:Paragraphs>
+      <base:Paragraphs num="0056">使用した変異導入用合成オリゴヌクレオチドはすべて25ヌクレオチドのものであり、その塩基配列は以下の通りである。
+GGGCA CTAAT CCATC GAGGA T(配列番号12)
+(式 (II) の220~200番目の相補鎖DNA、下線のある210番目の塩基TがCに置き換えられている)
+GCTGA GTGAG CCAGT TATTT T(配列番号13)
+(式 (II) の313~293番目の相補鎖DNA、下線のある303番目の塩基TがCに置き換えられている)
+TTCCA TAATT CCATC CTGGG A(配列番号14)
+(式 (II) の772~752番目の相補鎖DNA、下線のある762番目の塩基TがCに置き換えられている)
+DNA合成機で合成した上記各オリゴヌクレオチドの5′末端を以下のようにしてリン酸化した。オリゴヌクレオチド  10pmol、5×Kination buffer 2μl 、T4ポリヌクレオチドキナーゼ10ユニットに水を加えて10μlとした。この混合物を37℃、15分、次いで70℃、10分処理してリン酸化合成オリゴヌクレオチド液を調製した。</base:Paragraphs>
+      <base:Paragraphs num="0057">次にdUを含む1本鎖DNAを以下のように調製した。HindIII 断片を含むpURR126を大腸菌MV1184に形質転換し、LB(+Ap)培地で前培養した。前培養液30μlを2×YT(+Ap)3mlに接種し、ファージM13KO7を moi(菌に対するファージの割合)=2~10で感染させ、37℃、30分、静置後、カナマイシン(70μg/ml )を加えて、ファージの感染していない菌を淘汰した。37℃、一夜、振盪し、遠心分離した。上清と大腸菌BW313(dut - ung - ) 培養液80μl を混合し、37℃、10分、静置後、LB(+Ap)プレートに播き、37℃、一夜培養した。シングルコロニーを2×YT(+Ap)で前培養し、前培養液1ml を2×YT100ml に接種し、M13KO7をmoi =2~10で感染させ、37℃、30分、静置後、カナマイシン(70μg/ml )を加えた。37℃、一夜、振盪し、遠心分離した。上清にNaCl/PEG 25ml を加え、室温、10分放置後、遠心分離した。沈殿をTE (Tris-EDTA)バッファー5ml に溶解し、フェノール/TE  5ml を加えて攪拌し、室温で10分、静置後、遠心分離し、水層にフェノール/クロロホルム/TE  5ml を加えて攪拌し、室温で10分、静置後、遠心分離し、水層にクロロホルム/イソアミルアルコール  5ml を加え攪拌した。10分、静置後、遠心分離し、水層に3M AcONH4(pH8)  500μl とイソプロパノール5ml を加えて遠心分離し、沈殿を70%エタノールで洗浄し、乾燥後、TEに溶解し、1本鎖(ss)DNA液とした。</base:Paragraphs>
+      <base:Paragraphs num="0058">次に相補鎖の合成を行った。上記ssDNA液  0.2pmolとアニーリング緩衝液1μl に水を加えて10μl とし、この液1μl に、先に調製したリン酸化合成オリゴヌクレオチド液  1μl を加え、65℃、15分、次いで37℃、15分処理し、伸長緩衝液25μl 、大腸菌DNAリガーゼ  60ユニット及びT4DNAポリメラーゼ  1ユニットを加え、室温、2時間放置後、0.2M  EDTA( pH8)3μl を加え、65℃、5分放置し、2本鎖(ds)DNA液を得た。</base:Paragraphs>
+      <base:Paragraphs num="0059">このdsDNA液3μl を大腸菌BMH71-18mut S (ung+ ) のコンピテント細胞培養液30μl と混合し、0℃、30分、42℃、45秒、及び0℃、3分の処理後、HCB(High Competent Broth) (ニッポンジーン社製)300μl に播き、37℃、1時間振盪した。これに、M13KO7  10μl を加え、37℃、30分処理後、2×YT(+Ap+カナマイシン)1ml を加え、37℃、一夜振盪し、遠心分離した。この上清20μl とMV1184培養液80μl を混合し、37℃、10分、静置し、LBプレート(+Ap)に播き、37℃、一夜培養して形質転換体を得た。
+実施例8  融合蛋白質発現法による組換え表面抗原ペプチドの生産とそれを用いた豚マイコプラズマ肺炎の診断
+改変したpURR126の抗原遺伝子部分のみをPCR法を用いて単離し、これを大腸菌発現ベクターpMAL-c(Protein Fusion andPurification System. New England Biolab 社製)のStuI-SalI 切断部位に導入した。</base:Paragraphs>
+      <base:Paragraphs num="0060">pMAL-cに導入したものでは、大腸菌マルトース結合蛋白質と表面抗原ペプチドが連結した融合蛋白質が生産される。この融合蛋白質は、アミロース結合樹脂で精製が可能である。
+1)  pMAL-cを用いた組換え抗原ペプチドの生産とその精製
+改変したpURR126表面抗原遺伝子部分をPCR法で単離した。</base:Paragraphs>
+      <base:Paragraphs num="0061">使用したプライマーは以下の通りである。
+5′側  GGAAG CCCGG GATGA AAAAA ATGCT TAGAA AAAAA TTCT(配列番号15)
+(この配列の6~11番目のCCCGGGはSmaIのリンカーであり、12~39番目が式 (II) の1~28番目に相当する。)
+3′側  GGAAG TCGAC TAACT TTTAG AAATT TTAGG CATCA GG(配列番号16)
+(この配列の5~10番目のGTCGACはSalIのリンカーであり、11~37番目が式 (II) の1275~1249番目の相補鎖DNAである。ただし、式(II) には1260番目までしか示されていない。)
+これを用いてPCR反応を行うことにより5′末端にGGG(Gly コドン) が付き1アミノ酸残基長い表面抗原遺伝子を単離できる。</base:Paragraphs>
+      <base:Paragraphs num="0062">PCR生産物をSmaI-SalI 消化し、アガロースゲル電気泳動により精製した。これをpMAL-c(NEB社製)のStuI-SalI に導入し、大腸菌JM109に形質転換した。上記の方法で得られた菌株について、融合蛋白質生産を検討した。一夜培養した菌液200μlを10ml のLB倍地に植菌し、37℃、3時間培養した。これに終濃度0.3 mMのIPTG(isopropyl thiogalactoside) を加え、さらに2時間培養した。</base:Paragraphs>
+      <base:Paragraphs num="0063">菌体を集菌・洗浄後、SDS-PAGE緩衝液に懸濁し、95℃、10分間加熱した。遠心分離後、上清をSDS-PAGEに供した。検出は抗表面抗原モノクローナル抗体を用いたイムノブロット及びCBB染色によった。最も生産性が高い株が有するプラスミドをpMC46と命名した。最終的に、大腸菌全蛋白質量の10%以上の組換え蛋白質を生産する株が得られた。</base:Paragraphs>
+      <base:Paragraphs num="0064">M.hp表面抗原遺伝子を導入したpMC46の発現する融合蛋白質についてNEB社のマニュアルに従い精製を行った。pMAL-cにより生産されるマルトース結合蛋白質(MBP)はアミロースゲルに結合するため、この性質を利用して精製を試みた。また、Factor Xa による融合蛋白質からの目的抗原ペプチドの切り出しも行った。
+・融合蛋白質の精製
+pMC46細胞質内可溶性画分をアミロースカラムに供した。
+・Factor Xa による切断
+アミロースカラムで精製した融合蛋白質をFactor Xa で切断した。融合蛋白質を8M尿素-TBSに透析、その後段階的に尿素の濃度を低くしたTBSに透析し、終濃度0.5MまでおとしてFactor Xa 処理した。この処理により、切断効率を上昇させることができた。
+・MBPの除去
+Factor Xa 処理後、再びアミロースゲルに供し、遊離のMBP及び未切断の融合蛋白質を吸着させた。非吸着画分を集め、濃縮したものを精製標品とした。</base:Paragraphs>
+      <base:Paragraphs num="0065">精製標品の純度はSDS電気泳動法により確認した。また、抗46kd抗原モノクローナル抗体との反応性についても確認した。
+2) ELISA法による豚マイコプラズマ肺炎の診断
+pMAL-cを用いて生産した組換え抗原ペプチドをELISA 法に利用し、豚マイコプラズマ肺炎の診断を行った。</base:Paragraphs>
+      <base:Paragraphs num="0066">精製組換え抗原ペプチドを0.1M炭酸ナトリウム緩衝液(pH8.6)で0.05μg/ml の濃度に希釈し、96穴マイクロプレートの1ウェルあたり0.1mlずつ分注した。一夜、室温で放置した後に、0.05%Tween 20を含むトリス生理食塩水(TBST)で洗浄、1%スキムミルクを含むTBSTにてブロッキング操作を行った。ついで、被検豚血清を1%スキムミルクを含むTBSTで100倍に希釈したものを各ウェルに0.1ml ずつ分注し、室温で2時間放置した後に、TBSTで洗浄した。その後、1%スキムミルクを含むTBSTで至適濃度に希釈したペルオキシダーゼ標識抗豚IgG 血清を0.1mlずつ各ウェルに分注し室温で2時間放置し、TBSTで洗浄した。基質として3,3′,5,5′-テトラメチルベンジジンを加えて室温で15分間反応させた後、SDSを添加し反応を止め、マイクロプレート用吸光度計で各ウェルの405nmにおける吸光度を測定した。結果を表1に示した。</base:Paragraphs>
+      <base:Paragraphs num="0067">表1.組換え抗原を用いたELISA 法
+      ────────────────────────────
+                  サンプル                      吸光度(405nm) 
+      ────────────────────────────
+       SPF豚                          No.1          0.01
+                                      No.2          0.07
+                                      No.3          0.04
+                                      No.4          0.16
+                                      No.5          0.32
+       M.hp 実験感染豚                No.1          0.72
+                                      No.2          1.40
+                                      No.3          0.65
+                                      No.4          1.15
+                                      No.5          0.68
+                                      No.6          0.67
+       M. flocculare実験感染豚        No.1          0.38
+      ────────────────────────────
+マイコプラズマ肺炎に感染していないことが、菌分離法等により確認された豚をSPF(specific pathogen free) 豚とした。また、実験的にM.hpを感染させ、肺病変形成を確認したものをM.hp実験感染豚とした。さらに、M.hpの近縁菌で血清学的に区別することが難しい M. flocculare実験感染豚についても、試験を行った。</base:Paragraphs>
+      <base:Paragraphs num="0068">本実験条件で、405nmにおける吸光度が0.5以下のものはマイコプラズマ肺炎陰性と判定できる。
+実施例9  直接発現法を用いた組換え表面抗原ペプチドの生産とそれを用いた豚マイコプラズマ肺炎の診断
+PCR法を用いて改変したpURR126の抗原遺伝子部分のみを単離し、これを大腸菌発現ベクターpKK223-3(ファルマシア社製)のSmaI切断部位に導入した。</base:Paragraphs>
+      <base:Paragraphs num="0069">この方法では、大腸菌由来の蛋白質部分を含まない純粋な組換え表面抗原蛋白質を得ることができる。
+1)pKK223-3による生産
+5′側のプライマーとして
+GGAAC CCGGG TTGTA TAATT GAATT AACTTGATTT GA(配列番号17)
+(この配列の5~10番目のCCCGGGはSmaIのリンカーであり、11~37番目が式 (II) の-38~-12番目に相当する。ただし、式 (II) には1~1260番目までしか示されていない。)を
+3′側のプライマーとして
+GGAAC CCGGG TAACT TTTAG AAATT TTAGGCATCA GG(配列番号18)
+(この配列の5~10番目のCCCGGGはSmaIのリンカーであり、11~37番目が式 (II) の1275~1249番目の相補鎖DNAである。ただし、式(II) には1260番目までしか示されていない。)
+を用いてPCR反応を行った。これによりリボゾーム結合部位を含む表面抗原遺伝子を単離できる。</base:Paragraphs>
+      <base:Paragraphs num="0070">PCR生産物をSmaI消化し、プラスミドpKK223-3(ファルマシア社製)のSmaI切断部位に導入し、大腸菌JM109に形質転換した。塩基配列分析を行い、プラスミドベクターのプロモーター領域側に開始コドンが位置するクローンを単離した。上記の方法で得られた菌株について、組換えペプチド生産を検討した。</base:Paragraphs>
+      <base:Paragraphs num="0071">一夜培養した菌液200μlを10ml のLB培地に植菌し、37℃、3時間培養した。これに終濃度0.3 mMのIPTGを加え、さらに2時間培養した。菌体を集菌・洗浄後、SDS-PAGE緩衝液に懸濁し、95℃、10分間加熱した。遠心分離上清をSDS-PAGEに供した。検出は抗表面抗原モノクローナル抗体を用いたイムノブロット及びCBB染色によった。</base:Paragraphs>
+      <base:Paragraphs num="0072">組換えペプチドを生産したクローンの有していたプラスミドをpMHP46と命名した。このプラスミドを有する組換え大腸菌は、菌体内可溶性画分及び不溶性画分、さらには、ペリプラズマ画分に抗原ペプチドを産生した。特に、ペリプラズマ画分の組換え抗原ペプチドは、シグナル配列が除去された天然型表面抗原ペプチドと同様の構造を持っていた。
+2)モノクローナル抗体と組み合わせたELISA 法への応用
+特開昭62-273455号公報に記載されたIgA モノクローナル抗体を用いた豚マイコプラズマ肺炎原因菌M.hpに対する抗体の検出にこの組換え抗原ペプチドを応用することができる。すなわち、同方法では、M.hp培養菌体よりTween 20で抽出した抗原をこのIgA モノクローナル抗体に結合させ、豚マイコプラズマ肺炎原因菌M.hpに対する抗体の検出を行っているが、このTween 20抽出抗原の代わりに上記組換え抗原を用いることができる。この場合、組換え抗原ペプチドを精製する必要はない。</base:Paragraphs>
+      <base:Paragraphs num="0073">pMHP46を有する組換え抗原ペプチド生産大腸菌を前述の方法に従い培養し、菌体を集菌後、0.02%アジ化ナトリウム、10 mM2-メルカプトエタノールを含むTBSTに懸濁、超音波破砕を行った。次いで、これを100,000rpm 、30分間超遠心分離し、上清を粗抗原液とした。特開昭62-273455号公報に記載された方法に従い、IgA モノクローナル抗体14-1を0.1M炭酸ナトリウム緩衝液( pH8.6)で至適濃度に希釈し、96穴マイクロプレートの1ウェルあたり0.1ml ずつ分注した。一夜、室温で放置した後に、0.05% Tween20を含むトリス生理食塩水(TBST)で洗浄、500倍希釈した粗抗原液またはM.hp Tween20抽出液を各ウェルに加え、室温で2時間反応させた。再び、TBSTで洗浄した後に、1%スキムミルクを含むTBSTにてブロッキング操作を行った。ついで、被検豚血清を1%スキムミルクを含むTBSTで100倍に希釈したものを各ウェルに0.1ml ずつ分注し、室温で2時間放置した後に、TBSTで洗浄した。その後、1%スキムミルクを含むTBSTで至適濃度に希釈したペルオキシダーゼ標識抗豚IgG 血清を0.1ml ずつ各ウェルに分注し、室温で2時間放置し、TBSTで洗浄した。基質として3,3′,5,5′-テトラメチルベンジジンを加えて室温で15分間反応させた後、SDSを添加して反応を止め、マイクロプレート用吸光度計で各ウェルの405nmにおける吸光度を測定した。結果を表2に示した。</base:Paragraphs>
+      <base:Paragraphs num="0074">表2.ダブルサンドイッチ法によるM.hpの検出
+  ─────────────────────────────────
+                                                吸光度(405nm) 
+                                        ──────────────
+    サンプル                             Tween20抽出抗原  組換え抗原
+  ─────────────────────────────────
+    ブランク                                  0.000         0.000 
+     SPF豚                      No.6          0.008         0.006 
+                                No.7          0.012         0.045 
+                                No.8          0.005         0.014 
+                                No.9          0.012         0.067 
+                                No.10         0.002         0.061 
+   M.hp 実験感染豚              No.7          0.677         0.891 
+                                No.8          0.777         1.128 
+                                No.9          0.514         1.041     
+                                No.10         0.787         1.052 
+                                No.11         0.092         0.720 
+                                No.12         0.515         1.172 
+   M. flocculare実験感染豚      No.2          0.041         0.081 
+  ─────────────────────────────────
+  マイコプラズマ肺炎に感染していないことが、菌分離法等により確認された豚をSPF豚とした。また、実験的にM.hpを感染させ、肺病変形成を確認したものをM.hp実験感染豚とした。さらに、M.hpの近縁菌で血清学的に区別することが難しい M. flocculare実験感染豚についても、試験を行った。</base:Paragraphs>
+      <base:Paragraphs num="0075">本実験条件で、405nmにおける吸光度が0.5以下のものはマイコプラズマ肺炎陰性と判定できる。</base:Paragraphs>
+    </business:InventionMode>
+    <business:Disclosure>
+      <business:AdvantageousEffects>
+        <base:Heading>【発明の効果】</base:Heading>
+        <base:Paragraphs num="0076">本発明のDNAは、これをプローブとして用いることにより、M.hpに固有の染色体DNAを検出することができるので、M.hpの検出ならびにM.hp感染豚の検出を、容易かつ確実に行うことができる。また、本発明のDNAをプライマーとしてPCR法を行うことにより、試料中の極めて微量のM.hpを検出することができる。</base:Paragraphs>
+        <base:Paragraphs num="0077">配列番号:1
+配列の長さ:403
+配列の型:アミノ酸
+トポロジー:直鎖状
+配列の種類:ペプチド
+配列
+Met Lys Lys Met Leu Arg Lys Lys Phe Leu Tyr Ser Ser Ala Ile Tyr 
+                5                   10                  15
+Ala Thr Ser Leu Ala Ser Ile Ile Ala Phe Val Ala Ala Gly Cys Gly 
+            20                  25                  30
+Gln Thr Glu Ser Gly Ser Thr Ser Asp Ser Lys Pro Gln Ala Glu Thr 
+        35                  40                  45
+Leu Lys His Lys Val Ser Asn Asp Ser Ile Arg Ile Ala Leu Thr Asp 
+    50                  55                  60  
+Pro Asp Asn Pro Arg Trp Ile Ser Ala Gln Lys Asp Ile Ile Ser Tyr 
+65                  70                  75                  80
+Val Asp Glu Thr Glu Ala Ala Thr Ser Thr Ile Thr Lys Asn Gln Asp 
+                85                  90                  95
+Ala Gln Asn Asn Trp Leu Thr Gln Gln Ala Asn Leu Ser Pro Ala Pro 
+            100                 105                 110 
+Lys Gly Phe Ile Ile Ala Pro Glu Asn Gly Ser Gly Val Gly Thr Ala 
+        115                 120                 125 
+Val Asn Thr Ile Ala Asp Lys Gly Ile Pro Ile Val Ala Tyr Asp Arg 
+    130                 135                 140 
+Leu Ile Thr Gly Ser Asp Lys Tyr Asp Trp Tyr Val Ser Phe Asp Asn 
+145                 150                 155                 160 
+Glu Lys Val Gly Glu Leu Gln Gly Leu Ser Leu Ala Ala Gly Leu Leu 
+                165                 170                 175 
+Gly Lys Glu Asp Gly Ala Phe Asp Ser Ile Asp Gln Met Asn Glu Tyr 
+            180                 185                 190 
+Leu Lys Ser His Met Pro Gln Glu Thr Ile Ser Phe Tyr Thr Ile Ala 
+        195                 200                 205 
+Gly Ser Gln Asp Asp Asn Asn Ser Gln Tyr Phe Tyr Asn Gly Ala Met 
+    210                 215                 220 
+Lys Val Leu Lys Glu Leu Met Lys Asn Ser Gln Asn Lys Ile Ile Asp 
+225                 230                 235                 240 
+Leu Ser Pro Glu Gly Glu Asn Ala Val Tyr Val Pro Gly Trp Asn Tyr 
+                245                 250                 255 
+Gly Thr Ala Gly Gln Arg Ile Gln Ser Phe Leu Thr Ile Asn Lys Asp 
+            260                 265                 270 
+Pro Ala Gly Gly Asn Lys Ile Lys Ala Val Gly Ser Lys Pro Ala Ser 
+        275                 280                 285 
+Ile Phe Lys Gly Phe Leu Ala Pro Asn Asp Gly Met Ala Glu Gln Ala 
+    290                 295                 300 
+Ile Thr Lys Leu Lys Leu Glu Gly Phe Asp Thr Gln Lys Ile Phe Val 
+305                 310                 315                 320 
+Thr Gly Gln Asp Tyr Asn Asp Lys Ala Lys Thr Phe Ile Lys Asp Gly 
+                325                 330                 335 
+Asp Gln Asn Met Thr Ile Tyr Lys Pro Asp Lys Val Leu Gly Lys Val 
+            340                 345                 350 
+Ala Val Glu Val Leu Arg Val Leu Ile Ala Lys Lys Asn Lys Ala Ser 
+        355                 360                 365 
+Arg Ser Glu Val Glu Asn Glu Leu Lys Ala Lys Leu Pro Asn Ile Ser   
+    370                 375                 380 
+Phe Lys Tyr Asp Asn Gln Thr Tyr Lys Val Gln Gly Lys Asn Ile Asn 
+385                 390                 395                 400 
+Thr Ile Leu Val Ser Pro Val Ile Val Thr Lys Ala Asn Val Asp Asn 
+                405                 410                 415 
+Pro Asp Ala</base:Paragraphs>
+        <base:Paragraphs num="0078">配列番号:2
+配列の長さ:1260
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:Genomic DNA
+起源
+生物名:マイコプラズマ・ハイオニュウモニエ(Mycoplasma hyopneumoniae)
+株名:J
+配列
+ATGAAAAAAA TGCTTAGAAA AAAATTCTTG TATTCATCAG CTATTTATGC AACTTCGCTT    60 
+GCATCAATTA TTGCATTTGT TGCAGCAGGT TGTGGACAGA CAGAATCAGG TTCGACTTCA   120 
+GATTCTAAAC CACAAGCCGA GACTCTAAAA CATAAAGTAA GTAATGATTC TATTCGAATA   180 
+GCACTAACCG ATCCGGATAA TCCTCGATGA ATTAGTGCCC AAAAAGATAT TATTTCTTAT   240 
+GTTGATGAAA CAGAGGCAGC AACTTCAACA ATTACAAAAA ACCAGGATGC ACAAAATAAC   300 
+TGACTCACTC AGCAAGCTAA TTTAAGTCCA GCGCCAAAAG GATTTATTAT TGCCCCTGAA   360 
+AATGGAAGTG GAGTTGGAAC TGCTGTTAAT ACAATTGCTG ATAAAGGAAT TCCGATTGTT   420 
+GCCTATGATC GACTAATTAC TGGATCTGAT AAATATGATT GGTATGTTTC TTTTGATAAT   480 
+GAAAAAGTTG GCGAATTACA AGGTCTTTCA CTTGCGGCGG GTCTATTAGG AAAAGAAGAT   540 
+GGTGCTTTTG ATTCAATTGA TCAAATGAAT GAATATCTAA AATCACATAT GCCCCAAGAG   600 
+ACAATTTCTT TTTATACAAT CGCGGGTTCC CAAGATGATA ATAATTCCCA ATATTTTTAT   660 
+AATGGTGCAA TGAAAGTACT TAAAGAATTA ATGAAAAATT CGCAAAATAA AATAATTGAT   720 
+TTATCTCCTG AAGGCGAAAA TGCTGTTTAT GTCCCAGGAT GAAATTATGG AACTGCCGGT   780 
+CAAAGAATCC AATCTTTTCT AACAATTAAC AAAGATCCAG CAGGTGGTAA TAAAATCAAA   840 
+GCTGTTGGTT CAAAACCAGC TTCTATTTTC AAAGGATTTC TTGCCCCAAA TGATGGAATG   900 
+GCCGAACAAG CAATCACCAA ATTAAAACTT GAAGGATTTG ATACCCAAAA AATCTTTGTA   960 
+ACTGGTCAAG ATTATAATGA TAAAGCCAAA ACTTTTATCA AAGACGGCGA TCAAAATATG  1020 
+ACAATTTATA AACCTGATAA AGTTTTAGGA AAAGTTGCTG TTGAAGTTCT TCGGGTTTTA  1080 
+ATTGCAAAGA AAAATAAAGC ATCTAGATCA GAAGTCGAAA ACGAACTAAA AGCAAAACTA  1140 
+CCAAATATTT CATTTAAATA TGATAATCAA ACATATAAAG TGCAAGGTAA AAATATTAAT  1200 
+ACAATTTTAG TAAGTCCAGT AATTGTTACA AAAGCTAATG TTGATAATCC TGATGCCTAA  1260 
+配列番号:3
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+ATGAAAAAAA TGCTTAGAAA AAAAT                                          25</base:Paragraphs>
+        <base:Paragraphs num="0079">配列番号:4
+配列の長さ:27
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GACAGACAGA ATCAGGTTCG ACTTCAG                                        27</base:Paragraphs>
+        <base:Paragraphs num="0080">配列番号:5
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TTGCCCCTGA AAATGGAAGT GGAGT                                          25</base:Paragraphs>
+        <base:Paragraphs num="0081">配列番号:6
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+AACAAATGCA ATAATTGATG CAAGC                                          25</base:Paragraphs>
+        <base:Paragraphs num="0082">配列番号:7
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+CTTTATGTTT TAGAGTCTCG GCTTG                                          25</base:Paragraphs>
+        <base:Paragraphs num="0083">配列番号:8
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+CGGAATTCCT TTATCAGCAA TTGTA                                          25</base:Paragraphs>
+        <base:Paragraphs num="0084">配列番号:9
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TGTTGCCTAT GATCGACTAA TTACT                                          25</base:Paragraphs>
+        <base:Paragraphs num="0085">配列番号:10
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+ACAATTACTG GACTTACTAA AATTG                                          25</base:Paragraphs>
+        <base:Paragraphs num="0086">配列番号:11
+配列の長さ:27
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TTAGGCATCA GGATTATCAA CATTAGC                                        27</base:Paragraphs>
+        <base:Paragraphs num="0087">配列番号:12
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGGCACTAAT CCATCGAGGA T                                              21</base:Paragraphs>
+        <base:Paragraphs num="0088">配列番号:13
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GCTGAGTGAG CCAGTTATTT T                                              21</base:Paragraphs>
+        <base:Paragraphs num="0089">配列番号:14
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TTCCATAATT CCATCCTGGG A                                              21</base:Paragraphs>
+        <base:Paragraphs num="0090">配列番号:15
+配列の長さ:39
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAAGCCCGG GATGAAAAAA ATGCTTAGAA AAAAATTCT                           39</base:Paragraphs>
+        <base:Paragraphs num="0091">配列番号:16
+配列の長さ:37
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAAGTCGAC TAACTTTTAG AAATTTTAGG CATCAGG                             37</base:Paragraphs>
+        <base:Paragraphs num="0092">配列番号:17
+配列の長さ:37
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAACCCGGG TTGTATAATT GAATTAACTT GATTTGA                             37</base:Paragraphs>
+        <base:Paragraphs num="0093">配列番号:18
+配列の長さ:37
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAACCCGGG TAACTTTTAG AAATTTTAGG CATCAGG                             37</base:Paragraphs>
+      </business:AdvantageousEffects>
+    </business:Disclosure>
+    <business:DrawingsDescription>
+      <base:Heading>【図面の簡単な説明】</base:Heading>
+      <base:Paragraphs num="0094">【図1】本発明の式(II)の1~414番目の配列で表されるDNAをプローブとして用いたハイブリダイゼーション法によるM.hpの検出結果を示す。</base:Paragraphs>
+      <base:Paragraphs num="0095">【図2】本発明の式(II)で表されるDNA配列に含まれる一部の配列をプローブとして用いたハイブリダイゼーション法によるM.hpの検出結果を示す。</base:Paragraphs>
+      <base:Paragraphs num="0096">【図3】本発明のプライマーDNA断片を用いたPCR法によるM.hpの検出結果を示す。</base:Paragraphs>
+      <base:Paragraphs num="0097">【図4】本発明のプライマーDNA断片を用いたPCR法による、感染豚サンプルからのM.hpの検出結果を示す。</base:Paragraphs>
+      <base:Paragraphs num="0098">【図5】本発明のプライマーDNA断片を用いたPCR法とDNAプローブ法を組み合わせた際の、M.hpの検出結果を示す。</base:Paragraphs>
+    </business:DrawingsDescription>
+  </business:Description>
+  <business:Drawings sourceDB="JP">
+    <base:Figure num="0001" figureLabels="図1">
+      <base:Image id="000002" file="03121868_000002.TIF" he="053" wi="100" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0002" figureLabels="図5">
+      <base:Image id="000003" file="03121868_000003.TIF" he="055" wi="082" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0003" figureLabels="図2">
+      <base:Image id="000004" file="03121868_000004.TIF" he="156" wi="090" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0004" figureLabels="図3">
+      <base:Image id="000005" file="03121868_000005.TIF" he="183" wi="122" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+    <base:Figure num="0005" figureLabels="図4">
+      <base:Image id="000006" file="03121868_000006.TIF" he="176" wi="096" imgContent="drawing" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims dataFormat="original" lang="ja" sourceDB="JP">
+    <business:Claim num="0001">
+      <business:ClaimText>【請求項1】  下記の式(I)で表されるアミノ酸配列を有する豚流行性肺炎マイコプラズマの表面抗原をコードするDNA。
+Met Lys Lys Met Leu Arg Lys Lys Phe Leu Tyr Ser Ser Ala Ile Tyr 
+                5                   10                  15
+Ala Thr Ser Leu Ala Ser Ile Ile Ala Phe Val Ala Ala Gly Cys Gly 
+            20                  25                  30
+Gln Thr Glu Ser Gly Ser Thr Ser Asp Ser Lys Pro Gln Ala Glu Thr 
+        35                  40                  45
+Leu Lys His Lys Val Ser Asn Asp Ser Ile Arg Ile Ala Leu Thr Asp 
+    50                  55                  60  
+Pro Asp Asn Pro Arg Trp Ile Ser Ala Gln Lys Asp Ile Ile Ser Tyr 
+65                  70                  75                  80
+Val Asp Glu Thr Glu Ala Ala Thr Ser Thr Ile Thr Lys Asn Gln Asp 
+                85                  90                  95
+Ala Gln Asn Asn Trp Leu Thr Gln Gln Ala Asn Leu Ser Pro Ala Pro 
+            100                 105                 110 
+Lys Gly Phe Ile Ile Ala Pro Glu Asn Gly Ser Gly Val Gly Thr Ala 
+        115                 120                 125 
+Val Asn Thr Ile Ala Asp Lys Gly Ile Pro Ile Val Ala Tyr Asp Arg 
+    130                 135                 140 
+Leu Ile Thr Gly Ser Asp Lys Tyr Asp Trp Tyr Val Ser Phe Asp Asn 
+145                 150                 155                 160 
+Glu Lys Val Gly Glu Leu Gln Gly Leu Ser Leu Ala Ala Gly Leu Leu 
+                165                 170                 175 
+Gly Lys Glu Asp Gly Ala Phe Asp Ser Ile Asp Gln Met Asn Glu Tyr 
+            180                 185                 190 
+Leu Lys Ser His Met Pro Gln Glu Thr Ile Ser Phe Tyr Thr Ile Ala 
+        195                 200                 205 
+Gly Ser Gln Asp Asp Asn Asn Ser Gln Tyr Phe Tyr Asn Gly Ala Met 
+    210                 215                 220 
+Lys Val Leu Lys Glu Leu Met Lys Asn Ser Gln Asn Lys Ile Ile Asp 
+225                 230                 235                 240 
+Leu Ser Pro Glu Gly Glu Asn Ala Val Tyr Val Pro Gly Trp Asn Tyr 
+                245                 250                 255 
+Gly Thr Ala Gly Gln Arg Ile Gln Ser Phe Leu Thr Ile Asn Lys Asp 
+            260                 265                 270 
+Pro Ala Gly Gly Asn Lys Ile Lys Ala Val Gly Ser Lys Pro Ala Ser 
+        275                 280                 285 
+Ile Phe Lys Gly Phe Leu Ala Pro Asn Asp Gly Met Ala Glu Gln Ala 
+    290                 295                 300 
+Ile Thr Lys Leu Lys Leu Glu Gly Phe Asp Thr Gln Lys Ile Phe Val 
+305                 310                 315                 320 
+Thr Gly Gln Asp Tyr Asn Asp Lys Ala Lys Thr Phe Ile Lys Asp Gly 
+                325                 330                 335 
+Asp Gln Asn Met Thr Ile Tyr Lys Pro Asp Lys Val Leu Gly Lys Val 
+            340                 345                 350 
+Ala Val Glu Val Leu Arg Val Leu Ile Ala Lys Lys Asn Lys Ala Ser 
+        355                 360                 365 
+Arg Ser Glu Val Glu Asn Glu Leu Lys Ala Lys Leu Pro Asn Ile Ser   
+    370                 375                 380 
+Phe Lys Tyr Asp Asn Gln Thr Tyr Lys Val Gln Gly Lys Asn Ile Asn 
+385                 390                 395                 400 
+Thr Ile Leu Val Ser Pro Val Ile Val Thr Lys Ala Asn Val Asp Asn 
+                405                 410                 415 
+Pro Asp Ala</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0002">
+      <business:ClaimText>【請求項2】  下記の式(II)で表されるDNA配列を有する請求項(1) 記載のDNA。
+ATGAAAAAAA TGCTTAGAAA AAAATTCTTG TATTCATCAG CTATTTATGC AACTTCGCTT    60 
+GCATCAATTA TTGCATTTGT TGCAGCAGGT TGTGGACAGA CAGAATCAGG TTCGACTTCA   120 
+GATTCTAAAC CACAAGCCGA GACTCTAAAA CATAAAGTAA GTAATGATTC TATTCGAATA   180 
+GCACTAACCG ATCCGGATAA TCCTCGATGA ATTAGTGCCC AAAAAGATAT TATTTCTTAT   240 
+GTTGATGAAA CAGAGGCAGC AACTTCAACA ATTACAAAAA ACCAGGATGC ACAAAATAAC   300 
+TGACTCACTC AGCAAGCTAA TTTAAGTCCA GCGCCAAAAG GATTTATTAT TGCCCCTGAA   360 
+AATGGAAGTG GAGTTGGAAC TGCTGTTAAT ACAATTGCTG ATAAAGGAAT TCCGATTGTT   420 
+GCCTATGATC GACTAATTAC TGGATCTGAT AAATATGATT GGTATGTTTC TTTTGATAAT   480 
+GAAAAAGTTG GCGAATTACA AGGTCTTTCA CTTGCGGCGG GTCTATTAGG AAAAGAAGAT   540 
+GGTGCTTTTG ATTCAATTGA TCAAATGAAT GAATATCTAA AATCACATAT GCCCCAAGAG   600 
+ACAATTTCTT TTTATACAAT CGCGGGTTCC CAAGATGATA ATAATTCCCA ATATTTTTAT   660 
+AATGGTGCAA TGAAAGTACT TAAAGAATTA ATGAAAAATT CGCAAAATAA AATAATTGAT   720 
+TTATCTCCTG AAGGCGAAAA TGCTGTTTAT GTCCCAGGAT GAAATTATGG AACTGCCGGT   780 
+CAAAGAATCC AATCTTTTCT AACAATTAAC AAAGATCCAG CAGGTGGTAA TAAAATCAAA   840 
+GCTGTTGGTT CAAAACCAGC TTCTATTTTC AAAGGATTTC TTGCCCCAAA TGATGGAATG   900 
+GCCGAACAAG CAATCACCAA ATTAAAACTT GAAGGATTTG ATACCCAAAA AATCTTTGTA   960 
+ACTGGTCAAG ATTATAATGA TAAAGCCAAA ACTTTTATCA AAGACGGCGA TCAAAATATG  1020 
+ACAATTTATA AACCTGATAA AGTTTTAGGA AAAGTTGCTG TTGAAGTTCT TCGGGTTTTA  1080 
+ATTGCAAAGA AAAATAAAGC ATCTAGATCA GAAGTCGAAA ACGAACTAAA AGCAAAACTA  1140 
+CCAAATATTT CATTTAAATA TGATAATCAA ACATATAAAG TGCAAGGTAA AAATATTAAT  1200 
+ACAATTTTAG TAAGTCCAGT AATTGTTACA AAAGCTAATG TTGATAATCC TGATGCCTAA  1260</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0003">
+      <business:ClaimText>【請求項3】  請求項(1) 又は(2) 記載のDNA配列からなるDNAプローブを用いて、DNAハイブリダイゼーション法によりマイコプラズマ・ハイオニュウモニエを検出することを特徴とする豚流行性肺炎の診断法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0004">
+      <business:ClaimText>【請求項4】  請求項(2)記載のDNA配列の1~414番目の配列の10~30のヌクレオチドを含むDNAプローブを用いて、DNAハイブリダイゼーション法によりマイコプラズマ・ハイオニュウモニエを検出することを特徴とする豚流行性肺炎の診断法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0005">
+      <business:ClaimText>【請求項5】  請求項(2)記載のDNA配列の1~414番目の配列の10~30のヌクレオチドを含むDNA配列及びその相補鎖DNA配列からなる群から選ばれるプライマー用DNA断片。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0006">
+      <business:ClaimText>【請求項6】  請求項(2)記載のDNA配列の415~1260番目の配列の10~30のヌクレオチドを含むDNA配列及びその相補鎖DNA配列からなる群から選ばれるプライマー用DNA断片。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0007">
+      <business:ClaimText>【請求項7】  請求項(5) 及び(6) 記載のプライマー用DNA断片から選ばれた2種のプライマーを被験液に加え、PCR法により標的DNAを増幅し、増幅されたDNA断片を検出することを特徴とする豚流行性肺炎原因菌マイコプラズマ・ハイオニュウモニエの検出方法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0008">
+      <business:ClaimText>【請求項8】  DNA断片の検出を、請求項(2)記載のDNA配列のすべて又はその10~30のヌクレオチドを含むDNAプローブを用いて、DNAハイブリダイゼーション法により行う、請求項(7)記載の豚流行性肺炎原因菌マイコプラズマ・ハイオニュウモニエの検出方法。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0009">
+      <business:ClaimText>【請求項9】  請求項(1)の式(I)で表されるアミノ酸配列を有する組換え表面抗原ペプチド。</business:ClaimText>
+    </business:Claim>
+    <business:Claim num="0010">
+      <business:ClaimText>【請求項10】  請求項(9) 記載の組換え抗原ペプチドに、試料中に存在する豚流行性肺炎原因菌マイコプラズマ・ハイオニュウモニエに対する抗体と前記抗原ペプチドが抗原抗体反応するような条件下で試料を接触させ、抗原抗体反応生成物を測定して試料中の前記抗体の存在を確認することを特徴とする豚流行性肺炎の診断法。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+  <business:SequenceListDoc>
+    <business:SequenceList file="0">
+      <base:Paragraphs>【配列表】
+配列番号:1
+配列の長さ:403
+配列の型:アミノ酸
+トポロジー:直鎖状
+配列の種類:ペプチド
+配列
+Met Lys Lys Met Leu Arg Lys Lys Phe Leu Tyr Ser Ser Ala Ile Tyr 
+                5                   10                  15
+Ala Thr Ser Leu Ala Ser Ile Ile Ala Phe Val Ala Ala Gly Cys Gly 
+            20                  25                  30
+Gln Thr Glu Ser Gly Ser Thr Ser Asp Ser Lys Pro Gln Ala Glu Thr 
+        35                  40                  45
+Leu Lys His Lys Val Ser Asn Asp Ser Ile Arg Ile Ala Leu Thr Asp 
+    50                  55                  60  
+Pro Asp Asn Pro Arg Trp Ile Ser Ala Gln Lys Asp Ile Ile Ser Tyr 
+65                  70                  75                  80
+Val Asp Glu Thr Glu Ala Ala Thr Ser Thr Ile Thr Lys Asn Gln Asp 
+                85                  90                  95
+Ala Gln Asn Asn Trp Leu Thr Gln Gln Ala Asn Leu Ser Pro Ala Pro 
+            100                 105                 110 
+Lys Gly Phe Ile Ile Ala Pro Glu Asn Gly Ser Gly Val Gly Thr Ala 
+        115                 120                 125 
+Val Asn Thr Ile Ala Asp Lys Gly Ile Pro Ile Val Ala Tyr Asp Arg 
+    130                 135                 140 
+Leu Ile Thr Gly Ser Asp Lys Tyr Asp Trp Tyr Val Ser Phe Asp Asn 
+145                 150                 155                 160 
+Glu Lys Val Gly Glu Leu Gln Gly Leu Ser Leu Ala Ala Gly Leu Leu 
+                165                 170                 175 
+Gly Lys Glu Asp Gly Ala Phe Asp Ser Ile Asp Gln Met Asn Glu Tyr 
+            180                 185                 190 
+Leu Lys Ser His Met Pro Gln Glu Thr Ile Ser Phe Tyr Thr Ile Ala 
+        195                 200                 205 
+Gly Ser Gln Asp Asp Asn Asn Ser Gln Tyr Phe Tyr Asn Gly Ala Met 
+    210                 215                 220 
+Lys Val Leu Lys Glu Leu Met Lys Asn Ser Gln Asn Lys Ile Ile Asp 
+225                 230                 235                 240 
+Leu Ser Pro Glu Gly Glu Asn Ala Val Tyr Val Pro Gly Trp Asn Tyr 
+                245                 250                 255 
+Gly Thr Ala Gly Gln Arg Ile Gln Ser Phe Leu Thr Ile Asn Lys Asp 
+            260                 265                 270 
+Pro Ala Gly Gly Asn Lys Ile Lys Ala Val Gly Ser Lys Pro Ala Ser 
+        275                 280                 285 
+Ile Phe Lys Gly Phe Leu Ala Pro Asn Asp Gly Met Ala Glu Gln Ala 
+    290                 295                 300 
+Ile Thr Lys Leu Lys Leu Glu Gly Phe Asp Thr Gln Lys Ile Phe Val 
+305                 310                 315                 320 
+Thr Gly Gln Asp Tyr Asn Asp Lys Ala Lys Thr Phe Ile Lys Asp Gly 
+                325                 330                 335 
+Asp Gln Asn Met Thr Ile Tyr Lys Pro Asp Lys Val Leu Gly Lys Val 
+            340                 345                 350 
+Ala Val Glu Val Leu Arg Val Leu Ile Ala Lys Lys Asn Lys Ala Ser 
+        355                 360                 365 
+Arg Ser Glu Val Glu Asn Glu Leu Lys Ala Lys Leu Pro Asn Ile Ser   
+    370                 375                 380 
+Phe Lys Tyr Asp Asn Gln Thr Tyr Lys Val Gln Gly Lys Asn Ile Asn 
+385                 390                 395                 400 
+Thr Ile Leu Val Ser Pro Val Ile Val Thr Lys Ala Asn Val Asp Asn 
+                405                 410                 415 
+Pro Asp Ala 
+【0079】配列番号:2
+配列の長さ:1260
+配列の型:核酸
+鎖の数:二本鎖
+トポロジー:直鎖状
+配列の種類:Genomic DNA
+起源
+生物名:マイコプラズマ・ハイオニュウモニエ(Mycoplasma hyopneumoniae)
+株名:J
+配列
+ATGAAAAAAA TGCTTAGAAA AAAATTCTTG TATTCATCAG CTATTTATGC AACTTCGCTT    60 
+GCATCAATTA TTGCATTTGT TGCAGCAGGT TGTGGACAGA CAGAATCAGG TTCGACTTCA   120 
+GATTCTAAAC CACAAGCCGA GACTCTAAAA CATAAAGTAA GTAATGATTC TATTCGAATA   180 
+GCACTAACCG ATCCGGATAA TCCTCGATGA ATTAGTGCCC AAAAAGATAT TATTTCTTAT   240 
+GTTGATGAAA CAGAGGCAGC AACTTCAACA ATTACAAAAA ACCAGGATGC ACAAAATAAC   300 
+TGACTCACTC AGCAAGCTAA TTTAAGTCCA GCGCCAAAAG GATTTATTAT TGCCCCTGAA   360 
+AATGGAAGTG GAGTTGGAAC TGCTGTTAAT ACAATTGCTG ATAAAGGAAT TCCGATTGTT   420 
+GCCTATGATC GACTAATTAC TGGATCTGAT AAATATGATT GGTATGTTTC TTTTGATAAT   480 
+GAAAAAGTTG GCGAATTACA AGGTCTTTCA CTTGCGGCGG GTCTATTAGG AAAAGAAGAT   540 
+GGTGCTTTTG ATTCAATTGA TCAAATGAAT GAATATCTAA AATCACATAT GCCCCAAGAG   600 
+ACAATTTCTT TTTATACAAT CGCGGGTTCC CAAGATGATA ATAATTCCCA ATATTTTTAT   660 
+AATGGTGCAA TGAAAGTACT TAAAGAATTA ATGAAAAATT CGCAAAATAA AATAATTGAT   720 
+TTATCTCCTG AAGGCGAAAA TGCTGTTTAT GTCCCAGGAT GAAATTATGG AACTGCCGGT   780 
+CAAAGAATCC AATCTTTTCT AACAATTAAC AAAGATCCAG CAGGTGGTAA TAAAATCAAA   840 
+GCTGTTGGTT CAAAACCAGC TTCTATTTTC AAAGGATTTC TTGCCCCAAA TGATGGAATG   900 
+GCCGAACAAG CAATCACCAA ATTAAAACTT GAAGGATTTG ATACCCAAAA AATCTTTGTA   960 
+ACTGGTCAAG ATTATAATGA TAAAGCCAAA ACTTTTATCA AAGACGGCGA TCAAAATATG  1020 
+ACAATTTATA AACCTGATAA AGTTTTAGGA AAAGTTGCTG TTGAAGTTCT TCGGGTTTTA  1080 
+ATTGCAAAGA AAAATAAAGC ATCTAGATCA GAAGTCGAAA ACGAACTAAA AGCAAAACTA  1140 
+CCAAATATTT CATTTAAATA TGATAATCAA ACATATAAAG TGCAAGGTAA AAATATTAAT  1200 
+ACAATTTTAG TAAGTCCAGT AATTGTTACA AAAGCTAATG TTGATAATCC TGATGCCTAA  1260 
+配列番号:3
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+ATGAAAAAAA TGCTTAGAAA AAAAT                                          25 
+【0080】配列番号:4
+配列の長さ:27
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GACAGACAGA ATCAGGTTCG ACTTCAG                                        27 
+【0081】配列番号:5
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TTGCCCCTGA AAATGGAAGT GGAGT                                          25 
+【0082】配列番号:6
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+AACAAATGCA ATAATTGATG CAAGC                                          25 
+【0083】配列番号:7
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+CTTTATGTTT TAGAGTCTCG GCTTG                                          25 
+【0084】配列番号:8
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+CGGAATTCCT TTATCAGCAA TTGTA                                          25 
+【0085】配列番号:9
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TGTTGCCTAT GATCGACTAA TTACT                                          25 
+【0086】配列番号:10
+配列の長さ:25
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+ACAATTACTG GACTTACTAA AATTG                                          25 
+【0087】配列番号:11
+配列の長さ:27
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TTAGGCATCA GGATTATCAA CATTAGC                                        27 
+【0088】配列番号:12
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGGCACTAAT CCATCGAGGA T                                              21 
+【0089】配列番号:13
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GCTGAGTGAG CCAGTTATTT T                                              21 
+【0090】配列番号:14
+配列の長さ:21
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+TTCCATAATT CCATCCTGGG A                                              21 
+【0091】配列番号:15
+配列の長さ:39
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAAGCCCGG GATGAAAAAA ATGCTTAGAA AAAAATTCT                           39 
+【0092】配列番号:16
+配列の長さ:37
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAAGTCGAC TAACTTTTAG AAATTTTAGG CATCAGG                             37 
+【0093】配列番号:17
+配列の長さ:37
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAACCCGGG TTGTATAATT GAATTAACTT GATTTGA                             37 
+【0094】配列番号:18
+配列の長さ:37
+配列の型:核酸
+鎖の数:一本鎖
+トポロジー:直鎖状
+配列の種類:他の核酸(PCR用合成DNA)
+配列
+GGAACCCGGG TAACTTTTAG AAATTTTAGG CATCAGG                             37</base:Paragraphs>
+    </business:SequenceList>
+  </business:SequenceListDoc>
+</business:PatentDocumentAndRelated>
