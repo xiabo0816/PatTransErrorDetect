@@ -1,5 +1,7 @@
 
-该项目不再维护，最新项目的地址[在这里](https://gitee.com/xiabo0816/pat-trans-error-detect)
+该项目不再维护。
+
+最新项目的地址[在这里](https://gitee.com/xiabo0816/pat-trans-error-detect)
 
 # 专利机翻检测工具
 
